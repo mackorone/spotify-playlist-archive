@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,312 songs - 19 day 0 hr 11 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,313 songs - 19 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4058,8 +4058,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4048 | [君の唄](https://open.spotify.com/track/39aNGGEDoh1CCPWCM49Tp0) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 5:43 |
 | 4049 | [不可逆リプレイス](https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 3:51 |
 | 4050 | [REVIVER](https://open.spotify.com/track/5XhwjFeptj9D52SW4tKN8u) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [THE PREMIUM SYMPHONY](https://open.spotify.com/album/02Wg12Fh9Z4QKVIzSQFdlO) | 5:27 |
-| 4051 | [アンダーグラウンド](https://open.spotify.com/track/7J5rQ68rXTv7zD1pM5baio) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 4:29 |
-| 4052 | [あいことば](https://open.spotify.com/track/1PmOyrbXWh03R4idV6ei62) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 5:49 |
+| 4051 | [アンダーグラウンド \- Underground](https://open.spotify.com/track/7J5rQ68rXTv7zD1pM5baio) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 4:29 |
+| 4052 | [あいことば \- Secret Word](https://open.spotify.com/track/1PmOyrbXWh03R4idV6ei62) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 5:49 |
 | 4053 | [恋人ができたんだ](https://open.spotify.com/track/0xFj47kde9HCKdivI4qIh7) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [woman’s](https://open.spotify.com/album/0Oju4XPjqPMn1Md8DmMMuh) | 5:03 |
 | 4054 | [Let Me Go](https://open.spotify.com/track/2tTyOqKFskYSQHxBGXNdhe) | [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [A Man Born Black](https://open.spotify.com/album/4ZuzPJ4oWqQ5lmXVp1Q4W1) | 3:45 |
 | 4055 | [Leak](https://open.spotify.com/track/1c8PjFzb4RWfAXgupKgbba) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [Leak](https://open.spotify.com/album/0Y4eRphwFM8HKhh1FBAQXU) | 4:22 |
@@ -7320,5 +7320,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7310 | [내가 만일](https://open.spotify.com/track/5CO3WE0VBWr4PMLaWJHmWl) | [안치환](https://open.spotify.com/artist/5XR6Ek5kEhbccI0LDxFcoR) | [안치환4집](https://open.spotify.com/album/0cPXhyYrxNzhhsVd5uLnFa) | 3:51 |
 | 7311 | [How Far I'll Go \- From "Moana"/Soundtrack Version](https://open.spotify.com/track/62wcjED7Q0eZLLtyp2Rlwt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 2:43 |
 | 7312 | [Monsters, Inc.](https://open.spotify.com/track/5e0O7MjhNHq9G67qDFM8nR) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 2:06 |
+| 7313 | [Cupid \(Twin Ver.\) \- Live Studio Version OT4](https://open.spotify.com/track/4gXHG9domIKO6FIViDISA4) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C) | 2:54 |
 
-Snapshot ID: `AAAHINB44FHafnFxMyWVXeK2nTtF2ig9`
+Snapshot ID: `AAAHIZb2CPZDknLHzZFMNcIOgPRIQee3`

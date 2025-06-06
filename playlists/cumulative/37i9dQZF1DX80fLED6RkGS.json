@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Joefes",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: TheLuchi",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 166922,
       "name": "BUBBLY BUBBLY (na niki)",
       "url": "https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8"
@@ -3229,6 +3229,36 @@
     },
     {
       "album": {
+        "name": "Hupangi Kuolewa",
+        "url": "https://open.spotify.com/album/6Nn95pwtGw0wPFBofENFqa"
+      },
+      "artists": [
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/7atQFhtOOcREWXTDLP5mxi"
+        },
+        {
+          "name": "Mluo",
+          "url": "https://open.spotify.com/artist/43WVp1Esjal1pMeRzHlAph"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240285,
+      "name": "Hupangi Kuolewa",
+      "url": "https://open.spotify.com/track/2Dwpf1M0cmBKIoaEsn5tvb"
+    },
+    {
+      "album": {
         "name": "Huu Mwaka (Remix)",
         "url": "https://open.spotify.com/album/5cvMM06C3yFZjdI4BJtuwe"
       },
@@ -3834,7 +3864,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 294568,
       "name": "Kaveve Kazoze (Remix)",
       "url": "https://open.spotify.com/track/4gh5zJb9IrOTtAWcmaJs4b"
@@ -9012,6 +9042,36 @@
       "duration_ms": 168639,
       "name": "TIGONI",
       "url": "https://open.spotify.com/track/5Yi5WfvGGaF6JhbVUmHujd"
+    },
+    {
+      "album": {
+        "name": "Tikitaka",
+        "url": "https://open.spotify.com/album/5hd9tMCCxjdgupD7CPb4FA"
+      },
+      "artists": [
+        {
+          "name": "TheLuchi",
+          "url": "https://open.spotify.com/artist/7As9lFEIoGFHpYL40hVHtC"
+        },
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "M\u016br\u016bthi Myna",
+          "url": "https://open.spotify.com/artist/5jt6H2HgERHEEUCxEVasPi"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191714,
+      "name": "Tikitaka",
+      "url": "https://open.spotify.com/track/4Npdpx3cMWZZYbOjQqvdsa"
     },
     {
       "album": {

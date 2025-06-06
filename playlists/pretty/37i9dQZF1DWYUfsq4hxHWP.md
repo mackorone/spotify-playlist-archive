@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: Emily Ann Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,124 likes - 200 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,186 likes - 200 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 199 | [Alone](https://open.spotify.com/track/2lt2LWVg8tGhZW4YhpSoU6) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Alone](https://open.spotify.com/album/37c0MMC5eteMShfternXx2) | 3:19 |
 | 200 | [Run](https://open.spotify.com/track/2OklPj4LFgnbEnF33eyml2) | [HALIE](https://open.spotify.com/artist/1u1Iv4ZAFm0Hm2fpII41s4) | [Run](https://open.spotify.com/album/3wQJGylABT5aao8yrbwgsT) | 3:18 |
 
-Snapshot ID: `aD/EzgAAAABJ6V06ToDu/dGo1c4GSYtU`
+Snapshot ID: `AAAAAEK6ihNrWM54T8l1eD7ZCgjNThNp`

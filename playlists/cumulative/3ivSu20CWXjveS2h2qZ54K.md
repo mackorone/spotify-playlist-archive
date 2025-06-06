@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,231 songs - 9 day 18 hr 18 min
+4,232 songs - 9 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3319,6 +3319,7 @@
 | [Situation](https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Situation](https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny) | 2:52 | 2024-08-30 | 2024-09-07 |
 | [Sixes](https://open.spotify.com/track/0zCNMf5gUmUoEt1GxS6fN8) | [Tunng](https://open.spotify.com/artist/6k8oBFzievbIn6XJK0pDpa) | [Love You All Over Again](https://open.spotify.com/album/6g6TBc6NDOiKYbxefeJdql) | 2:44 | 2025-01-24 | 2025-02-01 |
 | [Sixth Cents \(Get It?\)](https://open.spotify.com/track/14eFbfwmjLkRyJU72XIQWB) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Sixth Cents \(Get It?\) / secondgradefoofight](https://open.spotify.com/album/7fFEG0YG4IYu3x5PacOX3I) | 2:15 | 2024-09-18 | 2024-09-28 |
+| [Skin \- The Collaboration Remix Edit](https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Skin \(The Collaboration Remix Edit\)](https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq) | 5:18 | 2025-06-06 |  |
 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-06 | 2025-03-15 |
 | [Sleep All Day](https://open.spotify.com/track/0afsdiUEMDYdrSK5v77hvQ) | [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Sleep All Day](https://open.spotify.com/album/4x1nlGfzHYpdTsKWuHESYC) | 5:17 | 2024-08-20 | 2024-08-31 |
 | [Sleeping In](https://open.spotify.com/track/5t9JiHbOldV8xiFfXERd5J) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [POWER](https://open.spotify.com/album/5YMMVf8CozIqS0IDOoqTAD) | 3:18 | 2024-08-23 | 2024-08-31 |

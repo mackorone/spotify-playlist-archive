@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Tarang Joseph
 
-336 songs - 19 hr 22 min
+337 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 | 2023-09-15 | 2024-11-23 |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-24 | 2024-06-22 |
 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 | 2023-05-24 | 2024-08-23 |
+| [Tell Me](https://open.spotify.com/track/2EnHh32MjXPJG2neFnSIZr) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Tell Me](https://open.spotify.com/album/0nKVNPf8IFPSId6o2H7Pvw) | 3:20 | 2025-06-05 |  |
 | [tell me it ain't](https://open.spotify.com/track/04NiWHL3IRkNfKHfpFBdh6) | [Elttwo](https://open.spotify.com/artist/5JXwR7SVpsf4ZLWMKO8rRq) | [tell me it ain't](https://open.spotify.com/album/6iqEAgS9F4FP4aUVhWzhY1) | 2:24 | 2023-01-31 | 2023-04-17 |
 | [Tesla](https://open.spotify.com/track/3wUne0H6z9p8PdkXZqOKRs) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Siblings](https://open.spotify.com/album/4s8ALi238WwLW0zphoLeF6) | 3:56 | 2023-05-24 | 2023-06-24 |
 | [That Guy](https://open.spotify.com/track/2RC78RMiwvHtZV2OP8CK2h) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [That Guy](https://open.spotify.com/album/2mIp846Cag0BsUsUVQEH1N) | 3:54 | 2022-10-20 | 2023-03-05 |

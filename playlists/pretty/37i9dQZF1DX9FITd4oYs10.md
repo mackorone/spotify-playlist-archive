@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,110 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,115 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 42 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
 | 43 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
 | 44 | [Vem Tranquilo](https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Santzu](https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Mixtape: O Homem Não para Nunca, Vol\. 1](https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF) | 4:54 |
-| 45 | [Nipsey do Azul](https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [DJ Decco](https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0) | [Êxito](https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf) | 3:24 |
-| 46 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
+| 45 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
+| 46 | [Nipsey do Azul](https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [DJ Decco](https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0) | [Êxito](https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf) | 3:24 |
 | 47 | [Malvadão](https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão](https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq) | 2:29 |
 | 48 | [Estilo Vagabundo](https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila](https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj) | [Falcão \- O Bagulho É Doido](https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc) | 5:00 |
 | 49 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 |

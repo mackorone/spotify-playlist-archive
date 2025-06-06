@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Naza x SDM",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: SEYSEY x BOLEMVN",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -2452,6 +2452,24 @@
       "duration_ms": 203773,
       "name": "C'EST FAUX",
       "url": "https://open.spotify.com/track/5CAwH02CuQV9lYCwFEqn2v"
+    },
+    {
+      "album": {
+        "name": "C'est incroyable",
+        "url": "https://open.spotify.com/album/2Szye4IrWrvlQXDfdKy4Xh"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143602,
+      "name": "C'est incroyable",
+      "url": "https://open.spotify.com/track/4DWzd96wVSDnV0OShkB7Y6"
     },
     {
       "album": {
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 190588,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf"

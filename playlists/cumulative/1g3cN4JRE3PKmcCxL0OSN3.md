@@ -4,7 +4,7 @@
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-1,478 songs - 3 day 15 hr 6 min
+1,480 songs - 3 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 | 2024-09-16 |  |
 | [LOOOVE \(feat\. Kid Cudi\)](https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:46 | 2024-09-16 |  |
 | [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 | 2024-09-24 |  |
+| [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 | 2025-06-05 |  |
 | [Losing Grip](https://open.spotify.com/track/2LA4v20vokK9Uaj7WEEMaf) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:53 | 2024-09-16 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2024-09-16 |  |
 | [Lost All My Feelings](https://open.spotify.com/track/5dqfwupDEoz7s8m4TWaAJC) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Saaheem](https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA) | 2:44 | 2024-12-14 |  |
@@ -975,6 +976,7 @@
 | [Pills](https://open.spotify.com/track/6jcKQzA6fxIrof4AlrojG1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:40 | 2024-09-16 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-09-16 |  |
 | [PINK BLOOD](https://open.spotify.com/track/2EK2DrH59MHythSLcW3Akp) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 3:17 | 2024-09-16 |  |
+| [Pixel Affection](https://open.spotify.com/track/2c5bFJ82YxgGprGjOq1OaO) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 3:39 | 2025-06-05 |  |
 | [Plastic](https://open.spotify.com/track/72e4QBiBV0PoqAv0quWp7C) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:29 | 2024-09-16 |  |
 | [Play This At My Funeral \(feat\. Landon Cube\)](https://open.spotify.com/track/2e1xZxNKzdjJLQAeA5polc) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Play This At My Funeral \(feat\. Landon Cube\)](https://open.spotify.com/album/2fvPA8zj05ET9D2ktexZYm) | 3:06 | 2024-09-24 |  |
 | [Play This At My Funeral \(feat\. Landon Cube\)](https://open.spotify.com/track/6iKwtznICou14DzcTcXB2w) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Play This At My Funeral \(feat\. Landon Cube\)](https://open.spotify.com/album/2Nzf9d8bYm8lnfHv0PEFbh) | 3:06 | 2024-09-16 |  |

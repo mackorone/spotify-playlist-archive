@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover:  <a href=\"https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq?si=f2UGVE4uQ8mmaC41VIvvSA\">We Dem Boyz</a>, <a href=\"https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv?si=Vsa5BPnMSFiRl7RAdboUhQ\">Dee Traits</a>, <a href=\"https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn?si=RWY-7lImTBy0nSEpB95DMw\">ZVRI</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=XBKe9CxIR_-DOdXmVyb3oA\">Sykes</a>, <a href=\"https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=D-ekzJ3LQ8KeHkPAnW7nlw\">DJ Lag</a>, <a href=\"https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY?si=Mc91edoLS2eugpsN3sphHA\">Sir Trill</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 266100,
       "name": "After Tears",
       "url": "https://open.spotify.com/track/5atAZJ6reqedkzZ91CMk8f"
+    },
+    {
+      "album": {
+        "name": "AI",
+        "url": "https://open.spotify.com/album/4FeLv4DmIdYBnzym7kOlh2"
+      },
+      "artists": [
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341617,
+      "name": "AI",
+      "url": "https://open.spotify.com/track/5PXadPu4oBrqdcg2pFMGaC"
     },
     {
       "album": {
@@ -1893,6 +1911,32 @@
     },
     {
       "album": {
+        "name": "Everything I Am",
+        "url": "https://open.spotify.com/album/4s4T4nzJorwvEX7DAs1K0I"
+      },
+      "artists": [
+        {
+          "name": "Snyper_dj",
+          "url": "https://open.spotify.com/artist/2rwhS6btncQBVLE1gZB7vl"
+        },
+        {
+          "name": "Bongzin",
+          "url": "https://open.spotify.com/artist/4DFANkr9PJf1K9D0KYDkIr"
+        },
+        {
+          "name": "Msanii Yawayinda",
+          "url": "https://open.spotify.com/artist/59WGUvMW7Hki8Yw2e5FsyD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316614,
+      "name": "Easy Easy",
+      "url": "https://open.spotify.com/track/15nmruwePOCM2EOVYbm7Sc"
+    },
+    {
+      "album": {
         "name": "Beast Mode EP",
         "url": "https://open.spotify.com/album/3FhSGQv2CT1ki1IiqMjPx4"
       },
@@ -3293,6 +3337,36 @@
     },
     {
       "album": {
+        "name": "Intekhulumayo",
+        "url": "https://open.spotify.com/album/4mqM8rc4FXxgHM5Yahy52Q"
+      },
+      "artists": [
+        {
+          "name": "K.C Driller",
+          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
+        },
+        {
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+        },
+        {
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+        },
+        {
+          "name": "Cuba Beats",
+          "url": "https://open.spotify.com/artist/2GyTwPnCWi2COPYXy6ZA5D"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374947,
+      "name": "Intekhulumayo",
+      "url": "https://open.spotify.com/track/58FRZmbYNo7hFMxrCgEZEl"
+    },
+    {
+      "album": {
         "name": "Into Ongayazi",
         "url": "https://open.spotify.com/album/1WvN8bvBpkNhXbt65NtWFS"
       },
@@ -3990,6 +4064,24 @@
       "duration_ms": 223152,
       "name": "JAPAN TOE",
       "url": "https://open.spotify.com/track/6jEMCRYXs6s6EPu776TbIW"
+    },
+    {
+      "album": {
+        "name": "Just Heal",
+        "url": "https://open.spotify.com/album/0uknOdcdbuv9kHbJbDJQBA"
+      },
+      "artists": [
+        {
+          "name": "DJ LOOPZz",
+          "url": "https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435826,
+      "name": "Just Heal",
+      "url": "https://open.spotify.com/track/3U498LtdDBrf100ypKf6N3"
     },
     {
       "album": {
@@ -5327,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "Ngishutheni (Gqom Remix)",
+        "url": "https://open.spotify.com/album/6pyK1TahutuUJP78Rgwtul"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250932,
+      "name": "Ngishutheni - Gqom Remix",
+      "url": "https://open.spotify.com/track/6QX7dDnyaL1eloEwRk4RDJ"
+    },
+    {
+      "album": {
         "name": "Ngyamthand Udali",
         "url": "https://open.spotify.com/album/7xfIAhKNkIdcIVtkzGDrlm"
       },
@@ -6414,6 +6524,28 @@
       "duration_ms": 276190,
       "name": "Scelu Moya",
       "url": "https://open.spotify.com/track/42iJ4REVNRcR9OtgwYSgVh"
+    },
+    {
+      "album": {
+        "name": "Everything I Am",
+        "url": "https://open.spotify.com/album/4s4T4nzJorwvEX7DAs1K0I"
+      },
+      "artists": [
+        {
+          "name": "Snyper_dj",
+          "url": "https://open.spotify.com/artist/2rwhS6btncQBVLE1gZB7vl"
+        },
+        {
+          "name": "K-Dot Woza",
+          "url": "https://open.spotify.com/artist/72MlGv3e3wDOP55bFk76xR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283684,
+      "name": "Season 1",
+      "url": "https://open.spotify.com/track/7cJYAYnKurSHS9yzDevzHs"
     },
     {
       "album": {
@@ -7859,6 +7991,28 @@
     },
     {
       "album": {
+        "name": "Umkhosi",
+        "url": "https://open.spotify.com/album/0Dyh7E5Uebx4xQNAryBgAZ"
+      },
+      "artists": [
+        {
+          "name": "MELO-T",
+          "url": "https://open.spotify.com/artist/01FyVQ33X6fGz8W7ttHaDL"
+        },
+        {
+          "name": "Afro Creative DJs",
+          "url": "https://open.spotify.com/artist/33NUX5sNxsIQsvaRh6zxFK"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392145,
+      "name": "Umkhosi",
+      "url": "https://open.spotify.com/track/0sKXczOHqbvgFhyOu4OTZV"
+    },
+    {
+      "album": {
         "name": "We Are S.A.M, Vol. 4",
         "url": "https://open.spotify.com/album/0hSdddIjaUiKdj1whq1vIa"
       },
@@ -8725,6 +8879,32 @@
     },
     {
       "album": {
+        "name": "Woza",
+        "url": "https://open.spotify.com/album/2ucAxPMcJZikF4AIJnHR1Q"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368644,
+      "name": "Woza",
+      "url": "https://open.spotify.com/track/4PLZXDgTeNvfZ7p7Sw76Nj"
+    },
+    {
+      "album": {
         "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
         "url": "https://open.spotify.com/album/29UuT78DwwWJz315Z6fZbJ"
       },
@@ -8792,6 +8972,24 @@
       "duration_ms": 300932,
       "name": "Wrong Turn",
       "url": "https://open.spotify.com/track/76dLdg8Bl49cngFYKmKb75"
+    },
+    {
+      "album": {
+        "name": "Everything I Am",
+        "url": "https://open.spotify.com/album/4s4T4nzJorwvEX7DAs1K0I"
+      },
+      "artists": [
+        {
+          "name": "Snyper_dj",
+          "url": "https://open.spotify.com/artist/2rwhS6btncQBVLE1gZB7vl"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259189,
+      "name": "Yamazaki",
+      "url": "https://open.spotify.com/track/47gHr6fCmtzHY0IpUvKo0E"
     },
     {
       "album": {

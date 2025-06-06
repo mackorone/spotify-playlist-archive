@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 489019,
+  "num_followers": 489064,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAC03uKgmquYt+OiAdf+FLF3",
+  "snapshot_id": "aD+MgAAAAABX7NL3QMKYzIP6KpuTC0cy",
   "tracks": [
     {
       "added_at": null,
@@ -326,11 +326,15 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 151011,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec"
+      "duration_ms": 170669,
+      "name": "Backseat (feat. PnB Rock)",
+      "url": "https://open.spotify.com/track/0fj9oGrCKxVA4sXDxvbfiM"
     },
     {
       "added_at": null,
@@ -406,15 +410,11 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 170669,
-      "name": "Backseat (feat. PnB Rock)",
-      "url": "https://open.spotify.com/track/0fj9oGrCKxVA4sXDxvbfiM"
+      "duration_ms": 151011,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/5xKXcU8tpSYz7C7wrMMYec"
     },
     {
       "added_at": null,

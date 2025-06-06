@@ -4,7 +4,7 @@
 
 > 
 
-7,342 songs - 19 day 1 hr 52 min
+7,343 songs - 19 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1263,6 +1263,7 @@
 | [Culture \(feat\. DJ Khaled\)](https://open.spotify.com/track/3zrks1xFx1ATYzEx5mX3Q8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 2:33 | 2025-01-04 |  |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2025-01-03 |  |
 | [Cupid](https://open.spotify.com/track/4VyCrRtc9UbYF6SGDuLFwg) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:54 | 2025-01-03 |  |
+| [Cupid \(Twin Ver.\) \- Live Studio Version OT4](https://open.spotify.com/track/4gXHG9domIKO6FIViDISA4) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C) | 2:54 | 2025-06-05 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2025-01-03 |  |
 | [Cupid's Quiver](https://open.spotify.com/track/7tKbr7B4PH0zRLOqgcMoch) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/1rQys03txxThcRZLofLlHY) | 4:20 | 2024-12-14 |  |
 | [curly](https://open.spotify.com/track/3IqwiPbdJ53pT6es1utnqK) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 4:38 | 2025-04-30 |  |
@@ -6485,7 +6486,7 @@
 | [✓✈✈✈](https://open.spotify.com/track/7JEgDLQX5P0HzSPwg745oD) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Oasys 2](https://open.spotify.com/album/71ZPdojVEyValj5yYipOol) | 1:29 | 2025-05-17 |  |
 | [「僕は...」](https://open.spotify.com/track/7K9Go4rPZqNWdYzy5wDNhE) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 3:59 | 2025-05-29 |  |
 | [「戦場ヶ原、蕩れ」](https://open.spotify.com/track/5VnEefSSvS7XE4gpsbS9CE) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [化物語 劇伴音楽集](https://open.spotify.com/album/6nqItKDZGhXjA6uu21Yupd) | 2:10 | 2025-01-15 |  |
-| [あいことば](https://open.spotify.com/track/1PmOyrbXWh03R4idV6ei62) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 5:49 | 2025-01-04 |  |
+| [あいことば \- Secret Word](https://open.spotify.com/track/1PmOyrbXWh03R4idV6ei62) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 5:49 | 2025-01-04 |  |
 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2025-01-15 |  |
 | [あたしが隣にいるうちに](https://open.spotify.com/track/2OIDODhCwRMp217BXRgkRM) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ライカ \(Special Edition\)](https://open.spotify.com/album/3KSkxrfrvDqPwNiAYBahUn) | 5:55 | 2024-12-14 |  |
 | [あの夢をなぞって](https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [あの夢をなぞって](https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt) | 4:02 | 2025-01-15 |  |
@@ -6558,7 +6559,7 @@
 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/12UQIL5yjh7GT7upccCcXk) | [Yuaru](https://open.spotify.com/artist/0MJZFhZQwhlhY7I0fRUKRj) | [アスノヨゾラ哨戒班](https://open.spotify.com/album/6BU55pKpQIZE4PCnniMKEF) | 2:59 | 2025-01-15 |  |
 | [アンコール](https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:31 | 2025-01-15 |  |
 | [アンサー](https://open.spotify.com/track/3yRKU9xHToxGPLicThfSN9) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アンサー](https://open.spotify.com/album/2aPWVTEF5HmYe5foInh3UF) | 5:18 | 2024-12-11 |  |
-| [アンダーグラウンド](https://open.spotify.com/track/7J5rQ68rXTv7zD1pM5baio) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 4:29 | 2025-01-04 |  |
+| [アンダーグラウンド \- Underground](https://open.spotify.com/track/7J5rQ68rXTv7zD1pM5baio) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 4:29 | 2025-01-04 |  |
 | [ア・サマア・バケイション](https://open.spotify.com/track/0Sxq0220XBk9Vo9cfHaBVC) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 4:23 | 2025-05-13 |  |
 | [イマジネーション](https://open.spotify.com/track/1xc9r9pgQ3CG7iViKPf0cQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 2:59 | 2025-05-09 |  |
 | [インフェルノ](https://open.spotify.com/track/3pQ0zUFOi4e1KZ8yQkeD42) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [インフェルノ](https://open.spotify.com/album/1thARtVFQruymTEXJBOVcP) | 1:34 | 2025-05-11 |  |

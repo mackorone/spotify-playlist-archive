@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רון חיון
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,676 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,754 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [תסביכים קשים](https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu) | [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [תסביכים קשים](https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip) | 2:29 |
 | 50 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 
-Snapshot ID: `aD730wAAAACkoMXMrxInwzk5gFTtVIWH`
+Snapshot ID: `aD730wAAAABAeP2/RwiK6MJPrHgVFlZG`

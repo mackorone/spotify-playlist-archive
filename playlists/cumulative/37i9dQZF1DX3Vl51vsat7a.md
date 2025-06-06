@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Yu
 
-399 songs - 20 hr 38 min
+401 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-30 |  |
 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 | 2025-04-24 |  |
 | [Hell](https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins](https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc) | 3:19 | 2025-02-27 |  |
-| [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 | 2023-07-27 |  |
+| [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 | 2023-07-27 | 2025-06-06 |
 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 | 2022-07-14 | 2023-03-03 |
 | [Hiatus](https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Hiatus](https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2) | 2:48 | 2024-05-23 | 2024-09-06 |
 | [Hilferuf](https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Hilferuf](https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs) | 2:37 | 2023-02-02 | 2023-03-03 |
@@ -269,6 +269,7 @@
 | [Okay](https://open.spotify.com/track/15aRDEzbB28Sn1Dp2gBG9x) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Okay](https://open.spotify.com/album/4N1IM89g7pW1RuI6rJRe6N) | 3:04 | 2021-12-16 | 2022-04-08 |
 | [OMG](https://open.spotify.com/track/4ykEkTdH5eTkt7qRxfMard) | [LEDU](https://open.spotify.com/artist/5ViMWZ1otsSujBRFjNG4RI) | [OMG](https://open.spotify.com/album/09UNrpKJgqEs29yfZQZwph) | 2:01 | 2025-02-27 |  |
 | [One More Time](https://open.spotify.com/track/1s2LA4dVnWikMXVtyBRaj1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [One More Time](https://open.spotify.com/album/18Vr8wifIO7BQsPEgD1OgN) | 2:49 | 2023-08-24 |  |
+| [only friends](https://open.spotify.com/track/4uxiew7kMMMNu0FXEAJG4K) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [only friends](https://open.spotify.com/album/2EVRXDfnvcS07blzxP5qtV) | 2:32 | 2025-06-05 |  |
 | [Panikweiß](https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Panikweiß](https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5) | 2:50 | 2023-03-16 | 2023-09-15 |
 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 | 2021-12-16 | 2024-04-26 |
 | [Paris](https://open.spotify.com/track/7EccqOi4GK8kASKFnZsdla) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Paris](https://open.spotify.com/album/5hlFHVDj6WhfEvqCf50n2V) | 2:40 | 2021-12-16 | 2022-03-04 |
@@ -346,6 +347,7 @@
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-11-18 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |
 | [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 | 2023-04-13 | 2023-06-02 |
+| [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 |  |
 | [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
 | [To Whom All Lovers](https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Jasmine Azarian](https://open.spotify.com/artist/0SPFoqccna8MrtiFTQLW5s) | [Borderline Tenderness](https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c) | 6:18 | 2021-12-16 | 2022-01-07 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-16 | 2022-01-28 |
@@ -373,7 +375,7 @@
 | [Walls Around Me](https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Walls Around Me EP](https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn) | 6:41 | 2021-12-16 | 2023-03-18 |
 | [Wart mal](https://open.spotify.com/track/4J8FybA4DlfN5HAuC6VnQE) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE PRELUDE](https://open.spotify.com/album/6wWXureHWQxxFc3Q8oQ1Tk) | 2:21 | 2022-02-24 | 2022-05-27 |
 | [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 | 2025-04-24 |  |
-| [was hab ich falsch gemacht](https://open.spotify.com/track/5pjVNYkJx7wWTpKv9JVYNk) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [was hab ich falsch gemacht](https://open.spotify.com/album/7jYeAh27MEP3IJHXOQVPA7) | 3:19 | 2025-02-27 |  |
+| [was hab ich falsch gemacht](https://open.spotify.com/track/5pjVNYkJx7wWTpKv9JVYNk) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [was hab ich falsch gemacht](https://open.spotify.com/album/7jYeAh27MEP3IJHXOQVPA7) | 3:19 | 2025-02-27 | 2025-06-06 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-04-28 | 2022-07-01 |
 | [Weihnachtslied 2021](https://open.spotify.com/track/6eT8nslwFQTMCn3TqhLB7i) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2021](https://open.spotify.com/album/0aFZ5cV5DkDMD5iR6jD0Vm) | 2:40 | 2021-12-16 | 2022-01-07 |
 | [Weniger Allein](https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Weniger Allein](https://open.spotify.com/album/6xFBY6ZHtbU5wNbsaanHwc) | 3:20 | 2024-05-09 | 2024-08-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 408435,
+  "num_followers": 408453,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Magia & Efectos Especiales",
-        "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Qu\u00e9 Bien",
-      "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "D\u00edas De Fuego",
         "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 185640,
       "name": "D\u00edas De Fuego",
       "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Magia & Efectos Especiales",
+        "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Qu\u00e9 Bien",
+      "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 237386,
       "name": "Vidas Paralelas",
       "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 234566,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/15QTKrbWHY653qgiKbfS16"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 263838,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/15QTKrbWHY653qgiKbfS16"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
       },
       "artists": [
         {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 184480,
-      "name": "De Momento Abril",
-      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "De Momento Abril",
+      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Bailar y Llorar",
         "url": "https://open.spotify.com/album/4vgLqKLiIcGGVpEpHomfa0"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 237800,
       "name": "Amar en el Campo",
       "url": "https://open.spotify.com/track/3Dnn4G9z0VqWksQye13Cqe"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Azules Turquesas",
-        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Tu Nombre y el M\u00edo",
-      "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 202053,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Azules Turquesas",
+        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Tu Nombre y el M\u00edo",
+      "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"
     },
     {
       "added_at": "2024-06-14 04:59:00",

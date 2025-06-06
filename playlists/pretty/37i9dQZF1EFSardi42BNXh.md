@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 21 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 |
 | 22 | [I Like \(the idea of\) You \- Viceroy Remix](https://open.spotify.com/track/4O51wvfqAA5TJ1AmabHzjN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Bad Ideas \- THE REMIXES](https://open.spotify.com/album/4CbwvCybB8QqbbFpFF3jmP) | 3:40 |
 
-Snapshot ID: `AbzRSAAAAADXC52TLOoKwXi/AF2gPMHb`
+Snapshot ID: `AbzW3gAAAAChHSWczmb30mIgYA5Y/Wbx`

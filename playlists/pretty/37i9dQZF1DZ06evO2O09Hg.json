@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1645505,
+  "num_followers": 1645562,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAA/Pi8PYgylLsZkDkJ2cgnX",
+  "snapshot_id": "aD+MgAAAAAAWjqeDhEVEFcYGxWWD+hyv",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 171253,
       "name": "Ransom (with Juice WRLD) - Remix",
       "url": "https://open.spotify.com/track/2WsuSYJNXGKXVYkHPnq2yp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
     },
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "whoa (mind in awe) [Remix]",
+        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 196341,
+      "name": "whoa (mind in awe) - Remix",
+      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -403,22 +423,6 @@
       "duration_ms": 205800,
       "name": "Hide (feat. Seezyn)",
       "url": "https://open.spotify.com/track/6rz0dTA0PdhXImFV5EjM0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 122285,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/3XRQT7EoS4U87rUuJwg5P3"
     },
     {
       "added_at": null,
@@ -443,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 122285,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/3XRQT7EoS4U87rUuJwg5P3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 192036,
       "name": "Legends",
       "url": "https://open.spotify.com/track/6BjtaWm1T4kDWAqHrf8vEi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "whoa (mind in awe) [Remix]",
-        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 196341,
-      "name": "whoa (mind in awe) - Remix",
-      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
     },
     {
       "added_at": null,
@@ -715,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
       },
       "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+      "duration_ms": 175954,
+      "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
     },
     {
       "added_at": null,
@@ -747,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 3",
-        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
       "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 175954,
-      "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": null,

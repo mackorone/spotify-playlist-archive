@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=WH4L48NXQWOyGS7jC0ymXA"> Lady Donli</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E?si=tyL293W8TNOTiDj7X9xO1g"> Mariah The Scientist</a>
 
 517 songs - 1 day 3 hr 44 min
 

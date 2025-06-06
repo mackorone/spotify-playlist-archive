@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 201676,
+  "num_followers": 201696,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAD+KKm8J3T0hrA/olQZsFTo",
+  "snapshot_id": "aD+MgAAAAAB0GIOgEA806r3DvL86vI7m",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson The Collection",
-        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 228160,
       "name": "Against the Wind",
       "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Willie Nelson The Collection",
+        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
       "added_at": null,
@@ -1199,22 +1199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faithfully (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
       },
       "artists": [
         {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
         },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 262314,
-      "name": "Faithfully - feat. Willie Nelson",
-      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
+      "duration_ms": 211146,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
     },
     {
       "added_at": null,
@@ -1239,22 +1239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
+        "name": "Faithfully (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
       },
       "artists": [
         {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
         },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 211146,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
+      "duration_ms": 262314,
+      "name": "Faithfully - feat. Willie Nelson",
+      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
     },
     {
       "added_at": null,
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Banks Of The Old Bandera",
-      "url": "https://open.spotify.com/track/6pmsMuJXPeKMrDr2nLd47e"
+      "duration_ms": 232066,
+      "name": "Open Season On My Heart",
+      "url": "https://open.spotify.com/track/3udOqXXzeoTpnFBAFjsyJN"
     }
   ],
   "unique_name": "This Is Willie Nelson",

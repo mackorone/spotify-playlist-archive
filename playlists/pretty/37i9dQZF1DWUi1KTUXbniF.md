@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUi1KTUXbniF.md) - [plain]
 
 > The best of anime, honored\. Listen to the music behind previous Anime Award winners, from 2017\-2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,471 likes - 76 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,544 likes - 76 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12850,7 +12850,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -12868,7 +12868,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -28596,7 +28596,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 196520,
       "name": "Minning",
       "url": "https://open.spotify.com/track/1bmA2BKptZYlAMs7AUjAvQ"
@@ -29664,6 +29664,24 @@
       "duration_ms": 184960,
       "name": "Must Be Love",
       "url": "https://open.spotify.com/track/4kSC1tqpUxYdZTqtA0aztf"
+    },
+    {
+      "album": {
+        "name": "Mware",
+        "url": "https://open.spotify.com/album/6594s4D2lrp1ZC08GtBOuA"
+      },
+      "artists": [
+        {
+          "name": "Luyo",
+          "url": "https://open.spotify.com/artist/4KGdcVNqAkVHlsBWrFIiHz"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232979,
+      "name": "Mware",
+      "url": "https://open.spotify.com/track/1Vmi2ZHjo88feQkzQeAG1z"
     },
     {
       "album": {
@@ -35790,7 +35808,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 194693,
       "name": "Rau\u00f0ur himinn",
       "url": "https://open.spotify.com/track/4sf2Nmzo1UQ8fqcBW2FqBD"
@@ -40522,7 +40540,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Stara",
       "url": "https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4"
@@ -48306,7 +48324,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 164998,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"

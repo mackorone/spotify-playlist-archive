@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: YUNGBLUD",
+  "description": "The UK's biggest rock playlist. Cover: Turnstile",
   "name": "The Rock List",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 204040,
       "name": "Alien Nation",
       "url": "https://open.spotify.com/track/0RHEvLrABdsDHQiX4wYGHu"
@@ -3711,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "Cutthroat",
+        "url": "https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194491,
+      "name": "Cutthroat",
+      "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
+    },
+    {
+      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -4996,6 +5014,24 @@
       "duration_ms": 181847,
       "name": "Favourite Toy",
       "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
+    },
+    {
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215517,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
     },
     {
       "album": {
@@ -6545,6 +6581,24 @@
     },
     {
       "album": {
+        "name": "Headstones",
+        "url": "https://open.spotify.com/album/3AscAyjq1SctzFVi1YoC4U"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181043,
+      "name": "Headstones",
+      "url": "https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf"
+    },
+    {
+      "album": {
         "name": "Heartbreak Kid",
         "url": "https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM"
       },
@@ -7241,6 +7295,24 @@
     },
     {
       "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233141,
+      "name": "I CARE",
+      "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
+    },
+    {
+      "album": {
         "name": "Untouched Hearts - EP",
         "url": "https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO"
       },
@@ -7804,7 +7876,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 227156,
       "name": "In the Name of the Father",
       "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
@@ -9138,7 +9210,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
@@ -9662,7 +9734,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 155386,
       "name": "Mausoleum",
       "url": "https://open.spotify.com/track/2yM2RQI7Kerax4ukmWgjzz"
@@ -10462,7 +10534,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 287159,
       "name": "NEVER ENOUGH",
       "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
@@ -13681,6 +13753,24 @@
     },
     {
       "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -13908,7 +13998,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 286435,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA"
@@ -15546,6 +15636,24 @@
       "duration_ms": 173866,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
+    },
+    {
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
     },
     {
       "album": {

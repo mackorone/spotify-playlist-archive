@@ -1795,6 +1795,32 @@
     },
     {
       "album": {
+        "name": "Dopamina (Remix)",
+        "url": "https://open.spotify.com/album/3WQHkXuizrqBzYLA0JYqoM"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Marcelo Aldunate",
+          "url": "https://open.spotify.com/artist/5EU0uwGDCaWJ0vO6A7hE7P"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249988,
+      "name": "Dopamina - Remix",
+      "url": "https://open.spotify.com/track/4N7rA6D6PIYmOsnXKAsqzZ"
+    },
+    {
+      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM"
       },
@@ -6858,7 +6884,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 144491,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"

@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 43741,
+  "num_followers": 43743,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAB+2t91vIc8sIkKTy1Mqvs3",
+  "snapshot_id": "aD+MgAAAAAAfHA/a3NzqPc2Zhvtg+e2+",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ushua\u00efa",
         "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 178666,
       "name": "Ushua\u00efa",
       "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -847,30 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Dave Mak",
-          "url": "https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U"
-        },
-        {
-          "name": "Scheffwell",
-          "url": "https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e"
-        }
-      ],
-      "duration_ms": 131538,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAMBOLE - TAAO REMIX",
         "url": "https://open.spotify.com/album/5myy2cSK0vcmyS8LvhwJN2"
       },
@@ -915,6 +891,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dave Mak",
+          "url": "https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U"
+        },
+        {
+          "name": "Scheffwell",
+          "url": "https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e"
+        }
+      ],
+      "duration_ms": 131538,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Random White Dude Be Everywhere",
         "url": "https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 281250,
       "name": "Freak (feat. Steve Bays)",
       "url": "https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -1003,6 +983,26 @@
       "duration_ms": 220800,
       "name": "Que Es Eso (feat. Young Eiby)",
       "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mucha Honra",
-        "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 194010,
-      "name": "Te Va a Doler - Deorro Remix",
-      "url": "https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP"
+      "duration_ms": 172800,
+      "name": "Se Vuelve Loca",
+      "url": "https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP"
     }
   ],
   "unique_name": "This Is Deorro",

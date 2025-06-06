@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 409520,
+  "num_followers": 409496,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        },
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        }
-      ],
-      "duration_ms": 170251,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Honky Tonkin' About",
         "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 185315,
       "name": "Honky Tonkin' About",
       "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "duration_ms": 170251,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "House Again",
-        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        }
-      ],
-      "duration_ms": 202290,
-      "name": "House Again",
-      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Here's To You. Here's To Me.",
         "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 182318,
       "name": "Tennessee Drinkin'",
       "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "County Road 123",
-        "url": "https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 226917,
-      "name": "County Road 123",
-      "url": "https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
+        "name": "County Road 123",
+        "url": "https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 226917,
+      "name": "County Road 123",
+      "url": "https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
         "name": "Don\u2019t Mess With Exes",
         "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 207893,
       "name": "Don\u2019t Mess With Exes",
       "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Till You",
-        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 206016,
-      "name": "Till You",
-      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1511,6 +1495,22 @@
       "duration_ms": 203861,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Till You",
+        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
+      },
+      "artists": [
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 206016,
+      "name": "Till You",
+      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
     },
     {
       "added_at": "2025-04-18 04:06:12",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-04-18 04:06:12",
       "album": {
-        "name": "Life Behind Bars",
-        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Life Behind Bars",
-      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
-    },
-    {
-      "added_at": "2025-04-18 04:06:12",
-      "album": {
         "name": "What Else Can She Do",
         "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 234360,
       "name": "jackson",
       "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2025-04-18 04:06:12",
+      "album": {
+        "name": "Life Behind Bars",
+        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Life Behind Bars",
+      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
     },
     {
       "added_at": "2025-04-18 04:06:12",

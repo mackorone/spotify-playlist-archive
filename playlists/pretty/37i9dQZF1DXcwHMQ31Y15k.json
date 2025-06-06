@@ -1,15 +1,31 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
-  "num_followers": 214607,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
+  "num_followers": 214641,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDlkQAAAAAB7rDAOvz810sDVbsBn7i9D",
+  "snapshot_id": "aEHNIAAAAACjaxd6JOSPgVO+jkxPQ5Q+",
   "tracks": [
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
+      "album": {
+        "name": "Lanang Tenan",
+        "url": "https://open.spotify.com/album/5hqjpYvyKarkxa5twuWAVq"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "duration_ms": 303039,
+      "name": "Lanang Tenan",
+      "url": "https://open.spotify.com/track/7cTa9Ba6N6N8DxccW1ydeG"
+    },
+    {
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "GADHUNGMLATHI (Live)",
         "url": "https://open.spotify.com/album/2ahYjf5Nd5vakmYTUuzlll"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/02zbuASKp6u90zzhpQeN9v"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Rapercoyo",
         "url": "https://open.spotify.com/album/62USw0UVeBScz0CtQJJEkV"
@@ -45,7 +61,23 @@
       "url": "https://open.spotify.com/track/10DfezBsYWwwrKdBihxTP9"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
+      "album": {
+        "name": "Aku Cah Kerjo (Live)",
+        "url": "https://open.spotify.com/album/0FDkDNn7n2RsH5ewRlqW8t"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Aku Cah Kerjo - Live",
+      "url": "https://open.spotify.com/track/3qZSjpt0AiZx80zUKnsU0s"
+    },
+    {
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kabagyan",
         "url": "https://open.spotify.com/album/6ZX8XgoC6eGPAJHDzlQZ27"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/7p4g03E3yh1ovkMlvj9mwO"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "KAWITANING SINAWANG",
         "url": "https://open.spotify.com/album/28xHCBbw0lfWN4E0S1TRlT"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/3EPFbJPrZXSgr2Wqk4KEVS"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Aku Sing Duwe Ati",
         "url": "https://open.spotify.com/album/2N5gpOt55TZ9vA6pGsj6dt"
@@ -93,59 +125,7 @@
       "url": "https://open.spotify.com/track/2Tux40dGjaKKA0ad7nLDi3"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
-      "album": {
-        "name": "Pemain ahli",
-        "url": "https://open.spotify.com/album/6AmqaJQyEWPXH25qW036O6"
-      },
-      "artists": [
-        {
-          "name": "Gildcoustic",
-          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
-        }
-      ],
-      "duration_ms": 303870,
-      "name": "Pemain ahli",
-      "url": "https://open.spotify.com/track/6mdbTxN8rzpozyXzR0KfnR"
-    },
-    {
-      "added_at": "2025-05-30 07:54:40",
-      "album": {
-        "name": "KASETYANJATI (Live)",
-        "url": "https://open.spotify.com/album/1QJIUyegfBZnXGDafI8sh8"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        },
-        {
-          "name": "Wahyu F Giri",
-          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "KASETYANJATI - Live",
-      "url": "https://open.spotify.com/track/3rO70kUcS7nVoSx9TXCns4"
-    },
-    {
-      "added_at": "2025-05-30 07:54:40",
-      "album": {
-        "name": "Tresno Liyane (Pop Version)",
-        "url": "https://open.spotify.com/album/4cBfSxkl3sz9kjuShMqJBZ"
-      },
-      "artists": [
-        {
-          "name": "Northsle",
-          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Tresno Liyane - Pop Version",
-      "url": "https://open.spotify.com/track/6uioIuaj8ijLpfAHdRgiXJ"
-    },
-    {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Wegah Tukaran",
         "url": "https://open.spotify.com/album/2Al2i35sxvyvh4mYpckR7m"
@@ -165,23 +145,83 @@
       "url": "https://open.spotify.com/track/5UWfUp4bpgwLxrV4zYsbLf"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
-        "name": "Lanang Tenan",
-        "url": "https://open.spotify.com/album/5hqjpYvyKarkxa5twuWAVq"
+        "name": "Pemain ahli",
+        "url": "https://open.spotify.com/album/6AmqaJQyEWPXH25qW036O6"
       },
       "artists": [
         {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+          "name": "Gildcoustic",
+          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
         }
       ],
-      "duration_ms": 303039,
-      "name": "Lanang Tenan",
-      "url": "https://open.spotify.com/track/7cTa9Ba6N6N8DxccW1ydeG"
+      "duration_ms": 303870,
+      "name": "Pemain ahli",
+      "url": "https://open.spotify.com/track/6mdbTxN8rzpozyXzR0KfnR"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
+      "album": {
+        "name": "KASETYANJATI (Live)",
+        "url": "https://open.spotify.com/album/1QJIUyegfBZnXGDafI8sh8"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "KASETYANJATI - Live",
+      "url": "https://open.spotify.com/track/3rO70kUcS7nVoSx9TXCns4"
+    },
+    {
+      "added_at": "2025-06-05 17:00:16",
+      "album": {
+        "name": "Tresno Liyane (Pop Version)",
+        "url": "https://open.spotify.com/album/4cBfSxkl3sz9kjuShMqJBZ"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Tresno Liyane - Pop Version",
+      "url": "https://open.spotify.com/track/6uioIuaj8ijLpfAHdRgiXJ"
+    },
+    {
+      "added_at": "2025-06-05 17:00:16",
+      "album": {
+        "name": "Wegah Tukaran",
+        "url": "https://open.spotify.com/album/41firAF7cH6F8MqD3ICLMx"
+      },
+      "artists": [
+        {
+          "name": "Royal Music",
+          "url": "https://open.spotify.com/artist/1coVIbS4yAqP5hmezkHAXM"
+        },
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        },
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Wegah Tukaran",
+      "url": "https://open.spotify.com/track/7fGSaDkMeRiVNb392rfKJf"
+    },
+    {
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Sebatas Friendly",
         "url": "https://open.spotify.com/album/6m54ZCI0KJOH0VxDs8OVXA"
@@ -197,7 +237,7 @@
       "url": "https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Ayang Ayang (Live)",
         "url": "https://open.spotify.com/album/32Yxv4vAU9FSrNV4fSeMGY"
@@ -217,7 +257,7 @@
       "url": "https://open.spotify.com/track/613grHxBpiCDL5Z1B6HJnO"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Sinarengan",
         "url": "https://open.spotify.com/album/3bReLQYWR9ODah0x2QeY76"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/1YOczwofxo6MxtkjPBYdNV"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kawitaning Sinawang",
         "url": "https://open.spotify.com/album/75CwU627eV9RhtPNLxnm2d"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/6GR3uDM9hWSbaGQ97KrpMc"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Koyo Jogja Istimewa",
         "url": "https://open.spotify.com/album/08gRcFKWMKnfJStsR2JtA1"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/1gFZA3oXbbApLCzQKEu6z5"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tembang Ani Ani (Music From Angel Pol Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2xyliPNocFbfKj1An5XQwS"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/0WqXyqy5TpGKqmn8c5xGOl"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "DISKOJAWA III",
         "url": "https://open.spotify.com/album/71BsyPJOw4bQ4LjF5uaM8W"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/3FJZNVYUFmCVsxJNUs9rNr"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kalah",
         "url": "https://open.spotify.com/album/6camQfWZCytbKSQkFJG8S5"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/2Uy05WmObvsta92QuWREA5"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "BAPAK",
         "url": "https://open.spotify.com/album/430DIwr1nkXiIhJnvH5ASZ"
@@ -341,27 +381,7 @@
       "url": "https://open.spotify.com/track/4egkSlCKoapEw6H9vFIHnN"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
-      "album": {
-        "name": "Tibo Mburi",
-        "url": "https://open.spotify.com/album/5mlIIE5td3K56r7tIpxa2X"
-      },
-      "artists": [
-        {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
-        },
-        {
-          "name": "Happy Asmara",
-          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Tibo Mburi",
-      "url": "https://open.spotify.com/track/3w2gVQh4bSrsD7lOAuPdck"
-    },
-    {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Ayang-Ayang",
         "url": "https://open.spotify.com/album/2rlMRT348VvboFHosOk1Wf"
@@ -381,27 +401,7 @@
       "url": "https://open.spotify.com/track/3kcLbSUHdmlcCElLXOZYl4"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
-      "album": {
-        "name": "ORA KOLU SAUR",
-        "url": "https://open.spotify.com/album/2jQGFhbnkamwzH3naFjMZL"
-      },
-      "artists": [
-        {
-          "name": "Masdddho",
-          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
-        },
-        {
-          "name": "Hendra Kumbara",
-          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
-        }
-      ],
-      "duration_ms": 262740,
-      "name": "ORA KOLU SAUR",
-      "url": "https://open.spotify.com/track/0uJMDKcS8MqgZOxP0Qp07A"
-    },
-    {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Sinarengan",
         "url": "https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Anagata",
         "url": "https://open.spotify.com/album/4krbrQO2PLhoSZYAqhTn80"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/4sDBs1DPdUDAtXURllceQG"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tombo Kangen",
         "url": "https://open.spotify.com/album/3LDnR7o41mFD5w5K1hQBtv"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/2Gz4P6O0IjbIEJWGmz6yTZ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Aku Tenang",
         "url": "https://open.spotify.com/album/2uCk5kk3fWD9JQ0JkTM7QA"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/1bmOl3WYltXNAWDFcyOrmc"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kalah Weton",
         "url": "https://open.spotify.com/album/1b1kyBLoIMkLqrNqg9k8aI"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/2p1RYtG0zY8DkV2NZByNQA"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "NGANGGUR",
         "url": "https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Ubur - Ubur Ikan Lele",
         "url": "https://open.spotify.com/album/3BDt47hf31UCLwAoCdDIoQ"
@@ -521,27 +521,7 @@
       "url": "https://open.spotify.com/track/1Hyds32OOuXj1viFTSDokZ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
-      "album": {
-        "name": "Ora Ngemis Bali",
-        "url": "https://open.spotify.com/album/2QZRcFHFmmZW0CZDdezMCB"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        },
-        {
-          "name": "fafa vadesta",
-          "url": "https://open.spotify.com/artist/0jLIu4WG4Vw5eUTnTE716F"
-        }
-      ],
-      "duration_ms": 351568,
-      "name": "Ora Ngemis Bali",
-      "url": "https://open.spotify.com/track/36foDN2kcoxBVPqW0NrKl2"
-    },
-    {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nresnani (Live)",
         "url": "https://open.spotify.com/album/3y0vZoaZSFnOIpxLBLS5zm"
@@ -561,7 +541,7 @@
       "url": "https://open.spotify.com/track/1IfAosWldds6JTWe10R7b1"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tresno Tekan Mati",
         "url": "https://open.spotify.com/album/3MQNsBZtpSYVAr9w8alNit"
@@ -581,7 +561,7 @@
       "url": "https://open.spotify.com/track/4xrFfbqpxcF6KjKGg57DYS"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Matursuwun Gusti",
         "url": "https://open.spotify.com/album/5eYMjDHngaRJUCdAGsxsSd"
@@ -601,7 +581,7 @@
       "url": "https://open.spotify.com/track/4aEs3ILtUnXCPnY1wsti1y"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tresno Tekan Mati",
         "url": "https://open.spotify.com/album/72eFjr8FNykfdKiXMw9jCa"
@@ -621,7 +601,7 @@
       "url": "https://open.spotify.com/track/0JZnC7RDiYPLXBqaatZOeF"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Pepisahan",
         "url": "https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU"
@@ -637,7 +617,7 @@
       "url": "https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "NGANGGUR 2",
         "url": "https://open.spotify.com/album/2dcXxxMzjZjtoEC0j29sv9"
@@ -653,7 +633,7 @@
       "url": "https://open.spotify.com/track/5h5R8ad8Sopl96XEXUITSW"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Njarem",
         "url": "https://open.spotify.com/album/27YAoA59XEtW70BYkLvJjL"
@@ -673,7 +653,7 @@
       "url": "https://open.spotify.com/track/4blk67iSazQOqxcT9VaxMP"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Pangarepan",
         "url": "https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu"
@@ -689,7 +669,7 @@
       "url": "https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Bojo Loro",
         "url": "https://open.spotify.com/album/6N29382lQlir1YF9UIAS47"
@@ -713,7 +693,7 @@
       "url": "https://open.spotify.com/track/3cmdzW5tEQq9lll8qq8Dib"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "SALAHKU",
         "url": "https://open.spotify.com/album/3eo9y5U0aPWmG1PYGgZz0C"
@@ -737,7 +717,7 @@
       "url": "https://open.spotify.com/track/7i3W1HGWMhEJOUcLbSCasd"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Ora Ngemis Bali",
         "url": "https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5"
@@ -757,7 +737,7 @@
       "url": "https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Segara Madu",
         "url": "https://open.spotify.com/album/1KljrA6Su3zWyhLPZt9byR"
@@ -777,7 +757,7 @@
       "url": "https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nresnani",
         "url": "https://open.spotify.com/album/5uhAn7VJZPkpkPpcJCYbRs"
@@ -797,7 +777,7 @@
       "url": "https://open.spotify.com/track/7wadKAqv8tjMsDZ9yr0dGP"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nresnani (Accoustic Version)",
         "url": "https://open.spotify.com/album/720X2yLc6ErIxR9pNYjeZ5"
@@ -817,7 +797,7 @@
       "url": "https://open.spotify.com/track/2d5ge8cLWayiZ1QySSs9gC"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Denny Caknan: Live at ZEPP Kuala Lumpur",
         "url": "https://open.spotify.com/album/3ghdTfXuLekdikteuBPK1f"
@@ -833,7 +813,7 @@
       "url": "https://open.spotify.com/track/5KVwLJPyIo62vSmMC01osE"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Lewung",
         "url": "https://open.spotify.com/album/7CKolTfNRvDQ95EBLHLVXT"
@@ -857,7 +837,7 @@
       "url": "https://open.spotify.com/track/3G9p9hvHgKsWpA8WvWm9hC"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nresnani",
         "url": "https://open.spotify.com/album/42y04fYST8LC6KCZcayUNf"
@@ -877,7 +857,7 @@
       "url": "https://open.spotify.com/track/3xM5ljrKKRa3smVZF2ObFf"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "KDRT (Kadung Duwe Roso Tresno)",
         "url": "https://open.spotify.com/album/0CGFvfgMFN7IdVwOGnuJMm"
@@ -893,7 +873,7 @@
       "url": "https://open.spotify.com/track/4vWgNqMHIo6TU8tNkUFEOj"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Pujaningsih",
         "url": "https://open.spotify.com/album/6S2j2hpWxxBchoOJWRfm8v"
@@ -913,7 +893,7 @@
       "url": "https://open.spotify.com/track/0vEYDl2noqHy8bBucFfA4G"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Sekti",
         "url": "https://open.spotify.com/album/2DBAfqXXPegevjiLQLwllO"
@@ -929,7 +909,7 @@
       "url": "https://open.spotify.com/track/4L7Jom9mgHDWSprlUSK2jq"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Jejantunging Kalbu",
         "url": "https://open.spotify.com/album/424Gy6dFu4JBKBxGqEt12i"
@@ -949,7 +929,7 @@
       "url": "https://open.spotify.com/track/378sjjoEHRfAjFBlBCNdoI"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Pujaningsih",
         "url": "https://open.spotify.com/album/3K5uzPkTzwGGCZO29ae0wT"
@@ -973,7 +953,7 @@
       "url": "https://open.spotify.com/track/1mi2dlST0WDqL1zU4bqNGs"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Los Dol",
         "url": "https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx"
@@ -989,7 +969,7 @@
       "url": "https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kartonyono Medot Janji",
         "url": "https://open.spotify.com/album/28rUJRBJ2UfjZPQ7yX6v6t"
@@ -1005,7 +985,7 @@
       "url": "https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tresno Liyane 2",
         "url": "https://open.spotify.com/album/4HgGC2WNbLKdsi6v7K2yG0"
@@ -1025,7 +1005,7 @@
       "url": "https://open.spotify.com/track/17NdRQTe0nD5QJ0WRZ4FS5"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Sugeng Dalu",
         "url": "https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf"
@@ -1041,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "BUBAR",
         "url": "https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk"
@@ -1057,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "All In For You",
         "url": "https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4"
@@ -1073,7 +1053,7 @@
       "url": "https://open.spotify.com/track/45fA54TCF3IZfxuJ2mZkbY"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Sigar",
         "url": "https://open.spotify.com/album/1yN2WgWXFFgfnIgzFmpEyu"
@@ -1089,7 +1069,7 @@
       "url": "https://open.spotify.com/track/12BUsSyjHbnvmnFw6TObGD"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "HTS",
         "url": "https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU"
@@ -1105,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "NDX A.K.A. Familia",
         "url": "https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc"
@@ -1121,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1D6XeGykrjmBAYwDS3yXxZ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "LDR \"Langgeng Dayaning Rasa\" (Live)",
         "url": "https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO"
@@ -1137,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Yowes Modaro",
         "url": "https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW"
@@ -1153,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Saktenane 2",
         "url": "https://open.spotify.com/album/0Jaba6NDAsXAVgoBNZmNSh"
@@ -1173,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4eotObB3STP9JwjGW6QbWW"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Selendang Biru",
         "url": "https://open.spotify.com/album/2MoVigvG7je2nf9yBvBSzb"
@@ -1189,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1IU1mITWrgXfQrCDTjDgeh"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kalah",
         "url": "https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx"
@@ -1209,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Lamunan",
         "url": "https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch"
@@ -1225,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3qcJp9jySepnPFWY2LyLNZ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "LDR (Acoustic)",
         "url": "https://open.spotify.com/album/4O1qHuKhVTAigJSFoe8j53"
@@ -1241,7 +1221,7 @@
       "url": "https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Wirang",
         "url": "https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc"
@@ -1257,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Rungkad",
         "url": "https://open.spotify.com/album/6M4iw0ozWapJERvLzZKH2O"
@@ -1281,7 +1261,7 @@
       "url": "https://open.spotify.com/track/1tWrff6vSPkkUQscpldS8F"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "NEMEN",
         "url": "https://open.spotify.com/album/28gXXI7APazAT8ELyiS1FG"
@@ -1297,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5f3oGRsnZpMoNs74zLXxzm"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Koyo Jogja Istimewa (From \"Cidro Asmoro\")",
         "url": "https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr"
@@ -1313,7 +1293,7 @@
       "url": "https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "LESTARI",
         "url": "https://open.spotify.com/album/7c1wv3yXdOce3AhHfn6R3H"
@@ -1329,7 +1309,7 @@
       "url": "https://open.spotify.com/track/64IJVgigFpLz4ofPk8DVc0"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Pelanggaran",
         "url": "https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK"
@@ -1345,7 +1325,7 @@
       "url": "https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Piwales Tresno",
         "url": "https://open.spotify.com/album/7A3KCg9TnljGE3VywQRuix"
@@ -1361,7 +1341,7 @@
       "url": "https://open.spotify.com/track/0Bo51l3LBA1w0cnClTiV4S"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kalah 2",
         "url": "https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO"
@@ -1377,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Gampil",
         "url": "https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk"
@@ -1393,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Anak Lanang (Original)",
         "url": "https://open.spotify.com/album/4J8XI8nbtRqxOHeR7R3m1E"
@@ -1409,7 +1389,7 @@
       "url": "https://open.spotify.com/track/4BpYgcqRrKBkb1bOHjAokU"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tresno Tekan Mati (New Version)",
         "url": "https://open.spotify.com/album/5a2TytayKwqFURNG7ArVlw"
@@ -1425,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6dpx06KUkby9EfiUTLkiXd"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "KISINAN 2",
         "url": "https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2"
@@ -1441,7 +1421,7 @@
       "url": "https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Wirang",
         "url": "https://open.spotify.com/album/4SckpzyjbJpKjXnWBxxWGs"
@@ -1457,7 +1437,7 @@
       "url": "https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nemu",
         "url": "https://open.spotify.com/album/1TQCT0n7uZa2JFzxP0xGv1"
@@ -1473,7 +1453,7 @@
       "url": "https://open.spotify.com/track/1IDDrCfk1MedTTX3SIJrX6"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nemen HipHop Dangdut Version",
         "url": "https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3"
@@ -1489,7 +1469,7 @@
       "url": "https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Nemen",
         "url": "https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t"
@@ -1505,7 +1485,7 @@
       "url": "https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Dumes",
         "url": "https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd"
@@ -1525,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Cundamani",
         "url": "https://open.spotify.com/album/6L2xfwstUhr4VJNfbFgLiz"
@@ -1541,7 +1521,7 @@
       "url": "https://open.spotify.com/track/64MmMbaX3hmAKQ6nFLJgpg"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Bubrah",
         "url": "https://open.spotify.com/album/07urzunOSaLFzBroFn2YK0"
@@ -1561,7 +1541,7 @@
       "url": "https://open.spotify.com/track/4xyMOJkHxqKvoW5issqXzZ"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Ngertenono Ati (NDX A.K.A. Version)",
         "url": "https://open.spotify.com/album/50h3iNxuauf2J2Bn0Uk2b5"
@@ -1577,7 +1557,7 @@
       "url": "https://open.spotify.com/track/5HGhb6GnOjIqt8cD1kDAMU"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Rasah Bali",
         "url": "https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e"
@@ -1597,7 +1577,7 @@
       "url": "https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kok Iso Yo?",
         "url": "https://open.spotify.com/album/54wJfSjpNpNSC9lFPb9DVO"
@@ -1613,7 +1593,7 @@
       "url": "https://open.spotify.com/track/38ns4gqe16w0gAGWgvKfLS"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Abadi",
         "url": "https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm"
@@ -1633,7 +1613,7 @@
       "url": "https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Kalih Welasku",
         "url": "https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX"
@@ -1649,7 +1629,7 @@
       "url": "https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Tresno Liyane",
         "url": "https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ"
@@ -1669,7 +1649,7 @@
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Klebus",
         "url": "https://open.spotify.com/album/0sP7ALG6951vlmpFpzJphu"
@@ -1685,7 +1665,7 @@
       "url": "https://open.spotify.com/track/6wxZIB1y1HPYifGCsAPGaA"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "NDX A.K.A. FAMILIA",
         "url": "https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus"
@@ -1705,7 +1685,7 @@
       "url": "https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Pingal",
         "url": "https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK"
@@ -1721,7 +1701,7 @@
       "url": "https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Korban Janji",
         "url": "https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX"
@@ -1737,7 +1717,7 @@
       "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Los Dol",
         "url": "https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv"
@@ -1753,7 +1733,7 @@
       "url": "https://open.spotify.com/track/4CQdZW0qvq4MqvilSGScEk"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Full Senyum Sayang",
         "url": "https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc"
@@ -1769,7 +1749,7 @@
       "url": "https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS"
     },
     {
-      "added_at": "2025-05-30 07:54:40",
+      "added_at": "2025-06-05 17:00:16",
       "album": {
         "name": "Mendung Tanpo Udan",
         "url": "https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE"

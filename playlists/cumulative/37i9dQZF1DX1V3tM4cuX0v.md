@@ -4,7 +4,7 @@
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Drevo
 
-127 songs - 6 hr 17 min
+128 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-12-13 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-11 | 2024-10-11 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-05-19 | 2025-05-27 |
-| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-19 |  |
+| [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-19 | 2025-06-06 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-25 | 2024-09-27 |
 | [ZVIR](https://open.spotify.com/track/3jQKEEgQTOCjNavi4iaKrr) | [Sonyachna](https://open.spotify.com/artist/5m1W82wDuCwcCvNI7cATEO) | [ZVIR](https://open.spotify.com/album/6H9TFFq8WQKDPOC1MnPsua) | 3:27 | 2025-05-08 | 2025-05-20 |
 | [А що?](https://open.spotify.com/track/12TC6zACzfx6ey8ZAP6R3y) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [А що?](https://open.spotify.com/album/3VpOd13g07b98DXQ4kQ0N8) | 3:17 | 2024-06-27 |  |
@@ -129,6 +129,7 @@
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-06-27 | 2025-05-20 |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-06-27 | 2024-10-29 |
 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 | 2024-12-12 | 2025-04-11 |
+| [ШОВКОВИЦЯ](https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY) | [IVAN LIULENOV](https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs), [DAMNITSKYI](https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl) | [ШОВКОВИЦЯ](https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2) | 3:05 | 2025-06-05 |  |
 | [я не прийду](https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [я не прийду](https://open.spotify.com/album/3Yb45auFxqKwbc4qzL3Fh3) | 3:15 | 2024-10-28 | 2024-11-05 |
 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-06-27 | 2025-05-20 |
 | [Я щаслива \- Лікарі кажуть](https://open.spotify.com/track/7LxpaPwRVTYEG2Gf5T5iLO) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:01 | 2024-06-27 | 2024-09-03 |

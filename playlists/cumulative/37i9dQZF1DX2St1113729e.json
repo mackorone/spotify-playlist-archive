@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Ansiedark",
+        "url": "https://open.spotify.com/album/0E8vtejdw63dyucQn0Zdsh"
+      },
+      "artists": [
+        {
+          "name": "LWLO",
+          "url": "https://open.spotify.com/artist/5NzzlW9prBfOWiP3lzC9yp"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190758,
+      "name": "Ansiedark",
+      "url": "https://open.spotify.com/track/3W1kNSyAeFdE5U481JqWxd"
+    },
+    {
+      "album": {
         "name": "Antipanico",
         "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
       },
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 203076,
       "name": "Bachata Sexy",
       "url": "https://open.spotify.com/track/2PhoAUJa7CD0s0dhfGgyPX"

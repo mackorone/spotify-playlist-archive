@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-300 songs - 19 hr 23 min
+301 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [The Reoccurring Dream](https://open.spotify.com/track/2dLNQpftIfUZwLz7LkNpAp) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:04 | 2024-03-21 |  |
 | [The Same Situation](https://open.spotify.com/track/0jRKHKZhHZpN4Q1GHF7YZt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:57 | 2024-03-21 |  |
 | [The Silky Veils of Ardor](https://open.spotify.com/track/3UEKICgKuBB9U9nEg5PMap) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 4:01 | 2024-03-21 |  |
-| [The Sire of Sorrow](https://open.spotify.com/track/1MqeiZoQnnoSm6BjZkysH9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 7:09 | 2024-03-21 |  |
+| [The Sire of Sorrow](https://open.spotify.com/track/1MqeiZoQnnoSm6BjZkysH9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 7:09 | 2024-03-21 | 2025-06-06 |
+| [The Sire of Sorrow \(Job's Sad Song\)](https://open.spotify.com/track/2ViLGVtuZyCY3cQb8mmsyi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Turbulent Indigo](https://open.spotify.com/album/0m5E4LzAWRkdAPbWGHax0Q) | 7:07 | 2025-06-05 |  |
 | [The Student Song](https://open.spotify.com/track/44tTsnwpY972SzynaUQqhL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:36 | 2024-03-21 |  |
 | [The Tea Leaf Prophecy \(Lay Down Your Arms\)](https://open.spotify.com/track/3k9NJHvoQdtMwmcBk1x4lW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [River: The Joni Letters](https://open.spotify.com/album/4XkWqozX4Uqc0qwncCVZxi) | 6:33 | 2024-01-29 |  |
 | [The Tenth World](https://open.spotify.com/track/5gCBrGMeLvH7SK3B214HXk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 6:45 | 2024-03-21 |  |

@@ -4,7 +4,7 @@
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=FWwUWXKUQwS5rcGIUQVLkA">Kelvin Momo</a>
 
-1,404 songs - 6 day 2 hr 20 min
+1,405 songs - 6 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [Ng'sakumele](https://open.spotify.com/track/5sIsn53ZwGwFBRd7VaDyP1) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o), [Xbeatz](https://open.spotify.com/artist/44jvnZGxUSXtFFx2UoYlfH) | [Legend For Life](https://open.spotify.com/album/5dA2qFYPZ8Skcxqfv7jfG9) | 5:31 | 2023-04-13 | 2023-04-28 |
 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 | 2022-11-10 | 2022-12-08 |
 | [Ngathatheka](https://open.spotify.com/track/6jqEzYGpQCraOFldzJvnSG) | [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Starr Healer](https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT), [Zar Keys](https://open.spotify.com/artist/1ZMlSl54k8GU7LmlkO0YKG) | [Ngathatheka](https://open.spotify.com/album/0uK2ZWJPQaTDo5DITYXd0n) | 7:10 | 2024-07-18 | 2024-08-10 |
+| [Ngcon' Ujole Nabo \(feat\. Happy Jazzman\)](https://open.spotify.com/track/3DFyDG4zRdbJawBOhuygcr) | [Sobzeen](https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc), [Casey Ntuli](https://open.spotify.com/artist/6UjelAe0pTfBEUI8ZemGZ8), [Happy Jazzman](https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C) | [Ngcon' Ujole Nabo \(feat\. Happy Jazzman\)](https://open.spotify.com/album/73e008B8JC60jPkohuklZn) | 6:39 | 2025-06-06 |  |
 | [Ngeke](https://open.spotify.com/track/4zPWg7YZPS6G0XUlcDb86p) | [Flowzbevtz](https://open.spotify.com/artist/1xdjeiB1Muh9RWJA8EvMXO), [Jay Ur Mate](https://open.spotify.com/artist/7MDo8AtLHVwosO027vg0Qd) | [Ngeke](https://open.spotify.com/album/0HbShSLPjNRIPoRlr3dTK8) | 5:43 | 2023-03-23 | 2023-04-04 |
 | [Ngeke](https://open.spotify.com/track/4OLDQ8B4IeB988rMGhIQ6d) | [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Mazet SA](https://open.spotify.com/artist/0km84Hxr31ugkDaXR4hcbv) | [Sounds of Gomora Vol\. 2: The Healers Avenue](https://open.spotify.com/album/6NTH6wMA779ENXUuraTFys) | 6:43 | 2023-03-16 | 2023-03-25 |
 | [Ngeke Balunge](https://open.spotify.com/track/3SsGZQi6HFXUXGrjmkWd31) | [AfroToniQ](https://open.spotify.com/artist/6gMHqu7rD2o2GheeCRBBx5), [Kaydo Matthews](https://open.spotify.com/artist/7nMCLuYtjjmh4Sc7DTO3qu), [Jumanji Grey](https://open.spotify.com/artist/6VwlXipE0NWgNcTp09dARo), [Koolie West](https://open.spotify.com/artist/18TIoTEBGffzJwUPZt5qPK) | [Ngeke Balunge](https://open.spotify.com/album/1gFb6J7JEMmMg4q31AQCJu) | 5:43 | 2022-06-16 | 2022-07-08 |

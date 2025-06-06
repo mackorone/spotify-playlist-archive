@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 13376,
+  "num_followers": 13388,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
-      },
-      "artists": [
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 182643,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "La Tormenta",
         "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 146332,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 182643,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "Quiromancia",
+        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 256847,
+      "name": "Quiromancia (feat. Vic Mirallas)",
+      "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 202221,
       "name": "Perdiendo el Control",
       "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "Quiromancia",
-        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 256847,
-      "name": "Quiromancia (feat. Vic Mirallas)",
-      "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Sol Y Lluvia",
         "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 218000,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/51nUeUiBWGoCrsWIMM6qBC"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
       },
@@ -1599,18 +1579,22 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Calavera",
-        "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
       },
       "artists": [
         {
-          "name": "Keke Minowa",
-          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Calavera",
-      "url": "https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD"
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1627,6 +1611,22 @@
       "duration_ms": 184925,
       "name": "Como Fuego",
       "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Calavera",
+        "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
+      },
+      "artists": [
+        {
+          "name": "Keke Minowa",
+          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Calavera",
+      "url": "https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD"
     },
     {
       "added_at": "2025-05-30 15:44:41",

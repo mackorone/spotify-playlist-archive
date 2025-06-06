@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172354,
+  "num_followers": 172376,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACnudFIex+LP2wGBjRNvDwm",
+  "snapshot_id": "aD+MgAAAAABjf5NSqiDRS0jSx5dh4JJS",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Si El Mundo Se Fuera A Acabar",
-        "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 187539,
-      "name": "Como Si El Mundo Se Fuera A Acabar",
-      "url": "https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 171800,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Si El Mundo Se Fuera A Acabar",
+        "url": "https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 187539,
+      "name": "Como Si El Mundo Se Fuera A Acabar",
+      "url": "https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 145541,
+      "name": "Te Suelto El Pelo / Dembow Medley - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Underdog - El Subestimado",
         "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 184480,
       "name": "Cuando Baila Reggaeton",
       "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 145541,
-      "name": "Te Suelto El Pelo / Dembow Medley - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/2qZdmfOUoZpZElWroObqS5"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "La Ocasi\u00f3n Perfecta",
+      "url": "https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA MAYBACH",
         "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OCEAN",
-        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "La Ocasi\u00f3n Perfecta",
-      "url": "https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg"
     }
   ],
   "unique_name": "This Is Yandel",

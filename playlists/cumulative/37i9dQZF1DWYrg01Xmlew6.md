@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Luchè e Geolier in cover.
+> Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-470 songs - 21 hr 39 min
+473 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blitz](https://open.spotify.com/track/6prazZbaULprg73XDkvbhl) | [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd) | [Blitz](https://open.spotify.com/album/2GLCKvVFJXwSuV4R4gHJd8) | 1:59 | 2025-05-01 |  |
 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 | 2022-10-27 | 2023-04-21 |
 | [BLUE MONDAY](https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [BLUE MONDAY](https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl) | 2:36 | 2023-05-25 | 2023-07-07 |
+| [BRATZ](https://open.spotify.com/track/5I3FJAEbsA6wHrCoNb5fhs) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [BRATZ](https://open.spotify.com/album/2Uyn21YkIpQLeBAeWyZZfX) | 2:12 | 2025-06-05 |  |
 | [Bye Bye](https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Bye Bye](https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U) | 2:18 | 2022-05-10 | 2022-07-29 |
 | [C VUO](https://open.spotify.com/track/5vpPOHCj3KgQwa8ZuIr5m1) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [C VUO](https://open.spotify.com/album/5JsxOA21rxBnItVyMzXHFk) | 2:42 | 2023-07-27 | 2023-09-21 |
 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 | 2022-05-10 |  |
@@ -92,6 +93,7 @@
 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 | 2024-01-25 | 2024-05-10 |
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-10 | 2022-08-13 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 | 2024-03-22 |
+| [COMM VUO TU](https://open.spotify.com/track/4Mmh69GDR063y9qPJlbEBt) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [COMM VUO TU](https://open.spotify.com/album/5hbChIhNLZIlsAjKv4YxOE) | 3:02 | 2025-06-05 |  |
 | [COMME E 'MERICAN](https://open.spotify.com/track/79RxhsVu4IhMdD9V1Binmg) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [COMME E 'MERICAN](https://open.spotify.com/album/6xRUQgMxjRnEqL8If3NooS) | 2:28 | 2025-04-24 |  |
 | [CONTENUTO RIMOSSO FREESTYLE](https://open.spotify.com/track/78ciKdgTUnCx2niYPY5IDO) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [CONTENUTO RIMOSSO FREESTYLE](https://open.spotify.com/album/7nR6hyIcd7tUyrfeUA5Seb) | 1:29 | 2024-11-28 | 2025-01-17 |
 | [CONTIGO](https://open.spotify.com/track/7vTumt1u4yB2ysy3TID5L6) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Dele](https://open.spotify.com/artist/20IN6F6LAEJO5sK6PBkfZF) | [CONTIGO](https://open.spotify.com/album/22WUKu41Q78VgqeE49z2zT) | 2:30 | 2024-09-05 | 2024-10-25 |
@@ -190,6 +192,7 @@
 | [Kiss \(feat\. Luchè\)](https://open.spotify.com/track/3ldGtUBuposTxAzaSFM0FI) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Kiss \(feat\. Luchè\)](https://open.spotify.com/album/12378C6fIxDBRaMJcaJptW) | 2:59 | 2024-11-06 | 2024-12-06 |
 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 | 2023-08-31 | 2024-11-12 |
 | [KRIRM](https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [KRIRM](https://open.spotify.com/album/2SAb40pFyvOYpbPQDirxlL) | 2:31 | 2023-11-16 | 2024-01-12 |
+| [KSFA](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [KSFA](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 | 2025-06-05 |  |
 | [KTM](https://open.spotify.com/track/5mKbRYOpe6yqXW7SbqXB12) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [KTM](https://open.spotify.com/album/4OXvM9sRNnZSAYDOnnCsjl) | 1:51 | 2024-05-30 | 2024-07-05 |
 | [L'immortale](https://open.spotify.com/track/1OnQfsNP3MzaxGsP52siB9) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [L'immortale](https://open.spotify.com/album/6QXefXe4iqEEc3AXu8Gi1F) | 2:50 | 2022-09-01 | 2022-09-09 |
 | [L'Ultima Notte \- prod\. by Poison Beatz](https://open.spotify.com/track/1ivHKEnNul3xqXJWbUzZLW) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [L'Ultima Notte](https://open.spotify.com/album/2wttSCQpsWWeIMpYx7hpis) | 2:37 | 2022-12-08 | 2023-01-20 |

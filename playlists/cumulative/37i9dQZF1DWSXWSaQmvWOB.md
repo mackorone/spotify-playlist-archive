@@ -2,9 +2,9 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: Durand Jones & The Indications
+> New soul\-infused music! Cover: Curtis Harding
 
-1,105 songs - 2 day 19 hr 14 min
+1,106 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [Ladies Room](https://open.spotify.com/track/0M7oki70AV10Ztt3HyUd8Z) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:40 | 2023-10-06 | 2024-04-11 |
 | [Lake By the Ocean](https://open.spotify.com/track/515Sz5OLZs4ySr234CP2js) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [blackSUMMERS'night \(2016\)](https://open.spotify.com/album/6pjoIUNpMtQaSJvRUmsnSh) | 3:58 | 2023-10-06 | 2023-12-13 |
 | [Landing Soft](https://open.spotify.com/track/3s3xMjzpkacG8DT07L7EdT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Landing Soft](https://open.spotify.com/album/2sloXrWOoeQEYvqyj2YiVo) | 3:38 | 2023-06-07 | 2024-02-10 |
-| [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-10-04 |  |
+| [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 | 2024-10-04 | 2025-06-06 |
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2020-04-24 | 2020-11-20 |
 | [Last Call At The Mudd Club](https://open.spotify.com/track/0CTBOpTGlA5NL0W9wtmWVX) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:41 | 2025-05-19 |  |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2021-12-03 | 2023-02-18 |
@@ -1008,6 +1008,7 @@
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-29 | 2021-12-01 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-21 | 2024-10-26 |
 | [True Love](https://open.spotify.com/track/3bQKN5pORIeF3Cqn5eZXfU) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [TOINE](https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS) | 3:40 | 2022-06-20 | 2024-02-10 |
+| [True Love Can't Be Blind](https://open.spotify.com/track/13XkT1WvbAFyDvltA9ubt6) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [True Love Can't Be Blind](https://open.spotify.com/album/1ZoseZsIuTqT1bkCZ4EFVE) | 3:22 | 2025-06-05 |  |
 | [True to Myself](https://open.spotify.com/track/4dzlXO1JGGjCok8KMFpzhC) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/6ybKWIisMJ4FYCopM4tBi3) | 4:45 | 2020-10-09 | 2021-01-09 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-09 | 2025-02-11 |
 | [Trust](https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Truth & Soul](https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt) | 4:20 | 2022-04-28 | 2023-06-08 |

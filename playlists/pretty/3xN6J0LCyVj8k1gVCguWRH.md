@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!?
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,647 likes - 165 songs - 9 hr 36 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,652 likes - 165 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,15 +163,15 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 153 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 154 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 155 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 156 | [PANDEMONIUM](https://open.spotify.com/track/3rcI91F8xBUyLn3a1jauNp) | [Luh C Benji](https://open.spotify.com/artist/6Ojy8YYosEL8xrDRu8Zf53) | [PANDEMONIUM](https://open.spotify.com/album/5BhMFGc6wqUQQSoi0LhmzO) | 2:10 |
-| 157 | [Software Update](https://open.spotify.com/track/3FCgcYKYRnISRWKMW9Wfij) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD) | [Software Update](https://open.spotify.com/album/30jxGlfdLkyPL3KgLjyURk) | 4:16 |
-| 158 | [For The Fire](https://open.spotify.com/track/3uDJV925nWHjFwcUFy25yw) | [Junifer](https://open.spotify.com/artist/3hy0Fd6MNKxlkV9jRNyl1D) | [A Little Late](https://open.spotify.com/album/6iee0g4QHwPwhy6stiKmqT) | 4:02 |
-| 159 | [No Destination](https://open.spotify.com/track/458mhCgYlbmTQrsQc8zUpw) | [Horror Disco](https://open.spotify.com/artist/3GyTVsCcUAIbtVXzxvWOFO) | [No Destination](https://open.spotify.com/album/0au1ZNzuqe0HD1c7C3lI8C) | 3:00 |
-| 160 | [JOY](https://open.spotify.com/track/5IwgfxMsJtsV3iKMTSGzMS) | [Tony Moss](https://open.spotify.com/artist/1k9xtSxFDRv8GVfxC0dVIp), [Bird Tribe](https://open.spotify.com/artist/3TXlzdvGPfqcdclaUSFBDd) | [JOY](https://open.spotify.com/album/2oQclYi9SkLoTAs6IUwp9r) | 3:35 |
-| 161 | [Join The Club](https://open.spotify.com/track/0XlZb87mb6IFxLWBMrEZpk) | [Taylor Teasley](https://open.spotify.com/artist/6XkVX5E2zAdltgDFYMKWJC) | [Join The Club](https://open.spotify.com/album/2gYxTbXTkBxPKysHz2oNAB) | 3:58 |
-| 162 | [Confession](https://open.spotify.com/track/0d6o0j5iW9Ls4ndoUHLrOc) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Confession](https://open.spotify.com/album/1cgZuKqhSUYyHpng1dLCHS) | 3:58 |
-| 163 | [Leave Me Alone With My Muse](https://open.spotify.com/track/1n5DSoXXxLjmJwzxyAMC3M) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Leave Me Alone](https://open.spotify.com/album/5dufWSUiq1zTgEcZTloz3t) | 3:42 |
-| 164 | [La Nota](https://open.spotify.com/track/3SVzHzomKt0AfMsZwm23NZ) | [Ray Torres](https://open.spotify.com/artist/6VqdAtF2hlMv4MXNPQwWDs) | [La Nota](https://open.spotify.com/album/2tIRWo1Z00iitMVTghyzEx) | 2:04 |
-| 165 | [Como A Las 3](https://open.spotify.com/track/1VA03TjJafyKNEfyVTHTAs) | [Kintsugi](https://open.spotify.com/artist/6Vqa74iOflfEDp9SkEaVn3), [Jeecy ice](https://open.spotify.com/artist/6SbzrZAFHuKivj0ApFOOZt) | [Como A Las 3](https://open.spotify.com/album/0Hdc6DkWP7JDddUkFvPN9L) | 2:42 |
+| 156 | [Join The Club](https://open.spotify.com/track/0XlZb87mb6IFxLWBMrEZpk) | [Taylor Teasley](https://open.spotify.com/artist/6XkVX5E2zAdltgDFYMKWJC) | [Join The Club](https://open.spotify.com/album/2gYxTbXTkBxPKysHz2oNAB) | 3:58 |
+| 157 | [Confession](https://open.spotify.com/track/0d6o0j5iW9Ls4ndoUHLrOc) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Confession](https://open.spotify.com/album/1cgZuKqhSUYyHpng1dLCHS) | 3:58 |
+| 158 | [Leave Me Alone With My Muse](https://open.spotify.com/track/1n5DSoXXxLjmJwzxyAMC3M) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1) | [Leave Me Alone](https://open.spotify.com/album/5dufWSUiq1zTgEcZTloz3t) | 3:42 |
+| 159 | [La Nota](https://open.spotify.com/track/3SVzHzomKt0AfMsZwm23NZ) | [Ray Torres](https://open.spotify.com/artist/6VqdAtF2hlMv4MXNPQwWDs) | [La Nota](https://open.spotify.com/album/2tIRWo1Z00iitMVTghyzEx) | 2:04 |
+| 160 | [Como A Las 3](https://open.spotify.com/track/1VA03TjJafyKNEfyVTHTAs) | [Kintsugi](https://open.spotify.com/artist/6Vqa74iOflfEDp9SkEaVn3), [Jeecy ice](https://open.spotify.com/artist/6SbzrZAFHuKivj0ApFOOZt) | [Como A Las 3](https://open.spotify.com/album/0Hdc6DkWP7JDddUkFvPN9L) | 2:42 |
+| 161 | [PANDEMONIUM](https://open.spotify.com/track/3rcI91F8xBUyLn3a1jauNp) | [Luh C Benji](https://open.spotify.com/artist/6Ojy8YYosEL8xrDRu8Zf53) | [PANDEMONIUM](https://open.spotify.com/album/5BhMFGc6wqUQQSoi0LhmzO) | 2:10 |
+| 162 | [Software Update](https://open.spotify.com/track/3FCgcYKYRnISRWKMW9Wfij) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD) | [Software Update](https://open.spotify.com/album/30jxGlfdLkyPL3KgLjyURk) | 4:16 |
+| 163 | [For The Fire](https://open.spotify.com/track/3uDJV925nWHjFwcUFy25yw) | [Junifer](https://open.spotify.com/artist/3hy0Fd6MNKxlkV9jRNyl1D) | [A Little Late](https://open.spotify.com/album/6iee0g4QHwPwhy6stiKmqT) | 4:02 |
+| 164 | [No Destination](https://open.spotify.com/track/458mhCgYlbmTQrsQc8zUpw) | [Horror Disco](https://open.spotify.com/artist/3GyTVsCcUAIbtVXzxvWOFO) | [No Destination](https://open.spotify.com/album/0au1ZNzuqe0HD1c7C3lI8C) | 3:00 |
+| 165 | [JOY](https://open.spotify.com/track/5IwgfxMsJtsV3iKMTSGzMS) | [Tony Moss](https://open.spotify.com/artist/1k9xtSxFDRv8GVfxC0dVIp), [Bird Tribe](https://open.spotify.com/artist/3TXlzdvGPfqcdclaUSFBDd) | [JOY](https://open.spotify.com/album/2oQclYi9SkLoTAs6IUwp9r) | 3:35 |
 
-Snapshot ID: `AAAxJrwU5Y3ypsDtAopo7/KvF6yDguLE`
+Snapshot ID: `AAAxJ9kVM2A1FTW7IJwnwzP+grrymQbn`

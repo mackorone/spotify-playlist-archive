@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 269752,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 218000,
       "name": "All we ever wanted",
       "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
@@ -1482,6 +1482,24 @@
       "duration_ms": 407000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3Vf3vK3gpqH295FalVIbsX"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289831,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4AdoSUS52frZjmzIaOz7j9"
     },
     {
       "album": {
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 261290,
       "name": "Electric",
       "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
@@ -9021,6 +9039,28 @@
     },
     {
       "album": {
+        "name": "Life Through A Different Lens",
+        "url": "https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216653,
+      "name": "Paradise (Feat. Jem Cooke)",
+      "url": "https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc"
+    },
+    {
+      "album": {
         "name": "Participants",
         "url": "https://open.spotify.com/album/1hscOD8se5XWimHdIxPBos"
       },
@@ -12222,6 +12262,32 @@
       "duration_ms": 280000,
       "name": "The Tide",
       "url": "https://open.spotify.com/track/3pMyZztzU35UqFtlUtbICr"
+    },
+    {
+      "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "Tom Diesel",
+          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206890,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
     },
     {
       "album": {

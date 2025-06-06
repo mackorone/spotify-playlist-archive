@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,539 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,542 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,22 +25,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 15 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 16 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 |
 | 17 | [Prinses Pil](https://open.spotify.com/track/1WrwcIHLBhnXY459ybsY6p) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO), [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Prinses Pil](https://open.spotify.com/album/2R5Dy2a0uemGmppzhYGfgS) | 2:43 |
-| 18 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 |
-| 19 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 |
+| 18 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 |
+| 19 | [Neem Het Dan Terug](https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Neem Het Dan Terug](https://open.spotify.com/album/2IDr4joV1YC6rivjvCACtg) | 2:50 |
 | 20 | [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 |
 | 21 | [h\-e\-l\-p](https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:07 |
 | 22 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 |
 | 23 | [De Tijd](https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Tijd](https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr) | 3:33 |
 | 24 | [Mannenbaby](https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mannenbaby](https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe) | 2:24 |
-| 25 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 |
+| 25 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
 | 26 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 |
-| 27 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
+| 27 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 |
 | 28 | [Verlaten Terrein](https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Verlaten Terrein](https://open.spotify.com/album/1lFypumlh0lupowvAr4zFQ) | 2:45 |
-| 29 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
-| 30 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 |
+| 29 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 |
+| 30 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 | 31 | [Wauw](https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Diep In De Nacht \(Original Soundtrack\)](https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu) | 1:54 |
-| 32 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
-| 33 | [dichtbij](https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [dichtbij](https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy) | 2:34 |
+| 32 | [dichtbij](https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [dichtbij](https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy) | 2:34 |
+| 33 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
 | 34 | [Ster](https://open.spotify.com/track/0BQywrXDexJaSPZoHgCnek) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Ster](https://open.spotify.com/album/6AFkwGd7dAn6qh6KBWvrEq) | 3:44 |
 | 35 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 |
 | 36 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 46 | [Eerste Date](https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Eerste Date](https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi) | 2:38 |
 | 47 | [Ballenbak](https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [Ballenbak](https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ) | 2:37 |
 | 48 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
-| 49 | [23.45](https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [23.45](https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9) | 3:17 |
-| 50 | [Alleen](https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Spijbelaar](https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ) | 3:36 |
+| 49 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 |
+| 50 | [23.45](https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [23.45](https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9) | 3:17 |
 
 Snapshot ID: `aD2UzQAAAABllE/yrL52grA2+0qY3t2h`

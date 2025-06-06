@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "You Would Have Loved It Here",
+        "url": "https://open.spotify.com/album/4Mc1B2k5TjXPLfbCB1oPe5"
+      },
+      "artists": [
+        {
+          "name": "Young Summer",
+          "url": "https://open.spotify.com/artist/2SlMPjZm02pC12ODpApdhB"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204130,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/29BUIZWfsjrfezW3kJCMzc"
+    },
+    {
+      "album": {
         "name": "Altar (feat. R.LUM.R)",
         "url": "https://open.spotify.com/album/0CYqqFFdIDafAsrYEXkK5w"
       },

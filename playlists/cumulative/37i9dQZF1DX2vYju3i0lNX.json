@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 228277,
       "name": "A Heart's Silent Cry",
       "url": "https://open.spotify.com/track/52TeaoxBW5HSiJ9cTm4HSJ"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 233946,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 147226,
       "name": "At Sea",
       "url": "https://open.spotify.com/track/15VwmSWvyL1OS3Q3zLd5DP"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 215000,
       "name": "Blue Lake",
       "url": "https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 265404,
       "name": "Boulevard",
       "url": "https://open.spotify.com/track/77WP5Yi3jctWzpKH780Z7a"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 212715,
       "name": "Circular Motions",
       "url": "https://open.spotify.com/track/4oPsnuFEcz1xoAzXRF6rPa"
@@ -5938,7 +5938,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 223957,
       "name": "Floor 18",
       "url": "https://open.spotify.com/track/0qlr4e6h4cpWSu4CWqOMgh"
@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 223000,
       "name": "Flow",
       "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 230085,
       "name": "Fool For Your Love",
       "url": "https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg"
@@ -8674,7 +8674,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 204617,
       "name": "Impressive-looking",
       "url": "https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2"
@@ -10528,7 +10528,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 202087,
       "name": "Leave Your Umbrella at Home",
       "url": "https://open.spotify.com/track/1lSNa1Da5Q5OeNhjzgovSg"
@@ -12454,7 +12454,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 168040,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh"
@@ -14218,7 +14218,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 178652,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S"
@@ -14657,6 +14657,24 @@
     },
     {
       "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/1CAYVm8wa1c064GVvT7pZr"
+      },
+      "artists": [
+        {
+          "name": "London Dunes",
+          "url": "https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218657,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/2z2ae8Z0KlZamVav01p1BD"
+    },
+    {
+      "album": {
         "name": "Put Out The Lights",
         "url": "https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN"
       },
@@ -14902,7 +14920,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 236367,
       "name": "Reflecting",
       "url": "https://open.spotify.com/track/76g53Xbc9tqKPcQiUkKx2X"
@@ -15590,7 +15608,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 248106,
       "name": "Shimmer Through",
       "url": "https://open.spotify.com/track/6040WhuchadJWK5fuNE3OT"
@@ -17430,6 +17448,24 @@
       "duration_ms": 212200,
       "name": "Tears",
       "url": "https://open.spotify.com/track/4g7dvHTmHnsr4buNGeAwOJ"
+    },
+    {
+      "album": {
+        "name": "Tears In December",
+        "url": "https://open.spotify.com/album/1eBbbiITTpZeuKirNw1F8A"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192434,
+      "name": "Tears In December",
+      "url": "https://open.spotify.com/track/5lAdg6dfObPUtoMxKas0U9"
     },
     {
       "album": {
@@ -20400,7 +20436,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
@@ -20814,7 +20850,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 195058,
       "name": "Whispers of the Evening",
       "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"

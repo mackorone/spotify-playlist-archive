@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Rowli",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Aaron",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 186666,
       "name": "Blinde Passagiere",
       "url": "https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 206000,
       "name": "Blumen aus Metall",
       "url": "https://open.spotify.com/track/67fg0iyO7n7neiV2zj8qJZ"
@@ -5169,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "d\u00e9sol\u00e9e",
+        "url": "https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "d\u00e9sol\u00e9e",
+      "url": "https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya",
         "url": "https://open.spotify.com/album/7ljoJZvyV5EFoLgprpkf2e"
       },
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 168452,
       "name": "Ende",
       "url": "https://open.spotify.com/track/3kAXRmMpVq8uMLX5HCpTYO"
@@ -5985,6 +6003,24 @@
     },
     {
       "album": {
+        "name": "Es ist schon ok",
+        "url": "https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159880,
+      "name": "Es ist schon ok",
+      "url": "https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp"
+    },
+    {
+      "album": {
         "name": "Es ist Sommer",
         "url": "https://open.spotify.com/album/20yXDw5CJvidYkfNcyWUHa"
       },
@@ -6116,6 +6152,24 @@
       "duration_ms": 250526,
       "name": "es tut mir leid_demo",
       "url": "https://open.spotify.com/track/3aCeFqO6LEtYXGRXQ9tohZ"
+    },
+    {
+      "album": {
+        "name": "es tut weh",
+        "url": "https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185179,
+      "name": "es tut weh",
+      "url": "https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ"
     },
     {
       "album": {
@@ -6636,7 +6690,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173632,
       "name": "feuerwerk",
       "url": "https://open.spotify.com/track/5LBTSeM839Tc7Y1y1N4U75"
@@ -6730,7 +6784,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 203498,
       "name": "Filosofo",
       "url": "https://open.spotify.com/track/6CMnsBSNLdrlYVB2IJGYWx"
@@ -7622,7 +7676,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 161500,
       "name": "Ganze Torte Scham.",
       "url": "https://open.spotify.com/track/2uisMGIBZpJL2C2pOSc8xS"
@@ -8628,6 +8682,24 @@
       "duration_ms": 177391,
       "name": "Hamburg",
       "url": "https://open.spotify.com/track/0Vmyu21WT48agiq1Q4yzBs"
+    },
+    {
+      "album": {
+        "name": "Haus am Strand",
+        "url": "https://open.spotify.com/album/31KAO9AGqHUIF3Ug8hTskl"
+      },
+      "artists": [
+        {
+          "name": "CASTILLO",
+          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177359,
+      "name": "Haus am Strand",
+      "url": "https://open.spotify.com/track/7pug6cXur9NuSXfYkBcJbd"
     },
     {
       "album": {
@@ -9691,6 +9763,24 @@
     },
     {
       "album": {
+        "name": "Ich schieb dich weg von mir",
+        "url": "https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149903,
+      "name": "Ich schieb dich weg von mir",
+      "url": "https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz"
+    },
+    {
+      "album": {
         "name": "Ich trage Samt",
         "url": "https://open.spotify.com/album/5wHD5ao5biGk9MuBuSVl8p"
       },
@@ -10050,7 +10140,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 155760,
       "name": "In meinem Zimmer spielen sich Dramen ab",
       "url": "https://open.spotify.com/track/1kI132xTBCsVDLoIccMJNp"
@@ -11160,7 +11250,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 171546,
       "name": "Keine Zeit/Selbstmitleid",
       "url": "https://open.spotify.com/track/6iG5sYycr1fzTajS770BzE"
@@ -14963,6 +15053,24 @@
     },
     {
       "album": {
+        "name": "okaytanz",
+        "url": "https://open.spotify.com/album/63Tbczz1vcuNMwJhMisQKb"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125840,
+      "name": "okaytanz",
+      "url": "https://open.spotify.com/track/1nYkzv2l66SPWZtNXkphwr"
+    },
+    {
+      "album": {
         "name": "Vielleicht EP",
         "url": "https://open.spotify.com/album/4i3a981CPMyD27vOXLbmoB"
       },
@@ -15757,6 +15865,24 @@
     },
     {
       "album": {
+        "name": "EASY EASY",
+        "url": "https://open.spotify.com/album/3wK35ISIRDuiKzlhMrCWCV"
+      },
+      "artists": [
+        {
+          "name": "EASY EASY",
+          "url": "https://open.spotify.com/artist/7EflARVegRjDm9gcQOSQjT"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143046,
+      "name": "PS.",
+      "url": "https://open.spotify.com/track/4rhaKxD2QfFfoBAp06TH1l"
+    },
+    {
+      "album": {
         "name": "Pusteblume",
         "url": "https://open.spotify.com/album/0V16ixS9HViT0BgJ1OQofM"
       },
@@ -15768,7 +15894,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 191319,
       "name": "Pusteblume",
       "url": "https://open.spotify.com/track/1lw1fPnsOdkENuXeZ05guC"
@@ -16720,7 +16846,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 138856,
       "name": "Schachmatt",
       "url": "https://open.spotify.com/track/5rCUIjknAqNIgAjXnH0oFw"
@@ -16814,6 +16940,24 @@
       "duration_ms": 165597,
       "name": "Schere Stein Papier",
       "url": "https://open.spotify.com/track/35rLzOjaDt0k9L0JwndPYh"
+    },
+    {
+      "album": {
+        "name": "Schief in jedem Chor",
+        "url": "https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186524,
+      "name": "Schief in jedem Chor",
+      "url": "https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN"
     },
     {
       "album": {
@@ -18406,7 +18550,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 166875,
       "name": "spiel mit mir",
       "url": "https://open.spotify.com/track/2BmyTAWY1rFAON48e4DLFR"
@@ -18873,6 +19017,24 @@
     },
     {
       "album": {
+        "name": "Sturm im Kopf",
+        "url": "https://open.spotify.com/album/44sSV2OEsyEjSHq9y7aCAh"
+      },
+      "artists": [
+        {
+          "name": "ALLESS.",
+          "url": "https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sturm im Kopf",
+      "url": "https://open.spotify.com/track/65z2UwzApFlNDIaIL6sH4x"
+    },
+    {
+      "album": {
         "name": "such mit mir",
         "url": "https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo"
       },
@@ -18978,6 +19140,24 @@
       "duration_ms": 237798,
       "name": "Swimming Circles (edit)",
       "url": "https://open.spotify.com/track/5VPxrumSn6DiLX2VfJ5Kfj"
+    },
+    {
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/3lEXcCAZXNRYYkgyZIaio2"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129948,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/1XbP4kn5CSYvv1if1rQGbF"
     },
     {
       "album": {
@@ -20931,6 +21111,24 @@
     },
     {
       "album": {
+        "name": "Vorhang Auf",
+        "url": "https://open.spotify.com/album/1nJICdDYeK9y16fKtelreD"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171180,
+      "name": "Vorhang Auf",
+      "url": "https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc"
+    },
+    {
+      "album": {
         "name": "wach",
         "url": "https://open.spotify.com/album/6vjAfMjTD4vrwDgbATh3YF"
       },
@@ -21032,7 +21230,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 162693,
       "name": "Wandrisse",
       "url": "https://open.spotify.com/track/40i48ukbj3os9j30zFvA0F"
@@ -21094,6 +21292,28 @@
       "duration_ms": 191739,
       "name": "Warm",
       "url": "https://open.spotify.com/track/0XcEkE090RlUPXarl7c1cX"
+    },
+    {
+      "album": {
+        "name": "Warmes Bier",
+        "url": "https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        },
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "Warmes Bier",
+      "url": "https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI"
     },
     {
       "album": {

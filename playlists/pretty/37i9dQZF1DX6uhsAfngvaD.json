@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 317590,
+  "num_followers": 317620,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Face Down In The Garden",
-        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 252593,
-      "name": "12 Blown Tires",
-      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "The world within our bedrooms",
         "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 154533,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Face Down In The Garden",
+        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 252593,
+      "name": "12 Blown Tires",
+      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "I've Been Dreaming Of You",
-        "url": "https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO"
-      },
-      "artists": [
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
-        }
-      ],
-      "duration_ms": 148523,
-      "name": "I've Been Dreaming of You",
-      "url": "https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "I've Been Dreaming Of You",
+        "url": "https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO"
+      },
+      "artists": [
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "duration_ms": 148523,
+      "name": "I've Been Dreaming of You",
+      "url": "https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "i wanna",
         "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
       "artists": [
         {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
         }
       ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -723,6 +707,22 @@
       "duration_ms": 195691,
       "name": "Hyper-normal",
       "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "So Humble The Afternoon",
         "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
       },
       "artists": [
         {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+      "duration_ms": 191072,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -839,22 +855,6 @@
       "duration_ms": 278493,
       "name": "Little While",
       "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "baby\u2019s out of luck again",
-        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "carry you on my broken wings",
-      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "baby\u2019s out of luck again",
+        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "carry you on my broken wings",
+      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -971,22 +987,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Contently Miserable",
         "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
       },
@@ -1015,6 +1015,38 @@
       "duration_ms": 269268,
       "name": "James",
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "How Many Love Songs Have Died In Vegas?",
+        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
+      },
+      "artists": [
+        {
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "How Many Love Songs Have Died In Vegas?",
+      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 242515,
+      "name": "Haunt You Still",
+      "url": "https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1051,38 +1083,6 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 242515,
-      "name": "Haunt You Still",
-      "url": "https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "How Many Love Songs Have Died In Vegas?",
-        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "How Many Love Songs Have Died In Vegas?",
-      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Honeybee",
-        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
-      },
-      "artists": [
-        {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
-        }
-      ],
-      "duration_ms": 169477,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Heaven Sent (Between Heavens B-Sides)",
         "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 199413,
       "name": "Nadine",
       "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Wry",
+        "url": "https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wry",
+      "url": "https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1231,22 +1247,6 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Wry",
-        "url": "https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Wry",
-      "url": "https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "98",
-        "url": "https://open.spotify.com/album/479oIO5LniXchLurLGQHct"
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
       "artists": [
         {
-          "name": "Stay In Nothing",
-          "url": "https://open.spotify.com/artist/5Fl8ahmRakSPT20I7RhxHy"
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Simone Pace",
+          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
         }
       ],
-      "duration_ms": 192333,
-      "name": "98",
-      "url": "https://open.spotify.com/track/5xODww10HW7GXQmpme3BhW"
+      "duration_ms": 212008,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
     }
   ],
   "unique_name": "Dreampop",

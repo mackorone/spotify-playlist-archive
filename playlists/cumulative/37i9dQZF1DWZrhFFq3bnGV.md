@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Rara Sudirman
 
-239 songs - 16 hr 48 min
+242 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [GYMNASIUM](https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np), [JOY](https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht) | [GYMNASIUM](https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2) | 3:49 | 2023-07-13 | 2024-08-02 |
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 | 2023-08-18 |
 | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK), [Desmond Amos](https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI) | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO) | 3:11 | 2025-03-20 |  |
+| [Harus Bahagia](https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Harus Bahagia](https://open.spotify.com/album/733Hrl429wfieKxjF6Dclk) | 2:48 | 2025-06-05 |  |
 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 | 2023-10-06 |  |
 | [Healing Wounds](https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Adhika "Coki" Himawan](https://open.spotify.com/artist/33KNou9zac9O5y2J1wuJXa) | [Healing Wounds](https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re) | 3:28 | 2022-09-02 | 2023-08-25 |
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 | 2023-03-04 |
@@ -116,6 +117,7 @@
 | [I Wish You Love](https://open.spotify.com/track/7DbOM57AYYHUSZhWzMfnrB) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Hansen Arief](https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA), [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [I Wish You Love](https://open.spotify.com/album/7cyumjFwa8anLNX5w0gUn9) | 4:39 | 2023-06-08 |  |
 | [I'm Not the Only One](https://open.spotify.com/track/4AKbie1DHQL98d3kRi5P00) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [I'm Not the Only One](https://open.spotify.com/album/14nkRY04tLRasVaYcmFzRN) | 3:46 | 2022-09-02 | 2023-03-04 |
 | [I'm Old Fashioned](https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I'm Old Fashioned](https://open.spotify.com/album/6fjZYH9jfnOWfeZaT0kK6N) | 3:15 | 2024-06-06 | 2025-05-09 |
+| [I've Got You Under My Skin](https://open.spotify.com/track/7tZScyDpem9YmL47AmVhVB) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I've Got You Under My Skin](https://open.spotify.com/album/6S1VraSV9zk1nVLqhcDWEe) | 4:23 | 2025-06-05 |  |
 | [Image](https://open.spotify.com/track/6CDcX2XvRi80Ks0ewhGti1) | [Christ Kayhatu](https://open.spotify.com/artist/1UGLJ0ug9PKNdUd8GMe2b6) | [Nada Cintaku](https://open.spotify.com/album/7miau4wzSysbfwmmRQn1Ft) | 5:15 | 2024-07-25 | 2024-08-02 |
 | [In the Night](https://open.spotify.com/track/1rdH5fBweoMY9TxYjlGh3c) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [In the Night](https://open.spotify.com/album/3PBzXw12O4fygvwg6Ly68b) | 4:05 | 2023-03-03 | 2023-08-18 |
 | [In the Sweet By and By](https://open.spotify.com/track/7l5lcDKn5kWmnKIIZ5uK7q) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r), [Joe Fendero](https://open.spotify.com/artist/2OIij3yiXoAjxvAWpqy1jl) | [In the Sweet By and By](https://open.spotify.com/album/5LzNq8SXfYHla2FyozYzf0) | 3:09 | 2023-05-25 | 2024-11-30 |
@@ -155,6 +157,7 @@
 | [Makan Teman](https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Makan Teman](https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh) | 2:40 | 2022-09-02 | 2025-02-07 |
 | [Makna Nostalgia](https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:16 | 2022-09-02 | 2024-04-19 |
 | [Makna Nostalgia](https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Makna Nostalgia](https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo) | 5:16 | 2024-04-18 |  |
+| [Malam Yang Berisik Di Kenangan](https://open.spotify.com/track/2QgOQjFtk7PR12Qym1wfER) | [Didin Marlin](https://open.spotify.com/artist/5HmV6WP4nWIeY3S63ssgdx) | [Tempat Untuk Pulang](https://open.spotify.com/album/0MR48dz9ddtrGUnWV3FxXO) | 4:18 | 2025-06-05 |  |
 | [Mancation](https://open.spotify.com/track/4idgkZeNpSjxfdXJqLvEYB) | [Jundy Salut](https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP) | [Mancation](https://open.spotify.com/album/4YMjEC9Zf43DY4TsxqfvSg) | 7:36 | 2025-05-22 |  |
 | [Masuk Angin](https://open.spotify.com/track/73O8kVxE8Ipkd3JWCVEWGe) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Masuk Angin](https://open.spotify.com/album/6VydJRMeBiu8s23XbyboNc) | 3:40 | 2024-01-25 |  |
 | [Mata Kuru Made](https://open.spotify.com/track/2jUNYwyUqAU9ScJTGos3Be) | [Balawan](https://open.spotify.com/artist/3aKNBxiNR6YBHvOoi6f9Cm) | [Mata Kuru Made](https://open.spotify.com/album/5pU0oolHQu8XOxAZEjtxd8) | 4:33 | 2023-03-24 | 2023-06-30 |

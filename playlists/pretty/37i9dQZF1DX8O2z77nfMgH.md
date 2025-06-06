@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yailín La Más Viral
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,755 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,600 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

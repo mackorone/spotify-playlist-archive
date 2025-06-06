@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. yeule
+> welcome to our universe ft\. native james
 
-1,134 songs - 2 day 7 hr 26 min
+1,139 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [FAIR GAME](https://open.spotify.com/track/0xcEqifa3OUHuM49wOdTRP) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [FAIR GAME](https://open.spotify.com/album/30CZtMCeKytiLQ0J6XfYmY) | 2:46 | 2021-12-27 | 2022-02-18 |
 | [fall apart \(with glaive\)](https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:36 | 2022-04-19 | 2022-04-29 |
 | [fall out](https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [fall out](https://open.spotify.com/album/6TR6863vKfyOFsbiKjQtkG) | 2:46 | 2022-12-02 | 2023-06-02 |
+| [FALLEN](https://open.spotify.com/track/6GW3d5WzJZ6bQICl6zoQZj) | [Native James](https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3) | [FALLEN](https://open.spotify.com/album/3MCUHi69ctb7FLOit2F044) | 2:35 | 2025-06-05 |  |
 | [FAMOUS](https://open.spotify.com/track/530V51I8suvq6qTwaQZLse) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [FAMOUS](https://open.spotify.com/album/2sRQ8crrfsVL0s3wwU5JBu) | 2:57 | 2021-12-27 | 2022-01-19 |
 | [FANG DUMMY](https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [FANG DUMMY](https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy) | 3:50 | 2022-09-29 | 2023-06-30 |
 | [FANG DUMMY](https://open.spotify.com/track/4mcalqLHj42KL9GBndhL5S) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [FANG DUMMY](https://open.spotify.com/album/1MvPNBfCXz8pgXCLtihVzg) | 3:50 | 2023-06-29 | 2023-08-11 |
@@ -346,6 +347,7 @@
 | [FATAL](https://open.spotify.com/track/1n9aWX9W7kbM9czknPMjlE) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [FATAL](https://open.spotify.com/album/34G9ajD2MdWFFWJUmXcvYH) | 3:18 | 2024-07-18 | 2024-12-13 |
 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2023-08-10 | 2024-02-23 |
 | [Fear the Sun](https://open.spotify.com/track/2MOk3NNDzsEnNllOlzAhSK) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Fear the Sun](https://open.spotify.com/album/5hJVy5PfgPrVRbX8sREhKx) | 2:46 | 2022-09-22 | 2023-02-03 |
+| [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 | 2025-06-05 |  |
 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 | 2023-06-08 | 2023-08-11 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-04-19 | 2022-08-19 |
 | [Fight](https://open.spotify.com/track/0r8pHxNmHzxaRj7WS8p4I4) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Fight](https://open.spotify.com/album/0uG568JEwPF9ka223nxL66) | 3:11 | 2024-06-06 | 2024-06-28 |
@@ -428,6 +430,7 @@
 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 | 2025-05-23 |  |
 | [Going Down](https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri) | [Raven Numan](https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI) | [Going Down](https://open.spotify.com/album/6jjXS29r3Y0VbYMBhyDq0O) | 4:23 | 2024-05-02 | 2024-07-12 |
 | [Good Liar](https://open.spotify.com/track/5w6wKKvBIRlXehML8uga1O) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Good Liar](https://open.spotify.com/album/16HBANpgUfU8grGu6zpNt4) | 2:36 | 2024-09-26 | 2024-11-08 |
+| [Good Looking Girl Awful Music](https://open.spotify.com/track/7jEynwea4AAEDzujzp4Zsj) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Good Looking Girl, Awful Music](https://open.spotify.com/album/7wfN3HxHcFQU5ILA4yOnnK) | 3:22 | 2025-06-05 |  |
 | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOOD MOOD \(feat\. grandson\)](https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty) | 2:34 | 2022-08-27 | 2022-09-02 |
 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 | 2023-09-14 | 2023-10-13 |
 | [gothgirl1](https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [gothgirl1](https://open.spotify.com/album/0eRVnOBK3emNs2TAqaaK09) | 3:53 | 2023-06-08 | 2023-07-07 |
@@ -611,6 +614,7 @@
 | [Lapinou](https://open.spotify.com/track/2GSTQtsqF1ISi2FWzTSPqY) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Detrimentors](https://open.spotify.com/album/2oNmy4VbIkoOU30KhgLrVN) | 3:31 | 2025-05-01 | 2025-05-16 |
 | [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-28 | 2022-08-05 |
 | [Last Summer \(I Know What You Did\)](https://open.spotify.com/track/1d2pXU93R3BiiTeZWRl0t4) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [Careless](https://open.spotify.com/album/3SNMIbXUymlzYqWWTp0Egr) | 3:21 | 2023-08-10 | 2023-11-11 |
+| [Last Time](https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Last Time](https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj) | 3:05 | 2025-06-05 |  |
 | [Lazarus](https://open.spotify.com/track/6YeICQ526RnheZIr61Y5tj) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL), [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Lazarus](https://open.spotify.com/album/2ubFTHV87OkwQr4Xc9bxBc) | 3:13 | 2022-12-02 | 2023-02-09 |
 | [Learn To Forget](https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Learn To Forget](https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5) | 3:01 | 2024-06-06 | 2024-09-13 |
 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 | 2023-02-03 | 2023-04-14 |
@@ -811,6 +815,7 @@
 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-03-01 | 2024-09-06 |
 | [Poison](https://open.spotify.com/track/3Ruv9GEcztgqxDvbOL3ccT) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 2:46 | 2023-01-21 | 2023-06-02 |
 | [POISONOUS](https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [POISONOUS](https://open.spotify.com/album/0PrQ1CHicF8l6f8K1Xcb0L) | 3:14 | 2024-07-04 | 2024-12-13 |
+| [politix](https://open.spotify.com/track/4hZYlamBpLerJCoFjJ6BBq) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [politix](https://open.spotify.com/album/3siWh7rJo3ncwWHq8SjnFq) | 2:45 | 2025-06-05 |  |
 | [Pollyanna](https://open.spotify.com/track/41OgWDcM6bn7A8UqBrIwOv) | [Northstar](https://open.spotify.com/artist/50LCD3XERdxwjqdg9bc3CW) | [Pollyanna](https://open.spotify.com/album/4pNUkrDAdiScAS2Z72GuH0) | 4:08 | 2024-05-28 | 2024-06-07 |
 | [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-07 | 2025-05-02 |
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 | 2022-09-30 |
@@ -826,7 +831,7 @@
 | [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 | 2025-05-15 |  |
 | [PRINCESS CHARMING](https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [MATRIARCHY NOW](https://open.spotify.com/album/0J66nObGBIxsgyAere8u1C) | 2:16 | 2022-08-04 | 2023-03-03 |
 | [PRISON](https://open.spotify.com/track/6ru3rcoXUkmfWLT0OSBbUa) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [PRISON](https://open.spotify.com/album/6XGUYuj6Nl6fthoUqVugmJ) | 2:41 | 2023-05-18 | 2023-07-07 |
-| [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-09-20 |  |
+| [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-09-20 | 2025-06-06 |
 | [Prototype](https://open.spotify.com/track/0vN2Hxw1ECS8325UbkpPnR) | [City Sleeps](https://open.spotify.com/artist/1BdJEosPRMs34GwvwxxtSf) | [Not An Angel](https://open.spotify.com/album/5Q9SL4XfHdaDrpQWr0YaaH) | 3:16 | 2024-05-28 | 2024-06-07 |
 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 | 2023-11-17 | 2024-05-29 |
 | [Pub Watch](https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Pub Watch](https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L) | 3:20 | 2025-04-03 | 2025-05-24 |
@@ -976,7 +981,7 @@
 | [Talking To Myself](https://open.spotify.com/track/770scgQUE3GaT1HeemGdtp) | [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy), [Lil Tytan](https://open.spotify.com/artist/6xPylMjsDB2ZlarNnsSmev) | [Talking To Myself](https://open.spotify.com/album/7iqocKiDfPid4GJNbzB0ql) | 2:12 | 2022-11-11 | 2023-01-22 |
 | [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 | 2024-08-15 | 2024-10-18 |
 | [Teeth](https://open.spotify.com/track/6ojOIP09x2OZCjtoNdhNKY) | [Air Drawn Dagger](https://open.spotify.com/artist/11HaxoLRv5rUJfNmabD6Zh) | [A Guide For Apparitions](https://open.spotify.com/album/2ni92nWQg6m2GwCLtU0hqH) | 2:47 | 2025-04-03 | 2025-05-02 |
-| [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 | 2025-02-21 |  |
+| [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 | 2025-02-21 | 2025-06-06 |
 | [Tell Me](https://open.spotify.com/track/4bVl1QANpKT2KSuHaDCl9S) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tell Me](https://open.spotify.com/album/1897oDamebeoSMxQUB6Aba) | 2:44 | 2024-10-10 | 2024-11-15 |
 | [tenfold](https://open.spotify.com/track/7LGr6z6GtpmSDnemncbfkw) | [Sophie Hunter](https://open.spotify.com/artist/3L2gl8O5cKVCbAnSWUFZxf) | [\(go!\)](https://open.spotify.com/album/6ZhhQuBsNZJWKzXN1vVh8Y) | 2:15 | 2025-04-10 |  |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-10-13 | 2024-02-23 |

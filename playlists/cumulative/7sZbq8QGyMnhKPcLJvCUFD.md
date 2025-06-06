@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-713 songs - 1 day 12 hr 3 min
+714 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [Rave Teacher](https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Rave Teacher](https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD) | 2:51 | 2024-06-21 | 2025-01-08 |
 | [Real Good Liar](https://open.spotify.com/track/5fPb1gDcKVfTLQtgstylT5) | [Nokae](https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 3:10 | 2025-02-25 |  |
 | [Realize](https://open.spotify.com/track/1GIUBSDNFxbojhlaKFtW6p) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 3:00 | 2023-07-06 | 2023-08-10 |
-| [Reason](https://open.spotify.com/track/4LNb4Xk3byVi4LVi7FE34E) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Sam Nolan](https://open.spotify.com/artist/3CCvYAGH3giUtExJH0InLZ) | [Reason](https://open.spotify.com/album/15lJPipHfaSSulHOeVk6SZ) | 2:36 | 2025-05-30 |  |
+| [Reason](https://open.spotify.com/track/4LNb4Xk3byVi4LVi7FE34E) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Sam Nolan](https://open.spotify.com/artist/3CCvYAGH3giUtExJH0InLZ) | [Reason](https://open.spotify.com/album/15lJPipHfaSSulHOeVk6SZ) | 2:37 | 2025-05-30 |  |
 | [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 | 2023-12-13 | 2024-05-08 |
 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 | 2024-05-31 | 2024-12-09 |
 | [Redemption](https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Redemption](https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H) | 2:37 | 2023-08-08 | 2024-04-06 |
@@ -711,6 +711,7 @@
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-26 | 2023-04-28 |
 | [Would You Ever](https://open.spotify.com/track/6qI2itQgAThUD1s24FtgAR) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Would You Ever](https://open.spotify.com/album/08Nda5fgWQLMB7Ni36QQQ1) | 2:27 | 2023-05-12 | 2023-08-10 |
 | [Would You Ever](https://open.spotify.com/track/7ubF8QYmaeM0p0opdDiMtB) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 2:27 | 2023-06-23 | 2023-08-10 |
+| [X2](https://open.spotify.com/track/3GfnnZhCeysVePlfV25cZU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [X2](https://open.spotify.com/album/59vtXVIPN7Q3VYHAg2TcRc) | 1:58 | 2025-06-05 |  |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 | 2023-04-28 |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 | 2023-04-28 |
 | [You](https://open.spotify.com/track/1u0r6qXPc09NctGIVST2Yv) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Axol](https://open.spotify.com/artist/1AT64PJc0geIUwVRqYqkTu) | [You](https://open.spotify.com/album/783tlaEMo9ZgGROoODG8mw) | 3:18 | 2023-08-08 | 2023-12-14 |

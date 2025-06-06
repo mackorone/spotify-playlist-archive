@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-229 songs - 13 hr 39 min
+230 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Changing Lanes](https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/5jhFRab152NcnXSPab5GNO) | 2:58 | 2023-08-17 | 2023-09-01 |
 | [Changing Lanes](https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ) | [Maurice van Hoek](https://open.spotify.com/artist/0XKAZ6AUBdENziqwAdzkD4) | [Changing Lanes](https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE) | 2:58 | 2023-05-11 | 2024-09-13 |
 | [Changing Waters](https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Changing Waters](https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX) | 3:25 | 2025-02-27 | 2025-03-17 |
-| [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-07-25 |  |
+| [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-07-25 | 2025-06-06 |
 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 | 2023-04-27 | 2023-05-13 |
 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 | 2023-02-23 | 2024-06-20 |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-18 |
@@ -152,6 +152,7 @@
 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 | 2024-04-11 |  |
 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 | 2024-09-12 | 2025-03-24 |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2023-02-23 | 2024-06-28 |
+| [One Step At a Time](https://open.spotify.com/track/5fxunQcvfuCoxPxR9QMvEf) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [One Step At a Time](https://open.spotify.com/album/5dkYzBM58ul629s7MqwCCD) | 2:43 | 2025-06-05 |  |
 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 | 2023-02-23 | 2024-08-30 |
 | [Our House](https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Our House](https://open.spotify.com/album/2pj3bBwQIhqACfusXx6aHf) | 3:20 | 2023-06-22 | 2024-11-15 |
 | [Out On Gin](https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Acoustic.Blues.Club](https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ) | 6:31 | 2024-10-22 | 2025-06-03 |

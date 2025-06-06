@@ -1,6 +1,6 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 281335,
+  "num_followers": 281383,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
         "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
         "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 211813,
       "name": "Muchachita Consentida",
       "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Gritar\u00eda",
+      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
         "name": "Adi\u00f3s Amor / Oye Mujer",
         "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 133077,
       "name": "Costumbres - Vivo",
       "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Gritar\u00eda",
-      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
         "name": "Hay El Amor",
         "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 184084,
       "name": "Hay El Amor",
       "url": "https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
+        "name": "Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
         "name": "Hoy Volvi a Verte (Remix)",
         "url": "https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 162461,
       "name": "Hoy Volvi a Verte - Remix",
       "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
-        "name": "Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
-        "name": "Solo Le Pido a Dios",
-        "url": "https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Llegamos los Pibes Chorros",
-      "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
         "name": "La Potencia Quiero y Deseo y Mas Exitos",
         "url": "https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 234736,
       "name": "Reyna de Mi Vida",
       "url": "https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
+        "name": "Solo Le Pido a Dios",
+        "url": "https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Llegamos los Pibes Chorros",
+      "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 238020,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
         "name": "Cumbia del Recuerdo",
         "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 177340,
       "name": "Cumbia del Recuerdo",
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 238020,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
-        "name": "Un Cl\u00e1sico",
-        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 166321,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/6EGBtAnzmEgJt2On3b26zr"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
         "name": "De los Besos Que Te Di",
         "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 186734,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
+        "name": "Un Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 166321,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/6EGBtAnzmEgJt2On3b26zr"
     },
     {
       "added_at": "2025-03-28 03:00:18",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2025-03-28 03:00:18",
       "album": {
+        "name": "Joda Clandestina",
+        "url": "https://open.spotify.com/album/0EPQkabXlUpa2Py5Wu9bXs"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Mozthaza",
+          "url": "https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP"
+        }
+      ],
+      "duration_ms": 157030,
+      "name": "Joda Clandestina",
+      "url": "https://open.spotify.com/track/0GagwFgtQHNefc02XXEsMP"
+    },
+    {
+      "added_at": "2025-03-28 03:00:18",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -1775,22 +1795,6 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2025-03-28 03:00:18",
-      "album": {
-        "name": "Un Cl\u00e1sico",
-        "url": "https://open.spotify.com/album/3d9ZcGHaCHLufPIgmMRz85"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Mi Unico Amor",
-      "url": "https://open.spotify.com/track/5xOLqQamew1yeZInzZsh8T"
     }
   ],
   "unique_name": "50 Cumbiones Bien Locos",

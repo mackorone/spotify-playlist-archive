@@ -4,7 +4,7 @@
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
 
-201 songs - 14 hr 24 min
+202 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [千里之外](https://open.spotify.com/track/4tO2Iw4hLY8snI59PAS7NG) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Fei Yu\-ching](https://open.spotify.com/artist/6aSJ9LaNaHOKiPchLDYGYl) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:16 | 2023-12-21 |  |
 | [半島鐵盒](https://open.spotify.com/track/24F4oxC8oUBbRvpEOGjwPj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [八度空間](https://open.spotify.com/album/3LyYZXoNFcRQGYqBpy13Th) | 5:17 | 2023-12-21 | 2024-04-19 |
 | [半島鐵盒](https://open.spotify.com/track/4XjGz4IxIJ6tYk9tDIid8w) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [八度空間](https://open.spotify.com/album/0FJMLVgMVrMRzuYHBEqDC7) | 5:17 | 2023-12-21 |  |
+| [即興曲](https://open.spotify.com/track/4tEoaQEFcOhKwbCcnyIBAd) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [即興曲](https://open.spotify.com/album/560u3PKzUeyGiapQRaFV46) | 1:39 | 2025-06-05 |  |
 | [可愛女人](https://open.spotify.com/track/4RbjlqzGc5piUTTr32XMlv) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 3:56 | 2023-12-21 |  |
 | [可愛女人](https://open.spotify.com/track/2EuC4WXEvhWZLqQTFndpr1) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON) | 3:59 | 2023-12-21 | 2024-04-19 |
 | [告白氣球](https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 3:35 | 2023-12-21 |  |
@@ -121,7 +122,7 @@
 | [煙花易冷](https://open.spotify.com/track/0UY2GoaZvTI29l64yp8yAK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:21 | 2023-12-21 |  |
 | [煙花易冷](https://open.spotify.com/track/24beWW0pQCJEF3IVSpIryu) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/284sMgc5vlNarGC1QgL2gp) | 4:23 | 2023-12-21 | 2024-04-19 |
 | [爸 我回來了](https://open.spotify.com/track/75KljiZZB2VloSKFqfESTk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 3:55 | 2023-12-21 | 2024-04-19 |
-| [爸我回來了](https://open.spotify.com/track/3hsZxEXf0PNXVq0S8idacb) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 3:55 | 2023-12-21 |  |
+| [爸我回來了](https://open.spotify.com/track/3hsZxEXf0PNXVq0S8idacb) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 3:55 | 2023-12-21 | 2025-06-06 |
 | [爺爺泡的茶](https://open.spotify.com/track/0ySyN0kVet2CPxfmU5cwXT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [八度空間](https://open.spotify.com/album/3LyYZXoNFcRQGYqBpy13Th) | 3:58 | 2023-12-21 | 2024-04-19 |
 | [爺爺泡的茶](https://open.spotify.com/track/257WOrrmSRzhdbrK0nrsSr) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [八度空間](https://open.spotify.com/album/73TuSaNd471d1A8k5sqax1) | 3:58 | 2023-12-21 |  |
 | [牛仔很忙](https://open.spotify.com/track/4eIxdrVN54RZOJYkmyklUT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/39PHyEjzFKafPr9EM7vQVk) | 2:48 | 2023-12-21 |  |

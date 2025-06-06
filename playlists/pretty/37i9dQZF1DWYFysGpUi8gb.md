@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > underground and experimental\. greetings from caroline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,013 likes - 105 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,002 likes - 105 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 104 | [Be Laurel](https://open.spotify.com/track/77M9iOcvUtzbV8194xfmy7) | [Search Results](https://open.spotify.com/artist/26WnkHydmkuHAgHS0ZbZjM) | [Be Laurel](https://open.spotify.com/album/4LFwOCEzMz7l8dVzm6U3Vx) | 1:39 |
 | 105 | [FRANCES](https://open.spotify.com/track/6rae1njvXdSigrnHrQaaqf) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [FRANCES](https://open.spotify.com/album/63krr0RdIndpriaq4otBgB) | 2:03 |
 
-Snapshot ID: `aDmFHgAAAAAnL3u9Nmqquuuk8ovEMrL/`
+Snapshot ID: `AAAAAGbQydRTB2Ha5KcfaKgfG18hlzi8`

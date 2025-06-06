@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-977 songs - 2 day 1 hr 59 min
+979 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Dance With You](https://open.spotify.com/track/59NMT9RoPEzwctqcSzaNmx) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Are You Ready For Me](https://open.spotify.com/album/30dKnVX8TKgReLFnTuzwjH) | 2:52 | 2024-07-19 | 2024-10-11 |
 | [Dancing Shoes \(Take Me Higher\) \- Más Tiempo Mix by Skepta & Jammer](https://open.spotify.com/track/1Kn7iQDDhAKlJE1GTg8Z2H) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Dancing Shoes \(Take Me Higher\) \[Más Tiempo Mix by Skepta & Jammer\]](https://open.spotify.com/album/2l6u9TryaFTxNbkFLvFRvG) | 2:44 | 2023-07-14 | 2023-12-14 |
 | [Dangerous](https://open.spotify.com/track/13LQ7uYpXDxomdDrEWTZKO) | [Cashmere](https://open.spotify.com/artist/0NuYceEEFxg9GGkohMPG65) | [Dangerous](https://open.spotify.com/album/69ZNnvr9AmoC5lGsdzBL9L) | 3:46 | 2023-06-23 | 2023-07-14 |
+| [Das Boom](https://open.spotify.com/track/0GI4jfqufRqXXkuatEMCsn) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Das Boom](https://open.spotify.com/album/3hGP21qtBpVpZradJOEbgu) | 2:13 | 2025-06-05 |  |
 | [Dawn](https://open.spotify.com/track/2xGEl0CPrKOxgnYmicvhTA) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [TRYAD](https://open.spotify.com/artist/3lxtnm9uc5qrpl2CIkee1A) | [Dawn](https://open.spotify.com/album/2swHYB2j1IDlJEehf4BUQk) | 4:08 | 2023-11-03 | 2024-09-26 |
 | [Deep Blue](https://open.spotify.com/track/6N64uP2GdgSjC1AAx4Y8J2) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Deep Blue](https://open.spotify.com/album/6P41WRzxaUDfKxbLCQeKtn) | 3:05 | 2024-12-05 | 2025-03-14 |
 | [Deep Down](https://open.spotify.com/track/61k2wuStVOfO1qzFaHW2HL) | [KeinKlang](https://open.spotify.com/artist/60T6JUeMdx8kOBWg3zTxy8) | [Deep Down](https://open.spotify.com/album/4AL45M0AQbhnlJToC0K1ZV) | 2:59 | 2024-11-01 | 2024-11-16 |
@@ -473,6 +474,7 @@
 | [Levitate](https://open.spotify.com/track/1Kbbyf7ptwd1R43cSWrBmR) | [BZRK](https://open.spotify.com/artist/5DOnC6OSQcnXYOPhNo3sxk) | [Levitate](https://open.spotify.com/album/3WrIGOYUdVNrdAdgVwMdxF) | 2:44 | 2024-04-26 | 2025-01-09 |
 | [Libre](https://open.spotify.com/track/4E7QloZyOgGP35MIiogYj2) | [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Libre](https://open.spotify.com/album/3MXymmqjjWTmwOjSLQaGiI) | 2:01 | 2023-02-12 | 2023-04-13 |
 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 | 2025-04-04 |  |
+| [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 | 2025-06-05 |  |
 | [Life’s A Bitch \(VIP Mix\)](https://open.spotify.com/track/3oczjO9YYFUnjJx51PqKLB) | [SUB\-X](https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG) | [Life’s A Bitch \(VIP Mix\)](https://open.spotify.com/album/4Rq0LE42ylOX3AZn5Bbf1u) | 3:24 | 2023-07-07 | 2023-07-14 |
 | [Life’s Too Short \(feat\. Scarlett\)](https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6), [Chunky Dip](https://open.spotify.com/artist/1TmzgTXR9fUhmRuzIgnsV6), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Life’s Too Short \(feat\. Scarlett\)](https://open.spotify.com/album/3DR0BJBWLEO5Uq8baZu15B) | 2:23 | 2024-02-16 | 2024-09-26 |
 | [Lift Me Up](https://open.spotify.com/track/0LBGk4xW093mDP7u1nVAdt) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Maynamic](https://open.spotify.com/artist/59tEd7UdrbizecKsQGcSAL), [Edd Blaze](https://open.spotify.com/artist/3cySvdUfWyFpkVC5pVD5wb) | [Lift Me Up](https://open.spotify.com/album/7J61Uu0AG8bKc3hW2QkUse) | 2:30 | 2025-01-23 |  |

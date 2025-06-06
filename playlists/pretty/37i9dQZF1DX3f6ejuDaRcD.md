@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f6ejuDaRcD.md) - [plain]
 
 > Enjoy the soundtrack of Twenty Five Twenty One! \(청춘을 이야기하는 드라마 스물다섯 스물하나의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,511 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,537 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f6ejuDaRcD.md) - [plain]
 | 52 | [Just Do It](https://open.spotify.com/track/1Oem02QeqMRT3BLDeHNRC9) | [Daniel Lee](https://open.spotify.com/artist/4L28VKeDZWK3m5HlPRuj7f) | [Twenty\-Five Twenty\-One OST](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) | 2:35 |
 | 53 | [Fuss](https://open.spotify.com/track/7tgJyAVWDTksMjoNhV2tq0) | [SHIN MIN YONG](https://open.spotify.com/artist/4uQdTE80aH9IXZUL2LPokG) | [Twenty\-Five Twenty\-One OST](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) | 1:47 |
 
-Snapshot ID: `ZIsSIgAAAACkGLSq5btOjr0P0ikAWYs6`
+Snapshot ID: `ZIsSIgAAAAChv/1LpBpsZ8ZGPsRGd0RP`

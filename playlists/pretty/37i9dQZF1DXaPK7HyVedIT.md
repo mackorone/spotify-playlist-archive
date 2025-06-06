@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, Future Skies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,964 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,797 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Cansei de Ser Séria](https://open.spotify.com/track/3W5RkIc3m7rigiY2hlpE1Y) | [Ella De Vuono](https://open.spotify.com/artist/2PRUReyWWiCkqNISBal5sn) | [Cansei de Ser Séria](https://open.spotify.com/album/1NBILcb4z7vLWZED9yKbVt) | 3:38 |
 | 75 | [Milango \- Curol Remix](https://open.spotify.com/track/6tj119TR26rB6u7f4H3hiD) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Milango \(Curol Remix\)](https://open.spotify.com/album/3TBV6T0fz209gc4qOyPTNf) | 4:04 |
 
-Snapshot ID: `aD3XQgAAAADQa+xKADH05ZCte7qJDkxt`
+Snapshot ID: `AAAAAAEz814ZWuXbKhH3xCBGWBZLYOi6`

@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "365 (feat. Benny Jamz)",
+        "url": "https://open.spotify.com/album/5PWg2uqvtri5cEX1yrZa4e"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152589,
+      "name": "365 (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/6bcPxfjMUONVAbO4lYss1K"
+    },
+    {
+      "album": {
         "name": "4 LIFE",
         "url": "https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL"
       },
@@ -1169,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Alene I Verden",
+        "url": "https://open.spotify.com/album/0bIGBegMuy631r4JQJ14VW"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199073,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/1VZnv0F4z84RGtA8gC2xM2"
+    },
+    {
+      "album": {
         "name": "Casual Weeknd",
         "url": "https://open.spotify.com/album/3OfA5IKvyEfAqo6U5TVq6Z"
       },
@@ -1612,6 +1652,24 @@
       "duration_ms": 133894,
       "name": "DEMONS & GOONS",
       "url": "https://open.spotify.com/track/0BlLaxm7TtjUVZm7jHVBuV"
+    },
+    {
+      "album": {
+        "name": "Den Anden Side Af Dig",
+        "url": "https://open.spotify.com/album/66BukobyOzRbmj4Se3yoKl"
+      },
+      "artists": [
+        {
+          "name": "$HYBXI",
+          "url": "https://open.spotify.com/artist/7JwZ6CcNLlSq6bDEaCQhVK"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150176,
+      "name": "Den Anden Side Af Dig",
+      "url": "https://open.spotify.com/track/5FLZt5NvHteXOIECfeffhH"
     },
     {
       "album": {
@@ -2354,7 +2412,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 125620,
       "name": "FEJLFRI",
       "url": "https://open.spotify.com/track/4AsiNZTuFAwk93V9DP7lt7"
@@ -2678,7 +2736,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 154112,
       "name": "Geek'd",
       "url": "https://open.spotify.com/track/0e3TmAWvBPpcw4Pvtbipdi"
@@ -6206,7 +6264,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 122322,
       "name": "Trump",
       "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"

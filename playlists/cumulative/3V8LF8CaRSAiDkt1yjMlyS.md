@@ -4,7 +4,7 @@
 
 > 
 
-207 songs - 10 hr 55 min
+209 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2023-01-16 |  |
 | [Lay Low](https://open.spotify.com/track/1II87EJtkBXN06a8juVNft) | [Matt\-Felix](https://open.spotify.com/artist/4T052xBzxDNV7ytuTFysnu) | [Lay Low](https://open.spotify.com/album/452GSZhXWYcuQEhSYwKSIl) | 3:30 | 2025-05-09 |  |
 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 | 2024-09-11 |  |
+| [Let Me In](https://open.spotify.com/track/4iTf7a7I4EuT9rI243cpRb) | [White Wtch](https://open.spotify.com/artist/6WRxMmR9XlAmcpku81EJwz) | [Let Me In](https://open.spotify.com/album/56rKMnro11Zj4FzHV8T5BB) | 2:11 | 2025-06-06 |  |
 | [Librium](https://open.spotify.com/track/6kdGrUX5g9DoFaGYlQWifz) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 1:21 | 2023-05-26 |  |
 | [Little Things](https://open.spotify.com/track/0awKSn8GziBuAXDeHp2Bm8) | [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Immaterial](https://open.spotify.com/album/3zhCB9rhuT1Gd68NT0IKIZ) | 3:04 | 2023-08-14 |  |
 | [Lonely Day](https://open.spotify.com/track/4xBHZ2Mr0gCdFYXrPZuYXO) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/1UeOoLhpWzpuM5cWQsbCXg) | 2:47 | 2023-04-08 |  |
@@ -205,6 +206,7 @@
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-08-08 |  |
 | [Whine For Me](https://open.spotify.com/track/2OlideyYZKnQkHSIpwiPUC) | [BadboyJayl](https://open.spotify.com/artist/1AL9vPmQ6pp7G05r1Pg40z) | [Whine For Me](https://open.spotify.com/album/3cW6oddMAkPG2EKl3MegzP) | 2:06 | 2025-03-04 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-01 |  |
+| [Without You](https://open.spotify.com/track/1NbBkAsDMiXPZulDTKKdPu) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Without You](https://open.spotify.com/album/4FpGkWwRqX2Mj5GmrukiRp) | 2:11 | 2025-06-06 |  |
 | [Witness Reprise](https://open.spotify.com/track/27CDPbGNgkMaKxYKbAAZMM) | [Deny Hanz](https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh) | [Witness](https://open.spotify.com/album/4Za0P7gc45f8ABtjBbNA69) | 3:13 | 2024-12-05 |  |
 | [Worn out Shoes](https://open.spotify.com/track/2fO2YSbkT6gvGLjcqkCpMr) | [Glassir](https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9) | [Headed Down](https://open.spotify.com/album/5LLsZ8uICGZa34gXc4UJno) | 3:48 | 2025-02-26 |  |
 | [XIV](https://open.spotify.com/track/2xVk5Sr5GNUE5fneLOK3Nh) | [TheVidko](https://open.spotify.com/artist/2XrVeMBgc25LNO32L8vs05), [Blentyn](https://open.spotify.com/artist/5yQQht9xmSvMlFDps0AgNN) | [OPUS](https://open.spotify.com/album/36gX7d4u8oG6uwQU1ssnwn) | 2:57 | 2025-03-27 | 2025-05-26 |

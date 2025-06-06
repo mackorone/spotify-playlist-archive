@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 429870,
+  "num_followers": 430099,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABdvDEXk8nDgz4EYxnmlzS/",
+  "snapshot_id": "aD+MgAAAAADbevNMjTD8Z1CpUsCpjZR7",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "Mein",
-      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 276573,
       "name": "Dai the Flu",
       "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "Mein",
+      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Root",
-      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+      "duration_ms": 248893,
+      "name": "Leathers",
+      "url": "https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Leathers",
-      "url": "https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ"
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 302413,
       "name": "(L)MIRL",
       "url": "https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "One Weak",
-      "url": "https://open.spotify.com/track/4Bj9dhsxbIwrblcmBs9BpZ"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "One Weak",
+      "url": "https://open.spotify.com/track/4Bj9dhsxbIwrblcmBs9BpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 217920,
       "name": "Prayers / Triangles",
       "url": "https://open.spotify.com/track/0B1Iqqq8wVoXM5R5glHQES"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 244293,
-      "name": "Minus Blindfold",
-      "url": "https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 250893,
       "name": "Hexagram",
       "url": "https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "Minus Blindfold",
+      "url": "https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T"
     }
   ],
   "unique_name": "This Is Deftones",

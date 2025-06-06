@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Afa Alaik",
+        "url": "https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Alawi",
+          "url": "https://open.spotify.com/artist/5hw12Kz62uesk0wdKSJpBv"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273998,
+      "name": "Afa Alaik",
+      "url": "https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3"
+    },
+    {
+      "album": {
         "name": "Akhtht Al Thaar",
         "url": "https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW"
       },
@@ -630,24 +648,6 @@
       "duration_ms": 599929,
       "name": "\u0627\u062d\u0628\u0643 \u0648\u0627\u0644\u062f\u0645\u0648\u0639 \u062a\u0634\u0647\u062f",
       "url": "https://open.spotify.com/track/6Qc0NzcTU7Gi33vOg5YK7Y"
-    },
-    {
-      "album": {
-        "name": "\u0627\u0641\u0627 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Alwi",
-          "url": "https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0"
-        }
-      ],
-      "date_added": "2021-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273998,
-      "name": "\u0627\u0641\u0627 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3"
     },
     {
       "album": {

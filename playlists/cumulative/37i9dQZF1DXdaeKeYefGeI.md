@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-216 songs - 13 hr 11 min
+217 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Heerser over Weinig, Meester van Niks \- Akoestische Versie](https://open.spotify.com/track/35q7flYeWiGe3K1c0u2EuK) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Heerser over Weinig, Meester van Niks \(Akoestische Versie\)](https://open.spotify.com/album/1HAObQd1waloIEng0hm6Yr) | 2:58 | 2025-04-25 |  |
 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 | 2024-04-18 |  |
 | [Het Dorp \- Live](https://open.spotify.com/track/4HWOyz21zZDbHe3mMukrFJ) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Wim Sonneveld En Ina Van Faassen](https://open.spotify.com/album/097Ma7nG7Cye0gfief3mR6) | 3:18 | 2023-02-10 | 2024-04-19 |
-| [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 | 2024-05-09 |  |
+| [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 | 2024-05-09 | 2025-06-06 |
 | [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 | 2024-06-12 |  |
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 |  |
 | [Het Komt Wel Goed](https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Het Komt Wel Goed](https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H) | 3:55 | 2023-12-05 | 2024-10-04 |
@@ -171,6 +171,7 @@
 | [Samen Zijn](https://open.spotify.com/track/3ZMdjAHgHDihm21VZt5RxB) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Samen Zijn](https://open.spotify.com/album/3y7ncQnFAmLzxu4ukpPPSn) | 4:23 | 2023-02-10 | 2024-04-19 |
 | [Samen Zijn](https://open.spotify.com/track/75Bhe67bl6ndyrlkJ1OpH5) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:24 | 2024-04-18 | 2024-10-11 |
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
+| [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-05 |  |
 | [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 |  |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |

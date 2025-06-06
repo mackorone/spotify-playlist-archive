@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sarala Subbarao
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,003 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,005 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 58 | [Naguthalide Naayi Kode \(From "Manada Kadalu"\)](https://open.spotify.com/track/1v7r9ZrFqLxWOPseFbHTHd) | [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Naguthalide Naayi Kode \(From "Manada Kadalu"\)](https://open.spotify.com/album/0NTe6upjBLPr5WyJF6WV3P) | 3:31 |
 | 59 | [Mungaru Maleyalli \- From "Andondittu Kaala"](https://open.spotify.com/track/5jXdW5vBjwKr76oBprssJQ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Dhananjay Ranjan](https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p), [Raghavendra V.](https://open.spotify.com/artist/2qHM0nk3k1cTu0u3VcgGrQ) | [Mungaru Maleyalli \(From "Andondittu Kaala"\)](https://open.spotify.com/album/2DIOK27dqUT48GjeSSfU1S) | 3:40 |
 
-Snapshot ID: `aD/2nQAAAAAOORqcAQzjtbQDk4AlwpVR`
+Snapshot ID: `AAAAAD1QXcxs8MTmkhEYyZ/9BuvOuhfz`

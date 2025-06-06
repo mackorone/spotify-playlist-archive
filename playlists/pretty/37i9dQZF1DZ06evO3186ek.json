@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 159050,
+  "num_followers": 159075,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAASkfMZW3JzZWW2NllxrLYE",
+  "snapshot_id": "aD+MgAAAAABE9ll9v78gKIBprJa7W7+t",
   "tracks": [
     {
       "added_at": null,
@@ -275,30 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
-        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 251886,
-      "name": "Lonely Dirt Road",
-      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Name of Jesus (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
+        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 251886,
+      "name": "Lonely Dirt Road",
+      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
     },
     {
       "added_at": null,
@@ -627,34 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
-        "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 202503,
-      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
-      "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -679,6 +651,34 @@
       "duration_ms": 492415,
       "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 202503,
+      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+      "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
     },
     {
       "added_at": null,

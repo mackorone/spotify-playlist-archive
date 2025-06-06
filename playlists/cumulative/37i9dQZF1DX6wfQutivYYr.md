@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Elodie sulla cover della playlist più grande in Italia 🏆
+> Pinguini Tattici Nucleari e Max Pezzali sulla cover della playlist più grande in Italia 🏆
 
-211 songs - 10 hr 57 min
+212 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-16 |  |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 |  |
 | [ON FIRE](https://open.spotify.com/track/3fMv8yD3CR4KuOEddovifJ) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:21 | 2025-05-09 | 2025-05-30 |
-| [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-10-01 |  |
+| [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-10-01 | 2025-06-06 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-03 |  |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-06-28 | 2024-12-10 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-06-28 | 2024-09-07 |
@@ -176,6 +176,7 @@
 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-07 |  |
 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-05-08 |  |
 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 | 2025-02-17 | 2025-05-23 |
+| [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 | 2025-06-05 |  |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 | 2024-06-28 | 2024-11-15 |
 | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [SEXY RAVE \(feat\. Baby Gang\)](https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1) | 2:20 | 2025-05-29 |  |
 | [SEXY SHOP](https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [SEXY SHOP](https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y) | 3:08 | 2024-06-28 | 2024-11-14 |

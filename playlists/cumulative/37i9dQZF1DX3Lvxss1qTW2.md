@@ -2,9 +2,9 @@
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover:  Bloody Civilian
+> The future hits of today\. <br/>Cover:  Juno
 
-398 songs - 18 hr 29 min
+400 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-06-28 | 2024-07-19 |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-09 | 2024-09-06 |
 | [Feels](https://open.spotify.com/track/1akSDgOrWqGhHy4ZWIM4nd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [Feels](https://open.spotify.com/album/7c9ijsXzppdoXA8OEdDA2k) | 3:03 | 2024-06-28 | 2024-09-06 |
-| [Fefe Ne Fe](https://open.spotify.com/track/25KBFRfDlJjML133uQRpin) | [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Fefe Ne Fe](https://open.spotify.com/album/79T0qb2Zr5tkoBbyaSkeHU) | 2:43 | 2025-05-09 |  |
+| [Fefe Ne Fe](https://open.spotify.com/track/25KBFRfDlJjML133uQRpin) | [BoiGizmo](https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of) | [Fefe Ne Fe](https://open.spotify.com/album/79T0qb2Zr5tkoBbyaSkeHU) | 2:43 | 2025-05-09 | 2025-06-06 |
 | [Finally](https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Finally](https://open.spotify.com/album/3444myYgBDVDQaSpHjS0rB) | 2:22 | 2024-06-28 | 2024-09-06 |
 | [Finally \(feat\. Sons of Sonix\)](https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ) | [Alusa Why Are You Topless? \(Deluxe\)](https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st) | 3:09 | 2024-07-19 | 2024-09-20 |
 | [Fine Girl](https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Fine Girl](https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR) | 2:36 | 2024-12-13 | 2025-05-09 |
@@ -298,6 +298,7 @@
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-01-31 | 2025-04-01 |
 | [Paper](https://open.spotify.com/track/5u6IZWUOEnvVYfNDxppXqr) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Paper](https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl) | 2:16 | 2025-01-24 | 2025-05-10 |
 | [Pepper Dem](https://open.spotify.com/track/4u1H2ZQ5sh188p2XFd5Ehs) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Pepper Dem](https://open.spotify.com/album/7BLuaIUb92iX8QT3YMk5wK) | 2:36 | 2024-08-30 | 2024-10-01 |
+| [PIPE ME UP](https://open.spotify.com/track/1NeM8LvWmZyVqJFN8lfvMY) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [PIPE ME UP](https://open.spotify.com/album/5RF5jRb8vKy8oR3YWiyepu) | 2:53 | 2025-06-06 |  |
 | [Pity Me](https://open.spotify.com/track/2RVUFIMYxs6HeebK7i2Ff3) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Pity Me](https://open.spotify.com/album/2ZFUvGdlMsY949oyKZdcXW) | 2:09 | 2024-10-04 | 2024-11-29 |
 | [PON MY MIND](https://open.spotify.com/track/61Fgo7az4lKB2sVPxhoCCO) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [PON MY MIND](https://open.spotify.com/album/1mMoebjcoBQNUSGkgyo4Kw) | 1:40 | 2024-09-27 | 2024-10-26 |
 | [Portion \(Remix\)](https://open.spotify.com/track/3nlWMry3Bryo63kcgk63Xl) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [SOAH \(Sounds Of A Hustler\)](https://open.spotify.com/album/6Ri4ZyM3RfaThWbwOtJm26) | 2:51 | 2024-07-26 | 2024-11-16 |
@@ -326,10 +327,11 @@
 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 | 2024-12-06 | 2025-02-21 |
 | [Shalaye](https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shalaye](https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR) | 2:25 | 2024-11-15 | 2025-03-29 |
 | [Shalaye](https://open.spotify.com/track/5RTfC7qVXydNrmv4quXFpq) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shalaye](https://open.spotify.com/album/6h2yGkv9ttMltX43abLmQc) | 2:51 | 2025-03-21 |  |
-| [Shalaye](https://open.spotify.com/track/5RytGOyrh48tH9MvLkChpx) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Shalaye](https://open.spotify.com/album/7zQONjJIsWdF03ZgnaMbKP) | 2:44 | 2025-05-30 |  |
+| [Shalaye](https://open.spotify.com/track/5RytGOyrh48tH9MvLkChpx) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Shalaye](https://open.spotify.com/album/7zQONjJIsWdF03ZgnaMbKP) | 2:44 | 2025-05-30 | 2025-06-06 |
 | [Short Skirt \(Fine Girls\)](https://open.spotify.com/track/6UiQVXLAXT4ZJYeXBGnran) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Short Skirt \(Fine Girls\)](https://open.spotify.com/album/0cEAm1fUmZp2wkeofSOdTq) | 2:17 | 2024-08-09 | 2024-11-16 |
 | [Shout](https://open.spotify.com/track/7lpPd7U9zYc6gDnP8k3rhL) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Shout](https://open.spotify.com/album/3dGRqq7EliVcR2rMERd78H) | 2:24 | 2024-09-20 | 2024-12-13 |
 | [Side](https://open.spotify.com/track/6HsnEHAUGWzjnbbBdcWq11) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Side](https://open.spotify.com/album/6W35XGp7xF1wfkuS3fP1kL) | 2:46 | 2024-09-27 | 2024-12-13 |
+| [Sinner](https://open.spotify.com/track/6vm4fsrfhkJnWXTys1UnqR) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Sinner](https://open.spotify.com/album/6rDkLaotjRbxgDN8LXVyGL) | 2:37 | 2025-06-06 |  |
 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 | 2025-01-14 | 2025-01-22 |
 | [Small Money](https://open.spotify.com/track/02jwjc5TtQvaYqYENEoIkP) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 2:25 | 2024-10-04 | 2024-11-29 |
 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 | 2024-06-28 | 2024-07-19 |

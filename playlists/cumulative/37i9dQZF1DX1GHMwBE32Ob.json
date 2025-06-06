@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152068,
+      "name": "Bon Appetit",
+      "url": "https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5"
+    },
+    {
+      "album": {
         "name": "Ghetto Vibrations",
         "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
       },
@@ -6548,7 +6570,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 149743,
       "name": "Till Thy Kingdom Come",
       "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"

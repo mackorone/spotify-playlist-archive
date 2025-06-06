@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1357,
+  "num_followers": 1358,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Slim Pickins",
-      "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Aquamarine",
         "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 162814,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Slim Pickins",
+      "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "\u00d6nskar det vore s\u00e5 enkelt",
-        "url": "https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8"
-      },
-      "artists": [
-        {
-          "name": "Strobaek",
-          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
-        }
-      ],
-      "duration_ms": 137476,
-      "name": "\u00d6nskar det vore s\u00e5 enkelt",
-      "url": "https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Don't Wanna Be Saved",
         "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 180436,
       "name": "Don't Wanna Be Saved",
       "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "\u00d6nskar det vore s\u00e5 enkelt",
+        "url": "https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8"
+      },
+      "artists": [
+        {
+          "name": "Strobaek",
+          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
+        }
+      ],
+      "duration_ms": 137476,
+      "name": "\u00d6nskar det vore s\u00e5 enkelt",
+      "url": "https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "dayones",
-        "url": "https://open.spotify.com/album/7lLwYb8U0UIro72ix3s00z"
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS"
       },
       "artists": [
         {
-          "name": "MASAKA",
-          "url": "https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY"
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        },
+        {
+          "name": "Denzel Himself",
+          "url": "https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ"
         }
       ],
-      "duration_ms": 118343,
-      "name": "dayones",
-      "url": "https://open.spotify.com/track/74wAMYdAqfDFx76Ll6zG5D"
+      "duration_ms": 169440,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl"
     }
   ],
   "unique_name": "2024: L\u00e5tarna du missade?",

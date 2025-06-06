@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-605 songs - 1 day 5 hr 48 min
+606 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 | 2022-01-07 | 2022-03-12 |
 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-10-04 |  |
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2022-01-07 | 2022-05-07 |
+| [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-05-30 |  |
 | [Are You OK? \(feat\. ILIRA\)](https://open.spotify.com/track/6Ppext7tYrK3trnspkoSry) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Are You OK? \(feat\. ILIRA\)](https://open.spotify.com/album/6CXKk17m3VB5S08HGPdTTJ) | 2:28 | 2022-01-07 | 2022-05-07 |
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-09-06 |  |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-07-14 | 2024-09-07 |
@@ -610,7 +611,7 @@
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-11 | 2022-04-16 |
 | [Your Body](https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Your Body](https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP) | 2:45 | 2022-01-07 | 2022-07-29 |
 | [Your Body](https://open.spotify.com/track/4A9kMqwijHsdsnkoluwkoJ) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Your Body](https://open.spotify.com/album/4nwu5zKNGEcHWzoZOezBJ3) | 2:37 | 2022-01-07 | 2022-04-23 |
-| [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 | 2024-05-24 |  |
+| [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 | 2024-05-24 | 2025-06-06 |
 | [Zeros \(feat\. Headie One\)](https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Zeros \(feat\. Headie One\)](https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub) | 2:13 | 2024-08-16 | 2024-12-19 |
 | [Zhudio54 \- J\. Worra Remix](https://open.spotify.com/track/6KTrU9R5o71XSHPJY16EdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Zhudio54 \(Remixes\)](https://open.spotify.com/album/4rUCC6Pn0Ihi6L7TCo6MQI) | 5:12 | 2022-01-07 | 2022-04-22 |
 

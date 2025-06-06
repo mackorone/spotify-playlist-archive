@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Maruja ",
-  "num_followers": 469999,
+  "num_followers": 469997,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
+        "name": "Big Al Dente",
+        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 170970,
+      "name": "Big Al Dente",
+      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -579,6 +595,22 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 204977,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -595,18 +627,22 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1"
+        "name": "Dream Bigger",
+        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
       },
       "artists": [
         {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
         }
       ],
-      "duration_ms": 204977,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn"
+      "duration_ms": 185060,
+      "name": "Dream Bigger",
+      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -643,42 +679,6 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
-        "name": "Dream Bigger",
-        "url": "https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        },
-        {
-          "name": "Amy Taylor",
-          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "Dream Bigger",
-      "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
         "name": "Hypocrite",
         "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 108650,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -743,6 +759,22 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
         "name": "State Champs",
         "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
         "name": "HEAVY JELLY",
         "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 164773,
       "name": "Isaac Is Typing\u2026",
       "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
-        "name": "Olive Garden",
-        "url": "https://open.spotify.com/album/1oy21LUiIIuVIyMgY3WrJK"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 112165,
-      "name": "Olive Garden",
-      "url": "https://open.spotify.com/track/20Kzilqp35aMDqOSLdRvKb"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Beg For More",
-        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
       },
       "artists": [
         {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Beg For More",
-      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+      "duration_ms": 127185,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -883,34 +883,34 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Bite Me",
-        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
+        "name": "Beg For More",
+        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
       "artists": [
         {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
         }
       ],
-      "duration_ms": 127185,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+      "duration_ms": 174000,
+      "name": "Beg For More",
+      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
     },
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Nice to Know Ya",
-        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
+        "name": "Olive Garden",
+        "url": "https://open.spotify.com/album/1oy21LUiIIuVIyMgY3WrJK"
       },
       "artists": [
         {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 179454,
-      "name": "Nice to Know Ya",
-      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+      "duration_ms": 112165,
+      "name": "Olive Garden",
+      "url": "https://open.spotify.com/track/20Kzilqp35aMDqOSLdRvKb"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
+        "name": "Nice to Know Ya",
+        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 179454,
+      "name": "Nice to Know Ya",
+      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
         "name": "Mirror Muscles",
         "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
-        "name": "Hallways",
-        "url": "https://open.spotify.com/album/0RdXtpV2BpwrvApq3IxItb"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 218192,
-      "name": "Hallways",
-      "url": "https://open.spotify.com/track/6az05Q3tEYs5cKzrcW9z63"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -1007,6 +1007,22 @@
       "duration_ms": 172949,
       "name": "NO LOVE BUT FOR OUR OWN",
       "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
+        "name": "Hallways",
+        "url": "https://open.spotify.com/album/0RdXtpV2BpwrvApq3IxItb"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 218192,
+      "name": "Hallways",
+      "url": "https://open.spotify.com/track/6az05Q3tEYs5cKzrcW9z63"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
         "name": "Taking Inventory Of A Frozen Lake",
         "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 257084,
       "name": "Taking Inventory Of A Frozen Lake",
       "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
-      },
-      "artists": [
-        {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -1171,6 +1155,38 @@
       "duration_ms": 156618,
       "name": "Cold Like This",
       "url": "https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
       },
       "artists": [
         {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
     },
     {
       "added_at": "2025-05-08 18:53:15",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-05-08 18:53:15",
       "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2025-05-08 18:53:15",
+      "album": {
         "name": "My Apologies To The Chef",
         "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 162851,
       "name": "TALK",
       "url": "https://open.spotify.com/track/34zukSow00sQeQqx5kKpNv"
-    },
-    {
-      "added_at": "2025-05-08 18:53:15",
-      "album": {
-        "name": "Laughing Without Smiling / Spit",
-        "url": "https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Laughing Without Smiling",
-      "url": "https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP"
     }
   ],
   "unique_name": "Today's Punk",

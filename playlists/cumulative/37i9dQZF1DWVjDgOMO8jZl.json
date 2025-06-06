@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Indipendente",
+        "url": "https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152264,
+      "name": "Indipendente",
+      "url": "https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH"
       },

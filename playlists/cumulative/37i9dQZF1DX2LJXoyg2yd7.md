@@ -8,6 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Afa Alaik](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmad Alawi](https://open.spotify.com/artist/5hw12Kz62uesk0wdKSJpBv) | [Afa Alaik](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 | 2021-09-30 |  |
 | [Akhtht Al Thaar](https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Akhtht Al Thaar](https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW) | 3:39 | 2022-07-27 | 2024-03-15 |
 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 | 2021-09-30 |  |
 | [Ana Malathak](https://open.spotify.com/track/7DgjgPW8yxcqJ9YXNP5VxR) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Ana Malathak](https://open.spotify.com/album/25fV87SYlAReis51OpLnXB) | 3:52 | 2024-03-14 |  |
@@ -42,7 +43,6 @@
 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 | 2021-09-30 |  |
 | [احبك والدموع تشهد](https://open.spotify.com/track/5FRR2LmmyjAs9Fm7n05cf6) | [AyoubTaresh \| ايوب طارش](https://open.spotify.com/artist/3zcjXM508SghJhOZ8TN20F) | [عاد لي ودي](https://open.spotify.com/album/0vKktZfQyVIHDGR2Pd18CI) | 9:59 | 2022-07-27 | 2022-11-24 |
 | [احبك والدموع تشهد](https://open.spotify.com/track/6Qc0NzcTU7Gi33vOg5YK7Y) | [مؤسسة 13 يونيو للإنتاج والتوزيع الفني](https://open.spotify.com/artist/1VSeqtJApEAu73E36hEPqE) | [عادلي ودي \- ايوب طارش](https://open.spotify.com/album/3KZCdVgaYs2vYZxJpuKtqt) | 9:59 | 2022-07-27 | 2024-04-19 |
-| [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 | 2021-09-30 |  |
 | [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 | 2021-09-30 |  |
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-09-30 |  |
 | [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 | 2021-09-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553578,
+  "num_followers": 553581,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
         "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 307644,
-      "name": "Protect The Land",
-      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
         "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 307644,
+      "name": "Protect The Land",
+      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "system_failure",
-      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Black Flame",
         "url": "https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 233964,
       "name": "Black Flame - Single Edit",
       "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "system_failure",
+      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
-        "name": "backfire",
-        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120064,
-      "name": "backfire",
-      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 254615,
       "name": "Bye Bye Beautiful",
       "url": "https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
+        "name": "backfire",
+        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120064,
+      "name": "backfire",
+      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
+      },
+      "artists": [
+        {
+          "name": "Betraying The Martyrs",
+          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
+        }
+      ],
+      "duration_ms": 231762,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
-      },
-      "artists": [
-        {
-          "name": "Betraying The Martyrs",
-          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
-        }
-      ],
-      "duration_ms": 231762,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
     },
     {
       "added_at": "2024-11-26 17:39:01",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-11-26 17:39:01",
       "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Blood, the Sweat, the Tears",
+      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+    },
+    {
+      "added_at": "2024-11-26 17:39:01",
+      "album": {
         "name": "Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 314446,
       "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
       "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
-    },
-    {
-      "added_at": "2024-11-26 17:39:01",
-      "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Blood, the Sweat, the Tears",
-      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
     },
     {
       "added_at": "2024-11-26 17:39:01",

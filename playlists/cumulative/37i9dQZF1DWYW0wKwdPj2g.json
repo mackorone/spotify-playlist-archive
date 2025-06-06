@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: EmmaOMG",
-  "name": "Come Alive",
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Minister GUC",
+  "name": "Live Gospel",
   "tracks": [
     {
       "album": {
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 182000,
       "name": "Head In The Sky - Live",
       "url": "https://open.spotify.com/track/02nPHOHMGfUKTmqjrILtHZ"
@@ -2713,6 +2713,28 @@
     },
     {
       "album": {
+        "name": "Never Again (Live)",
+        "url": "https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam"
+      },
+      "artists": [
+        {
+          "name": "Anthony Kani",
+          "url": "https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO"
+        },
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664405,
+      "name": "Never Again - Live",
+      "url": "https://open.spotify.com/track/0avSfabWivCociv7l1vKRM"
+    },
+    {
+      "album": {
         "name": "Never seen (Live)",
         "url": "https://open.spotify.com/album/4o26uOP0J3WDXtQAdE2FX2"
       },
@@ -3488,6 +3510,28 @@
       "duration_ms": 630470,
       "name": "Reign Lord (Sovereign) - Live",
       "url": "https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7"
+    },
+    {
+      "album": {
+        "name": "Rohi (The Good Shepherd) [Live]",
+        "url": "https://open.spotify.com/album/3XBKLHisNTmO1CYf4M4sxJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668390,
+      "name": "Rohi (The Good Shepherd) - Live",
+      "url": "https://open.spotify.com/track/1YwwfzEsBdfjprEuKzy8tC"
     },
     {
       "album": {

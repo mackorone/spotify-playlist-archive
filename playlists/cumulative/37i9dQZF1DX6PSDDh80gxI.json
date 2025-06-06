@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il concerto di Joan Thiele al MI AMI \u00e8 stato bellissimo, e quindi l'abbiamo messo su Indie Italia \ud83c\udf3b (foto di kimberley ross)",
+  "description": "C'\u00e8 un nuovo album di Golden Years ed \u00e8 100% Indie Italia \ud83c\udf3b",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 166400,
       "name": "BALLA DA SOLA",
       "url": "https://open.spotify.com/track/50spFDfvMoXukKiT5rZuWB"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 181985,
       "name": "disperata giovent\u00f9",
       "url": "https://open.spotify.com/track/3WGRsbvjeO27iqJPMGeuIq"
@@ -2299,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Indipendente",
+        "url": "https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152264,
+      "name": "Indipendente",
+      "url": "https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ"
+    },
+    {
+      "album": {
         "name": "Innamorarsi perdutamente non \u00e8 mai un affare",
         "url": "https://open.spotify.com/album/4gw3DQuwQBgdhqHSZB0Ld5"
       },
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 172386,
       "name": "l'universo da fermo",
       "url": "https://open.spotify.com/track/5VSG25WEs5n4cukaTJmcPO"
@@ -3025,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "MAIMAI",
+        "url": "https://open.spotify.com/album/2oRIjNDhxfCmwG56jFV8nq"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175945,
+      "name": "MAIMAI",
+      "url": "https://open.spotify.com/track/1JPEVvnCZWSOlw9XG24Ih2"
+    },
+    {
+      "album": {
         "name": "Mal di te",
         "url": "https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA"
       },
@@ -3420,6 +3456,24 @@
       "duration_ms": 201782,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW"
+    },
+    {
+      "album": {
+        "name": "no, non mi va",
+        "url": "https://open.spotify.com/album/3rnRTdKBGUu19Vv1kaEafF"
+      },
+      "artists": [
+        {
+          "name": "ATARDE",
+          "url": "https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151336,
+      "name": "no, non mi va",
+      "url": "https://open.spotify.com/track/68vz7EWbnCoUEVgihTA5HS"
     },
     {
       "album": {
@@ -4296,7 +4350,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 166545,
       "name": "Puoi",
       "url": "https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT"
@@ -4728,6 +4782,24 @@
       "duration_ms": 167727,
       "name": "Sex and cocaine",
       "url": "https://open.spotify.com/track/0m6coZlkyDP9Th9v4q2mnS"
+    },
+    {
+      "album": {
+        "name": "Si Nun Me Vu\u00f2 Bene Cchi\u00f9",
+        "url": "https://open.spotify.com/album/7GHG2VoDRMu4gU9wYEYNTM"
+      },
+      "artists": [
+        {
+          "name": "TROPICO",
+          "url": "https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203182,
+      "name": "Si Nun Me Vu\u00f2 Bene Cchi\u00f9",
+      "url": "https://open.spotify.com/track/7bUBv52qkQvRxwemeI1Vjt"
     },
     {
       "album": {

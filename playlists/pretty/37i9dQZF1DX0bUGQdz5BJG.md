@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Zach John King
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,999 likes - 220 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,044 likes - 220 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,932 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,935 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Mami ven aquí](https://open.spotify.com/track/30kHpDWzo0R7v6XbpImuIj) | [Napoles](https://open.spotify.com/artist/4mqcM1hVacykEmQIB0aJvO), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Mati Bomba](https://open.spotify.com/artist/2Co933aALjqO2S4kqXpntB) | [Mami ven aquí](https://open.spotify.com/album/3qAOToYUS4Cn0qKoGa9zv5) | 3:11 |
 | 50 | [secuestro](https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [dile no a las drogas](https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS) | 3:14 |
 
-Snapshot ID: `L9O4+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9UKeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

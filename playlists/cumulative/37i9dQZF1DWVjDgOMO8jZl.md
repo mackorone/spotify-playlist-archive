@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia: Sayf, Emma Nolde, Marte, Glocky, camoufly e Carla Hero.
 
-197 songs - 9 hr 23 min
+198 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [I'm On](https://open.spotify.com/track/2wo5YYmTIeGhE6tbf0c0NN) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 4:10 | 2022-08-31 | 2023-04-12 |
 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2023-04-11 | 2024-04-24 |
 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-22 | 2025-05-14 |
+| [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 | 2025-06-05 |  |
 | [Intuition](https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [Intuition](https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH) | 3:28 | 2025-05-13 |  |
 | [Jack e Lacrime](https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [Jack e Lacrime](https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw) | 2:38 | 2023-04-11 | 2024-04-24 |
 | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo) | 3:08 | 2023-04-11 | 2024-04-24 |

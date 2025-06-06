@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-161 songs - 8 hr 4 min
+162 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Esquece de Me Esquecer](https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Esquece de Me Esquecer](https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv) | 3:00 | 2023-10-13 | 2025-04-05 |
 | [Estrelinha](https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS) | [Di Paullo & Paulino](https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Estrelinha](https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1) | 3:27 | 2023-10-13 | 2024-07-05 |
 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 | 2023-10-13 |  |
+| [Eu Quero Só Você \- Ao Vivo](https://open.spotify.com/track/7blWdaLlmXMEh4ej2IPP8N) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [A Hora É Agora \(Ao Vivo Em Jurerê\)](https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN) | 3:11 | 2025-05-30 |  |
 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 | 2023-10-13 |  |
 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 | 2023-10-13 | 2024-05-06 |
 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 | 2023-10-13 | 2024-04-19 |
@@ -159,7 +160,7 @@
 | [Terapinga \- Ao Vivo](https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Sou do Interior \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V) | 2:56 | 2023-10-13 |  |
 | [Teste da Mãozinha \- Ao Vivo](https://open.spotify.com/track/0wshnPflQAjMVaCDIraSWk) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:52 | 2023-10-13 | 2024-04-17 |
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2023-10-13 |  |
-| [Trincadinho \- Ao Vivo](https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:20 | 2023-10-13 |  |
+| [Trincadinho \- Ao Vivo](https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:20 | 2023-10-13 | 2025-06-06 |
 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 | 2023-10-13 | 2024-04-19 |
 | [Vai Lá](https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Em Casa 2](https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn) | 2:45 | 2023-10-13 | 2024-04-19 |
 | [Você Não é de Bar \- Ao Vivo](https://open.spotify.com/track/5KFEB8X5Xmpmsv5j8rHjML) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Você Não é de Bar \(Ao Vivo\)](https://open.spotify.com/album/21i7sgxzGEdFIIi3KrKVRG) | 2:31 | 2024-07-15 | 2024-10-24 |

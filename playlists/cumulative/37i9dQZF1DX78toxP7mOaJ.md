@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-1,960 songs - 4 day 12 hr 18 min
+1,961 songs - 4 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1772,6 +1772,7 @@
 | [Time Should Wait](https://open.spotify.com/track/3t63h1Ykd2HtkVhvRpAeYB) | [Twin Suns](https://open.spotify.com/artist/2jBDQzZ68SehFutPbeX0di) | [Time Should Wait](https://open.spotify.com/album/30P8ZAHSqQgfB4ulOwvNud) | 3:26 | 2022-09-14 | 2022-12-01 |
 | [Time Waits For No One](https://open.spotify.com/track/00beumJvWXLMa9z7xNsxYk) | [Stanleys](https://open.spotify.com/artist/4H3WhTcIQZlHHBXQxWKFYa) | [Time Waits For No One](https://open.spotify.com/album/7iAeGCoRp5tEv4Eujpus3t) | 3:05 | 2022-09-21 | 2022-12-01 |
 | [Tired](https://open.spotify.com/track/4WL9FC3SIM0FkvbGX8XvoG) | [Rila's Edge](https://open.spotify.com/artist/7r4RgEuxsnKmZlcVWZBF1d) | [Something We Found](https://open.spotify.com/album/1BEwB6Bp0FrwnyGTAkqraL) | 2:52 | 2021-12-01 | 2022-03-10 |
+| [TMSTIDK](https://open.spotify.com/track/0cLZ9JbpLT3ZKpMOR0k5UC) | [Jady](https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1) | [TMSTIDK](https://open.spotify.com/album/6yYBOnu17z2vSnmoFI1QB0) | 2:39 | 2025-06-04 |  |
 | [TNT](https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [TNT](https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI) | 2:55 | 2024-07-31 | 2024-10-17 |
 | [To Be Young](https://open.spotify.com/track/2Pzv6KG655tzUQQPhcVzGR) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [To Be Young](https://open.spotify.com/album/1VS08p1cNWDOkb3v1AHBoe) | 2:15 | 2024-08-21 | 2024-10-17 |
 | [To Be Young](https://open.spotify.com/track/2uIf8GWmGjboK93vDPMepU) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [And Then There Was...](https://open.spotify.com/album/0DwLXlCA0N2aE6npMwxSGR) | 2:15 | 2024-12-04 | 2025-01-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1470711,
+  "num_followers": 1470975,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 190718,
-      "name": "A Little Bit Off",
-      "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 326813,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 190718,
+      "name": "A Little Bit Off",
+      "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 262133,
       "name": "A Tout Le Monde - Remastered 2004",
       "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 354636,
       "name": "Hysteria - Remastered 2017",
       "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Balls To Picasso (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
+        "name": "REISE, REISE",
+        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
       },
       "artists": [
         {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
+      "duration_ms": 271173,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "REISE, REISE",
-        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Balls To The Wall",
         "url": "https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Balls To Picasso (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Keep The Faith (Remastered)",
         "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "In The Heart Of The Young",
-        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
-      },
-      "artists": [
-        {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
       },
@@ -1515,6 +1515,38 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Detonator",
+        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Givin' Yourself Away",
+      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Get A Grip (Reissue - Remaster)",
+        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 356160,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1583,18 +1615,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Detonator",
-        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
+        "name": "1987 (2007 Remaster)",
+        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
       },
       "artists": [
         {
-          "name": "Ratt",
-          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Givin' Yourself Away",
-      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
+      "duration_ms": 275760,
+      "name": "Is This Love - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1611,38 +1643,6 @@
       "duration_ms": 388613,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/5u8yv7FPvdRZLBF40BaThB"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Get A Grip (Reissue - Remaster)",
-        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "1987 (2007 Remaster)",
-        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275760,
-      "name": "Is This Love - 2007 Remastered Version",
-      "url": "https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM"
     }
   ],
   "unique_name": "Heavy Ballads",

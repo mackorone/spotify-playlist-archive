@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Sarah Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,047 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,055 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 34 | [Lividi](https://open.spotify.com/track/6S2WMNOlPAVDHAijoS1s5c) | [Ludovica Caniglia](https://open.spotify.com/artist/6TT6vgXfMLov8l1gUqgRhe) | [Lividi](https://open.spotify.com/album/7dK1jiKHgXxcEqsWZAPMhu) | 2:28 |
 | 35 | [L’ego \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/5qkvEFyyBShsZWBUixMvam) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [L’ego \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4mFTQT6nhMKaNG11gCaz4m) | 2:32 |
 | 36 | [Tanto da fare](https://open.spotify.com/track/1bD23F4PF2EI2XObPt7Id3) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [Tanto da fare](https://open.spotify.com/album/1KCpMCZroRJzfawroDNXND) | 2:14 |
-| 37 | [GOOGLEAMORE](https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Le ragazze della valle](https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc) | 2:38 |
+| 37 | [GOOGLEAMORE](https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LE RAGAZZE DELLA VALLE](https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc) | 2:38 |
 | 38 | [WEEKEND](https://open.spotify.com/track/59dKc9eM8pe0S0H23IGkED) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/6oXbaOZOyhyJNPUu80hhkl) | 2:18 |
 | 39 | [Acqua passata](https://open.spotify.com/track/5BdoBBRMswolsuftniTJY7) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Acqua passata](https://open.spotify.com/album/2R14AMf2ubRN99XASbQgFx) | 2:59 |
 | 40 | [VITTORIA](https://open.spotify.com/track/5czaGqct4FgzX2nIct2ytV) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [VITTORIA](https://open.spotify.com/album/2Uj3ZHiO2t7mrHrnDHLZwQ) | 2:24 |

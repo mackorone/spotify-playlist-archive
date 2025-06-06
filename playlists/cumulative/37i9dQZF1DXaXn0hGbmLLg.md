@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:4nooGDX5QxisOl67xm4BBE">IIII</a>
 
-2,449 songs - 5 day 8 hr 34 min
+2,450 songs - 5 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Dubbel](https://open.spotify.com/track/26rp1of4746XjqbBMxfoSl) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Dubbel](https://open.spotify.com/album/3hiSz6Q5Ix06lbaRdeVRy9) | 2:51 | 2022-07-05 | 2022-08-03 |
 | [Duiven](https://open.spotify.com/track/00Ba4KP7DEoIhyG0EC4MfN) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Duiven](https://open.spotify.com/album/6s7bxZwlNerKRnVo2oMeKq) | 2:59 | 2024-10-01 | 2024-11-06 |
 | [Dunes](https://open.spotify.com/track/0D6iQsCnRY8UxqApJsQvDt) | [Chagall](https://open.spotify.com/artist/2C03b65xMyNtDDbyBnuPGH) | [Dunes](https://open.spotify.com/album/3yw4U1svphZEVNxtzZWf5L) | 4:44 | 2023-10-03 | 2023-11-08 |
+| [Désolée](https://open.spotify.com/track/7Jl12821KWDjYFopHeNGHe) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Saveur coeur abîmé](https://open.spotify.com/album/61jCR7qJ86ZlPMZVpAxWdw) | 3:25 | 2025-06-03 |  |
 | [Désolée](https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Désolée](https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn) | 2:44 | 2025-02-04 | 2025-03-05 |
 | [Easier to Fight](https://open.spotify.com/track/6v4bDgP9M3vIGG8MyJnA7m) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [Easier to Fight](https://open.spotify.com/album/2AWCbsMHCCW6VFd3LFz9D1) | 3:27 | 2023-04-04 | 2023-05-03 |
 | [Easy](https://open.spotify.com/track/06RiGG8FGxmC8DIwU9yyEr) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [Easy](https://open.spotify.com/album/3WdP5Fe9SCOvpwIt1QBZrI) | 3:11 | 2023-11-07 | 2023-11-30 |

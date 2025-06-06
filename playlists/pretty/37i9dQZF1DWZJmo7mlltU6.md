@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: TRISTÁN!
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,607 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,609 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 101 | [The pillow's calling](https://open.spotify.com/track/4d7OmTFcZdMSQT9cwyRFEf) | [Flour in the Garden](https://open.spotify.com/artist/6uBXXIUE4QVatDS70UcHzD) | [The pillow's calling](https://open.spotify.com/album/7rWuoRvCZQhxaUtGyStiAb) | 3:26 |
 | 102 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 
-Snapshot ID: `aD1yhwAAAAC8IYYG2PuEiZKoYmY41Zor`
+Snapshot ID: `AAAAANxv7uaekcTo8QIfxQahcJBcKSGK`

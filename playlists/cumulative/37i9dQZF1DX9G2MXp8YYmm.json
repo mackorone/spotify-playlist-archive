@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Aleyna Kalayc\u0131o\u011flu",
+  "description": "Pop'un sevilen isimleri. Kapak: Bet\u00fcl Demir",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Bu Yaz",
+        "url": "https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N"
+      },
+      "artists": [
+        {
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Bu Yaz",
+      "url": "https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J"
+    },
+    {
+      "album": {
         "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
         "url": "https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 172400,
       "name": "Elmas",
       "url": "https://open.spotify.com/track/1AA4IogzY0magQZPq1IgbF"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 179478,
       "name": "Iss\u0131z Duvarlar",
       "url": "https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H"
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 199285,
       "name": "SONUNDA KAYBOLMU\u015e",
       "url": "https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf"
@@ -4330,6 +4348,24 @@
       "duration_ms": 263142,
       "name": "Uyku Tutmad\u0131",
       "url": "https://open.spotify.com/track/4mOQHgIFAcVlUGg0AGA8uC"
+    },
+    {
+      "album": {
+        "name": "Uykumda Bile",
+        "url": "https://open.spotify.com/album/4XzwOuTCWWoHjRYE4M1Edc"
+      },
+      "artists": [
+        {
+          "name": "Bet\u00fcl Demir",
+          "url": "https://open.spotify.com/artist/6aMuEI7xrBQvb2z0lXWwCR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220383,
+      "name": "Uykumda Bile",
+      "url": "https://open.spotify.com/track/3ZxaIvLscACjqKp0rqE3pA"
     },
     {
       "album": {

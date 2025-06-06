@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>  and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=HAnDya9QRIGtTDBfG7ORiw>Gaise Baba</a>
 
-454 songs - 1 day 15 hr 50 min
+455 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Power](https://open.spotify.com/track/3mSrQxchdBcffEs11o3qp5) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Power](https://open.spotify.com/album/5jQgoZZ7C2yrpMbHEDACQe) | 3:10 | 2023-08-25 | 2023-09-01 |
 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 | 2023-04-21 | 2023-08-25 |
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2018-10-01 | 2023-02-21 |
+| [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 | 2025-06-06 |  |
 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 | 2023-06-09 | 2023-09-01 |
 | [Product of Grace](https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Flavour of Africa](https://open.spotify.com/album/4D0ryhrcpymr7pnl0jhVH3) | 3:54 | 2020-12-03 | 2022-03-11 |
 | [Promise Keeper](https://open.spotify.com/track/4kQlvea7CbFtYSiy9t3ykj) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Dominion](https://open.spotify.com/album/6223AIJdGlffG41YN32ail) | 3:04 | 2025-05-09 |  |
@@ -446,7 +447,7 @@
 | [You Are Good](https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [You Are Good](https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf) | 2:07 | 2023-03-31 | 2023-06-23 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-02-02 |  |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2018-10-01 | 2023-04-01 |
-| [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-06-23 |  |
+| [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-06-23 | 2025-06-06 |
 | [You Deserve It](https://open.spotify.com/track/3O3kBJYcEiK1LqpReeOLQ4) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:56 | 2023-03-31 | 2023-05-19 |
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-11-03 |  |
 | [You love me](https://open.spotify.com/track/4AJFre4XBXr8VxLVNtKIvB) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [You love me](https://open.spotify.com/album/580YbKDKOnMFXYjLn6RSrU) | 4:06 | 2023-04-14 | 2023-06-23 |

@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-298 songs - 15 hr 59 min
+299 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 | 2023-07-28 | 2024-05-11 |
 | [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 | 2025-04-25 |
 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 | 2022-05-20 | 2022-10-28 |
-| [Puente](https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:00 | 2022-05-20 |  |
+| [Puente](https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:00 | 2022-05-20 | 2025-06-06 |
 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 | 2022-05-20 |  |
 | [Quién Lo Diría?](https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9) | 3:38 | 2024-05-10 |  |
 | [Qué Bonito Es Lo Bonito](https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:16 | 2023-03-02 |  |
@@ -305,6 +305,7 @@
 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 | 2024-01-12 | 2025-04-27 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2022-05-20 | 2023-05-06 |
 | [¿DÓNDE COMIENZA TU AMOR?](https://open.spotify.com/track/1Bx8DbcW6mSJlRWhmOdpV3) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [¿DÓNDE COMIENZA TU AMOR?](https://open.spotify.com/album/1bieD2ow8uJp6Zf1AAJZZo) | 3:01 | 2024-05-03 |  |
+| [¿PARA QUÉ VOLVER?](https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:21 | 2025-06-05 |  |
 | [Ámate](https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Ámate](https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3) | 3:09 | 2022-05-20 | 2024-05-11 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

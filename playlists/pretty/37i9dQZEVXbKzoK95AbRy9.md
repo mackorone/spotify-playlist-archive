@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,777 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,821 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [MTG NA IMAGINAÇÃO \- TOPO SESSIONS VOL\. 1](https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [MTG NA IMAGINAÇÃO \(TOPO SESSIONS VOL\. 1\)](https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk) | 2:24 |
 | 50 | [Kamasutra \- Ao Vivo](https://open.spotify.com/track/48tyRFRqsKTYnViVA1XOk9) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:33 |
 
-Snapshot ID: `L9O4+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9UKeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

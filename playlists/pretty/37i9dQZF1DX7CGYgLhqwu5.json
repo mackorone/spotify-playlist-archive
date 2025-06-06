@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 382293,
+  "num_followers": 382308,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "Dang Me",
-      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "RCA Country Legends",
         "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 141466,
       "name": "Please Help Me, I'm Falling",
       "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "Dang Me",
+      "url": "https://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
         "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 194160,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Don't Let Me Cross Over",
-        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
       },
       "artists": [
         {
-          "name": "Carl Butler",
-          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 177106,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
+      "duration_ms": 177333,
+      "name": "The Image of Me",
+      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
+        "name": "Don't Let Me Cross Over",
+        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Carl Butler",
+          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
         }
       ],
-      "duration_ms": 177333,
-      "name": "The Image of Me",
-      "url": "https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6"
+      "duration_ms": 177106,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
-      },
-      "artists": [
-        {
-          "name": "Hank Snow",
-          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "I've Been Everywhere - Remastered",
-      "url": "https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Cold Hard Facts of Life",
         "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 192946,
       "name": "The Cold Hard Facts of Life",
       "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
+      },
+      "artists": [
+        {
+          "name": "Hank Snow",
+          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "I've Been Everywhere - Remastered",
+      "url": "https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "King Of The Road: The Genius Of Roger Miller",
-        "url": "https://open.spotify.com/album/3fgWkDQtzVocTDqmlX0ISd"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 160760,
-      "name": "Walkin' In The Sunshine - Single Version",
-      "url": "https://open.spotify.com/track/18HSzsGBHeLpQiB5KqV9Jb"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "(Margie's At) The Lincoln Park Inn",
         "url": "https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 198733,
       "name": "(Margie's At) The Lincoln Park Inn",
       "url": "https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "King Of The Road: The Genius Of Roger Miller",
+        "url": "https://open.spotify.com/album/3fgWkDQtzVocTDqmlX0ISd"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 160760,
+      "name": "Walkin' In The Sunshine - Single Version",
+      "url": "https://open.spotify.com/track/18HSzsGBHeLpQiB5KqV9Jb"
     },
     {
       "added_at": "2024-07-05 21:22:46",

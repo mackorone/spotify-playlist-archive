@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-837 songs - 1 day 20 hr 54 min
+839 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-04-28 |  |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-01-23 |  |
 | [Blast Off](https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:44 | 2021-11-13 |  |
+| [Blink Twice](https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Blink Twice](https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5) | 3:22 | 2025-06-06 |  |
 | [Blood On My Hands \(feat\. Smino\)](https://open.spotify.com/track/33ApwnTRZJfotPmAYqSrkt) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Blood On My Hands \(feat\. Smino\)](https://open.spotify.com/album/1uji7c1Vhvz2X4gT7yPc1F) | 4:11 | 2019-08-27\* | 2019-11-11 |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-21 |  |
 | [Body Do The Talking](https://open.spotify.com/track/0lk1rpA7KZ4usOL8OE6G5r) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better In Blak \(Anniversary Edition\)](https://open.spotify.com/album/1UMdaDTbCfAdOXGazG4ZNO) | 2:26 | 2020-11-06 |  |
@@ -278,6 +279,7 @@
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-07-09 |  |
+| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 |  |
 | [Going Off \(feat\. A$AP Twelvyy\)](https://open.spotify.com/track/1Jf9ENlFh3WDUM8Jk30Kfm) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Going Off \(feat\. A$AP Twelvyy\)](https://open.spotify.com/album/7hhHgVOMHluzEexFMTpVbE) | 2:41 | 2019-08-27\* | 2020-02-12 |
 | [Gold](https://open.spotify.com/track/3yK3FMbBKamJeJFOQ6ybjo) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Into Gold](https://open.spotify.com/album/1xcZ5lmwepV6Xj9WpNwt8Z) | 3:40 | 2020-02-21 | 2021-05-12 |
 | [Gold Energy](https://open.spotify.com/track/650AFM5GJoTAAmQCI4Zy8Z) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Gold Energy](https://open.spotify.com/album/2aYdjZxR2nDdaL2HFQKM6V) | 3:25 | 2021-11-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,153 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,157 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 13 | [Shh](https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14) | [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Shh](https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8) | 2:57 |
 | 14 | [Tyxero Asteri](https://open.spotify.com/track/5AvyefDkaRgDajjqbfN8vv) | [K\. BHTA](https://open.spotify.com/artist/4PePsLhfeGjPogzjcRcP9l), [Giannis Palamidas](https://open.spotify.com/artist/3DbdBCLYKMNrNrGTe5tlOn) | [Tyxero Asteri](https://open.spotify.com/album/4bhg5GI8NJ13q5iYlHyb9T) | 3:52 |
 | 15 | [Mpires Gia To Spiti](https://open.spotify.com/track/7tiAlo4OwOePj3X0Z3EK0y) | [Rammenos Assos](https://open.spotify.com/artist/3pb0mN0l2oMj8RIkJFI2t4), [TAF LATHOS](https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP), [Sumo Beats](https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF) | [Nosos Tou Realismou](https://open.spotify.com/album/5G91ijM2CCIjnRrcDFziB7) | 4:43 |
-| 16 | [Heat](https://open.spotify.com/track/6pkR3IU8zXngIXbUjV2gVe) | [JUNO \( DE \)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heat](https://open.spotify.com/album/2H3i9gfwWUxDVJKkKsvanf) | 4:27 |
+| 16 | [Heat](https://open.spotify.com/track/6pkR3IU8zXngIXbUjV2gVe) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heat](https://open.spotify.com/album/2H3i9gfwWUxDVJKkKsvanf) | 4:27 |
 | 17 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 |
 | 18 | [Orizontas](https://open.spotify.com/track/04jX0l9rwkTSDamBub5rkU) | [Cilia Katrali](https://open.spotify.com/artist/3zlHrTvjiDIL22SZeVhsXy) | [Patinia Sto Feggari](https://open.spotify.com/album/5k6NBbargWqe1KOt1Jxpsk) | 3:22 |
 | 19 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |

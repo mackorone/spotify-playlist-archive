@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-901 songs - 2 day 11 hr 23 min
+903 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Every One Minute](https://open.spotify.com/track/6O8AqwvJkAbEiZPjWzZBvI) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Every One Minute](https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge) | 3:30 | 2023-12-12 |  |
 | [Eye of the hurricane](https://open.spotify.com/track/6KPVwLMVSWwhxFvJDzMOlJ) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [First Contact](https://open.spotify.com/album/4oulWpNWnKMKAbXRZMtnyi) | 5:19 | 2023-09-08 | 2023-11-11 |
 | [Eye of the hurricane](https://open.spotify.com/track/7CFf75gA4DfBwtdfVN8yht) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [First Contact](https://open.spotify.com/album/0yifIBFeuMw3kbsRzF6yn7) | 5:19 | 2023-09-05 | 2023-09-09 |
+| [F\-L\-Y \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/1HgqGMEWWMZcCEeUwLP4Xd) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [SPECTRUM \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/0WH8xgSC0iLQiFvmxb0NAU) | 2:31 | 2025-05-27 |  |
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-07-19 | 2022-07-21 |
 | [Falling](https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Falling](https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf) | 5:13 | 2023-02-28 | 2023-08-16 |
 | [FANCITY](https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [FANCITY](https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj) | 4:02 | 2023-03-14 | 2023-08-15 |
@@ -624,7 +625,7 @@
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-05-14 | 2024-07-31 |
 | [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 | 2023-08-03 |
 | [いい感じ](https://open.spotify.com/track/1ytu8pRfwWtTErXWxTZOMQ) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [いい感じ](https://open.spotify.com/album/2z2Jhh9WXjaFOhJWlJJlcv) | 3:03 | 2022-06-28 | 2022-07-25 |
-| [いえない](https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp), [301](https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr), [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi) | [いえない](https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH) | 3:36 | 2023-11-10 |  |
+| [いえない](https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp), [301](https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr), [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi) | [いえない](https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH) | 3:36 | 2023-11-10 | 2025-06-06 |
 | [いつか \- SOMEDAY \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [いつか \- SOMEDAY \(feat\. tonun\)](https://open.spotify.com/album/2Bx1wsjWVTExc1pLgrvI7h) | 5:03 | 2022-05-24 | 2022-07-29 |
 | [いつも、エンドレス](https://open.spotify.com/track/6bxUT3WHGWwPGFx60j847d) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [いつも、エンドレス](https://open.spotify.com/album/0vzfZObnp6pOHsX3yZyxo3) | 4:27 | 2023-01-17 | 2023-04-02 |
 | [いまどうしてるの](https://open.spotify.com/track/00kFJVm2VzxMIV4BEIBwEs) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [いまどうしてるの](https://open.spotify.com/album/3SyLFCMepgusz7QYLiJvS8) | 4:34 | 2022-07-26 | 2022-07-29 |
@@ -810,7 +811,7 @@
 | [恋はこれから](https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [恋はこれから / 君の笑顔につられて](https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1) | 4:19 | 2023-03-28 | 2023-06-25 |
 | [恋はジェラシー](https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [恋はジェラシー](https://open.spotify.com/album/0VzuX0pUtargb2ROyJgWXO) | 4:06 | 2023-01-24 | 2023-01-26 |
 | [恋は流星 Part Ⅱ](https://open.spotify.com/track/7ENEQQY8yvG7zseEkiS9Rg) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TWILIGHT TIME](https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu) | 5:28 | 2022-06-14 | 2022-06-22 |
-| [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 | 2022-07-27 |  |
+| [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 | 2022-07-27 | 2025-06-06 |
 | [悲しみがとまらない I CAN'T STOP THE LONELINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONELINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 | 2022-05-24 |  |
 | [愛が一層メロウ](https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:11 | 2024-03-19 | 2024-04-19 |
 | [愛が一層メロウ](https://open.spotify.com/track/1kwO1OLDhgP4H0TnieLYio) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:12 | 2024-01-14 | 2024-03-20 |
@@ -909,5 +910,6 @@
 | [風にのって～Over the Moon](https://open.spotify.com/track/2UUdPyGMIeZWVOFGgR66Vt) | [伊藤 蘭](https://open.spotify.com/artist/4KRqPsYKtYo44aNpJf0Db2) | [風にのって～Over the Moon](https://open.spotify.com/album/4uV19LMFvx9WsbENM0cNrk) | 4:51 | 2024-08-21 | 2024-09-18 |
 | [風はパーマネント](https://open.spotify.com/track/3aMJ5rSErhY4xcrkofdUG2) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [風はパーマネント](https://open.spotify.com/album/32tomxdqMRKajeCDIi5CEv) | 4:41 | 2023-11-21 | 2023-12-14 |
 | [餞](https://open.spotify.com/track/4151sPJDAMGChnHnxY1BJ1) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [餞](https://open.spotify.com/album/3Uzgj9qUBnGJnLhOLAHdYU) | 3:35 | 2023-08-01 | 2023-08-09 |
+| [鱗粉\(Butterfly Scales\)](https://open.spotify.com/track/6vnt0yk7gOXJ8Y6mM6msMf) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [鱗粉\(Butterfly Scales\)](https://open.spotify.com/album/2mzZVJhkf9j8wz2LP6vCQz) | 4:00 | 2025-05-27 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

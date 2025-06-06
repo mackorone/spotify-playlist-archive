@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: SHABAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,154 likes - 80 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,174 likes - 80 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Primetime](https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Primetime](https://open.spotify.com/album/0FWsRTPxkb74BQwZc6MfZc) | 2:03 |
-| 2 | [Plug](https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Plug](https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z) | 2:32 |
-| 3 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 |
+| 1 | [Plug](https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Plug](https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z) | 2:32 |
+| 2 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 |
+| 3 | [Primetime](https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Primetime](https://open.spotify.com/album/0FWsRTPxkb74BQwZc6MfZc) | 2:03 |
 | 4 | [Moja Draga](https://open.spotify.com/track/6CHIYDLErQwSgWfqMkEIZS) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Moja Draga](https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo) | 2:09 |
 | 5 | [Diadem](https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Diadem](https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI) | 2:44 |
 | 6 | [Milano](https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Milano](https://open.spotify.com/album/6XY09Dk3iJQSF7vlri1SPw) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 79 | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH) | 2:11 |
 | 80 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 |
 
-Snapshot ID: `aDjZBwAAAADhjrHi9nEcRXtpTcyqkr6u`
+Snapshot ID: `aEHJYQAAAABmhXsP6wbSLgthoyaFLTwC`

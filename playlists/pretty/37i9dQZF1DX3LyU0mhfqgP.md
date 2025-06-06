@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Esteman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,426 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,387 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 9 | [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 |
 | 10 | [Hunger](https://open.spotify.com/track/4ymrDw34Yx1oxU1R5yNdeR) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Hunger](https://open.spotify.com/album/0hqTGruzlfIeA1xoPDF52W) | 2:48 |
 | 11 | [SERVING \- Eurovision Official Version](https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING](https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR) | 2:59 |
-| 12 | [BAILE NO RXOTA](https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:35 |
+| 12 | [BAILE NO RXOTA](https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:35 |
 | 13 | [Ankles](https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:11 |
 | 14 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 | 15 | [I Kissed a Boy](https://open.spotify.com/track/0ZZ1vpHL9AnwEujppPudhK) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [I Kissed a Boy](https://open.spotify.com/album/59lADBYwihYtPGRSnt0W1a) | 3:12 |

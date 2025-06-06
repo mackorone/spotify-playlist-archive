@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 109981,
+  "num_followers": 110018,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Teens of Denial",
+        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "Drunk Drivers/Killer Whales",
+      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT"
       },
@@ -1611,34 +1627,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Teens of Denial",
-        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
     }
   ],
   "unique_name": "Best of Indie 2016",

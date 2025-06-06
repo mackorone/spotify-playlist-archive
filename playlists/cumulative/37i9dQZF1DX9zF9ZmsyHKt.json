@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Com Ela (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2MQF0vQMUOEzBhO9pP6gVr"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154999,
+      "name": "Com Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Y6U6voFXgqGXF9l35DHfG"
+    },
+    {
+      "album": {
         "name": "\u00c9 o Que Temos",
         "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
       },

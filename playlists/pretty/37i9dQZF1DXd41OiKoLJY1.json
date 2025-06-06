@@ -1,13 +1,413 @@
 {
-  "description": "Celebrating 10 years of fresh releases from your future favorite artists. Cover: Kim Leo Artwork: Isu Kim\n",
-  "num_followers": 66211,
+  "description": "Celebrating 10 years of fresh releases from your future favorite artists. Cover: Lihim at Salita Artwork: Isu Kim\n",
+  "num_followers": 66236,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDkSrwAAAABa2gh5RWRWWn4QZ+Vq8H/u",
+  "snapshot_id": "aEG/BwAAAACP5X2RWQKX0KEuJFQ8tpXo",
   "tracks": [
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Hiling",
+        "url": "https://open.spotify.com/album/5jGsDxCs7Ui5xYtyfLhcSB"
+      },
+      "artists": [
+        {
+          "name": "Lihim At Salita",
+          "url": "https://open.spotify.com/artist/6GqyfpVSLg3wGAmIWBW9aj"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Hiling",
+      "url": "https://open.spotify.com/track/2HJglZUTlGvaGcBB3EaQp2"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "wyd tn?",
+        "url": "https://open.spotify.com/album/7rFcFyWI6nFhDayltmCW9L"
+      },
+      "artists": [
+        {
+          "name": "ise",
+          "url": "https://open.spotify.com/artist/6BIzoSKP2dHDQj9r5X9RjV"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "wyd tn?",
+      "url": "https://open.spotify.com/track/4AuVeT59Kllu7RmzCPMekU"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/5tfUvcfoAHbQsRGMPi8eZT"
+      },
+      "artists": [
+        {
+          "name": "reika",
+          "url": "https://open.spotify.com/artist/6LIKgENy8yhUCxPntuKCYV"
+        }
+      ],
+      "duration_ms": 179958,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3jchCGbzTNDXYa6qjkESBz"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Haste",
+        "url": "https://open.spotify.com/album/0Rqpt9mFanstv16FoCz8ch"
+      },
+      "artists": [
+        {
+          "name": "KEI",
+          "url": "https://open.spotify.com/artist/3dQTI4S0Ruu7G4Rd5R0XYV"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Haste",
+      "url": "https://open.spotify.com/track/6ZvI3iMCtDnkz3aEg4ApVS"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "NEVACAUGHTTRIPPIN",
+        "url": "https://open.spotify.com/album/3dgwy2QkC5eNRfp1ZRoUl9"
+      },
+      "artists": [
+        {
+          "name": "Blu Daym Boiz",
+          "url": "https://open.spotify.com/artist/21KJYZRdBQvLR9XNckGyYn"
+        },
+        {
+          "name": "03Dem",
+          "url": "https://open.spotify.com/artist/06gt4YCE8GVYC333einYuV"
+        },
+        {
+          "name": "Coast Side Boiz",
+          "url": "https://open.spotify.com/artist/1ezjbQw4HxsiE56T0tovfs"
+        }
+      ],
+      "duration_ms": 112464,
+      "name": "NEVACAUGHTTRIPPIN",
+      "url": "https://open.spotify.com/track/2br6OvhcEFjuKYliLz2E5s"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Alon",
+        "url": "https://open.spotify.com/album/33PsXTNsTcgM8xzYldyXyG"
+      },
+      "artists": [
+        {
+          "name": "JL",
+          "url": "https://open.spotify.com/artist/7iecBkGAXnfTwF49zfBzbf"
+        }
+      ],
+      "duration_ms": 179095,
+      "name": "Alon",
+      "url": "https://open.spotify.com/track/0MCy9PWMVvgrGmuKXRISBL"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/7F1nnmnSTymOVlWgPlQbMl"
+      },
+      "artists": [
+        {
+          "name": "Pluuf",
+          "url": "https://open.spotify.com/artist/4BIRV8240wbJHf7qgJWtSQ"
+        },
+        {
+          "name": "Kei Santia",
+          "url": "https://open.spotify.com/artist/1xQGYTYsYwQKeRyGhdcAHQ"
+        }
+      ],
+      "duration_ms": 134659,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1Fj94OXqnfqm0BtR0dzg1w"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Pagsibol Sa Lakbay",
+        "url": "https://open.spotify.com/album/4ZsXnEhsZ6FPRSwsDfRHrs"
+      },
+      "artists": [
+        {
+          "name": "Lumina",
+          "url": "https://open.spotify.com/artist/0pEWbDYcMypOTQNOGlVM7z"
+        }
+      ],
+      "duration_ms": 436906,
+      "name": "Pagsibol Sa Lakbay",
+      "url": "https://open.spotify.com/track/7E86d4KUblIrh4GQO6KLdt"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "RARA!",
+        "url": "https://open.spotify.com/album/5htdCMWg6eSqAAVH8472Cf"
+      },
+      "artists": [
+        {
+          "name": "HULYO",
+          "url": "https://open.spotify.com/artist/40W53wWBmd1vKv3C8DUH58"
+        },
+        {
+          "name": "VITO MIRANDA",
+          "url": "https://open.spotify.com/artist/0J2C9ogdY1dgGqjfmO925H"
+        },
+        {
+          "name": "HENER",
+          "url": "https://open.spotify.com/artist/0bZVNqnIJhXWvto23u7aNS"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "RARA!",
+      "url": "https://open.spotify.com/track/1I3Yg4SlqnqObPpjSrFRni"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Paano Sumayaw?",
+        "url": "https://open.spotify.com/album/77uftbOV1NXRw8obNb736y"
+      },
+      "artists": [
+        {
+          "name": "LUIZ",
+          "url": "https://open.spotify.com/artist/3w0IDpcsCKaUi9gw3NJwfU"
+        }
+      ],
+      "duration_ms": 240657,
+      "name": "Paano Sumayaw?",
+      "url": "https://open.spotify.com/track/2280304fryqcAPxISbMBa3"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "DULO",
+        "url": "https://open.spotify.com/album/7fWgBALHmwMtz9QxtYv1An"
+      },
+      "artists": [
+        {
+          "name": "enbi",
+          "url": "https://open.spotify.com/artist/77SPiREka8o40HIsiPC00M"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "DULO",
+      "url": "https://open.spotify.com/track/1hEAOKHpasZAQdOcHCKdg2"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "LUV GAME",
+        "url": "https://open.spotify.com/album/5zKqiEppj6cjgNt4NswYex"
+      },
+      "artists": [
+        {
+          "name": "YB GHOSTY",
+          "url": "https://open.spotify.com/artist/0bOsWKIGVnKbrCR6n2Ej8N"
+        },
+        {
+          "name": "Lil Ugly Baby",
+          "url": "https://open.spotify.com/artist/5cG53gzildfV3OG9EbfZ1T"
+        }
+      ],
+      "duration_ms": 83252,
+      "name": "LUV GAME",
+      "url": "https://open.spotify.com/track/6kvKRy5AQ5V1FdCrw39XXe"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Mamahalin",
+        "url": "https://open.spotify.com/album/7j3v49PmtIOprZ4HzNt0vZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Blanco",
+          "url": "https://open.spotify.com/artist/7KuJ9VFYkvO2a5ZXz14EO4"
+        },
+        {
+          "name": "Symbless",
+          "url": "https://open.spotify.com/artist/5O7HqVQDYpLFCATOO0fzZn"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Mamahalin",
+      "url": "https://open.spotify.com/track/67v7TkHTordNkMm1MIHpIa"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Baby Wsp?",
+        "url": "https://open.spotify.com/album/2z47j04Ed3VOUapX6CPRsc"
+      },
+      "artists": [
+        {
+          "name": "Aji",
+          "url": "https://open.spotify.com/artist/5Vpc0YVefocAmPxT2nfb2U"
+        },
+        {
+          "name": "Jthekidd",
+          "url": "https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b"
+        }
+      ],
+      "duration_ms": 228336,
+      "name": "Baby Wsp?",
+      "url": "https://open.spotify.com/track/4SptPeotoPyg4mnMOdHkJB"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Sa 'King Pagbabalik",
+        "url": "https://open.spotify.com/album/4CytPsrKQ86FhtGsde9RbH"
+      },
+      "artists": [
+        {
+          "name": "BAN",
+          "url": "https://open.spotify.com/artist/2J78r4XhdPlWQlJ6CTm5CF"
+        }
+      ],
+      "duration_ms": 253085,
+      "name": "Sa 'King Pagbabalik",
+      "url": "https://open.spotify.com/track/14B4cxJPRPMwVgx9wQROma"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "UNHOELY",
+        "url": "https://open.spotify.com/album/5JWXEYhAYhSFGY1IZsMGTK"
+      },
+      "artists": [
+        {
+          "name": "KAM",
+          "url": "https://open.spotify.com/artist/3xg0pJxAHg2lehnFpiTMaQ"
+        },
+        {
+          "name": "sko",
+          "url": "https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw"
+        },
+        {
+          "name": "NVRMNDGELO",
+          "url": "https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7"
+        }
+      ],
+      "duration_ms": 258454,
+      "name": "UNHOELY",
+      "url": "https://open.spotify.com/track/6K73s3NCDcwerT7LeC4u2c"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "BAHAY MONG PRESKO",
+        "url": "https://open.spotify.com/album/7sQSEkP78N1NEJuFfmZqWS"
+      },
+      "artists": [
+        {
+          "name": "NVRMNDGELO",
+          "url": "https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7"
+        }
+      ],
+      "duration_ms": 179153,
+      "name": "BAHAY MONG PRESKO",
+      "url": "https://open.spotify.com/track/20iVjMCVuNgsu6KavW3OXq"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "ill-advised",
+        "url": "https://open.spotify.com/album/0cG8oZArVsLxDfNMTMTeim"
+      },
+      "artists": [
+        {
+          "name": "Solenza",
+          "url": "https://open.spotify.com/artist/56eEaGoCoJ5h5LRkzIkpEZ"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "ill-advised",
+      "url": "https://open.spotify.com/track/4Vm6nejgSR0dTkXxP8plda"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "100 Times",
+        "url": "https://open.spotify.com/album/44EtcIS8z6P6FgZ8FYS1GN"
+      },
+      "artists": [
+        {
+          "name": "Franzo",
+          "url": "https://open.spotify.com/artist/7nUm5zg7Iwcf16KblumRbE"
+        },
+        {
+          "name": "Marinel",
+          "url": "https://open.spotify.com/artist/5LVm97gJuL8CXIUKEOQTfE"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2JJQ9thiqUYlqShXcU48yF"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "she will be loved",
+        "url": "https://open.spotify.com/album/6b3XNhGGrg5jqO97b5c3Tw"
+      },
+      "artists": [
+        {
+          "name": "Jazelle",
+          "url": "https://open.spotify.com/artist/2Oycm3x2LtBE3aB0fIg4H6"
+        },
+        {
+          "name": "Keisha Q",
+          "url": "https://open.spotify.com/artist/3xum7uD7voRHmm7W06Cj4h"
+        }
+      ],
+      "duration_ms": 184170,
+      "name": "she will be loved",
+      "url": "https://open.spotify.com/track/0C5n1xsKLpru3NsD25fxTF"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Di Naman",
+        "url": "https://open.spotify.com/album/3EJwF13XezVDD0OLvWdivH"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYA",
+          "url": "https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU"
+        }
+      ],
+      "duration_ms": 183331,
+      "name": "Di Naman",
+      "url": "https://open.spotify.com/track/1DvyQUdA9GKp4dYKjJktKG"
+    },
+    {
+      "added_at": "2025-06-05 16:00:07",
+      "album": {
+        "name": "Panalangin",
+        "url": "https://open.spotify.com/album/2kdqkoxvI7c6LkU1HPzjpY"
+      },
+      "artists": [
+        {
+          "name": "Noodlez",
+          "url": "https://open.spotify.com/artist/2XRyKWcycNXjsnZUEXVmtH"
+        }
+      ],
+      "duration_ms": 308898,
+      "name": "Panalangin",
+      "url": "https://open.spotify.com/track/2hbNKBclV9TrRRloph0nmT"
+    },
     {
       "added_at": "2025-05-30 02:06:39",
       "album": {
@@ -2143,142 +2543,6 @@
       "duration_ms": 170733,
       "name": "ALL AN ACT",
       "url": "https://open.spotify.com/track/65Ej03DWQexJRhMiU8tLa5"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Kodigo",
-        "url": "https://open.spotify.com/album/06OR9EXI67XIRhnAytT8EG"
-      },
-      "artists": [
-        {
-          "name": "DIONE",
-          "url": "https://open.spotify.com/artist/2tXlQ6wwH8bmOqXLEumYkg"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Kodigo",
-      "url": "https://open.spotify.com/track/7dX6SifhdulLGfFN2R6ptT"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/5pMUuQZXsroVKMHw178GP0"
-      },
-      "artists": [
-        {
-          "name": "JADY",
-          "url": "https://open.spotify.com/artist/15Pk63GWnQxEruNAWi76JC"
-        },
-        {
-          "name": "UNO",
-          "url": "https://open.spotify.com/artist/0ZidGKZEuWMKpVIlCAJOlt"
-        }
-      ],
-      "duration_ms": 236679,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/7qphbWENVPw4Oz5n7LIjCh"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Psalms",
-        "url": "https://open.spotify.com/album/5cuDMqFOZjvQVNktqakVSb"
-      },
-      "artists": [
-        {
-          "name": "Where's the Sheep?",
-          "url": "https://open.spotify.com/artist/0IvsAJ3WzVgyC9b6ZnXp9O"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Who Seeks God, Who Seeks Him (Psalm 14)",
-      "url": "https://open.spotify.com/track/56Osa3xRlKRojHvQ09xDMK"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Tahan Na",
-        "url": "https://open.spotify.com/album/0XWV8CVMXJlYS2yxnG6cEM"
-      },
-      "artists": [
-        {
-          "name": "Jerms",
-          "url": "https://open.spotify.com/artist/0ecCRQhRSR0PTID7RdB6qA"
-        }
-      ],
-      "duration_ms": 171531,
-      "name": "Tahan Na",
-      "url": "https://open.spotify.com/track/5Dy7ImvtTBIiXbBqnkTGYC"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Wilted Dreams",
-        "url": "https://open.spotify.com/album/7dqj6IXyCthQX1Riw7NZt4"
-      },
-      "artists": [
-        {
-          "name": "ESTs",
-          "url": "https://open.spotify.com/artist/35txsGH3wzupiho2e7cAvX"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Wilted Dreams",
-      "url": "https://open.spotify.com/track/4DqFXBZwr1lwezke3WWnKL"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Master of Arts in Relaying Information Through Exaggerated Storytelling (MARITES)",
-        "url": "https://open.spotify.com/album/0stDA2tziXwHYmQSmxD9BF"
-      },
-      "artists": [
-        {
-          "name": "FNG Fun N Games",
-          "url": "https://open.spotify.com/artist/4VRV74YZ7ptNFYhTAhFma7"
-        }
-      ],
-      "duration_ms": 199684,
-      "name": "Master of Arts in Relaying Information Through Exaggerated Storytelling (MARITES)",
-      "url": "https://open.spotify.com/track/3Fn5euASkhm1atRBeJYL8S"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Pansamantala",
-        "url": "https://open.spotify.com/album/5j0KQLMSb7ETzE4vGlajT0"
-      },
-      "artists": [
-        {
-          "name": "Tenten Abella",
-          "url": "https://open.spotify.com/artist/346gLH8G5r1FWVN2kit3do"
-        },
-        {
-          "name": "Nathan Abella",
-          "url": "https://open.spotify.com/artist/6rM3ctCLVJRX0tHwLXn0lw"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Pansamantala",
-      "url": "https://open.spotify.com/track/79RGh1DtmU0KlgJzKnO2qe"
-    },
-    {
-      "added_at": "2025-05-30 02:06:39",
-      "album": {
-        "name": "Ikaw Lamang",
-        "url": "https://open.spotify.com/album/06jiIRH4Gi5ZyYLH6S7pV6"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Querubin",
-          "url": "https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Ikaw Lamang",
-      "url": "https://open.spotify.com/track/4dgtdxkDwu59CKRPBSgBZf"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

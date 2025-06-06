@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,912 likes - 149 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,914 likes - 149 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 58 | [Hit My Phone \(feat\. Kehlani\)](https://open.spotify.com/track/6DxQb1QXBymgaMBZJujxV2) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:30 |
 | 59 | [Piece of Me \(feat\. Ella Mai\)](https://open.spotify.com/track/6m4SEnC7eZLrgroEvwAmCF) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 60 | [Good Love \(feat\. Usher\)](https://open.spotify.com/track/4RFWaMf8cmM7MciRGCYdtz) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 3:52 |
-| 61 | [Emerald / Burgundy \(feat\. Juvenile & Juicy J\)](https://open.spotify.com/track/3AV5GK7R0dZa0HTwDg8yDU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 6:39 |
-| 62 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
+| 61 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
+| 62 | [Emerald / Burgundy \(feat\. Juvenile & Juicy J\)](https://open.spotify.com/track/3AV5GK7R0dZa0HTwDg8yDU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 6:39 |
 | 63 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 64 | [Surface](https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:14 |
 | 65 | [$$$ \(feat\. Normani\)](https://open.spotify.com/track/1qmTyz4l8mLlxGqGP2YjCF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 3:01 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 135 | [Rare](https://open.spotify.com/track/5LYZJ6kIXUQkryKCMriD1z) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:06 |
 | 136 | [Love Like This](https://open.spotify.com/track/0E7fWVbBA9NxiU4qgcTeqF) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Love Like This](https://open.spotify.com/album/5tbp7mG9OkS9ChyPFpvyJd) | 2:55 |
 | 137 | [You Don’t Love Her](https://open.spotify.com/track/6I5x0kMIhdac8QEHBk9yZg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 4:09 |
-| 138 | [Someone Else](https://open.spotify.com/track/11rm5jLSON6JmhD7xKMJQg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:04 |
-| 139 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 |
+| 138 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 |
+| 139 | [Someone Else](https://open.spotify.com/track/11rm5jLSON6JmhD7xKMJQg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:04 |
 | 140 | [Keep A Place](https://open.spotify.com/track/5RUJl9eXW62FS94oKQZSnF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:16 |
 | 141 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 | 142 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 148 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 149 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `AbzRSAAAAACUg7SZblLA6SYQV5M6sS1o`
+Snapshot ID: `AbzW6AAAAACUTA3BEiPOuUmCD56WaG9m`

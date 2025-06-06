@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa_9WSXQAGcMj9SpxUMJQ\">Ziggy4x</a> ",
-  "num_followers": 2645,
+  "num_followers": 2648,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDjZCwAAAADViMMYiGcOXADJYw7GtOs0",
+  "snapshot_id": "aEIToAAAAADh4Sk70vU99Pwwg7Cgcj6Q",
   "tracks": [
     {
       "added_at": "2025-05-02 08:13:49",
@@ -53,6 +53,46 @@
       "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
     },
     {
+      "added_at": "2025-06-05 22:01:04",
+      "album": {
+        "name": "Plug Me S:2 EP:5",
+        "url": "https://open.spotify.com/album/7AsBPeQHHVwbsGozmAhdEf"
+      },
+      "artists": [
+        {
+          "name": "21 Promo & Pengii",
+          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
+        },
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "SKIIPS",
+          "url": "https://open.spotify.com/artist/1QquCeba1W051sM56tKu0Y"
+        },
+        {
+          "name": "Flash Ikumkani",
+          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
+        },
+        {
+          "name": "PFLONERD",
+          "url": "https://open.spotify.com/artist/2aIsStLkvT7pgYHtsYxSNB"
+        },
+        {
+          "name": "TrustedSLK",
+          "url": "https://open.spotify.com/artist/4Qk7JOKXvTNoVCQuJCc5RU"
+        },
+        {
+          "name": "NAVYKIDD",
+          "url": "https://open.spotify.com/artist/06I3yZkNfX0yDWHJI4OZ39"
+        }
+      ],
+      "duration_ms": 192024,
+      "name": "Plug Me S:2 EP:5",
+      "url": "https://open.spotify.com/track/0MIUAndr30ezR8uvTcAFN8"
+    },
+    {
       "added_at": "2025-05-02 08:13:49",
       "album": {
         "name": "Nooit Genoeg",
@@ -71,38 +111,6 @@
       "duration_ms": 191400,
       "name": "Nooit Genoeg",
       "url": "https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
-        "name": "HONNE",
-        "url": "https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX"
-      },
-      "artists": [
-        {
-          "name": "AlwaysTheSuspect",
-          "url": "https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i"
-        },
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "ENTENDRE",
-          "url": "https://open.spotify.com/artist/46k9u0s8MgHWowaTSmAsoL"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
-        },
-        {
-          "name": "BakerGotTheKeys",
-          "url": "https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3"
-        }
-      ],
-      "duration_ms": 178437,
-      "name": "HONNE",
-      "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
     },
     {
       "added_at": "2025-05-29 22:00:43",
@@ -167,18 +175,34 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Gooi Dit Af",
-        "url": "https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc"
+        "name": "HONNE",
+        "url": "https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX"
       },
       "artists": [
         {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+          "name": "AlwaysTheSuspect",
+          "url": "https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i"
+        },
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "ENTENDRE",
+          "url": "https://open.spotify.com/artist/46k9u0s8MgHWowaTSmAsoL"
+        },
+        {
+          "name": "Kulture Gang",
+          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+        },
+        {
+          "name": "BakerGotTheKeys",
+          "url": "https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3"
         }
       ],
-      "duration_ms": 177917,
-      "name": "Gooi Dit Af",
-      "url": "https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J"
+      "duration_ms": 178437,
+      "name": "HONNE",
+      "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
     },
     {
       "added_at": "2025-05-29 22:00:43",
@@ -203,18 +227,18 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Tolgevang",
-        "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
+        "name": "Gooi Dit Af",
+        "url": "https://open.spotify.com/album/0MkSM2265YPZJRkUtPHXLc"
       },
       "artists": [
         {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
         }
       ],
-      "duration_ms": 160235,
-      "name": "Tolgevang",
-      "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
+      "duration_ms": 177917,
+      "name": "Gooi Dit Af",
+      "url": "https://open.spotify.com/track/6PVvd1FnlQEomRwjLr0J4J"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -239,6 +263,38 @@
       "duration_ms": 160826,
       "name": "Kyk Uit",
       "url": "https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
+        "name": "Tolgevang",
+        "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
+      },
+      "artists": [
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 160235,
+      "name": "Tolgevang",
+      "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
+    },
+    {
+      "added_at": "2025-06-05 22:01:04",
+      "album": {
+        "name": "SOMS",
+        "url": "https://open.spotify.com/album/1FSjDN78KMdDc5AkKUQdO5"
+      },
+      "artists": [
+        {
+          "name": "BARZX",
+          "url": "https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "SOMS",
+      "url": "https://open.spotify.com/track/56KNLWoTjcewPvVDeBoZzt"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -291,6 +347,30 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
+        "name": "Slat Los",
+        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Slat Los",
+      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
         "name": "Tittewyt",
         "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
       },
@@ -337,28 +417,20 @@
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
-      "added_at": "2025-05-02 08:13:49",
+      "added_at": "2025-05-22 22:00:27",
       "album": {
-        "name": "Slat Los",
-        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+        "name": "BEAST",
+        "url": "https://open.spotify.com/album/5Av4o0hN2Qk1KZuXNLd9RY"
       },
       "artists": [
         {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+          "name": "Karma 6east",
+          "url": "https://open.spotify.com/artist/12w3eaUjsNFrP0dHVOnSJT"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Slat Los",
-      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+      "duration_ms": 80901,
+      "name": "BEAST",
+      "url": "https://open.spotify.com/track/4WdadkfBhivySg2JyE2c2a"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -395,22 +467,6 @@
       "duration_ms": 184407,
       "name": "Moola",
       "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
-    },
-    {
-      "added_at": "2025-05-22 22:00:27",
-      "album": {
-        "name": "BEAST",
-        "url": "https://open.spotify.com/album/5Av4o0hN2Qk1KZuXNLd9RY"
-      },
-      "artists": [
-        {
-          "name": "Karma 6east",
-          "url": "https://open.spotify.com/artist/12w3eaUjsNFrP0dHVOnSJT"
-        }
-      ],
-      "duration_ms": 80901,
-      "name": "BEAST",
-      "url": "https://open.spotify.com/track/4WdadkfBhivySg2JyE2c2a"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -655,6 +711,22 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
         "name": "Church (Remix 2)",
         "url": "https://open.spotify.com/album/7yS6mzvns1dz3qz7Qp2ltp"
       },
@@ -683,22 +755,6 @@
       "duration_ms": 160993,
       "name": "Church - Remix 2",
       "url": "https://open.spotify.com/track/1TKP6I3rAAprUJwHMiokCw"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
-        "name": "Doen Net Jou Ding",
-        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 185395,
-      "name": "Doen Net Jou Ding",
-      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -867,8 +923,8 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Goated",
-        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
+        "name": "Staan Uit",
+        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
       },
       "artists": [
         {
@@ -876,9 +932,9 @@
           "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
         }
       ],
-      "duration_ms": 131813,
-      "name": "Goated",
-      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
+      "duration_ms": 147428,
+      "name": "Staan Uit",
+      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
     },
     {
       "added_at": "2025-05-02 08:13:49",
@@ -931,38 +987,6 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Op Fok",
-        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
-      },
-      "artists": [
-        {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
-        }
-      ],
-      "duration_ms": 128419,
-      "name": "Op Fok",
-      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
-        "name": "Staan Uit",
-        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
-      },
-      "artists": [
-        {
-          "name": "Chesrae Megan",
-          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Staan Uit",
-      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
         "name": "Funds up",
         "url": "https://open.spotify.com/album/3MfN6NrliRwkNhQ9QQ8R4U"
       },
@@ -983,38 +1007,34 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Violence (Afrikaans Drill)",
-        "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
       },
       "artists": [
         {
-          "name": "SwiinkBEATS.Ltd",
-          "url": "https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG"
-        },
-        {
-          "name": "KG Lucas",
-          "url": "https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l"
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
         }
       ],
-      "duration_ms": 220366,
-      "name": "Violence - Afrikaans Drill",
-      "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
+      "duration_ms": 131813,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
     },
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
-        "name": "Tyd Saam",
-        "url": "https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c"
+        "name": "Op Fok",
+        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
       },
       "artists": [
         {
-          "name": "EAZY CPT",
-          "url": "https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm"
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Tyd Saam",
-      "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"
+      "duration_ms": 128419,
+      "name": "Op Fok",
+      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

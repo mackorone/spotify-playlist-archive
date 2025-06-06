@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Doechii !",
+  "description": "Le meilleur des hits avec David Guetta & Sia !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1026,10 +1026,28 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
+    },
+    {
+      "album": {
+        "name": "Break Your Heart",
+        "url": "https://open.spotify.com/album/7kQqrcgoDVxpgEPnDXpTVh"
+      },
+      "artists": [
+        {
+          "name": "Bormin\u2019",
+          "url": "https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188953,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/1wrVWI9VExFCUFl8c4cWKI"
     },
     {
       "album": {
@@ -4431,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "M\u00e9latonine",
+      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
+    },
+    {
+      "album": {
         "name": "Radio Kitchen EP",
         "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
       },
@@ -5450,7 +5486,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"

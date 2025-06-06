@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYW0wKwdPj2g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYW0wKwdPj2g)
 
-### [Come Alive](https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g)
+### [Live Gospel](https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g)
 
-> In the mood for live Christian and Gospel music? This is the one\. Cover: EmmaOMG
+> In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-235 songs - 1 day 7 hr 6 min
+237 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-02-23 |  |
 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 | 2025-02-07 |
 | [He Reigns](https://open.spotify.com/track/0lCysHEilSagB1wvg2IW4S) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [He Reigns](https://open.spotify.com/album/5jhjBD8PUSfYOXnJVMVoMa) | 5:41 | 2024-10-04 | 2025-01-31 |
-| [Head In The Sky \- Live](https://open.spotify.com/track/02nPHOHMGfUKTmqjrILtHZ) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rewind It \(Live\)](https://open.spotify.com/album/4tqreI2rZSuBxjOEBqEwT9) | 3:02 | 2025-04-25 |  |
+| [Head In The Sky \- Live](https://open.spotify.com/track/02nPHOHMGfUKTmqjrILtHZ) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rewind It \(Live\)](https://open.spotify.com/album/4tqreI2rZSuBxjOEBqEwT9) | 3:02 | 2025-04-25 | 2025-06-06 |
 | [Higher oh \- Live](https://open.spotify.com/track/6vOiTgozU5X0lWRoasn35p) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q) | [Higher oh \(Live\)](https://open.spotify.com/album/6ty3mbgv5Y6Bc2yp294hRN) | 3:46 | 2025-05-02 |  |
 | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V) | 5:16 | 2024-03-29 | 2024-04-12 |
 | [Hold On](https://open.spotify.com/track/01H2VrG6M1Mi6NQGvSZqNK) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/1D0i8SNNKxHHf4EhuKNQsE) | [Gratitude](https://open.spotify.com/album/3JSITBuRn2vwJ5I0fwWIic) | 6:47 | 2025-01-03 | 2025-01-31 |
@@ -144,6 +144,7 @@
 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 | 2024-02-23 |  |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-04-05 |  |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-02-23 |  |
+| [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 |  |
 | [Never seen \- Live](https://open.spotify.com/track/2chS8q9WHvYzt6Jui4tSfu) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Never seen \(Live\)](https://open.spotify.com/album/4o26uOP0J3WDXtQAdE2FX2) | 10:21 | 2024-04-19 |  |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-03-01 |  |
 | [Ngeke Ng'suke Kuwe \(Reprise\)](https://open.spotify.com/track/745RBWUsOh6awyKAehigkT) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Be Still \(He is God\)](https://open.spotify.com/album/0cSgKbP6SYCKNzxuPIQ60g) | 1:51 | 2024-02-23 |  |
@@ -181,6 +182,7 @@
 | [Prayer \- Live](https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY) | [Minstrel K.I](https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Prayer \(Live\)](https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4) | 9:19 | 2024-06-28 |  |
 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-08-16 |  |
 | [Reign Lord \(Sovereign\) \- Live](https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Anu Ropo](https://open.spotify.com/artist/6pOWF1wf8Vt8EoF4Ee5imF) | [Reign Lord \(Sovereign\) \[Live\]](https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT) | 10:30 | 2024-05-03 | 2024-08-16 |
+| [Rohi \(The Good Shepherd\) \- Live](https://open.spotify.com/track/1YwwfzEsBdfjprEuKzy8tC) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rohi \(The Good Shepherd\) \[Live\]](https://open.spotify.com/album/3XBKLHisNTmO1CYf4M4sxJ) | 11:08 | 2025-06-06 |  |
 | [Se Wo \(Like You\)](https://open.spotify.com/track/60Hfxiuc8R47sNvMV8dJK2) | [Philip Adzale](https://open.spotify.com/artist/1BOhh63lCnqKTuAJI0zezl), [Kweku Teye](https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp) | [Se Wo \(Like You\)](https://open.spotify.com/album/3OTq5t8WDYvPHiMULRaiil) | 9:45 | 2025-01-24 | 2025-02-14 |
 | [Separate and Set Apart \- Live](https://open.spotify.com/track/73sM6yB7aVAnxIkXsmKSab) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Separate and Set Apart \(Live\)](https://open.spotify.com/album/2fJNJYJp9xgvszDVXqlp29) | 11:24 | 2024-07-19 | 2024-11-01 |
 | [Set me on Fire \(Spontaneous\) \- Live](https://open.spotify.com/track/5WFRlXEzVc4lMrTWr38fo1) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Set me on Fire \(Spontaneous\) \[Live\]](https://open.spotify.com/album/2EpYbLNXu2dbGLEltYinIL) | 7:41 | 2025-05-30 |  |

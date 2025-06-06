@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-191 songs - 11 hr 33 min
+194 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Be My Lady \(feat\. Pieter Tuhoro & Jah Maoli\)](https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh) | 4:11 | 2024-03-21 | 2024-11-08 |
 | [Be My Lady \(with Pieter T feat\. Jah Maoli\)](https://open.spotify.com/track/4GTps7FQv0jyGxKmX0Wdc4) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/5bN0WUW3od88WZav7XYatH) | 4:11 | 2023-11-28 | 2024-04-19 |
 | [Beautiful](https://open.spotify.com/track/6dbsWJKOVd9u7RoZhiRKKt) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Beautiful](https://open.spotify.com/album/20gMAxDx4XqQGAbCYnB2u1) | 3:54 | 2023-11-28 |  |
+| [Beautiful Woman](https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:19 | 2025-06-05 |  |
 | [Best of My Love](https://open.spotify.com/track/3Ps9C8uby83DzBwqidIUuY) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Best of My Love](https://open.spotify.com/album/3s7KFeCg5hewKwmWxh0JJE) | 3:54 | 2023-11-28 |  |
 | [Betcha By Golly Wow](https://open.spotify.com/track/53SSPtxyWw6SmPvNvjH1KT) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Betcha By Golly Wow](https://open.spotify.com/album/0QHVMNKlr24yCOGLTK9GF8) | 3:10 | 2024-03-21 |  |
 | [Blue Eyed Māori](https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 3:16 | 2023-11-28 | 2024-04-19 |
@@ -84,6 +85,7 @@
 | [Kia Arohatia Tatou](https://open.spotify.com/track/7l1Ga758jKz149d3YoTxo6) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Kia Arohatia Tātou](https://open.spotify.com/album/2WaLzyIGVTYAmjmZJ96qPK) | 3:30 | 2023-11-28 | 2024-04-19 |
 | [Kia Arohatia Tātou](https://open.spotify.com/track/2EanS87tnUJsQtVUvKWUt9) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Kia Arohatia Tātou](https://open.spotify.com/album/0kI9JYX7CWBVUxnRpSvAsK) | 3:30 | 2024-03-21 |  |
 | [Killing It Off](https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Killing It Off](https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr) | 2:49 | 2023-11-28 |  |
+| [Kiss the Sky](https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Return to the Roots](https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02) | 5:16 | 2025-06-05 |  |
 | [Ko tāua](https://open.spotify.com/track/3eVGdEe5r9voTSCBnU9iYJ) | [Origin Roots Aotearoa O.R.A](https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI) | [He Reo ORA](https://open.spotify.com/album/6iIahwgrxneTrOxyPFYegM) | 3:33 | 2024-03-21 |  |
 | [Ko tāua](https://open.spotify.com/track/6VhUHRtjl9MWAmbty4dCax) | [Origin Roots Aotearoa O.R.A](https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI) | [He Reo ORA](https://open.spotify.com/album/0VwVSuolA8uJfRah4mCi2e) | 3:33 | 2023-11-28 | 2024-04-19 |
 | [Lady Love](https://open.spotify.com/track/5ots0AQqS1l0CZS2M1jVK0) | [Bina Butta](https://open.spotify.com/artist/7iByFcncYwzUOf7dPPF9JK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [Lady Love](https://open.spotify.com/album/099n7gC2449ZTlnovvX0BI) | 4:34 | 2024-03-21 |  |
@@ -166,6 +168,7 @@
 | [Spiritual Healing](https://open.spotify.com/track/7A30hdrFnzHGhzGxkaxNNj) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Natural Roots](https://open.spotify.com/artist/1hC9SW169JUL2LNLGwRdy0) | [Keepers of the Flame](https://open.spotify.com/album/48sBiiWcETqvuPAVhVCpYN) | 4:39 | 2023-11-28 | 2024-03-02 |
 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 | 2023-12-21 |  |
 | [Stay In Your Lane](https://open.spotify.com/track/1e6TMGAXb3G81zFhFQ4gmw) | [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW), [Fiakal](https://open.spotify.com/artist/7DWgx2P7qT4MlhRLI37yOJ) | [Stay In Your Lane](https://open.spotify.com/album/6YYrPz65agGFETnvXqlaDH) | 2:40 | 2024-03-21 |  |
+| [Step Into The Sun](https://open.spotify.com/track/0V97fTBQ3DAQ9kuiceg02D) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Step Into The Sun](https://open.spotify.com/album/5Q6IYf2vx2WRJI5hi9XOGk) | 4:00 | 2025-06-05 |  |
 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 | 2023-11-28 |  |
 | [Summer Breeze](https://open.spotify.com/track/1QvnAn3bRO9OHvcVcGdgJX) | [The Mighty Rootsmen](https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK), [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Summer Breeze](https://open.spotify.com/album/1BMwIdCw9HWnuWS0Kc2fL9) | 3:27 | 2025-05-29 |  |
 | [Summer Roots](https://open.spotify.com/track/0aYqYGU4vWXVOtv6YIk5PZ) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp) | [Summer Roots](https://open.spotify.com/album/35J3yKS1y03AeCfgZfPudX) | 3:25 | 2025-03-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Owen\(오왼\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,042 likes - 103 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,105 likes - 103 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

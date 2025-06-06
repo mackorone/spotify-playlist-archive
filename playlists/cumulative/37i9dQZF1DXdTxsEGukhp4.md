@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 紫 今
 
-508 songs - 1 day 4 hr 59 min
+509 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [セブンティーン](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [セブンティーン](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) | 3:19 | 2023-03-30 | 2023-04-28 |
 | [セーシュン](https://open.spotify.com/track/0lJBMJ01gPt7m2xzkEoajN) | [DIALUCK](https://open.spotify.com/artist/6E2gZLFqTJRHK70QaHlnRd) | [A First Aid Kit](https://open.spotify.com/album/4dfmAPjYXH0b1idQnLC4gB) | 3:56 | 2024-04-25 | 2024-11-08 |
 | [ゼロ距離恋愛](https://open.spotify.com/track/3rA3elSXqK2aMkuDajQrFn) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [ゼロ距離恋愛](https://open.spotify.com/album/3W3HK6jamfEw1LRofzXGDL) | 2:54 | 2023-01-26 | 2023-03-03 |
-| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-04-01 |  |
+| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-04-01 | 2025-06-06 |
 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 | 2023-11-09 | 2024-02-23 |
 | [ターコイズ](https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ターコイズ](https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY) | 3:19 | 2023-06-01 | 2023-09-09 |
 | [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 | 2023-01-26 | 2023-02-24 |
@@ -507,6 +507,7 @@
 | [繋いだ手](https://open.spotify.com/track/3YMt4l4fQRqL18peB4AuYY) | [MINAMI](https://open.spotify.com/artist/1JEdEHubWKD5Qr6pDIyCEy) | [繋いだ手](https://open.spotify.com/album/0TLOkRatBwCXj9PgBXWNg6) | 3:37 | 2023-07-27 | 2023-09-15 |
 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-04-13 | 2023-06-23 |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-04-27 | 2023-11-11 |
+| [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-06-05 |  |
 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 | 2023-12-07 | 2024-05-01 |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-08-01 | 2024-11-08 |
 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 | 2023-01-26 | 2023-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,115 likes - 283 songs - 23 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,123 likes - 291 songs - 1 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,5 +291,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 281 | [The Wizard](https://open.spotify.com/track/2J1m0j1kJLRNsmlqk0Q2ua) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:16 |
 | 282 | [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [In Plain Sight](https://open.spotify.com/album/39H3aSkk8uCM25VoIx16y7) | 2:42 |
 | 283 | [Believe](https://open.spotify.com/track/6mKOX2edpJ0W7zTjZW7JNz) | [Fec](https://open.spotify.com/artist/4PcuzJ8RCVuQIYlJINkVF1) | [The Believe](https://open.spotify.com/album/2yEI2aTvAVFHNghbmOUvuV) | 5:28 |
+| 284 | [Pepa](https://open.spotify.com/track/7svtmHQyMTLfsw6GTgqWle) | [Juravlove](https://open.spotify.com/artist/1KhnOJDR8KGk3Q3plUJ6Uo) | [Pepa](https://open.spotify.com/album/4j6hefKWdXCBtlzpN4cLV7) | 3:56 |
+| 285 | [Vai começar](https://open.spotify.com/track/5k9OWBfIBx6bVjF1vPLFue) | [Bronka](https://open.spotify.com/artist/1xtwX7lilXQmlBoRrOu8md) | [Electric Baile](https://open.spotify.com/album/74YNSSYVWGYuQh1GXmAil7) | 1:38 |
+| 286 | [Ouverture](https://open.spotify.com/track/3aIEQXnZSEWIriJaq1jUvZ) | [SPORE](https://open.spotify.com/artist/66xA2uEVOChiDTKdZd6hgV) | [Ouverture](https://open.spotify.com/album/4z7NVKdld1T32cxA7JXb5z) | 4:48 |
+| 287 | [lothian](https://open.spotify.com/track/6sbkf1YLWwYf3eq6UUyaRd) | [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [lothian](https://open.spotify.com/album/6sSBhZx5Sj3bJRFawCtpyH) | 2:46 |
+| 288 | [Deep Republik](https://open.spotify.com/track/2WV9GzrChrShKDVMtkxZzf) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 6:27 |
+| 289 | [Don't Judge Me Bad](https://open.spotify.com/track/1sDhwmVtcgh0kWjyPRvSIn) | [Senyaka](https://open.spotify.com/artist/0JI5oyvW4ozJsb2Q5VSeNn) | [Fuquza \(Dance\)](https://open.spotify.com/album/7jmF77JhfDH8ZFhCHkrK3L) | 3:08 |
+| 290 | [Lazer Worshippers Theme \- Original Mix 1993](https://open.spotify.com/track/5lqHp4xfPw24L5gkjsKVcJ) | [Damon Wild](https://open.spotify.com/artist/1Ca2mQbNaKYrz62PT8sRq5), [Lazer Worshippers](https://open.spotify.com/artist/2ia39fgJrxOIjSREF3EGBk), [Tim Taylor \(Missile Records\)](https://open.spotify.com/artist/3SDO9vtI8lg2xandf0TP30) | [Lazer Worshippers Theme](https://open.spotify.com/album/0ZGMiPJ6BUavRi2RBG2WIu) | 10:01 |
+| 291 | [Fujisun](https://open.spotify.com/track/7fNCRIxW9ufuwhysJ9HjY6) | [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [Håll Om Mig](https://open.spotify.com/album/7JVFZvHAOvy8j59zXBe2ox) | 6:09 |
 
-Snapshot ID: `aCcoDwAAAAAj+2Bbai0Q/zXQAlaUvTwI`
+Snapshot ID: `aEFP0gAAAABVEVt9qYudOTXAXLUSjIvv`

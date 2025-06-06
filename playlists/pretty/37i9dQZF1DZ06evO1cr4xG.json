@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 83298,
+  "num_followers": 83311,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABqxIUVLTzCyFtrfKiNN7we",
+  "snapshot_id": "aD+MgAAAAACpAwJe7rQqS/cAdY0fRs82",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 388035,
-      "name": "Catastrophist",
-      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68"
+      "duration_ms": 228712,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228712,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
+      "duration_ms": 388035,
+      "name": "Catastrophist",
+      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 220416,
-      "name": "Silence in the Snow",
-      "url": "https://open.spotify.com/track/6R8XKSzEw5DteWa9zAOhq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 354133,
       "name": "Throes of Perdition",
       "url": "https://open.spotify.com/track/5IC15BbbaRv6FmseUG0mTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 220416,
+      "name": "Silence in the Snow",
+      "url": "https://open.spotify.com/track/6R8XKSzEw5DteWa9zAOhq3"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 281781,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 265895,
       "name": "Blind Leading the Blind",
       "url": "https://open.spotify.com/track/7a6AriexF79dNNhknDluGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 281781,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
     },
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
-      },
-      "artists": [
-        {
-          "name": "Kevin Sherwood",
-          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
-        },
-        {
-          "name": "Matthew K. Heafy",
-          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
-        },
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 229019,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 340288,
       "name": "Amongst The Shadows & The Stones",
       "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
+      },
+      "artists": [
+        {
+          "name": "Kevin Sherwood",
+          "url": "https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb"
+        },
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        },
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 229019,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascendancy (Special Edition)",
-        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 489960,
-      "name": "Master of Puppets",
-      "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 204570,
       "name": "Scattering The Ashes",
       "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascendancy (Special Edition)",
+        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 489960,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Descendents. The essential tracks, all in one playlist.",
-  "num_followers": 20919,
+  "num_followers": 20928,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABsKfMnpGfSnPjY0Sm6rDWI",
+  "snapshot_id": "aD+MgAAAAACmOKH60sMHiwAiRdPA6Pz6",
   "tracks": [
     {
       "added_at": null,
@@ -507,38 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9th & Walnut",
-        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 56001,
-      "name": "Baby Doncha Know",
-      "url": "https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 74026,
-      "name": "Feel This",
-      "url": "https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Tracks, Vol. 2",
         "url": "https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI"
       },
@@ -559,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
       },
       "artists": [
         {
@@ -568,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+      "duration_ms": 74026,
+      "name": "Feel This",
+      "url": "https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56"
     },
     {
       "added_at": null,
@@ -584,15 +552,15 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 61719,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
+      "duration_ms": 56001,
+      "name": "Baby Doncha Know",
+      "url": "https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
       },
       "artists": [
         {
@@ -600,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 190924,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR"
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
     },
     {
       "added_at": null,
@@ -623,6 +591,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 190924,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 61719,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enjoy",
         "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9th & Walnut",
-        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+        "name": "All",
+        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 56958,
-      "name": "Like the Way I Know",
-      "url": "https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA"
+      "duration_ms": 185045,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All",
-        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 185045,
-      "name": "Cameage",
-      "url": "https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb"
+      "duration_ms": 56958,
+      "name": "Like the Way I Know",
+      "url": "https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA"
     },
     {
       "added_at": null,

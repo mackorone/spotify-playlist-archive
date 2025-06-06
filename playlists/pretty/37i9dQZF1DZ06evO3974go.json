@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20150,
+  "num_followers": 20154,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABkT43yX36yCy3iXZLJllS1",
+  "snapshot_id": "aD+MgAAAAADkxpZ04n4zGcLJyi72ICow",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Cry",
-        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Song Cry",
-      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 222720,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Season 2",
-        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Never Made Love (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish Me Well",
         "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 196343,
       "name": "Exactly How It Was",
       "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Never Made Love (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
     },
     {
       "added_at": null,

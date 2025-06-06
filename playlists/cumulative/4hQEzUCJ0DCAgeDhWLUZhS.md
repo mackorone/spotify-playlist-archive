@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-503 songs - 1 day 5 hr 32 min
+506 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Hurricane](https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T) | [Sweet Talk](https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi) | [Switch On](https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt) | 4:18 | 2025-05-26 |  |
 | [HWY 666](https://open.spotify.com/track/6QnwNrGUyLRkHSXgHRblmn) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [HWY 666/Black Eyes Blue/CMFT Must Be Stopped \(Featuring Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/2PlblaXwjQDSHsXWUUBA2S) | 4:09 | 2020-10-10\* | 2022-03-18 |
 | [i can't get high](https://open.spotify.com/track/3OEi89tc0xveSTHAhwrFKT) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [i can't get high](https://open.spotify.com/album/7JhOqoGnIfgcHJxNq5ZnCx) | 3:08 | 2021-02-26 | 2022-03-18 |
+| [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-06 |  |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-09-18 | 2025-05-28 |
 | [I Don't Want to Talk](https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [I Don't Want to Talk](https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I) | 3:43 | 2021-10-01 | 2025-05-28 |
 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 | 2023-10-06 | 2025-06-04 |
@@ -313,6 +314,7 @@
 | [Oh Love \- Otis Big Guitar Mix](https://open.spotify.com/track/5lvwDxlYo15gorOJQvCAOR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Otis Big Guitar Mix](https://open.spotify.com/album/48mhNIo0YlJQmcpxfW8oYl) | 4:52 | 2020-10-10\* | 2021-05-13 |
 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 | 2020-10-10\* | 2021-05-13 |
 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 | 2020-10-10\* | 2022-03-18 |
+| [ON AND ON \(Song for Jasmin\)](https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:31 | 2025-06-06 |  |
 | [On Show](https://open.spotify.com/track/0dSmwYPN87nX17aHlocHkt) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/6svzoqghdKgjRJTtcm3Kvg) | 3:19 | 2024-11-15 | 2025-06-04 |
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-04-05 | 2025-06-04 |
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2021-03-25 | 2022-03-18 |
@@ -333,6 +335,7 @@
 | [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 | 2023-07-14 | 2025-06-04 |
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-06 |  |
 | [Premiere Fois](https://open.spotify.com/track/5rNn1oWeq47oYMcBCTxECN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3) | [Premiere Fois](https://open.spotify.com/album/6hxpiIIMwghgcThALEbvuK) | 3:47 | 2021-11-25 | 2025-05-28 |
+| [Pretty](https://open.spotify.com/track/1ICe9DzlVvIhTqqqztrLeg) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [FOLLY](https://open.spotify.com/album/0PbKKkGDzod0JqT6eiSgeU) | 3:22 | 2025-06-06 |  |
 | [Priscilla](https://open.spotify.com/track/0kohaqR08X8cG9yocgbHzx) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [WINDOW](https://open.spotify.com/album/3T7C9Pu9Sf1MuOoQnhtGVW) | 2:48 | 2025-04-13 |  |
 | [Pull Me Through](https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Pull Me Through](https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji) | 3:08 | 2023-07-14 | 2025-06-04 |
 | [Puppets Can’t Control You](https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can’t Control You](https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K) | 3:14 | 2025-01-24 |  |

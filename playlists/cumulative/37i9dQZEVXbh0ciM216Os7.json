@@ -7744,7 +7744,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 157133,
       "name": "Cake",
       "url": "https://open.spotify.com/track/3EEzxb1dGxaSK9GrSpELmC"
@@ -9446,6 +9446,24 @@
       "duration_ms": 146285,
       "name": "Clout Chasing",
       "url": "https://open.spotify.com/track/2vxIiV2F8mZ9jtCFoPN7IK"
+    },
+    {
+      "album": {
+        "name": "Lifetime Achievement Award",
+        "url": "https://open.spotify.com/album/40H2tssCMzDiCaksvwlA5b"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254506,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/1UVYuk7MSJ2ZlVykR2RgXY"
     },
     {
       "album": {
@@ -43000,7 +43018,7 @@
     {
       "album": {
         "name": "Song 3",
-        "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
+        "url": "https://open.spotify.com/album/3YL4R9J5QzAOOOl5MrmHqx"
       },
       "artists": [
         {
@@ -43015,6 +43033,28 @@
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/17tFA9uTIBJzlGySKys04X"
+    },
+    {
+      "album": {
+        "name": "Song 3",
+        "url": "https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2025-06-06",
       "duration_ms": 214193,
       "name": "Song 3",
       "url": "https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL"

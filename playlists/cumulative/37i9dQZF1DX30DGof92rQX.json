@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Natasha Noorani, Adnan Dhool",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Zafar, Salman Paras",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173124,
       "name": "Aadhey Adhoorey",
       "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 260000,
       "name": "Beqadra",
       "url": "https://open.spotify.com/track/3LBq1FeFAVg45FKQ3Jw9SI"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 244800,
       "name": "Bhool",
       "url": "https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 207000,
       "name": "Channa",
       "url": "https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 218863,
       "name": "Dil Leke",
       "url": "https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy"
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Par Ab Jo Aayegi Tu",
+        "url": "https://open.spotify.com/album/1fEFaG0JWVUkvVVH3C7tE4"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161691,
+      "name": "Dill",
+      "url": "https://open.spotify.com/track/0f9MZp8koaRLTkiXpwzrkK"
+    },
+    {
+      "album": {
         "name": "Dilwale",
         "url": "https://open.spotify.com/album/24oFlrBYEx5AuFZ5LyyB6R"
       },
@@ -1046,6 +1064,32 @@
       "duration_ms": 242696,
       "name": "Dilwale",
       "url": "https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy"
+    },
+    {
+      "album": {
+        "name": "STRING THEORY",
+        "url": "https://open.spotify.com/album/2Tnj9kg8mNpLS7SdSdLlxu"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "DISCONNECT",
+      "url": "https://open.spotify.com/track/2bA3xbeJ31KAFhprR44BZR"
     },
     {
       "album": {
@@ -1086,7 +1130,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 197379,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/6zVXNOehHZrjAej1xJyZon"
@@ -1222,7 +1266,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 203299,
       "name": "Galliyan",
       "url": "https://open.spotify.com/track/2Bq2c5qTMZHOLMNMOPwEEw"
@@ -1380,7 +1424,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 208750,
       "name": "Haal",
       "url": "https://open.spotify.com/track/5h2OHZjjp8lW29ySUaUnX6"
@@ -1450,7 +1494,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 250746,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
@@ -1612,7 +1656,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 172166,
       "name": "Hum Tum",
       "url": "https://open.spotify.com/track/4ETUS1BAxTSO0Gn249PsY6"
@@ -2226,7 +2270,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 204155,
       "name": "Lovely Bukhaar",
       "url": "https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH"
@@ -2244,7 +2288,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 187374,
       "name": "LV (Ja Re Ja)",
       "url": "https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti"
@@ -2262,7 +2306,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 281134,
       "name": "Maahi - Original",
       "url": "https://open.spotify.com/track/6boNCp6hK7sFP0BAyMJ4wn"
@@ -2306,7 +2350,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 185000,
       "name": "Maand",
       "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
@@ -2368,7 +2412,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 222197,
       "name": "Main Na Rahoon",
       "url": "https://open.spotify.com/track/5H6EKQ9HCI3u7VH1EOxA7g"
@@ -2500,7 +2544,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 193636,
       "name": "Mere Sapnay",
       "url": "https://open.spotify.com/track/1GwqyIU5GPdFIY5VJDk0eD"
@@ -2662,7 +2706,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 213333,
       "name": "Munda on the Rise",
       "url": "https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5"
@@ -2762,7 +2806,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 195019,
       "name": "Naqaab",
       "url": "https://open.spotify.com/track/5U8vnomI00iJDCN3Gm6Fhh"
@@ -2846,7 +2890,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 140000,
       "name": "Nothing Over You",
       "url": "https://open.spotify.com/track/2LyfpsJ2y2HbDnTVGFnevY"
@@ -3122,7 +3166,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 254250,
       "name": "Peeran",
       "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
@@ -3250,7 +3294,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 163772,
       "name": "Raah Takdi",
       "url": "https://open.spotify.com/track/4xL8p2LSUhrtxTiHmJPmeN"
@@ -3320,7 +3364,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 219574,
       "name": "Radha",
       "url": "https://open.spotify.com/track/0oOVxu88I7Bj9jjDnXVRus"
@@ -3430,7 +3474,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 152445,
       "name": "ROOP",
       "url": "https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD"
@@ -4012,7 +4056,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 200727,
       "name": "Talab",
       "url": "https://open.spotify.com/track/7trCcRZrkFLQOdb9JO4vS3"
@@ -4136,7 +4180,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180370,
       "name": "Tera Sitam",
       "url": "https://open.spotify.com/track/1UyhqrZDszzecXWdJL9O03"
@@ -4228,6 +4272,24 @@
       "duration_ms": 257068,
       "name": "Thaggi",
       "url": "https://open.spotify.com/track/3nbrz0TpEpTlyOZsmiM5Lk"
+    },
+    {
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/5MgeUvdqhCCkSp7qASx8vB"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162160,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/76iJuLHEpvFyBua6A3YlHw"
     },
     {
       "album": {
@@ -4352,7 +4414,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 193605,
       "name": "TUM",
       "url": "https://open.spotify.com/track/3wpz9ZDyrSH3EdGjOV94lP"
@@ -4370,7 +4432,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 240000,
       "name": "Ud jana",
       "url": "https://open.spotify.com/track/6TTEZ1vo7Wu4JvajcaDgmH"
@@ -4410,7 +4472,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 290963,
       "name": "Umeedon Ki",
       "url": "https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF"
@@ -4574,7 +4636,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 144001,
       "name": "Wishful",
       "url": "https://open.spotify.com/track/2e7DgiuK7mCDvYHTmMZilD"
@@ -4676,7 +4738,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 281208,
       "name": "Yeh Zaroori To Nahi",
       "url": "https://open.spotify.com/track/0eHoUp23suG8EsaJf5qiuG"

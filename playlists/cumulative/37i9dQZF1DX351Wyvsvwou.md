@@ -4,7 +4,7 @@
 
 > The most villainous songs from the Marvel Cinematic Universe.
 
-45 songs - 2 hr 15 min
+46 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [The Conqueror](https://open.spotify.com/track/2nqbGSVpEkF2qnAgPVRXYB) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Ant\-Man and The Wasp: Quantumania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I) | 6:17 | 2023-02-15 |  |
 | [The Destroyer](https://open.spotify.com/track/5tbjzMMiVjSfyzpXR3plhq) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Thor](https://open.spotify.com/album/6rGh1F77U9kZuXsjuCOEDw) | 2:57 | 2023-02-15 |  |
 | [The Destroyer](https://open.spotify.com/track/1eXDRxMJZ0ZaBk15TILd58) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 1:27 | 2023-02-15 |  |
+| [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2025-06-05 |  |
 | [The Mandarin](https://open.spotify.com/track/4f9YKphIRH0I7fVFhY8GMz) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Iron Man 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi) | 2:36 | 2023-02-15 |  |
 | [The Trial of Loki \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/13qV9OXC1cCFFn6ZLaCLJF) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 2:38 | 2023-02-15 |  |
 | [The Winter Soldier](https://open.spotify.com/track/53xdABEP9hyvBwvuXpzeXG) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: The Winter Soldier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl) | 6:24 | 2023-02-15 |  |

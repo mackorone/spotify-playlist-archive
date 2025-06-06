@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 12729,
+  "num_followers": 12730,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACT6eEQxYjxgcomMc4YYg3C",
+  "snapshot_id": "aD+MgAAAAAAN+pBfa675AN/R28P0loQs",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Free Rico",
-      "url": "https://open.spotify.com/track/7bgfvzEIufDUgwhqIBrmBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4eva Us Neva Them",
         "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
       },
@@ -847,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "THE ONE & ONLY",
-      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 103249,
       "name": "Bigger Than Life Or Death",
       "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Free Rico",
+      "url": "https://open.spotify.com/track/7bgfvzEIufDUgwhqIBrmBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "THE ONE & ONLY",
+      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 156801,
+      "name": "Free Z5",
+      "url": "https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SNOFALL",
         "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 204791,
       "name": "Scarface (feat. EST Gee)",
       "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 156801,
-      "name": "Free Z5",
-      "url": "https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO"
     },
     {
       "added_at": null,

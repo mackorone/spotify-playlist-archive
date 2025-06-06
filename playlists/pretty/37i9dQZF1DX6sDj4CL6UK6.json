@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists\nCover: Tarang Joseph",
-  "num_followers": 38257,
+  "num_followers": 38261,
   "original_name": "IndiEnglish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8lpKQAAAADk7MCAuuMgEsbjUOu9A5jF",
+  "snapshot_id": "aEGFIwAAAADf4EmdQ2R2QgOhWXeyVMYR",
   "tracks": [
     {
       "added_at": "2024-11-22 06:53:41",
@@ -23,6 +23,26 @@
       "duration_ms": 181706,
       "name": "liquid sunshine",
       "url": "https://open.spotify.com/track/2cXLI9yEmcNgAjRFDpyylC"
+    },
+    {
+      "added_at": "2025-06-05 11:53:07",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0nKVNPf8IFPSId6o2H7Pvw"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Merchant",
+          "url": "https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2EnHh32MjXPJG2neFnSIZr"
     },
     {
       "added_at": "2025-03-06 09:21:45",

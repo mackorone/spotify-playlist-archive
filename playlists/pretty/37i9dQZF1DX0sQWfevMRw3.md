@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> ✨ Se Søte og Rare Gutter, Bolaget, Soppgirobygget, Roc Boyz och Ringnes\-Ronny på Brännbollsyran! ✨
+> 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,650 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,673 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drugs N Love](https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Drugs N Love](https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU) | 2:18 |
-| 2 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 |
-| 3 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 |
+| 1 | [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 |
+| 2 | [Drugs N Love](https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Drugs N Love](https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU) | 2:18 |
+| 3 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 |
 | 4 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
 | 5 | [Varför ska hon inte få?](https://open.spotify.com/track/3kTx9MFz3d2SNzZNRLgh9Z) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Varför ska hon inte få?](https://open.spotify.com/album/5XfNghz9vigzQNFDkPidN3) | 2:31 |
 | 6 | [OJOJOJ](https://open.spotify.com/track/1tm4w2K1EpRguWS0PuhnQh) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [OJOJOJ](https://open.spotify.com/album/7tpfGKlZ7BgyPRmbIeSnpu) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 | 100 | [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 |
 
-Snapshot ID: `aDjY+AAAAACSxP3P/GpWx2/fLRRdCAOE`
+Snapshot ID: `aEFknQAAAADIUrIMn6euwzQvHdvEnoq6`

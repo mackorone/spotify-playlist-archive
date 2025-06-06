@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 252 songs - 15 hr 51 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 253 songs - 15 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -260,5 +260,6 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 250 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
 | 251 | [Better now](https://open.spotify.com/track/6mSmAPAyT54iHlstQIZXLA) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [1975](https://open.spotify.com/album/4cWYafhNSEtvHnJC5DuKmJ) | 3:48 |
 | 252 | [High](https://open.spotify.com/track/3RhRqPGSukDMyVeXrghpnF) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow \(Deluxe Edition\)](https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU) | 3:07 |
+| 253 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 
-Snapshot ID: `AAAGKWpembcTZQex4TiFmDr9LVkLlGNs`
+Snapshot ID: `AAAGKle6qMXOhhgW5fcK0u4HRHfDlTwC`

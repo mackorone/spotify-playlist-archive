@@ -1,6 +1,6 @@
 {
   "description": "Get ready for a full-body workout",
-  "num_followers": 88152,
+  "num_followers": 88168,
   "original_name": "Workout Bhangra",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-05-15 11:49:16",
       "album": {
+        "name": "Chobar",
+        "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "duration_ms": 160631,
+      "name": "Way Bigger",
+      "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
+    },
+    {
+      "added_at": "2025-05-15 11:49:16",
+      "album": {
         "name": "Arjan Vailly (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
       },
@@ -471,28 +487,12 @@
     {
       "added_at": "2025-05-15 11:49:16",
       "album": {
-        "name": "Chobar",
-        "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
-      },
-      "artists": [
-        {
-          "name": "Arjan Dhillon",
-          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
-        }
-      ],
-      "duration_ms": 160631,
-      "name": "Way Bigger",
-      "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
-    },
-    {
-      "added_at": "2025-05-15 11:49:16",
-      "album": {
         "name": "Top Notch Gabru",
         "url": "https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG"
       },
       "artists": [
         {
-          "name": "Vicky",
+          "name": "Vicky Dhillon",
           "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
         }
       ],

@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-619 songs - 1 day 18 hr 16 min
+620 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Spirals](https://open.spotify.com/track/2Ud856rqus1BZ5AqULBQPq) | [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Nordic Affect](https://open.spotify.com/artist/4p6qqywaSCExdEYczbAFGY) | [H e \(a\) r](https://open.spotify.com/album/5OWM7UadWdGMug1SmV2sio) | 7:48 | 2020-12-04 | 2020-12-11 |
 | [Spirit Loop](https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Spirit Loop](https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t) | 4:05 | 2024-11-20 | 2025-04-12 |
 | [Spiritus Naturae Aeternus \- Single Edit](https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR), [Reykjavik Silfur Choir](https://open.spotify.com/artist/3CmuFh3rtjiKUGQOJNYXgu), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [Spiritus Naturae Aeternus](https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa) | 5:52 | 2024-01-26 | 2025-04-12 |
+| [Spring \- Ambient Mix](https://open.spotify.com/track/0dH7jBey84D2tcTtPfSq2b) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Spring \(Ambient Mix\)](https://open.spotify.com/album/4gkjKuW0ijEkJZhokQCTJs) | 2:43 | 2025-05-16 |  |
 | [Spár eða spakmál \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/3b0aV5C3rGIzEqTYZwJIfw) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 7:42 | 2020-12-04 | 2020-12-11 |
 | [Star of the County Down \- Matt Robertson Ambient Mix](https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Matt Robertson](https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax) | [Star of the County Down \(Matt Robertson Ambient Mix\)](https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya) | 5:40 | 2024-11-20 |  |
 | [Stars as Eyes \- Foam and Sand Rework](https://open.spotify.com/track/554PUKsVbNU38ljA1p65OE) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Stars as Eyes \(Foam and Sand Rework\)](https://open.spotify.com/album/1iSjVqPEIpQO8uo75ZfMlC) | 4:00 | 2022-03-25 | 2022-04-21 |

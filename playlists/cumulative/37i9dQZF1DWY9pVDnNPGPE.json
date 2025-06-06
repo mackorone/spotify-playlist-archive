@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 174746,
       "name": "Am I in Love?",
       "url": "https://open.spotify.com/track/7z48oYBNNDpcbaImgAqU2a"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 223093,
       "name": "Crazy Weather (Our Pie X LUCY)",
       "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
@@ -725,6 +725,28 @@
     },
     {
       "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
         "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
       },
@@ -856,6 +878,24 @@
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "icanttellUeverything",
+      "url": "https://open.spotify.com/track/2x1sd1USdsjlpDuNkX6347"
     },
     {
       "album": {
@@ -1494,7 +1534,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 274013,
       "name": "Playing Pretend",
       "url": "https://open.spotify.com/track/5xhv9KScwgSIpiWpCXsVry"
@@ -1552,7 +1592,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 186594,
       "name": "Romance",
       "url": "https://open.spotify.com/track/2tjWtD3qkbad3QqA325sHG"

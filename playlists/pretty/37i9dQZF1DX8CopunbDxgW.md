@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > lovely new music from Poté  🫂 it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,478 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,427 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
 | 100 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
 
-Snapshot ID: `aDkz7AAAAADHl8vZ3n5bDcyESrbDdgtx`
+Snapshot ID: `aDkz7AAAAAA3AmStbUbE8UkjPWR63z/+`

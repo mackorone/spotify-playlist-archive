@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-191 songs - 16 hr 3 min
+192 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,13 +104,14 @@
 | [La Bagarre](https://open.spotify.com/track/6VmPUcwaFV2ZCkWT3IrkHm) | [Alberto Melloni](https://open.spotify.com/artist/67hlOZedFK95QfgY1LaUkB) | [Disco Manesco](https://open.spotify.com/album/5o0IKn2pP0Mpfm4uw3kW8X) | 5:50 | 2022-02-11 | 2022-07-28 |
 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 | 2022-02-11 |  |
 | [Last Moscow Mule](https://open.spotify.com/track/4OXNTz0J43DNGJsWyKdTG7) | [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Last Moscow Mule](https://open.spotify.com/album/1rjbi719wVMWYtTZTLPsSc) | 7:47 | 2022-02-11 | 2022-03-22 |
-| [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 | 2022-02-11 |  |
+| [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 | 2022-02-11 | 2025-06-06 |
 | [Let's Disco Dance](https://open.spotify.com/track/6MQx1kPH9U5Qw6QyfOKXBG) | [Peter Micioni](https://open.spotify.com/artist/2T89Jzx3mgpZc21UJfsydJ) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/2RaT4ogzB8oJDOKVXkey18) | 6:03 | 2022-02-11 | 2022-07-19 |
 | [Livin' Up](https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv) | [B.W.H.](https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f) | [Livin' Up](https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray) | 4:47 | 2022-02-11 | 2023-05-01 |
 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 | 2023-10-06 |  |
 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 | 2023-06-22 |  |
 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 | 2022-02-11 |  |
 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 | 2023-07-13 |  |
+| [Magico… di notte \- Pekka Remix](https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq), [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [Magico… di notte \(Pekka Remix\)](https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4) | 3:03 | 2025-06-05 |  |
 | [Malocchio \- Sam Ruffillo Remix](https://open.spotify.com/track/3ulh9mrHNJOdFFJRJokCM2) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Malocchio \(Sam Ruffillo Remix\)](https://open.spotify.com/album/57k1ZA47Cg3EKIkLqXRCXE) | 4:41 | 2024-01-23 | 2024-03-16 |
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2022-02-11 |  |
 | [Masterpiece](https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [Viewpoint](https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb) | 4:14 | 2022-02-11 |  |

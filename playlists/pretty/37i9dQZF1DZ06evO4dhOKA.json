@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 65153,
+  "num_followers": 65169,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAD5CDfQIwaQofhiKG0l7Gg7",
+  "snapshot_id": "aD+MgAAAAADGBV+qC4T/GrdlulNeYQxy",
   "tracks": [
     {
       "added_at": null,
@@ -363,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Memorias Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
         "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
@@ -419,6 +387,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
         "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 229133,
       "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
       "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
       "duration_ms": 240426,
       "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
       "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Casita De Adobe",
-      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las + Tocadas",
         "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 180860,
       "name": "El Corrido de Ramiro Quiroz",
       "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Casita De Adobe",
+      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Casita De Adobe",
-        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Me Regalo Contigo",
-      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie Diamante-15 S\u00faper \u00c9xitos",
         "url": "https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 187400,
-      "name": "Pero Mar\u00eda",
-      "url": "https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u"
+      "duration_ms": 187560,
+      "name": "Me Regalo Contigo",
+      "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 168773,
       "name": "Bajo Mil Llaves - En Vivo",
       "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Pero Mar\u00eda",
+      "url": "https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las M\u00e1s Pegadas",
         "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 168880,
       "name": "Que Dios Me Perdone",
       "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
     }
   ],
   "unique_name": "This Is Lalo Mora",

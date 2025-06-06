@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Seyi Vibez
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Simi & Kizz Daniel
 
-773 songs - 1 day 13 hr 59 min
+774 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-03-18 | 2022-03-23 |
 | [Dangerous Love](https://open.spotify.com/track/5JayOLFuofunaBCIjissQL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Dangerous Love](https://open.spotify.com/album/6lmmpu8veGXucQJbX3gxJf) | 3:14 | 2021-10-14 | 2022-07-28 |
 | [Dawn](https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [New Dawn](https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm) | 2:35 | 2024-03-15 | 2024-04-12 |
+| [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc) | 2:15 | 2025-06-06 |  |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-06-28 |  |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2025-02-21 |
 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 | 2024-02-02 | 2024-06-28 |
@@ -582,7 +583,7 @@
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-02-20 | 2023-05-01 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-16 | 2023-09-15 |
 | [Red Wine](https://open.spotify.com/track/3apid5UMNNRrjjtmVW1zFA) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Red Wine](https://open.spotify.com/album/10HjmKJgNyzSuJ8SzRLjJ7) | 3:15 | 2022-02-10 | 2022-03-12 |
-| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 |  |
+| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 | 2025-06-06 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-09-07 |
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2023-12-08 | 2024-06-28 |
 | [Repay Your Part](https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Teslim: A Lover Boy PTSD](https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW) | 3:55 | 2024-11-29 | 2025-02-14 |

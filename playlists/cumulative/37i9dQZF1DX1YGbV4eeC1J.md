@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Otile Brown
+> What is your love language? Say it in Swahili\.  Cover: Abigail Chams
 
-297 songs - 16 hr 45 min
+298 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bailando](https://open.spotify.com/track/2SG4Yp9xZy7FnNneLm8buk) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Bailando](https://open.spotify.com/album/36WhjtxwyBS4iBCnS91bKo) | 3:35 | 2025-05-16 |  |
 | [BamBam](https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Swahili Kid](https://open.spotify.com/album/5GnGRXPzXC6DuzDuUzKtxr) | 3:30 | 2024-03-14 | 2024-03-22 |
 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-11 |  |
-| [Basi Nambie](https://open.spotify.com/track/5FhsWTCMQonSGlyMzlqiaS) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Basi Nambie](https://open.spotify.com/album/6EvCZYZyxhx8wgQA4S5Xyi) | 2:40 | 2025-04-04 |  |
+| [Basi Nambie](https://open.spotify.com/track/5FhsWTCMQonSGlyMzlqiaS) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Basi Nambie](https://open.spotify.com/album/6EvCZYZyxhx8wgQA4S5Xyi) | 2:40 | 2025-04-04 | 2025-06-06 |
 | [Be My Rescue](https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Sweet Sour Serenade](https://open.spotify.com/album/5vpuiuqaKIxzCDAzjXCS3t) | 3:08 | 2024-11-07 | 2025-02-07 |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 | 2025-02-27 |  |
@@ -83,6 +83,7 @@
 | [Hello](https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Hello](https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft) | 3:21 | 2024-02-01 | 2024-06-28 |
 | [Hello](https://open.spotify.com/track/2OCyd1dnuOexd1A1cxLZjq) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Beyond Gifted](https://open.spotify.com/album/68JaW0nh8cz1yd6X2Uv55b) | 2:54 | 2024-05-02 | 2024-06-21 |
 | [Hoi](https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv) | [Hussein Machozi](https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc), [Mr Blue](https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2) | [Hoi](https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer) | 3:06 | 2023-01-19 | 2023-06-16 |
+| [Hold Me](https://open.spotify.com/track/3DoeIKVIwZfspIP4IzOlj6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Hold Me](https://open.spotify.com/album/0zXPV9KCvHrXRrxvUPVLWB) | 3:00 | 2025-06-05 |  |
 | [Honey](https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Honey](https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM) | 2:19 | 2024-03-14 | 2024-03-22 |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 | 2025-01-10 |
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 | 2024-02-23 |
@@ -268,7 +269,7 @@
 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 | 2024-11-22 |  |
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-09-22 |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 | 2023-01-27 |
-| [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 |  |
+| [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 | 2025-06-06 |
 | [Umechelewa](https://open.spotify.com/track/58K662tAMuRzVnceOHqosF) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Umechelewa](https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe) | 3:28 | 2024-03-14 | 2024-03-22 |
 | [Umeme](https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Umeme](https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI) | 3:48 | 2023-01-12 | 2024-07-27 |
 | [Umenifunza](https://open.spotify.com/track/5UHSY2tBysMxVnNHT2X4FL) | [DVoice](https://open.spotify.com/artist/7EHcencvvb9Vx84WqlglZS) | [Swahili Kid](https://open.spotify.com/album/28c8WkCI0O9D6CKbN5oH0t) | 3:31 | 2024-03-14 | 2024-03-22 |

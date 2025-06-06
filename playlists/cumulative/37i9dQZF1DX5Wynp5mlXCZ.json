@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Miley Cyrus",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MAX BARSKIH",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -132,6 +132,28 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "album": {
+        "name": "Alleys of My Mind",
+        "url": "https://open.spotify.com/album/5DHV9VR982n36l45dcWSck"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        },
+        {
+          "name": "Black Soil",
+          "url": "https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237778,
+      "name": "Alleys of My Mind",
+      "url": "https://open.spotify.com/track/0bgt662yW0WgqgKvwiDVZQ"
     },
     {
       "album": {
@@ -382,7 +404,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -654,7 +676,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -690,7 +712,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -1184,7 +1206,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 176424,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
@@ -1997,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -2430,7 +2470,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 158936,
       "name": "OK",
       "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
@@ -2705,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "album": {
         "name": "Satellite (Spotify Singles)",
         "url": "https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T"
       },
@@ -2875,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Sound of Bloom",
+        "url": "https://open.spotify.com/album/2Vf1VA6WCue48dtWNRJiCr"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sound of Bloom",
+      "url": "https://open.spotify.com/track/1EcSuTMIVcLNnqq4TrPaTe"
+    },
+    {
+      "album": {
         "name": "southbound / test drive",
         "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
       },
@@ -2944,7 +3020,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -3074,7 +3150,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 188474,
       "name": "SweetLove",
       "url": "https://open.spotify.com/track/1s59wWo8dBGIT3K4nGqYHS"
@@ -3378,7 +3454,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -3798,7 +3874,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
@@ -3984,6 +4060,24 @@
       "duration_ms": 190912,
       "name": "\u0411\u0430\u0440\u0430\u0431\u0430\u043d",
       "url": "https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u043e",
+        "url": "https://open.spotify.com/album/49QoM3KSVabOZUrdz8Uhej"
+      },
+      "artists": [
+        {
+          "name": "ROXOLANA",
+          "url": "https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u0411\u0430\u0440\u0434\u0430\u043a",
+      "url": "https://open.spotify.com/track/4DHJmX6trGBpy8MLy2LK5J"
     },
     {
       "album": {
@@ -4262,7 +4356,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -5530,7 +5624,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 174500,
       "name": "\u041d\u0435 \u043b\u044f\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ"
@@ -5592,6 +5686,24 @@
       "duration_ms": 160800,
       "name": "\u043d\u0435 \u0442\u0430 \u041b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/3L7V3plVALWOfp4eHzUo2V"
+    },
+    {
+      "album": {
+        "name": "\u043d\u0435\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0430",
+        "url": "https://open.spotify.com/album/6htkbtTROHxnp56kSAckR4"
+      },
+      "artists": [
+        {
+          "name": "MOLODI",
+          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141459,
+      "name": "\u043d\u0435\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0430",
+      "url": "https://open.spotify.com/track/2KKJ5H1LM8F3aMjigiEDkX"
     },
     {
       "album": {
@@ -6098,6 +6210,42 @@
       "duration_ms": 167520,
       "name": "\u0421\u043e\u043d\u0435\u0447\u043a\u043e",
       "url": "https://open.spotify.com/track/4LS4vk2KWllJXuOSxbL7OU"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0456 \u0421\u043f\u043b\u0435\u0442\u0456\u043d\u043d\u044f",
+        "url": "https://open.spotify.com/album/7ljwaysQV6ykzrEgift9bF"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0456 \u0421\u043f\u043b\u0435\u0442\u0456\u043d\u043d\u044f",
+      "url": "https://open.spotify.com/track/6dBJnAM9ySNaE7GOa3xJmn"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043f\u0435\u043a\u0430",
+        "url": "https://open.spotify.com/album/35bttZaFnzu6suZsECy2Ay"
+      },
+      "artists": [
+        {
+          "name": "M1SHKA",
+          "url": "https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "\u0421\u043f\u0435\u043a\u0430",
+      "url": "https://open.spotify.com/track/50ZMU8uaMUmSVpFNQ1MT8r"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 600549,
+  "num_followers": 600534,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "Gente Impresentable",
-        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "La senda del tiempo",
-      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
-    },
-    {
-      "added_at": "2025-05-30 13:50:24",
-      "album": {
         "name": "Feo, Fuerte y Formal",
         "url": "https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 242266,
       "name": "Feo Fuerte y Formal",
       "url": "https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi"
+    },
+    {
+      "added_at": "2025-05-30 13:50:24",
+      "album": {
+        "name": "Gente Impresentable",
+        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "La senda del tiempo",
+      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2025-05-30 13:50:24",
-      "album": {
         "name": "El Mar No Cesa- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 241280,
       "name": "Mar adentro",
       "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
+    },
+    {
+      "added_at": "2025-05-30 13:50:24",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
-    },
-    {
-      "added_at": "2025-05-30 13:50:24",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2025-05-30 13:50:24",
+      "album": {
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "Jugar Al Gua",
-        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
       "artists": [
         {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 262626,
-      "name": "Flojos de pantal\u00f3n",
-      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+        "name": "Jugar Al Gua",
+        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+      "duration_ms": 262626,
+      "name": "Flojos de pantal\u00f3n",
+      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
+    },
+    {
+      "added_at": "2025-05-30 13:50:24",
+      "album": {
         "name": "Un Encuentro",
         "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
-    },
-    {
-      "added_at": "2025-05-30 13:50:24",
-      "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "El doble de tu mitad",
-        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
-      },
-      "artists": [
-        {
-          "name": "Rulo y la contrabanda",
-          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
-    },
-    {
-      "added_at": "2025-05-30 13:50:24",
-      "album": {
         "name": "Calle Melancol\u00eda",
         "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 380973,
       "name": "Calle Melancol\u00eda",
       "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
+    },
+    {
+      "added_at": "2025-05-30 13:50:24",
+      "album": {
+        "name": "El doble de tu mitad",
+        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
     },
     {
       "added_at": "2025-05-30 13:50:24",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-05-30 13:50:24",
       "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
-    },
-    {
-      "added_at": "2025-05-30 13:50:24",
-      "album": {
         "name": "Vispera De Todos Los Santos",
         "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+    },
+    {
+      "added_at": "2025-05-30 13:50:24",
+      "album": {
+        "name": "Insurreccion (En Directo)",
+        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
     },
     {
       "added_at": "2025-05-30 13:50:24",

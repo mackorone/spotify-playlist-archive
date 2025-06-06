@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Assia Keva
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Anjelia Dom
 
-117 songs - 7 hr 8 min
+120 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Jangan pernah](https://open.spotify.com/track/19LPjG1o8NvdveiD6p1s3v) | [Rutinitas Pagi](https://open.spotify.com/artist/341CEIcTf5f6ucLhiViNRd) | [Jangan pernah](https://open.spotify.com/album/4VCZ2bGOwcr6KoyYaQQUNx) | 3:40 | 2024-12-20 | 2025-05-30 |
 | [Jawab Aku](https://open.spotify.com/track/4uAzEeTdzl7vYcLvua55oc) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Jawab Aku](https://open.spotify.com/album/0cYjH0dc1T885wVjQgFimg) | 3:45 | 2025-05-22 |  |
 | [Kau Pilih Dia](https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH), [Mas Jordan](https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1), [Malikoendang](https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI) | [Kau Pilih Dia](https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR) | 4:01 | 2024-10-03 |  |
+| [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 | 2025-06-05 |  |
 | [Kembali](https://open.spotify.com/track/76yvmHDxe0lISOmgDsDV3X) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Kembali](https://open.spotify.com/album/3iO4HlncpgrtG0VFvoSxKp) | 2:51 | 2025-05-22 |  |
 | [Kembali Masa Lalu](https://open.spotify.com/track/3c4MPWhrFieS1yBONSsZ5v) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3), [Radinal](https://open.spotify.com/artist/3LCQli4pQCvLWw72Z9Y7gC) | [Kembali Masa Lalu](https://open.spotify.com/album/1e8S6A30RdxsRjySznTpGb) | 3:06 | 2024-10-03 | 2025-05-02 |
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 |  |
@@ -94,7 +95,9 @@
 | [Rumah Kaca](https://open.spotify.com/track/6YlTNiiv6UvfEilEcPLC2h) | [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Rumah Kaca](https://open.spotify.com/album/2hE0QOeElfQgdiNvkVTB2M) | 4:03 | 2024-10-10 | 2025-05-30 |
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-10-03 |  |
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-10-03 | 2025-05-30 |
+| [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 | 2025-06-05 |  |
 | [Say It to Yourself](https://open.spotify.com/track/3bXL6zTY3ksmLSLORTVKWT) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Say It to Yourself](https://open.spotify.com/album/4xKwnLQfu2DImY8GQyAkWT) | 3:31 | 2024-12-13 |  |
+| [Second Chance](https://open.spotify.com/track/6f12obh4QrOW62klTGnr9t) | [Murry Monolite](https://open.spotify.com/artist/4J4ZBGKe41WRtpjggHKKn1) | [WAY BACK \(SINGLE\)](https://open.spotify.com/album/0Im0d1yicUliXkWY30rw5w) | 2:34 | 2025-06-05 |  |
 | [Sedetik](https://open.spotify.com/track/1pBptkRZaXHrYMprAJsu8i) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Mr\. Menawan](https://open.spotify.com/album/2AFvXQe1WKhDMUkx1PJNn7) | 4:02 | 2024-10-03 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-10-03 |  |
 | [Senyam\-Senyum](https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Senyam\-Senyum](https://open.spotify.com/album/3l1KxK7hYKPoUZWHpFXACB) | 3:51 | 2024-10-03 |  |

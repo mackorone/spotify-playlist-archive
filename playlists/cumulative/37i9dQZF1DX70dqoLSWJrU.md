@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-166 songs - 10 hr 6 min
+167 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [I'll Never Smile Again](https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [In The Land Of Hi\-Fi](https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x) | 2:33 | 2022-04-13 |  |
 | [I'm a Fool to Want You](https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:23 | 2022-04-13 | 2023-09-30 |
 | [I'm a Fool to Want You](https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:06 | 2023-09-29 |  |
-| [I'm Gonna Laugh You Out of My Life](https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:40 | 2022-04-13 |  |
+| [I'm Gonna Laugh You Out of My Life](https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [All of You](https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk) | 2:40 | 2022-04-13 | 2025-06-06 |
 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 | 2022-06-29 | 2024-04-19 |
 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 | 2025-01-13 |  |
 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 | 2022-04-13 |  |
@@ -154,6 +154,7 @@
 | [There's No Such Thing As Love](https://open.spotify.com/track/2YsnPlou8g7xdKDCguDOYc) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:03 | 2022-04-13 |  |
 | [There's No Such Thing As Love](https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 3:03 | 2022-06-29 | 2023-10-13 |
 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 | 2022-04-13 |  |
+| [Three AM](https://open.spotify.com/track/6BIYTbEZmfU8CGVJjLXYTK) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [Three AM](https://open.spotify.com/album/6xipBBExesyTD6CbeUbPJH) | 5:25 | 2025-06-05 |  |
 | [Too Young To Go Steady \- Remastered 2001](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights \(Remastered 2001\)](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:54 | 2022-04-13 |  |
 | [Wasting My Love On You](https://open.spotify.com/track/1kKF0fbIAzKwbgdOedTWyg) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [The Big Broadcast, Volume 2: Jazz and Popular Music of the 1920s and 1930s](https://open.spotify.com/album/1SfSBipIVlCDOgxqRUDxgf) | 3:17 | 2022-04-13 | 2023-04-20 |
 | [Wasting My Love on You](https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [She's Got It](https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi) | 3:17 | 2023-04-14 | 2024-04-19 |

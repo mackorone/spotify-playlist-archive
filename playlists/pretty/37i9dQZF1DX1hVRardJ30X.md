@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Ryan Castro, Myke Towers & Quevedo, Aitana, Ángela Aguilar and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,989 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,029 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Siroyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 84 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,395 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,14 +83,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 73 | [The Boyz](https://open.spotify.com/track/1bpQTaB0KttrknOr7V7PBm) | [Stunning Singh](https://open.spotify.com/artist/1hps6dFmG7FtJf6eVkEJq9), [Lakshya](https://open.spotify.com/artist/75KJAhFcWZSpw9zkQEL9vr) | [The Boyz](https://open.spotify.com/album/02aFuDbcAkpAWkRN8DIdtu) | 3:00 |
 | 74 | [Velvet Flow](https://open.spotify.com/track/5aOpHbmH5MxzLr8uCvgFMG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Velvet Flow](https://open.spotify.com/album/46RG2jIspjJswVSub7mo8Q) | 2:41 |
 | 75 | [Aare Maze](https://open.spotify.com/track/1jAgMgyuSqdhtjHXG5VXhv) | [Arya](https://open.spotify.com/artist/3o6t33eERRWZNG88Pp5fLd), [Tushar Nagar](https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS), [SHA](https://open.spotify.com/artist/6pdn0t0T5evvRrNk5VnyGh) | [Aare Maze](https://open.spotify.com/album/5rHtHlxzeuKUey4a5dWp8M) | 3:48 |
-| 76 | [Kaint Bandi](https://open.spotify.com/track/0za1H6ww3goCbJTTdcL8eK) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i) | [Kaint Bandi](https://open.spotify.com/album/22fVNWSuOFb9gRbzMWfTTs) | 2:45 |
-| 77 | [Kalesh](https://open.spotify.com/track/4OBdHf8y0tVjtrZOKgdytS) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:10 |
-| 78 | [Legacy over Fame](https://open.spotify.com/track/5kXNRE1s2kBIBw04t6fJgg) | [yashwardhan](https://open.spotify.com/artist/3xLh8SyatVF7roe6LD45uC), [Nishant shahi](https://open.spotify.com/artist/1ah1HwGDdnUVlI27Tnxmvu) | [Legacy over Fame](https://open.spotify.com/album/6BLeZIkZfmmJ6hkeGtn3vf) | 3:33 |
-| 79 | [Easy Le](https://open.spotify.com/track/6IYi5O1xolgCQSmzqdhGyF) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [SATTAR](https://open.spotify.com/album/41sSO1HSzxHB5fgbpDLc05) | 2:26 |
-| 80 | [Memories](https://open.spotify.com/track/0I7LMM7ymhhwverqZRYv7G) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Memories](https://open.spotify.com/album/7DduHlWXSHUw2gc90c0PfB) | 3:03 |
-| 81 | [Hyper](https://open.spotify.com/track/1N8uO24yosegs3bZTmCWCU) | [Pankaj Saini](https://open.spotify.com/artist/3er6Z09NSRHHyPK3UGac4B), [Kalki 3.0](https://open.spotify.com/artist/4Yl4KFvI4aTzwVpIgv0GqW) | [Hyper](https://open.spotify.com/album/0atYbHR8EsbUaF7yzRsUT8) | 2:17 |
-| 82 | [SHEHER](https://open.spotify.com/track/2XcVNcLkUuv9YG7ywuRH7G) | [Mirak](https://open.spotify.com/artist/0sWjFQRenBeAbkctoC2fOy) | [SHEHER](https://open.spotify.com/album/7znzQyJGEnY2dXQeUo55OA) | 2:56 |
-| 83 | [Bano Bigdo](https://open.spotify.com/track/6TY2TIRG7noaFAHjGdB32O) | [Rajjo](https://open.spotify.com/artist/471mtZxCDJB3DY7AdgzEoo), [Big Smoke](https://open.spotify.com/artist/4O2X9rgSQnV3AzPTQAotsA) | [Bano Bigdo](https://open.spotify.com/album/6c2tMpetTG2qHs1nk8lJRy) | 2:53 |
-| 84 | [Bombay Dreams](https://open.spotify.com/track/2CkU40Wb9O7jkX5GnMurxY) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [SATTAR](https://open.spotify.com/album/41sSO1HSzxHB5fgbpDLc05) | 3:07 |
 
-Snapshot ID: `aDmUawAAAACfruNmAnb5iv0pCnDZwzsq`
+Snapshot ID: `aEFUZAAAAABVRgaVqzFge6gyUW7g3uZN`

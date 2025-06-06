@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,073 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,092 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
 | 100 | [DIAVLO](https://open.spotify.com/track/7Lqg10QrEZnW9b8bq0u34j) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [DIAVLO](https://open.spotify.com/album/6Fysv8Y6bcXtHK8tK9drMB) | 3:37 |
 
-Snapshot ID: `aDkfOwAAAABgEvAKHhf1R9pcn7xgIO1c`
+Snapshot ID: `aDkfOwAAAADzs8JFsYArQtFyRuiloZYu`

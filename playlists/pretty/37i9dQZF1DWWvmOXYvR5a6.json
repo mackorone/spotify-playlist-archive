@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Huh(\ud5c8\uc131\ud604))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 220217,
+  "num_followers": 220212,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,30 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
+        "name": "Between Sat & Sun",
+        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Black Heart (feat. Leellamarz, BE'O)",
+      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
-        "name": "Between Sat & Sun",
-        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Black Heart (feat. Leellamarz, BE'O)",
-      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 216113,
-      "name": "party (SHUT DOWN)",
-      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 216113,
+      "name": "party (SHUT DOWN)",
+      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "Flip",
-        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "Organic2",
         "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
         "name": "Vancouver 2",
         "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 202213,
       "name": "Vancouver 2",
       "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
-        "name": "HANDS",
-        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jung Zi So",
-          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Life Is A Movie (Feat. Jung Zi So)",
-      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -919,6 +899,26 @@
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Life Is A Movie (Feat. Jung Zi So)",
+      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
+        "name": "FREAK LIKE ME",
+        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "FREAK LIKE ME",
+      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 169133,
       "name": "365&7 (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
-        "name": "FREAK LIKE ME",
-        "url": "https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "FREAK LIKE ME",
-      "url": "https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
-      },
-      "artists": [
-        {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 227353,
-      "name": "CALL ME BACK",
-      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 327624,
       "name": "BREATHE (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 227353,
+      "name": "CALL ME BACK",
+      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "Burning slow",
-        "url": "https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5"
-      },
-      "artists": [
-        {
-          "name": "Molly Yam",
-          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Burning slow",
-      "url": "https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 145706,
       "name": "Run away",
       "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "Burning slow",
+        "url": "https://open.spotify.com/album/56S6VPbypT25jgJzDKMSX5"
+      },
+      "artists": [
+        {
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Burning slow",
+      "url": "https://open.spotify.com/track/11qnaqwCtB3UHjIDHsFuEK"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 116722,
-      "name": "00:01",
-      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 190690,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 116722,
+      "name": "00:01",
+      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "BAPPI",
-        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 174900,
-      "name": "BAPPI",
-      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "Hit Me Up (feat. MINGI of ATEEZ)",
         "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 138293,
       "name": "Hit Me Up (feat. MINGI of ATEEZ)",
       "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "BAPPI",
+        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "BAPPI",
+      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 168175,
-      "name": "put my hoodie on",
-      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1619,6 +1603,42 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 168175,
+      "name": "put my hoodie on",
+      "url": "https://open.spotify.com/track/5qgRXWcgFajtVeqt0t0ASo"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1659,26 +1679,6 @@
       "duration_ms": 293754,
       "name": "Thread(1.11)",
       "url": "https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 162586,
       "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
       "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1839,26 +1839,6 @@
       "duration_ms": 209685,
       "name": "flight",
       "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
-    },
-    {
-      "added_at": "2025-04-30 09:40:20",
-      "album": {
-        "name": "Voice tool tip.txt 2",
-        "url": "https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 158053,
-      "name": "new new (Feat. B.I)",
-      "url": "https://open.spotify.com/track/5NGljHeqKqfKs1a5h3rFwv"
     },
     {
       "added_at": "2025-04-30 09:40:20",
@@ -1911,6 +1891,26 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
+        "name": "Voice tool tip.txt 2",
+        "url": "https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 158053,
+      "name": "new new (Feat. B.I)",
+      "url": "https://open.spotify.com/track/5NGljHeqKqfKs1a5h3rFwv"
+    },
+    {
+      "added_at": "2025-04-30 09:40:20",
+      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2025-04-30 09:40:20",
       "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
       },
       "artists": [
         {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
         }
       ],
-      "duration_ms": 128304,
-      "name": "trouble",
-      "url": "https://open.spotify.com/track/3kjITZTzIoKM929dACraW6"
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
     },
     {
       "added_at": "2025-04-30 09:40:20",

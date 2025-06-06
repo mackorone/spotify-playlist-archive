@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-2,087 songs - 4 day 18 hr 48 min
+2,088 songs - 4 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,7 +1093,7 @@
 | [Melodramos](https://open.spotify.com/track/0RJHLXajHNw2QrvnT709yQ) | [Rokas Yan](https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs), [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Melodramos](https://open.spotify.com/album/2Xtm7Esg9qcPk4VnfWBVl8) | 2:39 | 2023-10-20 | 2025-06-04 |
 | [Melodramos](https://open.spotify.com/track/63OlqSFnE71ZirsZpjzvBw) | [Rokas Yan](https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs), [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [Melodramos](https://open.spotify.com/album/7v45dfZZ7MfMVO6UAofAuK) | 2:39 | 2023-10-07 | 2023-10-21 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-08-14 |
-| [Meluoji](https://open.spotify.com/track/7y0Z9iuD5cYsjem2npjwZW) | [Tautvydas Burauskas](https://open.spotify.com/artist/7iXYD8ZyzgKegbZQaMcm7l) | [Priešingybė](https://open.spotify.com/album/3NrY4G4uNdhEtacE5WYjVt) | 3:27 | 2024-10-22 |  |
+| [Meluoji](https://open.spotify.com/track/7y0Z9iuD5cYsjem2npjwZW) | [Tautvydas Burauskas](https://open.spotify.com/artist/7iXYD8ZyzgKegbZQaMcm7l) | [Priešingybė](https://open.spotify.com/album/3NrY4G4uNdhEtacE5WYjVt) | 3:27 | 2024-10-22 | 2025-06-06 |
 | [Mergaitės nori mylėt](https://open.spotify.com/track/6wgLc7K9EUis81e08AaSyi) | [Donny Montell](https://open.spotify.com/artist/3McTKJDgAb7YHbPYOp9LQL) | [Mergaitės nori mylėt](https://open.spotify.com/album/7EsNeI0idjXuB2XnaUnn9G) | 3:49 | 2023-09-30 | 2023-10-07 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-07 | 2022-12-28 |
 | [Merry Christmas](https://open.spotify.com/track/0hz5PNF2wejwUKCMpesQWt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [+\-=÷× \(Tour Collection\)](https://open.spotify.com/album/3mJm77zryIt06nbQV7DjuY) | 3:28 | 2024-12-23 | 2024-12-28 |
@@ -1746,7 +1746,8 @@
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-27 | 2023-08-12 |
 | [Taunt](https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:13 | 2021-05-13 | 2021-05-16 |
 | [Tave visą](https://open.spotify.com/track/6iOLbYRBFsVyj2aPTdVVaq) | [Garbanotas](https://open.spotify.com/artist/0jFrImCr1OMbuoNCrEYCPU) | [Tave visą](https://open.spotify.com/album/0Mhr79wZfNN08kpBilzL3h) | 3:39 | 2022-12-13 | 2022-12-15 |
-| [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 | 2025-02-01 |  |
+| [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 | 2025-02-01 | 2025-06-06 |
+| [Tavo akys](https://open.spotify.com/track/3mI5AOZ16uQg9plo9J4cC3) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/5nYQxRE9TlZiMaWC2ngHuW) | 2:52 | 2025-06-05 |  |
 | [Tavo Akys \(Choir Version\)](https://open.spotify.com/track/6CrMKInomVmaIqP9V8OTOE) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo Akys \(Choir Version\)](https://open.spotify.com/album/6uWrLSM1k1P5GlTnhlO60A) | 3:14 | 2025-05-16 | 2025-05-26 |
 | [tavo tavo](https://open.spotify.com/track/3KJPYKGOhkNDqN6ObDz7jc) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [DEBESIMIS BRAIDYTI](https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO) | 2:48 | 2022-11-12 | 2022-11-16 |
 | [Tavo Tavo](https://open.spotify.com/track/4iH8j7gh3ylok7ehCgUjHa) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Tavo Tavo](https://open.spotify.com/album/1gtFLljlMMruW2BcHnsbIx) | 2:48 | 2022-07-02 | 2022-09-09 |
@@ -2065,7 +2066,7 @@
 | [širdies](https://open.spotify.com/track/1RVJAcgtIaXuUzAqCXwsh0) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [širdies](https://open.spotify.com/album/7lIPbqUa7VqEC05e5tg3af) | 3:41 | 2023-02-13 | 2023-02-23 |
 | [Širdis plaka, jausmo nėra](https://open.spotify.com/track/77ZiJLXfmYCB2RpvXU4mXS) | [Abudu](https://open.spotify.com/artist/1IguwRyjy5JKRb9ErCQsq1) | [Širdis plaka, jausmo nėra](https://open.spotify.com/album/3o2Ro2aUArTt6LnWuZjytz) | 3:30 | 2024-03-19 | 2024-03-23 |
 | [Šlamantys](https://open.spotify.com/track/64rMCuIiJVT49SjLhmrHdW) | [Mesijus](https://open.spotify.com/artist/64j44cuyEW3u6HyvLLRTv9), [Ąžuoliukas](https://open.spotify.com/artist/7eBrhK09MIbkTQhKmA5lzO) | [Šlamantys](https://open.spotify.com/album/6sOAqtvY28oypynpIkDaE5) | 3:09 | 2023-11-18 | 2023-11-20 |
-| [Šokam Lėtai](https://open.spotify.com/track/0woi2knxQucSRKtrX6a7eC) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7rxB0crsrIhNMX9ZV0o3xp) | 2:36 | 2024-08-18 | 2025-06-05 |
+| [Šokam Lėtai](https://open.spotify.com/track/0woi2knxQucSRKtrX6a7eC) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7rxB0crsrIhNMX9ZV0o3xp) | 2:36 | 2024-08-18 |  |
 | [Šokam Lėtai](https://open.spotify.com/track/149qQkZez6yujONJspKw7U) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz) | 2:36 | 2022-01-27 | 2024-06-11 |
 | [Šokam Lėtai](https://open.spotify.com/track/1ojbRSyn6rjrS70cDToHRx) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Šokam Lėtai](https://open.spotify.com/album/0KFm9T3zfMgSFkZzywKAp9) | 2:36 | 2022-01-16 | 2022-01-28 |
 | [Šokis](https://open.spotify.com/track/7hlOvIgUsGAIIar01G52rL) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [Šokis](https://open.spotify.com/album/1OcglXTKzeHcWXox06FanX) | 4:49 | 2022-05-07 | 2022-05-13 |

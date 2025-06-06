@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Bossman Dlow, 42 Dugg, Rob49, JID and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,197 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,486 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [It Is What It Is](https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [It Is What It Is](https://open.spotify.com/album/4Kf53rJMirogBxNIDzQVSe) | 2:39 |
 | 50 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
 
-Snapshot ID: `aDlb7QAAAAC6YJtJqS2DGv12dNvtQfvN`
+Snapshot ID: `aDlb7QAAAABIZ6A7f8iqxKPC7x7Q7jJp`

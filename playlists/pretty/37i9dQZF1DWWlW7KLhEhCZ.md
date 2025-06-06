@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Emitê Único
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,586 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,592 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 29 | [AFTERPARTY](https://open.spotify.com/track/0cAZEIKg7yMOZ52RkcwWqc) | [GALE](https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN), [Leto](https://open.spotify.com/artist/6cBbuYnPDPljc1kybBU6Y8), [Zuchini](https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ) | [¿¿¿??? Vol\. Ī: Redenção](https://open.spotify.com/album/1TyBATNkhs1YGBKp2SnPed) | 2:39 |
 | 30 | [M'DEP On The Radar Freestyle](https://open.spotify.com/track/21fQHva1cKN0kTX2HZRfa5) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [M'DEP On The Radar Freestyle](https://open.spotify.com/album/2WvnCVf4ldnc1oLCWpxfxt) | 2:12 |
 | 31 | [Tiroteio](https://open.spotify.com/track/1vAdHZUfNHySswvdobxiFK) | [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Heron](https://open.spotify.com/artist/6ckKeUM4OxpRhdXzWamJAN), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Tiroteio](https://open.spotify.com/album/7zzTjc8i9WqIkw7lP6kBrc) | 3:10 |
-| 32 | [Ela gosta](https://open.spotify.com/track/1OUWKVNdjm2fjoh2MympNH) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Ela gosta](https://open.spotify.com/album/7EyXEHkVI5GEw8dGLtUZVC) | 2:20 |
+| 32 | [Ela gosta](https://open.spotify.com/track/1OUWKVNdjm2fjoh2MympNH) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ) | [Ela gosta](https://open.spotify.com/album/7EyXEHkVI5GEw8dGLtUZVC) | 2:20 |
 | 33 | [Teatro](https://open.spotify.com/track/12CAvEo7vhP2AoBwgaqmK1) | [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Teatro](https://open.spotify.com/album/4mhqiIx34WcviohB5GNx7a) | 2:13 |
 | 34 | [Conjunto do Paris](https://open.spotify.com/track/38tRjaqubA8aWXkaXGzQIg) | [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Conjunto do Paris](https://open.spotify.com/album/3aJgUny17AJwSIwp3GcCKE) | 2:38 |
 | 35 | [Perfil \#105 \- Ele fez de Novo](https://open.spotify.com/track/6gIXOPXjizHrwxk7BlPXLe) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66) | [Perfil \#105 \- Ele fez de Novo](https://open.spotify.com/album/6DrNpyzj6djDw4wjibSLyG) | 2:16 |

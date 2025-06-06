@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "ALL GLORY",
+        "url": "https://open.spotify.com/album/6iD2jnGlZmKJBSMnUWULNR"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171885,
+      "name": "ALL GLORY",
+      "url": "https://open.spotify.com/track/1Mn47EQ5DcXJNejuxyBBo3"
+    },
+    {
+      "album": {
         "name": "All Of Me",
         "url": "https://open.spotify.com/album/3NMSim1KBFgKjZblFRJzFU"
       },
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 256523,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV"
@@ -3843,6 +3861,40 @@
     },
     {
       "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465744,
+      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
+      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
+    },
+    {
+      "album": {
         "name": "Faith+Hope+Love (Live)",
         "url": "https://open.spotify.com/album/3HSlLAvPbmwGaMqn0cK72e"
       },
@@ -4112,7 +4164,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 202057,
       "name": "Imela",
       "url": "https://open.spotify.com/track/3WSjY8Z9vCKX8X3sc1pQwb"
@@ -4328,6 +4380,28 @@
       "duration_ms": 354885,
       "name": "Jehovah (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
+    },
+    {
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240011,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ"
     },
     {
       "album": {
@@ -5434,7 +5508,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
@@ -6130,6 +6204,24 @@
       "duration_ms": 245333,
       "name": "Ope Mi",
       "url": "https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ"
+    },
+    {
+      "album": {
+        "name": "Opelope My God (OMG)",
+        "url": "https://open.spotify.com/album/1mMKKJOfnvkizwrVF6Bc6o"
+      },
+      "artists": [
+        {
+          "name": "Timi Martins",
+          "url": "https://open.spotify.com/artist/0eQrfPUjzTCTeDfZ7dca4I"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162105,
+      "name": "Opelope My God (OMG)",
+      "url": "https://open.spotify.com/track/7kcIFUfpBLMlFa7uK52v63"
     },
     {
       "album": {
@@ -7068,7 +7160,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 134489,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr"
@@ -7142,6 +7234,24 @@
       "duration_ms": 195882,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE"
+    },
+    {
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316386,
+      "name": "Thank You For Being God",
+      "url": "https://open.spotify.com/track/1rSWT087L7tr7gU4eQ73Ie"
     },
     {
       "album": {
@@ -7646,7 +7756,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 344733,
       "name": "Victory Belongs To Jesus (Live)",
       "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"

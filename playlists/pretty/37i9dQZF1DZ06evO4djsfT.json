@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26933,
+  "num_followers": 26940,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADmWo+ALw1i0BHRLPwqjQTb",
+  "snapshot_id": "aD+MgAAAAABk1+Ukynp+ASmB35XD9qoq",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 196132,
+      "name": "10K",
+      "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weight & Glory",
         "url": "https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 197066,
       "name": "Church Clap",
       "url": "https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 196132,
-      "name": "10K",
-      "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
     },
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 210783,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Be The Glory (Remix)",
         "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 228705,
       "name": "God Be The Glory (Remix)",
       "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 210783,
-      "name": "Armies",
-      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
-        }
-      ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Start Right Here (HGA Version)",
         "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 173575,
       "name": "Start Right Here (HGA Version)",
       "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
+        }
+      ],
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Belong",
         "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 177219,
       "name": "God Speed",
       "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
     },
     {
       "added_at": null,

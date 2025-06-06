@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 
 > For frolicking joyously, freely and theatrically in this world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,917 likes - 117 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,925 likes - 117 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 | 116 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
 | 117 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 
-Snapshot ID: `Z9FgiwAAAABc9eCFotXdbnelid10K0Jx`
+Snapshot ID: `Z9FgiwAAAAAik0msczIwxswi88x8h6SQ`

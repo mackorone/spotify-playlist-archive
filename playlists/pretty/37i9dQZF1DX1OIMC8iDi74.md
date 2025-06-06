@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Jon Casey & TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,314 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,305 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,20 +92,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 82 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
 | 83 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 84 | [ready 2](https://open.spotify.com/track/1Ox9wm23PPkBUPLzKYekgY) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:46 |
-| 85 | [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 |
-| 86 | [Rise](https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Rise](https://open.spotify.com/album/25pCsAxUGaHglVh9cDRZL4) | 2:13 |
+| 85 | [Rise](https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Rise](https://open.spotify.com/album/25pCsAxUGaHglVh9cDRZL4) | 2:13 |
+| 86 | [holy ghost](https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [holy ghost](https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m) | 2:32 |
 | 87 | [Try Again](https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Try Again](https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo) | 4:04 |
 | 88 | [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 |
 | 89 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
-| 90 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
-| 91 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
+| 90 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
+| 91 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
 | 92 | [The Descent](https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:07 |
 | 93 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 94 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 |
-| 95 | [leaving \(dont tell me\)](https://open.spotify.com/track/3mOtdUx4a4T3LAw6CwRc04) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [leaving \(dont tell me\)](https://open.spotify.com/album/37yNxRu1pDMAnXDI15RbKE) | 3:13 |
-| 96 | [Oxygen](https://open.spotify.com/track/0pyg49BbMZHGnkWCJJw0Xw) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Wubcraft](https://open.spotify.com/album/2MdkF4EC4vEyLl7CZ2M43i) | 2:34 |
+| 95 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
+| 96 | [leaving \(dont tell me\)](https://open.spotify.com/track/3mOtdUx4a4T3LAw6CwRc04) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [leaving \(dont tell me\)](https://open.spotify.com/album/37yNxRu1pDMAnXDI15RbKE) | 3:13 |
 | 97 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
-| 98 | [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 |
+| 98 | [Oxygen](https://open.spotify.com/track/0pyg49BbMZHGnkWCJJw0Xw) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Wubcraft](https://open.spotify.com/album/2MdkF4EC4vEyLl7CZ2M43i) | 2:34 |
 | 99 | [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 |
 | 100 | [PLEASURE](https://open.spotify.com/track/4YuvJDnq3mIJgNwnab08yE) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [PLEASURE / RAINBOWFHISH](https://open.spotify.com/album/5RJHzs0VQ9DGjZR7cdIIG3) | 3:52 |
 

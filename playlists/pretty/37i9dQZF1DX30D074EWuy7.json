@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
-  "num_followers": 32793,
+  "num_followers": 32797,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 186107,
       "name": "Bird\u00b4s Lament",
       "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "MADRE",
         "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 177124,
       "name": "Perdiamoci",
       "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Fidate Correnti",
         "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
         "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 310466,
       "name": "Normalmente",
       "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+      },
+      "artists": [
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Domenico Candellori",
+          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Southern Dub",
+      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Liquid Portraits",
-        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
-      },
-      "artists": [
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        },
-        {
-          "name": "Domenico Candellori",
-          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Southern Dub",
-      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Opera prima (Including Ice One Remix)",
+        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
+      },
+      "artists": [
+        {
+          "name": "Loop Therapy",
+          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 278773,
+      "name": "Musica e fumo (featuring Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Opera prima (Including Ice One Remix)",
-        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
-      },
-      "artists": [
-        {
-          "name": "Loop Therapy",
-          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "Musica e fumo (featuring Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Gigi",
-        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 183125,
-      "name": "Gigi",
-      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1515,18 +1483,34 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Chiara Civello 7752",
-        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
       "artists": [
         {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
         }
       ],
-      "duration_ms": 322333,
-      "name": "Resta",
-      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Gigi",
+        "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 183125,
+      "name": "Gigi",
+      "url": "https://open.spotify.com/track/78VcFXI6Mz1nQAA2F8AVHW"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Chiara Civello 7752",
+        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Resta",
+      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 194977,
       "name": "Rotation Suggesting Permanence",
       "url": "https://open.spotify.com/track/3PdRX3VXcvB5QihiG9AGkn"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
       },
       "artists": [
         {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
         }
       ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
       "artists": [
         {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
         }
       ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Dualism",
-        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
-      },
-      "artists": [
-        {
-          "name": "N\u0101dt Orchestra",
-          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1963,18 +1947,38 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+        "name": "Dualism",
+        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
       },
       "artists": [
         {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+          "name": "N\u0101dt Orchestra",
+          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
         }
       ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+      "duration_ms": 281466,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Cosmica Italiana",
+        "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Morresi",
+          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 222391,
+      "name": "Movimento Astratto",
+      "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
     }
   ],
   "unique_name": "Jazz Italia",

@@ -1,15 +1,35 @@
 {
-  "description": "Elodie sulla cover della playlist pi\u00f9 grande in Italia \ud83c\udfc6",
-  "num_followers": 1710108,
+  "description": "Pinguini Tattici Nucleari e Max Pezzali sulla cover della playlist pi\u00f9 grande in Italia \ud83c\udfc6",
+  "num_followers": 1710235,
   "original_name": "Hot Hits Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEBo0wAAAAARiUTbHmxEqErsLFPDhSsn",
+  "snapshot_id": "aEITyAAAAADP9aswGfNlqObd0OhSrQmk",
   "tracks": [
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "Bottiglie Vuote (feat. Max Pezzali)",
+        "url": "https://open.spotify.com/album/2xS7zxsklN6TULjQWfnDUc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        },
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 194516,
+      "name": "Bottiglie Vuote (feat. Max Pezzali)",
+      "url": "https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "a me mi piace (feat. Manu Chao)",
         "url": "https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW"
@@ -29,7 +49,23 @@
       "url": "https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "Maschio",
+        "url": "https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 204738,
+      "name": "Maschio",
+      "url": "https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
@@ -45,23 +81,7 @@
       "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Mi Ami Mi Odi",
-        "url": "https://open.spotify.com/album/2TPANvT33Btxc1596fjAwe"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Mi Ami Mi Odi",
-      "url": "https://open.spotify.com/track/1oHT9T42XDgyL2cOWEkfXu"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "SANTANA MONEY GANG",
         "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Piangere a 90",
         "url": "https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3"
@@ -121,43 +141,7 @@
       "url": "https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Maschio",
-        "url": "https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 204738,
-      "name": "Maschio",
-      "url": "https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Bottiglie Vuote (feat. Max Pezzali)",
-        "url": "https://open.spotify.com/album/2xS7zxsklN6TULjQWfnDUc"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        },
-        {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
-        }
-      ],
-      "duration_ms": 194516,
-      "name": "Bottiglie Vuote (feat. Max Pezzali)",
-      "url": "https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Comuni Mortali",
         "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
@@ -173,87 +157,23 @@
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
-        "name": "Tropico Del Capricorno",
-        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
+        "name": "Mi Ami Mi Odi",
+        "url": "https://open.spotify.com/album/2TPANvT33Btxc1596fjAwe"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 168240,
-      "name": "Oh Mamma Mia (feat. Rose Villain)",
-      "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
+      "duration_ms": 211875,
+      "name": "Mi Ami Mi Odi",
+      "url": "https://open.spotify.com/track/1oHT9T42XDgyL2cOWEkfXu"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Nonostante Tutto (feat. Elisa)",
-        "url": "https://open.spotify.com/album/5zV0OvnUYxNBAG5YmSozFf"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        },
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 267313,
-      "name": "Nonostante Tutto (feat. Elisa)",
-      "url": "https://open.spotify.com/track/4Q7d5kMY5ctGgHp8diJ9Rw"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
-        "url": "https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Tredici Pietro",
-          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
-      "url": "https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "SCELTE STUPIDE",
-        "url": "https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        },
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 179802,
-      "name": "SCELTE STUPIDE",
-      "url": "https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
@@ -273,7 +193,67 @@
       "url": "https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "Nonostante Tutto (feat. Elisa)",
+        "url": "https://open.spotify.com/album/5zV0OvnUYxNBAG5YmSozFf"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 267313,
+      "name": "Nonostante Tutto (feat. Elisa)",
+      "url": "https://open.spotify.com/track/4Q7d5kMY5ctGgHp8diJ9Rw"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
+        "url": "https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
+      "url": "https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "SCELTE STUPIDE",
+        "url": "https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "duration_ms": 179802,
+      "name": "SCELTE STUPIDE",
+      "url": "https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Islanda",
         "url": "https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -309,23 +289,27 @@
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
-        "name": "RANCH",
-        "url": "https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs"
+        "name": "Tropico Del Capricorno",
+        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
         }
       ],
-      "duration_ms": 166366,
-      "name": "CONTA SU DI ME",
-      "url": "https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4"
+      "duration_ms": 168240,
+      "name": "Oh Mamma Mia (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -341,23 +325,23 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
-        "name": "fuorilegge",
-        "url": "https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
       "artists": [
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 221403,
-      "name": "fuorilegge",
-      "url": "https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi"
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "SEXY RAVE (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1"
@@ -377,7 +361,7 @@
       "url": "https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Depresso fortunato",
         "url": "https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD"
@@ -397,7 +381,23 @@
       "url": "https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "RANCH",
+        "url": "https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 166366,
+      "name": "CONTA SU DI ME",
+      "url": "https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "BELLA DAVVERO",
         "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
@@ -429,7 +429,43 @@
       "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "fuorilegge",
+        "url": "https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "fuorilegge",
+      "url": "https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "SERENATA",
+        "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
+      },
+      "artists": [
+        {
+          "name": "Serena Brancale",
+          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
+        },
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "SERENATA",
+      "url": "https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "FUORI MEN\u00d9",
         "url": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k"
@@ -473,23 +509,7 @@
       "url": "https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Tropico Del Capricorno",
         "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
@@ -505,23 +525,7 @@
       "url": "https://open.spotify.com/track/6cGhVnQAJRxGVsltCU06vF"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Ora che non ho pi\u00f9 te",
-        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 303032,
-      "name": "Ora che non ho pi\u00f9 te",
-      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Tu Me Quieres",
         "url": "https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF"
@@ -549,7 +553,7 @@
       "url": "https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -565,7 +569,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Umore marea",
         "url": "https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh"
@@ -581,7 +585,7 @@
       "url": "https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
@@ -601,7 +605,7 @@
       "url": "https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
@@ -617,7 +621,7 @@
       "url": "https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "SANTANA MONEY GANG",
         "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
@@ -637,7 +641,7 @@
       "url": "https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
@@ -653,7 +657,7 @@
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "CHIAMO IO CHIAMI TU",
         "url": "https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS"
@@ -689,7 +693,7 @@
       "url": "https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "LA CURA PER ME",
         "url": "https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw"
@@ -705,23 +709,7 @@
       "url": "https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
-      "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Balorda nostalgia",
         "url": "https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ"
@@ -741,7 +729,23 @@
       "url": "https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Il corpo umano VOL. 1",
         "url": "https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9"
@@ -757,7 +761,7 @@
       "url": "https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
@@ -773,7 +777,7 @@
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "il ritmo delle cose.",
         "url": "https://open.spotify.com/album/14o2gMXu5mcQehz5n3YnfU"
@@ -789,7 +793,7 @@
       "url": "https://open.spotify.com/track/2BptnzpcLO9NAdNdKh2rZy"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "La tana del granchio",
         "url": "https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "La Mia Parola (feat. Gu\u00e8, Joshua, Tormento)",
         "url": "https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "ANEMA E CORE",
         "url": "https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Incoscienti Giovani",
         "url": "https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Futuri Possibili",
         "url": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD"
@@ -885,7 +889,7 @@
       "url": "https://open.spotify.com/track/2ALrq527Q49iISVve4PEkn"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
@@ -901,7 +905,7 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-06-04 15:40:03",
+      "added_at": "2025-06-05 22:01:44",
       "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"

@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 105950,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768"
@@ -10732,7 +10732,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 100000,
       "name": "Drips",
       "url": "https://open.spotify.com/track/3yxluQG4ZWdmjXJ5sjxXVg"
@@ -14101,6 +14101,28 @@
     },
     {
       "album": {
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/6Sl0jaO3B4YmEn7JECmIVo"
+      },
+      "artists": [
+        {
+          "name": "dnvn.beats",
+          "url": "https://open.spotify.com/artist/6a7nfnO8b7WiXvVR5IkN7X"
+        },
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6Tk0J5qQfwLDEMK8gT8EHy"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/0oqdwvUItKH2OQmMCwkLwi"
+    },
+    {
+      "album": {
         "name": "French Escapades",
         "url": "https://open.spotify.com/album/3SO50KzwRDHY10QArqU9fX"
       },
@@ -16920,7 +16942,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 131063,
       "name": "highway one",
       "url": "https://open.spotify.com/track/2tQXKumBH3TcShaJcCC6X0"
@@ -17770,7 +17792,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 134142,
       "name": "I Love You, Girl",
       "url": "https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4"
@@ -34566,7 +34588,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 120125,
       "name": "so far",
       "url": "https://open.spotify.com/track/5xTtgyWdEuMFZQcJHXUVXe"

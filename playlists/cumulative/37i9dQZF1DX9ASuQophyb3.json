@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Zeynep Bast\u0131k",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Serdar Orta\u00e7",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Derde A\u015f\u0131k Olmu\u015fuz",
+        "url": "https://open.spotify.com/album/5wq021Suabys88JlhipQSf"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan Tepe",
+          "url": "https://open.spotify.com/artist/6C2dcLMiM7ReleaXaiHsw5"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236576,
+      "name": "Derde A\u015f\u0131k Olmu\u015fuz",
+      "url": "https://open.spotify.com/track/4jl46TtBgBbYHQOFwpLiBi"
+    },
+    {
+      "album": {
         "name": "derdim var",
         "url": "https://open.spotify.com/album/71bmrClM3TxVThhDdxj2Xj"
       },
@@ -2513,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "K\u0131\u015f K\u0131\u015f",
+        "url": "https://open.spotify.com/album/4FA7EWO0U9xGxBfvlbeeGg"
+      },
+      "artists": [
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "K\u0131\u015f K\u0131\u015f",
+      "url": "https://open.spotify.com/track/7dPt6dEmIr788BonzTIVJt"
+    },
+    {
+      "album": {
         "name": "Lan",
         "url": "https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26"
       },
@@ -3389,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Seviyorum Sevmiyorum",
+        "url": "https://open.spotify.com/album/5EBa8wKV82f6ufSisuiVWO"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125181,
+      "name": "Seviyorum Sevmiyorum",
+      "url": "https://open.spotify.com/track/59Y3fqKKlBFcoA6huDHBP3"
+    },
+    {
+      "album": {
         "name": "SON DAMLA",
         "url": "https://open.spotify.com/album/2Xk1nMDwkSm5rjlIkhwdmE"
       },
@@ -3422,7 +3476,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 199285,
       "name": "SONUNDA KAYBOLMU\u015e",
       "url": "https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf"
@@ -3840,7 +3894,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 152547,
       "name": "Yans\u0131n",
       "url": "https://open.spotify.com/track/1JhhX1TICmdKIwaLNuj09y"

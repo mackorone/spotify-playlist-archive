@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-116 songs - 5 hr 36 min
+124 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,8 @@
 | [Always](https://open.spotify.com/track/3vGFiJBZGJ9gdUC3lv9NtZ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:08 | 2023-10-04 |  |
 | [Attention, please!](https://open.spotify.com/track/3MdLQBiKHUO4DpXNiodNTY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:47 | 2022-05-12 |  |
 | [Attention, please!](https://open.spotify.com/track/59qDYPZPkMPl8qSYRig1xn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2022-05-12 |  |
+| [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 |  |
+| [Bad Desire \(With or Without You\) \(English Ver.\)](https://open.spotify.com/track/4N8IFzGERNBWoQyzYVYEoJ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 |  |
 | [Bills](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:55 | 2023-05-22 |  |
 | [Bills \- Japanese Ver.](https://open.spotify.com/track/34XCh5DGAAGwwIGJoQpzU5) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [結 \-YOU\-](https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r) | 2:56 | 2023-10-04 |  |
 | [Billy Poco](https://open.spotify.com/track/2qxk6ZQyhE6OKHCG448nIt) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BILLY POCO](https://open.spotify.com/album/053egZ9MnXOGmLMQUiFPfZ) | 2:25 | 2022-05-12 |  |
@@ -41,6 +43,7 @@
 | [Fatal Trouble](https://open.spotify.com/track/6i1PYoUEMHqxAsAUKHkqpe) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON SPECIAL ALBUM <MEMORABILIA>](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) | 2:50 | 2024-05-17 |  |
 | [Fate](https://open.spotify.com/track/0iLyNDLTsBkqB8SLAzNGxF) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:31 | 2023-05-22 |  |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2022-05-12 |  |
+| [Flashover](https://open.spotify.com/track/4uj7LoS14txqhRylMR4Fj1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:05 | 2025-06-05 |  |
 | [Flicker](https://open.spotify.com/track/3TgPwLFXV6GEIsDZANHktY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 2:24 | 2022-05-12 |  |
 | [Foreshadow](https://open.spotify.com/track/2RmGQmFyJetffds9FSRm3c) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 2:27 | 2022-07-04 |  |
 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 | 2022-05-12 |  |
@@ -52,6 +55,7 @@
 | [Given\-Taken \- Japanese Ver.](https://open.spotify.com/track/2T7E6Gl6XxB8UnuqrufqYT) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:04 | 2022-05-12 |  |
 | [Go Big or Go Home](https://open.spotify.com/track/0nh0uf3eB4JEjv4jQxj5eP) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:21 | 2022-05-12 |  |
 | [Go Big or Go Home](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:21 | 2022-05-12 |  |
+| [Helium](https://open.spotify.com/track/48jRAABr5TxjWHvoNWClGG) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:42 | 2025-06-05 |  |
 | [Hey Tayo \- Tayo Opening Theme Song](https://open.spotify.com/track/2A7A3KF4NHFjW3ygFSt7In) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [HEY TAYO](https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0) | 1:51 | 2022-05-12 |  |
 | [Highway 1009](https://open.spotify.com/track/1dAKL41zeVDP8PiLJDsRQv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:55 | 2024-07-16 |  |
 | [Highway 1009](https://open.spotify.com/track/33tQ7lkfZuhx1JPD1V3oC7) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:55 | 2024-12-19 |  |
@@ -73,7 +77,9 @@
 | [Let Me In \(20 CUBE\) \- Japanese Ver.](https://open.spotify.com/track/5mfevw9okQ6kAyb7UWlLiE) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:11 | 2022-05-12 |  |
 | [Let Me In \(20 CUBE\) \- Japanese Ver.](https://open.spotify.com/track/3Vq4EAlxbgXSw561OL3EQR) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:11 | 2023-10-04 |  |
 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-18 |  |
+| [Loose \(Korean Ver.\)](https://open.spotify.com/track/1hZqz3w2FFdQekLLLFEa0T) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 3:32 | 2025-06-05 |  |
 | [Lucifer](https://open.spotify.com/track/7Fq4xDlMtpqca0IyTYXldY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON SPECIAL ALBUM <MEMORABILIA>](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) | 3:47 | 2024-05-17 |  |
+| [MAISON ENHYPEN Audio Docent by JUNGWON](https://open.spotify.com/track/5abiTlmPkwGi2UilN1nBEW) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MAISON ENHYPEN Audio Docent](https://open.spotify.com/album/7mowHrXdZpvQfjmMpR5wrJ) | 1:04 | 2025-06-05 |  |
 | [Make the change](https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Make the change](https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY) | 3:07 | 2023-10-04 |  |
 | [Make the change](https://open.spotify.com/track/1rFczNvTD6flYm3IUdvLth) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:07 | 2023-10-04 |  |
 | [Mixed Up](https://open.spotify.com/track/6S0By3u06ttb3kU2XEtWnw) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:03 | 2022-05-12 |  |
@@ -91,6 +97,7 @@
 | [Outro : Cross the Line](https://open.spotify.com/track/3jkDtDzZKCmWtDccH7UUsq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 1:55 | 2022-05-12 |  |
 | [Outro : Day 2](https://open.spotify.com/track/4mFOAfQQZ1U3NVBoamJfGR) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 1:52 | 2022-05-12 |  |
 | [Outro : The Wormhole](https://open.spotify.com/track/6HBrUqKU3IE4aHKj0foQ2b) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 1:34 | 2022-05-12 |  |
+| [Outside](https://open.spotify.com/track/0IXWLMBZeK33mOb044Sxu6) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:01 | 2025-06-05 |  |
 | [ParadoXXX Invasion](https://open.spotify.com/track/3OC2C8IpFhbUJTeMe55QYn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:07 | 2022-07-04 |  |
 | [Paranormal](https://open.spotify.com/track/1tLq6MZA5Lqpms4AZ4CcrG) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:35 | 2024-07-16 |  |
 | [Paranormal](https://open.spotify.com/track/6JmvAr6cnYNytZbEQtbPZy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:35 | 2024-12-19 |  |
@@ -100,7 +107,7 @@
 | [Sacrifice \(Eat Me Up\)](https://open.spotify.com/track/58ItBuVuKc03DvqSeZFnH1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:22 | 2023-05-22 |  |
 | [Scream](https://open.spotify.com/track/1kgg5vR9QCW72RTNQTaSRH) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON SPECIAL ALBUM <MEMORABILIA>](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) | 3:07 | 2024-05-17 |  |
 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 | 2022-07-04 |  |
-| [Special Message from ENHYPEN](https://open.spotify.com/track/43oOmzden0Ft1nIt2p4lzZ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [This Is ENHYPEN](https://open.spotify.com/album/7rFnaDTkxWkMUFqLB26t1a) | 1:33 | 2025-05-24 |  |
+| [Special Message from ENHYPEN](https://open.spotify.com/track/43oOmzden0Ft1nIt2p4lzZ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [This Is ENHYPEN](https://open.spotify.com/album/7rFnaDTkxWkMUFqLB26t1a) | 1:33 | 2025-05-24 | 2025-06-06 |
 | [Still Monster](https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 3:06 | 2023-12-15 |  |
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-12-15 |  |
 | [Sweet Venom \(English Ver.\)](https://open.spotify.com/track/47JqJobasbTT9r0gX8CoE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-12-15 |  |
@@ -112,6 +119,7 @@
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/0CPVaydX9lEvyNsL8pTNfQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:16 | 2023-10-04 |  |
 | [Teeth](https://open.spotify.com/track/6JlQqA7FDfqLbnpJBwypPe) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON SPECIAL ALBUM <MEMORABILIA>](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) | 3:11 | 2024-05-17 |  |
 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 | 2022-07-04 |  |
+| [Too Close](https://open.spotify.com/track/6gezrIScVLEnV1szuZxhvA) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:26 | 2025-06-05 |  |
 | [Upper Side Dreamin’](https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:09 | 2022-05-12 |  |
 | [Upper Side Dreamin’](https://open.spotify.com/track/7vVgN04eLKRBb7MW7pfOT0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:09 | 2022-05-12 |  |
 | [WALK THE LINE](https://open.spotify.com/track/0xDVPc5W2jYqO6p9NisCI4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 2:03 | 2022-07-04 |  |

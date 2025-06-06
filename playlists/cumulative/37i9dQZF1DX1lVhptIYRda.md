@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Ella Langley
+> Today's top country hits\. Cover: Eric Church
 
 892 songs - 2 day 0 hr 16 min
 

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Damso au top de la première playlist de rap français.
+> Nono La Grinta au top de la première playlist de rap français.
 
-335 songs - 17 hr 9 min
+337 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Ca parle mal](https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Pour la miff\)](https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J) | 2:56 | 2024-09-19 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-20 | 2022-10-14 |
 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 | 2024-05-23 | 2024-09-20 |
+| [Cantona](https://open.spotify.com/track/2JVPQ5VbURgorwJH0LPAeS) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Cantona](https://open.spotify.com/album/5x5dSJS2FjUMe2pFYPqK8f) | 2:50 | 2025-06-05 |  |
 | [Capata](https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [FRANCÈ ZITO](https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:20 | 2024-12-19 | 2025-04-25 |
 | [Capitaine](https://open.spotify.com/track/4Kd21ylDbBQftU0rljK28X) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:35 | 2024-02-01 | 2024-03-22 |
 | [Capitaine](https://open.spotify.com/track/4XqIETfiZBZ9lrx4Nn44Et) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:35 | 2024-01-11 | 2024-02-02 |
@@ -101,6 +102,7 @@
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-09 | 2023-06-09 |
 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 | 2024-08-22 |  |
 | [Elle veut](https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Enfant2LaRue Vol\. 2](https://open.spotify.com/album/5Hq4ZIoPwHNYCQiDxxUIpG) | 3:06 | 2022-01-06 | 2022-07-15 |
+| [En vrai de vrai](https://open.spotify.com/track/0OkMUD6CfBPYG8sDle7PY9) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [En vrai de vrai](https://open.spotify.com/album/3cCY3cxdYsjtO8v2Sa1RPa) | 3:38 | 2025-06-05 |  |
 | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/track/6FK1JMPYXje5iZHs0URvmB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Enlève tes pes\-sa \(feat\. JKSN, Kaaris & La Mano 1.9\)](https://open.spotify.com/album/6UGicuL3fwytPub4tsRfsJ) | 3:34 | 2024-05-23 | 2024-11-15 |
 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-06-15 | 2023-09-24 |
 | [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 | 2023-09-21 | 2023-10-13 |
@@ -292,7 +294,7 @@
 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-28 | 2025-03-07 |
 | [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 | 2025-03-27 |  |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
-| [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 |  |
+| [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 | 2025-06-06 |
 | [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-20 |  |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-08-03 | 2023-11-24 |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |
@@ -334,7 +336,7 @@
 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-20 | 2025-01-10 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2022-01-06 | 2023-01-13 |
 | [Wouaw](https://open.spotify.com/track/5GrZ9iE4yLu5RE9dzEIpID) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 2:46 | 2025-05-15 |  |
-| [Wow](https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Wow](https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5) | 3:20 | 2025-03-27 |  |
+| [Wow](https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Wow](https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5) | 3:20 | 2025-03-27 | 2025-06-06 |
 | [X](https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 2:00 | 2024-03-21 | 2024-10-04 |
 | [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 | 2024-06-13 | 2024-07-27 |
 | [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-18 | 2023-10-13 |

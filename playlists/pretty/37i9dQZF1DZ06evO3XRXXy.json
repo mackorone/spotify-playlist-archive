@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 145479,
+  "num_followers": 145511,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAC5pZSRAHKibLnea9OlyXOT",
+  "snapshot_id": "aD+MgAAAAADvJIC84wW2iC7d5KNn0SsG",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Missing You Now (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 440400,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "If",
+      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
         "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
       },
@@ -208,93 +276,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Missing You Now (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "If",
-      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 440400,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
       "duration_ms": 300466,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Going Home - Edit",
-      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313560,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 201973,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 313560,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullaby Tres",
-        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 124976,
-      "name": "Lullaby Tres",
-      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 262533,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazilian Nights (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Heart And Soul - Live",
-      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": null,

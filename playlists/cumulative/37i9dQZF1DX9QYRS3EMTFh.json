@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Says'z",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : TKS 2G",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 109792,
       "name": "Batch\u00e9 a bo'y",
       "url": "https://open.spotify.com/track/4sDXudO7gpCFqsxFUuMb7E"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 133333,
       "name": "BXCKSHXT",
       "url": "https://open.spotify.com/track/1UpQ4zIN14wpgBFoDMcPjC"
@@ -3483,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178326,
+      "name": "D\u00c8VIZ AN MWEN",
+      "url": "https://open.spotify.com/track/3XqR2wiBCwHCDXvqICEY7S"
+    },
+    {
+      "album": {
         "name": "D\u00e9monstration",
         "url": "https://open.spotify.com/album/50ynlIGQ3v3b54GIJPqfet"
       },
@@ -4680,7 +4702,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 186756,
       "name": "GWO BLO",
       "url": "https://open.spotify.com/track/1wWclekpMue2FduTMxaSVM"
@@ -5603,6 +5625,28 @@
     },
     {
       "album": {
+        "name": "Joke",
+        "url": "https://open.spotify.com/album/0QAUbSySRHZUzcvzSjQfqA"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126464,
+      "name": "Joke",
+      "url": "https://open.spotify.com/track/1a3NfTt4Omh1RSxJVpYTcn"
+    },
+    {
+      "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/5S1GkcrjPBOknQW2WBkqGq"
       },
@@ -5654,6 +5698,28 @@
       "duration_ms": 136620,
       "name": "JOOCHAR",
       "url": "https://open.spotify.com/track/41q55rxFJf5qpVIplA1hxN"
+    },
+    {
+      "album": {
+        "name": "Jookgal",
+        "url": "https://open.spotify.com/album/2OWmUH7drL9li9KOA0xuaQ"
+      },
+      "artists": [
+        {
+          "name": "Lagess",
+          "url": "https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq"
+        },
+        {
+          "name": "DJ WEEZY",
+          "url": "https://open.spotify.com/artist/1i3kYo7RjJalr4ZUAkjO78"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144081,
+      "name": "Jookgal",
+      "url": "https://open.spotify.com/track/0VDmW9TBG7qMGN6EjrafRr"
     },
     {
       "album": {
@@ -7091,6 +7157,28 @@
     },
     {
       "album": {
+        "name": "Mister Plata",
+        "url": "https://open.spotify.com/album/09GlEracekfENKXJUM51XQ"
+      },
+      "artists": [
+        {
+          "name": "Kryssy",
+          "url": "https://open.spotify.com/artist/0aFrpBv0tkmDm9qFlXK2Gc"
+        },
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146465,
+      "name": "Mister Plata",
+      "url": "https://open.spotify.com/track/23DKdmAEr3pGD6aPout0gu"
+    },
+    {
+      "album": {
         "name": "MOB$TA#2",
         "url": "https://open.spotify.com/album/02lvaqAYeBV4Lks5uIMJUR"
       },
@@ -7654,7 +7742,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 126540,
       "name": "Neva Beg",
       "url": "https://open.spotify.com/track/2PiJChnONUSU7y4vEa9a7u"
@@ -9427,6 +9515,24 @@
     },
     {
       "album": {
+        "name": "PRODIGE OF YANA",
+        "url": "https://open.spotify.com/album/2JwLQs2VhOgSRRhDCnqQYW"
+      },
+      "artists": [
+        {
+          "name": "SIKEM",
+          "url": "https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139464,
+      "name": "REINE SHATTA",
+      "url": "https://open.spotify.com/track/6aCpBvZsb0RAAr7gVabix3"
+    },
+    {
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/0NFillRDfBiGrsAsG9Hd7T"
       },
@@ -10282,7 +10388,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 136258,
       "name": "Skincare",
       "url": "https://open.spotify.com/track/4FXQku9Scs1vQTlMzUbJvb"

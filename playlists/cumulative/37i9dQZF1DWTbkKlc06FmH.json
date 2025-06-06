@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
@@ -9710,7 +9710,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 294140,
       "name": "masshiro (pure white)",
       "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
@@ -17726,7 +17726,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 160824,
       "name": "weeknight",
       "url": "https://open.spotify.com/track/2edBRVf8A6IcOLdO6P7HuE"
@@ -17906,6 +17906,32 @@
       "duration_ms": 179200,
       "name": "Where Is The Thunder? - NEIL FRANCES Remix",
       "url": "https://open.spotify.com/track/3qyYli3rlZeyzY4SHpMIox"
+    },
+    {
+      "album": {
+        "name": "where the sunlight glows",
+        "url": "https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        },
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "where the sunlight glows",
+      "url": "https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu"
     },
     {
       "album": {

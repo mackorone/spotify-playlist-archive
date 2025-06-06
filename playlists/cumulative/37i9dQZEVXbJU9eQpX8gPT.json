@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 222062,
       "name": "Ah Bon",
       "url": "https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ"
@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 177000,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
@@ -8750,7 +8750,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -16772,6 +16772,28 @@
     {
       "album": {
         "name": "Colors",
+        "url": "https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Lbaroud",
+      "url": "https://open.spotify.com/track/0yTcJbMW6X1mqsRWYy5jaw"
+    },
+    {
+      "album": {
+        "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
       "artists": [
@@ -23108,7 +23130,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 191615,
       "name": "Ojos Sin Ver",
       "url": "https://open.spotify.com/track/3l7ixTpHmRxjjH05OnWY6f"
@@ -27618,7 +27640,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 192340,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"

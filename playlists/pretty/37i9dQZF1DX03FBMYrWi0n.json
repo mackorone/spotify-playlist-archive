@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Population II",
-  "num_followers": 6616,
+  "num_followers": 6619,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 202996,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 149226,
-      "name": "Entre mes jambes",
-      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Entre mes jambes",
+      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
       },
@@ -527,38 +543,6 @@
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -579,6 +563,38 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -663,18 +679,18 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Disruption",
+        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 193027,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -707,22 +723,6 @@
       "duration_ms": 286826,
       "name": "La hi\u00e9rarchill",
       "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
-        "name": "Disruption",
-        "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
-      },
-      "artists": [
-        {
-          "name": "Vulgaires Machins",
-          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "Y a pu d'poude dans poude",
-        "url": "https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 168851,
-      "name": "Y a pu d'poude dans poude",
-      "url": "https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "Y a pu d'poude dans poude",
+        "url": "https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 168851,
+      "name": "Y a pu d'poude dans poude",
+      "url": "https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 200765,
-      "name": "Demande-moi",
-      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
+      "duration_ms": 200765,
+      "name": "Demande-moi",
+      "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -935,18 +919,18 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
-        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
       "artists": [
         {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
         }
       ],
-      "duration_ms": 146000,
-      "name": "N'importe O\u00f9 Sauf Ici",
-      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -967,18 +951,18 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "Ketchup",
-        "url": "https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY"
+        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
+        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
       },
       "artists": [
         {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Ketchup",
-      "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
+      "duration_ms": 146000,
+      "name": "N'importe O\u00f9 Sauf Ici",
+      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -999,18 +983,18 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+        "name": "Ketchup",
+        "url": "https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY"
       },
       "artists": [
         {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
         }
       ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+      "duration_ms": 164571,
+      "name": "Ketchup",
+      "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -1031,6 +1015,22 @@
       "duration_ms": 150923,
       "name": "SIMULATION FREESTYLE",
       "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "Gants blancs",
-        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 214792,
-      "name": "Gants blancs",
-      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
         "name": "Rencontrer Looloo",
         "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 150320,
       "name": "Ah ouin",
       "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "Gants blancs",
+        "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 214792,
+      "name": "Gants blancs",
+      "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
     },
     {
       "added_at": "2025-03-28 04:00:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-03-28 04:00:32",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2025-03-28 04:00:32",
-      "album": {
         "name": "Des feux pour voir",
         "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 243859,
       "name": "Dans tes r\u00eaves",
       "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
+    },
+    {
+      "added_at": "2025-03-28 04:00:32",
+      "album": {
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2025-03-28 04:00:32",

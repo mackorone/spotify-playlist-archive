@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-404 songs - 1 day 2 hr 30 min
+405 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cocomango](https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 3:15 | 2021-12-10 | 2024-08-31 |
 | [Colores](https://open.spotify.com/track/1PFMEnmRjhPUF1LPBxz9WW) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Colores](https://open.spotify.com/album/3L5hveSQyFpRcSza9aCG5a) | 4:32 | 2023-01-20 | 2023-02-03 |
 | [Colores](https://open.spotify.com/track/4I8gb9fya6GgNCh5Bdm2pA) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Luces](https://open.spotify.com/album/6ly1Y9KawTXwqLzT93xMDG) | 4:40 | 2021-12-10 | 2022-07-28 |
-| [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 | 2024-01-26 |  |
+| [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 | 2024-01-26 | 2025-06-06 |
 | [Con el Sol de la Mañana](https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [De Aquí Son](https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K) | 4:22 | 2021-12-10 | 2022-07-29 |
 | [Con Vos](https://open.spotify.com/track/5CzQMJyFotsCo0ZHZeSRCR) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibra Sound](https://open.spotify.com/album/7ddnRdS833NXAVvmi0ehKD) | 5:16 | 2021-12-10 | 2022-07-29 |
 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 | 2022-07-08 | 2024-04-19 |
@@ -217,6 +217,7 @@
 | [Lo Mas Lindo \(777 Remix\)](https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Lo Mas Lindo \(777 Remix\)](https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv) | 3:38 | 2023-08-18 | 2023-09-09 |
 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 | 2021-12-10 | 2025-04-19 |
 | [Lo Quiero Todo](https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 3:47 | 2021-12-10 |  |
+| [Lo Sabe Dios](https://open.spotify.com/track/1ZNGqZGgVPDsbX0jYHHe1J) | [Warma](https://open.spotify.com/artist/7h0kop4Vg2UdQV77BLfFHY), [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Lo Sabe Dios](https://open.spotify.com/album/0mgAk1IC4Zxp8k5t8V1Dw0) | 2:55 | 2025-05-29 |  |
 | [Loco Por Volverla a Ver](https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Loco Por Volverla a Ver](https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd) | 4:32 | 2024-05-10 |  |
 | [Long Time Ago](https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh), [Lander](https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE) | [Long Time Ago](https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv) | 2:11 | 2024-11-29 |  |
 | [Loosen Up](https://open.spotify.com/track/2T1F4mQko6YMtDADf3NTfa) | [Bachaco](https://open.spotify.com/artist/25JHq0SPNYK6sQ2obxdHZc) | [Loosen Up](https://open.spotify.com/album/2kSn2CgutBlhxylrKuBNzc) | 2:58 | 2023-02-03 | 2023-03-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Paola",
+  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andromache",
   "name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "tracks": [
     {
@@ -188,6 +188,28 @@
       "duration_ms": 213846,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
+    },
+    {
+      "album": {
+        "name": "Amartiste",
+        "url": "https://open.spotify.com/album/3SmcXwg76WTXdZw0hmpbfD"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Tsalikis",
+          "url": "https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD"
+        },
+        {
+          "name": "Ano Kato",
+          "url": "https://open.spotify.com/artist/0kcxmPF8rChN29OV7UFl5a"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170595,
+      "name": "Amartiste",
+      "url": "https://open.spotify.com/track/55ep0yZZ26g4utQDKsRRMy"
     },
     {
       "album": {
@@ -1233,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Kale... Poios Einai Autos?",
+        "url": "https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Kale... Poios Einai Autos?",
+      "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
+    },
+    {
+      "album": {
         "name": "Kalokeri",
         "url": "https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul"
       },
@@ -1360,7 +1400,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
@@ -1889,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "O Xoros Tou Isaia",
+        "url": "https://open.spotify.com/album/0GpJ6WLE6KRky3pUgj75yH"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Koufos",
+          "url": "https://open.spotify.com/artist/1P2Y42avJKqxYP3ZrUuzqj"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204593,
+      "name": "O Xoros Tou Isaia",
+      "url": "https://open.spotify.com/track/5gsQHtTIsVCqe7NcuiJmVj"
+    },
+    {
+      "album": {
         "name": "Odos Ginekas",
         "url": "https://open.spotify.com/album/23GOT7qeWOJD1JVdm3Trng"
       },
@@ -1972,7 +2030,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 169497,
       "name": "Ola Pigenoun Kalytera",
       "url": "https://open.spotify.com/track/4E14OOlsmU5hTnPfYyEJGB"
@@ -2568,7 +2626,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
@@ -2933,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Tihi Mou",
+        "url": "https://open.spotify.com/album/7skixiOvBA3r4UnL3FtUae"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Giannias",
+          "url": "https://open.spotify.com/artist/5Zhz9yMdYnBBy6hH2AII46"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211474,
+      "name": "Tihi Mou",
+      "url": "https://open.spotify.com/track/3igrXVzOUTPhx6X3X4sG71"
+    },
+    {
+      "album": {
         "name": "Tipota Tiheo",
         "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
       },
@@ -2948,7 +3024,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 167310,
       "name": "Tipota Tiheo",
       "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"

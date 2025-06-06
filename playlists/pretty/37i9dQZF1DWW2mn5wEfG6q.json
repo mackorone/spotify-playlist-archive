@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 88661,
+  "num_followers": 88683,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -411,38 +411,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224673,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Oblivion (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka"
       },
@@ -463,6 +431,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 224673,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 275440,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6k1I9gABiasGZiWWAosAEb"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 204266,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/0CzKeBPCiBrGZRV9eLzzBo"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Unbelievers",
-      "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Unbelievers",
+      "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "If You Wait (Deluxe Version)",
         "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Reflektor",
-        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 353086,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 285533,
       "name": "Don't Swallow the Cap",
       "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Reflektor",
+        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 353086,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Reflektor",
-        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 450983,
-      "name": "Reflektor",
-      "url": "https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Days Are Gone (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 230453,
       "name": "If I Could Change Your Mind",
       "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Reflektor",
+        "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 450983,
+      "name": "Reflektor",
+      "url": "https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
+        "name": "Changing of the Seasons",
+        "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ"
+      "duration_ms": 222880,
+      "name": "Changing of the Seasons",
+      "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Changing of the Seasons",
-        "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Changing of the Seasons",
-      "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 233133,
       "name": "The Walker",
       "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Atomic Man",
+      "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Warm Water (Snakehips Remix)",
         "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 253584,
       "name": "Warm Water - Snakehips Remix",
       "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Atomic Man",
-      "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
       },
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 281100,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 268455,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Seven + Mary",
         "url": "https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 188280,
       "name": "Devil Like Me",
       "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 309590,
-      "name": "Howling",
-      "url": "https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 230146,
-      "name": "So Good At Being in Trouble",
-      "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
     }
   ],
   "unique_name": "Best of Indie 2013",

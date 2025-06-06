@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Guè e Rasty, Fibra, Faneto, Slings e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,332 likes - 128 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,339 likes - 128 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

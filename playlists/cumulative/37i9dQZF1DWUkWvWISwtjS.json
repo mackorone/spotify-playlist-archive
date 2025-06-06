@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "A Hora \u00c9 Agora (Ao Vivo Em Jurer\u00ea)",
+        "url": "https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191720,
+      "name": "Eu Quero S\u00f3 Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7blWdaLlmXMEh4ej2IPP8N"
+    },
+    {
+      "album": {
         "name": "O Embaixador - The Legacy (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
       },
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 140442,
       "name": "Trincadinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"

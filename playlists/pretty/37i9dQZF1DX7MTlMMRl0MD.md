@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897,813 likes - 59 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,897,441 likes - 59 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 58 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/6uzGp5faL6sils5J2hdCQM) | [Gerardo Lares](https://open.spotify.com/artist/5NC4sxfhlMUwOHtAqSWgRA), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Ni Me Debes Ni Te Debo](https://open.spotify.com/album/1ai5secpUyx9sDD8nB1OPg) | 3:48 |
 | 59 | [Solo Conmigo](https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:14 |
 
-Snapshot ID: `aDhs0QAAAAABbZ6WFI0lMaoORW+A01PK`
+Snapshot ID: `AAAAAJRxXnkJt6atvzdKNGwy6tS7sqQQ`

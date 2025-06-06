@@ -1,31 +1,51 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Juliette Armanet",
-  "num_followers": 181400,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo: Vendredi sur Mer",
+  "num_followers": 181412,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDjY9gAAAADyOShGaBGXC8wHmdgK+DEh",
+  "snapshot_id": "aEITgQAAAAAGcX9ODccN4OThlNGGA21X",
   "tracks": [
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
-        "name": "Partir un jour",
-        "url": "https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf"
+        "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
+        "url": "https://open.spotify.com/album/0JWZ6ljnQBw5l4GTAeoBq7"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 212240,
-      "name": "Partir un jour",
-      "url": "https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU"
+      "duration_ms": 169893,
+      "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
+      "url": "https://open.spotify.com/track/33574meZfftZQlc8ZPBrtk"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "J'ai tent\u00e9 mais",
+        "url": "https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL"
+      },
+      "artists": [
+        {
+          "name": "Bonneville",
+          "url": "https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V"
+        }
+      ],
+      "duration_ms": 184996,
+      "name": "J'ai tent\u00e9 mais",
+      "url": "https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Juste avant de tomber",
         "url": "https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ"
@@ -41,23 +61,55 @@
       "url": "https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
-        "name": "Manteau chagrin",
-        "url": "https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY"
+        "name": "La musique \u00e0 fond",
+        "url": "https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo"
       },
       "artists": [
         {
-          "name": "Coline Rio",
-          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Manteau chagrin",
-      "url": "https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR"
+      "duration_ms": 206906,
+      "name": "La musique \u00e0 fond",
+      "url": "https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "La fresque",
+        "url": "https://open.spotify.com/album/2k52LVvL6DAD2I10T4bWcK"
+      },
+      "artists": [
+        {
+          "name": "Vincent Delerm",
+          "url": "https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "D'autres vies que la tienne",
+      "url": "https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Partir un jour",
+        "url": "https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Partir un jour",
+      "url": "https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "\u00c0 quoi tu penses ?",
         "url": "https://open.spotify.com/album/4OBljJluufDECpKXqDs27P"
@@ -81,23 +133,71 @@
       "url": "https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
-        "name": "Si on sombre ce sera beau",
-        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
+        "name": "\u00e0 l'autre bout du tel",
+        "url": "https://open.spotify.com/album/0Lg0PUYJtcHY2YQdpPyOum"
       },
       "artists": [
         {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+          "name": "Alex Montembault",
+          "url": "https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a"
         }
       ],
-      "duration_ms": 174986,
-      "name": "Les ogres",
-      "url": "https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV"
+      "duration_ms": 213666,
+      "name": "\u00e0 l'autre bout du tel",
+      "url": "https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "LA NUIT (La Venue de l\u2019avenir - musique originale)",
+        "url": "https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "LA NUIT",
+      "url": "https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "dans la lucarne",
+        "url": "https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "duration_ms": 143653,
+      "name": "dans la lucarne",
+      "url": "https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Manteau chagrin",
+        "url": "https://open.spotify.com/album/70Gb0hozJ6iIx6gOZxxchY"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Manteau chagrin",
+      "url": "https://open.spotify.com/track/5QLlufXqdXZEcvrAmtqFvR"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Dispara\u00eetre (Version piano)",
         "url": "https://open.spotify.com/album/23dB4MqyzNPISBwC7MVsO6"
@@ -117,7 +217,23 @@
       "url": "https://open.spotify.com/track/0oLPNB6Aw1WapxGdtxWUXu"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Si on sombre ce sera beau",
+        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "Les ogres",
+      "url": "https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Le vert et le bleu",
         "url": "https://open.spotify.com/album/3KC3oY8ptXntPvoy52MR78"
@@ -133,23 +249,7 @@
       "url": "https://open.spotify.com/track/6EaZgo6RRRl16qYqASvwUP"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "Est-ce que quelqu'un m'entend ?",
-        "url": "https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5"
-      },
-      "artists": [
-        {
-          "name": "Kaky",
-          "url": "https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Ex \u00e6quo",
         "url": "https://open.spotify.com/album/577bgbkPYgJf71s0AeOdim"
@@ -165,7 +265,7 @@
       "url": "https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Instant",
         "url": "https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7"
@@ -181,7 +281,23 @@
       "url": "https://open.spotify.com/track/25o0EUIimN9sL43v63diz3"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Est-ce que quelqu'un m'entend ?",
+        "url": "https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5"
+      },
+      "artists": [
+        {
+          "name": "Kaky",
+          "url": "https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Le Cabaret des Pleurs",
         "url": "https://open.spotify.com/album/0k6GwHDCtvQwqWucVnBwiZ"
@@ -197,7 +313,7 @@
       "url": "https://open.spotify.com/track/3FcFUaNTx17En4eVR7ygvB"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "J'ai grandi",
         "url": "https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl"
@@ -213,155 +329,7 @@
       "url": "https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "dans la lucarne",
-        "url": "https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11"
-      },
-      "artists": [
-        {
-          "name": "The Doug",
-          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
-        }
-      ],
-      "duration_ms": 143653,
-      "name": "dans la lucarne",
-      "url": "https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "La musique \u00e0 fond",
-        "url": "https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 206906,
-      "name": "La musique \u00e0 fond",
-      "url": "https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "J'ai tent\u00e9 mais",
-        "url": "https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL"
-      },
-      "artists": [
-        {
-          "name": "Bonneville",
-          "url": "https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V"
-        }
-      ],
-      "duration_ms": 184996,
-      "name": "J'ai tent\u00e9 mais",
-      "url": "https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "Mademoiselle",
-        "url": "https://open.spotify.com/album/61BqSXBuEQk3IZf91dAAUG"
-      },
-      "artists": [
-        {
-          "name": "Lili Em",
-          "url": "https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk"
-        }
-      ],
-      "duration_ms": 151420,
-      "name": "Mademoiselle",
-      "url": "https://open.spotify.com/track/3XCEplEEtCzUyT2t09h4Ec"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "L'inconnu en personne",
-        "url": "https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O"
-      },
-      "artists": [
-        {
-          "name": "Bertrand Belin",
-          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "L'inconnu en personne - Radio Edit",
-      "url": "https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
-        "url": "https://open.spotify.com/album/0JWZ6ljnQBw5l4GTAeoBq7"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
-      "url": "https://open.spotify.com/track/33574meZfftZQlc8ZPBrtk"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "L'Oc\u00e9an des Amoureux",
-      "url": "https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "LA NUIT (La Venue de l\u2019avenir - musique originale)",
-        "url": "https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "LA NUIT",
-      "url": "https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "30 ans",
-        "url": "https://open.spotify.com/album/5WmLXhrqUxqE66lP65lUgh"
-      },
-      "artists": [
-        {
-          "name": "SAVANAH",
-          "url": "https://open.spotify.com/artist/6aUqiHjCzli8kjq6vb2VdD"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "30 ans",
-      "url": "https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Famille",
         "url": "https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV"
@@ -377,7 +345,55 @@
       "url": "https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Mademoiselle",
+        "url": "https://open.spotify.com/album/61BqSXBuEQk3IZf91dAAUG"
+      },
+      "artists": [
+        {
+          "name": "Lili Em",
+          "url": "https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk"
+        }
+      ],
+      "duration_ms": 151420,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/3XCEplEEtCzUyT2t09h4Ec"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "30 ans",
+        "url": "https://open.spotify.com/album/5WmLXhrqUxqE66lP65lUgh"
+      },
+      "artists": [
+        {
+          "name": "SAVANAH",
+          "url": "https://open.spotify.com/artist/6aUqiHjCzli8kjq6vb2VdD"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "30 ans",
+      "url": "https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "L'inconnu en personne",
+        "url": "https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "L'inconnu en personne - Radio Edit",
+      "url": "https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Saisons",
         "url": "https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Si beau",
         "url": "https://open.spotify.com/album/0BODdkgwRorbheFUCiFJSz"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/0CVnlbUnDN61gX1NkCxwtM"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "R\u00eaveur, R\u00eaveur",
         "url": "https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB"
@@ -425,27 +441,7 @@
       "url": "https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "PEAU NEUVE (\u00c9dition Deluxe)",
-        "url": "https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny"
-      },
-      "artists": [
-        {
-          "name": "NACH",
-          "url": "https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0"
-        },
-        {
-          "name": "Youssoupha",
-          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
-        }
-      ],
-      "duration_ms": 200924,
-      "name": "CE QU'ILS DEVIENNENT",
-      "url": "https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Les ratures",
         "url": "https://open.spotify.com/album/5n4FmzmHvPzvilS26pNZJr"
@@ -461,7 +457,7 @@
       "url": "https://open.spotify.com/track/3HSSGaHoHkJK4wXxr0bdQq"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9"
@@ -477,7 +473,7 @@
       "url": "https://open.spotify.com/track/0MMXPraylvfvemFGDINgag"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "De ton vivant",
         "url": "https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ"
@@ -493,7 +489,7 @@
       "url": "https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Le rivage",
         "url": "https://open.spotify.com/album/1edaYiBOVXqs0WFwTNGLO9"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/0NAAqdRd9ZJhFCk6fm4IXF"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "La sublime solitude",
         "url": "https://open.spotify.com/album/7relapF4f8EZZISJH5IkQG"
@@ -529,7 +525,7 @@
       "url": "https://open.spotify.com/track/2j7W51fI2zpTfOkAigFJTX"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Toi l\u00e0-bas",
         "url": "https://open.spotify.com/album/5nqbZQ4EKOdNoRILDLBGg8"
@@ -549,7 +545,7 @@
       "url": "https://open.spotify.com/track/5vTsiAJh3AaPQRFM3mP4qu"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "l'art de n'\u00eatre pas",
         "url": "https://open.spotify.com/album/2OT9zY5adHDyXCBfY0XOjp"
@@ -565,7 +561,7 @@
       "url": "https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Syracuse",
         "url": "https://open.spotify.com/album/4c0WzbUK3R4b1CeAsErd2M"
@@ -581,7 +577,7 @@
       "url": "https://open.spotify.com/track/4a9SKqxRA9geKc5YoPnAf9"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Adieu Paris",
         "url": "https://open.spotify.com/album/1Bt7ky5PJL4SnMEtjmmXdT"
@@ -597,7 +593,7 @@
       "url": "https://open.spotify.com/track/32LDvHPd4N3gMoDMqUNWZy"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Le spleen d'une vie sublime",
         "url": "https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Ex \u00e6quo",
         "url": "https://open.spotify.com/album/465QdjgM6b3VJQo8CgGfPz"
@@ -629,7 +625,7 @@
       "url": "https://open.spotify.com/track/1APeKWbOHLEygigClkqJn3"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Les astres",
         "url": "https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg"
@@ -645,7 +641,7 @@
       "url": "https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "prot\u00e9g\u00e9.e",
         "url": "https://open.spotify.com/album/2Ln0FleqHp6UcFW0o2EY0q"
@@ -661,7 +657,7 @@
       "url": "https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Flou",
         "url": "https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro"
@@ -677,7 +673,7 @@
       "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Jeanne",
         "url": "https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Grand piano",
         "url": "https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/3PuQhT22z1XrSwdmGankTn"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "l\u2019exil et l\u2019asile",
         "url": "https://open.spotify.com/album/0nLD6Pp5C2F8lfdiPV2k6U"
@@ -725,71 +721,7 @@
       "url": "https://open.spotify.com/track/3LBn8ucmgGyPe5se5y2UB1"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "\u00c2ge Fleuve",
-        "url": "https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
-          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Le fil",
-      "url": "https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "Si on sombre ce sera beau",
-        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
-      },
-      "artists": [
-        {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "L'oiseau",
-      "url": "https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "tu m'as dit que tu m'aimais",
-        "url": "https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc"
-      },
-      "artists": [
-        {
-          "name": "jenna",
-          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "tu m'as dit que tu m'aimais",
-      "url": "https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
-      "album": {
-        "name": "Pour te plaire",
-        "url": "https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne Sio",
-          "url": "https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO"
-        }
-      ],
-      "duration_ms": 184229,
-      "name": "Pour te plaire",
-      "url": "https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1"
-    },
-    {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "No Big Deal",
         "url": "https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU"
@@ -805,7 +737,71 @@
       "url": "https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "\u00c2ge Fleuve",
+        "url": "https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Le fil",
+      "url": "https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Si on sombre ce sera beau",
+        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "L'oiseau",
+      "url": "https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "tu m'as dit que tu m'aimais",
+        "url": "https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc"
+      },
+      "artists": [
+        {
+          "name": "jenna",
+          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "tu m'as dit que tu m'aimais",
+      "url": "https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
+      "album": {
+        "name": "Pour te plaire",
+        "url": "https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Sio",
+          "url": "https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO"
+        }
+      ],
+      "duration_ms": 184229,
+      "name": "Pour te plaire",
+      "url": "https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1"
+    },
+    {
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Tout sera pardonn\u00e9",
         "url": "https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
     },
     {
-      "added_at": "2025-05-29 22:00:22",
+      "added_at": "2025-06-05 22:00:33",
       "album": {
         "name": "Plastique",
         "url": "https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r"

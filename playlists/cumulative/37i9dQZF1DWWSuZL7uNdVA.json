@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Green Day au top des meilleurs morceaux rock du moment.",
+  "description": "Sleep Token au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+        "url": "https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        },
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+      "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
+    },
+    {
+      "album": {
         "name": "MoonEater",
         "url": "https://open.spotify.com/album/77lFAgPHlv1lzlgVpUevVK"
       },
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 215153,
       "name": "DIORAMA Remix - Radio Edit",
       "url": "https://open.spotify.com/track/5QQx1DgPTPBLA9aDxX6qui"
@@ -2229,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233188,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb"
+    },
+    {
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -2306,7 +2346,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 176066,
       "name": "Hell You Call A Dream",
       "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
@@ -4739,6 +4779,28 @@
     },
     {
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166432,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
+    },
+    {
+      "album": {
         "name": "Rosie",
         "url": "https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD"
       },
@@ -6696,7 +6758,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"

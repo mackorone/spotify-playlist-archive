@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 136235,
+  "num_followers": 136267,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABHsEaWdZwIeFc6/nvCmd6O",
+  "snapshot_id": "aD+MgAAAAAAfe6BYZG8QmgizpMRAqwcM",
   "tracks": [
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 288657,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": null,
@@ -591,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
       "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 288657,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
     },
     {
       "added_at": null,

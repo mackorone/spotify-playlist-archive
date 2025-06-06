@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 164142,
+  "num_followers": 164140,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADUbQ1AIGyePhtJEBKjXQlx",
+  "snapshot_id": "aD+MgAAAAADOLfwqVXPDEDgXtvJ4SnzW",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
+        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
       },
       "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 144324,
-      "name": "P.B.S.",
-      "url": "https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d"
+      "duration_ms": 192862,
+      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
+      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
-        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 192862,
-      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
-      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
+      "duration_ms": 144324,
+      "name": "P.B.S.",
+      "url": "https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d"
     },
     {
       "added_at": null,

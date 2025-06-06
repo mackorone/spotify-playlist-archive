@@ -1299,6 +1299,32 @@
     },
     {
       "album": {
+        "name": "FYI (For Your Information)",
+        "url": "https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174729,
+      "name": "Banda Bamb",
+      "url": "https://open.spotify.com/track/4VzONhg2UBxyzcmOi1NFHJ"
+    },
+    {
+      "album": {
         "name": "Bandook",
         "url": "https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO"
       },
@@ -4366,7 +4392,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 126000,
       "name": "Galbat Boldi",
       "url": "https://open.spotify.com/track/6EcksI7ouzPgreQRnP2IN2"
@@ -7148,7 +7174,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 153070,
       "name": "Koka",
       "url": "https://open.spotify.com/track/0iFoyA9BBZezZJ1Sif6exG"
@@ -13616,6 +13642,24 @@
       "duration_ms": 161739,
       "name": "Whose Like Me?",
       "url": "https://open.spotify.com/track/5lll5binzbUZayl3Mejxah"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/5A1pNBVIsVCFTFtSSaX3cC"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176663,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/72JiXf0Y6uEr7YXzfLBGmD"
     },
     {
       "album": {

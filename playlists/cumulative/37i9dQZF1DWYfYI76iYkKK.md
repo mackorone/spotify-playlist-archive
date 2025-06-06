@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-520 songs - 1 day 10 hr 11 min
+521 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [你眼中](https://open.spotify.com/track/6ofDUkmtLvXt7V8c9T3don) | [Tamu](https://open.spotify.com/artist/3xIjuOns8fFFrtMu1uUA4k) | [你眼中](https://open.spotify.com/album/2vlt7uM67kyiqBFnmnPIMi) | 2:45 | 2022-06-10 | 2022-06-14 |
 | [你睡了之後 \(The Way I Miss You\)](https://open.spotify.com/track/7lXB4LaB1PlxvuWZqHn87u) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [你睡了之後 \(The Way I Miss You\)](https://open.spotify.com/album/5iQnFeX0mp0sBrJleZprYj) | 4:10 | 2023-04-06 | 2023-05-24 |
 | [你給的天空](https://open.spotify.com/track/2nWe3ZSbaCHmposW3T8EoX) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [MORE胡夏](https://open.spotify.com/album/6Oj2SNfLcEJ36Yzullx5g5) | 4:48 | 2023-02-23 | 2023-03-10 |
-| [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 | 2022-06-02 |  |
+| [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 | 2022-06-02 | 2025-06-06 |
 | [你記得嗎](https://open.spotify.com/track/1cwxDaya6pbEyLN4VYmrKJ) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [回憶如歌](https://open.spotify.com/album/3JmCRfInp95OYw7bW9Ptlr) | 5:16 | 2022-06-10 | 2022-06-15 |
 | [來日不方長](https://open.spotify.com/track/0cor9VJMzRZQmyQbV9INpK) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [來日不方長](https://open.spotify.com/album/53pEl1amSqUzSV7ViWqi9Y) | 4:16 | 2022-06-27 | 2022-06-30 |
 | [信號無法傳送](https://open.spotify.com/track/59C3h8Zpceu3o5wGZ2Ho81) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [信號無法傳送](https://open.spotify.com/album/0jfSHGXLsMPx4jRV33iAdC) | 3:26 | 2023-04-20 | 2023-04-28 |
@@ -420,6 +420,7 @@
 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 | 2023-05-11 | 2024-04-19 |
 | [第一個清晨](https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF) | 4:46 | 2022-07-28 | 2023-04-30 |
 | [第一個清晨](https://open.spotify.com/track/7G4inajDPplF7oT27awRq5) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/2AxYgFIFbtVfCOnlPPnpPJ) | 4:46 | 2022-06-02 | 2022-07-29 |
+| [等一个不可能的人](https://open.spotify.com/track/0Cuti5wlL2mds6jjOKDnyR) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [等一个不可能的人](https://open.spotify.com/album/5esaBY09iqSMVZjSILSG5x) | 3:04 | 2025-06-05 |  |
 | [等不到的擁抱](https://open.spotify.com/track/3VnmRt70qMfzTC98bmik1i) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [等不到的擁抱](https://open.spotify.com/album/3SHplJwkKBJGnI2RYeleyz) | 4:02 | 2023-09-07 | 2023-09-22 |
 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 | 2024-03-28 |  |
 | [算了不追](https://open.spotify.com/track/04jfV5sjEeI0OLiHiogy7o) | [Yinson Lee](https://open.spotify.com/artist/2JPCNCkjhkJzy4Dm2yR2L5) | [算了不追](https://open.spotify.com/album/4svajXCISRKKrndwSLJ2eQ) | 3:57 | 2023-12-21 | 2023-12-31 |

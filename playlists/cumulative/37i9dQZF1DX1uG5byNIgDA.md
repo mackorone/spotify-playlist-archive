@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-440 songs - 23 hr 59 min
+441 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,13 +135,14 @@
 | [Flow and Flow](https://open.spotify.com/track/0xtFlh7zuV3MwwBVoiQuSf) | [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [To You, We Flow](https://open.spotify.com/album/2s5izSOE9U3Af3cCyM2EOJ) | 3:11 | 2022-03-08 | 2022-04-21 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2024-03-27 | 2024-04-19 |
 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-03-27 |  |
+| [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 | 2025-05-30 |  |
 | [For Some Reason 왠지 그냥](https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY) | [DANWU](https://open.spotify.com/artist/3hqxXifdUAzAQIKdKqda6t), [KIMEUNJI 김은지](https://open.spotify.com/artist/04gKJbZ1iABO8Azq4C9aAt) | [For Some Reason 왠지 그냥](https://open.spotify.com/album/1zlxiFx9csY1rp7of7RIiV) | 3:58 | 2022-03-23 | 2022-03-31 |
 | [For You](https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For You](https://open.spotify.com/album/2eR6McDzZsDA7K7DWibT6k) | 4:04 | 2022-03-23 | 2022-05-28 |
 | [Free](https://open.spotify.com/track/44QDTpkTR3eLLfXEKTjyul) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Twenty\-Five Twenty\-One OST Part 8](https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl) | 3:46 | 2022-03-23 | 2022-07-13 |
 | [Friend](https://open.spotify.com/track/5Ok0AYLymugVEB200ioKFN) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Friend](https://open.spotify.com/album/3VhPvsUFEkpIZYKD9PZMvD) | 3:39 | 2022-03-23 | 2022-04-18 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2021-12-06 | 2023-04-27 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2024-03-28 |
-| [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2024-03-27 |  |
+| [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2024-03-27 | 2025-06-06 |
 | [Get Cool](https://open.spotify.com/track/2Q0IIf62kXoAo24LX70iyb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am YOU](https://open.spotify.com/album/40Pa1bnWFp4I48tuoal1mS) | 3:14 | 2022-03-23 | 2022-04-16 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-03 | 2022-07-24 |
 | [Giddy](https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX) | 3:04 | 2023-04-26 | 2023-07-29 |

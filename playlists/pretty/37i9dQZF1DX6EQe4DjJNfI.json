@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
-  "num_followers": 178477,
+  "num_followers": 178489,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -62,10 +62,14 @@
         {
           "name": "Liniker",
           "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
       "duration_ms": 341376,
-      "name": "Harem",
+      "name": "Har\u00e9m",
       "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
     },
     {
@@ -443,6 +447,26 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -463,22 +487,18 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
         }
       ],
-      "duration_ms": 166857,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -635,22 +655,6 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -711,30 +715,6 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -755,22 +735,26 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
       "artists": [
         {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -799,6 +783,26 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
         "name": "Vestido Vermelho",
         "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
@@ -811,26 +815,6 @@
       "duration_ms": 170588,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
-        "name": "Blusa da High",
-        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 160338,
-      "name": "Blusa da High",
-      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -851,6 +835,26 @@
       "duration_ms": 147007,
       "name": "Nossa M\u00fasica",
       "url": "https://open.spotify.com/track/4vJJqJ9psCW7CKCJSEqrtL"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -903,22 +907,6 @@
       "duration_ms": 173705,
       "name": "t\u00f4 por voc\u00ea",
       "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -1011,6 +999,22 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
         "name": "Lambuza",
         "url": "https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk"
       },
@@ -1027,22 +1031,6 @@
       "duration_ms": 172826,
       "name": "Lambuza",
       "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -1091,6 +1079,22 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1127,6 +1131,22 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
         "name": "Me Diz Que C\u00ea Sente",
         "url": "https://open.spotify.com/album/2PI5jCE7LGXJVY2Z6WEpLr"
       },
@@ -1147,18 +1167,18 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
       "artists": [
         {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -1175,22 +1195,6 @@
       "duration_ms": 179498,
       "name": "Assome",
       "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2025-05-30 14:03:19",
@@ -1243,22 +1247,6 @@
     {
       "added_at": "2025-05-30 14:03:19",
       "album": {
-        "name": "Louco inconsequente",
-        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
-      },
-      "artists": [
-        {
-          "name": "Kid Lovi",
-          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
-        }
-      ],
-      "duration_ms": 198728,
-      "name": "Louco inconsequente",
-      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
-    },
-    {
-      "added_at": "2025-05-30 14:03:19",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1275,6 +1263,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2025-05-30 14:03:19",
+      "album": {
+        "name": "Louco inconsequente",
+        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
+      },
+      "artists": [
+        {
+          "name": "Kid Lovi",
+          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
+        }
+      ],
+      "duration_ms": 198728,
+      "name": "Louco inconsequente",
+      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
     },
     {
       "added_at": "2025-05-30 14:03:19",

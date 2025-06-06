@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABGOgh97R/+x+bAf93wks2X",
+  "snapshot_id": "aD+MgAAAAAATfmE6ygSiK4qvU6kFZrCL",
   "tracks": [
     {
       "added_at": null,
@@ -359,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bumbum de Ouro",
-        "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
+        "name": "Deve ser horr\u00edvel dormir sem mim",
+        "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
       },
       "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 167234,
-      "name": "Bumbum de Ouro",
-      "url": "https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l"
+      "duration_ms": 155052,
+      "name": "Deve ser horr\u00edvel dormir sem mim",
+      "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deve ser horr\u00edvel dormir sem mim",
-        "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
+        "name": "Bumbum de Ouro",
+        "url": "https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl"
       },
       "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 155052,
-      "name": "Deve ser horr\u00edvel dormir sem mim",
-      "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
+      "duration_ms": 167234,
+      "name": "Bumbum de Ouro",
+      "url": "https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l"
     },
     {
       "added_at": null,

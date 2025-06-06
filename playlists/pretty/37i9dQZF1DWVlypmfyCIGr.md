@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: goethe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,558 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,566 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [透命人間](https://open.spotify.com/track/1ZdepFhuYdULEZ2tdqimSI) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [空に薫るは夏の影](https://open.spotify.com/album/7DteTfDskuY1BpKBLhffFU) | 4:36 |
 | 80 | [終点](https://open.spotify.com/track/2LdV1xcOX91f01eHVjv06F) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [immersive](https://open.spotify.com/album/5ooidsx91uQvHem7lR5TSa) | 3:32 |
 
-Snapshot ID: `aD4V3AAAAABGZEY5bWkCjBwzEdfYTHp1`
+Snapshot ID: `aD4V3AAAAABA/7NTY2nvZrNz0qMe0VWh`

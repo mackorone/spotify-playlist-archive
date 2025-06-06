@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Cầm
 
-2,446 songs - 5 day 15 hr 7 min
+2,447 songs - 5 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-09-07 | 2023-01-05 |
 | [CEO](https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [CEO](https://open.spotify.com/album/3LJnIGIiyotvZIEmcEUznd) | 2:50 | 2021-12-11 | 2022-01-06 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-10-04 | 2022-11-03 |
+| [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-06-05 |  |
 | [Chanel No.5](https://open.spotify.com/track/5U1dGHnSbt9VaidRSaD46M) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:40 | 2024-07-03 | 2024-08-08 |
 | [Changer](https://open.spotify.com/track/5reuS90U6IugxXu6kmZNI0) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Changer](https://open.spotify.com/album/5NnTyMnwFkYpkr0AwaCkgd) | 3:09 | 2023-07-05 | 2023-08-03 |
 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 | 2025-02-05 | 2025-03-06 |
@@ -655,7 +656,7 @@
 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 | 2022-06-01 | 2023-01-04 |
 | [Fake Happy](https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Fake Happy](https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv) | 2:50 | 2024-04-17 | 2024-05-03 |
 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 | 2022-11-02 | 2022-12-01 |
-| [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 | 2025-06-04 |  |
+| [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 | 2025-06-04 | 2025-06-06 |
 | [false gold](https://open.spotify.com/track/026wFwWe0DnvTvUAiVtiwL) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [false gold](https://open.spotify.com/album/6IReN9wvy1EKmJIETCBI9Z) | 2:54 | 2024-12-04 | 2025-01-09 |
 | [FAME \(feat\. Laila Al Habash\)](https://open.spotify.com/track/0jNiQhRIRxu6IGapnsQkY4) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:43 | 2022-11-02 | 2022-12-01 |
 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 | 2025-06-04 |  |

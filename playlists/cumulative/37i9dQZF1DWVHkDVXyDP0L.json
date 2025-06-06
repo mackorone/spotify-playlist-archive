@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: The Grogans",
+  "description": "New and local indie noise. Cover: Ocean Alley",
   "name": "Local Noise",
   "tracks": [
     {
@@ -2697,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Eraser",
+        "url": "https://open.spotify.com/album/0Hr8jd6uuVCIBrg2ELr26t"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221453,
+      "name": "Eraser",
+      "url": "https://open.spotify.com/track/7ud1N26eohYYXiJ1P3lwOw"
+    },
+    {
+      "album": {
         "name": "Everybody's Listening to the Radio Now",
         "url": "https://open.spotify.com/album/6s6wa0VYsAWKXIsbmADS7R"
       },
@@ -3111,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "Floor Bed",
+        "url": "https://open.spotify.com/album/6LgTv7ySjL9Nb4OEY92zrY"
+      },
+      "artists": [
+        {
+          "name": "Hevenshe",
+          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "Floor Bed",
+      "url": "https://open.spotify.com/track/71WFVHWTNNapuYFUVTJeiF"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/1Oes0lFU9ZPC2mxmRtWna5"
       },
@@ -3468,7 +3504,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 286562,
       "name": "Glory",
       "url": "https://open.spotify.com/track/2h03aCUR0z5fKu5a26NGSt"
@@ -3540,7 +3576,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 308424,
       "name": "Grow Wings and Fly",
       "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
@@ -3850,7 +3886,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 214906,
       "name": "High Beaming",
       "url": "https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH"
@@ -4016,6 +4052,24 @@
       "duration_ms": 177709,
       "name": "HOPELESS",
       "url": "https://open.spotify.com/track/1kvrh0fvOZUZMbjJs3d1Sc"
+    },
+    {
+      "album": {
+        "name": "I'm Doing Better",
+        "url": "https://open.spotify.com/album/1tRnkZWP6FgV3afJ92Z1Kq"
+      },
+      "artists": [
+        {
+          "name": "Bakers Eddy",
+          "url": "https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167453,
+      "name": "Hopeless Dreams",
+      "url": "https://open.spotify.com/track/55hygSCEQOqFGzLQhdmWHy"
     },
     {
       "album": {
@@ -4322,7 +4376,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 204661,
       "name": "IDENTITY",
       "url": "https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV"
@@ -4542,7 +4596,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 178808,
       "name": "It Starts With Me",
       "url": "https://open.spotify.com/track/6POWVuBWc1KtVh7QINPxpC"
@@ -5090,7 +5144,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 295000,
       "name": "Loline",
       "url": "https://open.spotify.com/track/0oo9cY4TGyFZ06mp4PmYhv"
@@ -5184,6 +5238,24 @@
       "duration_ms": 221420,
       "name": "Losers",
       "url": "https://open.spotify.com/track/4PQedJRYOJzawA0haqr2s9"
+    },
+    {
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "album": {
@@ -6326,7 +6398,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 200744,
       "name": "Once Is Never Enough",
       "url": "https://open.spotify.com/track/2aaSEkicYPxHnqNLp8Vtqs"
@@ -6456,6 +6528,24 @@
       "duration_ms": 194655,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6i8P50UOoDmguIsdZahtxh"
+    },
+    {
+      "album": {
+        "name": "Other Kid",
+        "url": "https://open.spotify.com/album/5nqOM82hcnnkHiaZGQ1vrA"
+      },
+      "artists": [
+        {
+          "name": "Sophisticated Dingo",
+          "url": "https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191399,
+      "name": "Other Kid",
+      "url": "https://open.spotify.com/track/1W3Wa4fUmOhR6pOu84L336"
     },
     {
       "album": {
@@ -7007,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "FOLLY",
+        "url": "https://open.spotify.com/album/0PbKKkGDzod0JqT6eiSgeU"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202798,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1ICe9DzlVvIhTqqqztrLeg"
+    },
+    {
+      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
       },
@@ -7547,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "Scorching Heat",
+        "url": "https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT"
+      },
+      "artists": [
+        {
+          "name": "Radium Dolls",
+          "url": "https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194794,
+      "name": "Scorching Heat",
+      "url": "https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78"
+    },
+    {
+      "album": {
         "name": "Towards the Sun",
         "url": "https://open.spotify.com/album/3F3rp5JZyHObOhgEyN2Uqx"
       },
@@ -7868,6 +7994,24 @@
       "duration_ms": 218826,
       "name": "Sick Kinda WRLD",
       "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/1ziwuQmPWtV2S7THwpKM6P"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3GsST4fMqsmm8BUzf5sHBa"
     },
     {
       "album": {
@@ -9990,7 +10134,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 171510,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/42VYIMcfBrckPkv0kcLdzB"

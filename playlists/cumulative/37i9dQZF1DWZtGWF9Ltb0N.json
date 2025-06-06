@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Centrifuge",
+        "url": "https://open.spotify.com/album/6lWKZZAZjDGkaDfHlxIVgM"
+      },
+      "artists": [
+        {
+          "name": "Badklaat",
+          "url": "https://open.spotify.com/artist/4AgEF49juDBIfJUoPCPncc"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Centrifuge",
+      "url": "https://open.spotify.com/track/2gXk1Fna5Ics2Y8pzEr5bA"
+    },
+    {
+      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL"
       },
@@ -6336,7 +6354,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq"
@@ -6980,7 +6998,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 281146,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X"
@@ -7498,7 +7516,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180000,
       "name": "Leveled",
       "url": "https://open.spotify.com/track/1aHrv7NGtlW7wU1dhXmwuq"

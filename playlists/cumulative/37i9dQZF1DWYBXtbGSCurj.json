@@ -5765,36 +5765,6 @@
     },
     {
       "album": {
-        "name": "C.A.P",
-        "url": "https://open.spotify.com/album/7i1pXTIsrmSdHu76xv51R3"
-      },
-      "artists": [
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "date_added": "2025-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140979,
-      "name": "C.A.P",
-      "url": "https://open.spotify.com/track/5aF4QGX9180Mk8JKEnmIhT"
-    },
-    {
-      "album": {
         "name": "BOLA + 1 BECK",
         "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
       },
@@ -5822,6 +5792,40 @@
       "duration_ms": 140979,
       "name": "C.A.P",
       "url": "https://open.spotify.com/track/6848Jh2cFXvILaNmoaezOG"
+    },
+    {
+      "album": {
+        "name": "C.A.P",
+        "url": "https://open.spotify.com/album/7i1pXTIsrmSdHu76xv51R3"
+      },
+      "artists": [
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140979,
+      "name": "C.A.P",
+      "url": "https://open.spotify.com/track/5aF4QGX9180Mk8JKEnmIhT"
     },
     {
       "album": {
@@ -17164,6 +17168,14 @@
         {
           "name": "Papatinho",
           "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
         }
       ],
       "date_added": "2025-04-11",

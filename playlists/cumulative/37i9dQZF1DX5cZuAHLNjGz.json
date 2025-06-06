@@ -2203,6 +2203,28 @@
     },
     {
       "album": {
+        "name": "College",
+        "url": "https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "College",
+      "url": "https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX"
+    },
+    {
+      "album": {
         "name": "Step Up",
         "url": "https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO"
       },
@@ -3414,6 +3436,32 @@
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
+    },
+    {
+      "album": {
+        "name": "Garroor",
+        "url": "https://open.spotify.com/album/5rNhK6BDL6I07hLszzijSa"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Kavy Riyyaaz",
+          "url": "https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7"
+        },
+        {
+          "name": "Diamond",
+          "url": "https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167995,
+      "name": "Garroor",
+      "url": "https://open.spotify.com/track/0rR7f4QGCEURzJpm8NwJuT"
     },
     {
       "album": {
@@ -4732,7 +4780,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 174986,
       "name": "JOURNEY",
       "url": "https://open.spotify.com/track/1SYgmpUc80vRIXbxEzVLBi"
@@ -8482,7 +8530,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180006,
       "name": "Smooth (From \"Badnaam\")",
       "url": "https://open.spotify.com/track/6P1t6KqIpTyDRc5ZxsLDn1"

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Senndy, Alee",
-  "num_followers": 147045,
+  "num_followers": 147050,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,30 @@
     {
       "added_at": "2025-05-30 14:20:01",
       "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "PIR\u00c2MIDE",
+      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    },
+    {
+      "added_at": "2025-05-30 14:20:01",
+      "album": {
         "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
         "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 124651,
       "name": "GLOCK DE COR",
       "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
-        "name": "CHTC?",
-        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
-      },
-      "artists": [
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "PIR\u00c2MIDE",
-      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
     },
     {
       "added_at": "2025-05-30 14:20:01",
@@ -503,34 +503,6 @@
     {
       "added_at": "2025-05-30 14:20:01",
       "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Lado Negro",
-      "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -555,6 +527,34 @@
       "duration_ms": 160000,
       "name": "OURO BRANCO",
       "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+    },
+    {
+      "added_at": "2025-05-30 14:20:01",
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Lado Negro",
+      "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
     },
     {
       "added_at": "2025-05-30 14:20:01",
@@ -623,6 +623,34 @@
     {
       "added_at": "2025-05-30 14:20:01",
       "album": {
+        "name": "IAMBINHU",
+        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Academia de Jugg",
+      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
+    },
+    {
+      "added_at": "2025-05-30 14:20:01",
+      "album": {
         "name": "Pool Party - Viv\u00eancias",
         "url": "https://open.spotify.com/album/56nX0RDYQFsBxNBmqeY7rY"
       },
@@ -651,34 +679,6 @@
       "duration_ms": 172768,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/1y0Rdm4A2E0F8rgMv3GsZd"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
-        "name": "IAMBINHU",
-        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Correia",
-          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Academia de Jugg",
-      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
     },
     {
       "added_at": "2025-05-30 14:20:01",
@@ -755,38 +755,6 @@
     {
       "added_at": "2025-05-30 14:20:01",
       "album": {
-        "name": "QMPND",
-        "url": "https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L"
-      },
-      "artists": [
-        {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
-        },
-        {
-          "name": "BLOCKKSTAR",
-          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
-        },
-        {
-          "name": "Guap508",
-          "url": "https://open.spotify.com/artist/5RLGW3TPNQOI6EVqRZ7Etc"
-        },
-        {
-          "name": "Drummond",
-          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
-        },
-        {
-          "name": "KaxiN",
-          "url": "https://open.spotify.com/artist/6u6trUdDH4u1xDrMHOW91e"
-        }
-      ],
-      "duration_ms": 160004,
-      "name": "Esse Cara Sou Eu",
-      "url": "https://open.spotify.com/track/1ZT7EVs6OJxUlcGCL3mFM2"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 170322,
       "name": "Na Minha Blunt",
       "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2025-05-30 14:20:01",
+      "album": {
+        "name": "QMPND",
+        "url": "https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        },
+        {
+          "name": "Guap508",
+          "url": "https://open.spotify.com/artist/5RLGW3TPNQOI6EVqRZ7Etc"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        },
+        {
+          "name": "KaxiN",
+          "url": "https://open.spotify.com/artist/6u6trUdDH4u1xDrMHOW91e"
+        }
+      ],
+      "duration_ms": 160004,
+      "name": "Esse Cara Sou Eu",
+      "url": "https://open.spotify.com/track/1ZT7EVs6OJxUlcGCL3mFM2"
     },
     {
       "added_at": "2025-05-30 14:20:01",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-05-30 14:20:01",
       "album": {
-        "name": "Mate Ou Morra",
-        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Outro Clima",
-      "url": "https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
         "name": "Cashley On The Radar Freestyle",
         "url": "https://open.spotify.com/album/1b3JgmOm7UVVijXTZ1H7WR"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 87338,
       "name": "Cashley On The Radar Freestyle",
       "url": "https://open.spotify.com/track/78yxlhUQ9IngKuAwIoHDXz"
+    },
+    {
+      "added_at": "2025-05-30 14:20:01",
+      "album": {
+        "name": "Mate Ou Morra",
+        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Outro Clima",
+      "url": "https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s"
     },
     {
       "added_at": "2025-05-30 14:20:01",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: pszona",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: bartek turski",
   "name": "up next",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 214363,
       "name": "Ataki Paniki",
       "url": "https://open.spotify.com/track/0MJketFpC5gs4S8JoHKw3p"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 158109,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 232950,
       "name": "Bez",
       "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 181875,
       "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
       "url": "https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl"
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "CHYBA NA ODWR\u00d3T",
+        "url": "https://open.spotify.com/album/2Ju0farwYHqyRsA0boHtXi"
+      },
+      "artists": [
+        {
+          "name": "Hanafi",
+          "url": "https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "CHYBA NA ODWR\u00d3T",
+      "url": "https://open.spotify.com/track/3VznGkVEDvrNr3yljrmqIs"
+    },
+    {
+      "album": {
         "name": "Chyba \u017ce z Tob\u0105",
         "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 147595,
       "name": "ciut za bardzo",
       "url": "https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 153513,
       "name": "Co, je\u015bli?",
       "url": "https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr"
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 136124,
       "name": "comeback!",
       "url": "https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Duch",
       "url": "https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER"
@@ -2289,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Fly Or Burn",
+        "url": "https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128522,
+      "name": "Fly Or Burn",
+      "url": "https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy"
+    },
+    {
+      "album": {
         "name": "fotki",
         "url": "https://open.spotify.com/album/2joFyfzqVnUz8GT3fIH9aN"
       },
@@ -2304,6 +2340,28 @@
       "duration_ms": 172000,
       "name": "fotki",
       "url": "https://open.spotify.com/track/6TA7gJh2nvKnCgIHaxTH2H"
+    },
+    {
+      "album": {
+        "name": "Fotografie",
+        "url": "https://open.spotify.com/album/4Prxn72y9YA75P2T9aQ5CP"
+      },
+      "artists": [
+        {
+          "name": "Daliva",
+          "url": "https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA"
+        },
+        {
+          "name": "Czarny HIFI",
+          "url": "https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147992,
+      "name": "Fotografie",
+      "url": "https://open.spotify.com/track/7Hy0orWwbe8uUnxQEjp9T5"
     },
     {
       "album": {
@@ -2904,6 +2962,24 @@
       "duration_ms": 151428,
       "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
       "url": "https://open.spotify.com/track/33Ui7IlIv8gpmxzbFP5lcl"
+    },
+    {
+      "album": {
+        "name": "Ja Wci\u0105\u017c Ciebie Te\u017c",
+        "url": "https://open.spotify.com/album/1g03Banzzmo1Cah8DPE6MG"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151602,
+      "name": "Ja Wci\u0105\u017c Ciebie Te\u017c",
+      "url": "https://open.spotify.com/track/3m6l0Eb3aGWjXudwTj5lAW"
     },
     {
       "album": {
@@ -3766,7 +3842,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 156440,
       "name": "MACHINE GIRL",
       "url": "https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO"
@@ -4082,7 +4158,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 172455,
       "name": "miejsce dla 2",
       "url": "https://open.spotify.com/track/5bOKRpuTYZDzXuTW2Vm8Yt"
@@ -5067,6 +5143,32 @@
     },
     {
       "album": {
+        "name": "NIEBA",
+        "url": "https://open.spotify.com/album/0ZkBawe69ftL7Eiv5eeJu9"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Dawid P\u0142onka",
+          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177916,
+      "name": "NIEBA",
+      "url": "https://open.spotify.com/track/12kODAZcfMh99l0AitMXFC"
+    },
+    {
+      "album": {
         "name": "Niebezpiecznie mi",
         "url": "https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F"
       },
@@ -5318,7 +5420,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 212437,
       "name": "Not At This Party",
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
@@ -5874,7 +5976,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 195486,
       "name": "Peripheral Lover",
       "url": "https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK"
@@ -7683,6 +7785,24 @@
     },
     {
       "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232597,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
+    },
+    {
+      "album": {
         "name": "tired",
         "url": "https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI"
       },
@@ -8507,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "you're such a good girl?",
+        "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167153,
+      "name": "you're such a good girl?",
+      "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
+    },
+    {
+      "album": {
         "name": "Za daleko",
         "url": "https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x"
       },
@@ -8576,6 +8714,24 @@
       "duration_ms": 171235,
       "name": "zabierz mnie nad morze",
       "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
+    },
+    {
+      "album": {
+        "name": "zachody i wschody",
+        "url": "https://open.spotify.com/album/0N4hQMNPZtnctuGHgXr2zB"
+      },
+      "artists": [
+        {
+          "name": ".Bonaventura",
+          "url": "https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128537,
+      "name": "zachody i wschody",
+      "url": "https://open.spotify.com/track/4t3zMkgWZdmAcHqIr2coxU"
     },
     {
       "album": {

@@ -3685,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "Das Boom",
+        "url": "https://open.spotify.com/album/3hGP21qtBpVpZradJOEbgu"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Das Boom",
+      "url": "https://open.spotify.com/track/0GI4jfqufRqXXkuatEMCsn"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2swHYB2j1IDlJEehf4BUQk"
       },
@@ -9712,6 +9730,32 @@
       "duration_ms": 186461,
       "name": "License To Be Bad",
       "url": "https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"
+    },
+    {
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "album": {

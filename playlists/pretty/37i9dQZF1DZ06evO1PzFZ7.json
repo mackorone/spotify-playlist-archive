@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152941,
+  "num_followers": 152933,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADvuCD5Nywj5Nq0yg03Apeg",
+  "snapshot_id": "aD+MgAAAAAAm+G+kPJ74Qba77nO1oVl8",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 238002,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
+      "duration_ms": 160867,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8"
     },
     {
       "added_at": null,
@@ -279,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n De Piedra",
-        "url": "https://open.spotify.com/album/44aY7PghA7MIdWvwvgdfn6"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 160867,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/10oBqwLXOzXYUWpqhODyN8"
+      "duration_ms": 238002,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 159058,
+      "name": "Mi\u00e9nteme Bonito",
+      "url": "https://open.spotify.com/track/0P2iuuvO0a9pWhZ40shDDu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inv\u00edtame A Un Caf\u00e9",
         "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 187390,
       "name": "Inv\u00edtame A Un Caf\u00e9",
       "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 159058,
-      "name": "Mi\u00e9nteme Bonito",
-      "url": "https://open.spotify.com/track/0P2iuuvO0a9pWhZ40shDDu"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gotitas Saladas",
-        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 203021,
-      "name": "Gotitas Saladas",
-      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Se Va Como Lleg\u00f3",
         "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 186460,
       "name": "Libre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gotitas Saladas",
+        "url": "https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 203021,
+      "name": "Gotitas Saladas",
+      "url": "https://open.spotify.com/track/5Sas859pm039G13F5wEuyK"
     },
     {
       "added_at": null,
@@ -607,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178150,
-      "name": "Que Me Entierren Con la Banda",
-      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Se Va Como Lleg\u00f3",
         "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
@@ -663,6 +639,86 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "Que Me Entierren Con la Banda",
+      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguachile",
+        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "CASTIGO",
+      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Se Va Como Lleg\u00f3",
+        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "Un Minuto De Silencio",
+      "url": "https://open.spotify.com/track/6jcHa1XfPDtG0Qco0wICXl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
     },
     {
       "added_at": null,
@@ -708,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 169818,
-      "name": "Un Minuto De Silencio",
-      "url": "https://open.spotify.com/track/6jcHa1XfPDtG0Qco0wICXl"
+      "duration_ms": 153254,
+      "name": "No Te Culpo",
+      "url": "https://open.spotify.com/track/4OK1toi9B0AK5ienSzCR75"
     },
     {
       "added_at": null,
@@ -722,35 +778,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 162480,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguachile",
-        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "CASTIGO",
-      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -771,38 +803,6 @@
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 153254,
-      "name": "No Te Culpo",
-      "url": "https://open.spotify.com/track/4OK1toi9B0AK5ienSzCR75"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 155266,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
     },
     {
       "added_at": null,
@@ -907,30 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Los Grandes Compositores",
-        "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
       "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         },
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, \u00c1ngela Aguilar & Leonardo Aguilar)",
-      "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

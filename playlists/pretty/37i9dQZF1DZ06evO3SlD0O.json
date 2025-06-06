@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 27060,
+  "num_followers": 27063,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAA1CirlbH4v8IahEClbko3S",
+  "snapshot_id": "aD+MgAAAAAD6fjRaSQ1c7xFaN/BUXplR",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 162613,
       "name": "Coraz\u00f3n Vaci\u00f3",
       "url": "https://open.spotify.com/track/1xb1n8lg8FkLkt8mxcRuVX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 149386,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "La Paga",
-      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 165666,
       "name": "Fracaso",
       "url": "https://open.spotify.com/track/45k71bk9yCZioceJ3umVzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "La Paga",
+      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "Aprend\u00ed Contigo",
-      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 183466,
       "name": "Islas Mar\u00edas",
       "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Aprend\u00ed Contigo",
+      "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
     },
     {
       "added_at": null,
@@ -571,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "En La Esquina",
+      "url": "https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Trigue\u00f1ita De Ojos Negros",
+      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Amores Ni Deudas",
         "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
@@ -595,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "En La Esquina",
-      "url": "https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Los Dos",
         "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 185760,
       "name": "Corazon Viejo",
       "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "Trigue\u00f1ita De Ojos Negros",
-      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "El Amor De Los Dos",
-      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las M\u00e1s Pedidas, Vol. 2",
         "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 167312,
       "name": "El Medallon",
       "url": "https://open.spotify.com/track/2Zn1kNDGRoW8lvPLw8ACr4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "El Amor De Los Dos",
+      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Voy A Tratar De Olvidarte",
-      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas Blancas",
         "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 151506,
       "name": "La Trailerita",
       "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Voy A Tratar De Olvidarte",
+      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
     },
     {
       "added_at": null,

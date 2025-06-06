@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Drevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,151 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,228 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 4 | [Атата \- Ренебе](https://open.spotify.com/track/0fqp87BpzFd10BIDLP0qVv) | [VovaZiLvova](https://open.spotify.com/artist/7MFvm8pwjLdmVBZddGNiQH) | [Прекрасне інакше](https://open.spotify.com/album/6Cf1BgGzk4CC0dUXlJ8OIo) | 2:54 |
 | 5 | [Зірочка палай](https://open.spotify.com/track/4J7GqAqdOfYrcOKJIp4m8U) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Зірочка палай](https://open.spotify.com/album/0Q3gO9yOWmX5yrGf1DrVHe) | 2:08 |
 | 6 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
-| 7 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/1SB44fJBbOK1RnilEsWgyw) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 3:00 |
-| 8 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 |
-| 9 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
-| 10 | [Мужчина](https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Мужчина](https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF) | 2:43 |
-| 11 | [Зцапала\-злапала](https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Family бізнес](https://open.spotify.com/album/3m2nS5L5E0DGr4yQDukEEY) | 3:23 |
+| 7 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
+| 8 | [Мужчина](https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Мужчина](https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF) | 2:43 |
+| 9 | [Зцапала\-злапала](https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Family бізнес](https://open.spotify.com/album/3m2nS5L5E0DGr4yQDukEEY) | 3:23 |
+| 10 | [ШОВКОВИЦЯ](https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY) | [IVAN LIULENOV](https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs), [DAMNITSKYI](https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl) | [ШОВКОВИЦЯ](https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2) | 3:05 |
+| 11 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/1SB44fJBbOK1RnilEsWgyw) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 3:00 |
 | 12 | [ЗВ'ЯЗОК](https://open.spotify.com/track/5151tSCaX6klN5wcC3wPkf) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [ЗВ'ЯЗОК](https://open.spotify.com/album/3u2uYEE3stbH7w5SLNcZ2j) | 2:44 |
 | 13 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 14 | [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 |
-| 15 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 |
-| 16 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 |
+| 14 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 |
+| 15 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 |
+| 16 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 |
 | 17 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 18 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 |
 | 19 | [Кульбаби](https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW) | [Тоня Матвієнко](https://open.spotify.com/artist/6vx5nhHgobaaaRSHM9ZN1R) | [Кульбаби](https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2) | 2:43 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 32 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 |
 | 33 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 |
 | 34 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
-| 35 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
+| 35 | [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 |
 | 36 | [Гаї шумлять \(1913\)](https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Поетичний](https://open.spotify.com/album/1kMqjTYQPAw2fTDdmCIY72) | 2:13 |
 | 37 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 |
 | 38 | [Токсік](https://open.spotify.com/track/3O6R6CXo0660qvmdeG6EOD) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Токсік](https://open.spotify.com/album/4hTZxscVG2XHSG12vA5Opq) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 50 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 
-Snapshot ID: `aDjK4gAAAADzUipFAJJS90ZxlXSBXHQO`
+Snapshot ID: `aEIFZwAAAAD0AU18vKrqUh4uxXl6Z9PX`

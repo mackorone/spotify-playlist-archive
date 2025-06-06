@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Talwiinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,174 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,619 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 |
 | 50 | [3,13](https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [3,13](https://open.spotify.com/album/2v8u8nllQmZhvSzW0cjb12) | 2:57 |
 
-Snapshot ID: `aDmo9gAAAAD+WEuefcE/oM/5l7Y8+Gxy`
+Snapshot ID: `aDmo9gAAAAB4+wVU4nwmY83SZguXZWJc`

@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/1c8Y21uTjEJCeEjaPSA92f"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/1Mqfdem6pgGVoULjSkkcc9"
+    },
+    {
+      "album": {
         "name": "ALMA",
         "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
       },
@@ -14392,7 +14410,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -16842,7 +16860,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 206093,
       "name": "Puesto",
       "url": "https://open.spotify.com/track/0cOoWbqupIz03ZUHi8NRq6"
@@ -18714,7 +18732,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 164000,
       "name": "Si Las Gatas Se Amotinan",
       "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"

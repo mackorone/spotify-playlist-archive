@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,654 likes - 68 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,697 likes - 68 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 42 | [Workah](https://open.spotify.com/track/0iMeESrSoaF89bobaDNcHI) | [PAGEZ](https://open.spotify.com/artist/64EAiouFVYxpc03BBAqlJr), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Herve Pagez](https://open.spotify.com/artist/31JFnMfmvwzZGdEnXaKGek) | [Workah](https://open.spotify.com/album/5Zih3hh4Du3CVuwVLz57df) | 4:05 |
 | 43 | [Hide U](https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI) | [Kosheen](https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Hide U](https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG) | 3:48 |
 | 44 | [Kupata](https://open.spotify.com/track/716v9c0Jb0dBLMxOfuz4wA) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Kupata](https://open.spotify.com/album/3Gc5DhNT9M0Mh2L5FxOdI1) | 4:07 |
-| 45 | [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \( DE \)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 |
+| 45 | [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 |
 | 46 | [ALL 4 U](https://open.spotify.com/track/69Q4y72ADxpeqLXHIxycYy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [ALL 4 U](https://open.spotify.com/album/5hYqBjFYNxFVRpCP0RA3RM) | 4:34 |
 | 47 | [The Key](https://open.spotify.com/track/4ULYNWe4fUybLQx3A3Ps0q) | [Louis Bongo](https://open.spotify.com/artist/6o8YcwGtEMKMcQH6gmlDKw), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [The Key](https://open.spotify.com/album/58pn1NYoXMnjSXH8NwUtlf) | 4:09 |
 | 48 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/3DI2oqIjh0ni5PvU6n33Al) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/6P6c1lM9wigZwM4IVpO9hq) | 3:34 |

@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> ✨ Se Søte og Rare Gutter, Bolaget, Soppgirobygget, Roc Boyz och Ringnes\-Ronny på Brännbollsyran! ✨
+> 🇳🇴🤝🇸🇪
 
 1,411 songs - 2 day 10 hr 33 min
 

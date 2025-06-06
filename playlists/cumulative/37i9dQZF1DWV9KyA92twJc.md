@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: תמר ריילי
 
-186 songs - 9 hr 59 min
+187 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [yes, and?](https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/4IQ9AV1mEjteHrc8KzMDDT) | 3:34 | 2024-06-20 |  |
 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 | 2025-05-15 |  |
 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 | 2024-06-20 |  |
+| [אוזניות](https://open.spotify.com/track/0RtgSV3RWOXxqFvlM6MBwE) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS) | [ראפ מטורף](https://open.spotify.com/album/02swRH6gJm8HcQ98uP7aOq) | 3:01 | 2025-05-29 |  |
 | [אחותי כבר לא סובלת אותך](https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [אחותי כבר לא סובלת אותך](https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5) | 3:01 | 2024-06-20 | 2024-07-19 |
 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 | 2024-06-20 | 2025-04-25 |
 | [אל תפחד](https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 4:11 | 2024-10-17 | 2025-02-03 |
@@ -154,7 +155,7 @@
 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 | 2024-09-19 |  |
 | [לחגוג ומגוג](https://open.spotify.com/track/7do5HTFZLs7swQHiBe8rQz) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo), [הפשוטע](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) | [לחגוג ומגוג](https://open.spotify.com/album/6tBtsrQRiZ46WSNnTVR9Ld) | 2:25 | 2024-06-20 | 2024-07-21 |
 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ ילד?](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 | 2024-06-20 | 2025-05-05 |
-| [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 | 2024-06-20 |  |
+| [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 | 2024-06-20 | 2025-06-06 |
 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 | 2025-01-09 | 2025-05-16 |
 | [מאבד את זה](https://open.spotify.com/track/0ZJAR4u9jyyEHm4VwvkYSR) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [מאבד את זה](https://open.spotify.com/album/2HfZwnoRPOefIexunsJ4z0) | 2:27 | 2025-05-15 |  |
 | [מאחל לך טוב](https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [גיטרה ולנשום](https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw) | 2:58 | 2025-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: House of Protection
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,501,188 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,499,841 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Nothing Romantic](https://open.spotify.com/track/6S1ZjmooIAelHzWirOrsqr) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Mortal Primetime](https://open.spotify.com/album/3e7DhPpNGc4T5FSflu7s1O) | 3:34 |
 | 75 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 |
 
-Snapshot ID: `AAAAADgGbEBLuALAarcPh2pdxGa+6PCt`
+Snapshot ID: `aDktYgAAAABTkZJZQHu8H4tdUoJJd4QG`

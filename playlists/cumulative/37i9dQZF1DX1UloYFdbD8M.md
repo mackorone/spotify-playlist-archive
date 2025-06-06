@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Haniya Nafisa
 
-338 songs - 21 hr 36 min
+339 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Choodathe Poyi](https://open.spotify.com/track/1U1bSyZqQ5Pm13ByqckeSX) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Choodathe Poyi](https://open.spotify.com/album/4ZB62nv4d18a0UNHfMkWMV) | 5:40 | 2024-02-15 | 2024-03-01 |
 | [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 | 2025-01-21 |
 | [Dil Tu Jaan Tu \- Malayalam Version](https://open.spotify.com/track/4ft1TctTGzf8WwMTSjGzJB) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Siju Thuravoor](https://open.spotify.com/artist/6UtEvO4Sbr0uooYqdpFTDI) | [Dil Tu Jaan Tu \(Malayalam Version\)](https://open.spotify.com/album/14hbKCRfwpOoRh0EtcnMIe) | 3:25 | 2025-02-13 | 2025-05-06 |
+| [Disco Madama](https://open.spotify.com/track/07QKkyhZ8QvxNh5Q29oZoz) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Arun Yuga](https://open.spotify.com/artist/2AY3I81C15zpmeVnxU50Zq), [Anna Bijo](https://open.spotify.com/artist/648cVIenePIAOvzzh0khx3), [Roshan Roy Thomas](https://open.spotify.com/artist/0gIBIPDKgVPwuyRWo5SQ8A) | [Disco Madama](https://open.spotify.com/album/7wQbyKSZTK6HaapYL7ttXR) | 3:39 | 2025-06-05 |  |
 | [Dooram](https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc) | [Aravind Chandrasekhar](https://open.spotify.com/artist/5WCtTjYGnQT0zeflxOyPKw) | [Dooram](https://open.spotify.com/album/7lt4WELBY6unUEaS1S89W0) | 1:36 | 2024-02-13 | 2024-03-01 |
 | [Duniyaav](https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [BSM](https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3) | [Duniyaav](https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0) | 2:17 | 2024-03-08 | 2024-05-25 |
 | [Eda Mone Kollam Poli Alle](https://open.spotify.com/track/27FIzrQe7xWSCvcfwAGAS3) | [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [S\. Sreesanth](https://open.spotify.com/artist/4L9lPMNvEdreunDkSgARg6) | [Eda Mone Kollam Poli Alle](https://open.spotify.com/album/0LUyeasRyRHZSea1b9t14K) | 2:51 | 2024-09-04 | 2025-04-02 |
@@ -257,7 +258,7 @@
 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 | 2023-05-10 | 2023-07-29 |
 | [Pooram \- From "Think Specials"](https://open.spotify.com/track/05ipt7R52WNXApEurABdOJ) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Pooram \(From "Think Specials"\)](https://open.spotify.com/album/0aO4EHRsIN96DOWrYxMjIS) | 3:18 | 2023-08-16 | 2024-05-25 |
 | [Poothu Poothu](https://open.spotify.com/track/7IEL0EJg5HEdS1U3iD65oU) | [EMEN](https://open.spotify.com/artist/7dMFovuZ30lz7mAkfTNP0U) | [Poothu Poothu](https://open.spotify.com/album/0JVagnHOFZB9g0hq7Oy33L) | 2:30 | 2025-05-15 |  |
-| [Poov](https://open.spotify.com/track/0UbfnFSzjNXZ8RO4zI6DR8) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Ashitha](https://open.spotify.com/artist/5KWtSNwFTWxlNEEF6Kd1PO) | [Poov](https://open.spotify.com/album/0fRPaqy7bN8Wri1o4d0wmq) | 3:02 | 2025-03-21 |  |
+| [Poov](https://open.spotify.com/track/0UbfnFSzjNXZ8RO4zI6DR8) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Ashitha](https://open.spotify.com/artist/5KWtSNwFTWxlNEEF6Kd1PO) | [Poov](https://open.spotify.com/album/0fRPaqy7bN8Wri1o4d0wmq) | 3:02 | 2025-03-21 | 2025-06-06 |
 | [Poovu](https://open.spotify.com/track/7eD2jrzZftR3n1xMcyO0yv) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Poovu](https://open.spotify.com/album/3F4m6nFgic9v7RODyYk7xo) | 3:10 | 2024-12-12 |  |
 | [Poraattam](https://open.spotify.com/track/2OKCRHRIseK0xrvu2n9t0E) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Pavithra Menon](https://open.spotify.com/artist/6vs87fqt96uUfyrrsOQeAL), [Fil$](https://open.spotify.com/artist/7f0UeNCU8nGFeU3DAUoNH1), [SRMC Choir](https://open.spotify.com/artist/0Ezeqz3lqIatAwSf4hr32r) | [Poraattam](https://open.spotify.com/album/5uXQnjIzmW0suiPjj0BiTs) | 3:37 | 2025-02-06 | 2025-04-29 |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-05-26 | 2023-07-28 |

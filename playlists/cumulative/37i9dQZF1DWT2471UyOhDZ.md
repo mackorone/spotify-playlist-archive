@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Matt Berninger
 
-316 songs - 20 hr 36 min
+317 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-03-25 |
 | [Doves](https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Doves](https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50) | 4:11 | 2025-03-28 | 2025-05-09 |
 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 | 2025-05-08 |  |
+| [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 | 2025-05-30 |  |
 | [Dream Job](https://open.spotify.com/track/3u7PMsVBQ1viIm8tlhotl6) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 2:39 | 2024-06-14 | 2025-03-22 |
 | [Dumb Guitar](https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Dumb Guitar](https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql) | 5:10 | 2024-06-14 | 2024-07-12 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-31 |  |
@@ -222,7 +223,7 @@
 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 | 2025-05-08 |  |
 | [Plans](https://open.spotify.com/track/0uLalOSAjQpta8wQQLHVj7) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Plans](https://open.spotify.com/album/24geTIwjeU0huw48ELcf2E) | 3:14 | 2025-05-23 | 2025-05-31 |
 | [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-11 | 2024-10-12 |
-| [Power of the Moon](https://open.spotify.com/track/2ohhElzcKlozBQCPVNG4s0) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Power of the Moon](https://open.spotify.com/album/5N2qF4eDauBb9nscIfuEul) | 4:26 | 2025-05-08 |  |
+| [Power of the Moon](https://open.spotify.com/track/2ohhElzcKlozBQCPVNG4s0) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Power of the Moon](https://open.spotify.com/album/5N2qF4eDauBb9nscIfuEul) | 4:26 | 2025-05-08 | 2025-06-06 |
 | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/track/7sGQ4jAOUs3YG1CFyjDxdc) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/album/6oJAjOS2cydCmNmBmmqNQU) | 3:58 | 2025-05-08 |  |
 | [Psychedelic Orgasm](https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [Psychedelic Orgasm](https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc) | 3:40 | 2024-06-14 | 2024-07-06 |
 | [Quiz Show Clue](https://open.spotify.com/track/0AZPRop6tpnPTEeWHagcTw) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Quiz Show Clue](https://open.spotify.com/album/5HDIHmiNNVAQCwNPVe7Nsy) | 4:48 | 2024-10-06 | 2024-10-20 |

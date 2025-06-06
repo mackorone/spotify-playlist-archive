@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,041 songs - 2 day 9 hr 45 min
+1,042 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-10-13 | 2024-03-11 |
 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-25 |  |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-11-11 | 2024-10-19 |
+| [2 Months](https://open.spotify.com/track/1ayDPLiUj3blLqVkVufY0X) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#You Are You](https://open.spotify.com/album/0Z9CrKIgLP09vWer1NGZBJ) | 2:27 | 2025-05-30 |  |
 | [2! 3!](https://open.spotify.com/track/5fYm8baZVZwc1p4xUyjRub) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) | 4:32 | 2021-11-17 | 2022-07-29 |
 | [200%](https://open.spotify.com/track/3jM4UiYD4GLhlbDzGRVkkX) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/55jMaKwhP9u63tSnfhsza1) | 3:13 | 2021-11-17 | 2022-07-29 |
 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2023-01-26 | 2024-02-24 |
@@ -466,7 +467,7 @@
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-11-17 |  |
 | [I'll Make You Cry](https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:34 | 2022-01-03 | 2023-07-21 |
 | [I'LL SHOW YOU](https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:18 | 2021-11-17 | 2023-03-29 |
-| [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 | 2021-11-17 |  |
+| [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 | 2021-11-17 | 2025-06-06 |
 | [I'm Not Sorry](https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [I'm Not Sorry](https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv) | 3:29 | 2021-11-17 | 2022-06-20 |
 | [I'm so sick](https://open.spotify.com/track/3lSM3Wn3RJbzAAHzJ3sX1f) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:19 | 2021-11-17 | 2022-07-21 |
 | [I'm so sick](https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:19 | 2021-11-17 | 2025-03-30 |

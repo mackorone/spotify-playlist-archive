@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Tecca, XXXtentacion and Juice WRLD.",
-  "num_followers": 16087643,
+  "num_followers": 16085572,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDpVtgAAAABY9TlxAP65X+c0YWsfaSg9",
+  "snapshot_id": "AAAAAKEpk6R1expV8WyxpNWRKvNEn/E6",
   "tracks": [
     {
       "added_at": "2025-05-31 01:04:54",
@@ -167,6 +167,30 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2025-06-05 04:00:11",
+      "album": {
+        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
+        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
+      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
     },
     {
       "added_at": "2025-05-31 01:04:54",

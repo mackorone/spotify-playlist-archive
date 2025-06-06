@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Oğuzhan Koç x Merve Özbey
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Era7capone x Poizi x SNOW
 
 158 songs - 7 hr 59 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 885780,
+  "num_followers": 885828,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACv5qimD/brUz9BtPsM2oK7",
+  "snapshot_id": "aD+MgAAAAACwCpCJQgOLH+PgPIMjNXTp",
   "tracks": [
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Bed (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 234413,
       "name": "Flawless Remix (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Bed (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
     },
     {
       "added_at": null,

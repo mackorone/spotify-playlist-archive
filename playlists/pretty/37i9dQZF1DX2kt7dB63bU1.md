@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,700 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,729 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 15 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Make It Another Old Fashioned, Please](https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4) | 2:52 |
 | 16 | [I'm a Fool to Want You](https://open.spotify.com/track/0xqACYs9x2hgRMTAKHpjKE) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [I'm a Fool to Want You](https://open.spotify.com/album/37HtV7Ne1VwmRth2v71hf8) | 3:19 |
 | 17 | [Avalon](https://open.spotify.com/track/06t9m5nzmqEiXuKLCnQKyG) | [Jim Caruso](https://open.spotify.com/artist/3hNU1GwmcBf1qbtIC0PH80), [Billy Stritch](https://open.spotify.com/artist/5BFCEjtWiORUGo96eKDbXi), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Avalon](https://open.spotify.com/album/0wZ030NQ0ikQ8jNuKDO14p) | 4:06 |
-| 18 | [Tainted Love](https://open.spotify.com/track/0jOulpJbFDaGwb09pAx1q9) | [Deborah Silver](https://open.spotify.com/artist/3mVGbbLuRhDTfZAOl4O85u), [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Steve Jordan](https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC), [John Clayton](https://open.spotify.com/artist/7xpCL3ZjAsjhUIPJBE5PmB) | [Tainted Love](https://open.spotify.com/album/4y2qRFTK0ZD5bMfs6vaz52) | 4:09 |
+| 18 | [Tainted Love](https://open.spotify.com/track/0jOulpJbFDaGwb09pAx1q9) | [Deborah Silver](https://open.spotify.com/artist/3mVGbbLuRhDTfZAOl4O85u), [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Steve Jordan](https://open.spotify.com/artist/53XJ4BIv6iblv2Osdpp5ls), [John Clayton](https://open.spotify.com/artist/7xpCL3ZjAsjhUIPJBE5PmB) | [Tainted Love](https://open.spotify.com/album/4y2qRFTK0ZD5bMfs6vaz52) | 4:09 |
 | 19 | [Vida](https://open.spotify.com/track/0co0ZOkzlwV2xeIHqC2olu) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Vida](https://open.spotify.com/album/73ar6JITfxgCsLOYsJuyYx) | 4:17 |
 | 20 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
 | 21 | [Dark and Lovely](https://open.spotify.com/track/7bKnhhx9spNVHovrH6XZOv) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Evan Roberson](https://open.spotify.com/artist/3c6kTutNRrIlGEEmN2acdX) | [Dark and Lovely](https://open.spotify.com/album/01dK18wyaylbyzfSaHpBHu) | 3:59 |

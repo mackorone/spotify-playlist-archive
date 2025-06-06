@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Patricia Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,179 likes - 106 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,270 likes - 106 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 105 | [Rhea \(Circle 53\)](https://open.spotify.com/track/644Xt8OxqYjaTNSWBvypqF) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Kate Fleur Young](https://open.spotify.com/artist/5aVx7sUSqWiknehsJijkuR) | [Rhea \(Circle 53\)](https://open.spotify.com/album/1aQSbeB2XVtGx3bFydcVtu) | 4:53 |
 | 106 | [Big Empty Country \- Edit](https://open.spotify.com/track/4ZTSyUESmod019aAXjf5zU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Suddenly/Big Empty Country \(Edit\)](https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5) | 4:14 |
 
-Snapshot ID: `aDktTwAAAAAUJrIennz/erUecHiPd+2e`
+Snapshot ID: `AAAAAAqZYSFq2UxmvU54oGaEv30q7RA3`

@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 83520,
+  "num_followers": 83534,
   "original_name": "Folclore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Para Los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Tal Como Siento",
         "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
       },
@@ -619,22 +603,6 @@
       "duration_ms": 240491,
       "name": "Tal Como Siento",
       "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Ven Por Mi",
-        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Mucho M\u00e1s Que Piel",
-      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -655,6 +623,38 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Para Los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Ven Por Mi",
+        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Mucho M\u00e1s Que Piel",
+      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 229642,
       "name": "Canci\u00f3n de Lejos",
       "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
       "artists": [
         {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -735,6 +719,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        }
-      ],
-      "duration_ms": 248430,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Al Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 228961,
       "name": "Al Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        }
+      ],
+      "duration_ms": 248430,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "El Sue\u00f1o de Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 241586,
       "name": "Tonada del Viejo Amor",
       "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Tan Cerca En La Distancia",
         "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 202728,
       "name": "Tan Cerca En La Distancia",
       "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
         "name": "Aut\u00f3ctona",
         "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        }
-      ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Adi\u00f3s Amor M\u00edo",
         "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 149680,
       "name": "Adi\u00f3s Amor M\u00edo",
       "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        }
+      ],
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Respuesta",
-        "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Respuesta",
-      "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Bien o Mal",
         "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210818,
       "name": "Bien o Mal",
       "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Respuesta",
+        "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Respuesta",
+      "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "Asuntos Pendientes",
-        "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "Asuntos Pendientes",
+        "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
     },
     {
       "added_at": "2024-11-14 16:50:34",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-14 16:50:34",
       "album": {
-        "name": "La Desamorada",
-        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 241477,
-      "name": "La Desamorada",
-      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
-    },
-    {
-      "added_at": "2024-11-14 16:50:34",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
+    },
+    {
+      "added_at": "2024-11-14 16:50:34",
+      "album": {
+        "name": "La Desamorada",
+        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 241477,
+      "name": "La Desamorada",
+      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
     }
   ],
   "unique_name": "Folclore Rom\u00e1ntico ",

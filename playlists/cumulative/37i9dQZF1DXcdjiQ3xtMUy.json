@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: ZAF",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Stavento, Daphne Lawrence",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 183809,
       "name": "Alitheia?!",
       "url": "https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ"
@@ -338,6 +338,24 @@
       "duration_ms": 67419,
       "name": "An Apopse Figo - Night Rider Edit",
       "url": "https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27"
+    },
+    {
+      "album": {
+        "name": "An Den Ertheis Esy",
+        "url": "https://open.spotify.com/album/3itfbQABwddwhkDw6hg6YH"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "An Den Ertheis Esy",
+      "url": "https://open.spotify.com/track/54mHNj3cEF7WP8qa24uyrH"
     },
     {
       "album": {
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 191643,
       "name": "AUTOS",
       "url": "https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k"
@@ -812,6 +830,28 @@
       "duration_ms": 159592,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX"
+    },
+    {
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/0XDlvTAxwpvb5ATQGnkloA"
+      },
+      "artists": [
+        {
+          "name": "Foxy Lee",
+          "url": "https://open.spotify.com/artist/1TMRlzzQQpXLTPF77gB22i"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127846,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/7ockkWsWaZ1rl5YvC75RQ2"
     },
     {
       "album": {
@@ -1251,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Feggaria Kalokairina",
+        "url": "https://open.spotify.com/album/5hovDIv5CFnb2owJjW8cN4"
+      },
+      "artists": [
+        {
+          "name": "Theo Evan",
+          "url": "https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157845,
+      "name": "Feggaria Kalokairina",
+      "url": "https://open.spotify.com/track/2xOqLMz8ZKBaWYHy3s5Wyo"
+    },
+    {
+      "album": {
         "name": "Fila Me",
         "url": "https://open.spotify.com/album/3JhnLN305EH7tFbHCvwIwE"
       },
@@ -1440,6 +1498,28 @@
       "duration_ms": 170571,
       "name": "GIA SENA",
       "url": "https://open.spotify.com/track/1xjRL0LTJHQt6kMjwv55Kf"
+    },
+    {
+      "album": {
+        "name": "Giati De Milame",
+        "url": "https://open.spotify.com/album/4G81jdMyq4WpBI2GuU0DvM"
+      },
+      "artists": [
+        {
+          "name": "Evgenia",
+          "url": "https://open.spotify.com/artist/4shXizxNoGUxSHHUDawAol"
+        },
+        {
+          "name": "Christos Dantis",
+          "url": "https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195923,
+      "name": "Giati De Milame",
+      "url": "https://open.spotify.com/track/3YSF4pQR0BBfSZulVqCre8"
     },
     {
       "album": {
@@ -1702,7 +1782,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 146278,
       "name": "KOINO MYSTIKO",
       "url": "https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR"
@@ -1902,7 +1982,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 158969,
       "name": "Logia",
       "url": "https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp"
@@ -2462,7 +2542,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 197250,
       "name": "Paidi Tis Nixtas",
       "url": "https://open.spotify.com/track/7j6ac94YXlQeZHIteZ8y18"
@@ -2907,6 +2987,28 @@
     },
     {
       "album": {
+        "name": "Skas Me Nazi",
+        "url": "https://open.spotify.com/album/2oSBbjM8vR7LXY9WPL30Wu"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Nazis",
+          "url": "https://open.spotify.com/artist/1ou8OtMKGI4xKvD0OHiP8X"
+        },
+        {
+          "name": "Monsieur Zeraw",
+          "url": "https://open.spotify.com/artist/46KsZ5shJcM4YwqcgZMUPw"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136654,
+      "name": "Skas Me Nazi",
+      "url": "https://open.spotify.com/track/6NafyN4SDDGowxodUJ0Izv"
+    },
+    {
+      "album": {
         "name": "Elena",
         "url": "https://open.spotify.com/album/3mKDAH8iQJkYZhDCGQtCfR"
       },
@@ -3094,6 +3196,32 @@
       "duration_ms": 201411,
       "name": "To Kalokairi Mas",
       "url": "https://open.spotify.com/track/3bN75wJ7qY6WtUquJU9jJM"
+    },
+    {
+      "album": {
+        "name": "To Lathos Mou",
+        "url": "https://open.spotify.com/album/3Vo20XXjXC1NTMplTypVWT"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Dimitris Shinas",
+          "url": "https://open.spotify.com/artist/2HnNR3JccALPcFfJWBHPtv"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "To Lathos Mou",
+      "url": "https://open.spotify.com/track/0TUTYUToTHhykqAJK2SktL"
     },
     {
       "album": {
@@ -3342,7 +3470,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 202328,
       "name": "Xeirovomvida",
       "url": "https://open.spotify.com/track/7uCY7wvVuRPuo9i9p6ZUc7"

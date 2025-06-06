@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 685083,
+  "num_followers": 685068,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Piece of Mind (2015 Remaster)",
         "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331266,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Rewind, Replay, Rebound (Deluxe)",
         "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 178115,
       "name": "Body Talks",
       "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Dirty Honey",
-        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "23 Singles",
         "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 169066,
       "name": "Hand In Hand",
       "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Dirty Honey",
+        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Talk To Me (feat. Lzzy Hale)",
-        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
+        "name": "Below The Belt",
+        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
         }
       ],
-      "duration_ms": 208021,
-      "name": "Talk To Me (feat. Lzzy Hale)",
-      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+      "duration_ms": 222214,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Below The Belt",
-        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
+        "name": "Talk To Me (feat. Lzzy Hale)",
+        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
       "artists": [
         {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
         }
       ],
-      "duration_ms": 222214,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
+      "duration_ms": 208021,
+      "name": "Talk To Me (feat. Lzzy Hale)",
+      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Meeting The Master",
-        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Look Alive",
         "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 225053,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "added_at": "2024-11-12 16:18:09",

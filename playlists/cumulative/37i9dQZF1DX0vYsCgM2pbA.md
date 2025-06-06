@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-266 songs - 16 hr 10 min
+267 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Don't Touch Me Baby](https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Say](https://open.spotify.com/album/4djFEArMg3PsHqIHxQmtXO) | 4:01 | 2024-12-17 |  |
 | [Don’t Give Up On Me](https://open.spotify.com/track/4ovQnG03lrudyY3IiZYiY2) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 2:45 | 2022-12-01 | 2023-01-13 |
 | [DOWN](https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [DOWN](https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe) | 3:14 | 2022-12-01 | 2023-02-10 |
-| [Dream](https://open.spotify.com/track/6IjCaCvKoocJrdztqumE1n) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Dream](https://open.spotify.com/album/6Lk2GxLShFuDGt7iIGYXPs) | 3:24 | 2025-02-05 |  |
+| [Dream](https://open.spotify.com/track/6IjCaCvKoocJrdztqumE1n) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Dream](https://open.spotify.com/album/6Lk2GxLShFuDGt7iIGYXPs) | 3:24 | 2025-02-05 | 2025-06-06 |
 | [Dreaming Of You](https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Dreaming Of You](https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM) | 4:19 | 2023-08-17 |  |
 | [Drift](https://open.spotify.com/track/75psyfokDgEGACe1wurFPa) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Sunnysoposted](https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt) | [Drift / Long Story Short](https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx) | 4:06 | 2024-08-22 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-01 |  |
@@ -160,6 +160,7 @@
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-08-24 |  |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-12-01 | 2024-04-19 |
 | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/track/51mycpP5uFInLw300nestX) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb) | 3:08 | 2024-02-01 |  |
+| [Missing Piece \- Sofi Tukker Remix](https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Missing Piece \(Sofi Tukker Remix\)](https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M) | 3:26 | 2025-06-03 |  |
 | [More of You](https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [More of You](https://open.spotify.com/album/2XtHv7Q0Woi1PI9N2jqE1g) | 4:13 | 2025-04-08 |  |
 | [Morning Sun](https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Morning Sun](https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH) | 5:04 | 2025-06-03 |  |
 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 | 2023-10-12 | 2023-11-17 |

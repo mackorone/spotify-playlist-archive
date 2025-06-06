@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-137 songs - 8 hr 34 min
+140 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/track/6NsRPpK8eXNY1gJAY5QXBo) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [A Will \(feat\. CAR, THE GARDEN\)](https://open.spotify.com/album/1nchrXiaAT5HZBSdnBAent) | 3:39 | 2024-08-05 | 2025-04-02 |
 | [Again](https://open.spotify.com/track/2B620MEbittSTOFgv0ju2f) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [Again](https://open.spotify.com/album/4KeJRIR4zzG1W0R1Ld9HoG) | 6:53 | 2024-08-05 | 2025-04-02 |
 | [All in Vain](https://open.spotify.com/track/53SLgPGQoOR0zlc4FUmvzG) | [Mot](https://open.spotify.com/artist/1tpzH7XBT9sUJx4CMB4hCp) | [Ashcraft](https://open.spotify.com/album/5FBwf71FG9KX6PnweeTbBg) | 3:56 | 2024-08-05 | 2025-04-02 |
+| [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2025-06-05 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2025-04-17 |  |
 | [Another Love](https://open.spotify.com/track/6kUbsWrqQ17sL0Fc00FUvA) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Another Love](https://open.spotify.com/album/5TQ7eGVZjZw9Bh4i6Prhv7) | 3:46 | 2024-08-05 | 2025-04-02 |
 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 | 2024-08-05 |  |
@@ -69,7 +70,7 @@
 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 | 2025-03-14 |  |
 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2024-08-05 |  |
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2024-08-05 | 2025-04-02 |
-| [M Television](https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:27 | 2024-08-05 |  |
+| [M Television](https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:27 | 2024-08-05 | 2025-06-06 |
 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-08-05 |  |
 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 | 2024-08-05 |  |
 | [Mosaic](https://open.spotify.com/track/7Mvc5V2fXicfkhlBWZU56P) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Contact](https://open.spotify.com/album/1ZmpZDCqmWlMFhnDxsfvfT) | 5:03 | 2024-08-05 | 2025-04-02 |
@@ -88,7 +89,7 @@
 | [Old Town](https://open.spotify.com/track/0BTaF7WdhyGDuYoQJtv6vb) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Where We Were Together](https://open.spotify.com/album/2uM37yCppwAzlYwvDgKZpO) | 3:53 | 2024-08-05 | 2025-04-02 |
 | [Only Ecstasy](https://open.spotify.com/track/5bzLRH0aGMIu2DKMZLtIvU) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 4:21 | 2024-08-05 | 2025-05-02 |
 | [Organized Chaos](https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Organized Chaos](https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa) | 2:55 | 2024-08-05 | 2025-04-02 |
-| [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-08-05 |  |
+| [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-08-05 | 2025-06-06 |
 | [Overtime](https://open.spotify.com/track/7aU81Qt0Ro5AkjJFVyuvU9) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Roommates // Overtime](https://open.spotify.com/album/4Fj5zzYFkEeSND67m9WbpL) | 3:24 | 2024-08-05 | 2025-04-02 |
 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 | 2024-08-05 | 2025-05-02 |
 | [Paralyzed](https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:28 | 2024-08-05 | 2025-05-13 |
@@ -100,6 +101,7 @@
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-08-05 |  |
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2024-08-05 | 2025-04-02 |
 | [Rollover](https://open.spotify.com/track/39HDwkTjW1KfzqqvcZ9Ytg) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [The High Tide Club](https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs) | 3:20 | 2024-08-05 | 2025-04-02 |
+| [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2025-06-05 |  |
 | [Saturday Nights](https://open.spotify.com/track/75w5oOMuHqeq46MRN3uSR6) | [INOHA](https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h) | [ALOHA INOHA](https://open.spotify.com/album/1HMeh1teqzXLKqiNfn7kWX) | 2:56 | 2024-08-05 | 2025-04-02 |
 | [Saturday On The Balcony](https://open.spotify.com/track/7zrIKb3BoogRzvthM8vsKT) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Sink!](https://open.spotify.com/album/0TC7LUFXxxgSkmN82yLMTo) | 4:02 | 2024-08-05 | 2025-04-02 |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2024-08-05 |  |
@@ -117,8 +119,9 @@
 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 | 2025-04-17 | 2025-05-02 |
 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 | 2025-05-01 |  |
 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 | 2024-08-05 |  |
+| [Sweet](https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:51 | 2025-06-05 |  |
 | [Swim](https://open.spotify.com/track/0BgpmgvnvZg1FfLdATrCsr) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Vivid](https://open.spotify.com/album/0qpYN6nZdr4CCp8Jj3EVPz) | 3:09 | 2025-03-14 |  |
-| [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 | 2024-08-05 |  |
+| [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 | 2024-08-05 | 2025-06-06 |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-08-05 | 2025-04-23 |
 | [Tell 'em boys](https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:29 | 2024-08-05 | 2025-04-02 |
 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 | 2024-08-05 |  |

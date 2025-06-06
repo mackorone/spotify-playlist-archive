@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  مروان موسى
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,966 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,080 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FAWATER EL 3ETAB](https://open.spotify.com/track/69KF73mPJG37guyLv98KuM) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FAWATER EL 3ETAB](https://open.spotify.com/album/5DrNynojvPy7xP6YEwDxwo) | 3:37 |
-| 2 | [ELWA3D](https://open.spotify.com/track/4G5MF3PpirGQEa4UNrb9KB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [ELWA3D](https://open.spotify.com/album/5GxrUw0M57yEf8vMQgso2o) | 3:48 |
-| 3 | [SHAR X KHEIR](https://open.spotify.com/track/7qWTw6jwB1a3nljQAtgIWS) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [SHAR X KHEIR](https://open.spotify.com/album/7EcOiSUdG1WiUGm6c0rQOz) | 2:13 |
-| 4 | [Kadaba](https://open.spotify.com/track/0WqqQ8uHKDbkPbo2ASI9U6) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [Kadaba](https://open.spotify.com/album/3L1t71V8i7ZGFJOTy6cYYg) | 2:55 |
-| 5 | [Fomanshi](https://open.spotify.com/track/1aMA5gWiKvHOhVYxHJ2pY1) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Fomanshi](https://open.spotify.com/album/3pj9ksj2ATL75K6F1zscW7) | 2:47 |
-| 6 | [BONO](https://open.spotify.com/track/2Jsw1sLDq7Kzb05xkNS6LP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BONO](https://open.spotify.com/album/1uqEXTzK7dGspcFeL97krg) | 1:53 |
-| 7 | [EHHHHH](https://open.spotify.com/track/5vcHeEj1lW0mC5H2HEPksO) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [ZAY MANA](https://open.spotify.com/album/0f0HgWxt0FZ8PpyTg0CgQb) | 2:01 |
-| 8 | [EH EL ARF DAH](https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EH EL ARF DAH](https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM) | 2:11 |
-| 9 | [Hal Di Kat Hayatak](https://open.spotify.com/track/1yMQB6P1oDgyslXYRaEH2K) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Hal Di Kat Hayatak](https://open.spotify.com/album/4i13QTb6JSiChncGZz4OiH) | 2:58 |
+| 2 | [Hal Di Kat Hayatak](https://open.spotify.com/track/1yMQB6P1oDgyslXYRaEH2K) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Hal Di Kat Hayatak](https://open.spotify.com/album/4i13QTb6JSiChncGZz4OiH) | 2:58 |
+| 3 | [Kadaba](https://open.spotify.com/track/0WqqQ8uHKDbkPbo2ASI9U6) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [Kadaba](https://open.spotify.com/album/3L1t71V8i7ZGFJOTy6cYYg) | 2:55 |
+| 4 | [ELWA3D](https://open.spotify.com/track/4G5MF3PpirGQEa4UNrb9KB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [ELWA3D](https://open.spotify.com/album/5GxrUw0M57yEf8vMQgso2o) | 3:48 |
+| 5 | [SHAR X KHEIR](https://open.spotify.com/track/7qWTw6jwB1a3nljQAtgIWS) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [SHAR X KHEIR](https://open.spotify.com/album/7EcOiSUdG1WiUGm6c0rQOz) | 2:13 |
+| 6 | [Fomanshi](https://open.spotify.com/track/1aMA5gWiKvHOhVYxHJ2pY1) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Fomanshi](https://open.spotify.com/album/3pj9ksj2ATL75K6F1zscW7) | 2:47 |
+| 7 | [BONO](https://open.spotify.com/track/2Jsw1sLDq7Kzb05xkNS6LP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BONO](https://open.spotify.com/album/1uqEXTzK7dGspcFeL97krg) | 1:53 |
+| 8 | [EHHHHH](https://open.spotify.com/track/5vcHeEj1lW0mC5H2HEPksO) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [ZAY MANA](https://open.spotify.com/album/0f0HgWxt0FZ8PpyTg0CgQb) | 2:01 |
+| 9 | [EH EL ARF DAH](https://open.spotify.com/track/6fIebGHXTAQ3jtairsQkPs) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EH EL ARF DAH](https://open.spotify.com/album/6aBAf4qEuRN6TSyfx0hUxM) | 2:11 |
 | 10 | [7OB BAS EH](https://open.spotify.com/track/14DGhLzPgz7XcN49AoNdP5) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:55 |
 | 11 | [GHOSTS \- عفاريت](https://open.spotify.com/track/4ECrYJfLoueQVda5n8fDrz) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [MSH GNENT L B2R](https://open.spotify.com/album/7rNBXfSN3oczTykIyJVX01) | 3:00 |
 | 12 | [KKKK](https://open.spotify.com/track/2E870p0a1keSedRhkx6IOh) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [KKKK](https://open.spotify.com/album/7kLO8r6CSFTy8swI7t0nrl) | 2:06 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 43 | [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 |
 | 44 | [Baklem El Amar](https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa) | [Moga](https://open.spotify.com/album/74pPbkercbdyczbWsW5ZcA) | 2:31 |
 
-Snapshot ID: `aD/0qAAAAACMXXGiEZcxwKWsWXTrXaq3`
+Snapshot ID: `aEH10gAAAACfDRtWXCC32qaP60AaRXUf`

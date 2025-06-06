@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,230 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,262 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV) | 3:42 |
 | 50 | [Overstood \(GloRilla\)](https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:36 |
 
-Snapshot ID: `aD47AAAAAAB52S17VtLxtmSGLCLh3e8V`
+Snapshot ID: `aD+MgAAAAABN0GZsKCB+zCM24ACpzZvM`

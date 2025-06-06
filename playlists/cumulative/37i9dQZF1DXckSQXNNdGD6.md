@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-200 songs - 9 hr 53 min
+201 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 | 2024-06-05 | 2025-01-08 |
 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 | 2024-06-05 | 2025-04-02 |
 | [Quiero ser tu novia](https://open.spotify.com/track/1tCZRqh05Wed2FlW3FL179) | [Masoniería](https://open.spotify.com/artist/1UbMj4wG1Mu9Aow0jxclpU) | [Quiero ser tu novia](https://open.spotify.com/album/1gfNaJezPQpWZxiVKHklfn) | 2:26 | 2024-06-05 | 2024-07-03 |
+| [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 | 2025-06-03 |  |
 | [Redención](https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Redención](https://open.spotify.com/album/73rFocl011WgsCQzadxU2A) | 2:18 | 2024-07-02 | 2024-11-20 |
 | [Reggaeton Cristiano](https://open.spotify.com/track/3AxnNLgUlAX4tCmyAkN420) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [Domi Shameless](https://open.spotify.com/artist/2N425CEAGXMEWzrpet0Sy8) | [Reggaeton Cristiano](https://open.spotify.com/album/4C4GlvaDKglOAXNPNKsupf) | 3:08 | 2024-07-02 | 2024-11-06 |
 | [Resaca](https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [antimorbo](https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS) | [Resaca](https://open.spotify.com/album/4tHNQxQgs1UcncwUI8oiIi) | 3:10 | 2024-06-05 | 2024-08-07 |
@@ -199,7 +200,7 @@
 | [Un Buen Tipo Para Tu Hijo](https://open.spotify.com/track/5s8rHRJ6rG2Sr8ugXyFa5f) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Un Buen Tipo Para Tu Hijo](https://open.spotify.com/album/2HKHWJMBWkCtdl6MeYPmuX) | 3:04 | 2025-06-03 |  |
 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 | 2024-11-05 |  |
 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 | 2025-04-01 |  |
-| [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 | 2024-12-04 |  |
+| [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 | 2024-12-04 | 2025-06-06 |
 | [XXL](https://open.spotify.com/track/2VtCQgBsKrwpi22g8q5nWz) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [XXL](https://open.spotify.com/album/2xWGZx7WeIt5sVKAFWC51e) | 2:36 | 2025-03-04 |  |
 | [Y q más da](https://open.spotify.com/track/44gwcQaWBtZiAo32wddGAL) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Y q más da](https://open.spotify.com/album/4ChNZTumfZjlC5QfdcrwoH) | 2:29 | 2024-06-05 | 2024-07-03 |
 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 | 2024-12-04 |  |

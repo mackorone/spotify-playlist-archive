@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: NAPA com Van Zee",
+  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Depois Do Pecado",
+        "url": "https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj"
+      },
+      "artists": [
+        {
+          "name": "CAROLINA DE DEUS",
+          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147253,
+      "name": "Depois Do Pecado",
+      "url": "https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo"
+    },
+    {
+      "album": {
         "name": "Desamor (feat. Gson)",
         "url": "https://open.spotify.com/album/2P6QxZUqH3ecJ7WGiOSgqQ"
       },
@@ -1758,6 +1776,28 @@
       "duration_ms": 185386,
       "name": "Ela n\u00e3o sabe, pois n\u00e3o?",
       "url": "https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s"
+    },
+    {
+      "album": {
+        "name": "8 ou 80",
+        "url": "https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn"
+      },
+      "artists": [
+        {
+          "name": "Rita Rocha",
+          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+        },
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203090,
+      "name": "engana-me que eu gosto",
+      "url": "https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa"
     },
     {
       "album": {
@@ -2896,7 +2936,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 169248,
       "name": "Longe",
       "url": "https://open.spotify.com/track/2giLgCjvTxqSFu44odxxKq"
@@ -3502,7 +3542,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 178981,
       "name": "O resto das nossas vidas",
       "url": "https://open.spotify.com/track/1LCmPKWODpYHUA35CT0MDa"
@@ -3538,10 +3578,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 170290,
       "name": "O teu cheiro",
       "url": "https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r"
+    },
+    {
+      "album": {
+        "name": "O Teu Lugar",
+        "url": "https://open.spotify.com/album/2JXdeTLOK1bxJu7WqKb7Rg"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia",
+          "url": "https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "O Teu Lugar",
+      "url": "https://open.spotify.com/track/21MOuXoTkBpYUd49jumebu"
     },
     {
       "album": {
@@ -4392,7 +4450,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 204507,
       "name": "Saltamos Daqui!",
       "url": "https://open.spotify.com/track/1OootyYFdPXCTqkW4ZBmbP"
@@ -5236,6 +5294,24 @@
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "album": {
+        "name": "\u00c9 O Que \u00c9",
+        "url": "https://open.spotify.com/album/0PlvO8tfJ8Z07EYsTTnKOn"
+      },
+      "artists": [
+        {
+          "name": "Marisa Liz",
+          "url": "https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226758,
+      "name": "\u00c9 O Que \u00c9",
+      "url": "https://open.spotify.com/track/1cmRRx68ZuTNcw7jm6M8Pk"
     },
     {
       "album": {

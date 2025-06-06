@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-580 songs - 1 day 10 hr 15 min
+581 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\*\*GOLIATH\*\*](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 | 2025-02-09 |  |
 | [10 out of 10](https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [10 out of 10](https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D) | 2:57 | 2024-07-26 | 2024-08-09 |
 | [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-12-23 | 2024-06-07 |
+| [211](https://open.spotify.com/track/7nWNx0hsYkGP0wBRLHv9Jj) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [211 / See You Later](https://open.spotify.com/album/1ysS9dTHq1WTU9ClXUegil) | 3:17 | 2025-06-03 |  |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-16 |  |
 | [4AM](https://open.spotify.com/track/2LLuBYP7bKBvtVo77SndPB) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [4AM](https://open.spotify.com/album/1OGYNltozyJz1dl3YdI9Gg) | 3:03 | 2022-03-24 | 2022-04-16 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-06 | 2024-06-07 |
@@ -177,7 +178,7 @@
 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 | 2021-12-23 | 2022-09-15 |
 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 | 2024-11-30 | 2024-12-14 |
 | [Get By \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/3MEnUZCTYBvvsCFnciFFUD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Starfruit](https://open.spotify.com/album/19qPt0RZapWvOKsACyvfQF) | 3:42 | 2022-02-10 | 2022-07-29 |
-| [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 |  |
+| [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 | 2025-06-06 |
 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-03 | 2022-04-17 |
 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-07-28 | 2023-05-26 |
 | [Get Me Some](https://open.spotify.com/track/54bJVMbRyGmVHWslFpU4nK) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:32 | 2021-12-23 | 2022-07-29 |

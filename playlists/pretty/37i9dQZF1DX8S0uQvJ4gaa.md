@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Dylan Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,144 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,194 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Be Your Man](https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Be Your Man](https://open.spotify.com/album/4y0kalZtaXrYjUxkqG6wu7) | 3:13 |
 | 100 | [Love Me Tonight](https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Love Me Tonight](https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e) | 3:22 |
 
-Snapshot ID: `aDktWwAAAAA7Bx7IWdQ3lKQOZxOmCwaC`
+Snapshot ID: `aDktWwAAAAA8yAmHhoDC3z2xAq4H/okp`

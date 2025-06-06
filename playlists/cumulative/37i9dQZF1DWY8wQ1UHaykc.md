@@ -4,11 +4,13 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-198 songs - 13 hr 36 min
+204 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Tahun Lamanya](https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Pongki Barata Meets The Stars](https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy) | 3:52 | 2024-01-05 |  |
+| [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 | 2025-06-05 |  |
+| [Air Mata Surga](https://open.spotify.com/track/1DZ1ixuEt4x4nq6aiTPD5a) | [Dewi Sandra](https://open.spotify.com/artist/4w5DJrPQqcfsEvucQqm1Kj) | [Air Mata Surga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rsdfMQe5CE0HtvlnVKl9v) | 3:54 | 2025-06-05 |  |
 | [Akankah Dia](https://open.spotify.com/track/51naV719uEXPWGG90FlTKS) | [Sidepony](https://open.spotify.com/artist/2cxHAUcweUslsxKiAu2fzs) | [Percayalah](https://open.spotify.com/album/2hOmKUVGCiZi2QCFSNKTJ6) | 3:25 | 2024-01-05 |  |
 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2Hj56hnZ8aAFxxkh7HMfsE) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/4SU72f8lCnTr1GM9GPkFPY) | 3:26 | 2024-01-05 | 2024-04-19 |
 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2ZnMyljOhstLNMuzyGCnze) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/3tJ2FdfpXKoTJPPyXYEjZF) | 3:26 | 2024-04-19 |  |
@@ -69,6 +71,7 @@
 | [Hinaan Membuat Tegar](https://open.spotify.com/track/5hvAg2884QAlC5E9P30KMN) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Melodichildish](https://open.spotify.com/album/6Ww2FnpfXq6wYZHgzFl4pV) | 2:43 | 2024-04-04 |  |
 | [Hingga Nanti](https://open.spotify.com/track/5dd8CjRnvomx6tvnkp8kvP) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Persona](https://open.spotify.com/album/2L66OVISdrxclCyzq4Unsb) | 4:27 | 2024-04-19 |  |
 | [Hingga Nanti](https://open.spotify.com/track/6dWuSh2WDrllXoG1lvlyZX) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Persona](https://open.spotify.com/album/0umqxnA4rVmsdw2qKtcVDA) | 4:29 | 2024-01-05 | 2024-04-19 |
+| [Hitungan Cinta](https://open.spotify.com/track/3IapzBoWZUngR7IktmjUfY) | [Papinka](https://open.spotify.com/artist/7tvLVH9DBiCZxcvyXfcWm7) | [Masih Mencintainya](https://open.spotify.com/album/068syU1l5xg89dDtnpQlLr) | 3:40 | 2025-06-05 |  |
 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 | 2024-01-05 |  |
 | [I Heart You](https://open.spotify.com/track/4zhGJ84SHwua3pzJ1WkNtA) | [SMASH](https://open.spotify.com/artist/1x5dGP91xs8B6VCi80SlQF) | [Senyum Semangat](https://open.spotify.com/album/41Cz2ED5W95kU1m7SuCWTF) | 3:20 | 2024-04-19 |  |
 | [I Heart You](https://open.spotify.com/track/78rsxJsbBtWtTcCwgJqoA3) | [SMASH](https://open.spotify.com/artist/1x5dGP91xs8B6VCi80SlQF) | [Senyum Semangat](https://open.spotify.com/album/7nnmhFkm8eqY4d8wAhhjom) | 3:20 | 2024-01-05 | 2024-04-19 |
@@ -78,6 +81,7 @@
 | [Jalanmu Bukan Jalanku](https://open.spotify.com/track/2DrlC7LtDvr1LWxOPFcxMo) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Love, Faith & Hope](https://open.spotify.com/album/6WL8evGdQW3Z209facKSGG) | 3:47 | 2024-01-05 | 2024-04-19 |
 | [Jalanmu Bukan Jalanku](https://open.spotify.com/track/6IShpxM4RpGRF9T19Uiaia) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Love, Faith & Hope](https://open.spotify.com/album/25GAJAfXxwGBD5yitZBLE8) | 3:47 | 2024-04-19 |  |
 | [Jangan Cintai Aku Apa Adanya](https://open.spotify.com/track/51oQZ1A2BZe6b4klnpTFzK) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:41 | 2024-01-05 |  |
+| [Jangan Ngarep](https://open.spotify.com/track/3m8GHAGLcywGmrZWEVR7Ph) | [Setia Band](https://open.spotify.com/artist/7uEP7CL6JdUpyNTYdEzfb4) | [Satu Hati](https://open.spotify.com/album/26YJVM3W5I16HW2HBRouXL) | 3:11 | 2025-06-05 |  |
 | [Jangan Pernah Lelah Menunggu](https://open.spotify.com/track/768LwJlurO4pTZooYHe2fw) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Anugrah Terindah](https://open.spotify.com/album/4X6T4uzDfLdij4oZjzf3wb) | 3:33 | 2024-01-05 |  |
 | [Jatuh Hati](https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:27 | 2025-01-24 |  |
 | [Jika Cinta Dia](https://open.spotify.com/track/0YeFGeuL7nr9V4GKjflsDa) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Seleksi Hits](https://open.spotify.com/album/1Y8F20UfzbynDnmWAlCTYB) | 4:11 | 2025-01-24 |  |
@@ -118,6 +122,7 @@
 | [Malaikat Juga Tahu](https://open.spotify.com/track/2mSZwPBXpTMbjiNHAKMUo7) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/0e3Uf5EZr7LLzpl19UbJ8N) | 5:24 | 2024-01-05 | 2024-04-19 |
 | [Malaikat Juga Tahu](https://open.spotify.com/track/4F0zagZIjtGtZpFhqggW7P) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/7xDITPT69DW3zhYUTwM50B) | 5:24 | 2024-04-19 |  |
 | [Malam Biru](https://open.spotify.com/track/6PY4SQue8uzeN3GrLaHwgF) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Sandhy Sondoro](https://open.spotify.com/album/24k3Yl1sgc3U9P2VpPDYpD) | 2:48 | 2024-01-05 |  |
+| [Malam Mingguku](https://open.spotify.com/track/6a5do8f4VDmRzdkXvSz4HS) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 3:55 | 2025-06-05 |  |
 | [Mantan Terindah](https://open.spotify.com/track/0QgeFBoFwySkVnfR6ZWTAA) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Yang Ngehits 2000an](https://open.spotify.com/album/0wWk8fGY4MfjwHPc9exwpE) | 3:43 | 2024-01-05 | 2024-04-19 |
 | [Mantan Terindah](https://open.spotify.com/track/3ZWEDE7GwkhMelG3rq5F2w) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Lebih Dari Sekedar Cantik](https://open.spotify.com/album/43ZXxyLWuenjHTUV6hWBPe) | 3:43 | 2024-04-19 |  |
 | [Matahariku](https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Agnes Is My Name](https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW) | 4:26 | 2024-01-05 |  |
@@ -206,5 +211,6 @@
 | [Waktu Yang Salah](https://open.spotify.com/track/5Vl0qvoR05RwOamV73C1Av) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2Vu9vlqebIXTxVSZiuxpyj) | 5:23 | 2024-04-04 | 2024-04-19 |
 | [Waktu Yang Salah](https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV), [Thantri Sundari](https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV) | [Tempat Aku Pulang](https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7) | 5:25 | 2024-04-19 |  |
 | [Wanita Masih Banyak](https://open.spotify.com/track/5H60BCrbWBocSIAoZwjxwD) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Melodichildish](https://open.spotify.com/album/6Ww2FnpfXq6wYZHgzFl4pV) | 3:52 | 2024-01-05 |  |
+| [Wanitaku](https://open.spotify.com/track/7qUeHiPccGnbcfweVqrgr0) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Keterkaitan Keterikatan](https://open.spotify.com/album/5pkOZs3oUgFRBo7mbK4CUp) | 4:18 | 2025-06-05 |  |
 
 \*This playlist was first scraped on 2024-01-20. Prior content cannot be recovered.

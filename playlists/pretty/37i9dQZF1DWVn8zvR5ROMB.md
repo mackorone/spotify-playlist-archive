@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Kameron Marlowe,  Dylan Scott, Josh Ross with Akon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,341 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,408 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 106 | [Tell That Angel I Love Her](https://open.spotify.com/track/7LsPpvvPlgoFl9H82kABKp) | [John Foster](https://open.spotify.com/artist/6ElYg8lQz5ABijBc6cZ3DO) | [Tell That Angel I Love Her](https://open.spotify.com/album/1IyTS45PFg2gTFskFfD639) | 3:25 |
 | 107 | [Black Celica \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4TrQgAAVRt0v9LI1ahurbm) | [Cyndi Thomson](https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Acres of Diamonds](https://open.spotify.com/album/3zZZ1FkTNX5txLzybHoH6Z) | 3:23 |
 
-Snapshot ID: `aDktZgAAAABoSuf1pGa4vEOVAQSBwXmo`
+Snapshot ID: `aDktZgAAAAAMhUOxkGIvO+0fqqisyRBW`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Odetto",
+  "description": "The best French indie tracks right now. Cover : Victor Marc",
   "name": "Made in France",
   "tracks": [
     {
@@ -1297,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/7i5vXSPjvgiciGKqXakw4D"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226600,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/70YFYf4eukW4P25PxFF4Oe"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/1WqnhdEIciecoyWVYeJzEE"
       },
@@ -1660,7 +1682,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 139842,
       "name": "CHEMISE & CRAVATE",
       "url": "https://open.spotify.com/track/14KVthKHk6QjkrPrRqArBg"
@@ -2232,6 +2254,24 @@
       "duration_ms": 198506,
       "name": "Crush (feat. Ana\u00efs Demoustier)",
       "url": "https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ"
+    },
+    {
+      "album": {
+        "name": "C\u00e9sar",
+        "url": "https://open.spotify.com/album/6Nsx1hSWmCd2IxsvZiHwOn"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00ed",
+          "url": "https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "C\u00e9sar",
+      "url": "https://open.spotify.com/track/3FPohoM2Mzz2dvDdFrx8ip"
     },
     {
       "album": {
@@ -3748,7 +3788,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 165742,
       "name": "Futurisme",
       "url": "https://open.spotify.com/track/0ZuqDR3Yl6UqyNJRZ4DT2o"
@@ -4206,6 +4246,24 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/6kTo4iuBmoNfHO0yEpLWDs"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228821,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/15Kj37bbsZIhr0NohlCTpw"
     },
     {
       "album": {
@@ -6391,6 +6449,28 @@
     },
     {
       "album": {
+        "name": "Light Stealer",
+        "url": "https://open.spotify.com/album/2Ynf0t7gdy906KCrl4n3SK"
+      },
+      "artists": [
+        {
+          "name": "Paul Prier",
+          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
+        },
+        {
+          "name": "infinite bisous",
+          "url": "https://open.spotify.com/artist/7w5cbnOLouZ5bGFvwIF5Ff"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208014,
+      "name": "Light Stealer",
+      "url": "https://open.spotify.com/track/06O29pT254YN6fsXPwuCmL"
+    },
+    {
+      "album": {
         "name": "postcard from NYC",
         "url": "https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR"
       },
@@ -6620,7 +6700,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 194526,
       "name": "Lundi matin",
       "url": "https://open.spotify.com/track/3PIvaEDxw6bhK9s4wtI24a"
@@ -6834,7 +6914,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 190761,
       "name": "Matcha Queen",
       "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
@@ -7999,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv"
+      },
+      "artists": [
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152485,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2"
+    },
+    {
+      "album": {
         "name": "Oh Why",
         "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
       },
@@ -8891,6 +8989,24 @@
     },
     {
       "album": {
+        "name": "Radioactif",
+        "url": "https://open.spotify.com/album/5QYZKCAgRnfNZv1S0VfIUo"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159740,
+      "name": "Radioactif",
+      "url": "https://open.spotify.com/track/1WMvGgNwiuvgLc6gn6mnPe"
+    },
+    {
+      "album": {
         "name": "RBH",
         "url": "https://open.spotify.com/album/1Ur9lpwWAuK90MoUyNtLK0"
       },
@@ -8982,6 +9098,24 @@
       "duration_ms": 167010,
       "name": "Reconnection",
       "url": "https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY"
+    },
+    {
+      "album": {
+        "name": "Recto verso",
+        "url": "https://open.spotify.com/album/2BapqsOrRlxAuClk4i2xte"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Fever",
+          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150309,
+      "name": "Recto verso",
+      "url": "https://open.spotify.com/track/3IXtgqo8hTBIhnjhJ7WdhI"
     },
     {
       "album": {
@@ -10552,7 +10686,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 238500,
       "name": "The Edge of Light",
       "url": "https://open.spotify.com/track/35cYKUPuED9RTI2GaQI3dl"
@@ -10900,7 +11034,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 210346,
       "name": "Ton appel",
       "url": "https://open.spotify.com/track/7BGnjfKjxQtGcibiFFRHm8"

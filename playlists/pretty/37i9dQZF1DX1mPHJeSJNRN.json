@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 21151,
+  "num_followers": 21162,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "The Complete Bill Evans On Verve",
         "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 237200,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "A Beautiful Friendship",
-        "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
-      },
-      "artists": [
-        {
-          "name": "Alexis Cole",
-          "url": "https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE"
-        },
-        {
-          "name": "Bucky Pizzarelli",
-          "url": "https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "A Beautiful Friendship",
-      "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -571,18 +551,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+        "name": "A Beautiful Friendship",
+        "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
       "artists": [
         {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+          "name": "Alexis Cole",
+          "url": "https://open.spotify.com/artist/6ZljReNeQbX2fn8yjGWiNE"
+        },
+        {
+          "name": "Bucky Pizzarelli",
+          "url": "https://open.spotify.com/artist/0Adi1C37oMa2axoBWcMtxq"
         }
       ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+      "duration_ms": 258239,
+      "name": "A Beautiful Friendship",
+      "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -599,6 +583,22 @@
       "duration_ms": 206800,
       "name": "Omission",
       "url": "https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -647,38 +647,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
-      },
-      "artists": [
-        {
-          "name": "Alma Naidu",
-          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Something 'bout the Rain",
-      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
-      },
-      "artists": [
-        {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
-        }
-      ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -695,18 +663,18 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
       "artists": [
         {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
         }
       ],
-      "duration_ms": 208391,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -731,6 +699,38 @@
       "duration_ms": 237013,
       "name": "Cad\u00eancia",
       "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+      },
+      "artists": [
+        {
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Something 'bout the Rain",
+      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Let's Sail Away",
-        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
-      },
-      "artists": [
-        {
-          "name": "Jeff Rupert",
-          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
-        },
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Let's Sail Away",
+        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rupert",
+          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "The Sound the Rhythm",
-        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
-      },
-      "artists": [
-        {
-          "name": "Jan Harbeck Quartet",
-          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
-        }
-      ],
-      "duration_ms": 444573,
-      "name": "Tangorrus Field",
-      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 194173,
       "name": "April Come She Will",
       "url": "https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Sound the Rhythm",
+        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "duration_ms": 444573,
+      "name": "Tangorrus Field",
+      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
-        }
-      ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 179906,
       "name": "I Can't Be Bothered Now",
       "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+        }
+      ],
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2025-03-13 14:14:40",

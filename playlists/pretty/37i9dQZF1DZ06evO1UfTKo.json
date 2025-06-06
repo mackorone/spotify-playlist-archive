@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 748122,
+  "num_followers": 748164,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAC3xABv/bzEsTFFefo1sxAI",
+  "snapshot_id": "aD+MgAAAAAAu6zPzITIXslbza02Jgj0m",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Los Tres Amigos",
-      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Idolos Del Pueblo",
         "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 171920,
       "name": "Tres Veces Mojado",
       "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Los Tres Amigos",
+      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Plebes",
-        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Agua Salada",
-      "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pacto De Sangre",
         "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 233853,
       "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
       "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Dos Plebes",
+        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Plebes",
-        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Los Dos Plebes",
-      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carrera Contra La Muerte",
         "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 180746,
       "name": "Carrera Contra La Muerte",
       "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Dos Plebes",
+        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Los Dos Plebes",
+      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
     },
     {
       "added_at": null,

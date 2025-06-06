@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 127 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 |
 | 128 | [love me again](https://open.spotify.com/track/1VfiZkm7V4EmwifFaHa9N5) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/3KaCIYqhfvk9NapzoPa8BB) | 2:25 |
 | 129 | [Tomorrow](https://open.spotify.com/track/7rSe0wAcz5tqmblhrloy7T) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Rising EP](https://open.spotify.com/album/0aYvKLFNGokA3V8E8thcLq) | 3:13 |
-| 130 | [Castle Walls](https://open.spotify.com/track/65uAnHQuEx07zf4gCG7bke) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Castle Walls](https://open.spotify.com/album/6fAuCPNq6dlI7CYfExniA9) | 2:33 |
-| 131 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
+| 130 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
+| 131 | [Castle Walls](https://open.spotify.com/track/65uAnHQuEx07zf4gCG7bke) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Castle Walls](https://open.spotify.com/album/6fAuCPNq6dlI7CYfExniA9) | 2:33 |
 | 132 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
 | 133 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
 | 134 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 164 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 165 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AbzRSAAAAACtxXCRVD3Ep4YVSmufayb7`
+Snapshot ID: `AbzW6AAAAAA9u6DE1Hi/7vLT5cuAsoVL`

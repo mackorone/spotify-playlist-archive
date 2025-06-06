@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 300749,
+  "num_followers": 300831,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAA+dq7rWFJ31x+B1k1VRvRF",
+  "snapshot_id": "aD+MgAAAAACdhC4FDN9JBAa4R5EOWamy",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "It's Not Me, It's You",
-      "url": "https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comatose",
         "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 210786,
       "name": "The Last Night",
       "url": "https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "It's Not Me, It's You",
+      "url": "https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP"
     },
     {
       "added_at": null,

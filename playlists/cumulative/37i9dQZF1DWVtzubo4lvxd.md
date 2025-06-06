@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-311 songs - 11 hr 57 min
+312 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Casino Space Gun](https://open.spotify.com/track/2p83a4H9M3lElGRga9nEgm) | [Mr.Goodvibe](https://open.spotify.com/artist/31jkkhXZ4nPrp00nLjznqx), [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb) | [Casino Space Gun](https://open.spotify.com/album/7KmciSq3fci8jZvxpiY46i) | 2:20 | 2022-04-15 | 2022-07-29 |
 | [Cats Walking](https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Cats Walking](https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps) | 2:16 | 2022-04-15 | 2024-03-13 |
 | [Cerveza](https://open.spotify.com/track/43u2nrHfKmxQZwkQ3LAMG6) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Cerveza](https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel) | 2:59 | 2022-04-15 | 2022-07-07 |
-| [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 | 2024-03-12 |  |
+| [chemistry](https://open.spotify.com/track/1MjmayyHSczxHONWSE2WMs) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [chemistry](https://open.spotify.com/album/1zOHpqsSHargJchc6TJORp) | 2:00 | 2024-03-12 | 2025-06-06 |
 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 | 2024-03-12 |  |
 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 | 2022-04-15 | 2024-04-14 |
 | [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2024-03-12 | 2025-01-28 |
@@ -96,6 +96,7 @@
 | [Found you by the Sea](https://open.spotify.com/track/2ovlA6kPP1XaR8hg7qgtnM) | [9thchord](https://open.spotify.com/artist/1FnAtXNjnVfTk157yQWzy5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Found you by the Sea](https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Friendly Faces](https://open.spotify.com/track/0th7hewFkDGdoOR1N3QNBL) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Friendly Faces & Pocket Queens](https://open.spotify.com/album/5feRhvTa6tXjlQ3JIBip2Z) | 2:59 | 2024-03-12 |  |
 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 | 2024-03-12 | 2025-04-12 |
+| [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 | 2024-03-12 |  |
 | [Gaze](https://open.spotify.com/track/2bWSSn9tMf9JeJB3ZPnUbB) | [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Gaze](https://open.spotify.com/album/3o7rNZqM0CkoVAwyWUXaro) | 1:35 | 2022-04-15 | 2022-07-29 |
 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [go away](https://open.spotify.com/track/0fXfA8rpomAF4jMx58zs67) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [go away](https://open.spotify.com/album/6vtdKV232OX7c3KHCcgeLD) | 2:12 | 2022-04-15 | 2022-07-29 |

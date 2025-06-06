@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Panter Bélico en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Panther Belico en portada.
 
 507 songs - 1 day 1 hr 40 min
 

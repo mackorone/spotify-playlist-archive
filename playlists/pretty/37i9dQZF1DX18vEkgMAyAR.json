@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Don't Answer",
-        "url": "https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "Don't Answer",
-      "url": "https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Got Me Started",
         "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Don't Answer",
+        "url": "https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "Don't Answer",
+      "url": "https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN"
     },
     {
       "added_at": "2024-05-10 06:34:25",

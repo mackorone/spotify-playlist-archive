@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 319441,
+  "num_followers": 319462,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACZ6+zpBfQiAUv8snYjbUwf",
+  "snapshot_id": "aD+MgAAAAAC04y1ikfjsTyRllMMQ1oJZ",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -599,38 +599,6 @@
       "duration_ms": 528133,
       "name": "Voodoo Chile Blues",
       "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Astro Man - Takes 9 & 10",
-      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
     },
     {
       "added_at": null,
@@ -651,6 +619,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Astro Man - Takes 9 & 10",
+      "url": "https://open.spotify.com/track/33S1QGMFmrAUULXa4UpVhg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Room Full of Mirrors",
-      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
+      "duration_ms": 104973,
+      "name": "Villanova Junction Blues",
+      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 104973,
-      "name": "Villanova Junction Blues",
-      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
+      "duration_ms": 215133,
+      "name": "Room Full of Mirrors",
+      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
     },
     {
       "added_at": null,

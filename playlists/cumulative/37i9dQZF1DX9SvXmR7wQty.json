@@ -39387,6 +39387,24 @@
     },
     {
       "album": {
+        "name": "Mon c\u0153ur tu es fou",
+        "url": "https://open.spotify.com/album/5qU9InICLOovCb2CavVsuJ"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2025-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Mon c\u0153ur tu es fou",
+      "url": "https://open.spotify.com/track/0rrmZkGTNVPUq7pOd5ICda"
+    },
+    {
+      "album": {
         "name": "mon d\u00e9sert",
         "url": "https://open.spotify.com/album/6gAacuLJqPhQ7Ek0Gf5ghU"
       },
@@ -42886,7 +42904,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173906,
       "name": "One Time",
       "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"

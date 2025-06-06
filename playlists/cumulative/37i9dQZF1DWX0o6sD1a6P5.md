@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naza x SDM
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: SEYSEY x BOLEMVN
 
-784 songs - 1 day 14 hr 25 min
+785 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [By Your Side](https://open.spotify.com/track/3kyS2lEAAKjva2f42O1KyT) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [By Your Side](https://open.spotify.com/album/0WBj9GaZEf7oG2SyGmG63M) | 3:15 | 2023-02-02 | 2023-03-25 |
 | [C pas normal](https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [C pas normal](https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK) | 2:44 | 2023-01-12 | 2023-05-12 |
 | [C'EST FAUX](https://open.spotify.com/track/5CAwH02CuQV9lYCwFEqn2v) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:23 | 2022-07-21 | 2022-08-26 |
+| [C'est incroyable](https://open.spotify.com/track/4DWzd96wVSDnV0OShkB7Y6) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [C'est incroyable](https://open.spotify.com/album/2Szye4IrWrvlQXDfdKy4Xh) | 2:23 | 2025-06-05 |  |
 | [C'est ma vie](https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [C'est ma vie](https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC) | 2:45 | 2024-12-05 | 2025-03-28 |
 | [C'est mort](https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [C'est mort](https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP) | 2:55 | 2022-03-10 | 2022-05-06 |
 | [C'est qui ?](https://open.spotify.com/track/6vFW5IUYRUAKcrvkRuWoQP) | [Big Ben](https://open.spotify.com/artist/4jPuXBvEwyMyVQPRoQsTDn), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [C'est qui ?](https://open.spotify.com/album/3DvCvEWcEcK9iG4cf8lOn8) | 2:45 | 2023-11-30 | 2024-03-08 |
@@ -267,7 +268,7 @@
 | [Fake Friends \(Iró Òre\)](https://open.spotify.com/track/38taP6j04eJMJu6dM3feot) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fake Friends \(Iró Òre\)](https://open.spotify.com/album/2YdB6Hh9Xq555Bhyy7u5Kg) | 2:59 | 2023-06-29 | 2023-07-28 |
 | [Fall](https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Fall](https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO) | 3:06 | 2022-02-17 | 2022-07-01 |
 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-04-07 | 2022-04-22 |
-| [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 | 2025-05-29 |  |
+| [Falling In Love](https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Falling In Love](https://open.spotify.com/album/5PfyP5wekXVjrqkvhKaqF1) | 3:10 | 2025-05-29 | 2025-06-06 |
 | [Family Problem](https://open.spotify.com/track/09uz7ZgINfKSXcTPT2zrLb) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [GENESIS](https://open.spotify.com/album/0MrECtDGFvoeXxvsS7y9XV) | 3:41 | 2023-03-09 | 2023-04-07 |
 | [Fan](https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Fan](https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn) | 2:58 | 2025-05-01 |  |
 | [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-04-10 |  |

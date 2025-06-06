@@ -4,7 +4,7 @@
 
 > Aka Rasta e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-619 songs - 1 day 11 hr 58 min
+620 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,12 +220,13 @@
 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 | 2022-04-18 | 2022-08-09 |
 | [Final De Tarde](https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nos Arcos da Lapa](https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi) | 3:57 | 2024-02-09 | 2024-08-10 |
 | [Final do Ano](https://open.spotify.com/track/3xdEjqUOiLBkRmTrSst1GX) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Final do Ano](https://open.spotify.com/album/1h2RhlUSQjfQanF8PFqhWM) | 3:19 | 2022-12-12 | 2023-01-17 |
-| [Fiquei No Quase \- Ao Vivo](https://open.spotify.com/track/5o3DK6gvGgMhXzri6XkYvU) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Calendário \(Ao Vivo\)](https://open.spotify.com/album/4fSII9vcex0Fd5lnlv1GB3) | 2:52 | 2025-05-30 |  |
+| [Fiquei No Quase \- Ao Vivo](https://open.spotify.com/track/5o3DK6gvGgMhXzri6XkYvU) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Calendário \(Ao Vivo\)](https://open.spotify.com/album/4fSII9vcex0Fd5lnlv1GB3) | 2:52 | 2025-05-30 | 2025-06-06 |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:16 | 2022-03-18 | 2022-04-05 |
 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-18 | 2022-04-12 |
 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 | 2023-01-06 | 2023-09-02 |
 | [FOME](https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:42 | 2025-03-14 |  |
 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 | 2022-03-18 | 2022-04-12 |
+| [Foto \- Ao Vivo](https://open.spotify.com/track/3POrgCwqQq9JNfUR7OZCnV) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Só VVamo Sunset \(Ao Vivo\)](https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN) | 2:48 | 2025-05-30 |  |
 | [Foto da Unha](https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Foto da Unha](https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln) | 3:19 | 2024-01-22 | 2024-06-01 |
 | [Fragrância \- Remix](https://open.spotify.com/track/76E9YSvgci2hPaNFy3XZu1) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:51 | 2022-03-18 | 2022-03-30 |
 | [Freio da Blazer](https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Freio da Blazer](https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb) | 3:00 | 2022-03-18 | 2022-03-26 |

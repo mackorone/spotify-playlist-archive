@@ -1,51 +1,31 @@
 {
-  "description": "\"Me Enamore\" de RIDSA est le Grand Hit de la semaine.",
-  "num_followers": 1024605,
+  "description": "\"Un dimanche avec toi\" de Vitaa est le Grand Hit de la semaine.",
+  "num_followers": 1024594,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDjZCQAAAABHUheywZAm5nWTgztFrBPK",
+  "snapshot_id": "aEITgwAAAADgUYnqzLcsoKfvAUsT28w9",
   "tracks": [
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
       },
       "artists": [
         {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
         }
       ],
-      "duration_ms": 189725,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
+      "duration_ms": 200400,
+      "name": "Un dimanche avec toi",
+      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "\u00c0 tes c\u00f4t\u00e9s",
-        "url": "https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "\u00c0 tes c\u00f4t\u00e9s",
-      "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "99 Nights (Edition Deluxe)",
         "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
@@ -61,7 +41,23 @@
       "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "M'envoler",
         "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
@@ -81,23 +77,23 @@
       "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "Ma faute",
-        "url": "https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT"
+        "name": "les filles, les meufs",
+        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
       },
       "artists": [
         {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
         }
       ],
-      "duration_ms": 199376,
-      "name": "Ma faute",
-      "url": "https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU"
+      "duration_ms": 179280,
+      "name": "les filles, les meufs",
+      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "maman",
         "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
@@ -113,7 +109,59 @@
       "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Ma faute",
+        "url": "https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Ma faute",
+      "url": "https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Mauvais Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Mauvais Gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Hallelujah (Live \u00e0 Notre-Dame)",
         "url": "https://open.spotify.com/album/447QjRNZM6f0UzC0DfY2Mk"
@@ -137,55 +185,71 @@
       "url": "https://open.spotify.com/track/7s3KNhg90zZhRewUTie2AS"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "les filles, les meufs",
-        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
       },
       "artists": [
         {
-          "name": "marguerite",
-          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
         }
       ],
-      "duration_ms": 179280,
-      "name": "les filles, les meufs",
-      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
+      "duration_ms": 187586,
+      "name": "J\u2019ai chang\u00e9",
+      "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Un dimanche avec toi",
-      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "Chaque seconde (Edition deluxe)",
-        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+        "name": "CIEL",
+        "url": "https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 155186,
-      "name": "Ce qui me va",
-      "url": "https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP"
+      "duration_ms": 186461,
+      "name": "CIEL",
+      "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 168394,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Lola (feat. Nicola Sirkis)",
         "url": "https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ"
@@ -209,55 +273,23 @@
       "url": "https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "Partir un jour",
-        "url": "https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf"
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 212240,
-      "name": "Partir un jour",
-      "url": "https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU"
+      "duration_ms": 155186,
+      "name": "Ce qui me va",
+      "url": "https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "J\u2019ai chang\u00e9",
-      "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Mauvais Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Mauvais Gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Le jeu",
         "url": "https://open.spotify.com/album/2v6gZqCcuHtBtk9FTx9adP"
@@ -273,55 +305,7 @@
       "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "CIEL",
-        "url": "https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "CIEL",
-      "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Reflet",
-        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 168394,
-      "name": "Reflet",
-      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Les \u00e9toiles",
         "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
@@ -337,23 +321,23 @@
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
         }
       ],
-      "duration_ms": 216966,
-      "name": "La Diff\u00e9rence - Single Version",
-      "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
+      "duration_ms": 160573,
+      "name": "Coeur maladroit",
+      "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "L'amour fou",
         "url": "https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV"
@@ -369,7 +353,23 @@
       "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 216966,
+      "name": "La Diff\u00e9rence - Single Version",
+      "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Je Vis Pour Elle (feat. Kendji Girac)",
         "url": "https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp"
@@ -389,7 +389,71 @@
       "url": "https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Courage (Edit)",
+        "url": "https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Courage - Edit",
+      "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Partir un jour",
+        "url": "https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Partir un jour",
+      "url": "https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "M\u00e9latonine",
+      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Gamin des sables",
+        "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Avec ou sans",
+      "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -413,87 +477,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Gamin des sables",
-        "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Avec ou sans",
-      "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Courage (Edit)",
-        "url": "https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Courage - Edit",
-      "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Le monde demain (Version radio)",
-        "url": "https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz"
-      },
-      "artists": [
-        {
-          "name": "Les Enfoir\u00e9s",
-          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Le monde demain - Version radio",
-      "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "H\u00e9l\u00e9",
-        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "M\u00e9latonine",
-      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Chaque seconde (Edition deluxe)",
-        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Adieu, nous deux",
-      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Compl\u00e9mentaires",
         "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
@@ -509,7 +493,71 @@
       "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Fille lacrymale",
+        "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Amour cyclone",
+      "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Adieu, nous deux",
+      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Le monde demain (Version radio)",
+        "url": "https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz"
+      },
+      "artists": [
+        {
+          "name": "Les Enfoir\u00e9s",
+          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Le monde demain - Version radio",
+      "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Miroirs (Edition deluxe)",
+        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 161213,
+      "name": "Petit Fr\u00e8re",
+      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Aliocha Schneider (Deluxe)",
         "url": "https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI"
@@ -529,7 +577,39 @@
       "url": "https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Monstre",
+        "url": "https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e",
+          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Monstre",
+      "url": "https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
+      "album": {
+        "name": "Je t'emm\u00e8nerai",
+        "url": "https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB"
+      },
+      "artists": [
+        {
+          "name": "St Graal",
+          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Je t'emm\u00e8nerai",
+      "url": "https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5"
+    },
+    {
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Comme des loups (feat. Zaoui)",
         "url": "https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC"
@@ -549,39 +629,7 @@
       "url": "https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Miroirs (Edition deluxe)",
-        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 161213,
-      "name": "Petit Fr\u00e8re",
-      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Monstre",
-        "url": "https://open.spotify.com/album/3LVYLbTaOzMoGSRANhdEGu"
-      },
-      "artists": [
-        {
-          "name": "Esm\u00e9e",
-          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Monstre",
-      "url": "https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Seul ici",
         "url": "https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh"
@@ -597,23 +645,7 @@
       "url": "https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Fille lacrymale",
-        "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Amour cyclone",
-      "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "Sinc\u00e8re",
         "url": "https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T"
@@ -645,39 +677,7 @@
       "url": "https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU"
     },
     {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv"
-      },
-      "artists": [
-        {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
-      "album": {
-        "name": "Je t'emm\u00e8nerai",
-        "url": "https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB"
-      },
-      "artists": [
-        {
-          "name": "St Graal",
-          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Je t'emm\u00e8nerai",
-      "url": "https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5"
-    },
-    {
-      "added_at": "2025-05-29 22:00:41",
+      "added_at": "2025-06-05 22:00:35",
       "album": {
         "name": "PAFINI",
         "url": "https://open.spotify.com/album/6Ox536pswJGisvC5PpgYnp"

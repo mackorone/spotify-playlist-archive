@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-773 songs - 1 day 16 hr 1 min
+774 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [HIGH](https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [FACETS](https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk) | 3:12 | 2023-10-20 | 2024-06-07 |
 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 | 2023-09-29 | 2024-02-23 |
 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 | 2024-04-26 | 2024-08-26 |
-| [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 |  |
+| [Hold You Down](https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Hold You Down](https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0) | 2:38 | 2024-04-19 | 2025-06-06 |
 | [Home](https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Home \- A COLORS SHOW](https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo) | 2:24 | 2024-06-07 | 2024-11-28 |
 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 | 2023-09-29 | 2023-10-18 |
 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2024-01-26 | 2024-06-28 |
@@ -472,6 +472,7 @@
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 | 2024-10-26 |
 | [not regular](https://open.spotify.com/track/7JRUeL2mhC0AIwYDbKy7DG) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso), [Tsuni](https://open.spotify.com/artist/5W7waNb0uh9oWrim0ESWVu) | [dear diary](https://open.spotify.com/album/4QIZHDRxiTCmOp45XXASNu) | 3:24 | 2023-09-09 | 2023-09-29 |
 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 | 2023-11-17 | 2024-06-21 |
+| [Nufftime](https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Baby Boy](https://open.spotify.com/album/3JNMIrtiqa028JR0XoG7xw) | 3:06 | 2025-05-30 |  |
 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2023-08-10 | 2023-09-15 |
 | [NWTG](https://open.spotify.com/track/1gqNVP1KADI1vyce4Yb72r) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [NWTG](https://open.spotify.com/album/7xnntO00e5WYYVuiKPWWWG) | 3:15 | 2024-01-26 | 2024-03-22 |
 | [O.D](https://open.spotify.com/track/3nmMU6AXk6Sok53h1QTMlR) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv), [Unjust](https://open.spotify.com/artist/30sxUUgPGms8IEMzdFTl9k) | [O.D](https://open.spotify.com/album/3OrliCsJYTkwGotMIsXNZk) | 3:03 | 2023-05-04 | 2023-05-27 |

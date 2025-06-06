@@ -2981,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "SPECTRUM - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/0WH8xgSC0iLQiFvmxb0NAU"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Spectrum",
+          "url": "https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151017,
+      "name": "F-L-Y (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/1HgqGMEWWMZcCEeUwLP4Xd"
+    },
+    {
+      "album": {
         "name": "Yesterday, Today & Tomorrow",
         "url": "https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV"
       },
@@ -11928,7 +11950,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 216204,
       "name": "\u3044\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
@@ -15544,7 +15566,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 212418,
       "name": "\u604b\u6a19",
       "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
@@ -17428,6 +17450,32 @@
       "duration_ms": 215400,
       "name": "\u991e",
       "url": "https://open.spotify.com/track/4151sPJDAMGChnHnxY1BJ1"
+    },
+    {
+      "album": {
+        "name": "\u9c57\u7c89(Butterfly Scales)",
+        "url": "https://open.spotify.com/album/2mzZVJhkf9j8wz2LP6vCQz"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3089\u304b\u306a\u3053",
+          "url": "https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj"
+        },
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        },
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2025-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u9c57\u7c89(Butterfly Scales)",
+      "url": "https://open.spotify.com/track/6vnt0yk7gOXJ8Y6mM6msMf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdY5tVYFPWb2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,988 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,008 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 104 | [가을비 우산속](https://open.spotify.com/track/2HkWZu2uAsTOSvskWHhBcP) | [최헌](https://open.spotify.com/artist/4fh9sNOE7Vm0oYLxvcGge2) | [골든 베스트](https://open.spotify.com/album/3v4t94mftOhe1Vi56OEIUC) | 3:48 |
 | 105 | [종이학](https://open.spotify.com/track/5dRm51vxtecPr0yCv9eDgC) | [Yeong Rok Jeon](https://open.spotify.com/artist/4ekyRk7LiVxyzIlpRkHVqU) | [오리지날 가요 베스트 Vol.1](https://open.spotify.com/album/5h7OD39zBpsNB5Ob2JSJyD) | 2:43 |
 
-Snapshot ID: `AAAAAN8fQKmIiqmTd8MNyp/C/q7uyACM`
+Snapshot ID: `ZrsR9gAAAADu9ViuDt8HRiyxc8Z5px1t`

@@ -2279,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "is a Folk Artist",
+        "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243630,
+      "name": "Guilty Running",
+      "url": "https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf"
+    },
+    {
+      "album": {
         "name": "Strange Overtones",
         "url": "https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj"
       },
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 191358,
       "name": "Running in Circles",
       "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"

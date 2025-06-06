@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,938 likes - 205 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,970 likes - 205 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 204 | [Lament](https://open.spotify.com/track/4t9htJTfaYIZJLDYMqrTCs) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Imagination](https://open.spotify.com/album/6HjWBzHz7sMtXfJ5tlFUqG) | 2:50 |
 | 205 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 |
 
-Snapshot ID: `Z7XbpAAAAADri8kBIQLqikkcMpv/tInG`
+Snapshot ID: `Z7XbpAAAAAADno8ujuAStUQce7hQQB9+`

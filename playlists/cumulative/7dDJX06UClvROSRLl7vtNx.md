@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-890 songs - 1 day 14 hr 37 min
+891 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Closer](https://open.spotify.com/track/3rBD8phZjb14NPblq35s77) | [Seazons](https://open.spotify.com/artist/0yO8jzH8NUwFbJqKfvrRnf), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Closer](https://open.spotify.com/album/1tmjTej23PLm4d9zJQvMNj) | 2:26 | 2023-12-10 | 2023-12-31 |
 | [Clouds Over Twin Lakes](https://open.spotify.com/track/1oAb696G6NX1Ym6OUxjT0F) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Clouds Over Twin Lakes](https://open.spotify.com/album/51wOX6TzkGsn0sw85zpdsW) | 2:25 | 2025-02-20 | 2025-03-23 |
 | [Cold Heart](https://open.spotify.com/track/6jVZGGkPcdpLFYXGaUz2Q5) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [harley.](https://open.spotify.com/artist/1JNdpn1AAnBqtvRqZ13hic) | [Cold Heart](https://open.spotify.com/album/1Kk56qikcuSd1W3UukLVYK) | 3:08 | 2024-05-17 | 2025-04-18 |
+| [Colours](https://open.spotify.com/track/2J5zHk5cmM1lG2xhYGRX16) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Colours](https://open.spotify.com/album/3g8FjQwA2h3jfq0Hc93yqO) | 2:29 | 2025-06-05 |  |
 | [Come Back](https://open.spotify.com/track/3qUKagwiBJl4fYfjB6g2Aj) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Come Back](https://open.spotify.com/album/3i8qrJdKsUhMxzgwlYuUOK) | 2:47 | 2024-09-02 | 2025-04-07 |
 | [Comeback](https://open.spotify.com/track/1yjS1ilQGRHz4tBWSuOs0f) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Comeback](https://open.spotify.com/album/53beMOOUXueIBxRBJJqRrt) | 3:01 | 2024-04-07 | 2024-04-16 |
 | [Coming Home](https://open.spotify.com/track/25g3oz2lI2H9sUeFWfw4YA) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Coming Home](https://open.spotify.com/album/3jIi4BSJfVI0xbA15zJSs3) | 2:18 | 2023-10-20 | 2024-05-13 |

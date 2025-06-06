@@ -4,7 +4,7 @@
 
 > New music from Lil Tecca, XXXtentacion and Juice WRLD.
 
-2,388 songs - 5 day 3 hr 39 min
+2,389 songs - 5 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1827,6 +1827,7 @@
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX) | 2:28 | 2021-12-03 | 2022-01-22 |
 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 | 2025-04-04 | 2025-05-17 |
 | [Sinners Prayer](https://open.spotify.com/track/6KDQWm9BBxQZ7DMfO4ePgV) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Poetic Pain](https://open.spotify.com/album/353P9S1WpRssEgUvXW4kvo) | 3:17 | 2020-09-18 | 2020-10-02 |
+| [Sippin On Some Syrup \(feat\. UGK \(Underground Kingz\) & Project Pat\)](https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [When the Smoke Clears: Sixty 6, Sixty 1](https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI) | 4:21 | 2025-06-05 |  |
 | [SISTA WIVES \- from the Short Film "Red Clay"](https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SISTA WIVES \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng) | 2:29 | 2025-05-16 |  |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-03-25 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-08-11 | 2023-12-02 |

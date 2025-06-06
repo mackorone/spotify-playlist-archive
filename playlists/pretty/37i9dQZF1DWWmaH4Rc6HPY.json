@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Aitana en portada.",
-  "num_followers": 35347,
+  "num_followers": 35369,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "El Tiempo Que Paso Contigo",
         "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "Desastres Fabulosos",
         "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "Plan A",
-        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 153815,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -495,22 +479,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Ciudad Amurallada",
-        "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
       },
       "artists": [
         {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 169545,
-      "name": "Ciudad Amurallada",
-      "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -527,6 +507,26 @@
       "duration_ms": 216774,
       "name": "Te Recuerdo",
       "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Ciudad Amurallada",
+        "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
+      },
+      "artists": [
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 169545,
+      "name": "Ciudad Amurallada",
+      "url": "https://open.spotify.com/track/5O4wXY57eFdXZzKwpjo38A"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Cuando Te Dejan De Querer",
-        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Cuando Te Dejan De Querer",
-      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Consecuencias",
-        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
+        "name": "Cuando Te Dejan De Querer",
+        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 275380,
-      "name": "Consecuencias",
-      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
+      "duration_ms": 155700,
+      "name": "Cuando Te Dejan De Querer",
+      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -747,6 +731,22 @@
       "duration_ms": 341600,
       "name": "Rayo de Luz",
       "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Consecuencias",
+        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 275380,
+      "name": "Consecuencias",
+      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "EL DIABLO",
         "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 193181,
       "name": "EL DIABLO",
       "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "AL100",
+        "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "AL100",
+      "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "Que nadie me llore",
         "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
       },
@@ -919,38 +935,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "AL100",
-        "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 189626,
-      "name": "AL100",
-      "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "\u00bfPor qu\u00e9 no ser amigos?",
-        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -971,18 +967,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+        "name": "\u00bfPor qu\u00e9 no ser amigos?",
+        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+      "duration_ms": 194490,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Nuestra postal (feat. No Te Va Gustar)",
-        "url": "https://open.spotify.com/album/307Merdz0VF2RKcncEMJUM"
-      },
-      "artists": [
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        },
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 212918,
-      "name": "Nuestra postal (feat. No Te Va Gustar)",
-      "url": "https://open.spotify.com/track/0F3mmEvyJ0fnA0PJKCLrAK"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Hablar de Flores",
         "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Nuestra postal (feat. No Te Va Gustar)",
+        "url": "https://open.spotify.com/album/307Merdz0VF2RKcncEMJUM"
+      },
+      "artists": [
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 212918,
+      "name": "Nuestra postal (feat. No Te Va Gustar)",
+      "url": "https://open.spotify.com/track/0F3mmEvyJ0fnA0PJKCLrAK"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "No Entiendo Si Es Amor",
         "url": "https://open.spotify.com/album/0HxWZr8eRfjkXWEe3ZGy58"
       },
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 182841,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Los de Siempre",
         "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/6CJgsLHVF1mSQojduBrX9A"
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
       },
       "artists": [
         {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 215433,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/5zyxGztIuOp27VhkVf1hMZ"
+      "duration_ms": 182841,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1343,6 +1327,22 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/6CJgsLHVF1mSQojduBrX9A"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/5zyxGztIuOp27VhkVf1hMZ"
     },
     {
       "added_at": "2025-05-30 06:00:12",

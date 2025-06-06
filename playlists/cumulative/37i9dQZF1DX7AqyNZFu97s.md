@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Big Warm Bed
 
-2,950 songs - 6 day 11 hr 59 min
+2,951 songs - 6 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1016,6 +1016,7 @@
 | [Go Slow \(Radio Edit\)](https://open.spotify.com/track/01NMbasrQZCSb14fVNcyqT) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [Go Slow \(Radio Edit\)](https://open.spotify.com/album/5619uh8sb0C3lqzkDZQIzE) | 2:58 | 2022-01-05 | 2022-03-09 |
 | [go try](https://open.spotify.com/track/12qBV7gzIJ9QVWiAdO5MDY) | [petal boy](https://open.spotify.com/artist/0ZPEyvYITWMAedn4Wtx0mr) | [go try](https://open.spotify.com/album/5aiFK7YdNdJrY2v2qahmBz) | 2:20 | 2022-09-14 | 2022-10-20 |
 | [Go Ur Own Way](https://open.spotify.com/track/1KOB1FwCB4yFfpAyEsZ3IK) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Go Ur Own Way](https://open.spotify.com/album/3XX1cFgmYp1TW9eyk7rrD5) | 2:14 | 2024-06-18 | 2024-07-31 |
+| [Go Where You're Wanted](https://open.spotify.com/track/31I91A2vqfBKo6z4YknN0F) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Go Where You're Wanted](https://open.spotify.com/album/7pecq9XGFdE0map0YCD5Ne) | 2:54 | 2025-06-03 |  |
 | [GO WRONG](https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [GO WRONG](https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po) | 2:44 | 2024-05-21 | 2024-06-19 |
 | [god damn shame](https://open.spotify.com/track/0E1MhNoaV7boJfi58aNsV0) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [god damn shame](https://open.spotify.com/album/4tslZ022UfQGn98tQIk3WU) | 2:26 | 2022-09-14 | 2022-10-29 |
 | [God Knows](https://open.spotify.com/track/15Lt8EYmFNXjrJOQr2DCzb) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:36 | 2023-03-28 | 2023-04-27 |

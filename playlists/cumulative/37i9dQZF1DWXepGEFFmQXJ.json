@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Lainey Wilson",
+  "description": "The cream of today's country crop. Cover: Dylan Scott",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 255712,
       "name": "American Trail",
       "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
@@ -5552,7 +5552,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 223493,
       "name": "Gettin' Gone (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE"
@@ -11223,6 +11223,24 @@
     },
     {
       "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228247,
+      "name": "Old Habits",
+      "url": "https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5"
+    },
+    {
+      "album": {
         "name": "Old Road Home",
         "url": "https://open.spotify.com/album/57DcVHyT2iHJCyPmqOocmy"
       },
@@ -14797,6 +14815,24 @@
     },
     {
       "album": {
+        "name": "Sweet Lady",
+        "url": "https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179022,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC"
+    },
+    {
+      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4"
       },
@@ -14866,6 +14902,24 @@
       "duration_ms": 181055,
       "name": "Takin' Me Back",
       "url": "https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY"
+    },
+    {
+      "album": {
+        "name": "Polaroids",
+        "url": "https://open.spotify.com/album/54tGe0uM8bFgZMWdxr8HdI"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188773,
+      "name": "Takin\u2019 The Slow Ride",
+      "url": "https://open.spotify.com/track/71cIncNYZRMrpqWARKNcoc"
     },
     {
       "album": {
@@ -15338,7 +15392,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 156845,
       "name": "The Women I Am",
       "url": "https://open.spotify.com/track/1XjVQyAx7y4oz1ZkaFUnyY"

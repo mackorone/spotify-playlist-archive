@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: Dominic Chin
+> Listen to the future\. Cover: empty page.
 
-185 songs - 10 hr 3 min
+186 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [LESSONS](https://open.spotify.com/track/4e6BzRekPHuGyVzWsVdKUX) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 4:28 | 2025-04-15 |  |
 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 | 2024-10-10 | 2024-12-05 |
 | [LOSING FEELINGS](https://open.spotify.com/track/7bKeqLu2NQOME2TnwkoKmS) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT) | [LOSING FEELINGS](https://open.spotify.com/album/1oo63K1kPBISER5tXwlBr1) | 2:05 | 2025-04-15 |  |
+| [lupakanku](https://open.spotify.com/track/7fJmvjxfNVVv9Kvr2DgPhR) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [lupakanku](https://open.spotify.com/album/2S9K7ZvBc0mP5ACdvef4gI) | 3:32 | 2025-06-05 |  |
 | [MAJOR](https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [MAJOR](https://open.spotify.com/album/3j7NuPl15ipyBD2zd5FSpx) | 2:27 | 2024-06-27 | 2024-12-05 |
 | [Manis](https://open.spotify.com/track/2DC4XhFNBcnF1mIINob0ZI) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Manis](https://open.spotify.com/album/2hUGh46dEXYxupRcLKEh41) | 3:06 | 2024-11-21 | 2024-12-05 |
 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/6BAq3z4cxDc18TzodScekT) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 | 2025-04-15 |  |

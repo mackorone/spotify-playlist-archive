@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ENHYPEN
 
-597 songs - 1 day 9 hr 16 min
+599 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [BA BA BYE](https://open.spotify.com/track/142pVQPToEYbjWwxpJMpM0) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [BA BA BYE](https://open.spotify.com/album/0pROa7KeXHCdolbjAi3wLp) | 3:15 | 2025-03-24 | 2025-05-26 |
 | [Baby don't cry](https://open.spotify.com/track/4mF2kmGmate4BDgNdDDBOU) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Baby don't cry](https://open.spotify.com/album/1z4tn0beVw7pRjRRkKtFs0) | 3:28 | 2024-09-24 | 2024-10-16 |
 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 | 2024-03-12 | 2024-04-24 |
+| [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 |  |
 | [BAM\-BOO](https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO](https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d) | 2:34 | 2024-11-12 | 2025-01-13 |
 | [BANANA](https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh) | [KEIGO](https://open.spotify.com/artist/2R3B9TCBBnvAEoCu5KpecB) | [BANANA](https://open.spotify.com/album/5rM3gYVTRkvg4MdSNFu5Hx) | 3:29 | 2025-05-06 |  |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
@@ -288,6 +289,7 @@
 | [Make It Count](https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Make It Count](https://open.spotify.com/album/2xZTCdsoeOjHuLfKt5cZM1) | 3:30 | 2025-01-14 | 2025-04-03 |
 | [Mama Said](https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG) | 2:56 | 2025-03-06 | 2025-05-20 |
 | [Mania](https://open.spotify.com/track/672t5orA6YcHdTM5aGFjUG) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Mania](https://open.spotify.com/album/5Fve3jeQNug5Y8EuWt78ot) | 3:19 | 2024-05-07 | 2024-05-29 |
+| [Maniac \- Japanese Ver.](https://open.spotify.com/track/4ckyOStRfNqZLJ1I9q8b3V) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Maniac \(Japanese Ver.\)](https://open.spotify.com/album/6Qqif0GArwgxcVSWj3wMdZ) | 3:16 | 2025-06-05 |  |
 | [Map of The Mind](https://open.spotify.com/track/1uIeF6jUVWqSNB1FGY9t4X) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Map of The Mind](https://open.spotify.com/album/6kPXLyhHSHXMoO7zHHWTOC) | 3:18 | 2025-03-06 | 2025-04-15 |
 | [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-17 | 2025-05-09 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |

@@ -309,6 +309,36 @@
     },
     {
       "album": {
+        "name": "Alborada en Tono Menor",
+        "url": "https://open.spotify.com/album/4trRC3rl2AmstspX4X0Gy9"
+      },
+      "artists": [
+        {
+          "name": "Santiago Auser\u00f3n",
+          "url": "https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W"
+        },
+        {
+          "name": "Anni B Sweet",
+          "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
+        },
+        {
+          "name": "Vaggelis Tzeretas",
+          "url": "https://open.spotify.com/artist/6NujmW4jK0unbe2q9sqSke"
+        },
+        {
+          "name": "Thodoris Karellas",
+          "url": "https://open.spotify.com/artist/6Ttiu9jWHoeUf8BjSqvURL"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254445,
+      "name": "Alborada en Tono Menor",
+      "url": "https://open.spotify.com/track/6I38cqm4S5VRO4I9nQq7NV"
+    },
+    {
+      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -666,7 +696,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 176720,
       "name": "Aunque ya no est\u00e9s",
       "url": "https://open.spotify.com/track/0iazekHlqaDN5x05wiXz4L"
@@ -2376,7 +2406,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 278040,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"

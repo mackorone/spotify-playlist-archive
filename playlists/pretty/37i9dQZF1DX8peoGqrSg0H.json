@@ -1,15 +1,31 @@
 {
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
-  "num_followers": 181616,
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
+  "num_followers": 181638,
   "original_name": "T-Pop Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD1k4AAAAAAeohhoP4IKIbpyV7yRePXn",
+  "snapshot_id": "aEHm+AAAAABl87fEIb+VS3R3SahaIwW+",
   "tracks": [
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
+        "url": "https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "duration_ms": 185517,
+      "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
+      "url": "https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
         "url": "https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6"
@@ -29,39 +45,7 @@
       "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
-        "url": "https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 185517,
-      "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
-      "url": "https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e17\u0e31\u0e01 (FIRST SIGHT)",
-        "url": "https://open.spotify.com/album/69zdewg8oYXQTd9E3GzhXA"
-      },
-      "artists": [
-        {
-          "name": "LYKN",
-          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "\u0e17\u0e31\u0e01 (FIRST SIGHT)",
-      "url": "https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e40\u0e21\u0e49\u0e19\u0e2b\u0e22\u0e2d\u0e01\u0e46 (Comment)",
         "url": "https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF"
@@ -77,7 +61,7 @@
       "url": "https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 (Flower)",
         "url": "https://open.spotify.com/album/3YXge7R4yMJitwAJhHaPxu"
@@ -93,7 +77,39 @@
       "url": "https://open.spotify.com/track/3PabyxIj11p70zsuEcNaFK"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e21\u0e2d\u0e1a\u0e15\u0e31\u0e27 (MY BAD)",
+        "url": "https://open.spotify.com/album/0gyq5wSWptdkroiN2uIJcu"
+      },
+      "artists": [
+        {
+          "name": "RedSpin",
+          "url": "https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "\u0e21\u0e2d\u0e1a\u0e15\u0e31\u0e27 (MY BAD)",
+      "url": "https://open.spotify.com/track/3oeT53La3Qz8PNNBI2pxLr"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
+        "url": "https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
+      "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "Living Death",
         "url": "https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y"
@@ -109,39 +125,87 @@
       "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
-        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Letter For My Dear)",
-        "url": "https://open.spotify.com/album/3GgTx1hooyhErh90NIiOqu"
+        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
       },
       "artists": [
         {
-          "name": "PRETZELLE",
-          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
         }
       ],
-      "duration_ms": 220404,
-      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Letter For My Dear)",
-      "url": "https://open.spotify.com/track/2DxR9zFGK3esOF2SpDNI3q"
+      "duration_ms": 259285,
+      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
-        "name": "I trust you (Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series)",
-        "url": "https://open.spotify.com/album/7BiHy1YU3QqSckEhX7ONXA"
+        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
       },
       "artists": [
         {
-          "name": "Daou Pittaya",
-          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
         }
       ],
-      "duration_ms": 210666,
-      "name": "I trust you - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
-      "url": "https://open.spotify.com/track/2fYm5h6mVMBVs2hEBJ6s64"
+      "duration_ms": 195500,
+      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e08\u0e33\u0e19\u0e19",
+        "url": "https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "\u0e08\u0e33\u0e19\u0e19",
+      "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
+        "url": "https://open.spotify.com/album/1fjJUG6rKppH8yi7TpQuHd"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "duration_ms": 234843,
+      "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
+      "url": "https://open.spotify.com/track/1QeihgIm5rv63E2hl4n6Vh"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e17\u0e31\u0e01 (FIRST SIGHT)",
+        "url": "https://open.spotify.com/album/69zdewg8oYXQTd9E3GzhXA"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "\u0e17\u0e31\u0e01 (FIRST SIGHT)",
+      "url": "https://open.spotify.com/track/3hqLHxV65Uw7P2rqy0z886"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "No, Thanks",
         "url": "https://open.spotify.com/album/2FxYVAPE0C4mgkbQ60nZF2"
@@ -161,167 +225,39 @@
       "url": "https://open.spotify.com/track/1xWL6T7rMwIxw39tv8JGVp"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
-        "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
-        "url": "https://open.spotify.com/album/1fjJUG6rKppH8yi7TpQuHd"
+        "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Letter For My Dear)",
+        "url": "https://open.spotify.com/album/3GgTx1hooyhErh90NIiOqu"
       },
       "artists": [
         {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
         }
       ],
-      "duration_ms": 234843,
-      "name": "\u0e28\u0e31\u0e15\u0e23\u0e39\u0e2b\u0e31\u0e27\u0e43\u0e08 (Your Worst Enemy!)",
-      "url": "https://open.spotify.com/track/1QeihgIm5rv63E2hl4n6Vh"
+      "duration_ms": 220404,
+      "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22 (Letter For My Dear)",
+      "url": "https://open.spotify.com/track/2DxR9zFGK3esOF2SpDNI3q"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
-        "name": "\u0e40\u0e14\u0e32\u0e2a\u0e34! (Guess What ?)",
-        "url": "https://open.spotify.com/album/6GaJV2c7xOoYjBGnlCQeeX"
+        "name": "I trust you (Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series)",
+        "url": "https://open.spotify.com/album/7BiHy1YU3QqSckEhX7ONXA"
       },
       "artists": [
         {
-          "name": "MXFRUIT",
-          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
         }
       ],
-      "duration_ms": 225762,
-      "name": "\u0e40\u0e14\u0e32\u0e2a\u0e34! (Guess What ?)",
-      "url": "https://open.spotify.com/track/2SncDJjLjtG4kLU2SNGWOe"
+      "duration_ms": 210666,
+      "name": "I trust you - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
+      "url": "https://open.spotify.com/track/2fYm5h6mVMBVs2hEBJ6s64"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
-        "url": "https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb"
-      },
-      "artists": [
-        {
-          "name": "BUS",
-          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
-      "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e0a\u0e2d\u0e1a\u0e14\u0e32\u0e27 (Starry Diary)",
-        "url": "https://open.spotify.com/album/3pjQCR9Roe4OdVnZjVv1gN"
-      },
-      "artists": [
-        {
-          "name": "Sugar 'N Spice",
-          "url": "https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl"
-        }
-      ],
-      "duration_ms": 225185,
-      "name": "\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e0a\u0e2d\u0e1a\u0e14\u0e32\u0e27 (Starry Diary)",
-      "url": "https://open.spotify.com/track/2wPCd7FoBaJ0c71RKkRILX"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
-        "url": "https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 200076,
-      "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
-      "url": "https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
-        "url": "https://open.spotify.com/album/2FOfsBs5404canZT3Gxr0v"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 224482,
-      "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
-      "url": "https://open.spotify.com/track/3Gg2hfk9p4YschDqIVfSG2"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
-        "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
-      },
-      "artists": [
-        {
-          "name": "DICE",
-          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
-        }
-      ],
-      "duration_ms": 205337,
-      "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
-      "url": "https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
-      "album": {
-        "name": "\u0e08\u0e33\u0e19\u0e19",
-        "url": "https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "\u0e08\u0e33\u0e19\u0e19",
-      "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
-    },
-    {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
@@ -337,7 +273,23 @@
       "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e40\u0e14\u0e32\u0e2a\u0e34! (Guess What ?)",
+        "url": "https://open.spotify.com/album/6GaJV2c7xOoYjBGnlCQeeX"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "duration_ms": 225762,
+      "name": "\u0e40\u0e14\u0e32\u0e2a\u0e34! (Guess What ?)",
+      "url": "https://open.spotify.com/track/2SncDJjLjtG4kLU2SNGWOe"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
         "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
@@ -353,7 +305,7 @@
       "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e41\u0e04\u0e48\u0e19\u0e31\u0e49\u0e19 (NO MATTER WHAT)",
         "url": "https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt"
@@ -369,7 +321,55 @@
       "url": "https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+        "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "duration_ms": 205337,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
+      "url": "https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
+        "url": "https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 200076,
+      "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
+      "url": "https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
+      "album": {
+        "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
+        "url": "https://open.spotify.com/album/2FOfsBs5404canZT3Gxr0v"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 224482,
+      "name": "\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c (Forever)",
+      "url": "https://open.spotify.com/track/3Gg2hfk9p4YschDqIVfSG2"
+    },
+    {
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
         "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e01\u0e48\u0e2d\u0e19 (If I Could)",
         "url": "https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
         "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35 (OST. The Red Envelope Album)",
         "url": "https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "CHERRY",
         "url": "https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "I Just Wanna Know",
         "url": "https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
         "url": "https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e2a\u0e31\u0e21\u0e20\u0e40\u0e27\u0e0b\u0e35\u0e49 (GFF Ghost Friend Forever) [From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35]",
         "url": "https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e04\u0e32\u0e16\u0e32\u0e2b\u0e32\u0e40\u0e18\u0e2d (Horogals)",
         "url": "https://open.spotify.com/album/4F0Tcc9CLuXjzq2SvhQv9F"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/4SatXpXNJu3T4AHlbNQ4Ei"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
         "url": "https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "PUN",
         "url": "https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "ONE SHOT (feat. PiXXiE)",
         "url": "https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4qOHFJhvv7kwiMNentxoa6"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e1a\u0e1a\u0e43\u0e14 (I See It)",
         "url": "https://open.spotify.com/album/61nujf7kJaEzCitEOj0mwF"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/4eD9FNDpKlglzEb3y1U0pU"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e4a\u0e01\u0e41\u0e25\u0e49\u0e27\u0e23\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19 (RED FLAG) FOU4MOD Version [From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08]",
         "url": "https://open.spotify.com/album/2ayDHv7j0vXpatc4ZCI5Po"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7K8lEWGzawZZ4z5m28dvsX"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e2d\u0e34\u0e19\u0e40\u0e18\u0e2d\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e15 (Into You) [feat. PiXXiE]",
         "url": "https://open.spotify.com/album/2CMGG2i69eN696O4lWa5NQ"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/2RaxNwqGyHg3D5ONL3OPto"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e04\u0e23\u0e31\u0e1a (Only One) (From\"\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series\")",
         "url": "https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/4QTIX97bM4K457krl2S4eB"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e04\u0e48\u0e2d\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Last Request)",
         "url": "https://open.spotify.com/album/0qUTOrRpXLVKgcW1uCYR1o"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/3ZNaxOJXP8QttNVqlWZFRM"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
         "url": "https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "BF",
         "url": "https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) [From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series]",
         "url": "https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e15\u0e31\u0e27\u0e42\u0e14\u0e19",
         "url": "https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "UNDRESS",
         "url": "https://open.spotify.com/album/21GT7FGL6WwKc6g3LqlJSB"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e17\u0e35\u0e48\u0e23\u0e2d\u0e1d\u0e19 (spring)",
         "url": "https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e15\u0e1a\u0e1b\u0e32\u0e01 (On That Day)",
         "url": "https://open.spotify.com/album/0riyZVpGxdtt56RF4VYm83"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/10D7yv6SOcpsAVLFHSbRC5"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (Happily Missing You)",
         "url": "https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh"
     },
     {
-      "added_at": "2025-06-02 08:46:24",
+      "added_at": "2025-06-05 18:50:32",
       "album": {
         "name": "\u0e22\u0e2d\u0e21 (Surrender)",
         "url": "https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq"

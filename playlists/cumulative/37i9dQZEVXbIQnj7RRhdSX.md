@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-2,486 songs - 5 day 7 hr 12 min
+2,487 songs - 5 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [AMORE CANE \(feat\. Lazza\)](https://open.spotify.com/track/5KUjY5IoxTtR7TD71VQ7Ch) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SOUVENIR](https://open.spotify.com/album/2heGtnvVhJfT1j5Z3UpjCA) | 3:25 | 2023-10-14 | 2023-10-16 |
 | [Amore cieco \(feat\. Madame\)](https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:40 | 2024-10-12 | 2024-10-18 |
 | [AMORE DI MAMMA](https://open.spotify.com/track/6RxDyI3PzCK5H6y5rbqtnl) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:34 | 2024-01-06 | 2024-01-09 |
-| [Amore Disperato](https://open.spotify.com/track/0h7djzQOTBHcNaKD8k449b) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 3:08 | 2025-04-19 |  |
+| [Amore Disperato](https://open.spotify.com/track/0h7djzQOTBHcNaKD8k449b) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 3:08 | 2025-04-19 | 2025-06-06 |
 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-10-06 | 2025-04-20 |
 | [Amore Mio \(feat\. Sfera Ebbasta, Jul\)](https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:41 | 2024-03-30 | 2024-04-12 |
 | [AMY \(feat\. Rkomi\)](https://open.spotify.com/track/4RmbBOcricHnqiCrkl3JuO) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [DJUNGLE](https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1) | 2:58 | 2021-05-09 | 2021-05-10 |
@@ -1797,6 +1797,7 @@
 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 | 2024-08-31 | 2024-11-03 |
 | [PERDONO \(feat\. Paky\)](https://open.spotify.com/track/5ZvG3O1YIn0w5HB4WnUHDP) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:59 | 2024-10-19 | 2024-10-21 |
 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 | 2024-12-07 | 2024-12-31 |
+| [PERFECT \(feat\. Sarah Toscano\)](https://open.spotify.com/track/1QGzvmIW0VzHz5LBoxqK0C) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [PERFECT \(feat\. Sarah Toscano\)](https://open.spotify.com/album/1buMJRGay49lIAuZ5330SR) | 3:13 | 2025-06-05 |  |
 | [Perfetta Così](https://open.spotify.com/track/3pC3gQ9YLBBVDgjzPdbF08) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Perfetta Così](https://open.spotify.com/album/0LSw5mZvjwokV29c3J4ZFS) | 2:49 | 2022-02-04 | 2022-03-13 |
 | [Persi \(feat\. Ketama126\)](https://open.spotify.com/track/6uBROSYcpVcguxkTqYKPcm) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 3:19 | 2023-12-16 | 2023-12-18 |
 | [perso nel buio \(con Madame\)](https://open.spotify.com/track/3M5rbwyOMpjb3Ge277ILVT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [sangiovanni](https://open.spotify.com/album/20ka24Xscw75vAaBohAA38) | 2:50 | 2021-11-14 | 2022-01-30 |

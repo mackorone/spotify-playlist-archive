@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 130 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 732 likes - 130 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 86 | [Together at Christmas](https://open.spotify.com/track/4Y0KsTh7z3u5iCwFQUeR7L) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/4oYP3y50gnOTMe7l3jF3K9) | 3:37 |
 | 87 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
 | 88 | [Better On Me](https://open.spotify.com/track/44mtmGpy5HAzfWfHHPn9HB) | [Max George](https://open.spotify.com/artist/1RDRqPYnN9dTo41jhKth2F) | [Better On Me](https://open.spotify.com/album/2KIEMc2XAgjtCOYc2V8RzJ) | 2:52 |
-| 89 | [Love You To Death](https://open.spotify.com/track/1pJq3eCDAf9z0hy7rcJjof) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:29 |
-| 90 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
+| 89 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
+| 90 | [Love You To Death](https://open.spotify.com/track/1pJq3eCDAf9z0hy7rcJjof) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:29 |
 | 91 | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/track/4toChdeQFhnq2hngxaOKvm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/album/1GVE8WmZmTLYLmawzSmeWv) | 3:37 |
 | 92 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
 | 93 | [World Still Turns](https://open.spotify.com/track/0eqt82y3bYXdkXpMeYOKyK) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [bud, sweat & beers](https://open.spotify.com/album/4s90kMJuWDQNx2X6mHjm9Z) | 3:00 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 111 | [Honest Man](https://open.spotify.com/track/6hvwdsJpK0YWAi6Zf8jyRf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:46 |
 | 112 | [Fall Apart](https://open.spotify.com/track/6sKSKu0tgFbaE5m7uTJ5Kt) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Sexy As Hell \(Exclusive Version\)](https://open.spotify.com/album/0MPeOp95auH8fnxObuVSjc) | 3:07 |
 | 113 | [Seven](https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:50 |
-| 114 | [You Don't Have a Heart](https://open.spotify.com/track/7FeJ1lP3vxCnbXKlHhzrRe) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:56 |
-| 115 | [The Way I'm Wired](https://open.spotify.com/track/3JDjEtG9KKDAI1Dh4Ao94Y) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I’m Wired](https://open.spotify.com/album/67ta68xEpzq10kTo5jJfsw) | 3:39 |
+| 114 | [The Way I'm Wired](https://open.spotify.com/track/3JDjEtG9KKDAI1Dh4Ao94Y) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I’m Wired](https://open.spotify.com/album/67ta68xEpzq10kTo5jJfsw) | 3:39 |
+| 115 | [You Don't Have a Heart](https://open.spotify.com/track/7FeJ1lP3vxCnbXKlHhzrRe) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:56 |
 | 116 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 |
 | 117 | [Too Young](https://open.spotify.com/track/1dBwVbRLGAZzkRAt5RbS1I) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:19 |
 | 118 | [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 129 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 130 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbzRSAAAAABK3QfpgoYMhTlfVn/XJ015`
+Snapshot ID: `AbzW6AAAAADtxE4N1m7GMeqVwkRMx/rR`

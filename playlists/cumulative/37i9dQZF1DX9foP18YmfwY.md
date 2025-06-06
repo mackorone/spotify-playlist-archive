@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Padre Fábio de Melo
+> Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-208 songs - 16 hr 49 min
+209 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 | 2023-12-22 | 2025-03-18 |
 | [Encontro a Sós](https://open.spotify.com/track/46z9goAGF6jnaXDFkfUwam) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Encontro a Sós](https://open.spotify.com/album/01xfN7vr1VH5h9S8zxeesX) | 4:33 | 2025-02-07 | 2025-02-17 |
 | [Enlace de Amor](https://open.spotify.com/track/6b8ZRMXDEQHDSAYLJ6oF8o) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Enlace de Amor](https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp) | 4:46 | 2022-09-02 | 2023-01-14 |
-| [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 | 2023-05-12 |  |
+| [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 | 2023-05-12 | 2025-06-06 |
 | [Espírito Poderoso](https://open.spotify.com/track/3n1t1QGVGNtf0Pmglzddgp) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [Espírito Poderoso](https://open.spotify.com/album/5rqu2ue7TCopF0bY9YIbSW) | 8:24 | 2024-06-21 | 2024-08-10 |
 | [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 | 2022-09-02 | 2022-12-05 |
 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 | 2022-09-02 |  |
@@ -129,6 +129,7 @@
 | [Milagre de Amor](https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Milagre de Amor](https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew) | 4:16 | 2025-02-07 |  |
 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 | 2022-09-02 |  |
 | [Minha Voz Te Louva](https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Minha Voz Te Louva](https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm) | 3:20 | 2023-03-11 | 2023-07-29 |
+| [Mostra a Tua Glória](https://open.spotify.com/track/5XlC1vepKohkbVmuCw3heD) | [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Mostra a Tua Glória](https://open.spotify.com/album/4EDskVT9iohrgRN3Lvu2CN) | 4:07 | 2025-06-06 |  |
 | [Muito Mais pra Mim](https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf) | 5:34 | 2024-08-09 |  |
 | [Mãe de Deus e Minha](https://open.spotify.com/track/0RNhs4AaIUpehk2Rl49Qmr) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd), [Guilherme Meirelles](https://open.spotify.com/artist/78wIcCfZh0wbufFAJS5b4k) | [Studio Canção Nova \(Acústico\)](https://open.spotify.com/album/5ewDVc6Q2lhai5L8c7Fnlv) | 4:43 | 2025-02-17 |  |
 | [Mãe do Céu Morena](https://open.spotify.com/track/1A7QfPZK5UuL5VdRuznRyQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Mãe do Céu Morena](https://open.spotify.com/album/5sxh3w7gLLrgUhIHkyf4nR) | 3:55 | 2024-10-11 | 2024-11-08 |

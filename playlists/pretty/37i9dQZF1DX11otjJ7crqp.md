@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Conan Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,269 likes - 170 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,815 likes - 170 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

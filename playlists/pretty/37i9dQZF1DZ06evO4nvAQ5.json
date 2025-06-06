@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15380,
+  "num_followers": 15384,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACsvmRiPxajip9Y4rdAX5h0",
+  "snapshot_id": "aD+MgAAAAADTXP+onXSpkNhjW6H8RzRI",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liki Tiki (Reggae Remix)",
         "url": "https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 250105,
       "name": "Liki Tiki - Reggae Remix",
       "url": "https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
     },
     {
       "added_at": null,

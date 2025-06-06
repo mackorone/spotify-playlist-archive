@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 
 > From the clubs to the piano bars, from yesterday to today, these are the sounds of queer NYC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,426 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,441 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 | 48 | [Freeway's End](https://open.spotify.com/track/3azCbxqbNDt1vNx6FLryq7) | [Sob Sister](https://open.spotify.com/artist/3BdBWbo7o1ADM6w1wNjvZG) | [How I Do My Hair Now](https://open.spotify.com/album/1lDuTMY9cfIg4INiqByQwm) | 1:14 |
 | 49 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 |
 
-Snapshot ID: `ZKwurAAAAADIiIx/Y7N3NanBand+3jRM`
+Snapshot ID: `ZKwurAAAAACg8/aZ5x8c8PaK9PTtcQzN`

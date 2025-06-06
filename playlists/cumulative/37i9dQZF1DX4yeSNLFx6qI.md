@@ -4,7 +4,7 @@
 
 > Sad songs 4 sad days.
 
-297 songs - 16 hr 56 min
+298 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Modo Ofendida](https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Modo Ofendida](https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB) | 3:15 | 2021-12-06 | 2022-07-07 |
 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-12-06 | 2024-05-17 |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-19 | 2024-05-17 |
-| [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-05-16 |  |
+| [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-05-16 | 2025-06-06 |
 | [MÚSICA PARA TERMINAR](https://open.spotify.com/track/1crNNzBR6UlPsOogylRITQ) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [MÚSICA PARA TERMINAR](https://open.spotify.com/album/0eyrP0NeDOmbfLlynLHGbi) | 2:42 | 2025-03-07 | 2025-04-15 |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2021-12-06 | 2024-05-17 |
 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2021-12-06 | 2023-11-18 |
@@ -237,6 +237,7 @@
 | [Siempre](https://open.spotify.com/track/4U7cplCdwTjHjrcTaNZx9u) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 1:32 | 2024-03-08 | 2024-04-19 |
 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 | 2021-12-06 | 2022-01-06 |
 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 | 2024-07-19 | 2025-04-23 |
+| [SOMOS PERFECTOS](https://open.spotify.com/track/53GVXnMu9VnMP097L1lSzC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 3:59 | 2025-05-30 |  |
 | [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 | 2021-12-06 | 2023-01-07 |
 | [sorry por esta canción \(Londres\)](https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [sorry por esta canción \(Londres\)](https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB) | 3:34 | 2025-03-07 |  |
 | [Souvenir \- Acústico](https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Souvenir \(Acústico\)](https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY) | 3:18 | 2021-12-06 | 2022-07-28 |

@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/01X4Gb4Mw68YQ2W8bFvG6w"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151496,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7hTlwSDgjkqFi4ZAuoaWnf"
+    },
+    {
+      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh"
       },
@@ -5280,7 +5298,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180645,
       "name": "Luz de Salida (Yo Groovie)",
       "url": "https://open.spotify.com/track/3ZF7n4m3gxhlPTUVn4Y7T0"
@@ -5630,6 +5648,28 @@
       "duration_ms": 223845,
       "name": "Me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/1Ab8LMRP4syFbYZKtGUwss"
+    },
+    {
+      "album": {
+        "name": "Me Gustan Los Hombres",
+        "url": "https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        },
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201796,
+      "name": "Me Gustan Los Hombres",
+      "url": "https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs"
     },
     {
       "album": {
@@ -6236,7 +6276,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
@@ -7666,7 +7706,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173493,
       "name": "Qu\u00e9 Hago Aqu\u00ed",
       "url": "https://open.spotify.com/track/3tDhpXGuNsLnwEGZqSjTnB"
@@ -9780,6 +9820,28 @@
       "duration_ms": 226443,
       "name": "Y Volviste a Decir Te Amo",
       "url": "https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw"
+    },
+    {
+      "album": {
+        "name": "Ya Es Hora Pacifico (Colombian Singles Series Vol. 4)",
+        "url": "https://open.spotify.com/album/44wap3D7xhEl6SE6k221r8"
+      },
+      "artists": [
+        {
+          "name": "La Ruka",
+          "url": "https://open.spotify.com/artist/5LqBZeupXIayA47wKSnpss"
+        },
+        {
+          "name": "Jmoney OTB",
+          "url": "https://open.spotify.com/artist/6bj8qgfqQYz5kCDEZGReFs"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163343,
+      "name": "Ya Es Hora Pacifico",
+      "url": "https://open.spotify.com/track/4GrRyDUCoG3gDTONKnDGPA"
     },
     {
       "album": {

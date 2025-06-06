@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005 likes - 128 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006 likes - 128 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 96 | [Banana](https://open.spotify.com/track/7lfhbKPw3ne71I57lAGQXV) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Banana](https://open.spotify.com/album/0Rt92Xa4ng0V0cmmXCPf9Y) | 1:51 |
 | 97 | [Cosa volevi da me](https://open.spotify.com/track/5du0P9jrdjk30gjVcCfUBO) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Indico](https://open.spotify.com/album/47sbHniMtApzvNu7FZDOje) | 2:56 |
 | 98 | [Apatia](https://open.spotify.com/track/4zRo75TW6X6zdu8In4qPIm) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 3:08 |
-| 99 | [infarto v666](https://open.spotify.com/track/2XGsNDowDiiIYrjaDgWya5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:59 |
-| 100 | [POV](https://open.spotify.com/track/2c0BAH4Q2KiNTEoF91Xeyr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:40 |
+| 99 | [POV](https://open.spotify.com/track/2c0BAH4Q2KiNTEoF91Xeyr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:40 |
+| 100 | [infarto v666](https://open.spotify.com/track/2XGsNDowDiiIYrjaDgWya5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:59 |
 | 101 | [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 |
 | 102 | [IO HO PAURA v0](https://open.spotify.com/track/5M9BvqGIf9yOVQ192vITVR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:37 |
 | 103 | [asimmetrico v10](https://open.spotify.com/track/79w1RDXWcQxtgjWn3ca4iZ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:04 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 127 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 128 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `AbzRKgAAAAD8Mr61HTI87Z7amji5L63T`
+Snapshot ID: `AbzWygAAAACBQ+vDbEscr4msofEFkhoq`

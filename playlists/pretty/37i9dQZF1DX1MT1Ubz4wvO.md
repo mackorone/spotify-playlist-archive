@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Airbag en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,780 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,785 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [326](https://open.spotify.com/track/2ZTsizyu8zFgjCTdnIQxG6) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [326](https://open.spotify.com/album/2XO3pXsVj6C0xyJv3w1KD8) | 3:30 |
 | 50 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
 
-Snapshot ID: `AAAAABEObzz38M+dFi5PS8JOzdSYAvJF`
+Snapshot ID: `aDlR5gAAAAAQVODvjQNDGLCi8nHYCYy6`

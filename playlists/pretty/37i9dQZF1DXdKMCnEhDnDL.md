@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,004 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,108 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Diepe Dalen](https://open.spotify.com/track/106B2gp2qiLgO7V010oR66) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Astronaut](https://open.spotify.com/album/3OJUGbfMGKDOaja2AQilRu) | 3:20 |
 | 100 | [Hoogtevrees](https://open.spotify.com/track/7G5Wad9RvRKetR3icB6SOD) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoogtevrees](https://open.spotify.com/album/5gyOFMVzZiV8YeT7xsmpss) | 2:39 |
 
-Snapshot ID: `aD2W0QAAAAAaoB5cTXDKa0NiG5LtsmDs`
+Snapshot ID: `aEGgYQAAAAARE/S2ueY/DpPU/i4qjtOF`

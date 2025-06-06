@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 39670,
+  "num_followers": 39682,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACHQW2lg3Ha79QeSk8xK9h0",
+  "snapshot_id": "aD+MgAAAAAAR4q2/HIAVYs7e6iojs26M",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "Stingwray",
-      "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 236066,
       "name": "All These Years",
       "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 252653,
+      "name": "Stingwray",
+      "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
     },
     {
       "added_at": null,

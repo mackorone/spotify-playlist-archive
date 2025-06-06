@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,765 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,894 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 7 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 8 | [PENALTY](https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu), [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [PENALTY](https://open.spotify.com/album/67nkeu6axxVkXnqDnig9iQ) | 3:21 |
 | 9 | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/track/0yWEVGMfGyRB5pMaX58mxA) | [Alejandro](https://open.spotify.com/artist/4VCCzXIV0wB8YFq0X71YW7) | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/album/1E60O2evMgJowlnL1Yvc0i) | 3:50 |
-| 10 | [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 |
+| 10 | [Walidia](https://open.spotify.com/track/6lMibyYmZ1TrpXOMdzdetu) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Walidia](https://open.spotify.com/album/1olBJn1wRmpQxVSdprcr6f) | 3:06 |
 | 11 | [Mab9itich Chérie](https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mab9itich Chérie](https://open.spotify.com/album/2kHcDM7QiYmdQnuLoEnOaR) | 4:05 |
-| 12 | [Walidia](https://open.spotify.com/track/6lMibyYmZ1TrpXOMdzdetu) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Walidia](https://open.spotify.com/album/1olBJn1wRmpQxVSdprcr6f) | 3:06 |
+| 12 | [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 |
 | 13 | [Allo Doctor](https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Allo Doctor](https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk) | 2:41 |
 | 14 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 |
-| 15 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 |
-| 16 | [Sur Scène](https://open.spotify.com/track/4WGEf48LVSVHL1lnJwcd79) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Sur Scène](https://open.spotify.com/album/0i3B0umXdZhbmv4sbvdMft) | 4:22 |
+| 15 | [Sur Scène](https://open.spotify.com/track/4WGEf48LVSVHL1lnJwcd79) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Sur Scène](https://open.spotify.com/album/0i3B0umXdZhbmv4sbvdMft) | 4:22 |
+| 16 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 |
 | 17 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 |
 | 18 | [ACH HADA](https://open.spotify.com/track/1t2a3jcK6TltYE1ffwY41M) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [ACH HADA](https://open.spotify.com/album/7EF7iYQTdubslHmEjUA81z) | 2:42 |
 | 19 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
 | 50 | [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 |
 
-Snapshot ID: `aD6lNgAAAACAqNmF0FrgYF5C8QvA7ucn`
+Snapshot ID: `aEE3cQAAAACnK4aJBsNk4TXDrXVBvsqe`

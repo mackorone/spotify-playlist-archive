@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Jun 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Jun 03:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3834,7 +3834,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 234000,
       "name": "All That I Remember",
       "url": "https://open.spotify.com/track/2BZY8Q6HAhRkNBe2yXpUiv"
@@ -21110,7 +21110,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 280968,
       "name": "Dialing In",
       "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
@@ -27393,6 +27393,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215517,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
+    },
+    {
+      "album": {
         "name": "Feast",
         "url": "https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b"
       },
@@ -27892,7 +27910,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 183292,
       "name": "FFFFF",
       "url": "https://open.spotify.com/track/33zsWwMMcJawZoy2h40eNm"
@@ -39558,7 +39576,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 186052,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
@@ -43112,7 +43130,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 309000,
       "name": "Jim Jones - Cowards, Pt. 2",
       "url": "https://open.spotify.com/track/0l2J2Ix63Iz7AwuCEebCiE"
@@ -50764,6 +50782,24 @@
       "duration_ms": 220560,
       "name": "Mana God",
       "url": "https://open.spotify.com/track/5dXZHtpvqrdJl4bhHHsDty"
+    },
+    {
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "album": {
@@ -60681,6 +60717,24 @@
     },
     {
       "album": {
+        "name": "Paper Dolls",
+        "url": "https://open.spotify.com/album/6SRHoWDUIPF9p9X07r9AWX"
+      },
+      "artists": [
+        {
+          "name": "STOMACH BOOK",
+          "url": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228488,
+      "name": "Paper Dolls",
+      "url": "https://open.spotify.com/track/0ve4nu1wEAk9wtcK80574F"
+    },
+    {
+      "album": {
         "name": "PAPER PLANES",
         "url": "https://open.spotify.com/album/4bLFlOQu1SGje263R3C93H"
       },
@@ -63660,6 +63714,24 @@
       "duration_ms": 148134,
       "name": "promises",
       "url": "https://open.spotify.com/track/4eZZwf34YtM0QxkGljAhdj"
+    },
+    {
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/6glqlPmfb0zXdAeCCEoUqC"
+      },
+      "artists": [
+        {
+          "name": "Creo",
+          "url": "https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/6dUN5gfOJN6y61piEiPViQ"
     },
     {
       "album": {
@@ -68453,6 +68525,24 @@
     },
     {
       "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/4ON19xY4W0bXx117hpelen"
       },
@@ -71467,6 +71557,24 @@
     },
     {
       "album": {
+        "name": "Skin (The Collaboration Remix Edit)",
+        "url": "https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318853,
+      "name": "Skin - The Collaboration Remix Edit",
+      "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
+    },
+    {
+      "album": {
         "name": "Skinny Loser",
         "url": "https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV"
       },
@@ -73700,7 +73808,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 229105,
       "name": "Spicy Queen",
       "url": "https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn"

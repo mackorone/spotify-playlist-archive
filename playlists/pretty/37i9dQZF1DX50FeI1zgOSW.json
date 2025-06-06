@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Bebhumika",
-  "num_followers": 15118,
+  "num_followers": 15122,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD/01wAAAADVTeFTJTu28c8G14OLKnV/",
+  "snapshot_id": "aEGT6gAAAABMLZf845s2hvtzRpEkav5j",
   "tracks": [
     {
       "added_at": "2025-05-06 10:25:16",
@@ -207,6 +207,22 @@
       "duration_ms": 158640,
       "name": "The Last Light",
       "url": "https://open.spotify.com/track/1FR72yGnPnKwyV1QdKJPDm"
+    },
+    {
+      "added_at": "2025-06-05 12:56:10",
+      "album": {
+        "name": "Vaanjai",
+        "url": "https://open.spotify.com/album/40GCGd3W4oLHKJo8jDWuA2"
+      },
+      "artists": [
+        {
+          "name": "Ungal Nachi",
+          "url": "https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB"
+        }
+      ],
+      "duration_ms": 200726,
+      "name": "Vaanjai",
+      "url": "https://open.spotify.com/track/4WpCKdwnolpO1xMWaQNPm4"
     },
     {
       "added_at": "2025-05-30 05:42:41",
@@ -931,30 +947,6 @@
       "duration_ms": 270000,
       "name": "Kashmir Diaries",
       "url": "https://open.spotify.com/track/2jjZfzFF9B5CeMFhVrUndq"
-    },
-    {
-      "added_at": "2025-04-08 10:13:34",
-      "album": {
-        "name": "vaa rasa wanna make love (From \"Wanted Mr. Rasa\")",
-        "url": "https://open.spotify.com/album/0iiVby2bngFUyQCpO8AnwG"
-      },
-      "artists": [
-        {
-          "name": "Chanderan",
-          "url": "https://open.spotify.com/artist/6RpQCpcNLrvudHwPOUY05W"
-        },
-        {
-          "name": "Kizhakkuvaasi",
-          "url": "https://open.spotify.com/artist/12nnZ82xh7p2dFpexbVAf4"
-        },
-        {
-          "name": "Ancy Mary C James",
-          "url": "https://open.spotify.com/artist/0umC3wKPD4auYB7a2LYwVq"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "vaa rasa wanna make love - From \"Wanted Mr. Rasa\"",
-      "url": "https://open.spotify.com/track/6dLDfhGmhNYOIRZHLB0Jl3"
     },
     {
       "added_at": "2025-04-11 08:21:51",

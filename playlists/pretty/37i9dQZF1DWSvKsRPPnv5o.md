@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,059 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,130 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 8 | [Dirty Diana](https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Sleaze the World](https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5) | 3:15 |
 | 9 | [Game Time](https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Game Time](https://open.spotify.com/album/12W3973nhiFVbHaSi2LTE9) | 1:37 |
 | 10 | [Booted Up](https://open.spotify.com/track/7iYmPfTr3qpVKrEtCxIpZU) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Booted Up](https://open.spotify.com/album/2cxNVaMeyRzhSyEQblZcF0) | 2:42 |
-| 11 | [Lonely](https://open.spotify.com/track/2pgcojQ2Hn0bhrxJAhGo3X) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [DJ Gutta Butta](https://open.spotify.com/artist/03oihXICSk2E3iZ1pPzZph) | [Cold Game](https://open.spotify.com/album/4Kb5ff6h3lRyY8QmGettVI) | 2:02 |
+| 11 | [Lonely](https://open.spotify.com/track/2pgcojQ2Hn0bhrxJAhGo3X) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS), [Dj Gutta Butta](https://open.spotify.com/artist/4z4fau4MH9Ul0mS8MFsmjZ) | [Cold Game](https://open.spotify.com/album/4Kb5ff6h3lRyY8QmGettVI) | 2:02 |
 | 12 | [ain't done](https://open.spotify.com/track/5ND9aYmQ7i8Z17l06ugRSD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [unreleased](https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU) | 1:26 |
 | 13 | [So What](https://open.spotify.com/track/70qosWY9iEcX7mcW4aaJnw) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [So What](https://open.spotify.com/album/7DOGM89KaIvTKxyqWXr6rw) | 2:34 |
 | 14 | [Black Man](https://open.spotify.com/track/4uN65YkcvoHVJdI9Q8zCPj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Black Man](https://open.spotify.com/album/6ILl9Q8JoNZhNkuRkjLPkY) | 2:40 |

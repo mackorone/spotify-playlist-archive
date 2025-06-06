@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u9084\u662f\u653e\u4e0d\u4e0b\u4f60 \u771f\u7684\u53ef\u60dc \u6211\u5728\u4e5f\u7121\u80fd\u70ba\u529b \u7e7c\u7e8c\u611b\u4f60\u3002",
-  "num_followers": 186342,
+  "num_followers": 186337,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -311,38 +311,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
       },
@@ -359,6 +327,22 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 278914,
+      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
         "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 237840,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
       "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -407,8 +407,8 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
+        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 278914,
-      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
+      "duration_ms": 309840,
+      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -503,26 +503,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
-        "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
-      },
-      "artists": [
-        {
-          "name": "Ronghao Li",
-          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
-        },
-        {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
-        }
-      ],
-      "duration_ms": 327228,
-      "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
-      "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u771f\u5be6",
         "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
       },
@@ -543,6 +523,26 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
+        "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
+      },
+      "artists": [
+        {
+          "name": "Ronghao Li",
+          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+        },
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "duration_ms": 327228,
+      "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
+      "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u50cf\u9b5a",
         "url": "https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 285271,
       "name": "\u50cf\u9b5a",
       "url": "https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u7f6a\u60e1\u611f",
-        "url": "https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 296573,
-      "name": "\u62ff\u8d70\u4e86\u4ec0\u9ebc",
-      "url": "https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -591,18 +575,18 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u611b&\u82f1\u96c4 LOVE HERO",
-        "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
+        "name": "\u7f6a\u60e1\u611f",
+        "url": "https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv"
       },
       "artists": [
         {
-          "name": "Alien Huang",
-          "url": "https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ"
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
         }
       ],
-      "duration_ms": 281182,
-      "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
+      "duration_ms": 296573,
+      "name": "\u62ff\u8d70\u4e86\u4ec0\u9ebc",
+      "url": "https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -623,6 +607,22 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u611b&\u82f1\u96c4 LOVE HERO",
+        "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
+      },
+      "artists": [
+        {
+          "name": "Alien Huang",
+          "url": "https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ"
+        }
+      ],
+      "duration_ms": 281182,
+      "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "Just Sing It",
         "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u5fd8\u8a18\u64c1\u62b1 (\u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/38iYwBktjKRQoZHk423hxl"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 281935,
-      "name": "\u5fd8\u8a18\u64c1\u62b1 - \u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/2nnsEg2pjJLXjhoeFPscfa"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u9818\u609f",
         "url": "https://open.spotify.com/album/52A4RSFC5F2DKUb4LHAYtM"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 294826,
       "name": "\u9818\u609f",
       "url": "https://open.spotify.com/track/0nRIRTq9pPN3lPc5kUoyFJ"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u5fd8\u8a18\u64c1\u62b1 (\u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/38iYwBktjKRQoZHk423hxl"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 281935,
+      "name": "\u5fd8\u8a18\u64c1\u62b1 - \u96fb\u5f71 \u300c234\u8aaa\u611b\u4f60\u300d \u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2nnsEg2pjJLXjhoeFPscfa"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 268507,
-      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u6eab\u5f0f\u6548\u61c9",
         "url": "https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 258573,
       "name": "\u795d\u6211\u751f\u65e5\u5feb\u6a02",
       "url": "https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 268507,
+      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
     },
     {
       "added_at": "2025-02-03 08:01:17",

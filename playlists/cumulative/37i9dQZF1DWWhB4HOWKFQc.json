@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Shabrina Leanor",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Naykilla, Tenxi, Jemsii",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -168,6 +168,42 @@
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "123-78",
+      "url": "https://open.spotify.com/track/4XLfRpryO7Qn0SXp1ARIfj"
+    },
+    {
+      "album": {
+        "name": "1 Hari Yang Cerah",
+        "url": "https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219271,
+      "name": "123456",
+      "url": "https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB"
     },
     {
       "album": {
@@ -392,6 +428,36 @@
       "duration_ms": 237225,
       "name": "A Piece of You",
       "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
+    },
+    {
+      "album": {
+        "name": "Resident Playbook (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb"
+      },
+      "artists": [
+        {
+          "name": "Go Younjung",
+          "url": "https://open.spotify.com/artist/6j2pt3nJm1AzHnOrh9NZWx"
+        },
+        {
+          "name": "Shin Sia",
+          "url": "https://open.spotify.com/artist/4rkbfpZPF5jBQAjXQLnN1t"
+        },
+        {
+          "name": "Kang Youseok",
+          "url": "https://open.spotify.com/artist/3eLKjmcl0cWqhATKJK77lx"
+        },
+        {
+          "name": "Han Yeji",
+          "url": "https://open.spotify.com/artist/0tpsMeSSlB302vfEkdBBk2"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215537,
+      "name": "A Race",
+      "url": "https://open.spotify.com/track/2XIxIDXxuE9d97TqjQPwQy"
     },
     {
       "album": {
@@ -924,7 +990,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 232137,
       "name": "AMO",
       "url": "https://open.spotify.com/track/0kA8QTKw8SP5ZNiuhS8MxD"
@@ -1086,7 +1152,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 282200,
       "name": "Anugerah Terindah",
       "url": "https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg"
@@ -2108,6 +2174,24 @@
       "duration_ms": 268959,
       "name": "Bernafaslah Sejenak",
       "url": "https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx"
+    },
+    {
+      "album": {
+        "name": "Lingkaran",
+        "url": "https://open.spotify.com/album/67W8G9lBAeszqJHMuTzhS3"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250434,
+      "name": "Bersamaku Akan Sedikit Susah",
+      "url": "https://open.spotify.com/track/4fiaYzngiqdXqVTtrkrcA8"
     },
     {
       "album": {
@@ -3218,7 +3302,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
@@ -4166,7 +4250,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 264836,
       "name": "Damocles",
       "url": "https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I"
@@ -5421,6 +5505,24 @@
     },
     {
       "album": {
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -5631,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Phases - EP",
+        "url": "https://open.spotify.com/album/2eiprRNqzj5s3IPLvKsF6z"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Eyes Off You",
+      "url": "https://open.spotify.com/track/0VpEX8ib3wE7u8NOw4szU6"
+    },
+    {
+      "album": {
         "name": "Fall Back / Selfish Game",
         "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
       },
@@ -5682,6 +5802,24 @@
       "duration_ms": 256573,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0sbFehFR6z0DbthqkJivpa"
+    },
+    {
+      "album": {
+        "name": "superstitious / falling in love",
+        "url": "https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150401,
+      "name": "falling in love",
+      "url": "https://open.spotify.com/track/4HgReMuQv5J6XgrVVBMMIp"
     },
     {
       "album": {
@@ -6428,6 +6566,24 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "album": {
+        "name": "La Folie",
+        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Golden Brown",
+      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
       "album": {
@@ -7324,7 +7480,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 251000,
       "name": "Hitam Putih",
       "url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu"
@@ -7636,6 +7792,24 @@
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
+    {
+      "album": {
+        "name": "No Genre",
+        "url": "https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/1klePVubVctBqhlKJvibil"
     },
     {
       "album": {
@@ -8538,7 +8712,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 201642,
       "name": "Jumping Machine (\u8df3\u697c\u673a)",
       "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
@@ -8686,7 +8860,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 252722,
       "name": "Kaiju",
       "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
@@ -9016,7 +9190,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 209531,
       "name": "Kembali Untukku",
       "url": "https://open.spotify.com/track/7tO9cYgyaQyBLEQEf50R0s"
@@ -10386,7 +10560,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 177514,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ"
@@ -10596,6 +10770,24 @@
       "duration_ms": 307750,
       "name": "love.",
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
+    },
+    {
+      "album": {
+        "name": "LUAP",
+        "url": "https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205723,
+      "name": "Luapkanlah",
+      "url": "https://open.spotify.com/track/3nXKcMbdCmMYp1Lg8p13aJ"
     },
     {
       "album": {
@@ -11662,6 +11854,24 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
+        "name": "MILLION PLACES",
+        "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "MILLION PLACES",
+      "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
     },
     {
       "album": {
@@ -13292,7 +13502,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 296653,
       "name": "party 4 u",
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
@@ -13466,6 +13676,24 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "Pegang Kendali",
+        "url": "https://open.spotify.com/album/4nX28AamR5gb2Hlxm7fppo"
+      },
+      "artists": [
+        {
+          "name": "JESENN",
+          "url": "https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259095,
+      "name": "Pegang Kendali",
+      "url": "https://open.spotify.com/track/2cZndbv4I030w3vfXdE7Ck"
     },
     {
       "album": {
@@ -17160,7 +17388,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 34400,
       "name": "Steve's Lava Chicken",
       "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
@@ -17517,6 +17745,24 @@
     },
     {
       "album": {
+        "name": "superstitious / falling in love",
+        "url": "https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187235,
+      "name": "superstitious",
+      "url": "https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ"
+    },
+    {
+      "album": {
         "name": "Surat Hati",
         "url": "https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V"
       },
@@ -17656,6 +17902,36 @@
       "duration_ms": 175880,
       "name": "T.B.H",
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
+    },
+    {
+      "album": {
+        "name": "TABOLA BALE",
+        "url": "https://open.spotify.com/album/2oggN84kvW5TbuF3XfgpzF"
+      },
+      "artists": [
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        },
+        {
+          "name": "Jacson Seran",
+          "url": "https://open.spotify.com/artist/7sGSFhUe26nmXPxw3KuXrj"
+        },
+        {
+          "name": "Juan Reza",
+          "url": "https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY"
+        },
+        {
+          "name": "Diva Aurel",
+          "url": "https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274381,
+      "name": "TABOLA BALE",
+      "url": "https://open.spotify.com/track/4jIGZPcgg0U8Lemv2Ylg8W"
     },
     {
       "album": {
@@ -18278,7 +18554,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 288981,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr"
@@ -19016,6 +19292,24 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY - The 1st Album",
+        "url": "https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "The End of the Day",
+      "url": "https://open.spotify.com/track/6KwLumGEUxeyU4kWhmYdI1"
     },
     {
       "album": {
@@ -20713,6 +21007,24 @@
     },
     {
       "album": {
+        "name": "with ease",
+        "url": "https://open.spotify.com/album/5yNfXwafClO22prMhJff9g"
+      },
+      "artists": [
+        {
+          "name": "Joon",
+          "url": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "with ease",
+      "url": "https://open.spotify.com/track/2TFUY0H6adpoF91yYi9Z74"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -21368,7 +21680,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 148666,
       "name": "\u522b\u8ba9\u7231\u51cb\u843d",
       "url": "https://open.spotify.com/track/31UoOHUV9X75682zuyWS8x"

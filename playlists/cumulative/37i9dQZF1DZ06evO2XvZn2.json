@@ -825,6 +825,32 @@
     },
     {
       "album": {
+        "name": "Si Tuviera Que Elegir",
+        "url": "https://open.spotify.com/album/5yHkUAMz02bkq7P2R6Ne59"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260868,
+      "name": "Si Tuviera Que Elegir",
+      "url": "https://open.spotify.com/track/2i9seTIiIfd2kmFztBKDnT"
+    },
+    {
+      "album": {
         "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
         "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },

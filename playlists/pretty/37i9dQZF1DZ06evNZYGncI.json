@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 1035105,
+  "num_followers": 1035270,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADWRHc25f/SZJ3KQTrlvmXU",
+  "snapshot_id": "aD+MgAAAAAAHKh56B5m1hdn6lqPoGR2S",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 225066,
-      "name": "Killpop",
-      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hope Is Gone (10th Anniversary)",
         "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 268586,
       "name": "Dead Memories",
       "url": "https://open.spotify.com/track/7eRG7KNDIgjIk3nvykmhOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "Killpop",
+      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
     },
     {
       "added_at": null,

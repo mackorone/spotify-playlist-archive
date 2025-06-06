@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover:  Lauv x Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,880 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,086 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 74 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 |
 | 75 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 |
 
-Snapshot ID: `aDsDnAAAAADRPkL+958rKNdD+tNshbW4`
+Snapshot ID: `aDsDnAAAAABywGwdyhp8f7gr+7Yi8Vp3`

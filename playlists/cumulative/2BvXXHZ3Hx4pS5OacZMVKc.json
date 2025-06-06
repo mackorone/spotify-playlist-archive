@@ -8293,6 +8293,24 @@
     },
     {
       "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/59vtXVIPN7Q3VYHAg2TcRc"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "X2",
+      "url": "https://open.spotify.com/track/3GfnnZhCeysVePlfV25cZU"
+    },
+    {
+      "album": {
         "name": "XXI",
         "url": "https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK"
       },

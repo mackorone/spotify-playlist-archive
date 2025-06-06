@@ -4,7 +4,7 @@
 
 > いよいよPOP YOURS開催! // Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Joe Cupertino
 
-969 songs - 1 day 20 hr 50 min
+970 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [Studio Neet](https://open.spotify.com/track/3WRv6d1IlanzVQPu8xMwEP) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W) | [Studio Neet](https://open.spotify.com/album/5xrajBttxesT7X06gAWxMP) | 2:29 | 2024-08-28 | 2024-12-25 |
 | [Succes](https://open.spotify.com/track/47lGTqSRbIXJuVzFPfl5Sd) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Local Life](https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4) | 2:15 | 2024-03-21 | 2024-04-19 |
 | [Succes](https://open.spotify.com/track/69cy9YJ1PP6iAK5QTvgFRt) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Local Life](https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy) | 2:15 | 2024-04-16 | 2024-06-12 |
+| [SUCCESS FAMILY](https://open.spotify.com/track/2HfDQSSxz9eT0BuAiWESAY) | [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [Iida Reo](https://open.spotify.com/artist/6m7DjlSCtL6CvMZ8nLLkZj) | [SUCCESS FAMILY](https://open.spotify.com/album/2LQ6FxfmnseRKPmL5fusSV) | 2:30 | 2025-06-03 |  |
 | [summer clouds](https://open.spotify.com/track/3AerkVgVqgoKMz5z13kxPD) | [SCAR\-FACE](https://open.spotify.com/artist/5QAk6haiGEN53kHBo9pMSU) | [summer clouds](https://open.spotify.com/album/1DUFIDCjQcAxPV2dYTkHdy) | 2:44 | 2024-02-08 | 2024-04-19 |
 | [summertime](https://open.spotify.com/track/78RXtpNuRCPZiiZRJTarhj) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK), [Nobuki](https://open.spotify.com/artist/0LO7KRqxzhGxxrJgLl6jbP) | [me and the world](https://open.spotify.com/album/0zEmthtLvPbMbN4skZ3lJs) | 3:24 | 2023-12-07 | 2024-01-19 |
 | [SUN RISE](https://open.spotify.com/track/02AQHmzpxPhqAI86kPIybW) | [秋田サイファー](https://open.spotify.com/artist/34ZLs95Ti2BFqZjotET2dS), [破隆](https://open.spotify.com/artist/02ADFcevKi4K1keg1qqKpg), [芭撫琉](https://open.spotify.com/artist/3yrirHp7HY4ewS9gWL492F) | [SUN RISE](https://open.spotify.com/album/35B8UFlsAFwqQgn46jTMeR) | 2:26 | 2024-04-24 | 2024-05-15 |

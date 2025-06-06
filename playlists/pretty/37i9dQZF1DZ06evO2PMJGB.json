@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 262095,
+  "num_followers": 262104,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAAPZquth7+Wex5XyMBoD1bK",
+  "snapshot_id": "aD+MgAAAAAAl5SCgzBEdWZ6OXsQG7g0v",
   "tracks": [
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sirvo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 161749,
-      "name": "N\u00e3o Sirvo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo de bom",
         "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
       },
@@ -867,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+        "name": "N\u00e3o Sirvo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         },
         {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+      "duration_ms": 161749,
+      "name": "N\u00e3o Sirvo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
     },
     {
       "added_at": null,
@@ -903,6 +883,26 @@
       "duration_ms": 102857,
       "name": "Rough",
       "url": "https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 127 songs - 8 hr 32 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 128 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 125 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
 | 126 | [England](https://open.spotify.com/track/1z5E84ZZQP5o0k00oqpt13) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 5:40 |
 | 127 | [Iron Sky \- Abbey Road Live Session](https://open.spotify.com/track/0N29z9eL37fF9A81bJuDuO) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love \(Live and In Session\)](https://open.spotify.com/album/2JdkagQIu8f9hSRJJ5rZpP) | 6:11 |
+| 128 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
 
-Snapshot ID: `AAAA9Ir0CPah1UVfD2QADgIYIiIG26Ch`
+Snapshot ID: `AAAA9WMw0CuosB6jEVDjGBxAnOfwXeZO`

@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 96411,
+  "num_followers": 96424,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADHWGY3xjfPYYzZwFVhknxX",
+  "snapshot_id": "aD+MgAAAAABego2ofJbNl+e8jgGSN/hx",
   "tracks": [
     {
       "added_at": null,
@@ -135,30 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Solstice (Braxe + Falcon Remix)",
-        "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
       "artists": [
         {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 240156,
-      "name": "Winter Solstice - Braxe + Falcon Remix",
-      "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
+      "duration_ms": 178613,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
     },
     {
       "added_at": null,
@@ -195,18 +183,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+        "name": "Winter Solstice (Braxe + Falcon Remix)",
+        "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
       "artists": [
         {
           "name": "Phoenix",
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Everything Is Everything",
-      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
+      "duration_ms": 240156,
+      "name": "Winter Solstice - Braxe + Falcon Remix",
+      "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 212333,
-      "name": "My Elixir",
-      "url": "https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc"
+      "duration_ms": 302026,
+      "name": "Identical",
+      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 302026,
-      "name": "Identical",
-      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
+      "duration_ms": 212333,
+      "name": "My Elixir",
+      "url": "https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc"
     },
     {
       "added_at": null,

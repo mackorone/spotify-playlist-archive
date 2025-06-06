@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u0442\u0435\u043f\u043b\u0438\u0445 \u0434\u043d\u0456\u0432 \ud83c\udf3b\u2600\ufe0f\ud83c\udfd5\ufe0f",
-  "num_followers": 36035,
+  "num_followers": 36044,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
-        "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
-      },
-      "artists": [
-        {
-          "name": "Okean Elzy",
-          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
-        }
-      ],
-      "duration_ms": 270119,
-      "name": "\u042f\u043a \u043d\u0456\u043a\u043e\u043b\u0438",
-      "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
         "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
       },
@@ -399,18 +383,34 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
+        "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
       },
       "artists": [
         {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "Okean Elzy",
+          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
         }
       ],
-      "duration_ms": 166500,
-      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
+      "duration_ms": 270119,
+      "name": "\u042f\u043a \u043d\u0456\u043a\u043e\u043b\u0438",
+      "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "special",
+        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 138861,
+      "name": "special",
+      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
-        "url": "https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv"
+        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
       },
       "artists": [
         {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
         }
       ],
-      "duration_ms": 205500,
-      "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
-      "url": "https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay"
+      "duration_ms": 166500,
+      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "special",
-        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+        "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
+        "url": "https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
         }
       ],
-      "duration_ms": 138861,
-      "name": "special",
-      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+      "duration_ms": 205500,
+      "name": "\u041c\u0456\u0436 \u0421\u0456\u0440\u0438\u043c\u0438 \u0414\u043d\u044f\u043c\u0438",
+      "url": "https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
-      },
-      "artists": [
-        {
-          "name": "BAH.ROMA",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
-        }
-      ],
-      "duration_ms": 198296,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041a\u041b\u0418\u0427\u0423",
         "url": "https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
-        "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
       },
       "artists": [
         {
-          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
-          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "BAH.ROMA",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
         }
       ],
-      "duration_ms": 185409,
-      "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
-      "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
+      "duration_ms": 198296,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -915,6 +895,26 @@
       "duration_ms": 180750,
       "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
       "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
+        "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 185409,
+      "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
+      "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
     },
     {
       "added_at": "2025-06-03 09:56:43",

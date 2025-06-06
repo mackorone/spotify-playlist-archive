@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,185 likes - 65 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,247 likes - 65 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 64 | [Faithfulness](https://open.spotify.com/track/672qx8wmGouDn56vewnHQn) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Faithfulness & Kem Di Hallelujah](https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8) | 4:22 |
 | 65 | [Never](https://open.spotify.com/track/3IQdVOoiyUFhW00lDwJn8g) | [Chad Prins](https://open.spotify.com/artist/0Pw2kX5DUyKzek3ClK1Dvg), [Seve MusicKid](https://open.spotify.com/artist/7rc5DX7anRXeXWjgDEAdbn) | [Never](https://open.spotify.com/album/3H0raKStqrLreTil7aNlDM) | 3:38 |
 
-Snapshot ID: `aCdffQAAAACThoKwFR2h6lpGjifH4Sd3`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "arde lento",
+        "url": "https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211168,
+      "name": "ay tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/7LR49ij2jJgnSEy2Yrql6h"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 256109,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,768 likes - 35 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,777 likes - 35 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 54073,
+  "num_followers": 54101,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABUdmeOI296owizw4KOye1R",
+  "snapshot_id": "aD+MgAAAAACy6UNqVDmkvuLWwFrPO7bD",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Homesick For Heaven",
+        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Great Things",
-      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
+      "duration_ms": 250000,
+      "name": "Homesick For Heaven",
+      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homesick For Heaven",
-        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Homesick For Heaven",
-      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
+      "duration_ms": 290133,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 293720,
-      "name": "Messiah / You're Beautiful",
-      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+      "duration_ms": 234466,
+      "name": "At Your Name (Yahweh, Yahweh)",
+      "url": "https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Response",
-        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 234466,
-      "name": "At Your Name (Yahweh, Yahweh)",
-      "url": "https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA"
+      "duration_ms": 293720,
+      "name": "Messiah / You're Beautiful",
+      "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Response",
-        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 297666,
-      "name": "The Victory",
-      "url": "https://open.spotify.com/track/35JEkFRFgRerZwkuNe5vJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God",
         "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 279253,
       "name": "Doxology//Amen",
       "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 297666,
+      "name": "The Victory",
+      "url": "https://open.spotify.com/track/35JEkFRFgRerZwkuNe5vJ3"
     },
     {
       "added_at": null,

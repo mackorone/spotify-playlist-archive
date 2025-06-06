@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -234,6 +234,24 @@
       "duration_ms": 347142,
       "name": "Aku Cah Kerjo",
       "url": "https://open.spotify.com/track/5ai8gNOjnpz4RNCHoqRt9U"
+    },
+    {
+      "album": {
+        "name": "Aku Cah Kerjo (Live)",
+        "url": "https://open.spotify.com/album/0FDkDNn7n2RsH5ewRlqW8t"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Aku Cah Kerjo - Live",
+      "url": "https://open.spotify.com/track/3qZSjpt0AiZx80zUKnsU0s"
     },
     {
       "album": {
@@ -5776,7 +5794,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 262740,
       "name": "ORA KOLU SAUR",
       "url": "https://open.spotify.com/track/0uJMDKcS8MqgZOxP0Qp07A"
@@ -5820,7 +5838,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 351568,
       "name": "Ora Ngemis Bali",
       "url": "https://open.spotify.com/track/36foDN2kcoxBVPqW0NrKl2"
@@ -8492,7 +8510,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 348000,
       "name": "Tibo Mburi",
       "url": "https://open.spotify.com/track/3w2gVQh4bSrsD7lOAuPdck"
@@ -9070,6 +9088,32 @@
       "duration_ms": 285380,
       "name": "Wegah Tukaran",
       "url": "https://open.spotify.com/track/5UWfUp4bpgwLxrV4zYsbLf"
+    },
+    {
+      "album": {
+        "name": "Wegah Tukaran",
+        "url": "https://open.spotify.com/album/41firAF7cH6F8MqD3ICLMx"
+      },
+      "artists": [
+        {
+          "name": "Royal Music",
+          "url": "https://open.spotify.com/artist/1coVIbS4yAqP5hmezkHAXM"
+        },
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        },
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Wegah Tukaran",
+      "url": "https://open.spotify.com/track/7fGSaDkMeRiVNb392rfKJf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Lagum
 
-395 songs - 18 hr 49 min
+396 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [MENTA COM CHÁ](https://open.spotify.com/track/6eIH1kXMmK1jcc1H2P5YF2) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:30 | 2023-03-31 | 2023-08-16 |
 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 | 2022-03-04 | 2022-07-19 |
 | [MEU CORAÇÃO](https://open.spotify.com/track/0oyuAkoiMPNbeewVTa0t1z) | [VOID](https://open.spotify.com/artist/163Bo6wArUPNbzbTAgmbJQ) | [MEU CORAÇÃO](https://open.spotify.com/album/1MlmxhNB8HRbB2Rir0h4fi) | 2:10 | 2025-01-31 | 2025-03-01 |
-| [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 | 2025-03-21 |  |
+| [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 | 2025-03-21 | 2025-06-06 |
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-23 | 2024-12-14 |
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-01-13 | 2023-04-15 |
 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 | 2025-03-21 |  |
@@ -263,6 +263,7 @@
 | [Ouro de Tolo](https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 4:56 | 2025-04-01 |  |
 | [paixão vs amor](https://open.spotify.com/track/739cbHTqihOPlsGal5yfOk) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [paixão vs amor](https://open.spotify.com/album/50tRqPMQ0sUUXX4CKUXoHB) | 2:44 | 2022-09-23 | 2022-10-04 |
 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 | 2024-02-23 | 2024-04-27 |
+| [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-05 |  |
 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 | 2022-01-14 | 2022-11-12 |
 | [passarela](https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 2:39 | 2024-12-02 | 2025-02-01 |
 | [pausa da sua tristeza](https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:13 | 2024-06-28 |  |

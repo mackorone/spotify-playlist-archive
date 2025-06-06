@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ochiko
 
-272 songs - 15 hr 11 min
+273 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Forget You](https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 4:22 | 2021-12-28 | 2024-04-06 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-14 | 2023-10-20 |
 | [Friendzone](https://open.spotify.com/track/1lxpJHHBp4jFrcbTlOZPMA) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Out With The Old](https://open.spotify.com/album/2pE7yxSv7xw2uRL8Sz6XDP) | 3:28 | 2025-02-13 | 2025-02-21 |
-| [Further From Me](https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Further From Me](https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9) | 2:17 | 2024-06-13 |  |
+| [Further From Me](https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Further From Me](https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9) | 2:17 | 2024-06-13 | 2025-06-06 |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-26 | 2024-09-27 |
 | [Goodbye](https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU) | [Shanki Austine](https://open.spotify.com/artist/6itwRcitEN1S39bvzrWsNM), [Bee Muziki](https://open.spotify.com/artist/5bUi75yAVr0SuEFhtmm69j) | [Beginning EP](https://open.spotify.com/album/1dxogKeICt9bHr4z4EivFa) | 3:22 | 2024-11-07 | 2025-01-17 |
 | [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-29 |  |
@@ -191,6 +191,7 @@
 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 | 2025-02-13 | 2025-02-21 |
 | [Panda Basi](https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp) | [Mvua](https://open.spotify.com/artist/6mK4gMeS7p1vS724AecSUO) | [Panda Basi](https://open.spotify.com/album/5yCp4CeBRujpxNTURyBCRO) | 2:47 | 2025-02-13 | 2025-02-21 |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |
+| [Peddi](https://open.spotify.com/track/643eUUzfiHcyEVt5UHcMkC) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Peddi](https://open.spotify.com/album/0QAP2mGhEGg4H2TeZYqnPr) | 6:00 | 2025-06-05 |  |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 | 2024-05-17 |
 | [Penzi Wa Kasi](https://open.spotify.com/track/5YMLJGySuOfRuGJja7LOb8) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 2:44 | 2025-02-13 | 2025-02-21 |
 | [Perfect Design](https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Perfect Design](https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob) | 3:28 | 2025-02-13 | 2025-02-21 |

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-554 songs - 1 day 7 hr 43 min
+555 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Not Our Fault](https://open.spotify.com/track/6QuwHuwgucbVeqJBlIWD0h) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5H7nCfkt7ovBwVG7LqU2xA) | 4:31 | 2024-01-16 | 2024-03-21 |
 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 | 2024-03-21 |  |
 | [Nothing Really Matters](https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0) | 3:42 | 2023-02-23 | 2023-10-16 |
-| [Nothing To Lose](https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose](https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6) | 3:04 | 2024-09-27 |  |
+| [Nothing To Lose](https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose](https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6) | 3:04 | 2024-09-27 | 2025-06-06 |
 | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs) | 2:56 | 2024-06-20 | 2024-06-27 |
 | [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/0WAuQsfiajy1TuxLuRbWM0) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Great Big World](https://open.spotify.com/album/522Og7vcXvS4BI6PKAazYm) | 3:09 | 2023-03-09 | 2024-04-19 |
 | [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/5i2gud3IkzMXg1QlS5Eblr) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Nothing's Ever Good Enough](https://open.spotify.com/album/3CZ5MiCVazk5SEZhbQxqXi) | 3:09 | 2023-02-23 | 2023-02-26 |
@@ -531,6 +531,7 @@
 | [What A Day](https://open.spotify.com/track/2w9aX8tFMSkkGxgdKg31zx) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/17ScPzQxVtLXiCr1T1POvU) | 3:46 | 2023-08-17 | 2024-03-22 |
 | [What A Day](https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn) | 3:46 | 2023-02-23 | 2023-08-18 |
 | [What I Got](https://open.spotify.com/track/78nJ82Er1YBR1GfOwa11Mt) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [What I Got](https://open.spotify.com/album/4gsWBDBphJW4eJcFfQYjZd) | 3:08 | 2023-02-23 | 2023-04-26 |
+| [What You Meant To Me](https://open.spotify.com/track/0bvh4owohGyhv93QeIZJkr) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [What You Meant To Me](https://open.spotify.com/album/2v2gbLj8H0OJtAtwNmsJxc) | 2:48 | 2025-06-05 |  |
 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 | 2024-03-21 |  |
 | [When Summer Ends](https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk) | [Makelove](https://open.spotify.com/artist/2BkUVGLsgklRhOsWt4VRKY) | [When Summer Ends](https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk) | 3:31 | 2023-02-23 |  |
 | [When We First Met](https://open.spotify.com/track/5Ck86xT1yXsPRi1vRUTECa) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [When We First Met](https://open.spotify.com/album/31CRztMM1ptaxOPfcqDohf) | 3:15 | 2023-04-25 |  |

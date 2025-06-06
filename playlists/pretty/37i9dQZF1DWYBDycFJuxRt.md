@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE\*👉 <a href="https://spice.eplus.jp/articles/338296">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,689 likes - 81 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,701 likes - 81 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 49 | [ショーラー](https://open.spotify.com/track/1x6eEZDPHcmO4Zf7QKLzKk) | [Ooochie Koochie](https://open.spotify.com/artist/6C63Dia34mMK2wzE5uEvQF), [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0), [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [ショーラー](https://open.spotify.com/album/1vApXOGKLnmUoByOzRbvMx) | 3:04 |
 | 50 | [つむぐ](https://open.spotify.com/track/3dfFnsOUC8ahF9idBeuqZQ) | [豊岡鞄とつくる 夢のかばんProject](https://open.spotify.com/artist/4ccLYc66rczqIGjpuYzXU2) | [つむぐ](https://open.spotify.com/album/5i9D9I40Dzw52ckzxYaVJo) | 4:30 |
 | 51 | [Chamomiles Away](https://open.spotify.com/track/0srzm5P2cYSYUE484Tn11J) | [Jasmine High](https://open.spotify.com/artist/2V64pi7zW8uQlK0ZQhpN9r) | [Chamomiles Away](https://open.spotify.com/album/54rWyI0cetaPKBpE6Ri7IB) | 3:28 |
-| 52 | [NARIWAI \(feat\. 11\)](https://open.spotify.com/track/71FD1cfIZWQQD3fYd061T3) | [KIKUMARU](https://open.spotify.com/artist/4PE6q8r32670fk65nIXyiX), [11](https://open.spotify.com/artist/1dKG2lL15S8MrnxmK79wnN) | [NARIWAI \(feat\. 11\)](https://open.spotify.com/album/6NiO8ZkKBkPPi0TINemRoO) | 3:25 |
-| 53 | [Killing Joke \(Reimagined\)](https://open.spotify.com/track/3JY6JaZ36StBsnFm6CY7f4) | [Zumi](https://open.spotify.com/artist/1CUbQQoPhRf6n9w9wGP8AZ), [ISSEI](https://open.spotify.com/artist/5qlwDioFB2X1RinX1HV5w2), [Kosuke Kuramoto](https://open.spotify.com/artist/7GH9khpUnlWS0KdoqW8lP4) | [Day Tripper's Radio](https://open.spotify.com/album/0bEvXs8pby0nDk7qAXeuXo) | 2:09 |
+| 52 | [NARIWAI \(feat\. 11\)](https://open.spotify.com/track/71FD1cfIZWQQD3fYd061T3) | [KIKUMARU](https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK), [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [NARIWAI \(feat\. 11\)](https://open.spotify.com/album/6NiO8ZkKBkPPi0TINemRoO) | 3:25 |
+| 53 | [Killing Joke \(Reimagined\)](https://open.spotify.com/track/3JY6JaZ36StBsnFm6CY7f4) | [Zumi](https://open.spotify.com/artist/1CUbQQoPhRf6n9w9wGP8AZ) | [Day Tripper's Radio](https://open.spotify.com/album/0bEvXs8pby0nDk7qAXeuXo) | 2:09 |
 | 54 | [Wakanda \(feat\. Fuma no KTR & Tepa Roucci\)](https://open.spotify.com/track/0KjC8koOQXfBXF5HXasgN4) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [Wakanda \(feat\. Fuma no KTR & Tepa Roucci\)](https://open.spotify.com/album/2ouWMXD1dcKE6z7oqqTkIT) | 2:38 |
 | 55 | [NONE](https://open.spotify.com/track/033XLUF0JKchTq8esT2clY) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe) | [NONE](https://open.spotify.com/album/7t7jVf67S6dFMvqPBpc9kX) | 3:36 |
 | 56 | [Dejavu](https://open.spotify.com/track/5gNIkzY3KaGYbhk36BMXtS) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [ラプソディ](https://open.spotify.com/album/4Aymnud73DoVgLFpkq6aQ3) | 3:00 |

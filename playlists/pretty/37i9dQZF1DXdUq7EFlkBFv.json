@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 23146,
+  "num_followers": 23158,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "GD Anthem",
+        "url": "https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo"
+      },
+      "artists": [
+        {
+          "name": "Rooga",
+          "url": "https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1"
+        }
+      ],
+      "duration_ms": 190566,
+      "name": "GD Anthem",
+      "url": "https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Faith (Deluxe)",
         "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 203586,
       "name": "Bout A Million (feat. 42 Dugg & 21 Savage)",
       "url": "https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "GD Anthem",
-        "url": "https://open.spotify.com/album/0vEwVgYvI4kNNLsszRi3zo"
-      },
-      "artists": [
-        {
-          "name": "Rooga",
-          "url": "https://open.spotify.com/artist/5zDlgTCrdCh2cFRX7nH8W1"
-        }
-      ],
-      "duration_ms": 190566,
-      "name": "GD Anthem",
-      "url": "https://open.spotify.com/track/0IAQb5BDqLI5ZlGVDiFArh"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -735,18 +735,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "I Ain't Scared",
-        "url": "https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ"
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
         }
       ],
-      "duration_ms": 123870,
-      "name": "Toxic Punk",
-      "url": "https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX"
+      "duration_ms": 150449,
+      "name": "Brush Em (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -767,22 +771,18 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+        "name": "I Ain't Scared",
+        "url": "https://open.spotify.com/album/1l4iUB8CltYGm1ugBj7DpZ"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 150449,
-      "name": "Brush Em (feat. Rah Swish)",
-      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
+      "duration_ms": 123870,
+      "name": "Toxic Punk",
+      "url": "https://open.spotify.com/track/1kt1zJEovrCGeW4xHvQwaX"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -839,22 +839,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Over The Top (feat. Drake)",
-        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
       },
       "artists": [
         {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
         }
       ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
+      "duration_ms": 228251,
+      "name": "30 (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -871,6 +871,26 @@
       "duration_ms": 143857,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Over The Top (feat. Drake)",
+        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -907,26 +927,6 @@
       "duration_ms": 172800,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "30 (feat. Bizzy Banks)",
-      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",

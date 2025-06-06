@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Georgia C\u00e9cile",
+  "description": "The best jazz new releases. Cover: aron!",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 239480,
       "name": "Bunky flues",
       "url": "https://open.spotify.com/track/7rTOyzyBu2BnpFc3MkrSEl"
@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "cozy you",
+        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210734,
+      "name": "cozy you",
+      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
+    },
+    {
+      "album": {
         "name": "Cry Me a River",
         "url": "https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 277459,
       "name": "Dinorah Dinorah",
       "url": "https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr"
@@ -3934,6 +3952,24 @@
       "duration_ms": 292325,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0r8TX1atVqi2VW4VVz1j1c"
+    },
+    {
+      "album": {
+        "name": "cozy you (and other nice songs)",
+        "url": "https://open.spotify.com/album/2ASSjCHJDdOzKIgDkLkcgQ"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147776,
+      "name": "eggs in the morning",
+      "url": "https://open.spotify.com/track/4RSrv5ZjdCwPnq1AbW6Owk"
     },
     {
       "album": {
@@ -8132,7 +8168,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 390173,
       "name": "Long Story Short",
       "url": "https://open.spotify.com/track/4ikG0zxuFINnTcaxCbW4RD"
@@ -10015,6 +10051,36 @@
     },
     {
       "album": {
+        "name": "Warrior Princess",
+        "url": "https://open.spotify.com/album/2HT5wyg1UfnaoGyX3LAB6N"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273565,
+      "name": "Old Skool Funk",
+      "url": "https://open.spotify.com/track/7Bnq7r5Dx0zJqK6iJsMqkJ"
+    },
+    {
+      "album": {
         "name": "Ole & Gard",
         "url": "https://open.spotify.com/album/6LbRF2pLgAIl7prGqJjwvi"
       },
@@ -10202,7 +10268,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 178110,
       "name": "Open Borders",
       "url": "https://open.spotify.com/track/6nI2VNWB5Wkh7RNg5eGent"
@@ -11256,7 +11322,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 337813,
       "name": "Romance",
       "url": "https://open.spotify.com/track/4vUrXy8MnrNxyHAAoXoWa4"
@@ -11510,6 +11576,40 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4IQuLra1KorSLrHtkE9llq"
+    },
+    {
+      "album": {
+        "name": "SuperBlue: Guilty Pleasures Vol.2",
+        "url": "https://open.spotify.com/album/61ZEyhZnDr3b9ATQR28K3b"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "SuperBlue",
+          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
+        },
+        {
+          "name": "Victoria Victoria",
+          "url": "https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg"
+        },
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280914,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/3frUZT6MoR0Xn76FDnQev8"
     },
     {
       "album": {
@@ -12046,7 +12146,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 233874,
       "name": "SOeuR FeLiX aka BeeHive",
       "url": "https://open.spotify.com/track/4BTm4UH5qHLEMtdAtEhDCr"
@@ -12271,6 +12371,24 @@
     },
     {
       "album": {
+        "name": "Spore",
+        "url": "https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz"
+      },
+      "artists": [
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150378,
+      "name": "Spore",
+      "url": "https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ"
+    },
+    {
+      "album": {
         "name": "Sports",
         "url": "https://open.spotify.com/album/2MgzrpQ2YqHJm2qegQy40F"
       },
@@ -12322,6 +12440,24 @@
       "duration_ms": 360299,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "album": {
+        "name": "Stelvio",
+        "url": "https://open.spotify.com/album/5NxtY3R2tsHNP5u3KHqvrr"
+      },
+      "artists": [
+        {
+          "name": "L'Equipe Lab",
+          "url": "https://open.spotify.com/artist/3v9nF0wI04hIUZRbNqIx2Y"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269218,
+      "name": "Stelvio",
+      "url": "https://open.spotify.com/track/6KX41B30UbOyQ63bn98GpS"
     },
     {
       "album": {
@@ -12442,7 +12578,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 352946,
       "name": "Strive",
       "url": "https://open.spotify.com/track/2i5ZWnEoBnJlElmDVz1T0R"
@@ -12859,7 +12995,7 @@
         },
         {
           "name": "Steve Jordan",
-          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
+          "url": "https://open.spotify.com/artist/53XJ4BIv6iblv2Osdpp5ls"
         },
         {
           "name": "John Clayton",
@@ -13260,7 +13396,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 361200,
       "name": "The Burning Roads",
       "url": "https://open.spotify.com/track/6szoAATXVtAS7CWjupf6MO"
@@ -14681,6 +14817,24 @@
     },
     {
       "album": {
+        "name": "VIII. The Prophet",
+        "url": "https://open.spotify.com/album/0oPFH0xBYZAb1TW9fxFIqh"
+      },
+      "artists": [
+        {
+          "name": "Isaiah J. Thompson",
+          "url": "https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380874,
+      "name": "VIII. The Prophet",
+      "url": "https://open.spotify.com/track/29oPWlyS8RmvYJ5MK3trL8"
+    },
+    {
+      "album": {
         "name": "Voicemail Blues",
         "url": "https://open.spotify.com/album/6aDPNDlJbT3aKe1eW9Dt8R"
       },
@@ -15074,6 +15228,24 @@
       "duration_ms": 159386,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1"
+    },
+    {
+      "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda",
+          "url": "https://open.spotify.com/artist/4pJ0viHUYhSn2o4OhaFKii"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260866,
+      "name": "What a Difference a Day Makes (Cuando vuelva a tu lado)",
+      "url": "https://open.spotify.com/track/3FM9BLbEOSQYBVIwt778yL"
     },
     {
       "album": {

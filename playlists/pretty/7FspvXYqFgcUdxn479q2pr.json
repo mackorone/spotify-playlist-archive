@@ -1,28 +1,100 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: WADE",
-  "num_followers": 32412,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Yves V",
+  "num_followers": 32414,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAsh2v28VLLe549pGCEHF6oBeYtcluA",
+  "snapshot_id": "AAAsj+u4ha+D2h0vXpoMRKtI8iNnh9uS",
   "tracks": [
     {
-      "added_at": "2025-06-02 08:12:15",
+      "added_at": "2025-06-05 12:08:01",
       "album": {
-        "name": "I Was Made For Lovin' You",
-        "url": "https://open.spotify.com/album/7t18nOqd5TKdQ5iuPm0sTL"
+        "name": "Flute (KNTRLVRLST Remix)",
+        "url": "https://open.spotify.com/album/4AAypVDSpB05qmvIeArFso"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "New World Sound",
+          "url": "https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE"
+        },
+        {
+          "name": "DJ Thomas Newson",
+          "url": "https://open.spotify.com/artist/0tZlnuodIwYzEMCLP86mnt"
+        },
+        {
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
         }
       ],
-      "duration_ms": 181431,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/2YGQQjEteNKh2s90wDu9ns"
+      "duration_ms": 187500,
+      "name": "Flute (KNTRLVRLST Remix)",
+      "url": "https://open.spotify.com/track/1ezQNsp5el8von7KkY99py"
+    },
+    {
+      "added_at": "2025-06-05 12:08:01",
+      "album": {
+        "name": "All That Mattered (Love You Down)",
+        "url": "https://open.spotify.com/album/63E7tYqaL1KJNGymN1prgq"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "De Nuit",
+          "url": "https://open.spotify.com/artist/6KH3HjsV7nNF47ODgNISHH"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "All That Mattered (Love You Down)",
+      "url": "https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V"
+    },
+    {
+      "added_at": "2025-06-05 12:08:01",
+      "album": {
+        "name": "La Vida EP",
+        "url": "https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg"
+      },
+      "artists": [
+        {
+          "name": "dbasser",
+          "url": "https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b"
+        },
+        {
+          "name": "Peter Guzman",
+          "url": "https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3"
+        },
+        {
+          "name": "Jose Alves",
+          "url": "https://open.spotify.com/artist/3wgghSRJ0p9lOfHiE9D1Y9"
+        },
+        {
+          "name": "Kaala Shaw",
+          "url": "https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "La Vida - Radio Edit",
+      "url": "https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3"
+    },
+    {
+      "added_at": "2025-06-02 08:12:15",
+      "album": {
+        "name": "EY",
+        "url": "https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        }
+      ],
+      "duration_ms": 139073,
+      "name": "EY",
+      "url": "https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM"
     },
     {
       "added_at": "2025-06-02 08:12:15",
@@ -47,6 +119,22 @@
     {
       "added_at": "2025-06-02 08:12:15",
       "album": {
+        "name": "I Was Made For Lovin' You",
+        "url": "https://open.spotify.com/album/7t18nOqd5TKdQ5iuPm0sTL"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 181431,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/2YGQQjEteNKh2s90wDu9ns"
+    },
+    {
+      "added_at": "2025-06-02 08:12:15",
+      "album": {
         "name": "Love\u2019s A Game",
         "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
       },
@@ -65,20 +153,140 @@
       "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
     },
     {
-      "added_at": "2025-06-02 08:12:15",
+      "added_at": "2025-06-05 12:08:01",
       "album": {
-        "name": "EY",
-        "url": "https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs"
+        "name": "Hometown Hero (Remixes)",
+        "url": "https://open.spotify.com/album/2bQxvMlmvv4jclMcoKEAAm"
       },
       "artists": [
         {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Bj\u00f8rnskov",
+          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
+        },
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
         }
       ],
-      "duration_ms": 139073,
-      "name": "EY",
-      "url": "https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM"
+      "duration_ms": 169375,
+      "name": "Hometown Hero (Just\u0117 Remix)",
+      "url": "https://open.spotify.com/track/3fh6pToHUbW7w14JyBqsJc"
+    },
+    {
+      "added_at": "2025-06-05 12:08:01",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/4pwoQ3CAH2k3I3sU5fv3sO"
+      },
+      "artists": [
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "LUISDEMARK",
+          "url": "https://open.spotify.com/artist/6V8FJ4jrLkendobaeT99an"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/649ZGPOQ7cJfFpXrUavJis"
+    },
+    {
+      "added_at": "2025-06-05 12:08:01",
+      "album": {
+        "name": "Das Boom",
+        "url": "https://open.spotify.com/album/3hGP21qtBpVpZradJOEbgu"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Das Boom",
+      "url": "https://open.spotify.com/track/0GI4jfqufRqXXkuatEMCsn"
+    },
+    {
+      "added_at": "2025-06-05 12:08:01",
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [SCRIPT Remix]",
+        "url": "https://open.spotify.com/album/1thu54A2fcfVpceZt9yIUY"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Life Is Simple (Move Your Body) - SCRIPT Remix",
+      "url": "https://open.spotify.com/track/0TuDFOWff6kcIv5JkN4T1S"
+    },
+    {
+      "added_at": "2025-06-05 12:08:01",
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
+    },
+    {
+      "added_at": "2025-06-05 12:07:27",
+      "album": {
+        "name": "Oh My Lord",
+        "url": "https://open.spotify.com/album/5n1f5e0bY7vt51HW63NOAg"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Oh My Lord",
+      "url": "https://open.spotify.com/track/0KdIvpscCOvSG7FmmR4Clg"
     },
     {
       "added_at": "2025-06-02 08:12:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,774 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,773 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 32 | [Letting Go](https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [Letting Go](https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL) | 3:46 |
 | 33 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 34 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
-| 35 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
-| 36 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
+| 35 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
+| 36 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 37 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 |
 | 38 | [Furniture](https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:14 |
 | 39 | [Where the Light Is](https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Where the Light Is](https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej) | 3:35 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 57 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 |
 | 58 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |
 | 59 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 |
-| 60 | [sprouts](https://open.spotify.com/track/4Rj8LmDWys5LA2yeQ8GFvh) | [rosarrie](https://open.spotify.com/artist/7JGtDLeiMS8MXVZzbeDNCi), [Winter Foe](https://open.spotify.com/artist/4GYawQUhnxYepBC7WhUJ4N) | [sprouts](https://open.spotify.com/album/6vN6P8t4PiSzgBMqIJ1qyf) | 3:32 |
+| 60 | [Wanna Be with You](https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Wanna Be with You](https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA) | 3:11 |
 
 Snapshot ID: `ZWiHUAAAAAC2MHDv5DLSI7L3g/XZPcb+`

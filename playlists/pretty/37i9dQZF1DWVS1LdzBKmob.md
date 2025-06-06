@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,879 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,084 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 99 | [Memories](https://open.spotify.com/track/4dxr2y5vEqTn3VlP5rPq6D) | [Mystic Relaxation Side](https://open.spotify.com/artist/01H2lY2GNp15VOXcxEO4aV) | [Sound Bath Meditation: Bowls, Gongs, and Other Instruments, Healing Vibrations for Mind and Body](https://open.spotify.com/album/7inIBtsi7C101oRzVbIlU6) | 4:49 |
 | 100 | [Aether Window](https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6) | [Quiet Robot](https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc) | [Aether Window](https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma) | 2:42 |
 
-Snapshot ID: `aEBH2gAAAAAdrASMRzl+wUqqBGv4gUkH`
+Snapshot ID: `aEBH2gAAAABGJlhTK7e50v0kRsZl+UT0`

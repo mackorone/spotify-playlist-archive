@@ -20045,6 +20045,28 @@
     },
     {
       "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/1SBSEBuRZ559StapQdFUUV"
+      },
+      "artists": [
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/2hHdTksNtM52OojwkncDUO"
+    },
+    {
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI"
       },

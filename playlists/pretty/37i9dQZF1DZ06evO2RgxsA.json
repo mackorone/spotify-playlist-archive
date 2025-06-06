@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 91504,
+  "num_followers": 91519,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACJEXwJgw3s031bkRUnZt20",
+  "snapshot_id": "aD+MgAAAAAA84pt+52aROnICzLusl/+D",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 48933,
-      "name": "Hobophobic (Scared of Bums)",
-      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Double Album",
         "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 144878,
       "name": "Darby Crashing Your Party",
       "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
     },
     {
       "added_at": null,

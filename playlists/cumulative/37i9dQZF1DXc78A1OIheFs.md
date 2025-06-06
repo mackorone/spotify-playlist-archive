@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-278 songs - 16 hr 4 min
+279 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 | 2025-01-30 |  |
 | [In Light of Everything](https://open.spotify.com/track/4Tut8Avf3TvUrvkxjorHO2) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Ceremony](https://open.spotify.com/album/5weOtEa4giqwaGzrqVASTW) | 3:02 | 2024-05-20 | 2024-11-08 |
 | [It's You](https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL) | [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You](https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X) | 3:41 | 2024-05-20 | 2025-02-21 |
-| [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 | 2024-05-20 |  |
+| [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 | 2024-05-20 | 2025-06-06 |
 | [Jeremy](https://open.spotify.com/track/1uISXy3URFhS0yu5WXanT8) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Jeremy](https://open.spotify.com/album/3quHOAYylf3eOrnwPr5UoW) | 3:18 | 2024-05-20 | 2024-11-08 |
 | [juliet & juliet](https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [juliet & juliet](https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ) | 3:56 | 2025-03-20 |  |
 | [Just Don't Know](https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Just Don't Know](https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc) | 3:07 | 2024-11-28 | 2025-01-21 |
@@ -172,6 +172,7 @@
 | [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-24 | 2025-04-27 |
 | [Millions](https://open.spotify.com/track/1OiEaDZf2xda14zWlkXinE) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [The Days](https://open.spotify.com/album/3Orb30lEud5jYVlIjdtWfd) | 3:10 | 2024-05-20 | 2024-08-16 |
 | [Miss You All The Time](https://open.spotify.com/track/2Z47P8OrffWIO5BKWrIlou) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Miss You All The Time](https://open.spotify.com/album/36u6nqSNbq4ZeH10s6lBgl) | 3:00 | 2024-05-20 | 2024-11-08 |
+| [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 | 2025-06-05 |  |
 | [MONEY CALLIN \(feat\. Halfsing\)](https://open.spotify.com/track/5ndrJDMYHj2ZNO5M3cnvCm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Halfsing](https://open.spotify.com/artist/2N9LXayJ8gJPbgpehVKMAZ) | [MONEY CALLIN \(feat\. Halfsing\)](https://open.spotify.com/album/4F48UjmhCkQ7oQGmhtDquo) | 2:51 | 2025-05-29 |  |
 | [Moneypenny](https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Moneypenny](https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6) | 4:18 | 2024-08-15 | 2025-02-07 |
 | [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 | 2025-04-24 |  |

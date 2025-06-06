@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Juliette Armanet
+> Les  meilleures nouveautés de la chanson française\. Photo: Vendredi sur Mer
 
-180 songs - 9 hr 54 min
+182 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [C'est fou comme je t'aime](https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [C'est fou comme je t'aime](https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm) | 2:40 | 2024-06-27 | 2024-07-27 |
 | [C'est l'heure](https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [C'est l'heure](https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5) | 2:29 | 2024-11-28 | 2025-04-25 |
 | [c'était mieux avant](https://open.spotify.com/track/0QOsuZVhlKiY0m5LR6jgAu) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [c'était mieux avant](https://open.spotify.com/album/6s1GZPMUWtSDp5Z8j1ka5E) | 2:17 | 2024-07-18 | 2024-09-20 |
-| [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 | 2025-01-09 |  |
+| [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 | 2025-01-09 | 2025-06-06 |
 | [Ce que j'aime \(feat\. Nikola\)](https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:26 | 2024-10-10 | 2025-03-07 |
 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-04-03 |  |
 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 | 2025-01-23 | 2025-03-21 |
@@ -31,6 +31,7 @@
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 | 2025-05-30 |
 | [Couleur](https://open.spotify.com/track/046vFIGwo6qUSClISFXw1j) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Couleur](https://open.spotify.com/album/4J3yqX0XXLtVr9hEbncHwn) | 2:43 | 2024-10-03 | 2025-02-21 |
 | [Cowboy](https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw) | [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Cowboy](https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4) | 3:37 | 2024-09-19 | 2025-01-31 |
+| [D'autres vies que la tienne](https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/2k52LVvL6DAD2I10T4bWcK) | 3:19 | 2025-06-05 |  |
 | [D'avoir vécu assez](https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [D'avoir vécu assez](https://open.spotify.com/album/1YOYednwxdyNBXrgxpfHq4) | 3:16 | 2024-11-07 | 2025-03-21 |
 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 | 2025-05-22 |  |
 | [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 | 2025-01-30 | 2025-02-14 |
@@ -74,7 +75,7 @@
 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 | 2025-05-22 |  |
 | [L'AVANCÉE](https://open.spotify.com/track/0kR6Kk05qUVBkN3oHfHEtD) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [L'AVANCÉE](https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU) | 4:08 | 2024-10-10 | 2025-03-07 |
 | [L'inconnu en personne \- Radio Edit](https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [L'inconnu en personne](https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O) | 3:36 | 2025-05-22 |  |
-| [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2025-01-09 |  |
+| [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2025-01-09 | 2025-06-06 |
 | [L'oiseau](https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 3:01 | 2025-01-23 |  |
 | [La fresque](https://open.spotify.com/track/2eelhSfH6dy2EpAkidvsmE) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/24fO1cCmRAxui3fxi3hKCh) | 2:58 | 2025-03-13 | 2025-05-16 |
 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 | 2024-09-26 | 2025-01-10 |
@@ -182,6 +183,7 @@
 | [Vivant](https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX) | 3:02 | 2024-06-27 | 2024-11-08 |
 | [vivre sobrement](https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [vivre sobrement](https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN) | 3:11 | 2025-01-09 | 2025-05-30 |
 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 | 2025-01-09 | 2025-05-23 |
+| [à l'autre bout du tel](https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [à l'autre bout du tel](https://open.spotify.com/album/0Lg0PUYJtcHY2YQdpPyOum) | 3:33 | 2025-06-05 |  |
 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 | 2024-08-29 | 2024-11-22 |
 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 | 2025-01-30 |  |
 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 | 2024-12-05 | 2025-01-31 |

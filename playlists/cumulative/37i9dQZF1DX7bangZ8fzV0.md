@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Bok Van Blerk, Ricus Nel, Ruhan Du Toit, Chris Steyn en Jay
+> Net die beste Afrikaanse musiek! Omslag: Irene\-Louise Van Wyk
 
-302 songs - 16 hr 41 min
+304 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Boertjie](https://open.spotify.com/track/1gDHAsZHRaNJ8vU42xYkgR) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Boertjie](https://open.spotify.com/album/1K74L4cyxA3HY5BEWv7JDg) | 3:09 | 2025-05-29 | 2025-06-01 |
 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 | 2023-10-12 |  |
 | [Bokswyn](https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Bokswyn](https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud) | 3:09 | 2022-08-18 | 2023-12-01 |
-| [Bos Is My Kos \(Kampvuur Mix\)](https://open.spotify.com/track/5lPyj6jtykVLBFtZNeoRyQ) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Bos Is My Kos \(Kampvuur Mix\)](https://open.spotify.com/album/3yaNtu9EqBKv7CqC6FG5bl) | 3:33 | 2025-05-15 |  |
+| [Bos Is My Kos \(Kampvuur Mix\)](https://open.spotify.com/track/5lPyj6jtykVLBFtZNeoRyQ) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Bos Is My Kos \(Kampvuur Mix\)](https://open.spotify.com/album/3yaNtu9EqBKv7CqC6FG5bl) | 3:33 | 2025-05-15 | 2025-06-06 |
 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 | 2024-07-18 |  |
 | [Bosveld Vakansie](https://open.spotify.com/track/6LHiWLGfFYRV9iUCrcC2Gf) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Sing Hoop Weerklink](https://open.spotify.com/album/38dU50ugb1c3kWmrdJqUg8) | 3:32 | 2022-11-10 | 2022-12-09 |
 | [Bosveldterapie](https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:14 | 2024-04-26 |  |
@@ -116,6 +116,7 @@
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 | 2024-05-10 |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 | 2025-04-24 |  |
+| [Hokaai Stoppie Lorrie \(2025\)](https://open.spotify.com/track/7JAeat2cwKKMDKlkPvwqX4) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Hokaai Stoppie Lorrie \(2025\)](https://open.spotify.com/album/2HnDPFI8Zur8DQ1KetiuHK) | 3:20 | 2025-06-05 |  |
 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 | 2024-11-14 | 2025-04-11 |
 | [Hou Bene Hou](https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X) | [Nolene](https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o) | [Hou Bene Hou](https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl) | 3:35 | 2024-04-26 | 2024-07-05 |
 | [Hy Jy Jy](https://open.spotify.com/track/6XFuQdgV9LU2ss1jcF6Ogg) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Hy Jy Jy](https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj) | 3:17 | 2024-04-11 | 2024-07-27 |
@@ -286,9 +287,10 @@
 | [Verlore Seun](https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Verlore Seun](https://open.spotify.com/album/1UlKXQZv6hCIyfVbhAca5W) | 3:23 | 2024-03-14 | 2024-06-01 |
 | [Vir Jou Geval](https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Vir Jou Geval](https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx) | 4:02 | 2022-12-29 | 2024-04-27 |
 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 | 2024-12-22 |  |
-| [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 | 2023-06-08 |  |
+| [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 | 2023-06-08 | 2025-06-06 |
 | [Vleisvreters](https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Vleisvreters](https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ) | 3:07 | 2023-03-03 | 2023-06-16 |
 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 | 2023-11-30 |  |
+| [Voete Jeuk](https://open.spotify.com/track/3L2TgLpX3Y9iW1Ltoen06W) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Voete Jeuk](https://open.spotify.com/album/4iOuNfztQDsLDilSnQPhT7) | 3:40 | 2025-06-05 |  |
 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 | 2023-03-09 | 2024-02-02 |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 | 2025-01-03 |
 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 | 2023-03-09 | 2024-04-27 |

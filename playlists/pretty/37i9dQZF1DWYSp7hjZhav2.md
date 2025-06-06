@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,957 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,995 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 23 | [My City's On Fire \(Anyma & Cassian Remix\)](https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [My City's On Fire \(Anyma & Cassian Remix\)](https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU) | 3:19 |
 | 24 | [Taratata \(with Grimes\)](https://open.spotify.com/track/3GiDTOsqG5WMjWTnmtbby2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:22 |
 | 25 | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 |
-| 26 | [Heat](https://open.spotify.com/track/6pkR3IU8zXngIXbUjV2gVe) | [JUNO \( DE \)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heat](https://open.spotify.com/album/2H3i9gfwWUxDVJKkKsvanf) | 4:27 |
+| 26 | [Heat](https://open.spotify.com/track/6pkR3IU8zXngIXbUjV2gVe) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heat](https://open.spotify.com/album/2H3i9gfwWUxDVJKkKsvanf) | 4:27 |
 | 27 | [Sentient](https://open.spotify.com/track/2b02PKAw1WU0W9RigoAP1Q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Sentient EP](https://open.spotify.com/album/5Nxfg3K5QxTGiHS1ky8cUS) | 4:34 |
 | 28 | [Speranza](https://open.spotify.com/track/6hIXNRNOFlnvyqk4XjADrm) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Speranza](https://open.spotify.com/album/0ZFsUxQYIAqU9Xat7HhWI5) | 5:11 |
 | 29 | [Digital Dream](https://open.spotify.com/track/5DRrrh8TWc0jgGrzIE44HI) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Digital Dream](https://open.spotify.com/album/4opArhF7zAidufyjv0p4nw) | 3:14 |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Zombie Inc.",
+        "url": "https://open.spotify.com/album/603L4FbpjqPPV5KdVXV5nS"
+      },
+      "artists": [
+        {
+          "name": "Demien Sixx",
+          "url": "https://open.spotify.com/artist/5D1fk08eJboaAHmo7WrZXT"
+        },
+        {
+          "name": "Earl the Kid",
+          "url": "https://open.spotify.com/artist/2Yolo8WR5b7K4UYGNLT1CO"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "(Zombies) All The Way Up",
+      "url": "https://open.spotify.com/track/3mqhWJjHCy32MGjZjJ1V8d"
+    },
+    {
+      "album": {
         "name": "1 MAN ARMY",
         "url": "https://open.spotify.com/album/0JiUH7A9KRrmt1P7sUB0ta"
       },
@@ -14418,6 +14440,24 @@
       "duration_ms": 166968,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6M6lR8RBlwilhEjV0y5SeX"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4bZQhYMs8mfqOCseONg3ug"
+      },
+      "artists": [
+        {
+          "name": "Harmonee",
+          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195371,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/62PqMbolR94BMqSqWXqapT"
     },
     {
       "album": {
@@ -43069,6 +43109,24 @@
     },
     {
       "album": {
+        "name": "PARANOID",
+        "url": "https://open.spotify.com/album/0kXYEzHoq4EVkXnJhV1tyB"
+      },
+      "artists": [
+        {
+          "name": "BADPETS",
+          "url": "https://open.spotify.com/artist/4TRKzgs0hUp4tLukLCeH5C"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "PARANOID",
+      "url": "https://open.spotify.com/track/2HvKaD9FTg2C05NhFpBMXn"
+    },
+    {
+      "album": {
         "name": "Paris by Night",
         "url": "https://open.spotify.com/album/2GnHkWtZkGf5gj9gUp614y"
       },
@@ -64835,7 +64893,7 @@
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156725,
+      "duration_ms": 155760,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/2uYSe1NoDmhI2cwwaaFfh4"
     },

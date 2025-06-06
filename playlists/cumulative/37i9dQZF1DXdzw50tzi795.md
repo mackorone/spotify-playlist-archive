@@ -2,15 +2,15 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: URBOYTJ
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: YOUNGOHM
 
-169 songs - 11 hr 0 min
+170 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 | 2024-12-16 | 2025-02-07 |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2024-01-26 | 2024-03-11 |
-| [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 | 2025-03-20 |  |
+| [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 | 2025-03-20 | 2025-06-06 |
 | [Bad Shawty](https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Bad Shawty](https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA) | 3:30 | 2025-04-16 | 2025-04-29 |
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-01-26 | 2024-02-01 |
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-04 | 2024-12-17 |
@@ -26,6 +26,7 @@
 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 | 2025-05-08 |  |
 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 | 2024-09-19 |  |
 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 | 2025-05-08 |  |
+| [I’m OK // Not OK \- Headphones Version](https://open.spotify.com/track/4eXfkqFZLTixR89GpkjKgE) | [BOYdPOD](https://open.spotify.com/artist/31esXlsRlVAFFGS7lx4BOS), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I’m OK // Not OK \(Headphones Version\)](https://open.spotify.com/album/5FqyaQKzUJtMJkXqpGMA2k) | 5:16 | 2025-06-05 |  |
 | [Just For You](https://open.spotify.com/track/1rHCpL5fzMrHwhFA5rk6wO) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [JEEP](https://open.spotify.com/artist/3SHZIwDKgpVv86LfYJNGy2) | [Just For You](https://open.spotify.com/album/0lrjJZPK1RTqGVMNyz3rhB) | 4:18 | 2025-04-24 |  |
 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 | 2024-09-12 | 2024-10-25 |
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2025-04-28 |  |

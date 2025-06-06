@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 
 > We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,536 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,527 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

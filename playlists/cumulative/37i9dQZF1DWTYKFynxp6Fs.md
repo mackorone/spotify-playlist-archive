@@ -2,7 +2,7 @@
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
+> Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
 72 songs - 4 hr 12 min
 

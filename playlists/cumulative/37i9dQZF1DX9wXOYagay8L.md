@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm?si=IELbCB0XQZW2Uuc3hkJzZw"> Samthing Soweto</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm?si=IELbCB0XQZW2Uuc3hkJzZw"> Mawelele</a>
 
-680 songs - 2 day 0 hr 46 min
+682 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Give Me Love](https://open.spotify.com/track/2ufp3FcGJ4qYpO4sfBZsA7) | [Tanaka Siziba](https://open.spotify.com/artist/0GXxyRP8kAhgERFJUDwUV2) | [Give Me Love](https://open.spotify.com/album/515EjVPbPb6nUiEF3qdM1Q) | 2:56 | 2022-04-22 | 2022-05-06 |
 | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Give Me Something \(feat\. Rowlene\)](https://open.spotify.com/album/4beeF1a8TR0ZAmHGbVmcjV) | 2:44 | 2022-08-25 | 2022-09-30 |
 | [Gomora](https://open.spotify.com/track/3PurQ26uEqE10OXpGUM6Al) | [Blendor](https://open.spotify.com/artist/39o9oJa1NUK3WKgFn2mc4P) | [Umacashelana](https://open.spotify.com/album/5FhZB8gNSc6HxGVz6Fo7kg) | 4:05 | 2022-04-22 | 2022-05-06 |
+| [Goodbye My Love](https://open.spotify.com/track/42WeyWlyK5Ogj0kqb62OxA) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [ANSWERS](https://open.spotify.com/album/1j7hTvvLPYdVmAFg31l0az) | 3:42 | 2025-06-06 |  |
 | [Gumbamane \(Remix\)](https://open.spotify.com/track/5oYmCiBPniSr92PEBlm3it) | [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Isicathamiya for a New Millennium](https://open.spotify.com/album/3aQyjwYXLzhZGbXdjSzgLI) | 3:11 | 2023-08-31 | 2023-09-02 |
 | [Hamba Nathi](https://open.spotify.com/track/3vanIz6AFdZLd9Z6kX4IWm) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Hamba Nathi](https://open.spotify.com/album/5yOUz0ioOyI8mC7CyFAZVx) | 5:32 | 2023-04-27 | 2023-05-12 |
 | [Hamba Naye](https://open.spotify.com/track/6hKfk07KnmzaShGS33ITy6) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sukulila](https://open.spotify.com/album/3xbC7NEhRzkRVuGZK4P1aM) | 3:54 | 2023-08-31 | 2024-03-16 |
@@ -548,6 +549,7 @@
 | [Soze Ndixole](https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Soze Ndixole](https://open.spotify.com/album/1aKY1cEE7H73nw7U1RPs6h) | 4:22 | 2023-08-31 | 2024-04-05 |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2022-03-31 | 2022-10-14 |
 | [Sphila](https://open.spotify.com/track/0eRjEAAgM2ERSlIo98hviS) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Sphila](https://open.spotify.com/album/4b96sbHZRnkTRdUvlbiQga) | 5:49 | 2022-10-13 | 2022-11-08 |
+| [Stand By Me \(feat\. John Lundun\)](https://open.spotify.com/track/0UjHRYxSKwNrgdOMtK7niI) | [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK), [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk) | [MUSIKI](https://open.spotify.com/album/2d0qSB2376zFHbtzIca6aS) | 3:16 | 2025-06-06 |  |
 | [Stay as You Are](https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts](https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy) | 3:22 | 2023-03-09 | 2023-03-18 |
 | [Stimela](https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd) | [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Nthabi Sings](https://open.spotify.com/artist/2JN2Yx7wsJaGHbtzoAE4k7) | [Stimela](https://open.spotify.com/album/6j3BUkIFmKkXGIZiyEpZ71) | 5:14 | 2023-01-13 | 2023-08-11 |
 | [Subaleka](https://open.spotify.com/track/7nb5iVaBLVlEXP9Q1sBUkA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Subaleka](https://open.spotify.com/album/4schUnB8YRMkXvEDAGlZHQ) | 3:03 | 2022-12-01 | 2022-12-16 |

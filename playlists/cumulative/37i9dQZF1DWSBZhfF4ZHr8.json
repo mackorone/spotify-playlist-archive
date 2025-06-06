@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Marine",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Ulysse",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
+    {
+      "album": {
+        "name": "Pas assez",
+        "url": "https://open.spotify.com/album/2DCQMP7XbkkqzaQO38wFtj"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164480,
+      "name": "100 carats",
+      "url": "https://open.spotify.com/track/4hAGPz2id9RX7uR3LivZDY"
+    },
     {
       "album": {
         "name": "100K \u00e0 l'heure",
@@ -222,6 +240,24 @@
       "duration_ms": 174230,
       "name": "Aucune chance",
       "url": "https://open.spotify.com/track/3BiO1EhyXVegBDiqO88VkH"
+    },
+    {
+      "album": {
+        "name": "Autrement",
+        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164578,
+      "name": "Autrement",
+      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
     },
     {
       "album": {
@@ -666,7 +702,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 172733,
       "name": "Comme je veux",
       "url": "https://open.spotify.com/track/213dBdW61DigIbZYE9Lj9u"
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 163200,
       "name": "Eternel amoureux",
       "url": "https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK"
@@ -1568,7 +1604,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 160013,
       "name": "Gu\u00e9rir de toi",
       "url": "https://open.spotify.com/track/4su1EpXjGFhgumhHnVzVrf"
@@ -1608,7 +1644,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173086,
       "name": "hais moi",
       "url": "https://open.spotify.com/track/6JXTyX1Elucrz7NZpZODIi"
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 189241,
       "name": "J'avoue",
       "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
@@ -2245,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "La Maritza",
+        "url": "https://open.spotify.com/album/3uJRyfJOG1keI0Ld4w78mB"
+      },
+      "artists": [
+        {
+          "name": "Laura Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "La Maritza",
+      "url": "https://open.spotify.com/track/7tfWYniAzrV1Y3D8KPSezd"
+    },
+    {
+      "album": {
         "name": "La Pieva (Chez moi)",
         "url": "https://open.spotify.com/album/6KpbzNOiNP1jQkkPWzfVHW"
       },
@@ -2328,7 +2382,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 184880,
       "name": "La Tornade",
       "url": "https://open.spotify.com/track/5RvYL4uV6f4KJRCmzwKsqH"
@@ -2606,7 +2660,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 191000,
       "name": "Les cit\u00e9s de l'amour",
       "url": "https://open.spotify.com/track/0QzjHbSKAG3OFYaQrk8kL6"
@@ -2628,6 +2682,24 @@
       "duration_ms": 179280,
       "name": "les filles, les meufs",
       "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
+    },
+    {
+      "album": {
+        "name": "Les fleurs de demain",
+        "url": "https://open.spotify.com/album/212EyeaJhjacKwLxD3asLQ"
+      },
+      "artists": [
+        {
+          "name": "Nola",
+          "url": "https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122550,
+      "name": "Les fleurs de demain",
+      "url": "https://open.spotify.com/track/2ijrZYVsc6wuqqwcKuolUF"
     },
     {
       "album": {
@@ -2929,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Mal d'amour",
+        "url": "https://open.spotify.com/album/1yK4WtukGZhKYWwpsgKRJ1"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Mal d'amour",
+      "url": "https://open.spotify.com/track/4hAOjBbSfV5foI1bYOLpmQ"
+    },
+    {
+      "album": {
         "name": "Mal lun\u00e9e",
         "url": "https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI"
       },
@@ -3048,7 +3138,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 180386,
       "name": "Meilleur",
       "url": "https://open.spotify.com/track/3nfrlD1WL02p0ggrcNmmEp"
@@ -3127,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Ycare",
+        "url": "https://open.spotify.com/album/6bWO1X7Juo4OwfyQIW6e9e"
+      },
+      "artists": [
+        {
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Mon pays c'est la vie",
+      "url": "https://open.spotify.com/track/7uq1fpq3JoPziguDXJvr8a"
+    },
+    {
+      "album": {
         "name": "Mon regard",
         "url": "https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL"
       },
@@ -3174,7 +3282,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 161982,
       "name": "Monstre",
       "url": "https://open.spotify.com/track/0JblwOSvvELRtCYQDRke9R"
@@ -3254,6 +3362,24 @@
       "duration_ms": 236986,
       "name": "Ne me dis plus jamais",
       "url": "https://open.spotify.com/track/6GPZUss1JVFJPOnfzJLDc8"
+    },
+    {
+      "album": {
+        "name": "Noir ou blanc",
+        "url": "https://open.spotify.com/album/5GsoO0MhTeehQrqcNcs7Rz"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "Noir ou blanc",
+      "url": "https://open.spotify.com/track/66FEOnWVH3mbDg4yDULzii"
     },
     {
       "album": {
@@ -3731,6 +3857,42 @@
     },
     {
       "album": {
+        "name": "MINUIT UNE",
+        "url": "https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167653,
+      "name": "Pourquoi tu restes",
+      "url": "https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M"
+    },
+    {
+      "album": {
+        "name": "PAULISE + PUZZLE",
+        "url": "https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155747,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E"
+    },
+    {
+      "album": {
         "name": "Que reste-t-il ?",
         "url": "https://open.spotify.com/album/5sSJ7zRawxZDwekt3AqAEC"
       },
@@ -4095,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Si demain",
+        "url": "https://open.spotify.com/album/1DBdTtN8hwO0HGrUAU1X85"
+      },
+      "artists": [
+        {
+          "name": "Hugo Nogam",
+          "url": "https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe"
+        },
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/4pOVNTzFsbwvGDMmXUSC6C"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137790,
+      "name": "Si demain",
+      "url": "https://open.spotify.com/track/46qwIhwXsPtMoZ3XI3Y64e"
+    },
+    {
+      "album": {
         "name": "Si j'pouvais",
         "url": "https://open.spotify.com/album/2Fw1bNmKVq208kNjKnZfwR"
       },
@@ -4128,6 +4312,24 @@
       "duration_ms": 177000,
       "name": "Si seulement...",
       "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
+    },
+    {
+      "album": {
+        "name": "Sicile",
+        "url": "https://open.spotify.com/album/0cwuZthC2IBx4d2aiSy6PS"
+      },
+      "artists": [
+        {
+          "name": "Boostee",
+          "url": "https://open.spotify.com/artist/2PNcNJDYJyoeJqUjgHz9Xa"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197348,
+      "name": "Sicile",
+      "url": "https://open.spotify.com/track/5dQJIdDIbdb92aNlqSgoxV"
     },
     {
       "album": {
@@ -4420,7 +4622,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 168648,
       "name": "Toucher la lune",
       "url": "https://open.spotify.com/track/3xms7bWYWPxiITm6lsl3xp"
@@ -4478,7 +4680,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 149866,
       "name": "Tourne Tourne",
       "url": "https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz"
@@ -4554,6 +4756,24 @@
       "duration_ms": 179533,
       "name": "Tout ira bien",
       "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
+    },
+    {
+      "album": {
+        "name": "Tout ira bien",
+        "url": "https://open.spotify.com/album/2OoMNa2tcyPQiFIwPU8aUR"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efa",
+          "url": "https://open.spotify.com/artist/5VkCrXUBHElxXQjJhM2k9t"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150902,
+      "name": "Tout ira bien",
+      "url": "https://open.spotify.com/track/5xArypyjzi74MPhFS2XkWn"
     },
     {
       "album": {
@@ -4774,7 +4994,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 131029,
       "name": "Un soir ou deux",
       "url": "https://open.spotify.com/track/4qh7Kg8OrlwtS7oBxNXLOU"

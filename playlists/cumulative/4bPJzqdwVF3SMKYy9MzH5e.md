@@ -4,7 +4,7 @@
 
 > 
 
-2,163 songs - 4 day 20 hr 13 min
+2,164 songs - 4 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2145,6 +2145,7 @@
 | [You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 2](https://open.spotify.com/album/1SHqiM8BmiWkZlZ3ozOi5q) | 2:21 | 2024-11-13 |  |
 | [You Know](https://open.spotify.com/track/6bCPvJryZvox9a7kyixAk3) | [Freddie Dredd](https://open.spotify.com/artist/0agn3gVIdjP4CickYCZlYa) | [You Know](https://open.spotify.com/album/1hhr3dyb1I7Atua7ZuyuuV) | 1:28 | 2021-12-30 |  |
 | [You Know How It Is](https://open.spotify.com/track/2rj5XqPLceqhzK65BMdpu6) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:14 | 2023-02-07 |  |
+| [You Know You Like It](https://open.spotify.com/track/57kR5SniQIbsbVoIjjOUDa) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [You Know You Like It](https://open.spotify.com/album/6mQGo1a9mXHNUSJYwXi9Wd) | 4:07 | 2025-06-06 |  |
 | [You Make Me High \(When You Go Down Low\)](https://open.spotify.com/track/1qnsn36DIvrNIZZpr0pW1O) | [Lolita Storm](https://open.spotify.com/artist/6YF9sFv4SPlpLL6808Gsny) | [Girls Fucking Shit Up](https://open.spotify.com/album/69wksuPldtwiKixYBHCsO0) | 1:24 | 2022-07-08 |  |
 | [You Might Think He Loves You for Your Money but I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat](https://open.spotify.com/track/5YnS9oWrGcwf1tgode1F7z) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 2:41 | 2022-08-08 |  |
 | [You Reposted in the Wrong Neighborhood I Glue70 Mashup](https://open.spotify.com/track/0hSzixwdKTfDQewDKq2cP5) | [Shokk](https://open.spotify.com/artist/4M8mza6R01rQKdEANjic9O) | [You Reposted in the Wrong Neighborhood I Glue70 Mashup](https://open.spotify.com/album/7oiWrXxLGqU6gUxcuEjdfs) | 3:16 | 2021-11-14 |  |

@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 184968,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 123287,
       "name": "BALMAIN",
       "url": "https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 186336,
       "name": "Bi Gece Gidebilirim",
       "url": "https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8"
@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 208493,
       "name": "Bir Dudaktan",
       "url": "https://open.spotify.com/track/12vJUYMaIzuozhvi3WJsXu"
@@ -8188,7 +8188,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 249226,
       "name": "Farzet",
       "url": "https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S"
@@ -11226,7 +11226,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 135555,
       "name": "HUQQA 2.0",
       "url": "https://open.spotify.com/track/0vqxWNvXvvU8QYOveYiUGZ"
@@ -20913,6 +20913,24 @@
     },
     {
       "album": {
+        "name": "Tesir Alt\u0131nda",
+        "url": "https://open.spotify.com/album/4eKKesFVOMxlkZEWEDxSbA"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220746,
+      "name": "Tesir Alt\u0131nda",
+      "url": "https://open.spotify.com/track/2CtLf9f4qAJC7ZVR0qBXWf"
+    },
+    {
+      "album": {
         "name": "The Face of Vision",
         "url": "https://open.spotify.com/album/3g0WjXnhgC5eldeXQyuJ9r"
       },
@@ -22244,7 +22262,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 265964,
       "name": "Yank\u0131",
       "url": "https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk"

@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18143,
+  "num_followers": 18147,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABTpfGnASwwYwQ4ijF0nrFE",
+  "snapshot_id": "aD+MgAAAAABUyPFzgw7TDEmGlWiksjWb",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Row The Body (feat. French Montana)",
-        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Row The Body (feat. French Montana)",
-      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 212613,
       "name": "Come On Girl",
       "url": "https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Row The Body (feat. French Montana)",
+        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Row The Body (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
     },
     {
       "added_at": null,

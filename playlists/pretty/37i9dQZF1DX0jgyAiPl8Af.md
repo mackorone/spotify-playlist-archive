@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,672 likes - 188 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,851 likes - 188 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 187 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 |
 | 188 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 |
 
-Snapshot ID: `AAAAAMja3aGYx7xWG1ZXBMSjauX2OZCt`
+Snapshot ID: `aEAf6gAAAACy3DiGwzfUJRD89rQOer1O`

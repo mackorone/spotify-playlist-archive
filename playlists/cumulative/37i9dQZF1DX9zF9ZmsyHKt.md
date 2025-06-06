@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-298 songs - 17 hr 33 min
+299 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Ciranda do Aborto](https://open.spotify.com/track/6nGek8pxb9begxdfTXYqBI) | [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Encarnado](https://open.spotify.com/album/1pRvKobyyF8tJcb4i9cKb8) | 5:40 | 2021-10-15 | 2022-07-20 |
 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 | 2021-10-15 | 2023-03-08 |
 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 | 2021-10-15 | 2024-10-23 |
+| [Com Ela \- Ao Vivo](https://open.spotify.com/track/5Y6U6voFXgqGXF9l35DHfG) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Com Ela \(Ao Vivo\)](https://open.spotify.com/album/2MQF0vQMUOEzBhO9pP6gVr) | 2:34 | 2025-06-06 |  |
 | [Coração](https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l) | [É o Que Temos](https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ) | 4:08 | 2021-10-15 | 2024-04-19 |
 | [Coração](https://open.spotify.com/track/3oIe9L4v2pHOnk5wUJECZG) | [Bárbara Eugênia](https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l), [Davi Bernardo](https://open.spotify.com/artist/3DjCP7P7D1eTcszAiM4gsb), [Regis Damasceno](https://open.spotify.com/artist/0NvcwI0dIDknvJZZmOo1Mp), [Astronauta Pinguim](https://open.spotify.com/artist/61QT3O3yrKyhEBJ95rLnkT) | [É o Que Temos](https://open.spotify.com/album/1TF9vUeHRuh4hwClprgc1X) | 4:08 | 2021-10-15 | 2022-07-29 |
 | [Corra, Tatiana](https://open.spotify.com/track/56nIbFmHcIeZYn12tO7MOa) | [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Tatiana](https://open.spotify.com/album/1HqrMsjQuXKVh6l3rayUyk) | 3:46 | 2021-10-15 | 2022-07-19 |

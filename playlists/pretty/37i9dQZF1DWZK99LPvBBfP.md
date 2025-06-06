@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,689 likes - 80 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,884 likes - 80 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 6 | [Hungry For The Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/6ZiPqZL5U2htruNEYflsYB) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Azari & III](https://open.spotify.com/album/7vd55snhAOrAXNsqxBqX1T) | 6:46 |
 | 7 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 | 8 | [The Bomb](https://open.spotify.com/track/0EXeA7iGfpfeV1ot1GrcyY) | [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Henry Street Music / The Story So Far 1993\-1999](https://open.spotify.com/album/2pQZRUp86BKwBEyW8PwPVF) | 3:24 |
-| 9 | [Pasilda \- Knee Deep Mix](https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:29 |
+| 9 | [The Weekend \- Radio Edit](https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Analog Is On](https://open.spotify.com/album/1v1bEFD6ZgEvAbrMJqK1Oz) | 3:12 |
 | 10 | [You're Not Alone](https://open.spotify.com/track/0L5oYrkC94ArMJDmjtvJWC) | [Olive](https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4) | [Extra Virgin](https://open.spotify.com/album/7KmNl25MQnnmcb6YfIT08V) | 4:31 |
-| 11 | [The Weekend \- Radio Edit](https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Analog Is On](https://open.spotify.com/album/1v1bEFD6ZgEvAbrMJqK1Oz) | 3:12 |
+| 11 | [Pasilda \- Knee Deep Mix](https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:29 |
 | 12 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
 | 13 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 |
 | 14 | [Saltwater](https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Maire Brennan](https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:22 |

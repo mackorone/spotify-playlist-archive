@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Bairrista de Luxo",
+        "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135804,
+      "name": "Bairrista de Luxo",
+      "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
+    },
+    {
+      "album": {
         "name": "Balan\u00e7o",
         "url": "https://open.spotify.com/album/3bIQw7jaTIG5t2K95sUJ62"
       },
@@ -1674,7 +1696,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
@@ -3296,7 +3318,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 190434,
       "name": "culpada",
       "url": "https://open.spotify.com/track/4GvM5yKmQJtKwW8TB2RXxp"
@@ -10173,6 +10195,40 @@
     },
     {
       "album": {
+        "name": "Pelo Norte #1",
+        "url": "https://open.spotify.com/album/2kiazV3Lnzg1HFsLraOoDK"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        },
+        {
+          "name": "QVXNO",
+          "url": "https://open.spotify.com/artist/7sQiNKC05009DdquIQkhYm"
+        },
+        {
+          "name": "Each1",
+          "url": "https://open.spotify.com/artist/01YPkmygf2LEgIf21Hfbz2"
+        },
+        {
+          "name": "GUIMA",
+          "url": "https://open.spotify.com/artist/5A50LakS866v93RBazdFER"
+        },
+        {
+          "name": "Vieitos",
+          "url": "https://open.spotify.com/artist/2eeNTMmeyaex9ZS9suuf9c"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268387,
+      "name": "Pelo Norte #1",
+      "url": "https://open.spotify.com/track/0V0CCAx9xtFo1RqI47mqql"
+    },
+    {
+      "album": {
         "name": "Perco-me em Ti 2",
         "url": "https://open.spotify.com/album/5fB4mO73AQoAP4dIw1RNJq"
       },
@@ -11362,7 +11418,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 144428,
       "name": "Rocky&Rihanna",
       "url": "https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln"
@@ -11634,7 +11690,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 219968,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"

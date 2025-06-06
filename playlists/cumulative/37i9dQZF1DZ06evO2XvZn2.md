@@ -4,7 +4,7 @@
 
 > This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 33 min
+46 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Quiero A Cristo](https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Avivamiento](https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM) | 5:59 | 2023-09-25 | 2024-12-18 |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2023-09-25 |  |
 | [Si Existe](https://open.spotify.com/track/2V1lhszC64pVFw79uB0RhL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Si Existe](https://open.spotify.com/album/4RAHRRXkzErtE6F2OGCTp9) | 4:33 | 2023-09-25 |  |
+| [Si Tuviera Que Elegir](https://open.spotify.com/track/2i9seTIiIfd2kmFztBKDnT) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Si Tuviera Que Elegir](https://open.spotify.com/album/5yHkUAMz02bkq7P2R6Ne59) | 4:20 | 2025-06-06 |  |
 | [Te Digo Adiós \(feat\. Fefi Oliveira\)](https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Fefi Oliveira](https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH) | [Te Digo Adiós \(feat\. Fefi Oliveira\)](https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI) | 3:11 | 2023-09-25 |  |
 | [Tú Cuentas Conmigo \(feat\. Carolina Mestrovic, Fefi Oliveira, Sebastián Silva & Santiago Achaga\)](https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4), [Fefi Oliveira](https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH), [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu), [Santiago Achaga](https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T) | [Tú Cuentas Conmigo \(feat\. Carolina Mestrovic, Fefi Oliveira, Sebastián Silva & Santiago Achaga\)](https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT) | 2:53 | 2023-09-25 |  |
 | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG) | 3:28 | 2023-09-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234394,
+  "num_followers": 234406,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACpWfo8GJWNPul+Aud+44/A",
+  "snapshot_id": "aD+MgAAAAAAfD5vxu3B81Wjf0Qmn3sez",
   "tracks": [
     {
       "added_at": null,
@@ -375,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "Rockea Bien Duro",
+        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
       },
       "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+      "duration_ms": 234973,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/1xnxZtx5pcXC6UpPZydZr3"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockea Bien Duro",
-        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
       "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 234973,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/1xnxZtx5pcXC6UpPZydZr3"
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Final Feliz",
-      "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar",
         "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 230440,
       "name": "Mundo De Caramelo",
       "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 167495,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola",
-        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Todo Fue Un Show",
-      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Tu Vuelas (Hadal Ahbek [Alok Remix])",
         "url": "https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 197550,
       "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Todo Fue Un Show",
+      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
     },
     {
       "added_at": null,

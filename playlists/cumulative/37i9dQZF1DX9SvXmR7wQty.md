@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GreenWoodz
 
-3,326 songs - 7 day 8 hr 6 min
+3,327 songs - 7 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2029,6 +2029,7 @@
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-06-16 | 2023-08-26 |
 | [Mon Canon](https://open.spotify.com/track/5SKHYFOQXcLfuh2z1mc2Ck) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Mon Canon](https://open.spotify.com/album/04H677dyIFAcFLyTogZnmo) | 2:46 | 2022-07-08 | 2022-07-30 |
 | [Mon Chaw](https://open.spotify.com/track/5TOn3TDdaQhx9MAFJsw2dx) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Mon Chaw](https://open.spotify.com/album/6LH15PDdq6yI8Mbfr2KlCl) | 2:29 | 2022-07-29 | 2022-08-27 |
+| [Mon cœur tu es fou](https://open.spotify.com/track/0rrmZkGTNVPUq7pOd5ICda) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Mon cœur tu es fou](https://open.spotify.com/album/5qU9InICLOovCb2CavVsuJ) | 3:23 | 2025-05-30 |  |
 | [mon désert](https://open.spotify.com/track/1x9husa0rrzag9oygoJMll) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [mon désert](https://open.spotify.com/album/6gAacuLJqPhQ7Ek0Gf5ghU) | 2:48 | 2022-04-22 | 2022-05-07 |
 | [Mon homme \- Petit Pied Remix \- Radio Edit](https://open.spotify.com/track/4AvDT7jjSGk3PkiA3snhKt) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts), [Petit Pied](https://open.spotify.com/artist/1S8FEpwG6hNRRglxDeMjza) | [Gaminette](https://open.spotify.com/album/0SM7e7lev1ZRLm5hOft8ct) | 3:05 | 2022-06-17 | 2022-07-02 |
 | [Mon jauné](https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Mon jauné](https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD) | 3:18 | 2023-08-25 | 2023-10-07 |
@@ -2205,7 +2206,7 @@
 | [On y va](https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [On y va](https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm) | 2:35 | 2024-04-26 | 2024-06-15 |
 | [One Night Thing](https://open.spotify.com/track/6EoPV2i2JNh3gK0dxxCaAc) | [Cshmr](https://open.spotify.com/artist/4ZNir8YWJxjx6xcZ2xOMak) | [SVINT, Volume 1](https://open.spotify.com/album/4u2MFO6rdp94e3OYVWEc1v) | 2:55 | 2021-12-31 | 2022-01-08 |
 | [One Thing](https://open.spotify.com/track/0Bs56JlclotElvFYTRWhIc) | [MTO Hutsu](https://open.spotify.com/artist/115caDn8rzO6GlMLH6KANa), [FlipTunesMusic](https://open.spotify.com/artist/1E4zec6yKQRB9yh28vKrwG) | [One Thing](https://open.spotify.com/album/6djrlFJHxIB0GJt9LEhi5n) | 3:25 | 2022-04-01 | 2022-04-16 |
-| [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 | 2025-04-11 |  |
+| [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 | 2025-04-11 | 2025-06-06 |
 | [Onirisme](https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Twani](https://open.spotify.com/artist/6Msx0U86zJHArfvDk6zO9Q), [Latitude 45](https://open.spotify.com/artist/6okG8kU8o6PpE3OFeWahxJ) | [Onirisme](https://open.spotify.com/album/3d32bUlwtdWbqjLIS7GuQf) | 3:03 | 2022-05-13 | 2022-05-28 |
 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 | 2023-11-24 | 2023-12-16 |
 | [Ophélie](https://open.spotify.com/track/6JXobHSIftFuXLENPR36KL) | [Olivier Bélisle](https://open.spotify.com/artist/79QE8luVEKueEZS4dgZ0gq) | [Rester en voyage](https://open.spotify.com/album/6yahz9eY7znTgFvcfkDz1o) | 3:39 | 2023-10-13 | 2023-10-21 |

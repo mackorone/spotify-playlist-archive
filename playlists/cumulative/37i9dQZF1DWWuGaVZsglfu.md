@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Imran Ajmain
+> The best tracks from the world of music\. Cover: lucidrari
 
-335 songs - 19 hr 2 min
+336 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-02-12 | 2025-04-03 |
 | [LUV](https://open.spotify.com/track/5sVKk7LjR1zDKCJOwI8ZZ1) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Sabronzo](https://open.spotify.com/artist/5ElOLspeFA5ReU292DKZLe) | [LUV](https://open.spotify.com/album/28jWC8z5ZkvBilHGPtoBeK) | 3:01 | 2024-12-11 | 2025-01-02 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-10 | 2024-10-17 |
+| [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-05-14 |  |
 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/6BAq3z4cxDc18TzodScekT) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 | 2024-10-02 | 2024-10-30 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 | 2025-01-23 |
@@ -338,7 +339,7 @@
 | [巴黎的夜晚走走](https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [巴黎的夜晚走走](https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w) | 2:52 | 2024-10-16 | 2024-10-30 |
 | [才二十三](https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [才二十三](https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh) | 3:44 | 2024-08-28 | 2024-09-12 |
 | [有天會再相見](https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [有天會再相見](https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1) | 4:35 | 2024-09-11 | 2024-10-17 |
-| [相信自己相信自己相信自己](https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [相信自己相信自己相信自己](https://open.spotify.com/album/4CIdGWnaU5tsdbptNCIUIV) | 4:20 | 2025-05-14 |  |
+| [相信自己相信自己相信自己](https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [相信自己相信自己相信自己](https://open.spotify.com/album/4CIdGWnaU5tsdbptNCIUIV) | 4:20 | 2025-05-14 | 2025-06-06 |
 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:49 | 2024-07-10 | 2024-08-29 |
 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 | 2024-10-16 | 2024-11-07 |
 | [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-01-01 | 2025-01-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Damso au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Nono La Grinta au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Cantona",
+        "url": "https://open.spotify.com/album/5x5dSJS2FjUMe2pFYPqK8f"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170711,
+      "name": "Cantona",
+      "url": "https://open.spotify.com/track/2JVPQ5VbURgorwJH0LPAeS"
+    },
+    {
+      "album": {
         "name": "Inarr\u00eatable",
         "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
       },
@@ -1900,6 +1918,24 @@
       "duration_ms": 186666,
       "name": "Elle veut",
       "url": "https://open.spotify.com/track/6YC6zgdJog4gw0y2IyfRmR"
+    },
+    {
+      "album": {
+        "name": "En vrai de vrai",
+        "url": "https://open.spotify.com/album/3cCY3cxdYsjtO8v2Sa1RPa"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218738,
+      "name": "En vrai de vrai",
+      "url": "https://open.spotify.com/track/0OkMUD6CfBPYG8sDle7PY9"
     },
     {
       "album": {
@@ -5828,7 +5864,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 128437,
       "name": "SENTIMENTS BILLETS DE 100",
       "url": "https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4"
@@ -6708,7 +6744,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 200548,
       "name": "Wow",
       "url": "https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ"

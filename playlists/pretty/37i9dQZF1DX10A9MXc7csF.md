@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,019 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,043 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 94 | [Otro Tinte](https://open.spotify.com/track/6qhWJ9zauJ6X67v3CVXxWm) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Otro Tinte](https://open.spotify.com/album/5eIzOsCi13ku8Vi5uYk5BA) | 3:15 |
 | 95 | [LAS LOCAS](https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [LAS LOCAS](https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk) | 3:12 |
 
-Snapshot ID: `aDktYgAAAAAn7dkhb4DpqAJ83bXPY18j`
+Snapshot ID: `aDktYgAAAAAVA8QWC3im2uFsxe/eJwtf`

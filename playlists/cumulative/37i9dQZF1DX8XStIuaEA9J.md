@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: INI
 
-1,029 songs - 2 day 10 hr 58 min
+1,031 songs - 2 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [backseat \(feat\. Kvi Baba & tofubeats\)](https://open.spotify.com/track/4nnTW8mY8BHrSs5VLJgEWR) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [backseat \(feat\. Kvi Baba & tofubeats\)](https://open.spotify.com/album/6KBcKt1oAEGPbw5Ez8PK9w) | 3:50 | 2024-11-12 | 2025-01-08 |
 | [Bad Blood](https://open.spotify.com/track/3Y36R1NE0x1jW34w0VcwJa) | [Ryubi Miyase](https://open.spotify.com/artist/1zS6Z0i0nNN7cZJoLqmyJk) | [Soleil](https://open.spotify.com/album/5IvRWjwHomEny5T2nAtfT7) | 3:46 | 2025-03-18 | 2025-04-09 |
 | [Bad boy](https://open.spotify.com/track/00E6fYvxymYPtimPt1m7wL) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [my space my time](https://open.spotify.com/album/4FEG8bXJBFT9z1W0SULuOb) | 3:05 | 2025-03-18 | 2025-04-09 |
+| [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-03 |  |
 | [BANDAGE](https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BANDAGE](https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz) | 3:08 | 2024-03-19 | 2024-05-29 |
 | [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 | 2023-11-23 | 2023-11-29 |
 | [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 | 2025-05-13 |  |
@@ -167,6 +168,7 @@
 | [fake face dance music \- night drive remix](https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [fake face dance music \(night drive remix\)](https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA) | 2:32 | 2024-01-16 | 2024-02-28 |
 | [fall](https://open.spotify.com/track/6bLxj0u5Q6HLl0HcaaZgMz) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM), [SOUTH BLUE](https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI) | [fall](https://open.spotify.com/album/6ouOVQ0G2friMVOPVR3WO2) | 3:24 | 2024-10-22 | 2025-01-22 |
 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 | 2024-08-13 | 2024-12-04 |
+| [Fashion Week \(feat\. Benjazzy\)](https://open.spotify.com/track/2fUkjrUUGCPTtReFLl8UBH) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Fashion Week \(feat\. Benjazzy\)](https://open.spotify.com/album/1JKEVMrJXgA5kfrWHRwGHB) | 2:45 | 2025-06-03 |  |
 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 | 2024-06-11 | 2024-07-10 |
 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-15 | 2024-01-10 |
 | [feelin'](https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 2:55 | 2024-10-08 | 2024-10-16 |

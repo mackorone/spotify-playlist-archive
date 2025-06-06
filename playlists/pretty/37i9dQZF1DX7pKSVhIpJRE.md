@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,478 likes - 152 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,502 likes - 152 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 50 | [Ya Weledi](https://open.spotify.com/track/6W8NbaxjBgSTfMrji2MvU2) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y) | [Halim](https://open.spotify.com/album/1nMkSh9Z7IoH0bymXoQbVq) | 7:08 |
 | 51 | [Hush](https://open.spotify.com/track/50xNyndwRclxdXURuJ5FeF) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Ultimate Dad](https://open.spotify.com/album/5dXgXvhAelOYDuPSsgb62N) | 2:56 |
 | 52 | [When You Tell Me That You Love Me](https://open.spotify.com/track/0i9mBkjBjP1x5TZ65ZWDID) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Crazy](https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u) | 3:59 |
-| 53 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/6W5H7ELG8CsfvslV2WnvZ5), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 |
+| 53 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 |
 | 54 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 |
 | 55 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
 | 56 | [New York, New York from on the Town \- 1995 Remaster](https://open.spotify.com/track/7tVKbsTkkJRMEkMQxfuUWU) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [Dennis Lotis](https://open.spotify.com/artist/1JwMttpqHyQYH74uRCJwEa), [Lionel Blair](https://open.spotify.com/artist/4kT8M76PscIyPoeopjxu83), [Shane Rimmer](https://open.spotify.com/artist/36zgLy1zXKjB1y97top4mC), [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Essential Bernstein](https://open.spotify.com/album/2kFGIufcevP17tzMqrbDij) | 3:03 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 151 | [Funeral Preparations](https://open.spotify.com/track/6YuNYDXgCLO85VPPekQH94) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 4:29 |
 | 152 | [Leave You to It \(Sleep Dearie Sleep\)](https://open.spotify.com/track/4FlMsldsHgNCxaYCgkjCtC) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 4:18 |
 
-Snapshot ID: `ZXygBQAAAADr9A8sX4Wn3sBCtcTMkymo`
+Snapshot ID: `ZXygBQAAAAC1u3uheayRmzQgF3QgvBeD`

@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: Mischa Ip
 
-503 songs - 1 day 6 hr 0 min
+505 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [sshhh…](https://open.spotify.com/track/1ntwBeaEUMmFzR6SJq3iup) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [DAUGHTER](https://open.spotify.com/album/4zOICyB23JoocOuCVcTlXr) | 4:07 | 2024-06-27 |  |
 | [SSS](https://open.spotify.com/track/2ktEpazJROn73HR7jAWY1q) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [SSS](https://open.spotify.com/album/5SsZzhz7bZEWEzGI3jNEpP) | 2:54 | 2024-10-31 |  |
 | [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 | 2024-09-19 |  |
+| [SWITCH](https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [SWITCH](https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu) | 2:49 | 2025-06-05 |  |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2024-06-27 |  |
 | [The Best Version Of Me](https://open.spotify.com/track/1T7SLpR1Kmn7hznMEX5OKX) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [The Best Version Of Me](https://open.spotify.com/album/3lxTx3bI3PLZm8EWNRnxEX) | 3:54 | 2025-04-10 |  |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2024-06-27 |  |
@@ -505,6 +506,7 @@
 | [靈魂有路](https://open.spotify.com/track/6YhyH78Zvda6ynofvJSJB5) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [靈魂有路](https://open.spotify.com/album/0yrJL34mQkRhq8AdSzyN6i) | 3:19 | 2024-06-27 |  |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2024-06-27 |  |
 | [面對後悔的各種方法](https://open.spotify.com/track/22H8nkDVSblurw8BcLHr4G) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [面對後悔的各種方法](https://open.spotify.com/album/2XKKzNAzzeBLNhgk9p1bLs) | 4:15 | 2024-06-27 |  |
+| [頹廢員工手冊](https://open.spotify.com/track/2yd1jNWz6rDrx8L9jx5sOh) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [頹廢員工手冊](https://open.spotify.com/album/0O4fV1mhLO27hPU7d5WgXR) | 3:45 | 2025-06-05 |  |
 | [風邪](https://open.spotify.com/track/78u0tNt6KQTZxFdRouyiMO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Rage in Peace](https://open.spotify.com/album/0O4LuYlUBi5TluPnj5Gtr7) | 3:08 | 2024-06-27 |  |
 | [驚魂曲](https://open.spotify.com/track/22CDC9USMhIpJYwZrfSsoT) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [驚魂曲](https://open.spotify.com/album/0MmTZTmVITLCGDmYjuvGl8) | 3:20 | 2024-06-27 |  |
 | [魔鬼在身邊](https://open.spotify.com/track/7Bw2aggmSvFv3kp9351afV) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [魔鬼在身邊](https://open.spotify.com/album/7znSODf2pGH9Z660wEPWKE) | 2:53 | 2024-06-27 |  |

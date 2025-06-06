@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-246 songs - 14 hr 2 min
+248 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Better Days \- Radio Edit](https://open.spotify.com/track/4l0QdmOrQhPxFcT78B2IsA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Days](https://open.spotify.com/album/7Hyky9PcYlzgdkDbJMPsHW) | 4:04 | 2025-06-04 |  |
 | [Big Jet Plane](https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 3:59 | 2024-04-18 | 2025-01-26 |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-12-22 | 2024-04-19 |
+| [Big Thoughts \- From the Garden](https://open.spotify.com/track/7jpZjv7It45On6oUc6Fqr0) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Big Thoughts \(From the Garden\)](https://open.spotify.com/album/6uc8vNvSxAgvT6IiQ7wAZW) | 2:57 | 2025-06-05 |  |
 | [Blind Spot](https://open.spotify.com/track/5UHIwUItXXFoSUSuPulnpP) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Blind Spot](https://open.spotify.com/album/3FBrrFX3ePFvenJ3VJD5kN) | 3:21 | 2022-12-22 | 2024-04-19 |
 | [blind spot](https://open.spotify.com/track/6rcunB73aRxovp9AiH5xv3) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [blind spot](https://open.spotify.com/album/3ZphzQmhpHU9LY4TrNcgbW) | 3:21 | 2024-04-18 | 2025-05-16 |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-24 |  |
@@ -149,13 +150,14 @@
 | [Miss Me Too](https://open.spotify.com/track/5gMOMjSZZzg11UQbXLbFfr) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Miss Me Too](https://open.spotify.com/album/1tbuOsExv6AsyN56JV0CTP) | 3:08 | 2024-04-18 | 2025-05-16 |
 | [Miss Me Too](https://open.spotify.com/track/7DH3iFf6FWVnAnIH0nV8px) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [The Other Side](https://open.spotify.com/album/1oS1s8SYBFyaop178vVYrx) | 3:08 | 2023-02-23 | 2024-04-19 |
 | [moonchild](https://open.spotify.com/track/7B02F2vNeU33Q04DbhlyAd) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:52 | 2022-12-22 | 2024-07-19 |
+| [Moonrise Kingdom // Dear Sam](https://open.spotify.com/track/7qFz1zbtrm0GJt4jlRVxVl) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Softer In Time](https://open.spotify.com/album/68ytBMIfqUSELSGjNtBCcj) | 6:15 | 2025-06-05 |  |
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2022-12-22 | 2025-02-28 |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-12-22 | 2023-03-18 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-12-22 | 2023-05-05 |
 | [No Known Known](https://open.spotify.com/track/74miorVetcJTW2t1tXoWRY) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [No Known Known](https://open.spotify.com/album/5XQJnagOosrr8mOfctlfKP) | 2:38 | 2025-03-12 |  |
 | [No Time to Look at You](https://open.spotify.com/track/2y7BiJKbpLp1ooF5dZ25eZ) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Sunday Competition](https://open.spotify.com/album/05eSwrzxGxXVGgs7MW6YyQ) | 3:13 | 2022-12-22 | 2024-02-09 |
 | [Nothing Forgotten](https://open.spotify.com/track/0AF0YrKxK7WDyN4tR2uJ3p) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Nothing Forgotten](https://open.spotify.com/album/5feBqDBr4AqfJVempNrKug) | 2:23 | 2025-01-25 |  |
-| [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs) | 2:56 | 2024-10-03 |  |
+| [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs) | 2:56 | 2024-10-03 | 2025-06-06 |
 | [Old Fashioned Parade](https://open.spotify.com/track/4GF989jpzXhdUbDW8yGEO4) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Old Fashioned Parade](https://open.spotify.com/album/2GnftziZGeLkdME4YYmzBR) | 3:18 | 2025-03-12 |  |
 | [One Day \- Piano Version](https://open.spotify.com/track/49rZnIxw8WcMy8NGv99M71) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day \(Piano Version\)](https://open.spotify.com/album/5Y16vhEmM5BLd7GDaMT4iV) | 4:02 | 2025-04-24 |  |
 | [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 | 2024-05-10 |
@@ -213,7 +215,7 @@
 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 | 2023-07-13 | 2024-04-19 |
 | [The Sweet Sound of You](https://open.spotify.com/track/1m0dj0cMQRDKEZ2d68SbDU) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/6067QAmHAnQrDAeZHWp3pc) | 4:57 | 2023-02-23 |  |
 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-02-23 | 2023-09-04 |
-| [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-12-22 |  |
+| [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-12-22 | 2025-06-06 |
 | [The Way I Love You Now](https://open.spotify.com/track/0f0LczCuY8x9JNzCmvRmZr) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F) | [The Way I Love You Now](https://open.spotify.com/album/1hx0sIMyERM2fq2zX3m1gn) | 2:53 | 2024-03-14 |  |
 | [The Way You Take Time \- acoustic](https://open.spotify.com/track/18fvrCWvxLrNLyU8cPK2or) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(acoustic\)](https://open.spotify.com/album/03ebKoGM3m5XuumbpZA7mR) | 3:15 | 2024-04-18 | 2024-08-02 |
 | [The Way You Take Time \- Acoustic](https://open.spotify.com/track/7c6XagC4ZxfiK3p9I2nD1i) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(Acoustic\)](https://open.spotify.com/album/37r6ntMm6ejXyke5VPSfXP) | 3:15 | 2022-12-22 | 2024-04-19 |

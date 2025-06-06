@@ -5697,6 +5697,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0nKVNPf8IFPSId6o2H7Pvw"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Merchant",
+          "url": "https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200045,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2EnHh32MjXPJG2neFnSIZr"
+    },
+    {
+      "album": {
         "name": "tell me it ain't",
         "url": "https://open.spotify.com/album/6iqEAgS9F4FP4aUVhWzhY1"
       },

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PERSES
 
-704 songs - 1 day 17 hr 34 min
+705 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [น้อย น้อย หน่อย \(Say Less\)](https://open.spotify.com/track/1eXXMr53N6awg5v5MYq9Xk) | [EMPRESS](https://open.spotify.com/artist/7f57J64jShBdEI6EB1dmRu) | [น้อย น้อย หน่อย \(Say Less\)](https://open.spotify.com/album/33UiAgKAlDgNoPpw0HXG4Y) | 2:47 | 2025-02-20 | 2025-02-28 |
 | [น้อยใจ \(hurt\)](https://open.spotify.com/track/4SUjsrUM5F05F85ZdAZn2v) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [น้อยใจ \(hurt\)](https://open.spotify.com/album/7w6pH6dWy5zIBNQBvvJ0Wm) | 3:52 | 2023-10-12 | 2023-12-08 |
 | [บรรเทา \- PLASTER](https://open.spotify.com/track/5khymyREguDo1CVkvmkNbF) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [บรรเทา \(PLASTER\)](https://open.spotify.com/album/3YvA19eCW4iFHuQhpMEMkt) | 3:43 | 2022-07-23 | 2022-07-29 |
-| [บอกเธอว่าชอบดาว \(Starry Diary\)](https://open.spotify.com/track/2wPCd7FoBaJ0c71RKkRILX) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [บอกเธอว่าชอบดาว \(Starry Diary\)](https://open.spotify.com/album/3pjQCR9Roe4OdVnZjVv1gN) | 3:45 | 2025-05-22 |  |
+| [บอกเธอว่าชอบดาว \(Starry Diary\)](https://open.spotify.com/track/2wPCd7FoBaJ0c71RKkRILX) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [บอกเธอว่าชอบดาว \(Starry Diary\)](https://open.spotify.com/album/3pjQCR9Roe4OdVnZjVv1gN) | 3:45 | 2025-05-22 | 2025-06-06 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm) | 3:36 | 2022-07-28 | 2022-09-30 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/1EMY6N5Ciaa5xHQPsyIJ8P) | 3:36 | 2022-05-26 | 2022-07-29 |
 | [บอยพาโบ้](https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [BABB BUM BUM](https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC) | 3:42 | 2023-04-12 | 2023-05-26 |
@@ -408,6 +408,7 @@
 | [ภาพสุดท้าย \(Last Twilight\) \(เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม\)](https://open.spotify.com/track/0iEM5JhgonD41m8O25ytHG) | [William Jakrapatr](https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ) | [ภาพสุดท้าย \(Last Twilight\) \- Single](https://open.spotify.com/album/501pP4tAHppZ3Dnn6vFqFi) | 3:45 | 2024-01-17 | 2024-06-17 |
 | [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6) | 4:55 | 2024-08-08 | 2024-08-23 |
 | [มองจากดาวอังคารก็รู้](https://open.spotify.com/track/6Sw06fUvccaRgiButscHjY) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [มองจากดาวอังคารก็รู้](https://open.spotify.com/album/1XCt0fRiLyzYaTcGlLPWX1) | 3:36 | 2022-07-28 | 2022-08-06 |
+| [มอบตัว \(MY BAD\)](https://open.spotify.com/track/3oeT53La3Qz8PNNBI2pxLr) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มอบตัว \(MY BAD\)](https://open.spotify.com/album/0gyq5wSWptdkroiN2uIJcu) | 3:40 | 2025-06-05 |  |
 | [มังคุด \(Mangosteen\)](https://open.spotify.com/track/1dLGInITu3AqnKbGIA4pIc) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [มังคุด \(Mangosteen\)](https://open.spotify.com/album/0dyAGziFzoW1m2OGwXSuID) | 3:27 | 2023-09-19 | 2023-10-06 |
 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 | 2023-02-28 | 2023-04-07 |
 | [มาเอาไร \- A Rebound](https://open.spotify.com/track/0E1TRAWupIIwrC3vZDkHFd) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [มาเอาไร \(A Rebound\)](https://open.spotify.com/album/4bYkrPsvvRsRhYcaSl3TA7) | 3:03 | 2022-06-09 | 2022-06-17 |

@@ -4,14 +4,14 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 李玟 \(Coco Lee\)
 
-270 songs - 19 hr 38 min
+271 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AM PM](https://open.spotify.com/track/0jIJJ92zUAQiezZZ8onsWv) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:22 | 2024-01-22 | 2024-02-20 |
 | [Coat](https://open.spotify.com/track/7JIL4XTrY6HVdOGmI6lftL) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Man](https://open.spotify.com/album/53O4JL4p9EI9dW5WzeN8U0) | 4:20 | 2024-04-01 | 2024-04-19 |
 | [Future](https://open.spotify.com/track/6GRq1lecs1l9cpncD2Tn3J) | [JS](https://open.spotify.com/artist/1TOyuUHtQJLEmkDQTJL42I) | [Future](https://open.spotify.com/album/2WDRt81cWsWofU4kaMXXhW) | 4:39 | 2024-02-05 | 2024-03-05 |
-| [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 | 2025-02-17 |  |
+| [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 | 2025-02-17 | 2025-06-06 |
 | [If I were be the memory](https://open.spotify.com/track/4qc6i92V1gkMe8r1zqinw4) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [The Third Round](https://open.spotify.com/album/7oULSpCj0dlvkGZAAL8luR) | 4:51 | 2024-01-15 | 2024-04-19 |
 | [Leaves \- The Rose Version](https://open.spotify.com/track/0jj9lRB4rVPOQAlaZsbmc9) | [A\-Sun](https://open.spotify.com/artist/1HUW0M5URzPg6PrNZSzHXq) | [Love Hurts](https://open.spotify.com/album/5KRuvxiLwIAkwZY0k904oo) | 4:52 | 2024-03-04 | 2024-04-02 |
 | [Loneliness](https://open.spotify.com/track/1B9DmM3DCUncDIt57lam1i) | [Z\-Chen](https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw) | [3:00 AM](https://open.spotify.com/album/7xMnXYqwt3PbD1xR7mkv9G) | 3:36 | 2024-01-15 | 2024-03-19 |
@@ -233,6 +233,7 @@
 | [終於說出口](https://open.spotify.com/track/1otTVkd8lKmRuj8qfMSxdT) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [小宇同學就是我](https://open.spotify.com/album/1quxTK2HzwVtSnXiHYps7l) | 4:06 | 2024-01-22 | 2025-02-17 |
 | [給我你的愛](https://open.spotify.com/track/1mJVfsnUcrcNHlEgbUu3i3) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [Fighting!生存之道](https://open.spotify.com/album/4IOL0XtsH9wOFM2LPCiujv) | 4:45 | 2024-06-09 | 2025-02-17 |
 | [美麗的誤會](https://open.spotify.com/track/6d9O3cEk5YBOoNJhG3Johv) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [美麗的誤會](https://open.spotify.com/album/7q3rIqk4kR18IakMDfnH9v) | 4:21 | 2024-07-08 | 2025-01-06 |
+| [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 | 2025-05-26 |  |
 | [背對背擁抱](https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [JJ林俊傑100天](https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9) | 3:54 | 2024-01-15 | 2024-03-19 |
 | [自我催眠](https://open.spotify.com/track/4VWd4bTKrV3k49fOtckHX0) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [催眠Show](https://open.spotify.com/album/2jeimZNURGKNM8sbuMTLEo) | 4:24 | 2024-08-05 | 2024-09-02 |
 | [至少還有你](https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [林憶蓮](https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j) | 4:34 | 2024-08-05 |  |

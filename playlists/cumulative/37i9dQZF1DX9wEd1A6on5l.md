@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-685 songs - 1 day 8 hr 31 min
+686 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [GIN & JUICE](https://open.spotify.com/track/2ep6Y3iyiI8wcoNWdt6vSf) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX002: X & The Machine.](https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO) | 3:21 | 2023-07-28 | 2023-08-11 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2023-09-28 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-09-28 |
+| [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 | 2025-05-30 |  |
 | [Go Hard](https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Disconnect + Go Hard](https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu) | 2:33 | 2023-11-28 | 2024-06-15 |
 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 | 2024-03-15 | 2024-04-12 |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-03 |
@@ -540,7 +541,7 @@
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-15 | 2024-11-22 |
 | [Queen N More](https://open.spotify.com/track/4opORvHYNtCXxF6c5yOpMC) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Batife](https://open.spotify.com/artist/0vZXn2hA5WFpwe2q88qv5B) | [Queen N More](https://open.spotify.com/album/6X4MlkA3aJRLhZj70GCpvc) | 2:23 | 2024-09-30 | 2025-04-01 |
 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 | 2022-06-09 | 2022-10-12 |
-| [Ramadan](https://open.spotify.com/track/7dYsCK5dKt2EbNBZhW2p4U) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Ramadan](https://open.spotify.com/album/0G4TiXRosl76yVymeYrBb7) | 2:10 | 2025-03-21 |  |
+| [Ramadan](https://open.spotify.com/track/7dYsCK5dKt2EbNBZhW2p4U) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Ramadan](https://open.spotify.com/album/0G4TiXRosl76yVymeYrBb7) | 2:10 | 2025-03-21 | 2025-06-06 |
 | [RAMADAN KAREEM \(with Tolibian & Boj\)](https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:08 | 2025-04-11 |  |
 | [Ready](https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Ready](https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb) | 2:48 | 2024-09-27 | 2024-10-19 |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-16 | 2024-06-28 |

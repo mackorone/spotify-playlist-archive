@@ -2,7 +2,7 @@
 
 ### [Spotify House at CMA Fest 2025](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> Spotify House at Ole Red on Broadway is BACK for 2025! We've curated three incredible days of live music \- see you June 5\-7 in Nashville!
+> Spotify House at Ole Red on Broadway kicks off TODAY! Let's turn up the night like that radio dial..\. ✖️✖️
 
 425 songs - 23 hr 7 min
 

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Safarel Obiang
+> African dance party music from the continent to Paris\. Photo : Dydy Yeman
 
-238 songs - 13 hr 15 min
+240 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [LA VOIX AUTORISÉE](https://open.spotify.com/track/64JJMek8ikqXOSyUPFxigT) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [LA VOIX AUTORISÉE](https://open.spotify.com/album/6qufDDfosaF5gaQLRkmL4T) | 4:21 | 2022-04-14 | 2023-02-03 |
 | [La vérité](https://open.spotify.com/track/5e89B7HTL78eGqD52uThwT) | [2Boyz](https://open.spotify.com/artist/0NdS4SVwgaxj7O4dtUxwos), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [La vérité](https://open.spotify.com/album/7FdXFRSZjwcqzLOuTKpgdC) | 3:33 | 2021-12-20 | 2022-06-03 |
 | [Le Beau des beaux](https://open.spotify.com/track/2T5E3D3TLTJS50VNNqkZJf) | [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Le Beau des beaux](https://open.spotify.com/album/4e9R1lhWaPLrNxAdGHrd70) | 4:07 | 2022-09-29 | 2023-03-18 |
+| [Le bébé](https://open.spotify.com/track/7DV6kgFP7lTRKlMiJYYBMH) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [Jolina Verdugo](https://open.spotify.com/artist/0VaZEkIPsTGaoKT0amxjPD) | [Le bébé](https://open.spotify.com/album/0RxlnxDevHhd0IEr6Infvc) | 3:06 | 2025-06-05 |  |
 | [Le carburant](https://open.spotify.com/track/5OHsWkJ1JadGSYcbdrlSdJ) | [Prince Kiala](https://open.spotify.com/artist/0uDRYM5vquP9o3WTQbCUuy) | [Le carburant](https://open.spotify.com/album/5Ot6IDnXrjBM3L9K20y40r) | 4:33 | 2021-12-20 | 2022-09-02 |
 | [Le goût de](https://open.spotify.com/track/3wCuWuUMQXkoDDaFBEQJns) | [Rémy Adan](https://open.spotify.com/artist/4C4OK8Lx2rf53IUo1FUUBo) | [Le goût de](https://open.spotify.com/album/5kr2CVexmWa7A4ygOsDFxD) | 4:05 | 2021-12-20 | 2023-01-13 |
 | [Le nyama](https://open.spotify.com/track/621TMPiRb7R5dg9p2ECBW8) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [Le nyama](https://open.spotify.com/album/2BAoP5i5aAg4qJAGOjH9ij) | 3:45 | 2021-12-20 | 2023-01-06 |
@@ -195,7 +196,7 @@
 | [Piment](https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz) | [GRINTA](https://open.spotify.com/album/1vEPXP3H5oAg8OOYdKF3pX) | 2:44 | 2022-12-15 | 2023-01-27 |
 | [PÉTÉ](https://open.spotify.com/track/35tlKcLBwsBVmbqVNdZdWK) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [PÉTÉ](https://open.spotify.com/album/7y9YoqewF5oqFjJVs1WgDp) | 2:50 | 2025-01-23 |  |
 | [Quand J'aurai l'argent \(Plenty Money\) \(feat\. Innoss'B\)](https://open.spotify.com/track/47YAov7C5zQXX5bz2hcoEz) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Quand J'aurai l'argent \(Plenty Money\) \[feat\. Innoss'B\]](https://open.spotify.com/album/4VwgIWmgmlJesg9mmkXlua) | 3:21 | 2022-06-16 | 2022-12-02 |
-| [R1moudo](https://open.spotify.com/track/0PG8mysSqaC4TnPQxiWFWf) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [R1moudo](https://open.spotify.com/album/70pNUEGEYzRxlsUJgI9rHi) | 2:44 | 2025-01-16 |  |
+| [R1moudo](https://open.spotify.com/track/0PG8mysSqaC4TnPQxiWFWf) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [R1moudo](https://open.spotify.com/album/70pNUEGEYzRxlsUJgI9rHi) | 2:44 | 2025-01-16 | 2025-06-06 |
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 | 2022-06-24 |
 | [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 | 2022-09-08 | 2025-01-03 |
 | [Remontada](https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Remontada](https://open.spotify.com/album/2dkHnxc412xEQUnO39UxZZ) | 2:04 | 2024-08-22 | 2024-11-15 |
@@ -223,6 +224,7 @@
 | [TCHÔKÔRÔBA](https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [TCHÔKÔRÔBA](https://open.spotify.com/album/1NUTQf3AsMDfcCdshXx2gL) | 3:06 | 2023-02-02 | 2023-07-07 |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-28 | 2023-11-24 |
 | [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 | 2023-02-24 |
+| [TIKORO](https://open.spotify.com/track/1XzGtdnKNOj3Dk65kcKIi4) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [TIKORO](https://open.spotify.com/album/3xwcY24x35uTZbI62q6ZuR) | 1:38 | 2025-06-05 |  |
 | [Toffolè \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffolè \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 | 2023-06-16 |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 | 2022-12-09 |
 | [TOUJOURS GNAN \- Remix](https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0) | [Nyerky](https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC), [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [TOUJOURS GNAN \(Remix\)](https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS) | 2:50 | 2025-04-17 |  |
@@ -233,7 +235,7 @@
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [WA WA DÉ DÉ](https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [WA WA DÉ DÉ](https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e) | 2:44 | 2024-06-06 | 2025-03-07 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |
-| [Were were](https://open.spotify.com/track/0zi1ggaicBG51ITJNqghh3) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Were were](https://open.spotify.com/album/71JZhJWNnLOzVQq4iGvhjF) | 2:44 | 2024-02-01 |  |
+| [Were were](https://open.spotify.com/track/0zi1ggaicBG51ITJNqghh3) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Were were](https://open.spotify.com/album/71JZhJWNnLOzVQq4iGvhjF) | 2:44 | 2024-02-01 | 2025-06-06 |
 | [Winhou](https://open.spotify.com/track/0eSWaBiMsXeu6NIodT22AU) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Winhou](https://open.spotify.com/album/3atrSkpZpQT9fcFfYE3Ukg) | 3:08 | 2023-04-06 | 2023-06-23 |
 | [X plus](https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Zagba Le Rekin](https://open.spotify.com/artist/5q0DkEt2KBiQhoEjBVFhwm) | [X plus](https://open.spotify.com/album/40eJ0j3pOoezKyyGK6ZBvV) | 1:25 | 2023-06-15 | 2023-10-20 |
 | [Yiri](https://open.spotify.com/track/4I3c9wYQoNJtihFna5yZes) | [Sly De Sly](https://open.spotify.com/artist/55hvy7lq6Kh8n67VmTXGKe) | [Yiri](https://open.spotify.com/album/6cgZiXODV7Mzj6URW2khZq) | 3:35 | 2023-04-06 | 2023-05-19 |

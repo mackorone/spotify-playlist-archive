@@ -1,6 +1,6 @@
 {
   "description": "Heat that will make you sweat \ud83e\udd75 Cover: Myke Towers & Quevedo",
-  "num_followers": 136222,
+  "num_followers": 136235,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
         "name": "Me Pasa (Piscis)",
         "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 201529,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
-        "name": "SAN BLAS",
-        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "san blaS",
-      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
-        "name": "PEPESOUP",
-        "url": "https://open.spotify.com/album/3Ou140lgFXmZ5MRAEMedgB"
-      },
-      "artists": [
-        {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
-        },
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 187722,
-      "name": "PEPESOUP",
-      "url": "https://open.spotify.com/track/40XkTQH8oa1w1oN3Fd2FFG"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
         "name": "A POCA LUZ",
         "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 194181,
       "name": "A POCA LUZ",
       "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
+        "name": "PEPESOUP",
+        "url": "https://open.spotify.com/album/3Ou140lgFXmZ5MRAEMedgB"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        },
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 187722,
+      "name": "PEPESOUP",
+      "url": "https://open.spotify.com/track/40XkTQH8oa1w1oN3Fd2FFG"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
-        "name": "Chalala",
-        "url": "https://open.spotify.com/album/3Cqpeb59ZINiYhL9lhyroH"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Chalala",
-      "url": "https://open.spotify.com/track/4K918dPB4zViUAr9gHqTab"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
         "name": "Todita",
         "url": "https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 140585,
       "name": "Todita",
       "url": "https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
+        "name": "Chalala",
+        "url": "https://open.spotify.com/album/3Cqpeb59ZINiYhL9lhyroH"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Chalala",
+      "url": "https://open.spotify.com/track/4K918dPB4zViUAr9gHqTab"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 215284,
+      "name": "T'as peur",
+      "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
         "name": "Coraz\u00f3n Puro",
         "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 226285,
       "name": "Coraz\u00f3n Puro",
       "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 215284,
-      "name": "T'as peur",
-      "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1255,6 +1255,30 @@
       "duration_ms": 149052,
       "name": "Sigo Pensando En Ti",
       "url": "https://open.spotify.com/track/79mv2n8KDrR9T7xKGk1Swq"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1303,30 +1327,6 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
-        "name": "Afro Vibes",
-        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 137821,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
+        "name": "Other Night",
+        "url": "https://open.spotify.com/album/6qXXiBqcMVmLWFSciN0NiK"
+      },
+      "artists": [
+        {
+          "name": "Pumba Dos Santos",
+          "url": "https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Other Night",
+      "url": "https://open.spotify.com/track/5wzw7GUSc9pcyJQhV3IGlL"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1379,6 +1399,26 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mi Luz (ft. Rels B)",
+      "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
         "name": "Uueeeee",
         "url": "https://open.spotify.com/album/144ipzW4clREg2EDAzrPHm"
       },
@@ -1403,26 +1443,6 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
-        "name": "NASTU",
-        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mi Luz (ft. Rels B)",
-      "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
         "name": "Da\u00f1os Permanentes",
         "url": "https://open.spotify.com/album/1yUDWhB2YYf3AU9w88B9rj"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 166119,
       "name": "Da\u00f1os Permanentes",
       "url": "https://open.spotify.com/track/38ArKAQLqqbyirKdwnA4DV"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
-        "name": "Other Night",
-        "url": "https://open.spotify.com/album/6qXXiBqcMVmLWFSciN0NiK"
-      },
-      "artists": [
-        {
-          "name": "Pumba Dos Santos",
-          "url": "https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Other Night",
-      "url": "https://open.spotify.com/track/5wzw7GUSc9pcyJQhV3IGlL"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
+        "name": "No Te Soltar\u00e9",
+        "url": "https://open.spotify.com/album/5VBD9gdyGCL81c1mkww9p6"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "duration_ms": 157079,
+      "name": "No Te Soltar\u00e9",
+      "url": "https://open.spotify.com/track/2A0m04EDTwS2V5VXYGuX8t"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
         "name": "Bamb\u00fa",
         "url": "https://open.spotify.com/album/1ppBrlwkXLsHv6hLAVfsx0"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
-        "name": "No Te Soltar\u00e9",
-        "url": "https://open.spotify.com/album/5VBD9gdyGCL81c1mkww9p6"
+        "name": "Ese Habladito",
+        "url": "https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru"
       },
       "artists": [
         {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+          "name": "Nono",
+          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
         }
       ],
-      "duration_ms": 157079,
-      "name": "No Te Soltar\u00e9",
-      "url": "https://open.spotify.com/track/2A0m04EDTwS2V5VXYGuX8t"
+      "duration_ms": 192230,
+      "name": "Ese Habladito",
+      "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1623,22 +1639,6 @@
       "duration_ms": 164765,
       "name": "GOOD DAY (feat. Camidoh)",
       "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
-        "name": "Ese Habladito",
-        "url": "https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru"
-      },
-      "artists": [
-        {
-          "name": "Nono",
-          "url": "https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "Ese Habladito",
-      "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -1783,6 +1799,22 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
+        "name": "Si Mami Supiera",
+        "url": "https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Si Mami Supiera",
+      "url": "https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc"
+    },
+    {
+      "added_at": "2025-05-30 17:58:45",
+      "album": {
         "name": "DORAMA",
         "url": "https://open.spotify.com/album/1XCbZLu7X7zbsQuDGbOiIi"
       },
@@ -1803,34 +1835,22 @@
     {
       "added_at": "2025-05-30 17:58:45",
       "album": {
-        "name": "Si Mami Supiera",
-        "url": "https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/4j2N25PHTL3JEXVRROY82x"
       },
       "artists": [
         {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Si Mami Supiera",
-      "url": "https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
-      },
-      "artists": [
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        },
         {
-          "name": "Dejota2021",
-          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
         }
       ],
-      "duration_ms": 158545,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
+      "duration_ms": 165316,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/6V6aStL8beAAuJFCI423Li"
     },
     {
       "added_at": "2025-05-30 17:58:45",
@@ -1855,26 +1875,6 @@
       "duration_ms": 206400,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/4Qkq9NRnnWSiwfeWjQJXaW"
-    },
-    {
-      "added_at": "2025-05-30 17:58:45",
-      "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/4j2N25PHTL3JEXVRROY82x"
-      },
-      "artists": [
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        },
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        }
-      ],
-      "duration_ms": 165316,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/6V6aStL8beAAuJFCI423Li"
     },
     {
       "added_at": "2025-05-30 17:58:45",

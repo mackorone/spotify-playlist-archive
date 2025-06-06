@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 337500,
       "name": "A Cat",
       "url": "https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV"
@@ -4244,7 +4244,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 182000,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
@@ -5498,7 +5498,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 607400,
       "name": "PHANTOM BRICKWORKS VI",
       "url": "https://open.spotify.com/track/6sK7W3ud44yoIjkyu0SPO0"
@@ -7028,6 +7028,24 @@
       "duration_ms": 135903,
       "name": "summer (shade)",
       "url": "https://open.spotify.com/track/7BDHpvLArUvn4SJADth5AM"
+    },
+    {
+      "album": {
+        "name": "In Parallel",
+        "url": "https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271807,
+      "name": "Sun Tickles",
+      "url": "https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp"
     },
     {
       "album": {

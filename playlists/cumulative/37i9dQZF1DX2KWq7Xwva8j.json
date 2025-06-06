@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: LUSILLON.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: Barry B.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -660,6 +660,24 @@
       "duration_ms": 163125,
       "name": "chino cada martes",
       "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+    },
+    {
+      "album": {
+        "name": "Chocolate Axe",
+        "url": "https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167983,
+      "name": "Chocolate Axe",
+      "url": "https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf"
     },
     {
       "album": {

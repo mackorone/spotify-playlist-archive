@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 71442,
+  "num_followers": 71450,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADKC6bjNrPkUfgyLmFCZQIR",
+  "snapshot_id": "aD+MgAAAAAAIRz540qW+/kUs4ka+vXIi",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 166973,
       "name": "Tu Voz (with Lila Downs)",
       "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
     },
     {
       "added_at": null,
@@ -471,26 +471,6 @@
       "duration_ms": 190893,
       "name": "No Me Amenaces (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
-        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "Un Mundo Raro (feat. Diego El Cigala)",
-      "url": "https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
       "duration_ms": 284013,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
+        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Un Mundo Raro (feat. Diego El Cigala)",
+      "url": "https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "La Barca (with Lila Downs)",
-      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "La Barca (with Lila Downs)",
+      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     },
     {
       "added_at": null,
@@ -943,38 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Balas y Chocolate",
-      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1015,6 +983,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Balas y Chocolate",
+      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La S\u00e1nchez",
         "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
@@ -1051,22 +1051,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojo De Culebra",
-        "url": "https://open.spotify.com/album/6icPtr7Z4bPt8fpoEzkZzg"
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 218720,
-      "name": "Tierra De Luz",
-      "url": "https://open.spotify.com/track/7fLFPgZatKf8YZzM9tJ2WI"
+      "duration_ms": 217000,
+      "name": "Son de Difuntos",
+      "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     }
   ],
   "unique_name": "This Is Lila Downs",

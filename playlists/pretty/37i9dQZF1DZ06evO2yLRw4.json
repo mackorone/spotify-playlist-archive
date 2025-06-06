@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37413,
+  "num_followers": 37419,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAADIXkPA2TDbago6LrFAO77x",
+  "snapshot_id": "aD+MgAAAAAC7K7xk37lLwmVCw2nupYY9",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Here Come the Runts",
-      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "Here Come the Runts",
+      "url": "https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "Miracle Man",
-      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaking Me Out",
         "url": "https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 208230,
       "name": "Freaking Me Out",
       "url": "https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 203835,
+      "name": "Miracle Man",
+      "url": "https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu"
     }
   ],
   "unique_name": "This Is AWOLNATION",

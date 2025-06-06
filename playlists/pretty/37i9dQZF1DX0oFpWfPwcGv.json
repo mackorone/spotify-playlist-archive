@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 69239,
+  "num_followers": 69265,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Music Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Nights on Broadway",
+      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Music Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Nights on Broadway",
-      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "I'm Caught Up (In a One Night Love Affair)",
+        "url": "https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG"
+      },
+      "artists": [
+        {
+          "name": "Inner Life",
+          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
+        }
+      ],
+      "duration_ms": 446013,
+      "name": "I'm Caught up (In a One Night Love Affair) - 12\u201d Edit",
+      "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Deep Grooves",
         "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 313906,
       "name": "Love Is the Message (feat. The Three Degrees) - Love Groove Bonus",
       "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "I'm Caught Up (In a One Night Love Affair)",
-        "url": "https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG"
-      },
-      "artists": [
-        {
-          "name": "Inner Life",
-          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
-        }
-      ],
-      "duration_ms": 446013,
-      "name": "I'm Caught up (In a One Night Love Affair) - 12\u201d Edit",
-      "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+        "name": "Classic Soul",
+        "url": "https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q"
       },
       "artists": [
         {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv"
     }
   ],
   "unique_name": "Disco Decadence",

@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 209417,
+  "num_followers": 209472,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAD0dBmQYVlVWOYJSUuRHE/c",
+  "snapshot_id": "aD+MgAAAAACKhJeq/4DMofkRzvB1FcGa",
   "tracks": [
     {
       "added_at": null,
@@ -239,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+        "name": "En Tus Planes",
+        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
       },
       "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
     },
     {
       "added_at": null,
@@ -334,15 +334,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 181500,
-      "name": "EX EX EX",
-      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "added_at": null,
@@ -414,11 +410,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 183529,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+      "duration_ms": 181500,
+      "name": "EX EX EX",
+      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Likes y Cicatrices",
+        "url": "https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "La Electricidad",
+      "url": "https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like I Can (feat. Aitana)",
         "url": "https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf"
       },
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Likes y Cicatrices",
-        "url": "https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "La Electricidad",
-      "url": "https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando No S\u00e9 Qui\u00e9n Soy",
         "url": "https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Hermosa Casualidad",
+      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
     },
     {
       "added_at": null,
@@ -731,26 +751,6 @@
       "duration_ms": 210726,
       "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
       "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Hermosa Casualidad",
-      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
     },
     {
       "added_at": null,

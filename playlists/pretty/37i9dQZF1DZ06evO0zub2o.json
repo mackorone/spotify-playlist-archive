@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 307437,
+  "num_followers": 307499,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABDWnrMHtzYIt/JqEV7TK7N",
+  "snapshot_id": "aD+MgAAAAACg4RfMvhBmodSWOe2widxV",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Official Live: 101 Proof",
-        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Dom / Hollow - Live",
-      "url": "https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinventing the Steel (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 386755,
       "name": "Avoid the Light",
       "url": "https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official Live: 101 Proof",
+        "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Dom / Hollow - Live",
+      "url": "https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS"
     },
     {
       "added_at": null,

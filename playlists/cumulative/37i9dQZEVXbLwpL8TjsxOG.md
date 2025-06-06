@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,213 songs - 2 day 22 hr 52 min
+1,214 songs - 2 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-02 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-24 | 2024-12-29 |
 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-02-13 |  |
+| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-05 |  |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-11-05 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-13 | 2022-11-21 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-17 | 2023-07-23 |
@@ -731,7 +732,7 @@
 | [Too Sad to Dance](https://open.spotify.com/track/3bNNvJA7hsGw0wSpGkfOBm) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:55 | 2023-11-04 | 2023-11-10 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-31 | 2025-01-03 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-07-07 |
-| [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-07 | 2025-06-04 |
+| [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-07 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 | 2024-02-26 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-31 | 2021-06-13 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-29 | 2025-03-31 |
@@ -896,7 +897,7 @@
 | [去北極忘記你](https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [去北極忘記你](https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK) | 4:11 | 2024-06-28 | 2024-06-30 |
 | [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 | 2022-06-01 |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-06-01 | 2023-02-16 |
-| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 |  |
+| [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 | 2025-06-06 |
 | [另一個諾貝爾](https://open.spotify.com/track/56Aal9B8gurDIRmlw4y74a) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [另一個諾貝爾](https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR) | 4:14 | 2021-07-07 | 2021-08-24 |
 | [只收一半](https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:18 | 2021-09-01 | 2021-09-02 |
 | [只要你不尷尬](https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [只要你不尷尬](https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM) | 4:03 | 2023-10-04 | 2023-10-29 |
@@ -965,7 +966,7 @@
 | [愛不疚](https://open.spotify.com/track/44LLP8HiZBkfOzyC1PLXGo) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [Your Love](https://open.spotify.com/album/14jcpq6XSW4gV00NbxkXVv) | 3:50 | 2025-05-30 | 2025-06-01 |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-08-26 | 2022-12-25 |
 | [愛因斯坦羅森橋](https://open.spotify.com/track/0jAoid0myjkSA854F5GZGJ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 1:38 | 2021-12-05 | 2021-12-06 |
-| [愛在記憶中找你](https://open.spotify.com/track/5h6R8U3G3GLZc6nMsrxBV4) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [愛在記憶中找你](https://open.spotify.com/album/64OqLPNVzaZKlux7NAJA4K) | 4:14 | 2025-05-26 |  |
+| [愛在記憶中找你](https://open.spotify.com/track/5h6R8U3G3GLZc6nMsrxBV4) | [Raymond Lam](https://open.spotify.com/artist/4KCnzC71azFAYCKmD1bJOK) | [愛在記憶中找你](https://open.spotify.com/album/64OqLPNVzaZKlux7NAJA4K) | 4:14 | 2025-05-26 | 2025-06-06 |
 | [愛後餘生](https://open.spotify.com/track/6E8S4mc4FtNcF8Z8SUuBvs) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Most Wanted 霆鋒精選](https://open.spotify.com/album/4OX3BsQeHL79gLZJAy1Wtq) | 3:14 | 2025-04-25 | 2025-05-12 |
 | [愛情值日生](https://open.spotify.com/track/0ZXAnDoI4IDVab7Tg760Uh) | [Error](https://open.spotify.com/artist/6lhZDlPnfVWXxJUr9eVfEJ) | [愛情值日生](https://open.spotify.com/album/2OQ6GqUTwZSrwSlYEvPHoE) | 4:00 | 2022-02-19 | 2022-05-28 |
 | [愛情簽證申請](https://open.spotify.com/track/4eQKKfqMKSofIelC3fXyjn) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [Jhen F](https://open.spotify.com/artist/1M42F0mZ6VCSizzqPHUXDX) | [愛情簽證申請](https://open.spotify.com/album/0gtJNnbuuEuod6gOPYJlnS) | 3:12 | 2023-11-28 | 2023-12-24 |

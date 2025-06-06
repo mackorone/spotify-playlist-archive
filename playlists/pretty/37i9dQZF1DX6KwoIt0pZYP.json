@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 250863,
+  "num_followers": 250907,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 170508,
+      "name": "Zero Pressure",
+      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
-        "name": "BINIverse",
-        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 170508,
-      "name": "Zero Pressure",
-      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 212790,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Run Back To You",
-        "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
-      },
-      "artists": [
-        {
-          "name": "LAY",
-          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Run Back To You",
-      "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "Run Back To You",
+        "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Run Back To You",
+      "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Fuzzy Feeling",
-        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "Fuzzy Feeling",
-      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
       },
@@ -1131,18 +1111,22 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "buttons",
-        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
+        "name": "Fuzzy Feeling",
+        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 127342,
-      "name": "buttons",
-      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
+      "duration_ms": 176208,
+      "name": "Fuzzy Feeling",
+      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1159,6 +1143,22 @@
       "duration_ms": 261673,
       "name": "keepyousafe",
       "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "buttons",
+        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 127342,
+      "name": "buttons",
+      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Diving",
-        "url": "https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
         }
       ],
-      "duration_ms": 208767,
-      "name": "Diving",
-      "url": "https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem"
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1215,34 +1215,34 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
       },
       "artists": [
         {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
+        "name": "Diving",
+        "url": "https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr"
       },
       "artists": [
         {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
+      "duration_ms": 208767,
+      "name": "Diving",
+      "url": "https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
+      "duration_ms": 172500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 241947,
-      "name": "P.S. I LOVE YOU (feat. Yuna)",
-      "url": "https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "Just Say The Words",
         "url": "https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV"
       },
@@ -1435,6 +1415,22 @@
       "duration_ms": 190594,
       "name": "Just Say The Words",
       "url": "https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "MAKING MY WAY",
+        "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "duration_ms": 258006,
+      "name": "MAKING MY WAY",
+      "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "MAKING MY WAY",
-        "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp"
       },
       "artists": [
         {
-          "name": "S\u01a1n T\u00f9ng M-TP",
-          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 258006,
-      "name": "MAKING MY WAY",
-      "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
+      "duration_ms": 241947,
+      "name": "P.S. I LOVE YOU (feat. Yuna)",
+      "url": "https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Sup",
-        "url": "https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        },
-        {
-          "name": "Matthew Ifield",
-          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
-        }
-      ],
-      "duration_ms": 220152,
-      "name": "Sup",
-      "url": "https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 130097,
       "name": "Home",
       "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "Sup",
+        "url": "https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        },
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "duration_ms": 220152,
+      "name": "Sup",
+      "url": "https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "RABBITHOLE",
-        "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 141443,
-      "name": "RABBITHOLE",
-      "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 181000,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 141443,
+      "name": "RABBITHOLE",
+      "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
     },
     {
       "added_at": "2025-05-16 04:00:25",

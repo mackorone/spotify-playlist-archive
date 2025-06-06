@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,557 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,573 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 |
 | 60 | [Fool's Gold](https://open.spotify.com/track/2qMOAJmGCJhUOJoZhtPAIb) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Fool's Gold](https://open.spotify.com/album/0fn9HuJ6H8wuIW4a1Yt9uH) | 1:35 |
 
-Snapshot ID: `Z5ehIQAAAADibTf3bLg+uoP2DV2gNu/J`
+Snapshot ID: `Z5ehIQAAAAAQyXPFvWdAO4ttUKLBaeKo`

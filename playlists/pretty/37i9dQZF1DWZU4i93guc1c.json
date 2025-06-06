@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430, Qarpa, \u042e\u043b\u0456\u044f \u041b\u043e\u0440\u0434",
-  "num_followers": 38610,
+  "num_followers": 38605,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u041f\u0430\u043b\u0430\u0454 \u0441\u0432\u0456\u0442",
-        "url": "https://open.spotify.com/album/1Np05mpO4vDkLA2Y2OJDsT"
-      },
-      "artists": [
-        {
-          "name": "Do Sliz",
-          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
-        }
-      ],
-      "duration_ms": 149581,
-      "name": "\u041f\u0430\u043b\u0430\u0454 \u0441\u0432\u0456\u0442",
-      "url": "https://open.spotify.com/track/663d1XaddZGvqIwDM8yX46"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u043f\u02bc\u044f\u0442\u043d\u0438\u0446\u044f",
         "url": "https://open.spotify.com/album/2gwjNgM5G4iGDtZoHgwN6F"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 130350,
       "name": "\u043f\u02bc\u044f\u0442\u043d\u0438\u0446\u044f",
       "url": "https://open.spotify.com/track/53QTVw9eRlzqJLS6tpyO8h"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u041f\u0430\u043b\u0430\u0454 \u0441\u0432\u0456\u0442",
+        "url": "https://open.spotify.com/album/1Np05mpO4vDkLA2Y2OJDsT"
+      },
+      "artists": [
+        {
+          "name": "Do Sliz",
+          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
+        }
+      ],
+      "duration_ms": 149581,
+      "name": "\u041f\u0430\u043b\u0430\u0454 \u0441\u0432\u0456\u0442",
+      "url": "https://open.spotify.com/track/663d1XaddZGvqIwDM8yX46"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -815,6 +815,26 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
+        "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
+      },
+      "artists": [
+        {
+          "name": "Cepasa",
+          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
+        },
+        {
+          "name": "Artem Borodatiuk",
+          "url": "https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK"
+        }
+      ],
+      "duration_ms": 199556,
+      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
+      "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c",
         "url": "https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q"
       },
@@ -831,22 +851,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
-        "url": "https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k"
-      },
-      "artists": [
-        {
-          "name": "\u0441\u0435\u0440\u0432\u0430\u043d\u0442",
-          "url": "https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
-      "url": "https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u041b\u0456\u0444\u0442",
         "url": "https://open.spotify.com/album/7o0KiXHau0bjiaqy9PbN7H"
       },
@@ -859,6 +863,22 @@
       "duration_ms": 149280,
       "name": "\u041b\u0456\u0444\u0442",
       "url": "https://open.spotify.com/track/14tNEzKUco8Uxt8zCrFW5r"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
+        "url": "https://open.spotify.com/album/6IqttDgQZHC05pcI1WTa3k"
+      },
+      "artists": [
+        {
+          "name": "\u0441\u0435\u0440\u0432\u0430\u043d\u0442",
+          "url": "https://open.spotify.com/artist/21THXOs8Q1gAAS95grxylx"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u043d\u0435 \u0431\u0440\u0435\u0448\u0438",
+      "url": "https://open.spotify.com/track/1nBKQvdtCQB6vt4x69qSL0"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -943,26 +963,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
-        "url": "https://open.spotify.com/album/0HYJSAOFcv7yQuIrvYxCyU"
-      },
-      "artists": [
-        {
-          "name": "Cepasa",
-          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
-        },
-        {
-          "name": "Artem Borodatiuk",
-          "url": "https://open.spotify.com/artist/2y8mm7IQmQtr5ZpyY39fdK"
-        }
-      ],
-      "duration_ms": 199556,
-      "name": "\u0422\u0456\u043b\u044c\u043a\u0438 \u0432 \u041a\u0438\u0454\u0432\u0456",
-      "url": "https://open.spotify.com/track/3iyAfCTVpbomAFbZxretpr"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u041d\u0430 \u0432\u0438\u0445\u043e\u0432\u0430\u043d\u043d\u0456 \u0432 \u043b\u044e\u0431\u043e\u0432\u0456",
         "url": "https://open.spotify.com/album/6rNsucV5FfYV5EV8kuGheD"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
-        "url": "https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3"
-      },
-      "artists": [
-        {
-          "name": "vioria",
-          "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
-      "url": "https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0441\u0438\u0440\u0435\u0446\u044c",
         "url": "https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 246000,
       "name": "\u0441\u0438\u0440\u0435\u0446\u044c",
       "url": "https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
+        "url": "https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3"
+      },
+      "artists": [
+        {
+          "name": "vioria",
+          "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
+      "url": "https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0420\u0443\u043a\u043e\u043a\u0440\u0438\u043b\u0430",
-        "url": "https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
-          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "\u042f\u0431\u043b\u0443\u0447\u043a\u043e",
-      "url": "https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0424\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 247702,
       "name": "\u041d\u0435\u0441\u0443\u043c\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/4n8Y2TOX0wRZdYzUY8nlqG"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u0420\u0443\u043a\u043e\u043a\u0440\u0438\u043b\u0430",
+        "url": "https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
+          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "\u042f\u0431\u043b\u0443\u0447\u043a\u043e",
+      "url": "https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "la princesse lointaine",
-        "url": "https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5"
-      },
-      "artists": [
-        {
-          "name": "renie cares",
-          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
-        }
-      ],
-      "duration_ms": 267995,
-      "name": "\u0437\u0430\u0440\u0430\u0437\u0430",
-      "url": "https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u041c\u0456\u0439 \u043a\u0456\u0442 \u0456 \u044f",
         "url": "https://open.spotify.com/album/68b1aUd1DwGRhX7FMYCHMH"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "la princesse lointaine",
+        "url": "https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5"
+      },
+      "artists": [
+        {
+          "name": "renie cares",
+          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
+        }
+      ],
+      "duration_ms": 267995,
+      "name": "\u0437\u0430\u0440\u0430\u0437\u0430",
+      "url": "https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u041c\u0456\u043b\u044c\u0439\u043e\u043d",
         "url": "https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0441\u043e\u043d",
-        "url": "https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz"
+        "name": "\u0424\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
       },
       "artists": [
         {
-          "name": "\u0441\u0432\u0456\u0442\u0430\u043d\u043e\u043a \u0431\u043b\u0430\u043a\u0438\u0442\u043d\u0438\u0439",
-          "url": "https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN"
+          "name": "Vivienne Mort",
+          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
         }
       ],
-      "duration_ms": 234206,
-      "name": "\u0441\u043e\u043d",
-      "url": "https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj"
+      "duration_ms": 171081,
+      "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1239,22 +1239,6 @@
       "duration_ms": 184256,
       "name": "\u0422\u0430\u043a \u043d\u0456\u0436\u043d\u043e",
       "url": "https://open.spotify.com/track/41rQGeONHiocYIGRpB5Aqv"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
-        "name": "\u0424\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L"
-      },
-      "artists": [
-        {
-          "name": "Vivienne Mort",
-          "url": "https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH"
-        }
-      ],
-      "duration_ms": 171081,
-      "name": "\u0423\u0441\u0456 \u0432 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda"
     },
     {
       "added_at": "2025-05-30 14:48:39",
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
-        "name": "\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430 \u0437\u043d\u0438\u043a\u043b\u0430",
-        "url": "https://open.spotify.com/album/6yRfukpFIdWOOgumCqlwYu"
-      },
-      "artists": [
-        {
-          "name": "Darie Lu",
-          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
-        }
-      ],
-      "duration_ms": 206403,
-      "name": "\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430 \u0437\u043d\u0438\u043a\u043b\u0430",
-      "url": "https://open.spotify.com/track/6zZieeqbx3B7cvL5FcNd3D"
-    },
-    {
-      "added_at": "2025-05-30 14:48:39",
-      "album": {
         "name": "\u0427\u0422\u041c\u0421",
         "url": "https://open.spotify.com/album/2X5rrbpYHpy0ab5imfSYPS"
       },
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2025-05-30 14:48:39",
       "album": {
+        "name": "\u0441\u043e\u043d",
+        "url": "https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz"
+      },
+      "artists": [
+        {
+          "name": "\u0441\u0432\u0456\u0442\u0430\u043d\u043e\u043a \u0431\u043b\u0430\u043a\u0438\u0442\u043d\u0438\u0439",
+          "url": "https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN"
+        }
+      ],
+      "duration_ms": 234206,
+      "name": "\u0441\u043e\u043d",
+      "url": "https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
         "name": "\u041f\u0456\u0448\u0430\u043a",
         "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 139200,
       "name": "\u041f\u0456\u0448\u0430\u043a",
       "url": "https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw"
+    },
+    {
+      "added_at": "2025-05-30 14:48:39",
+      "album": {
+        "name": "\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430 \u0437\u043d\u0438\u043a\u043b\u0430",
+        "url": "https://open.spotify.com/album/6yRfukpFIdWOOgumCqlwYu"
+      },
+      "artists": [
+        {
+          "name": "Darie Lu",
+          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
+        }
+      ],
+      "duration_ms": 206403,
+      "name": "\u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430 \u0437\u043d\u0438\u043a\u043b\u0430",
+      "url": "https://open.spotify.com/track/6zZieeqbx3B7cvL5FcNd3D"
     },
     {
       "added_at": "2025-05-30 14:48:39",

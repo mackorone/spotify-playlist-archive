@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Jere Klein & Lucky Brown.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Young Cister.",
   "name": "\u00c9xitos Chile",
   "tracks": [
     {
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 170713,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 139406,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/77QG3r1epNDDdjRkt9sGSQ"
@@ -5273,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Mambinho Brasile\u00f1o",
+        "url": "https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "Mambinho Brasile\u00f1o",
+      "url": "https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8"
+    },
+    {
+      "album": {
         "name": "Mami No Est\u00e9s Triste",
         "url": "https://open.spotify.com/album/1zfbqj4jWdHyMtOQJKdMA3"
       },
@@ -6722,6 +6740,24 @@
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
       "album": {
@@ -8356,7 +8392,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 231999,
       "name": "RAMEN PARA DOS",
       "url": "https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X"
@@ -9404,6 +9440,28 @@
       "duration_ms": 163200,
       "name": "Sola Suelta Soltera",
       "url": "https://open.spotify.com/track/4RtLVq34QEU3ckAl8Tdyro"
+    },
+    {
+      "album": {
+        "name": "SOLEAO",
+        "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
       "album": {

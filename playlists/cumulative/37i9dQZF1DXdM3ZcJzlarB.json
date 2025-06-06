@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: Peces Raros.",
-  "name": "mint argentina",
+  "description": "Electr\u00f3nica nacional. Portada: Peces Raros.",
+  "name": "(AR)",
   "tracks": [
     {
       "album": {
@@ -899,6 +899,32 @@
     },
     {
       "album": {
+        "name": "Canta la tierra",
+        "url": "https://open.spotify.com/album/0NDd6Ig3J5h349Q0hzX42w"
+      },
+      "artists": [
+        {
+          "name": "Seba Campos",
+          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
+        },
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Claudio Arditti",
+          "url": "https://open.spotify.com/artist/7rNLQX8tKy2dAK23M9T1w3"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Canta la tierra",
+      "url": "https://open.spotify.com/track/0orz2vJbu155qQWw3U2WXe"
+    },
+    {
+      "album": {
         "name": "Caught In A Nightmare",
         "url": "https://open.spotify.com/album/3GqbxBKpJYfDXNuJBAOxfb"
       },
@@ -910,7 +936,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 378903,
       "name": "Caught In A Nightmare",
       "url": "https://open.spotify.com/track/6IJhV1rDfjpEdyd6b8kV6s"
@@ -1122,7 +1148,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 314000,
       "name": "Cross Ways",
       "url": "https://open.spotify.com/track/2KCKAVIPYlX51mm1nyUe48"
@@ -1158,7 +1184,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 402352,
       "name": "Decided - Original Mix",
       "url": "https://open.spotify.com/track/6e24Vn9YQMD1iw3xhoUmOy"
@@ -1202,6 +1228,24 @@
       "duration_ms": 196150,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi"
+    },
+    {
+      "album": {
+        "name": "Sailor",
+        "url": "https://open.spotify.com/album/07Ri4UW3J9sT7WmK49xe8Y"
+      },
+      "artists": [
+        {
+          "name": "Pazzos",
+          "url": "https://open.spotify.com/artist/6w5dyozNGRkQ1qzLuPdHov"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394838,
+      "name": "Descarga",
+      "url": "https://open.spotify.com/track/0bHei4dP9QDEG2ccGtHPyQ"
     },
     {
       "album": {
@@ -1618,7 +1662,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 352500,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/00qAbeH5Xf0VGvxQa9IOS8"
@@ -1940,6 +1984,24 @@
       "duration_ms": 261532,
       "name": "Fuck el Police - Remix",
       "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
+    },
+    {
+      "album": {
+        "name": "Glasgow / Riot",
+        "url": "https://open.spotify.com/album/1cG4JY9DCL4WVreg68EWjr"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Rada",
+          "url": "https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460327,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/50RIEOe4hgWNmtxiHCi7Z7"
     },
     {
       "album": {
@@ -2346,6 +2408,24 @@
       "duration_ms": 432000,
       "name": "Infieles - Remix",
       "url": "https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB"
+    },
+    {
+      "album": {
+        "name": "Itaewon",
+        "url": "https://open.spotify.com/album/6dfyyA3nH77j2MiFIsnV4R"
+      },
+      "artists": [
+        {
+          "name": "Sol Ortega",
+          "url": "https://open.spotify.com/artist/1a8L1wFGuk1SDOmAXhnvmO"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324843,
+      "name": "Itaewon",
+      "url": "https://open.spotify.com/track/07zE3OGZPveHE8AHA1grlC"
     },
     {
       "album": {
@@ -2795,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Mashamba",
+        "url": "https://open.spotify.com/album/0i9kmh53w6hrFJ2TCXUW6C"
+      },
+      "artists": [
+        {
+          "name": "Antonio (AR)",
+          "url": "https://open.spotify.com/artist/719reSpBlQmZqDIRUFGVGv"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Mashamba",
+      "url": "https://open.spotify.com/track/0i7er6j3qdpB5W8BskO8UR"
+    },
+    {
+      "album": {
         "name": "Mashamba (Zetter Remix)",
         "url": "https://open.spotify.com/album/1IUgpuRmwhPyRZDGFMB5Yp"
       },
@@ -3088,6 +3190,28 @@
       "duration_ms": 472131,
       "name": "Mormont",
       "url": "https://open.spotify.com/track/5EpcBzEWCGOKXW0X5f45zV"
+    },
+    {
+      "album": {
+        "name": "Move It EP",
+        "url": "https://open.spotify.com/album/7jeFF0jRs6uDtnJSpR866Y"
+      },
+      "artists": [
+        {
+          "name": "Nico Falla",
+          "url": "https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1"
+        },
+        {
+          "name": "Martin Angrisano (ARG)",
+          "url": "https://open.spotify.com/artist/4qqTKHcPAqB75sw7TwUB9Y"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/67yeBOn7nvDWkjOAZORrzS"
     },
     {
       "album": {
@@ -4086,7 +4210,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 292913,
       "name": "Speak Your Truth",
       "url": "https://open.spotify.com/track/3zyNnvdvhR6uYkpkuFfLNB"
@@ -4661,6 +4785,28 @@
     },
     {
       "album": {
+        "name": "Turnin'",
+        "url": "https://open.spotify.com/album/3sKJ56NDEShQDzY3ZxPGMl"
+      },
+      "artists": [
+        {
+          "name": "FRANCO BA",
+          "url": "https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx"
+        },
+        {
+          "name": "Muter",
+          "url": "https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332500,
+      "name": "Turnin'",
+      "url": "https://open.spotify.com/track/36gthjpephERK8Il6W6o5p"
+    },
+    {
+      "album": {
         "name": "The Soundgarden 05 (DJ Mix)",
         "url": "https://open.spotify.com/album/2sCThKiVcLYrgqQuZ7uySJ"
       },
@@ -4698,7 +4844,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 264620,
       "name": "Under Depth",
       "url": "https://open.spotify.com/track/4w1UBTHdo7aGxTSsseoj2n"

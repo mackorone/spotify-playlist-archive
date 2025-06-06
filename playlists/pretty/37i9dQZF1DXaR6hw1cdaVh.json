@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2519,
+  "num_followers": 2523,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Tricarico",
+        "url": "https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG"
+      },
+      "artists": [
+        {
+          "name": "Tricarico",
+          "url": "https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Io Sono Francesco",
+      "url": "https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Quando sarai piccola",
         "url": "https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 225636,
       "name": "La cura",
       "url": "https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Tricarico",
-        "url": "https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG"
-      },
-      "artists": [
-        {
-          "name": "Tricarico",
-          "url": "https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Io Sono Francesco",
-      "url": "https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga"
     },
     {
       "added_at": "2025-03-03 09:30:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 139 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 139 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 42 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
 | 43 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 |
 | 44 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
-| 45 | [KANEKI](https://open.spotify.com/track/4wOHkjgu0jCcILKvbKrYa9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:50 |
-| 46 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
+| 45 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
+| 46 | [KANEKI](https://open.spotify.com/track/4wOHkjgu0jCcILKvbKrYa9) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:50 |
 | 47 | [Marinate](https://open.spotify.com/track/41Rfg4KikdF3WIHHxU821m) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 2:42 |
 | 48 | [Feelings](https://open.spotify.com/track/6MNSwUUjWSDUhuCZaTezAn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:40 |
 | 49 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 112 | [let u back in](https://open.spotify.com/track/7AZRI11SKhBBGl22dXupwg) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 3:12 |
 | 113 | [God Like](https://open.spotify.com/track/4RC4WP3J7z9U56uiDWqqKX) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:12 |
 | 114 | [Awake](https://open.spotify.com/track/5rUIMX544uJUMYJ3ibuGY5) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:00 |
-| 115 | [Monkey](https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Monkey / Up + Down](https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX) | 2:44 |
-| 116 | [Give It To You](https://open.spotify.com/track/1zxyqqtI2FMY0vPcjZ33Q1) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:10 |
+| 115 | [Give It To You](https://open.spotify.com/track/1zxyqqtI2FMY0vPcjZ33Q1) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:10 |
+| 116 | [Monkey](https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Monkey / Up + Down](https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX) | 2:44 |
 | 117 | [Ain't Shit](https://open.spotify.com/track/2NPi3iQsP41qKzCX1VMKy5) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Ain't Shit](https://open.spotify.com/album/6AxS2i3Khsq8EtiIPwsjBs) | 2:31 |
 | 118 | [Life B Changin](https://open.spotify.com/track/7bWvuK1v7TDflGkWiOLHSi) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI) | 2:56 |
 | 119 | [Wild](https://open.spotify.com/track/0HQkNYuExxqtYMHfPBexOR) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Wild](https://open.spotify.com/album/6RQZUVur7VDCgdFQ7rRUph) | 2:36 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 138 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 139 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AbzRKgAAAACeFnoGX1kX2aks0q9XU35B`
+Snapshot ID: `AbzWygAAAADXajgcuJhmVoe6Hou8iLol`

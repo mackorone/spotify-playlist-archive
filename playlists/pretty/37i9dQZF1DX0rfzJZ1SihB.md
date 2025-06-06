@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 今年的金曲獎要來了！Spotify 當然全力支持！火速呈獻精采提名作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,464 likes - 107 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,484 likes - 107 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 106 | [殿](https://open.spotify.com/track/78oT7hMmCR4efkmRTwXrEQ) | [呂紹淳](https://open.spotify.com/artist/0yvoFmqqc9fUS4iMpxNcNC) | [胎內](https://open.spotify.com/album/7unpSNA0s1NwkqpzVmmypW) | 4:56 |
 | 107 | [沙漏](https://open.spotify.com/track/7uxeQoTYBM6o59fr14qfbd) | [曜爆甘弦樂團](https://open.spotify.com/artist/4y8yvnGst7zwAAEgx7I5Hr) | [憶聲弦命 滾石40【40首OST 致經典】滾石影視主題曲演奏專輯](https://open.spotify.com/album/5dI05xRiW9FGk9tYE8TXur) | 4:21 |
 
-Snapshot ID: `aDE3OwAAAAAnR8vslWmKeeI52sc8f8c4`
+Snapshot ID: `aDE3OwAAAAAP95+pmXUnB6Wqq+sZLkWB`

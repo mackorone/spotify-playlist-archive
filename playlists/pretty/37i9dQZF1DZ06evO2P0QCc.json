@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 117791,
+  "num_followers": 117814,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAC1M8korEvGlLmhXli4dFXh",
+  "snapshot_id": "aD+MgAAAAAAdTMohlQuU8sm+koDLA6SI",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         }
       ],
-      "duration_ms": 321493,
-      "name": "Luna - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+      "duration_ms": 154897,
+      "name": "Ara\u00f1a Ska",
+      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
     },
     {
       "added_at": null,
@@ -803,8 +795,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+        "name": "Luna (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 321493,
+      "name": "Luna - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Ara\u00f1a Ska",
-      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
       "duration_ms": 208400,
       "name": "Soy Soledad",
       "url": "https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,

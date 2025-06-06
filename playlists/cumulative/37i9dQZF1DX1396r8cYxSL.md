@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2025](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2025 yazına damga vuracak şarkılar\. Kapak: Hande Yener
+> 2025 yazına damga vuracak şarkılar\. Kapak: Selin
 
 129 songs - 6 hr 11 min
 

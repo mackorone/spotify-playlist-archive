@@ -2,9 +2,9 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Lady Gaga
+> The best tracks from the world of music\. Cover: SEVENTEEN
 
-461 songs - 1 day 0 hr 55 min
+462 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 | 2024-05-08 | 2024-06-20 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-28 | 2024-09-26 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-10 | 2024-10-17 |
+| [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 | 2024-01-31 | 2024-04-19 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 | 2025-03-13 |
 | [MEDIEVAL](https://open.spotify.com/track/0z12poTulxXrzPHnspnrTX) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [MEDIEVAL](https://open.spotify.com/album/4DChfxtC6EnksoKQWmcC8R) | 2:53 | 2025-04-16 | 2025-05-15 |
@@ -465,7 +466,7 @@
 | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/album/6st8aeddyDxftxA8tWXZhc) | 4:28 | 2025-04-30 |  |
 | [跳楼机](https://open.spotify.com/track/2BHXQNTVx1WWEk3WyCo4VO) | [en](https://open.spotify.com/artist/3A4OPuuXAaKWD8mlrUKXUQ) | [跳楼机](https://open.spotify.com/album/4ReDcHoNHmEX6WtgsEyo1H) | 3:29 | 2025-03-19 | 2025-04-04 |
 | [这是你期盼的长大吗](https://open.spotify.com/track/3AKYofM0vFekNthGbpjMpN) | [ZQS](https://open.spotify.com/artist/6CvqU8itTtfpm1E8Pvez33) | [这是你期盼的长大吗](https://open.spotify.com/album/4kVcOlVQGpR5ci478Y86Zv) | 3:58 | 2024-06-12 | 2024-07-11 |
-| [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-01-01 |  |
+| [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-01-01 | 2025-06-06 |
 | [青春要用幾行詩來寫 \(電視劇《顏心記》推廣曲\)](https://open.spotify.com/track/5BMwkhL43UiAOshkAW7NVP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [青春要用幾行詩來寫 \(電視劇《顏心記》推廣曲\)](https://open.spotify.com/album/74QsdlUpTEwZVozQkU0yeZ) | 4:52 | 2024-06-12 | 2024-07-04 |
 | [龍龍的新年 Long Long New Year](https://open.spotify.com/track/5mqhmmcPlVCM46WtzeJOP8) | [Bingyen 郑斌彦](https://open.spotify.com/artist/5B3sXYh20CdngbsFfjezkb), [爱迪生](https://open.spotify.com/artist/5Lk5NRhttf21Zp9kYB5UnK), [刘伊幸](https://open.spotify.com/artist/0SaMi7TSuC9KNwQ3mOa1u2), [王希豪](https://open.spotify.com/artist/1G4x7TRhUlsFGYHliTKY5V), [小愛龍](https://open.spotify.com/artist/2R3jTH69e9VF7wQM8qKm0Z) | [龍龍的新年 Long Long New Year](https://open.spotify.com/album/7fmQw9GlZTWivhLyA1HkGz) | 3:18 | 2024-02-08 | 2024-02-22 |
 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-05-08 | 2024-06-13 |

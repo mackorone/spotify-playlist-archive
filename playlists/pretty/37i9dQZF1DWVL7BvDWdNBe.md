@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,033 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,072 likes - 35 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 34 | [Guitar Man](https://open.spotify.com/track/7momNWKOObWP1nBE1BNirA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:19 |
 | 35 | [Hard Headed Woman](https://open.spotify.com/track/32CVurlBxtEYQlDm3yzCLl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [King Creole](https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl) | 1:53 |
 
-Snapshot ID: `ZoK+yAAAAAAEHkkWJa7m4rX8SZtXyQEh`
+Snapshot ID: `ZoK+yAAAAABLSkTVogm4LfA/LeXXGjZb`

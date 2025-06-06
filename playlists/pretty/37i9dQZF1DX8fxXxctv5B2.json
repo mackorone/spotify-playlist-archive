@@ -1,29 +1,13 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 236304,
+  "num_followers": 236326,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDhoZwAAAAAuxF3ewtjT94Gt+bhGE7T5",
+  "snapshot_id": "aEGjAwAAAABujGPZc+68d3Q9CklZftGs",
   "tracks": [
-    {
-      "added_at": "2025-05-29 14:00:07",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
-    },
     {
       "added_at": "2024-06-28 01:26:42",
       "album": {
@@ -89,6 +73,22 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
+      "added_at": "2025-06-05 14:00:34",
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
       "added_at": "2024-06-28 01:26:42",
       "album": {
         "name": "Songs From The Big Chair (Super Deluxe Edition)",
@@ -151,6 +151,22 @@
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2025-05-29 14:00:07",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
       "added_at": "2024-06-28 01:26:42",
@@ -841,6 +857,38 @@
       "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
+      "added_at": "2024-06-28 01:26:42",
+      "album": {
+        "name": "Odyssey Number Five",
+        "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
+      },
+      "artists": [
+        {
+          "name": "Powderfinger",
+          "url": "https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6"
+        }
+      ],
+      "duration_ms": 276626,
+      "name": "My Happiness",
+      "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
+    },
+    {
+      "added_at": "2025-03-27 13:00:13",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+    },
+    {
       "added_at": "2025-05-01 14:00:27",
       "album": {
         "name": "Learn To Let You Go",
@@ -861,38 +909,6 @@
       "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
     },
     {
-      "added_at": "2025-03-27 13:00:13",
-      "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
-        "name": "Odyssey Number Five",
-        "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
-      },
-      "artists": [
-        {
-          "name": "Powderfinger",
-          "url": "https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6"
-        }
-      ],
-      "duration_ms": 276626,
-      "name": "My Happiness",
-      "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
-    },
-    {
       "added_at": "2025-01-16 13:00:27",
       "album": {
         "name": "Greyhound",
@@ -907,22 +923,6 @@
       "duration_ms": 226235,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
-    },
-    {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
-        "name": "L.A.B III",
-        "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "In the Air",
-      "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
     },
     {
       "added_at": "2024-06-28 01:26:42",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
-    },
-    {
       "added_at": "2025-05-22 14:00:17",
       "album": {
         "name": "If That Makes Sense",
@@ -983,6 +967,38 @@
     {
       "added_at": "2024-06-28 01:26:42",
       "album": {
+        "name": "L.A.B III",
+        "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
+    },
+    {
+      "added_at": "2024-06-28 01:26:42",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
+    },
+    {
+      "added_at": "2024-06-28 01:26:42",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 218400,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl"
+    },
+    {
+      "added_at": "2025-05-01 14:00:27",
+      "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
     },
     {
       "added_at": "2024-06-28 01:26:42",
@@ -1059,22 +1091,6 @@
       "duration_ms": 175720,
       "name": "can't slow down",
       "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
-    },
-    {
-      "added_at": "2025-05-01 14:00:27",
-      "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
     },
     {
       "added_at": "2024-08-01 14:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-06-28 01:26:42",
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "Hold Me Up (Thank You)",
-      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
-    },
-    {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
         "name": "I Had The Blues But I Shook Them Loose",
         "url": "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 245640,
       "name": "Always Like This",
       "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
+    },
+    {
+      "added_at": "2024-06-28 01:26:42",
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
     },
     {
       "added_at": "2024-06-28 01:26:42",
@@ -1237,22 +1253,6 @@
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     },
     {
-      "added_at": "2025-05-01 14:00:27",
-      "album": {
-        "name": "Potion",
-        "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 167823,
-      "name": "Potion",
-      "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
-    },
-    {
       "added_at": "2024-06-28 01:26:42",
       "album": {
         "name": "Slow Reveal: Chapter One",
@@ -1267,6 +1267,22 @@
       "duration_ms": 158948,
       "name": "The Love",
       "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "added_at": "2025-05-01 14:00:27",
+      "album": {
+        "name": "Potion",
+        "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 167823,
+      "name": "Potion",
+      "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
     },
     {
       "added_at": "2024-06-28 01:26:42",
@@ -1299,22 +1315,6 @@
       "duration_ms": 305829,
       "name": "Free",
       "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
-    },
-    {
-      "added_at": "2024-06-28 01:26:42",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
     }
   ],
   "unique_name": "Coastal Drive",

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 163808,
+  "num_followers": 163817,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 222000,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 220124,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "Outta Order",
         "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 220124,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -927,18 +927,22 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Last Verse",
-        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
+        "name": "Need Me So",
+        "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "DON DARKOE",
+          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
         }
       ],
-      "duration_ms": 313500,
-      "name": "Last Verse",
-      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
+      "duration_ms": 180000,
+      "name": "Need Me So",
+      "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -983,22 +987,18 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Need Me So",
-        "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
+        "name": "Last Verse",
+        "url": "https://open.spotify.com/album/7IFgUpIGDSNIGv85Jh5yxc"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "DON DARKOE",
-          "url": "https://open.spotify.com/artist/5JcJbx4RwpNjGP18K2V6Ql"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Need Me So",
-      "url": "https://open.spotify.com/track/1ouVPdv49QKSSiBfCOw6zL"
+      "duration_ms": 313500,
+      "name": "Last Verse",
+      "url": "https://open.spotify.com/track/7BtvCweEjy5aYPKL9NtLWj"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Spire",
-        "url": "https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Spire",
-      "url": "https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/3z7Y1mksmDZGk7Cvk3TVQl"
       },
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/6PDSqTprzwVcOwZk0vcrQ9"
+        "name": "Spire",
+        "url": "https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x"
       },
       "artists": [
         {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        },
-        {
-          "name": "MYTHM",
-          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
         }
       ],
-      "duration_ms": 166728,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/3MLzlEpy4EXFxSS9xrnjMw"
+      "duration_ms": 252342,
+      "name": "Spire",
+      "url": "https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1415,6 +1395,26 @@
       "duration_ms": 190650,
       "name": "Still The Same (feat. CASISDEAD)",
       "url": "https://open.spotify.com/track/1h1M68zwESaPbUpZ6AU8oW"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/6PDSqTprzwVcOwZk0vcrQ9"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        },
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "duration_ms": 166728,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/3MLzlEpy4EXFxSS9xrnjMw"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
+        "name": "Told You (Soundboy)",
+        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        }
+      ],
+      "duration_ms": 178971,
+      "name": "Told You (Soundboy)",
+      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
         "name": "You Want Me (VIP)",
         "url": "https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 158620,
       "name": "You Want Me - VIP",
       "url": "https://open.spotify.com/track/0y2jMpPZQgoqnlmxhYuebT"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
-        "name": "Told You (Soundboy)",
-        "url": "https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        }
-      ],
-      "duration_ms": 178971,
-      "name": "Told You (Soundboy)",
-      "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "No Fugazi",
-        "url": "https://open.spotify.com/album/3Zw9zz8E7Dtm8JRbXJ9diJ"
-      },
-      "artists": [
-        {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "No Fugazi",
-      "url": "https://open.spotify.com/track/5sY6O3uGqIrq1aaEj8ed8M"
-    },
-    {
-      "added_at": "2025-05-22 23:00:13",
-      "album": {
         "name": "Bassline Murder",
         "url": "https://open.spotify.com/album/0zMno2lzMKblucKSZbEKmO"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 232579,
       "name": "Autonomy",
       "url": "https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7"
+    },
+    {
+      "added_at": "2025-05-22 23:00:13",
+      "album": {
+        "name": "No Fugazi",
+        "url": "https://open.spotify.com/album/3Zw9zz8E7Dtm8JRbXJ9diJ"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "No Fugazi",
+      "url": "https://open.spotify.com/track/5sY6O3uGqIrq1aaEj8ed8M"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1947,22 +1947,18 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Cycles - EP",
-        "url": "https://open.spotify.com/album/2kQVhOFontH1iAcihiTJ1E"
+        "name": "Ballin'",
+        "url": "https://open.spotify.com/album/6yJXkzeOz9t61O26rqKXHi"
       },
       "artists": [
         {
-          "name": "Sustance",
-          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
-        },
-        {
-          "name": "PARA",
-          "url": "https://open.spotify.com/artist/0YUhLAl6i5FsmzCC0zlXac"
+          "name": "Dub Elements",
+          "url": "https://open.spotify.com/artist/2VhiJ9TTWHMZl8jXUAMAgJ"
         }
       ],
-      "duration_ms": 266339,
-      "name": "That's Right",
-      "url": "https://open.spotify.com/track/0pT4ArwWdG1LqPRa2u8CX2"
+      "duration_ms": 226206,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/3X6y1QbCHeZKiqN811gMof"
     },
     {
       "added_at": "2025-05-22 23:00:13",
@@ -1991,34 +1987,38 @@
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Maw",
-        "url": "https://open.spotify.com/album/4vD6xOvf61P2WMwbUHHe55"
+        "name": "Cycles - EP",
+        "url": "https://open.spotify.com/album/2kQVhOFontH1iAcihiTJ1E"
       },
       "artists": [
         {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        },
+        {
+          "name": "PARA",
+          "url": "https://open.spotify.com/artist/0YUhLAl6i5FsmzCC0zlXac"
         }
       ],
-      "duration_ms": 263314,
-      "name": "Maw",
-      "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
+      "duration_ms": 266339,
+      "name": "That's Right",
+      "url": "https://open.spotify.com/track/0pT4ArwWdG1LqPRa2u8CX2"
     },
     {
       "added_at": "2025-05-22 23:00:13",
       "album": {
-        "name": "Ballin'",
-        "url": "https://open.spotify.com/album/6yJXkzeOz9t61O26rqKXHi"
+        "name": "Roll To The Rhythm",
+        "url": "https://open.spotify.com/album/2q9DBD9tPD9AkiPOJyuuI4"
       },
       "artists": [
         {
-          "name": "Dub Elements",
-          "url": "https://open.spotify.com/artist/2VhiJ9TTWHMZl8jXUAMAgJ"
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/3X6y1QbCHeZKiqN811gMof"
+      "duration_ms": 358571,
+      "name": "Groundsman",
+      "url": "https://open.spotify.com/track/1bx251wfYPchkMViT1YsHS"
     }
   ],
   "unique_name": "Proper Naughty ",

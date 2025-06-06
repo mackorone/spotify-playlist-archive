@@ -1,6 +1,6 @@
 {
   "description": "The latest of R&B in the UK. Cover: Ebub\u00e9",
-  "num_followers": 157043,
+  "num_followers": 157058,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -267,38 +267,6 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "TWENTY TWENTY TYDE",
-        "url": "https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s"
-      },
-      "artists": [
-        {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
-        }
-      ],
-      "duration_ms": 114310,
-      "name": "sauna",
-      "url": "https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 186259,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
       },
@@ -315,6 +283,22 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
+        "name": "TWENTY TWENTY TYDE",
+        "url": "https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 114310,
+      "name": "sauna",
+      "url": "https://open.spotify.com/track/1IzaYVea9wm69Tby8ekGSD"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
         "name": "backwards loving",
         "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 232000,
       "name": "backwards loving",
       "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 186259,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq"
-      },
-      "artists": [
-        {
-          "name": "Owen Saward",
-          "url": "https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd"
-        }
-      ],
-      "duration_ms": 185126,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
         "name": "My My My",
         "url": "https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq"
+      },
+      "artists": [
+        {
+          "name": "Owen Saward",
+          "url": "https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd"
+        }
+      ],
+      "duration_ms": 185126,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
       },
@@ -491,6 +491,54 @@
       "duration_ms": 196235,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 163926,
+      "name": "IWH2BMX",
+      "url": "https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "We Both Know",
+        "url": "https://open.spotify.com/album/6jH3dYAf3mJDg0I2q8hoyJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "We Both Know",
+      "url": "https://open.spotify.com/track/66icVgS93an9cJqSsZqpsl"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -515,38 +563,6 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 163926,
-      "name": "IWH2BMX",
-      "url": "https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
-        "name": "Anyways",
-        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Anyways",
-      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
         "name": "Too Soon",
         "url": "https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 181330,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
-        "name": "We Both Know",
-        "url": "https://open.spotify.com/album/6jH3dYAf3mJDg0I2q8hoyJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "We Both Know",
-      "url": "https://open.spotify.com/track/66icVgS93an9cJqSsZqpsl"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -595,6 +595,26 @@
       "duration_ms": 148041,
       "name": "She Said",
       "url": "https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "PRETEND",
+        "url": "https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN"
+      },
+      "artists": [
+        {
+          "name": "Luke Champion",
+          "url": "https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ"
+        },
+        {
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
+        }
+      ],
+      "duration_ms": 192110,
+      "name": "PRETEND",
+      "url": "https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -647,26 +667,6 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "PRETEND",
-        "url": "https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN"
-      },
-      "artists": [
-        {
-          "name": "Luke Champion",
-          "url": "https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ"
-        },
-        {
-          "name": "Elsa",
-          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
-        }
-      ],
-      "duration_ms": 192110,
-      "name": "PRETEND",
-      "url": "https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/4JabxNLta5nuvPRzOebCkh"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 164122,
       "name": "Butter",
       "url": "https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
-        "name": "I Surrender",
-        "url": "https://open.spotify.com/album/58xaNILsFV4VFsZEwmxeLt"
-      },
-      "artists": [
-        {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/2nU2moLrkMrkWZeKazp1Zy"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -719,6 +703,22 @@
       "duration_ms": 220165,
       "name": "To Be Found",
       "url": "https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "I Surrender",
+        "url": "https://open.spotify.com/album/58xaNILsFV4VFsZEwmxeLt"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/2nU2moLrkMrkWZeKazp1Zy"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "I Hope You Understand",
-        "url": "https://open.spotify.com/album/3JnlkjekuPJHSObCcXbwmj"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 186281,
-      "name": "I Hope You Understand",
-      "url": "https://open.spotify.com/track/6W1hYGszX4dZVOaLOW1F2K"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
         "name": "KT.FM",
         "url": "https://open.spotify.com/album/5PoOWQThDKCdkfvx6zGthx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199000,
       "name": "Handle That",
       "url": "https://open.spotify.com/track/4HJX5m1Rx5HzifYizr34dt"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "I Hope You Understand",
+        "url": "https://open.spotify.com/album/3JnlkjekuPJHSObCcXbwmj"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 186281,
+      "name": "I Hope You Understand",
+      "url": "https://open.spotify.com/track/6W1hYGszX4dZVOaLOW1F2K"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "Go Ghost",
-        "url": "https://open.spotify.com/album/0hwZpjgOkMzytEWs2NSHwT"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Go Ghost",
-      "url": "https://open.spotify.com/track/7fdKKxsRwzG9jNGMnUKUqE"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
         "name": "OXO",
         "url": "https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 152917,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/6wiwsJJuk5u6sdag6iShOu"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
+        "name": "Go Ghost",
+        "url": "https://open.spotify.com/album/0hwZpjgOkMzytEWs2NSHwT"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Go Ghost",
+      "url": "https://open.spotify.com/track/7fdKKxsRwzG9jNGMnUKUqE"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/2a6BJjAOIKQFCQ8LaHwR2c"
+      },
+      "artists": [
+        {
+          "name": "Neya",
+          "url": "https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg"
+        }
+      ],
+      "duration_ms": 163738,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/6ZK6kijHXpQH1XGS6ZAygu"
+    },
+    {
+      "added_at": "2025-05-29 23:00:13",
+      "album": {
         "name": "Pinky Promise",
         "url": "https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 231452,
       "name": "Pinky Promise",
       "url": "https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp"
-    },
-    {
-      "added_at": "2025-05-29 23:00:13",
-      "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj"
     },
     {
       "added_at": "2025-05-29 23:00:13",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-05-29 23:00:13",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/2a6BJjAOIKQFCQ8LaHwR2c"
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW"
       },
       "artists": [
         {
-          "name": "Neya",
-          "url": "https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg"
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
         }
       ],
-      "duration_ms": 163738,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/6ZK6kijHXpQH1XGS6ZAygu"
+      "duration_ms": 169499,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk"
     }
   ],
   "unique_name": "R&B UK",

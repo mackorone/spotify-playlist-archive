@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 68402,
+  "num_followers": 68427,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Luedji Luna",
           "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Lucs Romero",
+          "url": "https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN"
         }
       ],
       "duration_ms": 215005,
@@ -114,6 +118,10 @@
         {
           "name": "TALI",
           "url": "https://open.spotify.com/artist/4S6SRBxNnos10MlsITXBbv"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
         }
       ],
       "duration_ms": 250413,
@@ -459,6 +467,26 @@
     {
       "added_at": "2025-05-30 14:02:05",
       "album": {
+        "name": "V\u00edcios q eu gosto",
+        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "V\u00edcios q eu gosto",
+      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
+    },
+    {
+      "added_at": "2025-05-30 14:02:05",
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -483,26 +511,6 @@
     {
       "added_at": "2025-05-30 14:02:05",
       "album": {
-        "name": "V\u00edcios q eu gosto",
-        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
-      },
-      "artists": [
-        {
-          "name": "ogoin",
-          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "V\u00edcios q eu gosto",
-      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
-    },
-    {
-      "added_at": "2025-05-30 14:02:05",
-      "album": {
         "name": "SALVE-SE!",
         "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
@@ -515,22 +523,6 @@
       "duration_ms": 170000,
       "name": "Quem diria",
       "url": "https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E"
-    },
-    {
-      "added_at": "2025-05-30 14:02:05",
-      "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Romance Fora de Hora",
-      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
     },
     {
       "added_at": "2025-05-30 14:02:05",
@@ -551,6 +543,22 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2025-05-30 14:02:05",
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
     },
     {
       "added_at": "2025-05-30 14:02:05",
@@ -679,22 +687,6 @@
     {
       "added_at": "2025-05-30 14:02:05",
       "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "98'",
-      "url": "https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR"
-    },
-    {
-      "added_at": "2025-05-30 14:02:05",
-      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -711,6 +703,22 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2025-05-30 14:02:05",
+      "album": {
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "98'",
+      "url": "https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR"
     },
     {
       "added_at": "2025-05-30 14:02:05",

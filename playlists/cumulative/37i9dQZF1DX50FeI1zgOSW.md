@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Bebhumika
 
-546 songs - 1 day 7 hr 8 min
+547 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,13 +500,14 @@
 | [Vaa Nee Vaa](https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Vaa Nee Vaa](https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey) | 3:17 | 2024-05-07 | 2024-05-14 |
 | [Vaa Pogalam](https://open.spotify.com/track/0L7eH4ECQWsHIsTW01lLZp) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaa Pogalam](https://open.spotify.com/album/0k7uezmNTyqTcaoThQnaKY) | 3:57 | 2023-11-06 | 2023-12-12 |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
-| [vaa rasa wanna make love \- From "Wanted Mr\. Rasa"](https://open.spotify.com/track/6dLDfhGmhNYOIRZHLB0Jl3) | [Chanderan](https://open.spotify.com/artist/6RpQCpcNLrvudHwPOUY05W), [Kizhakkuvaasi](https://open.spotify.com/artist/12nnZ82xh7p2dFpexbVAf4), [Ancy Mary C James](https://open.spotify.com/artist/0umC3wKPD4auYB7a2LYwVq) | [vaa rasa wanna make love \(From "Wanted Mr\. Rasa"\)](https://open.spotify.com/album/0iiVby2bngFUyQCpO8AnwG) | 2:26 | 2025-04-08 |  |
+| [vaa rasa wanna make love \- From "Wanted Mr\. Rasa"](https://open.spotify.com/track/6dLDfhGmhNYOIRZHLB0Jl3) | [Chanderan](https://open.spotify.com/artist/6RpQCpcNLrvudHwPOUY05W), [Kizhakkuvaasi](https://open.spotify.com/artist/12nnZ82xh7p2dFpexbVAf4), [Ancy Mary C James](https://open.spotify.com/artist/0umC3wKPD4auYB7a2LYwVq) | [vaa rasa wanna make love \(From "Wanted Mr\. Rasa"\)](https://open.spotify.com/album/0iiVby2bngFUyQCpO8AnwG) | 2:26 | 2025-04-08 | 2025-06-06 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 | 2024-04-13 |
 | [Vaaichol](https://open.spotify.com/track/0KFnezn8C0B7cobeFeLsdQ) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaaichol](https://open.spotify.com/album/01GjdmCewDOpKZz9qWZxSb) | 3:03 | 2023-12-18 | 2023-12-22 |
 | [Vaan Vizhamal](https://open.spotify.com/track/6l1TSNQzFHExSfxtFfkTaA) | [Pranav Muniraj](https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp) | [Vaan Vizhamal](https://open.spotify.com/album/3c8WZnYAzjVQ8l7PQ45PXa) | 5:55 | 2025-04-24 |  |
 | [Vaanaai Naam](https://open.spotify.com/track/7bnvjefUzxgtIqGxyQcqsR) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4), [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Life Until 23](https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1) | 4:40 | 2025-04-24 |  |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
 | [Vaanavil Niraikava](https://open.spotify.com/track/25ubcWEzWuOm4nb2IFQVrs) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Vaanavil Niraikava](https://open.spotify.com/album/1aPEw9PFTwaabMyK9ruHaI) | 4:00 | 2024-07-30 | 2024-09-14 |
+| [Vaanjai](https://open.spotify.com/track/4WpCKdwnolpO1xMWaQNPm4) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Vaanjai](https://open.spotify.com/album/40GCGd3W4oLHKJo8jDWuA2) | 3:20 | 2025-06-05 |  |
 | [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 | 2023-09-22 | 2024-03-29 |
 | [Vaasam Pesum](https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/0qYC2EYGjddC8VabjWNBAz) | 3:55 | 2024-07-23 | 2024-12-06 |
 | [Vachi Seiyapora](https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Vachi Seiyapora](https://open.spotify.com/album/3CpQGDhtO10nxGLJUXOXLo) | 3:56 | 2023-07-26 | 2024-05-04 |

@@ -4,7 +4,7 @@
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-80 songs - 2 hr 32 min
+81 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 | 2023-11-10 |  |
 | [Supper at Six](https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:48 | 2023-11-10 |  |
 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 | 2023-06-18 |  |
+| [The Ferry](https://open.spotify.com/track/6T2CFapeYxn2cru24kawa8) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Department Q \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy) | 7:32 | 2025-06-06 |  |
 | [The Hug](https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Ezra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky) | 1:34 | 2024-06-17 | 2024-08-21 |
 | [THE LAST CIGARETTE](https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 0:59 | 2024-05-15 | 2024-07-03 |
 | [The Monk](https://open.spotify.com/track/4JKdXCwp1mB0lMGhsNbRRx) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:43 | 2024-03-02 | 2024-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 79 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459 likes - 79 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover:  Bloody Civilian",
+  "description": "The future hits of today. \nCover:  Juno",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 163637,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/25KBFRfDlJjML133uQRpin"
@@ -6109,6 +6109,28 @@
     },
     {
       "album": {
+        "name": "PIPE ME UP",
+        "url": "https://open.spotify.com/album/5RF5jRb8vKy8oR3YWiyepu"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173592,
+      "name": "PIPE ME UP",
+      "url": "https://open.spotify.com/track/1NeM8LvWmZyVqJFN8lfvMY"
+    },
+    {
+      "album": {
         "name": "Pity Me",
         "url": "https://open.spotify.com/album/2ZFUvGdlMsY949oyKZdcXW"
       },
@@ -6704,7 +6726,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 164571,
       "name": "Shalaye",
       "url": "https://open.spotify.com/track/5RytGOyrh48tH9MvLkChpx"
@@ -6770,6 +6792,24 @@
       "duration_ms": 166730,
       "name": "Side",
       "url": "https://open.spotify.com/track/6HsnEHAUGWzjnbbBdcWq11"
+    },
+    {
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6rDkLaotjRbxgDN8LXVyGL"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/6vm4fsrfhkJnWXTys1UnqR"
     },
     {
       "album": {

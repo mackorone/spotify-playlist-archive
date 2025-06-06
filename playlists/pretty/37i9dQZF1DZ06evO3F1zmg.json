@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41440,
+  "num_followers": 41446,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAAATgqshqrBHO+mDyFSLEEgW",
+  "snapshot_id": "aD+MgAAAAAAZH0RyQBejOJmFkW6Y7FNZ",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sway With Me (with GALXARA)",
-        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "GALXARA",
-          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
-        }
-      ],
-      "duration_ms": 168018,
-      "name": "Sway With Me (with GALXARA)",
-      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 189496,
       "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sway With Me (with GALXARA)",
+        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "GALXARA",
+          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
+        }
+      ],
+      "duration_ms": 168018,
+      "name": "Sway With Me (with GALXARA)",
+      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rock your hips (with Saweetie)",
-        "url": "https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "rock your hips (with Saweetie)",
-      "url": "https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All She Wanna Do",
         "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rock your hips (with Saweetie)",
+        "url": "https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "rock your hips (with Saweetie)",
+      "url": "https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126225,
-      "name": "Talkin' Bout (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ICY",
         "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 171235,
       "name": "Tip Toes (feat. Quavo)",
       "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
     },
     {
       "added_at": null,

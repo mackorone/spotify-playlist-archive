@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Emma-Jean Thackray",
+  "description": "The best from Britain's vibrant scene. Cover: \nAlfa Mist",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 161771,
       "name": "5k",
       "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "album": {
+        "name": "Avoid The Drones & 9 Months",
+        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "9 Months",
+      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
     },
     {
       "album": {
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 276625,
       "name": "Beautiful Sunday",
       "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 252026,
       "name": "Black Hole (feat. Reggie Watts)",
       "url": "https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx"
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 202698,
       "name": "Dreambend",
       "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
@@ -5860,6 +5878,24 @@
       "duration_ms": 280586,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
+    },
+    {
+      "album": {
+        "name": "In the shade.",
+        "url": "https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162150,
+      "name": "In the shade.",
+      "url": "https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu"
     },
     {
       "album": {
@@ -12134,7 +12170,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 193170,
       "name": "Take It All Away",
       "url": "https://open.spotify.com/track/5q1HtBY1oUdokXiErMUaHo"
@@ -12452,6 +12488,28 @@
       "duration_ms": 296607,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
+    },
+    {
+      "album": {
+        "name": "Than All [2]",
+        "url": "https://open.spotify.com/album/3aLRoGblO2UEE6P3GsTHGj"
+      },
+      "artists": [
+        {
+          "name": "wordsofAzia",
+          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
+        },
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Than All [2]",
+      "url": "https://open.spotify.com/track/1IGOYnjQk8I8QRTCKLB93v"
     },
     {
       "album": {
@@ -13418,6 +13476,28 @@
       "duration_ms": 269034,
       "name": "TV Dinners",
       "url": "https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks: Quantic",
+        "url": "https://open.spotify.com/album/2GgclfMMPdemb5gQHvtHiL"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Twang",
+      "url": "https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp"
     },
     {
       "album": {

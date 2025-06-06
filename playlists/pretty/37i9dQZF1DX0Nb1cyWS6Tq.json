@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 903868,
+  "num_followers": 904016,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
     },
     {
-      "added_at": "2025-01-09 23:56:12",
-      "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Deer Stop",
-      "url": "https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Only Theatre of Pain",
@@ -791,6 +775,22 @@
       "duration_ms": 175800,
       "name": "Spiritual Cramp - 1",
       "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
+    },
+    {
+      "added_at": "2025-01-09 23:56:12",
+      "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Deer Stop",
+      "url": "https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Bad Ambient",
-        "url": "https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK"
-      },
-      "artists": [
-        {
-          "name": "Bloody Dead And Sexy",
-          "url": "https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "One by One",
-      "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Only Theatre of Pain",
         "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 134000,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Bad Ambient",
+        "url": "https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK"
+      },
+      "artists": [
+        {
+          "name": "Bloody Dead And Sexy",
+          "url": "https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "One by One",
+      "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
     },
     {
       "added_at": "2025-02-14 20:40:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Za Bakdaz: The Unfinished Opera",
-        "url": "https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5"
-      },
-      "artists": [
-        {
-          "name": "Klaus Nomi",
-          "url": "https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "Valentine's Day",
-      "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "All About Eve",
         "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 265573,
       "name": "Flowers In Our Hair",
       "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Za Bakdaz: The Unfinished Opera",
+        "url": "https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5"
+      },
+      "artists": [
+        {
+          "name": "Klaus Nomi",
+          "url": "https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "Valentine's Day",
+      "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
     }
   ],
   "unique_name": "Dark & Gothic",

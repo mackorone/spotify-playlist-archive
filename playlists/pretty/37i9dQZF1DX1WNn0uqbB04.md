@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,799 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,797 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 23 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 |
 | 24 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 |
 | 25 | [Naufragio \(TANGO\)](https://open.spotify.com/track/2AuZEVc5E1EC7tq7dwseYd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:51 |
-| 26 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
-| 27 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 |
+| 26 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 |
+| 27 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
 | 28 | [Plano Secuencia](https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 4:12 |
 | 29 | [Milonga Sentimental](https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Vivo en Otros Aires](https://open.spotify.com/album/17Ww9QMOZszSmfguKkUKWZ) | 3:53 |
 | 30 | [Будем танцевать \- Listo Pa'Bailar \[1\]](https://open.spotify.com/track/71h9qwhopTUJ1KR7cNdbHo) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Будем танцевать \(Listo Pa'Bailar \[1\]\)](https://open.spotify.com/album/5eB3Ory8Dspo7D8RVhAPiv) | 3:54 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21673,
+  "num_followers": 21678,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABSMQChNahp2K+FZzAC8bgF",
+  "snapshot_id": "aD+MgAAAAABDhxwoQN4Drjvp+8W3zFrd",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jonas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Jonas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voc\u00ea N\u00e3o Imagina",
         "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 318020,
       "name": "Voc\u00ea N\u00e3o Imagina",
       "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jonas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Jonas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
     },
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Desisto",
-        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 299788,
-      "name": "N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -523,38 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Job",
-        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
+        "name": "N\u00e3o Desisto",
+        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         },
         {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        }
-      ],
-      "duration_ms": 324893,
-      "name": "Job",
-      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
-      },
-      "artists": [
-        {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+      "duration_ms": 299788,
+      "name": "N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
     },
     {
       "added_at": null,
@@ -571,6 +551,26 @@
       "duration_ms": 229552,
       "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
       "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Job",
+        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        }
+      ],
+      "duration_ms": 324893,
+      "name": "Job",
+      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irresist\u00edvel Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         },
         {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 275945,
-      "name": "Irresist\u00edvel Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Um Dia",
-        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+        "name": "Irresist\u00edvel Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
       "artists": [
         {
@@ -800,13 +800,13 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         },
         {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Mais Um Dia",
-      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+      "duration_ms": 275945,
+      "name": "Irresist\u00edvel Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
+        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 250636,
+      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
+      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 260342,
       "name": "Mem\u00f3rias (Ao Vivo)",
       "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 250636,
-      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
     },
     {
       "added_at": null,

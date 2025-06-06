@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Camidoh
+> The hottest and recent Ghana party starters\. Cover: Quamina MP
 
-507 songs - 1 day 2 hr 19 min
+509 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 | 2024-08-29 |  |
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2022-12-05 | 2023-09-15 |
 | [Jo 'Dance](https://open.spotify.com/track/4ja7B6pvvdV0GKXzsDZR2C) | [FBS](https://open.spotify.com/artist/1WyucEnZDSMkVAxdhgnlUx), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Jo 'Dance](https://open.spotify.com/album/5hVZsA0LOsty1GlQ1L0Oep) | 2:58 | 2022-11-04 | 2023-07-21 |
-| [Jolè](https://open.spotify.com/track/5dg8HxobnW9a3QH575ms9E) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Jolé](https://open.spotify.com/album/0Ie6XFZcqWNfnYmCA9GanE) | 3:08 | 2025-03-07 |  |
+| [Jolè](https://open.spotify.com/track/5dg8HxobnW9a3QH575ms9E) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Jolé](https://open.spotify.com/album/0Ie6XFZcqWNfnYmCA9GanE) | 3:08 | 2025-03-07 | 2025-06-06 |
 | [Joo](https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9) | [Joo](https://open.spotify.com/album/7kgD44Ey7k9NQDygaUO28K) | 2:43 | 2023-12-15 | 2024-01-16 |
 | [Journey](https://open.spotify.com/track/6wCcutlZ6e5ZqGRHT90gTH) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Journey](https://open.spotify.com/album/6TBtnRStzuKt8He1SfeOlY) | 3:25 | 2024-04-05 | 2024-09-07 |
 | [June July](https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [June July + Pharasee](https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG) | 3:40 | 2024-07-19 | 2024-10-05 |
@@ -417,6 +417,8 @@
 | [Shine](https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3), [Gizmo Original](https://open.spotify.com/artist/6rrtn6So9bRb6mZLTMjGMX) | [Shine](https://open.spotify.com/album/0gmJlZaO0ZJcCF7O3krzXl) | 2:58 | 2024-03-29 | 2024-04-04 |
 | [SHINE](https://open.spotify.com/track/2WkW3W22rauip3BbmDN99e) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [UP & RUNNIN6](https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2) | 5:18 | 2024-10-25 | 2024-11-22 |
 | [Sho \(feat\. Mr Drew\)](https://open.spotify.com/track/0FsTHHgr5E08aW0H7xcuF9) | [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Sho \(feat\. Mr Drew\)](https://open.spotify.com/album/5s7AjDdIfLDiYOBrga9T2f) | 2:13 | 2023-03-30 | 2023-04-15 |
+| [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 | 2025-06-06 |  |
+| [Shut Up! \(Pretense\)](https://open.spotify.com/track/15lWYnbT7m7Fc4d3AsjQD2) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Shut Up! \(Pretense\)](https://open.spotify.com/album/4SjA1IpIv4OEBzrWXx54Iw) | 2:56 | 2025-06-06 |  |
 | [Sika](https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Sika](https://open.spotify.com/album/6zSbBDmwWajDb3VFjqthNi) | 2:55 | 2024-09-06 | 2024-10-13 |
 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 | 2023-08-10 | 2025-03-14 |
 | [Single](https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Single](https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi) | 2:47 | 2022-11-04 | 2024-06-14 |
@@ -478,7 +480,7 @@
 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 | 2022-11-04 | 2023-05-13 |
 | [Walk & Move](https://open.spotify.com/track/7MMmZ6Ja9JmKyFSKZhziPh) | [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT), [Medikal](https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN) | [Walk & Move](https://open.spotify.com/album/5EBU07bXqlYhKWtwmZ4Wa6) | 3:36 | 2023-12-22 | 2024-01-13 |
 | [Wash](https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Wash](https://open.spotify.com/album/5L4ALYCh557ihUVxHiG27b) | 2:43 | 2024-11-15 |  |
-| [WELCOME TO AFRICA](https://open.spotify.com/track/5I9E9qA5slBlMRZDruIsoG) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [WELCOME TO AFRICA](https://open.spotify.com/album/7CNEJPuvPvESDraHQv1o4l) | 3:02 | 2025-04-07 |  |
+| [WELCOME TO AFRICA](https://open.spotify.com/track/5I9E9qA5slBlMRZDruIsoG) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [WELCOME TO AFRICA](https://open.spotify.com/album/7CNEJPuvPvESDraHQv1o4l) | 3:02 | 2025-04-07 | 2025-06-06 |
 | [Whats Up](https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC) | [KWEKU PEE](https://open.spotify.com/artist/1moWgmfzDrNtohnVWhZOmO), [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Whats Up](https://open.spotify.com/album/7JUmIEYeCXGkbCkaU6OJWn) | 2:45 | 2024-04-12 | 2024-04-19 |
 | [Where We From \(feat\. Fameye\)](https://open.spotify.com/track/02Bidj32WF50xWYJHBVoxz) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 2:50 | 2024-04-19 | 2024-06-01 |
 | [Who Say](https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:12 | 2023-09-08 | 2023-12-08 |

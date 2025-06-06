@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Yelitza Cintron
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,288 likes - 70 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,404 likes - 70 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 69 | [Por Amor // Eres Mi Todo](https://open.spotify.com/track/3UwKMKVWGzDnNtpzNRWxbw) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración III](https://open.spotify.com/album/5zb3EC60lfoW1rRvmfoxtU) | 2:40 |
 | 70 | [No Nos Callaremos](https://open.spotify.com/track/3S2RAv4Cd4vcXMZIjtAkU1) | [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Revive \(Spanish Version\)](https://open.spotify.com/album/2FSUcDiAhV0xtPDgznZktw) | 4:27 |
 
-Snapshot ID: `AAAAAHcP7FmDKAOh96tAofFo4tLxOFta`
+Snapshot ID: `aDAUdwAAAAA3BeAY02Ikn9IfrB1rrWJD`

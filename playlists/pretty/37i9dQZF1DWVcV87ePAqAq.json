@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356184,
+  "num_followers": 356175,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Jeg vil ha (Parlamentet)",
-        "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
-      },
-      "artists": [
-        {
-          "name": "Fjellrev",
-          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
-        },
-        {
-          "name": "Roc Meiniac",
-          "url": "https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb"
-        }
-      ],
-      "duration_ms": 183615,
-      "name": "Jeg vil ha (Parlamentet)",
-      "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Bailar (feat. Elvis Crespo) [Radio Edit]",
         "url": "https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 137661,
       "name": "Bailar (feat. Elvis Crespo) - Radio Edit",
       "url": "https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Jeg vil ha (Parlamentet)",
+        "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        },
+        {
+          "name": "Roc Meiniac",
+          "url": "https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb"
+        }
+      ],
+      "duration_ms": 183615,
+      "name": "Jeg vil ha (Parlamentet)",
+      "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "IGEN IGEN IGEN",
+        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "duration_ms": 130153,
+      "name": "IGEN IGEN IGEN",
+      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "ALLA F\u00c5R KOMMA",
         "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 144732,
       "name": "ALLA F\u00c5R KOMMA",
       "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "IGEN IGEN IGEN",
-        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        }
-      ],
-      "duration_ms": 130153,
-      "name": "IGEN IGEN IGEN",
-      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
     },
     {
       "added_at": "2024-06-13 22:00:00",

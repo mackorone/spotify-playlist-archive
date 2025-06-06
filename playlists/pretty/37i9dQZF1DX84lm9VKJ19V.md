@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,496 likes - 65 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,524 likes - 65 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 64 | [Note To Self](https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/71DrmZf8omc52ca1mdoyeF) | 2:17 |
 | 65 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 |
 
-Snapshot ID: `Z7bE9wAAAAC0zBMZgx4HBrxfo5MVjciu`
+Snapshot ID: `Z7bE9wAAAACIQV4b6nx80pYAl1pecmr3`

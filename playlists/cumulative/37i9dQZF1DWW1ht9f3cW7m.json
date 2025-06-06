@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "sweet and fresh emerging indie pop, featuring NoSo \ud83c\udf51",
+  "description": "sweet and fresh emerging indie pop, featuring beaux \ud83c\udf51",
   "name": "peach",
   "tracks": [
     {
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "I Thought We'd Live Here Forever",
+        "url": "https://open.spotify.com/album/5xq3VxjI2Y0hx6mZy89Jkk"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/7Ln3mdryazFwsIsFHc8WBd"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 215258,
       "name": "body to you",
       "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
@@ -1287,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "drive",
+        "url": "https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX"
+      },
+      "artists": [
+        {
+          "name": "jessica-ann",
+          "url": "https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178621,
+      "name": "drive",
+      "url": "https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob"
+    },
+    {
+      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
       },
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 245776,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS"
@@ -1454,10 +1490,28 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 162768,
       "name": "Feel Anything",
       "url": "https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ"
+    },
+    {
+      "album": {
+        "name": "Feeling It All",
+        "url": "https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28"
+      },
+      "artists": [
+        {
+          "name": "Nadia Kadek",
+          "url": "https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200780,
+      "name": "Feeling It All",
+      "url": "https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC"
     },
     {
       "album": {
@@ -1490,7 +1544,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173140,
       "name": "Flink Pike",
       "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
@@ -1911,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "How To Make A Master Peace",
+        "url": "https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125196,
+      "name": "Happiness is Love",
+      "url": "https://open.spotify.com/track/2SN6DCP1clDviUCjDNMyIn"
+    },
+    {
+      "album": {
         "name": "Happy Customers",
         "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
       },
@@ -2124,7 +2196,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 214166,
       "name": "hush!",
       "url": "https://open.spotify.com/track/25WxEpbCml2kL1YJVNVa64"
@@ -2232,7 +2304,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 217960,
       "name": "I Think You Should Know",
       "url": "https://open.spotify.com/track/5iKoTvLByfYQql1WhursGt"
@@ -2254,6 +2326,24 @@
       "duration_ms": 217960,
       "name": "I Think You Should Know",
       "url": "https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm"
+    },
+    {
+      "album": {
+        "name": "I Want To",
+        "url": "https://open.spotify.com/album/24K1DBHx7GjbRss1x0r9qx"
+      },
+      "artists": [
+        {
+          "name": "Christian Alexander",
+          "url": "https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "I Want To",
+      "url": "https://open.spotify.com/track/6Qy3Cu6LR03vzYlR2og4i4"
     },
     {
       "album": {
@@ -2394,7 +2484,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 171650,
       "name": "I\u2019m sad and I\u2019m angry and I\u2019m scared that you hate me",
       "url": "https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3"
@@ -2686,7 +2776,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
@@ -2765,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Made It Happen",
+        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
+      },
+      "artists": [
+        {
+          "name": "Finn Mungo",
+          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Made It Happen",
+      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
+    },
+    {
+      "album": {
         "name": "May I Have This Dance?",
         "url": "https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC"
       },
@@ -2812,7 +2920,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 184933,
       "name": "Mega Circuit",
       "url": "https://open.spotify.com/track/0z2nwqxnRjLUlnp1jI8zmn"
@@ -3378,7 +3486,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 191488,
       "name": "Popstar of Your Dreams",
       "url": "https://open.spotify.com/track/2EXoykjKLC5A4RjKs9gpYx"
@@ -3544,7 +3652,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 269280,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
@@ -3584,6 +3692,24 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "album": {
+        "name": "A Brief Note That Ended Up Being About You",
+        "url": "https://open.spotify.com/album/0BUxeof1k6syKEjh9CarBK"
+      },
+      "artists": [
+        {
+          "name": "Marti Perramon",
+          "url": "https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Running Back",
+      "url": "https://open.spotify.com/track/0oWQnW6ovtZQc3nTSUKBQc"
     },
     {
       "album": {
@@ -3638,6 +3764,24 @@
       "duration_ms": 156165,
       "name": "Same Mouth",
       "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
+    },
+    {
+      "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/39eyEARANqCAq59mwRdT4K"
+      },
+      "artists": [
+        {
+          "name": "Wyldest",
+          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319510,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/61WmkXkc4GLLnrq6npOmPP"
     },
     {
       "album": {
@@ -3800,7 +3944,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 211760,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/2IjG4DhRZ2eOkScfJn7hcm"
@@ -4002,7 +4146,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 187746,
       "name": "STAY WITH ME!",
       "url": "https://open.spotify.com/track/1Dg4KP0l6sPH1IEbS7iRW6"
@@ -4056,7 +4200,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 176973,
       "name": "swimming in pity",
       "url": "https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli"
@@ -4074,7 +4218,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 261586,
       "name": "Teenage Love",
       "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
@@ -4186,6 +4330,24 @@
       "duration_ms": 185077,
       "name": "These Days",
       "url": "https://open.spotify.com/track/1YvOzX0QivcSpoFRMHIX0z"
+    },
+    {
+      "album": {
+        "name": "THIS IS WHERE IM GOING TO DIE",
+        "url": "https://open.spotify.com/album/70TtfhTEdTk6POosIXR077"
+      },
+      "artists": [
+        {
+          "name": "Devon",
+          "url": "https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242110,
+      "name": "THIS IS WHERE IM GOING TO DIE",
+      "url": "https://open.spotify.com/track/4mvU70IlucjB8jZUWzUN0V"
     },
     {
       "album": {
@@ -4326,7 +4488,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 168573,
       "name": "UnHinged",
       "url": "https://open.spotify.com/track/0tnqSQzffOCR3J0bnBUtJa"
@@ -4560,7 +4722,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 192264,
       "name": "when you leave",
       "url": "https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz"

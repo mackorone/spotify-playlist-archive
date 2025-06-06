@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Franglish
+> Le R&B français, nouvelle ère\. Photo : Rsko x Ronisia
 
-485 songs - 23 hr 1 min
+486 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bolingo](https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 3:31 | 2023-07-06 | 2023-09-10 |
 | [Bolingo](https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR) | 3:31 | 2023-09-07 | 2024-03-08 |
 | [Bonnie&Clyde](https://open.spotify.com/track/3PzpCEHGVAfjZPb0jka2L1) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Bonnie&Clyde](https://open.spotify.com/album/4EJCeQzdtExY1ArvP3W5ut) | 2:35 | 2023-12-08 | 2024-04-19 |
-| [Boo](https://open.spotify.com/track/30gq5cFfiTlVFC6OR4pPae) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Boo](https://open.spotify.com/album/6MzkznRUHW8L2ZgI2K6Abf) | 2:45 | 2025-05-08 |  |
+| [Boo](https://open.spotify.com/track/30gq5cFfiTlVFC6OR4pPae) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Boo](https://open.spotify.com/album/6MzkznRUHW8L2ZgI2K6Abf) | 2:45 | 2025-05-08 | 2025-06-06 |
 | [BOSS](https://open.spotify.com/track/1h8oSqs9EA6U4C86WCEpbg) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [BOSS/WA](https://open.spotify.com/album/6O0DXp4qNBoB1tOkS5BuK3) | 1:56 | 2025-01-09 | 2025-02-14 |
 | [Bottega](https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Bottega](https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv) | 2:58 | 2024-02-22 | 2024-06-28 |
 | [Bourbier](https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [Prémices](https://open.spotify.com/album/0923F8kfzpouUmutVzceuH) | 3:06 | 2022-11-24 | 2022-12-16 |
@@ -283,7 +283,7 @@
 | [Mayday](https://open.spotify.com/track/50SWP0R1mLdWfCwPaZP8JB) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:51 | 2024-05-02 | 2024-06-07 |
 | [Mayday \- Remix](https://open.spotify.com/track/3vq92oAXoKVbrcyTUkJUYW) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Mayday \(Remix\)](https://open.spotify.com/album/1m2o6w3EHBT57zxEoh6ej1) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd) | 2:24 | 2024-06-13 | 2024-09-20 |
-| [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 | 2024-04-11 |  |
+| [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 | 2024-04-11 | 2025-06-06 |
 | [Message](https://open.spotify.com/track/0QU4iEkvqUKyh0vFfLekxC) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Message](https://open.spotify.com/album/3IE0dP0bSQwjJ3wmrAm1Mv) | 2:03 | 2024-11-14 | 2024-12-20 |
 | [Meu Amor](https://open.spotify.com/track/41KOH6rcHrpsDqskZrXQKc) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Meu Amor](https://open.spotify.com/album/3GWU3iJPL0Vf8cHe8wVufP) | 3:25 | 2025-03-20 | 2025-05-02 |
 | [Mi amor](https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [PERLE NOIRE](https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h) | 2:33 | 2022-11-24 | 2023-01-20 |
@@ -432,6 +432,7 @@
 | [Step By Step](https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Step By Step](https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA) | 2:51 | 2023-08-03 | 2023-10-06 |
 | [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-08-22 | 2024-10-18 |
 | [SUPERSTAR](https://open.spotify.com/track/4FEpnieqYKr3Eedt3ifzAe) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [Superstar](https://open.spotify.com/album/4m7HrqT7ApfumHvoDJS0PO) | 3:17 | 2025-01-16 | 2025-05-09 |
+| [T'as tout gâché](https://open.spotify.com/track/07wJOmDCsdiy1pzX55hLC5) | [YNV](https://open.spotify.com/artist/1WGh6BLnwr51kSSHAEOSKp) | [T'as tout gâché](https://open.spotify.com/album/51lSOBvt7kL73ONqQuvqlD) | 2:51 | 2025-06-05 |  |
 | [T'avais raison](https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H) | [NL](https://open.spotify.com/artist/44CpDft3h6UMOzq06YrHFO), [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [T'avais raison](https://open.spotify.com/album/41zHFFsPyr6i85IP4LKbYQ) | 2:42 | 2023-04-27 | 2023-06-16 |
 | [T'es à moi](https://open.spotify.com/track/70t7VykkgweGHW1RCIkRkD) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV), [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [T'es à moi](https://open.spotify.com/album/7mzRRkMF16xxVEOpoT5hIs) | 3:39 | 2024-12-05 | 2025-01-31 |
 | [T'essaies Pas](https://open.spotify.com/track/2Mwl6yoADqOaRCf7aiYXmL) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [T'essaies Pas](https://open.spotify.com/album/5iHayQ10U75yUExpuf05xC) | 2:44 | 2024-10-24 | 2024-11-22 |

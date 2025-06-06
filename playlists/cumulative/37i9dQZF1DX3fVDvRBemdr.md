@@ -2,9 +2,9 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Mart Hoogkamer
+> Wekelijkse update met Hollands en volks\. Cover: Jan Smit
 
-327 songs - 16 hr 1 min
+332 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [De Waarheid](https://open.spotify.com/track/0c6DXOYQ1fWmj5ZlhUyysi) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [De Waarheid](https://open.spotify.com/album/0CgfIZH4LTUiuQe8I5dm1e) | 3:02 | 2024-10-18 | 2024-12-13 |
 | [De Wereld Aan](https://open.spotify.com/track/2beXuG1FeDAxnytU87jr54) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [De Wereld Aan](https://open.spotify.com/album/4NZpsdMj7uwxMYx7VhwgRY) | 3:07 | 2025-05-22 |  |
 | [De Zuipschuit](https://open.spotify.com/track/5Hf3Nj5I5p89JDzVre0f6F) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [De Zuipschuit](https://open.spotify.com/album/6XFYnlzinUjZybuV8KfOUL) | 3:10 | 2025-03-07 | 2025-05-09 |
+| [Deed het pijn toen jij uit de hemel viel](https://open.spotify.com/track/5yO23LWwJxv2QUJeuuEk9E) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Deed het pijn toen jij uit de hemel viel](https://open.spotify.com/album/4TD4aXHQTCxqareglZKtWu) | 2:57 | 2025-06-05 |  |
 | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2) | 2:47 | 2025-02-20 |  |
 | [Dief In De Nacht](https://open.spotify.com/track/6HY6WLiVgGg5uBGZDcmBtg) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dief In De Nacht](https://open.spotify.com/album/0z73vLb2gCA3auTRAMclej) | 2:50 | 2024-11-21 | 2025-03-21 |
 | [Dit Gaat Over jou](https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Dit Gaat over jou](https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz) | 2:52 | 2024-09-19 | 2025-02-21 |
@@ -126,8 +127,10 @@
 | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/track/2njW15Fh9UeTzEFof6FTVY) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Ik Heb Het Altijd Al Geweten](https://open.spotify.com/album/1eojJp3XzyKFnRuCRKeNYZ) | 3:04 | 2025-01-23 | 2025-05-09 |
 | [Ik heb me eventjes flink laten gaan](https://open.spotify.com/track/7GVIsuE4FdvG1yF27LVko5) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Ik heb me eventjes flink laten gaan](https://open.spotify.com/album/2BXjM0r6UJxtuy5fVtRYUn) | 3:02 | 2024-09-05 | 2025-01-11 |
 | [Ik Hou D'r Van](https://open.spotify.com/track/5dzLiaSgG4CtbwRSNnGY1S) | [Louisa Janssen](https://open.spotify.com/artist/3lZ9OQfbkyLYjUId88yLCf) | [Ik Hou D'r Van](https://open.spotify.com/album/0AO6nK5WlTJtKbpc7xzq3n) | 2:46 | 2025-05-22 |  |
+| [Ik Kan Je Niet Peilen](https://open.spotify.com/track/3eh8TyrkABaQiQleoBk7H0) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Ik Kan Je Niet Peilen](https://open.spotify.com/album/5AHVgSQSFBnVQCeJwkFyVB) | 2:43 | 2025-06-05 |  |
 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 | 2024-11-04 | 2025-03-08 |
 | [Ik Kom Van Ver](https://open.spotify.com/track/6hBGCXAPeUiey8lZbUh6Xb) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Ik Kom Van Ver](https://open.spotify.com/album/42ayaYI1ibzsRSt2gI8jXt) | 3:21 | 2024-11-04 | 2025-02-28 |
+| [Ik Koop Het Geluk](https://open.spotify.com/track/4fPRYGhZA7Ceo16gu4uA61) | [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [Ik Koop Het Geluk](https://open.spotify.com/album/48UveXWbQrj7fwn5wVeL1m) | 2:25 | 2025-06-05 |  |
 | [Ik laat je niet alleen](https://open.spotify.com/track/2CcIbOJhD8b0sPcs7UgM98) | [Danilo Wattez](https://open.spotify.com/artist/2ih0o0T3ywRy5V3aIGZDqh) | [Ik laat je niet alleen](https://open.spotify.com/album/0VEuurpRcGjpg86YkMXaAx) | 2:40 | 2024-12-12 | 2025-03-21 |
 | [Ik leef m'n eigen leven](https://open.spotify.com/track/3yqLmwAPu7wJRC6vItlTru) | [Franz Joostink](https://open.spotify.com/artist/0qBINgFpeUdkvhBIKmD3O0) | [Ik leef m'n eigen leven](https://open.spotify.com/album/7bJBCxlV2dGs2e5d1LsAzN) | 3:25 | 2025-03-20 |  |
 | [Ik Leef M'n Eigen Leven](https://open.spotify.com/track/78NbJ4YI54ou05zr9YPpOP) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn), [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Ik Leef M'n Eigen Leven](https://open.spotify.com/album/73hoU7EUbLVKfgiO8ZRD42) | 3:26 | 2024-08-29 | 2025-02-08 |
@@ -212,6 +215,7 @@
 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 | 2025-05-29 |  |
 | [Met Tranen In Je Ogen Ben Je Blind](https://open.spotify.com/track/5j9LzSPY6lNn0HCT5eLEZK) | [William Burg](https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y) | [Met Tranen In Je Ogen Ben Je Blind](https://open.spotify.com/album/11F42g72XVoQijUSnQ4tiB) | 3:02 | 2024-09-19 | 2025-02-21 |
 | [Mexico](https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mexico](https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo) | 3:26 | 2024-07-25 | 2024-10-19 |
+| [Mijn Vader](https://open.spotify.com/track/47i9ElelaZpAmtxvl8rUDr) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Mijn Vader](https://open.spotify.com/album/0J5t9pYHLzRl93fcUpp9vY) | 3:42 | 2025-06-05 |  |
 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 | 2025-02-27 |  |
 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 | 2024-07-11 | 2024-12-13 |
 | [My Boy / Mijn Zoon](https://open.spotify.com/track/5oY2F1gLkA5sbbY0BWx1ne) | [Bouke](https://open.spotify.com/artist/47jGPDwl3tZIKpBbn4eWtu), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [My Boy / Mijn Zoon](https://open.spotify.com/album/19d1Ss80eH1I0bTavBkaTz) | 3:36 | 2025-02-13 | 2025-05-02 |
@@ -268,6 +272,7 @@
 | [Tot In De Late Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [Wendy](https://open.spotify.com/artist/60MqrvbaYDybtfVD9J0HrR) | [Tot In De Late Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 | 2024-11-28 | 2025-02-28 |
 | [Tranen van verdriet](https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe) | [Aukje Fijn](https://open.spotify.com/artist/24F7Q3t78T3UiunGmInQzG) | [Tranen van verdriet](https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq) | 3:12 | 2024-10-18 | 2024-11-29 |
 | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI) | 2:59 | 2024-06-13 | 2024-10-04 |
+| [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2025-06-05 |  |
 | [Van Brabant naar Bordeaux](https://open.spotify.com/track/6jSvbOJNCvgeTBQS0LVlRk) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9) | [Van Brabant naar Bordeaux](https://open.spotify.com/album/3tAR71Sp3TMaRyksREFpl6) | 3:02 | 2024-06-13 | 2024-07-12 |
 | [Van Chic Naar Freak](https://open.spotify.com/track/6nX2CkbWh8CCisdL8e7IHo) | [Bart Keizers](https://open.spotify.com/artist/0MOp25FG8EsRZimmDhkDli) | [Van Chic Naar Freak](https://open.spotify.com/album/5pVDgJty2rsMRKSz8UKd9D) | 2:54 | 2025-02-27 | 2025-04-12 |
 | [Van Den Haag Naar Amsterdam](https://open.spotify.com/track/34AtNp9YdYmwZaKv44tcxB) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Van Den Haag Naar Amsterdam](https://open.spotify.com/album/4a6MhTgIG7UBuzizpY0UlS) | 2:07 | 2025-05-08 |  |

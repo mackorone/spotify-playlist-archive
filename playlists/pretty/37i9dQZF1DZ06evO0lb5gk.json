@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 141093,
+  "num_followers": 141118,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACMI1LmySvwBJfS36a8RrTd",
+  "snapshot_id": "aD+MgAAAAAABUA14oriPQOa21t1WyOkG",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 297402,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
+      "duration_ms": 257800,
+      "name": "Liquid Fire",
+      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 297402,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L'Enfant Sauvage (Special Edition)",
         "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
@@ -524,9 +540,25 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Liquid Fire",
-      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
+      "duration_ms": 399320,
+      "name": "Explosia",
+      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The link",
+        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 275053,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/1RDLNfVzB0CbmAtBaj0VCM"
     },
     {
       "added_at": null,
@@ -556,25 +588,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 275053,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/1RDLNfVzB0CbmAtBaj0VCM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 399320,
-      "name": "Explosia",
-      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
+      "duration_ms": 279826,
+      "name": "Embrace the world",
+      "url": "https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp"
     },
     {
       "added_at": null,
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 279826,
-      "name": "Embrace the world",
-      "url": "https://open.spotify.com/track/6hM9jLX4jTNBG6FA7PQvOp"
+      "duration_ms": 238146,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo"
     },
     {
       "added_at": null,
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Indians",
-      "url": "https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo"
+      "duration_ms": 145173,
+      "name": "Wisdom comes",
+      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 270225,
       "name": "Lizard Skin",
       "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The link",
-        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Wisdom comes",
-      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
     },
     {
       "added_at": null,

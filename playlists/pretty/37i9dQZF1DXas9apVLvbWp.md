@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,230 likes - 30 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,231 likes - 30 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [My Favorite Things](https://open.spotify.com/track/6VCkpn7KRYda1l5sSX0Skc) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Purest Form](https://open.spotify.com/album/0h8hdTiQpwZ49ZKrPo3P2j) | 7:32 |
 | 30 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 |
 
-Snapshot ID: `Z8kPtAAAAACp0U2MiWES0UoR0Em4q/tv`
+Snapshot ID: `Z8kPtAAAAAAHR2/yeUP2zI3L0hqKs6yW`

@@ -1,6 +1,6 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 31063,
+  "num_followers": 31062,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Somebody Loan Me A Dime",
         "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ"
     },
     {
       "added_at": "2020-10-21 20:41:20",

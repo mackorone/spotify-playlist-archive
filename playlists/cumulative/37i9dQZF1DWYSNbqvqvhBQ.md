@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Lola Young
 
-649 songs - 1 day 13 hr 48 min
+653 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Feeling Alright](https://open.spotify.com/track/2ImmcMcg2xlKwKXIzinlKK) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Feeling Alright](https://open.spotify.com/album/4yKCw9bersno18GJdoQDpI) | 3:37 | 2023-10-27 | 2024-04-26 |
 | [Feeling Alright](https://open.spotify.com/track/1O4jnAcK94eYtd9z7GOUnN) | [Ruud Houweling](https://open.spotify.com/artist/2IONeTGcpMPwB3v6CCyLQ8) | [Feeling Alright](https://open.spotify.com/album/2seQvDlWDr2cc5E8y5FX8c) | 4:18 | 2023-07-06 | 2023-09-22 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-20 | 2024-10-15 |
+| [Fight Another Day](https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/3cMI3AA8VJ0kpooAY6v4ga) | 3:51 | 2025-06-05 |  |
 | [Find A Way \(feat\. Suli Breaks\)](https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Find A Way \(feat\. Suli Breaks\)](https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW) | 3:02 | 2024-07-18 | 2024-10-11 |
 | [First In Line](https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [First In Line](https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6) | 3:06 | 2025-03-20 |  |
 | [Fix What You Didn't Break](https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Fix What You Didn't Break](https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr) | 3:21 | 2024-12-20 | 2025-04-18 |
@@ -198,6 +199,7 @@
 | [Give or Take a Few](https://open.spotify.com/track/5FzCz6sNG38TC722559eAl) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Give or Take a Few](https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn) | 3:33 | 2024-12-20 | 2025-02-28 |
 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2024-07-01 | 2024-11-29 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 | 2025-04-11 |  |
+| [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 |  |
 | [Goldmine](https://open.spotify.com/track/56Fmxl7Tnyz7kcytNDmxF3) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Goldmine](https://open.spotify.com/album/2iKWtdsNJE2IBNXAWPvbWa) | 3:15 | 2023-02-23 | 2023-03-18 |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2024-11-14 | 2025-01-24 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-25 | 2024-06-21 |
@@ -436,6 +438,7 @@
 | [Pocket](https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Pocket](https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP) | 3:25 | 2024-10-08 | 2024-11-08 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2023-02-23 | 2023-05-19 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-27 | 2024-08-30 |
+| [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 | 2025-06-05 |  |
 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 | 2024-05-16 | 2024-09-06 |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-02-23 | 2023-05-26 |
 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 | 2023-07-14 | 2023-10-28 |
@@ -491,6 +494,7 @@
 | [Something About It](https://open.spotify.com/track/15gETsZNlhC57aGr8v9bWL) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/2Mo9JLQoIwowlNdx171AUH) | 3:20 | 2024-02-08 | 2024-04-19 |
 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 | 2024-01-25 | 2024-06-01 |
 | [Something Better](https://open.spotify.com/track/1pOT0avfCCTWJhreZjoHFm) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Something Better](https://open.spotify.com/album/19ynUn8XBbyJEhspOGhNrB) | 3:31 | 2024-05-24 | 2024-07-30 |
+| [Something Over Nothing](https://open.spotify.com/track/5Y9wKu4rpLD7tNsLbmNlz7) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Something Over Nothing](https://open.spotify.com/album/2pOY3OgmYl5KRShgb9r2Pu) | 3:03 | 2025-06-05 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2023-02-23 | 2023-03-11 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 | 2023-07-21 |
 | [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-04-18 | 2024-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK?si=oYSYzsfNRsSn7In5zvFsew"> threetwenty</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,094 likes - 461 songs - 23 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,116 likes - 461 songs - 23 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

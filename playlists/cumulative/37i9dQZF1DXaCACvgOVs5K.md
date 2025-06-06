@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-406 songs - 1 day 0 hr 14 min
+407 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Back In The Dance](https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Back In The Dance](https://open.spotify.com/album/52CE1b4k3DfEpujnmgrim2) | 3:26 | 2022-08-26 | 2022-10-01 |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-04-17 |  |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-04-17 |  |
+| [Bad Habit \- Clüb De Combat Remix](https://open.spotify.com/track/1PNaFj8n0qWDGb1VyIVC6D) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [Lisa Millett](https://open.spotify.com/artist/5zrJTNerdQM2zcG6G2mCo5), [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Bad Habit \(Clüb De Combat Remix\)](https://open.spotify.com/album/4qUmkVbtxvTPeT7mXp29cC) | 3:45 | 2025-05-29 |  |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 |  |
 | [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 | 2025-04-24 |  |
 | [Ballo](https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Ballo](https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK) | 3:11 | 2024-07-26 | 2024-09-02 |
@@ -93,7 +94,7 @@
 | [Deep End \- SIDEPIECE Remix](https://open.spotify.com/track/5WNa0eaGNwQ1ZXTHVlULpd) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Deep End \(SIDEPIECE Remix\)](https://open.spotify.com/album/1s2I2Ix6ZPDusSo7fzNwlR) | 3:16 | 2023-10-19 | 2024-04-20 |
 | [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 | 2022-08-26 | 2024-04-20 |
 | [Desire](https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Desire](https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY) | 2:51 | 2024-04-19 | 2024-06-28 |
-| [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-04-17 |  |
+| [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-04-17 | 2025-06-06 |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-04-04 | 2025-04-18 |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2025-04-17 |  |
 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 | 2025-04-17 |  |

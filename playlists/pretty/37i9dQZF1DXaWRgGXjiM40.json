@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 955504,
+  "num_followers": 955503,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-05-30 05:01:45",
       "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Medo Bobo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2025-05-30 05:01:45",
+      "album": {
         "name": "Dois Carentes",
         "url": "https://open.spotify.com/album/2HbdCYON9BgNbsiLsWQHm8"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 156836,
       "name": "Dois Carentes",
       "url": "https://open.spotify.com/track/5sHN3t3NnoC2wbLigX3YWI"
-    },
-    {
-      "added_at": "2025-05-30 05:01:45",
-      "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Medo Bobo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
     },
     {
       "added_at": "2025-05-30 05:01:45",
@@ -507,38 +507,22 @@
     {
       "added_at": "2025-05-30 05:01:45",
       "album": {
-        "name": "Tem Moda Pra Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+        "name": "N\u00e3o Fala N\u00e3o pra Mim",
+        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
         },
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 161597,
-      "name": "M\u00e1gica - Live",
-      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
-    },
-    {
-      "added_at": "2025-05-30 05:01:45",
-      "album": {
-        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
-        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
-      },
-      "artists": [
-        {
-          "name": "Victor & Leo",
-          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Lembran\u00e7as de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
+      "duration_ms": 196613,
+      "name": "N\u00e3o Fala N\u00e3o pra Mim",
+      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
     },
     {
       "added_at": "2025-05-30 05:01:45",
@@ -559,6 +543,26 @@
       "duration_ms": 163518,
       "name": "C\u00ea Tem o Molho",
       "url": "https://open.spotify.com/track/0QdIRmcmAgBYoUtReHRrbC"
+    },
+    {
+      "added_at": "2025-05-30 05:01:45",
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 161597,
+      "name": "M\u00e1gica - Live",
+      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
     },
     {
       "added_at": "2025-05-30 05:01:45",
@@ -595,22 +599,18 @@
     {
       "added_at": "2025-05-30 05:01:45",
       "album": {
-        "name": "N\u00e3o Fala N\u00e3o pra Mim",
-        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
+        "name": "Victor & Leo Ao Vivo Em Uberl\u00e2ndia",
+        "url": "https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC"
       },
       "artists": [
         {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+          "name": "Victor & Leo",
+          "url": "https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr"
         }
       ],
-      "duration_ms": 196613,
-      "name": "N\u00e3o Fala N\u00e3o pra Mim",
-      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
+      "duration_ms": 211746,
+      "name": "Lembran\u00e7as de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8"
     },
     {
       "added_at": "2025-05-30 05:01:45",
@@ -647,6 +647,26 @@
     {
       "added_at": "2025-05-30 05:01:45",
       "album": {
+        "name": "Tchau Brigado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Tchau Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
+    },
+    {
+      "added_at": "2025-05-30 05:01:45",
+      "album": {
         "name": "Intensamente Hoje!",
         "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 174863,
       "name": "S de Saudade",
       "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2025-05-30 05:01:45",
-      "album": {
-        "name": "Tchau Brigado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tchau Brigado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
     },
     {
       "added_at": "2025-05-30 05:01:45",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-05-30 05:01:45",
       "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+    },
+    {
+      "added_at": "2025-05-30 05:01:45",
+      "album": {
         "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 201440,
       "name": "Deixa Eu Te Amar - Ao Vivo",
       "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
-    },
-    {
-      "added_at": "2025-05-30 05:01:45",
-      "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

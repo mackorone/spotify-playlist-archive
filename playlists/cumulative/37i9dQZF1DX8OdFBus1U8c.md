@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  GOOKU, JOKER 390P, AZWIN
 
-330 songs - 16 hr 58 min
+331 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 | 2024-12-17 |  |
 | [ABCD](https://open.spotify.com/track/0N1JEwXlDAcwwN7kLGgeOc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [ABCD](https://open.spotify.com/album/24EIh5nGjpZhau23E1rNBo) | 2:55 | 2023-08-21 | 2024-02-13 |
 | [Abida](https://open.spotify.com/track/5WZRTshmGbiIIGCxv2gQEu) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru), [BL▼CK](https://open.spotify.com/artist/6MJL8Jz291Z4WpMxjgioY1), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Abida](https://open.spotify.com/album/4JXXk84jaGX9uM1BQcMAf3) | 3:31 | 2025-05-16 |  |
-| [Adithatt](https://open.spotify.com/track/48kTjVLdR8P0uNBajPDbFG) | [Who am i.?](https://open.spotify.com/artist/2Z0DyNhHHSbpAmW8QpHAEw) | [Adithatt](https://open.spotify.com/album/6TFRw2ROX0ayXXUu9Ujw3a) | 2:39 | 2025-04-30 |  |
+| [Adithatt](https://open.spotify.com/track/48kTjVLdR8P0uNBajPDbFG) | [Who am i.?](https://open.spotify.com/artist/2Z0DyNhHHSbpAmW8QpHAEw) | [Adithatt](https://open.spotify.com/album/6TFRw2ROX0ayXXUu9Ujw3a) | 2:39 | 2025-04-30 | 2025-06-06 |
 | [Adithattu Cypher](https://open.spotify.com/track/69OAdLAS2tDAuCY0EiFRFA) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Kavo](https://open.spotify.com/artist/03YNVy4UYUPI0nw7J3W0Q1), [Ibnu Kopz](https://open.spotify.com/artist/39lndWMB0tQuIN68ayAl0T), [Thamburaan](https://open.spotify.com/artist/1KRhxlUbVmOCVzM7d7zdj7) | [Adithattu Cypher](https://open.spotify.com/album/7dd9TGPUhvcAMNIO8sjo9s) | 4:45 | 2022-06-23 | 2023-07-24 |
 | [Alavalaathi](https://open.spotify.com/track/0mHK1GiiXaadiqp3qEnACQ) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Alavalaathi](https://open.spotify.com/album/4DKFD2f5vHDsr4HqejZaA1) | 2:14 | 2025-05-22 |  |
 | [All Divine](https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf), [Steve Knight](https://open.spotify.com/artist/6G5M4NdoEdfFdkZtcE0Ntg) | [All Divine](https://open.spotify.com/album/49ficLfuUA7y7Uczvf7IzQ) | 4:04 | 2022-10-25 | 2024-04-23 |
@@ -132,6 +132,7 @@
 | [Kariveppila Akkiyo](https://open.spotify.com/track/4GCH2g0Nbjx5s0BzaWP4kS) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Kariveppila Akkiyo](https://open.spotify.com/album/0c7LB2klX4ce8oWI33lAbo) | 2:35 | 2022-06-23 | 2025-02-14 |
 | [Karma](https://open.spotify.com/track/6M7FUgeiHnP9ffTn91YmDp) | [Abhi](https://open.spotify.com/artist/5BjDsxNexoimmgWKNhJFjy), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Karma](https://open.spotify.com/album/0szInNss6JKceU29E6lIOh) | 3:12 | 2024-03-19 | 2024-05-22 |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-07-13 | 2023-07-24 |
+| [Kashtappad](https://open.spotify.com/track/46RB0VoTU5BR1EhKgCSdmX) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [CJ J](https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [Kashtappad](https://open.spotify.com/album/3VEHKTr9Y9jeZCMbuA3ZE7) | 3:47 | 2025-06-05 |  |
 | [Kathare Kathare](https://open.spotify.com/track/6h6HZq8FjOZLdlRdgDenf3) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Girish Nakod](https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2) | [Kathare Kathare](https://open.spotify.com/album/2N9rb8xjUfPG7z3FboJMmn) | 4:13 | 2022-06-23 | 2023-07-24 |
 | [Katta Karupp](https://open.spotify.com/track/1j9N00nPSML4YIwzHNOE7K) | [Oorali Martin](https://open.spotify.com/artist/7w13cGJvLZGWrYnobt6NoY), [D Vink](https://open.spotify.com/artist/5nYuk5uXurh6ZsLFnkyTC7) | [Sambhavam Arambham](https://open.spotify.com/album/1g1YXql3twHThG5AgnWARo) | 2:16 | 2025-05-23 |  |
 | [Kavala Talk](https://open.spotify.com/track/3dRAOp5MMKxMQdRu6JneKk) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Kavala Talk](https://open.spotify.com/album/1h0RwoBq2MMkLC2TniI4nx) | 3:10 | 2025-03-07 |  |

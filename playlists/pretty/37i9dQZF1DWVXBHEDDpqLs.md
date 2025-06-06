@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,518 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,557 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Honey](https://open.spotify.com/track/4bCKraA1bZbE9R61JKezTv) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc) | 4:22 |
 | 100 | ['ever do you want](https://open.spotify.com/track/0dYg8io1fham8xmfuoizt4) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | ['ever do you want](https://open.spotify.com/album/2QNw9JDC66ZzuGgkfb4mCp) | 3:50 |
 
-Snapshot ID: `aD4qqAAAAAAJnF033hSmX5jj8RrbRzqu`
+Snapshot ID: `aD4qqAAAAABisLNNHWgdcVqbI9eMolDu`

@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 74 | [Commotion](https://open.spotify.com/track/1qP5ew2O79ZOl7AoDPh1Gd) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:33 |
 | 75 | [Awful](https://open.spotify.com/track/1i6PNnSKk41fg2U8d7u5oM) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [LaZy, but i have goals](https://open.spotify.com/album/4R0jNcKqUt3E0O7JR6lY7T) | 3:32 |
 | 76 | [Sucka Free \(feat\. Lil Wayne\)](https://open.spotify.com/track/1XSzL8alF1crZrbhqE7FHo) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sucka Free \(feat\. Lil Wayne\)](https://open.spotify.com/album/4baJBxzgoURKnrjbobrIIh) | 3:32 |
-| 77 | [Daddy](https://open.spotify.com/track/6bgq7OuNh9md4uG3OxsNKP) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:44 |
-| 78 | [Dirty Dancin](https://open.spotify.com/track/4LmIZmcObko4di4KTtPMmt) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [FAR FROM GAZ](https://open.spotify.com/album/2Iuf2lSmLhXnwrO7NDDH9e) | 2:27 |
+| 77 | [Dirty Dancin](https://open.spotify.com/track/4LmIZmcObko4di4KTtPMmt) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [FAR FROM GAZ](https://open.spotify.com/album/2Iuf2lSmLhXnwrO7NDDH9e) | 2:27 |
+| 78 | [Daddy](https://open.spotify.com/track/6bgq7OuNh9md4uG3OxsNKP) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:44 |
 | 79 | [Get What You Want \(feat\. PnB Rock\)](https://open.spotify.com/track/5ggVEuDcRLtHRno8hilkal) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 3:06 |
 | 80 | [Alone](https://open.spotify.com/track/678hBD7LlMNofbRYXGwt7E) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:01 |
 | 81 | [Sleep Sleep](https://open.spotify.com/track/01D1n078PQvuRKcLkBOwD6) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:51 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 112 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 113 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AbzRSAAAAACrhAlBel2Wh2YvxKATOzNx`
+Snapshot ID: `AbzW6AAAAADyROPAaFDNjfHX5TlSAH0W`

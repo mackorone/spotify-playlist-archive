@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 98500,
       "name": "Battery Theme",
       "url": "https://open.spotify.com/track/6bbvGxJtUBrR9YNEAtFH5a"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 75500,
       "name": "Beat of Master - Instrumental",
       "url": "https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 65828,
       "name": "Classroom Araajagam",
       "url": "https://open.spotify.com/track/74bZ7GvsEVWt6OT92Vjs0y"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 101089,
       "name": "Gethu",
       "url": "https://open.spotify.com/track/1qUfzjWpd1OW7AJNG1bLce"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 40223,
       "name": "Glimpse of Antony Das (From \"Leo\")",
       "url": "https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 42782,
       "name": "Glimpse of Harold Das (From \"Leo\")",
       "url": "https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 130972,
       "name": "Interval Fight - Background Score",
       "url": "https://open.spotify.com/track/58rVdRJUkvtupU7J3UIrvB"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 62337,
       "name": "Jailer Theme - Instrumental",
       "url": "https://open.spotify.com/track/53Y7ZNZ6p26V460x89B70A"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 127215,
       "name": "Jawan Prevue Theme",
       "url": "https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 43333,
       "name": "Kabali Whistle Theme",
       "url": "https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 92250,
       "name": "Master the Blaster - Background Score",
       "url": "https://open.spotify.com/track/4BRWG0mQqol30OG5xLIplN"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 56718,
       "name": "Raayan Rules",
       "url": "https://open.spotify.com/track/1dAe59cjQvKeoO1cfHMAsE"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 60000,
       "name": "Sai Pallavi's Intro",
       "url": "https://open.spotify.com/track/5G4SmwIhmyAXvPjb7mM5kc"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 66933,
       "name": "Theme Music 1",
       "url": "https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA"
@@ -3550,6 +3550,24 @@
       "duration_ms": 152418,
       "name": "Trigger (Theme Song) - From \"Trigger\"",
       "url": "https://open.spotify.com/track/2ToXOcfS1YgHc3h9YAogP5"
+    },
+    {
+      "album": {
+        "name": "Twin Fish Walter (From \"Benz\")",
+        "url": "https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167541,
+      "name": "Twin Fish Walter - From \"Benz\"",
+      "url": "https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva"
     },
     {
       "album": {
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 112285,
       "name": "X Force (Teaser Theme) [From \"Mr.X\"]",
       "url": "https://open.spotify.com/track/1iaKOrlESoLCja0v2HeqMH"

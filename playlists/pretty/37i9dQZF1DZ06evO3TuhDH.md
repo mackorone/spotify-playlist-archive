@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,385 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,389 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 33 | [Heart Don't Lie](https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Heart Don't Lie](https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev) | 2:32 |
 | 34 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
 | 35 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 |
-| 36 | [Everything BoZ \(feat\. Coi Leray\) \- Slowed Down](https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r) | [10X](https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Everything BoZ \(feat\. Coi Leray\) \[Slowed Down\]](https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre) | 3:51 |
-| 37 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
+| 36 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
+| 37 | [Everything BoZ \(feat\. Coi Leray\) \- Slowed Down](https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r) | [10X](https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Everything BoZ \(feat\. Coi Leray\) \[Slowed Down\]](https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre) | 3:51 |
 | 38 | [Push Start \(with Coi Leray feat\. 42 Dugg\)](https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:05 |
 | 39 | [Hold Me Down \(42 Dugg, Coi Leray\)](https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Hold Me Down](https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm) | 2:50 |
 | 40 | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 | 50 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 
-Snapshot ID: `aD47AAAAAADA2k5RRumNd5nWHSZXRAQw`
+Snapshot ID: `aD+MgAAAAAADny72oPX40d0JXX8ADLyZ`

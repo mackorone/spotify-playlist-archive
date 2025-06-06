@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-246 songs - 14 hr 3 min
+247 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-05-19 | 2024-04-05 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-05-19 | 2024-02-01 |
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-07-18 | 2023-10-25 |
-| [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2025-05-28 |  |
+| [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2025-05-28 | 2025-06-06 |
 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 | 2024-07-05 |  |
 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 | 2024-05-23 | 2024-09-20 |
 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-09 |  |
@@ -108,6 +108,7 @@
 | [He Goes Down](https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [He Goes Down](https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr) | 2:38 | 2022-07-18 | 2023-05-20 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-07-18 | 2023-10-09 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-10-06 | 2024-04-10 |
+| [HITZ 4 THE HOOD](https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [HITZ 4 THE HOOD](https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R) | 2:21 | 2025-05-29 |  |
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-05-24 | 2024-05-28 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-07-18 | 2023-09-22 |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-26 | 2025-02-07 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
+> Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,754 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,242 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Nilaavil Ellame](https://open.spotify.com/track/09KdVJCUon1OvPmST9uJKt) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK) | [Aanandam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LclXEFqKkhF2S481SsAWs) | 3:17 |
 | 50 | [Alif](https://open.spotify.com/track/0BdsMf23c1amsuZxqqFLI0) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Alif](https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU) | 3:01 |
 
-Snapshot ID: `aD6tBQAAAADs3P2z/eoPnSBx7XWUQFqB`
+Snapshot ID: `aEFD/QAAAAA6etpzIDB4zg7AWrgT9A6s`

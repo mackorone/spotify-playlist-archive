@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Jkyl with the FLIP!!",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring okgiorgio",
   "name": "creamy",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 173142,
       "name": "Afterimage - Jersey Remix",
       "url": "https://open.spotify.com/track/1XVxlsX50F0VVSRVyYaK7h"
@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 288701,
       "name": "CHROMA 009 KR36",
       "url": "https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 145116,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM"
@@ -6026,7 +6026,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 145371,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5UImj5JUImGIBK3lKW5g9E"
@@ -7677,6 +7677,24 @@
     },
     {
       "album": {
+        "name": "GOOD TIME GIRL",
+        "url": "https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152900,
+      "name": "GOOD TIME GIRL",
+      "url": "https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e"
+    },
+    {
+      "album": {
         "name": "Gorgeous (with Reo Cragun)",
         "url": "https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs"
       },
@@ -7884,7 +7902,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 185835,
       "name": "headache",
       "url": "https://open.spotify.com/track/7hPSxZemhzDIh4uaKpjIfP"
@@ -9097,6 +9115,24 @@
     },
     {
       "album": {
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/2U2xvtb2D69XQHJQWLEhTA"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/44MdpVDAuLaHpNtQp6Hv06"
+    },
+    {
+      "album": {
         "name": "I Stay",
         "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
       },
@@ -9740,7 +9776,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 176000,
       "name": "It Doesn't Matter",
       "url": "https://open.spotify.com/track/0y9TOTfCp3N5tW4cv6uzbe"
@@ -11415,6 +11451,36 @@
     },
     {
       "album": {
+        "name": "Made For The Game",
+        "url": "https://open.spotify.com/album/00YuUtVX0wMgJsxGlwEIXi"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Jessee",
+          "url": "https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        },
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Made For The Game",
+      "url": "https://open.spotify.com/track/4M6Qer7eszDU3cwpYSXA2C"
+    },
+    {
+      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -12795,6 +12861,24 @@
     },
     {
       "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
+    },
+    {
+      "album": {
         "name": "SENESCENCE",
         "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
       },
@@ -12978,6 +13062,28 @@
       "duration_ms": 205429,
       "name": "ONANON - DJ Carpenter Remix",
       "url": "https://open.spotify.com/track/2ajvSqhx9EcE8OH41WOkHv"
+    },
+    {
+      "album": {
+        "name": "ONDATONDA",
+        "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        },
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211125,
+      "name": "Ondatonda",
+      "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
     },
     {
       "album": {
@@ -15568,7 +15674,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 190615,
       "name": "scs - edit",
       "url": "https://open.spotify.com/track/5xZTWcerOkechTLwXzh8uI"
@@ -16161,6 +16267,32 @@
     },
     {
       "album": {
+        "name": "Shot Caller",
+        "url": "https://open.spotify.com/album/1ZagA41DDTxulo2jWZzrmF"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "Zanillya",
+          "url": "https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK"
+    },
+    {
+      "album": {
         "name": "Show You",
         "url": "https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL"
       },
@@ -16666,6 +16798,24 @@
       "duration_ms": 219556,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+    },
+    {
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339706,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
     },
     {
       "album": {
@@ -19547,6 +19697,24 @@
     },
     {
       "album": {
+        "name": "Tumbleweeds",
+        "url": "https://open.spotify.com/album/5OVG7AQkRix1NZ8AuBQv1u"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306268,
+      "name": "Tumbleweeds",
+      "url": "https://open.spotify.com/track/3ffmHRLqmoZkwikJqC0DVD"
+    },
+    {
+      "album": {
         "name": "TURN IT DOWN",
         "url": "https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR"
       },
@@ -19674,7 +19842,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 186000,
       "name": "u don't just wanna die",
       "url": "https://open.spotify.com/track/6XRPuVKshr4rTN1YthisWJ"
@@ -20200,7 +20368,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
@@ -20406,6 +20574,24 @@
       "duration_ms": 185714,
       "name": "wanderer",
       "url": "https://open.spotify.com/track/4nQnhWKlbBkfVwZBGozNnQ"
+    },
+    {
+      "album": {
+        "name": "Want (Need)",
+        "url": "https://open.spotify.com/album/7Mu3VGQ9a86jYMj13xoZQP"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "Want (Need)",
+      "url": "https://open.spotify.com/track/2FEYpEwMGzKhdt6eHJyJ5A"
     },
     {
       "album": {

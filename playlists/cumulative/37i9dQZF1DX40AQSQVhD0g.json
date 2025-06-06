@@ -3491,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "Nunca me fui",
+        "url": "https://open.spotify.com/album/5v0TKLwOIDadPocm4dRxLe"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221387,
+      "name": "Nunca me fui",
+      "url": "https://open.spotify.com/track/2et9E8kzPxyBXYGdQTN5OR"
+    },
+    {
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/2LQzNUG9oeNqec8QVHHlhF"
       },
@@ -4976,7 +4998,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 292400,
       "name": "Yo No Fui",
       "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"

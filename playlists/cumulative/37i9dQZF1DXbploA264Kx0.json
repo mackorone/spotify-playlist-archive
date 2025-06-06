@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: RIKI",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "imma\u81fa\u5317beach",
+        "url": "https://open.spotify.com/album/4NVFBoADPU2sFXSPUKMjVm"
+      },
+      "artists": [
+        {
+          "name": "RIKI",
+          "url": "https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "imma\u81fa\u5317beach",
+      "url": "https://open.spotify.com/track/7rSXIlYbbLpYiIOCehUxmA"
+    },
+    {
+      "album": {
         "name": "In My Dreams (You're Not Extinct)",
         "url": "https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi"
       },
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 246966,
       "name": "no expectation",
       "url": "https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk"
@@ -4042,7 +4060,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 152500,
       "name": "One Hour - \u96fb\u8996\u5287\u300a\u6210\u529f\u8def\u4e0a\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/74apUuabRBxw6utDvm9e0H"
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 168930,
       "name": "You Will Always Be",
       "url": "https://open.spotify.com/track/7o8wiz2S0t8XYFu4Nj90OA"

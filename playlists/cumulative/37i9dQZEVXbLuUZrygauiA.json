@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Speak Now (Deluxe Package)",
+        "url": "https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Better Than Revenge",
+      "url": "https://open.spotify.com/track/55mh9j2aB7xZ1Oh463gK8k"
+    },
+    {
+      "album": {
         "name": "Betty (Get Money)",
         "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
       },
@@ -32684,7 +32702,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 221583,
       "name": "Mi Clero",
       "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
@@ -41166,7 +41184,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 204204,
       "name": "Pl\u00e1tica Con Cupido",
       "url": "https://open.spotify.com/track/1AihfrCX3coaNBjfE2KGCg"
@@ -41314,7 +41332,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 134722,
       "name": "POLARIZADOS",
       "url": "https://open.spotify.com/track/53M0vEX1HG6jGsaDk5ZamF"

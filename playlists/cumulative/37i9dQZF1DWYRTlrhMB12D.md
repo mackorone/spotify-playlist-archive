@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-229 songs - 17 hr 26 min
+230 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Beqarar Karke Hamen Yun Na Jaiye](https://open.spotify.com/track/7ukboFFuDuxKWRdxahmth7) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Bees Saal Baad](https://open.spotify.com/album/5NJJBwWN9wxCBm17eihsp2) | 3:09 | 2024-04-08 |  |
 | [Chahoonga Main Tujhe](https://open.spotify.com/track/5DZBeP8uHa6iQiWuYOgRRC) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Dosti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5z8FnmQgn6g4WxHMJKAC8k) | 4:54 | 2021-09-29 |  |
 | [Chala Jata Hoon](https://open.spotify.com/track/4MiiZH1ONmjTVEFbGURgMC) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Mere Jeevan Saathi](https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX) | 4:29 | 2021-09-29 | 2022-07-20 |
-| [Chalo Sajna Jhahan Tak](https://open.spotify.com/track/6U9TxZgPueOqKvFTlyo1ke) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Mere Hamdam Mere Dost \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PcRa2wV3wGRAIEPafwuYM) | 4:56 | 2024-04-08 |  |
+| [Chalo Sajna Jhahan Tak](https://open.spotify.com/track/6U9TxZgPueOqKvFTlyo1ke) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Mere Hamdam Mere Dost \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PcRa2wV3wGRAIEPafwuYM) | 4:56 | 2024-04-08 | 2025-06-06 |
 | [Chalte Chalte \- Part 1 / From "Chalte Chalte"](https://open.spotify.com/track/34M1n5KBprM9NpSDgUhjwE) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Chalte Chalte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Zf0gYRtDc24ksf5GvZQho) | 5:18 | 2024-04-08 |  |
 | [Chaudhvin Ka Chand Ho](https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Chaudhvin Ka Chand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oV7MbtBoGG0scOR6pQCc7) | 3:43 | 2021-09-29 |  |
 | [Chaudhvin Ka Chand Ho \(From "Chaudhvin Ka Chand"\)](https://open.spotify.com/track/7EKfhbcWA3ncDkuRhNCaru) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 3:43 | 2024-04-08 | 2024-04-19 |
@@ -64,6 +64,7 @@
 | [Dil Ka Bhanwar Kare Pukar \(From "Tere Ghar Ke Samne"\)](https://open.spotify.com/track/5jLLoCldTG8bsynJWI7jJT) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 3:19 | 2021-09-29 | 2024-04-19 |
 | [Dil Kya Kare](https://open.spotify.com/track/5t0qa7vBhsi9kUsncxTXoz) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Julie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dillOeeOQpaW4DOBxaGMX) | 6:44 | 2024-04-08 |  |
 | [Dil Tadap Tadap Ke Kah Raha](https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Madhumati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm) | 3:27 | 2021-09-29 |  |
+| [Dilbar Mere \- From "Satte Pe Satta"](https://open.spotify.com/track/7vtl49gWCvqep228IJVHRl) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Anette](https://open.spotify.com/artist/4PspHz9zoOvLneMsCdpadT), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Satte Pe Satta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a6VZwmYX6TwvQOTdkvKgJ) | 4:47 | 2025-06-05 |  |
 | [Dillagi: Gore Gore O Banke Chhore](https://open.spotify.com/track/5xuR8nxoyWGIa4qxr0EiOC) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Amirbai Karnataki](https://open.spotify.com/artist/025NPyHBtWC9aQM4STXI5V) | [Vintage Music Of Goa India](https://open.spotify.com/album/5l6QOP6eEHuuqGE0WOQZ0n) | 3:06 | 2021-09-29 | 2022-05-07 |
 | [Din Dhal Jaye Haye](https://open.spotify.com/track/1evr0DxRGaAueBzGLwMyc5) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Guide \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU) | 4:53 | 2022-01-05 | 2022-07-04 |
 | [Do Lafzon Ki Hai Dil Ki Kahani \(Remix\)](https://open.spotify.com/track/3m2wXNvm2m663lPwjiGJ1M) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Anurag Abhishek](https://open.spotify.com/artist/6TtLtQmBqn5On4Waw4ExYO) | [Chillnama \(Remix\)](https://open.spotify.com/album/36ghWpDkfmfa1cWvYkNVki) | 4:39 | 2023-05-02 | 2024-04-19 |

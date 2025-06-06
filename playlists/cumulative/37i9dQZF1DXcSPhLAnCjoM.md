@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Me Enamore" de RIDSA est le Grand Hit de la semaine.
+> "Un dimanche avec toi" de Vitaa est le Grand Hit de la semaine.
 
-252 songs - 12 hr 57 min
+253 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chez toi](https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:19 | 2023-09-28 | 2024-01-19 |
 | [Chez toi, chez moi](https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Chez toi, chez moi](https://open.spotify.com/album/5P5y6ZjwvDvVkn5VOekb2T) | 2:39 | 2024-07-11 | 2024-07-27 |
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2024-11-14 |  |
+| [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-06-05 |  |
 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 | 2024-12-05 |  |
 | [Comment on fait](https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Comment on fait](https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS) | 3:00 | 2023-09-28 | 2024-04-26 |
 | [Comment on s'aime](https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo) | [SOR4](https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln) | [SOR4](https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us) | 2:47 | 2024-10-03 | 2024-10-25 |
@@ -66,7 +67,7 @@
 | [Dis le moi quand même](https://open.spotify.com/track/06OsS6q8FfbctG1WhbDQDO) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Osmose](https://open.spotify.com/album/1438Nj1KVGJuLJdsSYNa0t) | 3:33 | 2023-09-28 | 2023-12-09 |
 | [Dis Moi Tout](https://open.spotify.com/track/387yCeKQgJON67MA3a5w0e) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [EQUATEUR](https://open.spotify.com/album/5JTIaFxUwxcK3ZqQ0KcFWR) | 2:52 | 2023-09-28 | 2023-11-11 |
 | [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 | 2024-03-28 | 2024-08-02 |
-| [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 | 2025-03-20 |  |
+| [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 | 2025-03-20 | 2025-06-06 |
 | [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 | 2023-12-14 | 2024-04-19 |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-09-28 | 2024-01-26 |
 | [Eau de javel](https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nos futurs](https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T) | 2:57 | 2024-05-23 | 2024-10-04 |

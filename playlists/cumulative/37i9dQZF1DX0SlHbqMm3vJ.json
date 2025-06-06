@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Seyi Vibez",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Simi & Kizz Daniel",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -3478,6 +3478,28 @@
       "duration_ms": 155744,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO"
+    },
+    {
+      "album": {
+        "name": "Day By Day (feat. Kizz Daniel)",
+        "url": "https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135671,
+      "name": "Day By Day (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV"
     },
     {
       "album": {
@@ -11704,7 +11726,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 165431,
       "name": "Reflection Station",
       "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-390 songs - 20 hr 21 min
+391 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [CENTRIC](https://open.spotify.com/artist/1mTKB32KqqaiEp7GP4lK1L) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-08-10 |  |
 | [World on Fire](https://open.spotify.com/track/0vyzWCQaPRwaJPbRv9SB1q) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:45 | 2023-08-10 | 2023-11-03 |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-30 | 2022-09-13 |
+| [X2](https://open.spotify.com/track/3GfnnZhCeysVePlfV25cZU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [X2](https://open.spotify.com/album/59vtXVIPN7Q3VYHAg2TcRc) | 1:58 | 2025-06-05 |  |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 | 2023-08-11 |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 | 2023-08-11 |
 | [You Did Me Wrong](https://open.spotify.com/track/021AdIBrNm09ETA6iMxnyw) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 2:05 | 2022-05-20 | 2023-08-11 |

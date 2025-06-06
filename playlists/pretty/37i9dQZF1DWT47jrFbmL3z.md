@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 
 > Take a chance with NIKI because even if she lets go, you’ll still be in her heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,327 likes - 76 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,449 likes - 76 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 | 75 | [Poolside Manor](https://open.spotify.com/track/6XexzlVsjQOuNQ5pcfWOdq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:50 |
 | 76 | [Take Care](https://open.spotify.com/track/0bht8SpPHXiUMApKcua4Mz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:32 |
 
-Snapshot ID: `aDaDgQAAAADlS+C/g8G4kLWXG7HQSt/f`
+Snapshot ID: `aDaDgQAAAABtrSJBUe5jjjiTudC2adpR`

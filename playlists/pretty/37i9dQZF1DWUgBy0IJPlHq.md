@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,446 likes - 101 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,502 likes - 101 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

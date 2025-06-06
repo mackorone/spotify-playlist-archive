@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 363396,
+  "num_followers": 363416,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAABfJ+q/ArmPG/BW7yVyuckU",
+  "snapshot_id": "aD+MgAAAAADA70YoG7QadHY1bqe0PNNS",
   "tracks": [
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo My Love",
+        "url": "https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 200502,
+      "name": "Todo My Love",
+      "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 178000,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo My Love",
-        "url": "https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 200502,
-      "name": "Todo My Love",
-      "url": "https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ"
     },
     {
       "added_at": null,

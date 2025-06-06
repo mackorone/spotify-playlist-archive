@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,099 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,127 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 59 | [Hello Echo \- Radio Edit](https://open.spotify.com/track/285gc0zIEBU4igjLK72eXH) | [Kiwi](https://open.spotify.com/artist/5B9vWdtlNqK2UKM6MdE0WN), [Bestley](https://open.spotify.com/artist/3b2ZCIWy55NHeBIOUvbpct) | [Hello Echo](https://open.spotify.com/album/0WHck9IyWpYptoKg5TAOIR) | 3:31 |
 | 60 | [Pass You By](https://open.spotify.com/track/4XVUUqIJa8DkpNF5rpqzF6) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Pass You By](https://open.spotify.com/album/5gStuhfpZACqgVzuD2t6B2) | 3:32 |
 
-Snapshot ID: `Z28mhgAAAAB7iLze+nYiBB0HNgpIE2UY`
+Snapshot ID: `Z28mhgAAAACGCReXW0I7EyuSGB+vZhC3`

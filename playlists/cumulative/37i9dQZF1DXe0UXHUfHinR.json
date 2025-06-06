@@ -2931,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345173,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
+    },
+    {
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE"
       },
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
@@ -11039,7 +11057,7 @@
       "artists": [
         {
           "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/6W5H7ELG8CsfvslV2WnvZ5"
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         },
         {
           "name": "Jim Hall",
@@ -14036,7 +14054,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 150466,
       "name": "Vendome",
       "url": "https://open.spotify.com/track/1L7l5qJeQpqWDigBjxUcQw"
@@ -14432,7 +14450,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 245000,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/6fGqxkBPqoIq4SQ3mtbHMI"

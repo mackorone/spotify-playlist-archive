@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7685,
+  "num_followers": 7689,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD47AAAAAACK2xNyACa6wg+sJBKWGpnM",
+  "snapshot_id": "aD+MgAAAAAD7CBt3L0JDfhIg/umWPomY",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+        "name": "SALA VERMELHA #31 - Slipmami",
+        "url": "https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX"
       },
       "artists": [
         {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         }
       ],
-      "duration_ms": 209245,
-      "name": "\u00d3PIO",
-      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
+      "duration_ms": 119225,
+      "name": "SALA VERMELHA #31 - Slipmami",
+      "url": "https://open.spotify.com/track/6BfldmhgnMCt8PHM8xHY7n"
     },
     {
       "added_at": null,
@@ -579,30 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #31 - Slipmami",
-        "url": "https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX"
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
       "artists": [
         {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         }
       ],
-      "duration_ms": 119225,
-      "name": "SALA VERMELHA #31 - Slipmami",
-      "url": "https://open.spotify.com/track/6BfldmhgnMCt8PHM8xHY7n"
+      "duration_ms": 209245,
+      "name": "\u00d3PIO",
+      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
     },
     {
       "added_at": null,

@@ -3117,6 +3117,28 @@
     },
     {
       "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/2Lqo8zwLsjI2zK1q0tbZl3"
+      },
+      "artists": [
+        {
+          "name": "Jagged Jaw",
+          "url": "https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG"
+        },
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222562,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0jhgOpwjx6TgKmiUkuV3ba"
+    },
+    {
+      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -9778,6 +9800,24 @@
       "duration_ms": 140400,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
+    },
+    {
+      "album": {
+        "name": "BOY CRAZY.",
+        "url": "https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148619,
+      "name": "BOY CRAZY.",
+      "url": "https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n"
     },
     {
       "album": {
@@ -26028,7 +26068,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 149817,
       "name": "good girls",
       "url": "https://open.spotify.com/track/0omoINYneUCby7DVJyiWuC"
@@ -33501,6 +33541,24 @@
     },
     {
       "album": {
+        "name": "Im So ATL (Regular + Sped Up)",
+        "url": "https://open.spotify.com/album/22aJ7R9eHs7KdVr98wqgRf"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124782,
+      "name": "Im So ATL",
+      "url": "https://open.spotify.com/track/3kRX4GbhjK2lrgRE6G2Fjh"
+    },
+    {
+      "album": {
         "name": "Im So ATL",
         "url": "https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z"
       },
@@ -33512,7 +33570,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 124823,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
@@ -38594,7 +38652,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-06",
       "duration_ms": 232093,
       "name": "Let's Straighten It Out",
       "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
