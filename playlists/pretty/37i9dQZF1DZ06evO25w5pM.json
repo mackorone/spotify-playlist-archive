@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 18983,
+  "num_followers": 18986,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACgzE+f76rbG6EGA0FH35AT",
+  "snapshot_id": "aEDeAAAAAACmZUrg5EHx3Zu28NMHd71B",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Healing",
         "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
       },
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 394306,
-      "name": "Drei",
-      "url": "https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph"
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
       "duration_ms": 321786,
       "name": "Morning Light Silhouettes 2",
       "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 394306,
+      "name": "Drei",
+      "url": "https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 522013,
-      "name": "Huit",
-      "url": "https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 486893,
       "name": "Still Stones of Silence",
       "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 522013,
+      "name": "Huit",
+      "url": "https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD"
     },
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 464360,
-      "name": "Gaia Dreaming Herself Awake",
-      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
+      "duration_ms": 493139,
+      "name": "Wind in Bamboo",
+      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
     },
     {
       "added_at": null,
@@ -551,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiritual Healing",
-        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
       },
       "artists": [
         {
           "name": "Deuter",
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
         }
       ],
-      "duration_ms": 493139,
-      "name": "Wind in Bamboo",
-      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
+      "duration_ms": 464360,
+      "name": "Gaia Dreaming Herself Awake",
+      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 388133,
-      "name": "Moon and Earth",
-      "url": "https://open.spotify.com/track/07neilEX9t7aKFndygWFDK"
+      "duration_ms": 450480,
+      "name": "Dawn Mist - The Temple",
+      "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
     }
   ],
   "unique_name": "This Is Deuter",

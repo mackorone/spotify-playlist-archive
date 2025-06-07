@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: SMASH",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: BOOP!",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -80,6 +80,32 @@
       "duration_ms": 164542,
       "name": "42 Balloons and a Lawn Chair",
       "url": "https://open.spotify.com/track/1vvpleOg9j0eT5RYIfK8dB"
+    },
+    {
+      "album": {
+        "name": "Boop! The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3MbP9MhBn2U54WYFxKFTEn"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286786,
+      "name": "A Little Versatility",
+      "url": "https://open.spotify.com/track/0i4QVqqtB2mnisaPLYztbh"
     },
     {
       "album": {
@@ -720,7 +746,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 147000,
       "name": "Done For",
       "url": "https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ"
@@ -890,7 +916,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 202660,
       "name": "Feel Like This",
       "url": "https://open.spotify.com/track/7i07v9Uf3jgHcSh2D2Zkjn"
@@ -1564,6 +1590,24 @@
       "duration_ms": 295973,
       "name": "I'll Know",
       "url": "https://open.spotify.com/track/3AArFsX5JLu0CYDvGEpu3I"
+    },
+    {
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw"
     },
     {
       "album": {
@@ -2384,7 +2428,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 203462,
       "name": "New York - Studio Cast Recording",
       "url": "https://open.spotify.com/track/6zorFxuitBjS8H4otpjF3M"
@@ -2598,7 +2642,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 231666,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/3IHit4085hC8vzWiTFt6SO"
@@ -3466,7 +3510,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 231261,
       "name": "Throwing in the Towel",
       "url": "https://open.spotify.com/track/7LWsZlTRMnmjRxti9DOb8v"
@@ -3864,7 +3908,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 242826,
       "name": "White Girl in Danger",
       "url": "https://open.spotify.com/track/0mpWBAYCOiIVLCJxEuwwz5"
@@ -3952,7 +3996,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 215936,
       "name": "World Burn",
       "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"

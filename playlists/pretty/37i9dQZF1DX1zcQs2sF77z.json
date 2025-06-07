@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 265683,
+  "num_followers": 265813,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
-        "name": "Perfect (Exceeder)",
-        "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
-      },
-      "artists": [
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 161271,
-      "name": "Perfect (Exceeder)",
-      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
         "name": "Hypnotica (Benny Benassi Presents The Biz)",
         "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 285570,
       "name": "Satisfaction - Isak Original Extended",
       "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 161271,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
     },
     {
       "added_at": "2025-04-04 14:59:32",
@@ -923,22 +923,18 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
       },
       "artists": [
         {
-          "name": "The Supermen Lovers",
-          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
-        },
-        {
-          "name": "Mani Hoffman",
-          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Starlight - Radio Edit",
-      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     }
   ],
   "unique_name": "Dancefloor Classics",

@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E?si=tyL293W8TNOTiDj7X9xO1g"> Mariah The Scientist</a>
 
-517 songs - 1 day 3 hr 44 min
+518 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [DUTTY](https://open.spotify.com/track/7i8vcfoWdoWPKQUf41PYpW) | [Groovy Widestance](https://open.spotify.com/artist/5ZCnzuy5MwQd7kuY3TCemz) | [DUTTY](https://open.spotify.com/album/7bq00GB7I20urx4hi7VUTo) | 2:23 | 2025-05-01 |  |
 | [EBBS & FLOWS: Endlessly](https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [EBBS & FLOWS: Endlessly](https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b) | 3:05 | 2023-10-26 | 2024-01-26 |
 | [ebi from Waterside](https://open.spotify.com/track/2py8kc44JBLG6FDecO4eC3) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Kevo Realsound](https://open.spotify.com/artist/23kU8wzX05FI78OwrySKOw) | [ebi from Waterside](https://open.spotify.com/album/2gvDwd9j7ESgS3xJTFtgyG) | 3:55 | 2024-09-11 | 2024-11-15 |
+| [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 | 2025-06-06 |  |
 | [Emotional Home](https://open.spotify.com/track/3ONXONRB7KYAgh8TZSzGzu) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [dronezz](https://open.spotify.com/artist/4qaoALS2X6hdiXnhBC7aDo), [OLOTU](https://open.spotify.com/artist/2DmyeIzUYJ2G2h5uZ04yVL) | [Emotional Home](https://open.spotify.com/album/0rY5tMhcmXGzDzjoJw7oN8) | 2:54 | 2024-07-25 | 2024-09-03 |
 | [Emotions](https://open.spotify.com/track/3YajlRfdwOHXedzlQKDBbr) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD) | [Emotions](https://open.spotify.com/album/7tF5ODlbKj6FoKrDJsgDmJ) | 2:42 | 2024-02-14 | 2024-02-23 |
 | [End Of Summer](https://open.spotify.com/track/2ENNmSeAFS7Dc8Sgou8VzJ) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl) | [End Of Summer](https://open.spotify.com/album/2mmLte0m7zdhb0f2ndVp0e) | 2:21 | 2024-01-11 | 2024-04-06 |

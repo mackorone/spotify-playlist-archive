@@ -4,7 +4,7 @@
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-258 songs - 16 hr 3 min
+259 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [นอนหน่อยไหม ?](https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [นอนหน่อยไหม ?](https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2) | 3:53 | 2023-01-18 | 2023-04-14 |
 | [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 | 2023-03-23 | 2023-07-03 |
 | [นั้น](https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [นั้น](https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA) | 3:20 | 2022-09-23 | 2023-01-11 |
+| [นิราศรักเอย \(Farewell\)](https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/album/0UYXu27MRbyudK3NNIByWo) | 3:06 | 2025-06-06 |  |
 | [นี่นะคะ \(I'm Here!\)](https://open.spotify.com/track/25WkNItOoTJrAzwU5yUZEU) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [นี่นะคะ \(I'm Here!\)](https://open.spotify.com/album/7KlgOUdJNcOFX5vUUw1fEF) | 3:46 | 2024-03-28 | 2024-04-12 |
 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 | 2024-03-28 | 2025-03-28 |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2023-04-18 | 2024-03-29 |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>
 
-408 songs - 1 day 9 hr 11 min
+409 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Controller](https://open.spotify.com/track/6I38Il7uZyXN35rm1aqRri) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak), [Nicole Mawugunzi](https://open.spotify.com/artist/01VymGxQXUJXRfmNnRRcOS) | [Controller](https://open.spotify.com/album/2f8L078klwods1pvFV7MTJ) | 3:12 | 2025-05-30 |  |
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 | 2025-06-06 |
 | [Covenant Keeping God](https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Covenant Keeping God](https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp) | 13:56 | 2025-02-28 | 2025-05-09 |
+| [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 | 2025-06-06 |  |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-24 | 2024-06-07 |
 | [Daily](https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Daily](https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u) | 2:57 | 2024-12-13 | 2025-05-30 |
 | [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 | 2025-02-28 | 2025-06-06 |

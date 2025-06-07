@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,491 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,490 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 104 | [I Am You, You Are Me](https://open.spotify.com/track/75ai0ibymmqyCyaxwZuhnu) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Break Up 2 Make Up](https://open.spotify.com/album/7kjI5E7O2TWQ79Q13tHrpw) | 3:33 |
 | 105 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 |
 | 106 | [Turtle Ship \(feat\. G2, B\-Free, Okasian & ZICO\) \- Remix Version](https://open.spotify.com/track/4I5po5l2a2KeUfEI3xhmY7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [g2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Turtle Ship](https://open.spotify.com/album/5QQvwOHGq54quW34DV6Qxn) | 4:40 |
-| 107 | [Okay Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
+| 107 | [Okey Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
 | 108 | [Boys And Girls](https://open.spotify.com/track/2vefaHJYN4zKolfWa48BwV) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Boys and Girls](https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e) | 3:20 |
 
 Snapshot ID: `ZJk1qQAAAABlkH2ZvQYTzDXUHZAbyl09`

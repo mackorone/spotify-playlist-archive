@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "A curated space for the avant-garde. Cover: yeule",
+  "description": "A curated space for the avant-garde. Cover: Sophia Stel",
   "name": "Proto-",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 128679,
       "name": "#1 Best of All Time",
       "url": "https://open.spotify.com/track/20syoWpQEUCdl91LQRZhjG"
@@ -5219,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "CHROMA 010",
+        "url": "https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271085,
+      "name": "CHROMA 010 BRILLO",
+      "url": "https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0"
+    },
+    {
+      "album": {
         "name": "Romeo",
         "url": "https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u"
       },
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 270750,
       "name": "Close - The Dare Remix",
       "url": "https://open.spotify.com/track/272WAMT7l0kMJLqlcNBPlA"
@@ -6392,6 +6410,28 @@
       "duration_ms": 198620,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb"
+    },
+    {
+      "album": {
+        "name": "Cruel Love",
+        "url": "https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        },
+        {
+          "name": "Beau Nox",
+          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279067,
+      "name": "Cruel Love",
+      "url": "https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM"
     },
     {
       "album": {
@@ -8977,6 +9017,24 @@
     },
     {
       "album": {
+        "name": "Eurotrash",
+        "url": "https://open.spotify.com/album/3Cf6v61HOj9H14xDNpQttQ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164598,
+      "name": "Eurotrash",
+      "url": "https://open.spotify.com/track/7blJR0lR4Aw5sCYThag709"
+    },
+    {
+      "album": {
         "name": "Eusexua",
         "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
       },
@@ -9050,6 +9108,24 @@
       "duration_ms": 229200,
       "name": "EVERYBODY ELSE",
       "url": "https://open.spotify.com/track/7aJABYHsynSazwJF0gbMmc"
+    },
+    {
+      "album": {
+        "name": "Everyone Falls Asleep In Their Own Time",
+        "url": "https://open.spotify.com/album/5RgO7p0yOk0UETnpEt004b"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242490,
+      "name": "Everyone Falls Asleep In Their Own Time",
+      "url": "https://open.spotify.com/track/7sGYT6ewCCJ5KJvWP1n3MP"
     },
     {
       "album": {
@@ -10192,7 +10268,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
@@ -10744,6 +10820,24 @@
       "duration_ms": 205024,
       "name": "French Lessons",
       "url": "https://open.spotify.com/track/6inD5TxljZkdnWDF6SvrZB"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
     },
     {
       "album": {
@@ -13724,7 +13818,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 203093,
       "name": "I'll Take It",
       "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
@@ -17294,7 +17388,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 209526,
       "name": "marian dogma",
       "url": "https://open.spotify.com/track/0HfX0Lr84UzSJFnZ4HO7Dc"
@@ -30836,7 +30930,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 210698,
       "name": "With A Grain",
       "url": "https://open.spotify.com/track/41fXvEFSqLiVnTxSNhTXe1"

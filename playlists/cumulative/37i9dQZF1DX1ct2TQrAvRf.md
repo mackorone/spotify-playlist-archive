@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- KR$NA
+> India's Rap Scene\. Cover \- Paal Dabba
 
-294 songs - 15 hr 55 min
+295 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [RAP\-TA](https://open.spotify.com/track/3yrAv4sjiBGRnkCxkXxH5d) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:37 | 2024-11-15 | 2025-01-11 |
 | [Ready To Die](https://open.spotify.com/track/1Orns3vFhjrIEqlVHP8lfN) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 11](https://open.spotify.com/album/5qypSGvDCEWvWwPIN0VsnG) | 4:06 | 2023-12-05 | 2024-01-03 |
 | [RED](https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hisab](https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 5:03 | 2024-12-20 | 2025-03-08 |
-| [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-04-04 |  |
+| [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-04-04 | 2025-06-07 |
 | [Rehmani Keeda](https://open.spotify.com/track/5RdA6XCTDxeaVjqfLvdGft) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Rehmani Keeda](https://open.spotify.com/album/5aiBVHmATeVbdAtOhvlaPw) | 4:05 | 2023-03-27 | 2023-05-12 |
 | [Rihaayi](https://open.spotify.com/track/4aMVJBiDmewOHsbdfPKQCv) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IwG4KxgETGFj087O5sF2C) | 2:48 | 2023-03-27 | 2023-06-02 |
 | [Role Model](https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 4:03 | 2024-07-05 | 2025-02-08 |
@@ -266,6 +266,7 @@
 | [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 | 2025-03-28 | 2025-04-19 |
 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 | 2023-10-27 |
 | [Taambdi Chaamdi](https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Taambdi Chaamdi](https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w) | 2:38 | 2024-08-29 |  |
+| [Tane Hu Che?](https://open.spotify.com/track/1wxtK3oKZjNvGecT6O4zpi) | [AKB](https://open.spotify.com/artist/2TdhJS0oOsTSeirKv3Pcle), [Hukeykaran](https://open.spotify.com/artist/5RkqTDWCcgYvzg13gCP1B3) | [Jo To Khari](https://open.spotify.com/album/5JTVS8HNbdyov4srFHkwe8) | 3:55 | 2025-06-06 |  |
 | [Tantrums](https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN) | 2:22 | 2025-01-10 | 2025-04-05 |
 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 | 2024-07-19 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 | 2024-07-06 |

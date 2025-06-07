@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 26935,
+  "num_followers": 26950,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -595,18 +595,18 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
-        "name": "HEART (Special Edition)",
-        "url": "https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B"
+        "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
+        "url": "https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb"
       },
       "artists": [
         {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
         }
       ],
-      "duration_ms": 183612,
-      "name": "Usual Kiss",
-      "url": "https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9"
+      "duration_ms": 292080,
+      "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
+      "url": "https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87"
     },
     {
       "added_at": "2025-05-20 15:00:02",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
+        "name": "HEART (Special Edition)",
+        "url": "https://open.spotify.com/album/4jyUe6Y3P9HrzUq27jP83B"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 183612,
+      "name": "Usual Kiss",
+      "url": "https://open.spotify.com/track/0dazDTi5V3pplttPiEosT9"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 201137,
       "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
-        "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
-        "url": "https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
-      "url": "https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87"
     },
     {
       "added_at": "2025-05-20 15:00:02",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
-        "name": "harunone",
-        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "harunone",
-      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
         "name": "the youth night",
         "url": "https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203846,
       "name": "\u30cd\u30aa\u30f3\u3092\u6d88\u3057\u3066",
       "url": "https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
+        "name": "harunone",
+        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "harunone",
+      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
     },
     {
       "added_at": "2025-05-20 15:00:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-05-20 15:00:02",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 189006,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj"
-    },
-    {
-      "added_at": "2025-05-20 15:00:02",
-      "album": {
         "name": "swipe sheep",
         "url": "https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 185378,
       "name": "snow jam",
       "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
+    },
+    {
+      "added_at": "2025-05-20 15:00:02",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 189006,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj"
     },
     {
       "added_at": "2025-05-20 15:00:02",

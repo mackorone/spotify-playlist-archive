@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Paris c'est magique, c'est trop ma ville, \u00e7a bouge de tous les c\u00f4t\u00e9s #fyp\n",
+  "description": "#fyp\n",
   "name": "t'as la ref ?",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 168000,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/2dVDbbS9W6n6YY80R4aJdZ"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 317404,
       "name": "Bonbon \u00e0 la menthe",
       "url": "https://open.spotify.com/track/30RmEyZdIYdYpSTkMtgtKt"
@@ -2310,6 +2310,24 @@
       "duration_ms": 156013,
       "name": "Candy",
       "url": "https://open.spotify.com/track/46FGa3lho9s46AE4xGXLRX"
+    },
+    {
+      "album": {
+        "name": "Cantona",
+        "url": "https://open.spotify.com/album/5x5dSJS2FjUMe2pFYPqK8f"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170711,
+      "name": "Cantona",
+      "url": "https://open.spotify.com/track/2JVPQ5VbURgorwJH0LPAeS"
     },
     {
       "album": {
@@ -3089,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Rep\u00e8re",
+        "url": "https://open.spotify.com/album/4eRNQtftgid6qOHfO7Fw5g"
+      },
+      "artists": [
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209406,
+      "name": "Code",
+      "url": "https://open.spotify.com/track/5dIRTiXv2EkCHARwxGxhMl"
+    },
+    {
+      "album": {
         "name": "Coffre plein",
         "url": "https://open.spotify.com/album/5tOYj6AOxgk72xSNURFuOu"
       },
@@ -3588,7 +3624,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 200433,
       "name": "Dans tes bras",
       "url": "https://open.spotify.com/track/4Rt98JuVBxEdpk2cIC25oz"
@@ -4335,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "TOUT DROIT",
+        "url": "https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "ELLE",
+      "url": "https://open.spotify.com/track/53L31wZaBGqyrTDExHsaJ9"
+    },
+    {
+      "album": {
         "name": "M.I.L.S",
         "url": "https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz"
       },
@@ -4802,7 +4856,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 178064,
       "name": "Fav\u00e9la (#STATION 3)",
       "url": "https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs"
@@ -6203,6 +6257,24 @@
     },
     {
       "album": {
+        "name": "La Quicka",
+        "url": "https://open.spotify.com/album/7HzVP1wkIPm51GTjbsAZBt"
+      },
+      "artists": [
+        {
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122013,
+      "name": "J'voulais",
+      "url": "https://open.spotify.com/track/3cjfM3p90NmONjatWjBdwg"
+    },
+    {
+      "album": {
         "name": "J-Lo",
         "url": "https://open.spotify.com/album/0yY6jwz7t8QLK4d134Am8S"
       },
@@ -6460,7 +6532,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 272853,
       "name": "Jen Selter",
       "url": "https://open.spotify.com/track/0lS7ahEMzhAt0cwcMjFWJa"
@@ -8685,6 +8757,32 @@
     },
     {
       "album": {
+        "name": "Margiela",
+        "url": "https://open.spotify.com/album/7yWRuAb4BfIk1I9N1WUbQI"
+      },
+      "artists": [
+        {
+          "name": "HOUZ",
+          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
+        },
+        {
+          "name": "HDPRK",
+          "url": "https://open.spotify.com/artist/73s1HHCb3RQcuxhFgqgGG0"
+        },
+        {
+          "name": "G29",
+          "url": "https://open.spotify.com/artist/33GoYRikyN9Ej7idDdY55g"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Margiela",
+      "url": "https://open.spotify.com/track/4i7Ck0jXJc0az9i8yOI9FJ"
+    },
+    {
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -8926,7 +9024,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 214110,
       "name": "Mec de la rue",
       "url": "https://open.spotify.com/track/65wLKpTngPpQ9zs8WBT3e8"
@@ -9774,6 +9872,24 @@
       "duration_ms": 179823,
       "name": "Mwen An Sa",
       "url": "https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX"
+    },
+    {
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
       "album": {
@@ -10728,7 +10844,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 99787,
       "name": "Padtal",
       "url": "https://open.spotify.com/track/4fKexvjJAV9MrhQNgN0IH8"
@@ -11717,6 +11833,28 @@
     },
     {
       "album": {
+        "name": "Rara Vez",
+        "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128677,
+      "name": "Rara Vez",
+      "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "album": {
         "name": "Rebenga",
         "url": "https://open.spotify.com/album/6BZzs3spqdRhtR3EZymbgT"
       },
@@ -12294,7 +12432,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 188385,
       "name": "Scared (Sped Up)",
       "url": "https://open.spotify.com/track/1A5ZBWvo9on4M6lxFS99l3"
@@ -13116,7 +13254,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 271400,
       "name": "Sosa",
       "url": "https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815"
@@ -13152,7 +13290,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 171000,
       "name": "Sous la lune",
       "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
@@ -14252,6 +14390,28 @@
       "duration_ms": 240535,
       "name": "Tu vas rien faire",
       "url": "https://open.spotify.com/track/3A3D6xWNthYOn1utv5NfwH"
+    },
+    {
+      "album": {
+        "name": "Tus Besos (French Version)",
+        "url": "https://open.spotify.com/album/0eiQhIdvIfNfUvZIQdHbUo"
+      },
+      "artists": [
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146209,
+      "name": "Tus Besos - French Version",
+      "url": "https://open.spotify.com/track/4m589UyBjAZ9YNQmA9Y2TU"
     },
     {
       "album": {

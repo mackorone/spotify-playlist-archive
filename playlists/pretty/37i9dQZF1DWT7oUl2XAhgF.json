@@ -1,13 +1,49 @@
 {
-  "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 364863,
+  "description": "A new take on a classic sound. Cover: Curtis Harding",
+  "num_followers": 364916,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktUwAAAADNRsBDOTovkBRkkDEWXqay",
+  "snapshot_id": "aEJnzgAAAAAHN3gHH561rImLKqtjQk58",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "True Love Can't Be Blind",
+        "url": "https://open.spotify.com/album/1ZoseZsIuTqT1bkCZ4EFVE"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "True Love Can't Be Blind",
+      "url": "https://open.spotify.com/track/13XkT1WvbAFyDvltA9ubt6"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Love's Been Good To Me",
+        "url": "https://open.spotify.com/album/5c48GP3Zw3SYYxItTvBemr"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "MacKenzie",
+          "url": "https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY"
+        }
+      ],
+      "duration_ms": 317186,
+      "name": "Love's Been Good To Me",
+      "url": "https://open.spotify.com/track/2g3LMQTgGKvq3Rls1BXZoD"
+    },
     {
       "added_at": "2025-05-30 04:00:19",
       "album": {
@@ -1635,38 +1671,6 @@
       "duration_ms": 219520,
       "name": "Loving You Is All I Want To Do",
       "url": "https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Dancing Away In Tears b/w Back To Life (However Do You Want Me) [Home Sessions]",
-        "url": "https://open.spotify.com/album/6z1Gm9450assU4gra5Tb9r"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 223362,
-      "name": "Dancing Away In Tears - Home Sessions",
-      "url": "https://open.spotify.com/track/3idrlWkgtwzi5kcLN16s18"
-    },
-    {
-      "added_at": "2024-10-25 04:01:00",
-      "album": {
-        "name": "By Design [Evel Knievel]",
-        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
     },
     {
       "added_at": "2023-09-29 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234406,
+  "num_followers": 234421,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAfD5vxu3B81Wjf0Qmn3sez",
+  "snapshot_id": "aEDeAAAAAABR4+VWRSSq8vzJ4MEnuVsO",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Oye Pablo",
-      "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Doble",
         "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 198766,
       "name": "El Doble",
       "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Oye Pablo",
+      "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danna Paola (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 225240,
       "name": "No Es Cierto",
       "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockea Bien Duro",
-        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
       "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 234973,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/1xnxZtx5pcXC6UpPZydZr3"
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "Rockea Bien Duro",
+        "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
       },
       "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+      "duration_ms": 234973,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/1xnxZtx5pcXC6UpPZydZr3"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1TRAGO",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1TRAGO",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaprichosa",
         "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 200826,
       "name": "Kaprichosa",
       "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1TRAGO",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1TRAGO",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "T.A.C.O.",
+      "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 199880,
       "name": "Pintando El Amor",
       "url": "https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "T.A.C.O.",
-      "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrevete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Mundo De Caramelo",
-      "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184760,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Mundo De Caramelo",
+      "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
     },
     {
       "added_at": null,

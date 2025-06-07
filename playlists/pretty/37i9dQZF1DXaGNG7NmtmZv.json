@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 235465,
+  "num_followers": 235509,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Sound Of The Republic",
         "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Vision of Disorder",
         "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 193066,
       "name": "Element",
       "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Proud To Be",
-        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
-      },
-      "artists": [
-        {
-          "name": "DFL",
-          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
-        }
-      ],
-      "duration_ms": 85800,
-      "name": "Proud To Be DFL",
-      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Unorthodox",
         "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 108279,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Proud To Be",
+        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
+      },
+      "artists": [
+        {
+          "name": "DFL",
+          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
+        }
+      ],
+      "duration_ms": 85800,
+      "name": "Proud To Be DFL",
+      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "1991-2001 (Forever True)",
         "url": "https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 231600,
       "name": "Firestorm",
       "url": "https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -603,18 +603,34 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "The Current Will Carry Us",
-        "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
       },
       "artists": [
         {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
         }
       ],
-      "duration_ms": 236746,
-      "name": "The Disconnect",
-      "url": "https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3"
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -759,22 +775,6 @@
       "duration_ms": 172426,
       "name": "Few and Far Between",
       "url": "https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV"
-      },
-      "artists": [
-        {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm"
     },
     {
       "added_at": "2024-02-07 16:33:52",

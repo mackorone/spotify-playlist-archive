@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Vv Pete
 
-319 songs - 17 hr 56 min
+320 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [BACK IN THE DAY](https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BACK IN THE DAY](https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP) | 2:48 | 2025-05-22 |  |
 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-04-17 | 2025-05-02 |
 | [BALCONY](https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BALCONY](https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof) | 3:25 | 2025-04-24 | 2025-05-09 |
+| [Bangalang](https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Bangalang](https://open.spotify.com/album/30C5X5Vvltbe6Wt1DAawEi) | 2:45 | 2025-06-05 |  |
 | [Beautiful Eyes](https://open.spotify.com/track/3x03whGmxdeKQ9InXtQbsR) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:49 | 2025-04-08 | 2025-04-18 |
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-12 | 2025-05-30 |
 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 | 2024-05-31 | 2025-04-04 |

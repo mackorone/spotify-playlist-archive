@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: $LUTTYP",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 166484,
       "name": "Baby, Just Call",
       "url": "https://open.spotify.com/track/6o2t5h5sdvb4nIT5S1AMvK"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 197333,
       "name": "LOOKS ON ME",
       "url": "https://open.spotify.com/track/4ru0CStmabZ6RTFp16Y4TR"
@@ -3622,6 +3622,24 @@
       "duration_ms": 208524,
       "name": "My bad",
       "url": "https://open.spotify.com/track/5zxTXnDC00AV7QDdcj1hIo"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/1H16TwgHezYxiJYK3NQHvk"
+      },
+      "artists": [
+        {
+          "name": "Archy",
+          "url": "https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222876,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/1U96KcRZSaFXgP9XKCLdQh"
     },
     {
       "album": {
@@ -4316,7 +4334,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 183243,
       "name": "Ouiiiii \u0e2d\u0e38\u0e49\u0e22!!!",
       "url": "https://open.spotify.com/track/7y2P5qhxGiWVWs2yM0S8U4"
@@ -10417,6 +10435,40 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/7cXlwNKYV9lmsjhTcxV0vs"
+      },
+      "artists": [
+        {
+          "name": "Artist",
+          "url": "https://open.spotify.com/artist/6tKDbsb7RMThjx4CzfHPyM"
+        },
+        {
+          "name": "GUZT",
+          "url": "https://open.spotify.com/artist/7ksq8nXlbSQKxU2qp9bYR2"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "SURE",
+          "url": "https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "\u0e25\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/7zrDqlUvhU2SHm9871uc2O"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e37\u0e21\u0e41\u0e17\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
         "url": "https://open.spotify.com/album/0n7QgYSZ3K4Brs1K2SB9Fk"
       },
@@ -11296,6 +11348,24 @@
       "duration_ms": 169714,
       "name": "\u0e2d\u0e22\u0e39\u0e48\u0e22\u0e31\u0e19\u0e40\u0e0a\u0e49\u0e32 - All Night Long",
       "url": "https://open.spotify.com/track/38yvfYsBNl9XFteIq9xxg8"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/2Gx6fXLP0sg67uI4iSzVLM"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199206,
+      "name": "\u0e2d\u0e22\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/4T9WQVkDqVfnIzyIMNnAA2"
     },
     {
       "album": {

@@ -1,13 +1,37 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: SMASH",
-  "num_followers": 112556,
+  "description": "The best songs from the new shows and the buzziest hits. Cover: BOOP!",
+  "num_followers": 112581,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y6gAAAACqOqONFZqbA18x3FlhK56R",
+  "snapshot_id": "AAAAAOEgAcXkJskoE0l4oje+t2cMgQ7v",
   "tracks": [
+    {
+      "added_at": "2025-03-11 05:00:06",
+      "album": {
+        "name": "Something To Shout About",
+        "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Something To Shout About",
+      "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
+    },
     {
       "added_at": "2025-05-16 04:00:11",
       "album": {
@@ -35,6 +59,46 @@
       "duration_ms": 205059,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/3T8Im78k7i7fg148A2V759"
+    },
+    {
+      "added_at": "2025-03-31 16:26:09",
+      "album": {
+        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
+      },
+      "artists": [
+        {
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
+        },
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "duration_ms": 162700,
+      "name": "When You're in Love",
+      "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
+    },
+    {
+      "added_at": "2025-02-21 05:00:16",
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "duration_ms": 256444,
+      "name": "For The Gaze",
+      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
     },
     {
       "added_at": "2025-05-09 04:00:29",
@@ -81,26 +145,6 @@
       "url": "https://open.spotify.com/track/7zaCoHhmiCq0rTOBJH7cjK"
     },
     {
-      "added_at": "2025-03-31 16:26:09",
-      "album": {
-        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
-      },
-      "artists": [
-        {
-          "name": "Helen J Shen",
-          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
-        },
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        }
-      ],
-      "duration_ms": 162700,
-      "name": "When You're in Love",
-      "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
-    },
-    {
       "added_at": "2025-03-31 16:22:43",
       "album": {
         "name": "Operation Mincemeat: A New Musical (Original Cast Recording)",
@@ -115,6 +159,22 @@
       "duration_ms": 579677,
       "name": "Making a Man",
       "url": "https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb"
+    },
+    {
+      "added_at": "2025-06-06 04:00:06",
+      "album": {
+        "name": "Next To Normal (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolfe",
+          "url": "https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -233,6 +293,30 @@
       "url": "https://open.spotify.com/track/76hbMjjyPowtCZ3UwNUMvm"
     },
     {
+      "added_at": "2025-06-06 04:00:06",
+      "album": {
+        "name": "Boop! The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3MbP9MhBn2U54WYFxKFTEn"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "duration_ms": 286786,
+      "name": "A Little Versatility",
+      "url": "https://open.spotify.com/track/0i4QVqqtB2mnisaPLYztbh"
+    },
+    {
       "added_at": "2025-04-11 04:00:26",
       "album": {
         "name": "Together, Wherever We Go",
@@ -261,26 +345,6 @@
       "url": "https://open.spotify.com/track/4F8bLCBX09gQ4gJ0QwCVYw"
     },
     {
-      "added_at": "2025-02-21 05:00:16",
-      "album": {
-        "name": "Death Becomes Her - Broadway Sneak Preview",
-        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
-      },
-      "artists": [
-        {
-          "name": "Megan Hilty",
-          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
-        },
-        {
-          "name": "'Death Becomes Her' Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
-        }
-      ],
-      "duration_ms": 256444,
-      "name": "For The Gaze",
-      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
-    },
-    {
       "added_at": "2025-04-11 04:00:26",
       "album": {
         "name": "Boom Boom (feat. Michael Thurber & Austin Scott) [from Goddess: The Musical (Nights In Mombasa)]",
@@ -303,30 +367,6 @@
       "duration_ms": 134843,
       "name": "Boom Boom (feat. Michael Thurber & Austin Scott) [from Goddess: The Musical (Nights In Mombasa)]",
       "url": "https://open.spotify.com/track/0fkOTH4394hlNxrgOG9mKg"
-    },
-    {
-      "added_at": "2025-03-11 05:00:06",
-      "album": {
-        "name": "Something To Shout About",
-        "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Amy Rogers",
-          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
-        },
-        {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Original Broadway Cast of Boop! The Musical",
-          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Something To Shout About",
-      "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
     },
     {
       "added_at": "2025-03-31 16:26:09",
@@ -1147,174 +1187,6 @@
       "duration_ms": 235720,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/5FgQYIHI30oIUeJrInyXDq"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "New York (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/6Io2LwUMNsYctQioWkAN5G"
-      },
-      "artists": [
-        {
-          "name": "Two Strangers (Carry A Cake Across New York)",
-          "url": "https://open.spotify.com/artist/0f35iPjkC8ECxz4szceGSN"
-        },
-        {
-          "name": "Buchan & Barne",
-          "url": "https://open.spotify.com/artist/63QXEFwYV3ulV7KoE7iw3A"
-        },
-        {
-          "name": "Sam Tutty",
-          "url": "https://open.spotify.com/artist/5xrGqeeyTEVVfBWj8hItfB"
-        },
-        {
-          "name": "Dujonna Gift",
-          "url": "https://open.spotify.com/artist/6mhFBwhkTMY5fHTuTLadPR"
-        }
-      ],
-      "duration_ms": 203462,
-      "name": "New York - Studio Cast Recording",
-      "url": "https://open.spotify.com/track/6zorFxuitBjS8H4otpjF3M"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "White Girl in Danger: A New Musical (Original Off-Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6vkyKRbAS1G8AbTjrQjdCo"
-      },
-      "artists": [
-        {
-          "name": "Michael R. Jackson",
-          "url": "https://open.spotify.com/artist/2MR0a6Lp2tRxEjm4gdNiaO"
-        },
-        {
-          "name": "Latoya Edwards",
-          "url": "https://open.spotify.com/artist/0RzSGrLeoheJSNyVaNJl8o"
-        },
-        {
-          "name": "Tarra Conner Jones",
-          "url": "https://open.spotify.com/artist/6IY4esRiUbSDnGmdQ2aILs"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "White Girl in Danger",
-      "url": "https://open.spotify.com/track/0mpWBAYCOiIVLCJxEuwwz5"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "The Who's Tommy (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2TQsCLDUh4uTWUbd0G5qHh"
-      },
-      "artists": [
-        {
-          "name": "Donnie Kehr",
-          "url": "https://open.spotify.com/artist/5iMECNzLtUZYMgkGoxRTRG"
-        },
-        {
-          "name": "Christian Hoff",
-          "url": "https://open.spotify.com/artist/6r3CMGPaXRFnfbAjFq8oEb"
-        },
-        {
-          "name": "Anthony Barrile",
-          "url": "https://open.spotify.com/artist/44wBHAPsvqLx8kkbW7rK0v"
-        },
-        {
-          "name": "The Who's Tommy Ensemble",
-          "url": "https://open.spotify.com/artist/2hSOhbVzF8nGdJgQm1sORg"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Pinball Wizard",
-      "url": "https://open.spotify.com/track/3IHit4085hC8vzWiTFt6SO"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "World Burn",
-      "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
-      },
-      "artists": [
-        {
-          "name": "Brent Comer",
-          "url": "https://open.spotify.com/artist/1tiyRdoGORDtR1dRWY80lK"
-        },
-        {
-          "name": "Jason Schmidt",
-          "url": "https://open.spotify.com/artist/3XWZn3j3TsvomsnkHoSzCI"
-        },
-        {
-          "name": "Brody Grant",
-          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
-        },
-        {
-          "name": "Original Broadway Cast of The Outsiders - A New Musical",
-          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
-        }
-      ],
-      "duration_ms": 231261,
-      "name": "Throwing in the Towel",
-      "url": "https://open.spotify.com/track/7LWsZlTRMnmjRxti9DOb8v"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "EPIC: The Circe Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/5a3uE0AyEWhLumIHo9WkWN"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rivera-Herrans",
-          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
-        },
-        {
-          "name": "Talya Sindel",
-          "url": "https://open.spotify.com/artist/2cjhj5CXQPAr8nHi0Sd8fz"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Done For",
-      "url": "https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "The Little Big Things (Original West End Cast Recording)",
-        "url": "https://open.spotify.com/album/7FUdcVrbpNnC6mDEqwNeHn"
-      },
-      "artists": [
-        {
-          "name": "Jonny Amies",
-          "url": "https://open.spotify.com/artist/2JY5SABZuugEGP21u683ye"
-        },
-        {
-          "name": "The Little Big Things",
-          "url": "https://open.spotify.com/artist/5Z72Rl23lcZZ8ipkWfLcnw"
-        }
-      ],
-      "duration_ms": 202660,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/7i07v9Uf3jgHcSh2D2Zkjn"
     }
   ],
   "unique_name": "Broadway Rising",

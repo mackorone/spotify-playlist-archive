@@ -4,7 +4,7 @@
 
 > Exitos de Trap Latino 📸 Young Miko.
 
-536 songs - 1 day 5 hr 56 min
+537 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 | 2025-03-07 | 2025-04-05 |
 | [Sin Frenos](https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:31 | 2021-12-06 |  |
 | [Sincero \- Versión Trap](https://open.spotify.com/track/2qCBC4S6jBMBhutyq4i2Wa) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3yMyOFcY81tTPRGNdaIdjx) | 3:40 | 2022-07-08 | 2022-07-12 |
+| [Ski Mask](https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK) | [Queen Parker](https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ski Mask](https://open.spotify.com/album/1LwWMKZWCsI04Y9vCsp9ba) | 1:57 | 2025-06-06 |  |
 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 | 2023-02-24 | 2023-05-06 |
 | [Slow \(feat\. Lyanno\) \- Remix](https://open.spotify.com/track/4mN6iJIEEpPu2AcyHPfXbj) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Slow \(feat\. Lyanno\) \[Remix\]](https://open.spotify.com/album/1j2cJIhGQfZ7pjNlGNi2iX) | 5:39 | 2024-10-04 | 2025-01-11 |
 | [Sober](https://open.spotify.com/track/3VNAXsDEg5UfFVaacClbAZ) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [2016](https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL) | 3:42 | 2024-03-29 | 2024-09-28 |

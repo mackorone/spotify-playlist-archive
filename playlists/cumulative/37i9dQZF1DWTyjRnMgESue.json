@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new songs from modern singer-songwriters. Cover: Noah Cyrus\n",
+  "description": "The best new songs from modern singer-songwriters. Cover: Drugdealer & Weyes Blood\n",
   "name": "Today's Singer-Songwriters",
   "tracks": [
     {
@@ -5975,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "I Might",
+        "url": "https://open.spotify.com/album/4Hm3EHLMSw7v8PRtO5j9wH"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "I Might",
+      "url": "https://open.spotify.com/track/7qxhvX5rwSTUJs07Ju55gu"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -6694,6 +6712,24 @@
       "duration_ms": 133253,
       "name": "Last Minute",
       "url": "https://open.spotify.com/track/5DCkdoWNNVk6VRMhm85kA9"
+    },
+    {
+      "album": {
+        "name": "Lasting Effects",
+        "url": "https://open.spotify.com/album/113HR1TbXie2s9xTeGEGck"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Lasting Effects",
+      "url": "https://open.spotify.com/track/3bYuvzuTTyLlehuQoiGVPA"
     },
     {
       "album": {
@@ -8191,6 +8227,28 @@
     },
     {
       "album": {
+        "name": "Alan Sparhawk with Trampled by Turtles",
+        "url": "https://open.spotify.com/album/1x0de2EjrGot84ocdigfUa"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        },
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202839,
+      "name": "Not Broken",
+      "url": "https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR"
+    },
+    {
+      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -9102,6 +9160,28 @@
       "duration_ms": 172869,
       "name": "Real Good Love",
       "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"
+    },
+    {
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
     },
     {
       "album": {
@@ -10173,6 +10253,24 @@
     },
     {
       "album": {
+        "name": "Something New / Born To Love",
+        "url": "https://open.spotify.com/album/1iqamuYZCDP3OLRZgAWEjw"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171091,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/1Q8z3brhkX4Gm5RdqZlxYA"
+    },
+    {
+      "album": {
         "name": "Something to Someone",
         "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
       },
@@ -10278,7 +10376,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 179028,
       "name": "Speak Too Soon (feat. Hans Williams)",
       "url": "https://open.spotify.com/track/57xHYfCID32ZMMI6R31vSA"
@@ -10809,6 +10907,24 @@
     },
     {
       "album": {
+        "name": "That's Gonna Leave a Mark",
+        "url": "https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "That's Gonna Leave a Mark",
+      "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
+    },
+    {
+      "album": {
         "name": "That's How God Made Me (Anything\u2019s Possible Soundtrack)",
         "url": "https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3"
       },
@@ -10928,7 +11044,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 165071,
       "name": "the cage",
       "url": "https://open.spotify.com/track/2vHULk2GDOJwsJ3dU5b555"
@@ -11044,6 +11160,32 @@
       "duration_ms": 274733,
       "name": "The Less I Knew",
       "url": "https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR"
+    },
+    {
+      "album": {
+        "name": "The Little Mess You Made",
+        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201284,
+      "name": "The Little Mess You Made",
+      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
       "album": {
@@ -12594,6 +12736,42 @@
       "duration_ms": 249138,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
+    },
+    {
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/3GQ06u8aLZRNKP0UV7BUgB"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218947,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/4ByTQKBKzXc3ohxBWaxfJK"
+    },
+    {
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Witching Hour",
+      "url": "https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA"
     },
     {
       "album": {

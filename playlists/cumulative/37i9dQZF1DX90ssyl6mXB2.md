@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off.
+> late night vibes – notifications off\. cover: tyde
 
-214 songs - 9 hr 54 min
+216 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4 This Moment](https://open.spotify.com/track/1MWJbn3Yv8R1q5DaYOOzum) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:07 | 2024-02-02 |  |
 | [40 Days n 40 Nights \(feat\. Vory\)](https://open.spotify.com/track/3XYpgHhQs7Q3LsY3ALzWHr) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:16 | 2024-02-02 |  |
 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 | 2025-03-21 |  |
+| [90s FINE \(ISSA II\)](https://open.spotify.com/track/1K4OY5NTaAnosn7wkvtaO9) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [90s FINE \(ISSA II\)](https://open.spotify.com/album/2uR6QNl657cLkgKFN0Lrca) | 2:04 | 2025-06-06 |  |
 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-02-02 |  |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-02 | 2024-03-09 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 |  |
@@ -41,7 +42,7 @@
 | [claymore](https://open.spotify.com/track/22ahQd7UNBLb9JVt7LoFI2) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [claymore](https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688) | 2:32 | 2025-03-07 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 |  |
 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 | 2025-05-16 |  |
-| [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 |  |
+| [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 | 2025-06-07 |
 | [Control](https://open.spotify.com/track/6czZfg7WqAHuzNDhGkcvwr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Control](https://open.spotify.com/album/4LtgBIoZXPzm42lDIUei7m) | 2:27 | 2025-03-21 |  |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
 | [Dangerously In Love](https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Dangerously In Love](https://open.spotify.com/album/3JksmbqVD1Nj94ptBNDpBH) | 1:59 | 2024-10-25 |  |
@@ -82,7 +83,7 @@
 | [FOCUS ON ME](https://open.spotify.com/track/0L5LVmGVowzOHxXg3mm238) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 2:34 | 2025-02-07 |  |
 | [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 | 2025-02-08 |
 | [Forget U](https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Forget U](https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO) | 2:33 | 2025-03-07 |  |
-| [friends?](https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [friends?](https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs) | 1:59 | 2024-03-01 |  |
+| [friends?](https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [friends?](https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs) | 1:59 | 2024-03-01 | 2025-06-07 |
 | [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 | 2024-02-02 |  |
 | [FWM](https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [FWM](https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10) | 2:10 | 2024-02-20 |  |
 | [GET YA MONEY](https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:20 | 2025-05-02 |  |
@@ -181,7 +182,8 @@
 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 | 2024-10-25 |  |
 | [SUNRISE](https://open.spotify.com/track/2P6rt3bjK89diw8482QQt5) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [NIVA](https://open.spotify.com/album/1VUKae81QX1lng1x78e8yp) | 1:53 | 2025-04-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 | 2025-03-08 |
-| [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 |  |
+| [Talk To Me The Same](https://open.spotify.com/track/1izzvkVNFvyFZkmEP4IQAX) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [Talk To Me The Same](https://open.spotify.com/album/1ms0sdyuNVH6eyYoe85X6I) | 2:56 | 2025-06-06 |  |
+| [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 | 2025-06-07 |
 | [tell em](https://open.spotify.com/track/5bO0JH6KIaALYxvzPkrKKY) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 2:38 | 2025-04-25 |  |
 | [Tell Me](https://open.spotify.com/track/34R2RCXgGbCnMrCCOF4n6g) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Tell Me](https://open.spotify.com/album/0uYfjQvFRgO8XhsFZhkfDR) | 2:49 | 2025-01-31 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-07-26 |  |

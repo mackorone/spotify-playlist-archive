@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah
 
-286 songs - 14 hr 41 min
+287 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Ma Bae](https://open.spotify.com/track/12kikkqpvksw8aJPz3NNrJ) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [Ma Bae](https://open.spotify.com/album/1mkE3MYFQuzUBr09cCNlh2) | 3:31 | 2022-11-18 | 2023-01-21 |
 | [Madrugada](https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Madrugada](https://open.spotify.com/album/4zntUGntUiylFop68gZFiw) | 2:38 | 2022-12-02 | 2023-03-03 |
 | [mais que isso](https://open.spotify.com/track/0d5NlGvOFGrr66MDGX3W00) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:34 | 2022-11-18 | 2023-04-09 |
-| [Mais Um Pouco](https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Mais Um Pouco](https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs) | 3:05 | 2022-11-18 |  |
+| [Mais Um Pouco](https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Mais Um Pouco](https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs) | 3:05 | 2022-11-18 | 2025-06-07 |
 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 | 2025-04-05 |  |
 | [Mania de Você](https://open.spotify.com/track/5vSKbC3AYHMfAxT82WKAPQ) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Mania de Você](https://open.spotify.com/album/1P3yi6mXwdmNpF5KKWscnY) | 2:17 | 2025-03-01 | 2025-05-14 |
 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 | 2022-11-18 | 2023-07-29 |
@@ -187,6 +187,7 @@
 | [Pacotinho \(Menino\)](https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Pacotinho \(Música Pra Chá Revelação\)](https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9) | 2:42 | 2023-10-06 | 2023-11-11 |
 | [Paierin](https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv) | [Paierin](https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt) | 3:30 | 2022-11-18 | 2023-08-19 |
 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 | 2024-02-23 | 2024-05-25 |
+| [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-06 |  |
 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 | 2024-02-03 |
 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 | 2023-06-30 |  |
 | [Peça Única](https://open.spotify.com/track/4IddWpa3qZQLPxaL8YiLq4) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Peça Única](https://open.spotify.com/album/6WsYX7kscbYVpcu3h07Grk) | 2:51 | 2023-06-23 | 2023-11-11 |

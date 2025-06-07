@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Sabrina Carpenter.
 
-770 songs - 1 day 14 hr 25 min
+772 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-07-02 | 2024-07-12 |
 | [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 | 2024-10-11 |
 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-16 | 2025-02-27 |
+| [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/track/20K4ACwbRhAQAsY07m96Ca) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/album/37GedKbVaIqIkF5LDJf7oq) | 1:55 | 2025-06-06 |  |
 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 | 2024-09-20 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-03-28 |
 | [City of Angels](https://open.spotify.com/track/3Iy2Rtm4Mtyhk4DOYVzvdp) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SAINT OLGA](https://open.spotify.com/album/5YoagvPksDfrafWSapLCxd) | 2:43 | 2025-05-29 |  |
@@ -596,6 +597,7 @@
 | [Sex = Money](https://open.spotify.com/track/628gpiZGfGTFt6shikJclc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Sex = Money](https://open.spotify.com/album/2ZcQdeB6HuLYtcnR4o00x4) | 2:53 | 2024-10-10 | 2024-11-08 |
 | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/track/1kBB8qSrHeJD2lewCGhS2C) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sexmane x OFF THE BOOTH \(Respect on my name\)](https://open.spotify.com/album/3GH3dqxxpqXo0763qfZR29) | 2:52 | 2025-05-22 | 2025-06-06 |
 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 | 2025-02-08 | 2025-04-11 |
+| [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 | 2025-06-06 |  |
 | [Showtime \(feat\. Turisti\)](https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Showtime \(feat\. Turisti\)](https://open.spotify.com/album/4ZITEFlZ7rQvdAA3jYLMkQ) | 2:29 | 2024-07-02 | 2024-08-16 |
 | [Sido mut \(feat\. Yeboyah\)](https://open.spotify.com/track/0m6bjOwA8lLNdb2Eo00I2B) | [pins.ku](https://open.spotify.com/artist/2NPJuEmN4HqJ89SHO99x1w), [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [Sido mut \(feat\. Yeboyah\)](https://open.spotify.com/album/71dRsvmIWXvH6IVJorGzli) | 3:13 | 2024-12-12 | 2025-01-10 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 | 2024-10-11 |

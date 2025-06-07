@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 147839,
+  "num_followers": 147842,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACkj4khxqcbrRm7GkCbSG8V",
+  "snapshot_id": "aEDeAAAAAADxBpQpwkWWNDStkGli4wet",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Giver / Taker",
-      "url": "https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/661XFV3LB1wpEFSmumnXUM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Giver / Taker",
+      "url": "https://open.spotify.com/track/7aWAahCNnOyF1yP547S9fv"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She's Like Texas",
         "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 205506,
       "name": "Oh, Tonight (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71193,
+  "num_followers": 71197,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
-      },
-      "artists": [
-        {
-          "name": "Alex Laude",
-          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "Never Blame The Young Ones",
         "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 138823,
       "name": "Never Blame The Young Ones",
       "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "Intervention",
         "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 205611,
       "name": "Willow",
       "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
+        }
+      ],
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Lib\u00e9lula",
-        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Lib\u00e9lula",
-      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
+        "name": "Lib\u00e9lula",
+        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Lib\u00e9lula",
+      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
         "name": "Am I the Only One?",
         "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
-      },
-      "artists": [
-        {
-          "name": "Colette Blanche",
-          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
-        }
-      ],
-      "duration_ms": 137645,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -795,18 +779,18 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
       "artists": [
         {
-          "name": "Jacob Baron",
-          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+          "name": "Colette Blanche",
+          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
+      "duration_ms": 137645,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -823,6 +807,22 @@
       "duration_ms": 194637,
       "name": "Behind The Jalousie",
       "url": "https://open.spotify.com/track/39YCja6W45q9EtAtztQImq"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
+      },
+      "artists": [
+        {
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 166683,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "Rest Well, My Good Friend",
         "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 159107,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Reggimi",
-        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
-      },
-      "artists": [
-        {
-          "name": "Natalino Serafin",
-          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Reggimi",
-      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "Quand vous souriez",
         "url": "https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 118250,
       "name": "Quand vous souriez",
       "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Reggimi",
+        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
+      },
+      "artists": [
+        {
+          "name": "Natalino Serafin",
+          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Reggimi",
+      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Qu\u00e9rete a ti mesmo",
-        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165511,
-      "name": "Qu\u00e9rete a ti mesmo",
-      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -1439,6 +1423,38 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 160000,
       "name": "See you in the morning",
       "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 139500,
       "name": "A Gift To Share",
       "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
     },
     {
       "added_at": "2025-06-02 10:50:40",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-06-02 10:50:40",
       "album": {
-        "name": "Sleepy Mountains",
-        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
-      },
-      "artists": [
-        {
-          "name": "Charlie Key",
-          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
-        }
-      ],
-      "duration_ms": 224741,
-      "name": "Evening Message",
-      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
-    },
-    {
-      "added_at": "2025-06-02 10:50:40",
-      "album": {
         "name": "\u00c8 ora di dormire",
         "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 179000,
       "name": "\u00c8 ora di dormire",
       "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
+    },
+    {
+      "added_at": "2025-06-02 10:50:40",
+      "album": {
+        "name": "Sleepy Mountains",
+        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Key",
+          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+        }
+      ],
+      "duration_ms": 224741,
+      "name": "Evening Message",
+      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

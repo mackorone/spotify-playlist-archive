@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4531,
+  "num_followers": 4536,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAB8Yoev7a9ywKfBvfEjwFsY",
+  "snapshot_id": "aEDeAAAAAACCXEXq7uqoY8YMdWxAMDVu",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kinda Famous",
-        "url": "https://open.spotify.com/album/20ViMp0RQoeldbJVe4WeoN"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 142745,
-      "name": "I Got Questions",
-      "url": "https://open.spotify.com/track/1wVkPL1b8tpv4qJHf9Y3mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throwing Bows",
         "url": "https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 196152,
       "name": "Flush Em",
       "url": "https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kinda Famous",
+        "url": "https://open.spotify.com/album/20ViMp0RQoeldbJVe4WeoN"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 142745,
+      "name": "I Got Questions",
+      "url": "https://open.spotify.com/track/1wVkPL1b8tpv4qJHf9Y3mx"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Luv",
         "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 138001,
       "name": "Track & Field (feat. Kaliii)",
       "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -772,29 +772,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Little Thing (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 143020,
-      "name": "Bad Little Thing (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 192592,
       "name": "ill nana (feat. Kali)",
       "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Little Thing (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 143020,
+      "name": "Bad Little Thing (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
     },
     {
       "added_at": null,

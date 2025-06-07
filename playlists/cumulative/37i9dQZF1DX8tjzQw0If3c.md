@@ -4,7 +4,7 @@
 
 > Listen to the future\. Cover: empty page.
 
-186 songs - 10 hr 7 min
+187 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Belong To You](https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Belong To You](https://open.spotify.com/album/6qnuQBa0OcjhsLbe8brjNF) | 3:16 | 2024-09-05 | 2024-12-05 |
 | [BETTER](https://open.spotify.com/track/5CxL6DDmUBX8XbFy6NVNUa) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [License to Cry](https://open.spotify.com/album/1Zl2RonBqGsdZrSijOkeDI) | 3:19 | 2025-04-15 |  |
 | [Better Than To Brood](https://open.spotify.com/track/5X91VCyEmMssotEVwgQvHK) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Slipped Through My Fingers](https://open.spotify.com/album/0q0l36UDzuF5EUuwqu7DVr) | 3:09 | 2025-04-15 |  |
+| [better than u](https://open.spotify.com/track/7h7WqKE1VcH5mSUntNZXe0) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [better than u](https://open.spotify.com/album/2M1M1b8IG5nvXcKFvR99ea) | 3:02 | 2025-06-06 |  |
 | [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 | 2024-10-10 | 2024-12-05 |
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 | 2024-12-05 |
 | [Buih Jadi Permadani](https://open.spotify.com/track/5HjUZ1cxdN4hrmdsXACNUw) | [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij), [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Buih Jadi Permadani](https://open.spotify.com/album/0Ln5cqHxEjFcHGe7PqIgju) | 6:01 | 2024-11-28 | 2024-12-05 |

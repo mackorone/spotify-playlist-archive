@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05ea\u05e8 \u05e8\u05d3\u05d0",
-  "num_followers": 32038,
+  "num_followers": 32045,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-05 21:00:23",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
-    },
-    {
-      "added_at": "2025-06-05 21:00:23",
-      "album": {
         "name": "\u05d0\u05d9\u05e8\u05d5\u05e2 \u05de\u05ea\u05d2\u05dc\u05d2\u05dc",
         "url": "https://open.spotify.com/album/19VyaA4TAxWsw77aFuhbLF"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-06-05 21:00:23",
       "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
+    },
+    {
+      "added_at": "2025-06-05 21:00:23",
+      "album": {
         "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 180224,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-06-05 21:00:23",
+      "album": {
+        "name": "It\u2019ll Probably Be Fine",
+        "url": "https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP"
+      },
+      "artists": [
+        {
+          "name": "flatmate sessions",
+          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
+        },
+        {
+          "name": "Heart Sauce",
+          "url": "https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "It\u2019ll Probably Be Fine",
+      "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
     },
     {
       "added_at": "2025-06-05 21:00:23",
@@ -803,26 +823,6 @@
       "duration_ms": 196914,
       "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
-    },
-    {
-      "added_at": "2025-06-05 21:00:23",
-      "album": {
-        "name": "It\u2019ll Probably Be Fine",
-        "url": "https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP"
-      },
-      "artists": [
-        {
-          "name": "flatmate sessions",
-          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
-        },
-        {
-          "name": "Heart Sauce",
-          "url": "https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "It\u2019ll Probably Be Fine",
-      "url": "https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl"
     },
     {
       "added_at": "2025-06-05 21:00:23",

@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241195,
+  "num_followers": 241144,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktVAAAAAAf3HrM2zMzFUMWTsRLnWHx",
+  "snapshot_id": "aEJnzQAAAABKrNrOOxvcz5JKqdtE5bGi",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:13",
+      "album": {
+        "name": "Who I Really Am",
+        "url": "https://open.spotify.com/album/07D4Uocg83G7iPN8BZVNIh"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Who I Really Am",
+      "url": "https://open.spotify.com/track/7owXpWh50yqVlul8WnSb8J"
+    },
     {
       "added_at": "2025-05-30 04:00:20",
       "album": {
@@ -1807,30 +1823,6 @@
       "duration_ms": 137798,
       "name": "Making it Right",
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
-    },
-    {
-      "added_at": "2022-12-16 13:06:50",
-      "album": {
-        "name": "Earworm",
-        "url": "https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
-        }
-      ],
-      "duration_ms": 144588,
-      "name": "Earworm",
-      "url": "https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl"
     },
     {
       "added_at": "2022-10-28 04:01:00",

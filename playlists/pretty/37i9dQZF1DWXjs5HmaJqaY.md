@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,187 likes - 63 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,264 likes - 63 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 62 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
 | 63 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 
-Snapshot ID: `aDj1YQAAAACIXD7YD/9hZYNE+eTE1Vzo`
+Snapshot ID: `aDj1YQAAAADnUFN7Wh3PZh8Ji2cog201`

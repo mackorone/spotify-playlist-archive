@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: yung kai
 
-1,165 songs - 2 day 12 hr 38 min
+1,167 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Bing Bong Love Song](https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Bing Bong Love Song](https://open.spotify.com/album/4MuTKimimHG4JUMaI3S1LW) | 2:18 | 2022-07-22 | 2022-09-05 |
 | [Birdwatcher](https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Birdwatcher](https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ) | 3:12 | 2024-03-22 | 2024-09-28 |
 | [Bite](https://open.spotify.com/track/1PebqTQikPJyfPQRPE7HHp) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Bite](https://open.spotify.com/album/2bMhn1miGNinoPHZP33tmj) | 2:22 | 2025-02-28 |  |
+| [BITE](https://open.spotify.com/track/7wcLxoDNmNx4WiABHJZrrU) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [BITE](https://open.spotify.com/album/4xKgTA0pfAL8OEvSRSiEoU) | 2:50 | 2025-06-06 |  |
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-05-27 | 2023-06-06 |
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-09-23 | 2022-10-08 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-08-26 |
@@ -226,7 +227,7 @@
 | [CTM \(The Conversation\)](https://open.spotify.com/track/4VWQSKCPDyyr5YEFWc2m5Z) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [CTM \(The Conversation\)](https://open.spotify.com/album/03bYP4Du4i6U2ZiJ3QKhF0) | 4:15 | 2022-08-19 | 2022-09-17 |
 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 | 2025-02-14 |  |
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-14 | 2023-11-11 |
-| [DA DA DA](https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DA DA DA](https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob) | 2:18 | 2025-04-25 |  |
+| [DA DA DA](https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DA DA DA](https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob) | 2:18 | 2025-04-25 | 2025-06-07 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-08-26 | 2022-10-21 |
 | [dance dance](https://open.spotify.com/track/1SaUBCZJOk3XCCZd1nFOte) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [The Happy Star](https://open.spotify.com/album/6TncHvvXh96HDGtWGrsNIV) | 2:54 | 2023-02-18 | 2023-07-01 |
 | [Dance on the Shoreline](https://open.spotify.com/track/7uUwOx2B3emiTPtlhuRsMy) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI) | 4:20 | 2024-10-25 | 2025-03-08 |
@@ -1128,6 +1129,7 @@
 | [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 | 2024-10-26 |
 | [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 | 2022-10-07 | 2023-09-02 |
 | [Wishful Thinking](https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie) | 3:06 | 2022-05-27 | 2022-10-13 |
+| [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 | 2025-06-06 |  |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-11 | 2024-02-10 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-24 | 2024-06-15 |
 | [Wonder](https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:40 | 2023-09-22 | 2024-06-15 |

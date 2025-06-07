@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-631 songs - 1 day 8 hr 26 min
+633 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-08-31 | 2024-04-19 |
 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 | 2023-11-16 | 2024-11-22 |
 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 | 2024-02-15 | 2025-02-06 |
+| [Club](https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Club](https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll) | 2:39 | 2025-06-06 |  |
 | [Clueless](https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B) | [Clueless](https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp) | 3:10 | 2023-11-16 | 2024-11-22 |
 | [Comfortable](https://open.spotify.com/track/7GZCvyXbdMq9mRhf5lNQgI) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Comfortable](https://open.spotify.com/album/2tJSVkMzgZxqP4GXHljomJ) | 2:29 | 2021-12-16 | 2022-01-21 |
 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 | 2024-09-27 | 2025-04-12 |
@@ -156,6 +157,7 @@
 | [Drift Away](https://open.spotify.com/track/1ulIop5lMzMh8I8lMwr5BV) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Drift Away](https://open.spotify.com/album/49ryzSWOevlcCrnra9sI8x) | 2:27 | 2023-04-20 | 2023-08-22 |
 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 | 2024-11-14 |  |
 | [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 | 2025-02-05 |  |
+| [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-06 |  |
 | [Drop In](https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Drop In](https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3) | 3:26 | 2023-11-08 | 2024-10-05 |
 | [Drunk Tank](https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Man Makes Plans](https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC) | 2:49 | 2023-01-12 | 2023-09-15 |
 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 | 2023-10-12 | 2024-09-28 |

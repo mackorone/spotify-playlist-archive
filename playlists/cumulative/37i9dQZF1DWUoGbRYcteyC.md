@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-303 songs - 17 hr 28 min
+304 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [El Cielo a Mi Favor](https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:48 | 2021-12-06 | 2023-04-15 |
 | [El verdadero amor perdona \- dueto con Prince Royce](https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Drama Y Luz Edición Deluxe](https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u) | 3:58 | 2021-12-06 | 2023-10-14 |
 | [Ella](https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:18 | 2021-12-06 | 2023-10-14 |
-| [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 | 2022-12-10 |  |
+| [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 | 2022-12-10 | 2025-06-07 |
 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 | 2024-02-23 |  |
 | [En Otra Vida](https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Décimo Cuarto](https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2) | 3:16 | 2023-05-26 | 2023-09-16 |
 | [Encima De Mil](https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Encima De Mil](https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E) | 3:09 | 2021-12-06 | 2022-07-29 |
@@ -242,6 +242,7 @@
 | [Si tú no vuelves \- MTV Unplugged](https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:24 | 2021-12-06 | 2023-01-07 |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2023-02-10 |  |
 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 | 2021-12-06 | 2023-10-14 |
+| [Solo dime](https://open.spotify.com/track/5KkzK5Q0yJaoDKWJ6ons7u) | [Eliú](https://open.spotify.com/artist/6e1kBESgPygJc5EXQ3YY9l) | [Solo dime](https://open.spotify.com/album/73LJ6GfwGAdsICL1fjLiIX) | 2:44 | 2025-05-30 |  |
 | [Solo Mía](https://open.spotify.com/track/46lKF7Q9AUWeQEHM9XuEGe) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 4:15 | 2021-12-06 | 2023-01-07 |
 | [Sonreír](https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Sonreír](https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk) | 3:31 | 2021-12-06 | 2022-07-29 |
 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:29 | 2021-12-06 | 2023-10-14 |

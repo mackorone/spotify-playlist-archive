@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nh594yQ7PkhEPzUUAKlnH.md) - [plain]
 
 > It's the weekend and you need some popular songs to hang out with\. We've got you covered.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

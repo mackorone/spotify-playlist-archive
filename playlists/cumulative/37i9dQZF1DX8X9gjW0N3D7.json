@@ -1005,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Scarab\u00e9e",
+        "url": "https://open.spotify.com/album/6y1UMNEMz5lFm0eZZ6v39f"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        },
+        {
+          "name": "Patrick Krief",
+          "url": "https://open.spotify.com/artist/3qLS4mXlfuL6vnKdDe2dK6"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217552,
+      "name": "Il y a tant de moi en vous",
+      "url": "https://open.spotify.com/track/49bqtZIf4uii8vOQQD4hsy"
+    },
+    {
+      "album": {
         "name": "Imprudences",
         "url": "https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F"
       },
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 172646,
       "name": "J'ai beau essayer mais \u00e7a s'passe moyen",
       "url": "https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv"
@@ -1132,6 +1154,24 @@
       "duration_ms": 136153,
       "name": "J'veux pas qu'tu t'en ailles",
       "url": "https://open.spotify.com/track/1NKfADOLOFUiYvK4MTmQey"
+    },
+    {
+      "album": {
+        "name": "Je marche comme on tombe",
+        "url": "https://open.spotify.com/album/6vfFn1ttiRfvZMyAcxJvYv"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Je marche comme on tombe",
+      "url": "https://open.spotify.com/track/4WAqdaelI3E9Gsqj8zk7lg"
     },
     {
       "album": {
@@ -2666,7 +2706,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 193323,
       "name": "Te laisser des mots",
       "url": "https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT"

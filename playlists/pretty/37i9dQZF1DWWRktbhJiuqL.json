@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2027145,
+  "num_followers": 2027177,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189133,
       "name": "Blame It on the Boom Boom",
       "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Blunderbuss",
-        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Sixteen Saltines",
-      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Perhaps",
-        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+        "name": "Blunderbuss",
+        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 228406,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
+      "duration_ms": 155720,
+      "name": "Sixteen Saltines",
+      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+        "name": "Chronicles Of The Kid",
+        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
         }
       ],
-      "duration_ms": 325906,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1559,6 +1559,22 @@
       "duration_ms": 224480,
       "name": "Sinister Kid",
       "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Chronicles Of The Kid",
-        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Heavy Shoes",
         "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 188142,
       "name": "In The Night Time",
       "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Fallin' With Me",
+        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 161791,
+      "name": "Fallin' With Me",
+      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1703,22 +1719,6 @@
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "Fallin' With Me",
-        "url": "https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 161791,
-      "name": "Fallin' With Me",
-      "url": "https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "the garden",
         "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "The Art Of Letting Go",
         "url": "https://open.spotify.com/album/0eXQmC5w5ziGRBN3yhnQKK"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 213580,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/4nkIEw3tLQ153CXJBu5WWN"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+      },
+      "artists": [
+        {
+          "name": "Mammoth",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 253126,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 210850,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 341666,
-      "name": "This Land",
-      "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 253126,
-      "name": "Maktub",
-      "url": "https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Too Good At Raising Hell",
         "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
       },
@@ -2235,6 +2219,38 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 341666,
+      "name": "This Land",
+      "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Can't Stop Talking",
+        "url": "https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "Can't Stop Talking",
+      "url": "https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "One Foot In The Grave",
         "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 155603,
       "name": "Play My Favourite Song",
       "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "Can't Stop Talking",
-        "url": "https://open.spotify.com/album/7onaqBNVYbUE8CkAmBzXaA"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "Can't Stop Talking",
-      "url": "https://open.spotify.com/track/09b2bFKmoijMzZrT1l3bmT"
     },
     {
       "added_at": "2025-02-14 05:00:20",

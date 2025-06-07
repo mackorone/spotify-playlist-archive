@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 206626,
       "name": "Erinnerung",
       "url": "https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 154700,
       "name": "Herzklopfen",
       "url": "https://open.spotify.com/track/6dLWasqyHJFkQqOGTrbeLO"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 228736,
       "name": "Monoton",
       "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
@@ -3532,6 +3532,24 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+    },
+    {
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/6fO6oMSAm0wuMd9jmBUcJz"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2025-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134397,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/4hNZx978dxzYQl6TkgIqHP"
     },
     {
       "album": {

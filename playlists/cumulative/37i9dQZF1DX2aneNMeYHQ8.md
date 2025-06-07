@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: My Morning Jacket
 
-570 songs - 1 day 10 hr 36 min
+572 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [In Memory \(Of When I Cared\)](https://open.spotify.com/track/6ckJkoKEqCJi0jmtEVuvGc) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [In Memory \(Of When I Cared\)](https://open.spotify.com/album/4JmtSJv4Hl3QAVhIjJKIT4) | 2:53 | 2022-05-25 | 2022-07-09 |
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-12-13 |  |
 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 | 2022-01-11 | 2024-09-17 |
+| [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-06 |  |
 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-11-11 | 2023-08-20 |
 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 | 2023-08-18 | 2024-04-19 |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-17 |  |
@@ -308,6 +309,7 @@
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-07-01 |  |
 | [Might Be Right](https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:57 | 2021-01-29 | 2022-04-23 |
 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 | 2022-07-01 | 2024-07-13 |
+| [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 | 2025-06-06 |  |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-02-12 |
 | [Mint Julep](https://open.spotify.com/track/0izRR8T2RxE2BVyqcgv94U) | [Mac Saturn](https://open.spotify.com/artist/1mhQaaVp2t1WobfIADrcd2) | [Hard to Sell](https://open.spotify.com/album/59NwDI1b2txt6J8EQHlNR0) | 3:29 | 2024-01-12 | 2024-04-06 |
 | [Mint Julep](https://open.spotify.com/track/3FN1OsdkfS1ruQrgAWMnOK) | [Mac Saturn](https://open.spotify.com/artist/1mhQaaVp2t1WobfIADrcd2) | [Sleep](https://open.spotify.com/album/0pTEROc8U5z9tUn2UvRnuv) | 3:29 | 2023-12-08 | 2024-02-01 |
@@ -318,7 +320,7 @@
 | [Mister Los Angeles](https://open.spotify.com/track/5ItGcd46wE3U531gLtiPS5) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Oh Brother](https://open.spotify.com/album/7ozwkrV2oc26STev2UHPWK) | 3:36 | 2024-10-14 | 2025-01-18 |
 | [Monsters](https://open.spotify.com/track/09rfu2MDFDESVeAMlKMaCf) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 3:33 | 2023-06-09 | 2024-08-21 |
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-21 |  |
-| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-08-26 |  |
+| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-08-26 | 2025-06-07 |
 | [Mother Road](https://open.spotify.com/track/1zac3cinV2EJFUBpIRiLVm) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5pjySEa5oydXp95sJrg9ew) | 5:12 | 2023-05-12 | 2023-06-10 |
 | [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2023-02-10 | 2023-04-11 |
 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-10-14 |  |
@@ -504,7 +506,7 @@
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-06-09 | 2024-10-05 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-21 |  |
 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 | 2024-08-30 | 2024-10-15 |
-| [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 | 2024-12-13 |  |
+| [The Rest Of Me \- Edit](https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me \(Edit\)](https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc) | 3:06 | 2024-12-13 | 2025-06-07 |
 | [The Ripple](https://open.spotify.com/track/0zWM14GHB53fJNUNJf5y3H) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [The Ripple](https://open.spotify.com/album/7FCAHU53l7CvZwFfHOEXrH) | 3:24 | 2021-04-02 | 2022-04-09 |
 | [The Rush](https://open.spotify.com/track/0GY2MWZBsPjHJetTPAacuG) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde Eyes, Steady Hands](https://open.spotify.com/album/4PNTQIrZzdj2FJEVzyrxTP) | 3:07 | 2021-01-29 | 2022-01-22 |
 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 | 2022-02-25 | 2023-08-27 |

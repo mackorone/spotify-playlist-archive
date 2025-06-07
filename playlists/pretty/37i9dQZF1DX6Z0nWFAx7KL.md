@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,765 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,768 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 47 | [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 |
 | 48 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 49 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
-| 50 | [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 |
-| 51 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 |
+| 50 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 |
+| 51 | [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 |
 | 52 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
 | 53 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
 | 54 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |

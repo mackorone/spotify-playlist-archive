@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: SenSey'",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Naza",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 206213,
       "name": "AMOUR",
       "url": "https://open.spotify.com/track/5P3iwS6z4dUVc6dlk24ret"
@@ -1812,6 +1812,24 @@
       "duration_ms": 206666,
       "name": "C'est dos\u00e9",
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
+    },
+    {
+      "album": {
+        "name": "C'est incroyable",
+        "url": "https://open.spotify.com/album/2Szye4IrWrvlQXDfdKy4Xh"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143602,
+      "name": "C'est incroyable",
+      "url": "https://open.spotify.com/track/4DWzd96wVSDnV0OShkB7Y6"
     },
     {
       "album": {
@@ -7169,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/3HaKNCMHhIqthKSrftGwqG"
+      },
+      "artists": [
+        {
+          "name": "Miggs De Bruijn",
+          "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/7AebhPeS3aGC4OesngC5WK"
+    },
+    {
+      "album": {
         "name": "Mon bonheur",
         "url": "https://open.spotify.com/album/10mo1JVParjtGIAL9pM5p1"
       },
@@ -9778,7 +9814,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 217943,
       "name": "Samukaya (feat. Mosty)",
       "url": "https://open.spotify.com/track/0E2Vr9povqsD8PbDbP4ugD"

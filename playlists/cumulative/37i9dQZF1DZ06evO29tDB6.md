@@ -4,7 +4,7 @@
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 42 min
+87 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [El niño sin amor](https://open.spotify.com/track/1Yu18BneXx007JcwcOh5Wa) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El niño sin amor \(Editado 7 Tracks\)](https://open.spotify.com/album/33UOKo7tuxsWlDUtTXswic) | 3:07 | 2023-01-14 |  |
 | [El rey](https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 | 2024-02-11 |  |
 | [Encuentros cercanos del 3er\. sexo \- En vivo](https://open.spotify.com/track/1hAExu07HNO7SkljuiUUfm) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [En vivo y a todo calor \(En el Hollywood Palladium\)](https://open.spotify.com/album/30XSCjeJiHkWqEUrWvx6o3) | 7:22 | 2023-01-14 | 2025-03-03 |
+| [Encuentros cercanos del tercer sexo](https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:29 | 2025-06-07 |  |
 | [Eres El Mejor](https://open.spotify.com/track/7kqaIIh8JLx97FIBVh7tNW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Yo Quiero Ser Tu Celular](https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3) | 2:33 | 2024-05-25 | 2024-07-21 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/4CylBNj92fpsrBDF897Amk) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Nacho Cano](https://open.spotify.com/artist/3sNPNZwXgDcCY71Jqa7kMe), [Reparto Original Malinche El Musical](https://open.spotify.com/artist/414Ri5Zew60OnucnMZ0ZNg) | [Esta Tarde Vi Llover](https://open.spotify.com/album/5p5V4KWu8WYfOiFrOM0Xk1) | 2:27 | 2023-07-08 | 2023-11-11 |
 | [Hard to Handle](https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hard to Handle](https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX) | 3:10 | 2023-11-10 |  |
@@ -51,7 +52,7 @@
 | [Mi chava no me comprende](https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 | 2023-01-14 |  |
 | [Millones de niños](https://open.spotify.com/track/75JIJSHFyBHV1MuRKSoxEx) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 9:16 | 2023-01-14 | 2023-05-30 |
 | [Nezayork](https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Nezayork](https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR) | 2:34 | 2023-11-10 | 2024-06-01 |
-| [Niño sin amor \- Live](https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 5:36 | 2023-01-14 |  |
+| [Niño sin amor \- Live](https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 5:36 | 2023-01-14 | 2025-06-07 |
 | [No hay pedo](https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Fin de siglo](https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD) | 2:31 | 2024-01-24 | 2024-11-15 |
 | [No Soy Tu Perro](https://open.spotify.com/track/3XVHMzqnE8vhVVGDKPFxR8) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No Soy Tu Perro](https://open.spotify.com/album/5N04Cpk0KQpwZioDIcvtEw) | 4:27 | 2023-03-21 | 2023-08-26 |
 | [Nocivo para la salud](https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 2:56 | 2023-01-14 |  |

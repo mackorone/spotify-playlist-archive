@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz?si=sTYNlMztQc2xwbJ491mn\-A">Dandi Noxx</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=4\-y6kClNQsGZtoTCIiUuNw">MashBeatz</a>
 
-966 songs - 2 day 3 hr 26 min
+968 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [NO PROBLEM](https://open.spotify.com/track/3Q8SuoukDpBMdxfNeOOZGY) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU) | [NO PROBLEM](https://open.spotify.com/album/009ohYizTzznE4elBqq5SO) | 2:27 | 2024-10-31 | 2025-05-16 |
 | [No Sense](https://open.spotify.com/track/3rjJiFBIlhh19FbfrQ0Vf6) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [No Sense](https://open.spotify.com/album/3zFIVUvye9UkNY7KCq4tNM) | 2:42 | 2024-03-07 | 2024-07-27 |
 | [No Stopping](https://open.spotify.com/track/0TZFgS73PvDav3r0faB9Lu) | [Phonixthecool](https://open.spotify.com/artist/0ebXLaeFSG6yP0P084hbqu) | [No Stopping](https://open.spotify.com/album/2Pz05T6ug5SNFtCpyJYcw4) | 3:16 | 2022-03-17 | 2022-03-25 |
+| [NOBODY \(feat\. Nasty C & Usimamane\)](https://open.spotify.com/track/3wv83tW5C9wNszgZZFnNCw) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [THE SECRET FREQUENCY](https://open.spotify.com/album/30f4LWkDnRrxoJ7pt539M4) | 2:58 | 2025-06-06 |  |
 | [Nodoby Knows](https://open.spotify.com/track/62X8GTCg92fSdDZUNdaqx6) | [Dan Mwale](https://open.spotify.com/artist/05DU2HcEknIpDe2gKQe5ts), [Sauceman Guluva](https://open.spotify.com/artist/1oWG4jiFP4uULej05ggxTy), [Tidy Smog](https://open.spotify.com/artist/5TeJ22ta5wBx58Kxzw964p) | [No Skips Deluxe](https://open.spotify.com/album/19ys2UgpRwX4bM5msXdeht) | 3:32 | 2022-03-10 | 2022-03-18 |
 | [Nomalanga](https://open.spotify.com/track/7FtixzGjSWT5uh8bOVUsfH) | [Zuluboy](https://open.spotify.com/artist/4wrJJ3dHLcfdaMdIc5eF6B) | [Inqolobane](https://open.spotify.com/album/2vjOtlH4JwlL9nUoB3btPZ) | 4:38 | 2023-01-30 | 2023-02-02 |
 | [Nonchalant](https://open.spotify.com/track/5LmglsVNpPZwjIZV3bmHfH) | [Jay Sip](https://open.spotify.com/artist/0OK9vbAC0dRhByipFAHkHC), [Marksman Lucre](https://open.spotify.com/artist/3u91CE4u3HQaZQalHTnXYn) | [More From Me](https://open.spotify.com/album/4cXKNC3nuHewQNy43TNj2Z) | 3:26 | 2022-09-09 | 2022-12-13 |
@@ -744,6 +745,7 @@
 | [Soaring](https://open.spotify.com/track/6LTYfqHAzofxbauhzxKIfp) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Almost Dead](https://open.spotify.com/album/0XjaY3caFmKPf2JG1vKK6T) | 2:15 | 2022-12-12 | 2023-02-01 |
 | [Social Ills](https://open.spotify.com/track/7m2wTfNDeE1fvZIVuEtvco) | [Godessa](https://open.spotify.com/artist/44U7CX6sEeWA1YkVsUfAqz) | [Cape Of Good Dope](https://open.spotify.com/album/3cFgEXZtZb2dXQU0vtG7AL) | 3:13 | 2023-01-30 | 2023-02-02 |
 | [SODI KNOWS](https://open.spotify.com/track/2B6x5UAz6qcOxIqV3PP1At) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [SODI KNOWS](https://open.spotify.com/album/0M1xraKEUKw1vS8E1tVSTA) | 2:52 | 2024-12-19 | 2025-05-24 |
+| [Soft](https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Soft](https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ) | 2:15 | 2025-06-06 |  |
 | [Soldier](https://open.spotify.com/track/427j7juxoIn7rDcdvDajuO) | [Jub Jub](https://open.spotify.com/artist/2ycgSd51jzPuxgCXb3e0mS), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Soldier](https://open.spotify.com/album/3IFTM6hwzIxBBQo0CDE8EE) | 2:44 | 2023-05-11 | 2023-07-08 |
 | [SOME MORE \(feat\. BENJAMIN\)](https://open.spotify.com/track/70HN8JZRe0KGQ3QAv8NU3v) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [Tee Fermenso](https://open.spotify.com/artist/0lNe8Y6D5StOZdhv13c5e5), [BENJAMIN](https://open.spotify.com/artist/5vGBEOddwhwgvzoHIbl1ji) | [SOME MORE \(feat\. BENJAMIN\)](https://open.spotify.com/album/1BjSFtGVHRVyuGqS8omtPS) | 3:22 | 2023-10-05 | 2023-10-27 |
 | [Something Special \(feat\. Marcus Harvey\)](https://open.spotify.com/track/34zAWBabuhc593VUuQMStN) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Something Special \(feat\. Marcus Harvey\)](https://open.spotify.com/album/39Mds84KeF5i1zuUQfQvkt) | 3:42 | 2024-09-26 | 2025-03-14 |

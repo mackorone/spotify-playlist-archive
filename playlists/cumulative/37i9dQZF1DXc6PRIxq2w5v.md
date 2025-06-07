@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: 2metro
 
-482 songs - 1 day 0 hr 48 min
+483 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Rei](https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [Sensei Songs](https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb) | [Rei](https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua) | 2:23 | 2022-04-26 | 2023-07-08 |
 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 | 2022-06-10 | 2024-12-07 |
 | [Reino de Deus \- Utopia](https://open.spotify.com/track/3AIYvoE2IlXmUFdSDU2MRX) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Marina Silva](https://open.spotify.com/artist/0TzYOLMd9cjGNFgbWlkPhD) | [Reino de Deus \- Utopia](https://open.spotify.com/album/2uc3wyMkyQk63n0J9KR28f) | 2:57 | 2023-07-14 | 2023-08-05 |
+| [RENAN](https://open.spotify.com/track/0kqXv4y60p6xqppA7aLV3i) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [RENAN](https://open.spotify.com/album/3388rmKL5EeHr5edeSiNMj) | 2:39 | 2025-06-06 |  |
 | [Renuncio o Meu Eu](https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Renuncio o Meu Eu](https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D) | 3:10 | 2024-12-06 |  |
 | [Renúncia](https://open.spotify.com/track/70osJyLLdz5XgDcDuxgjbm) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Renúncia](https://open.spotify.com/album/05tp0ebY7qDi7mgkjYLAMI) | 2:41 | 2023-12-22 |  |
 | [Repara](https://open.spotify.com/track/76EUcaCEhCkjeMI02Ahyki) | [The Free Church](https://open.spotify.com/artist/3uIzl2Zys6TrtG8umGBAdM), [Esdras Atalaia](https://open.spotify.com/artist/2yNrIfk2ImavNu8FJ6wczd), [Guimarães21](https://open.spotify.com/artist/4MEKEwDHDkMoOjc1qFZxTk) | [Repara](https://open.spotify.com/album/1qMQzRPRt3q457Vqv5W438) | 3:46 | 2023-03-17 | 2023-07-08 |
@@ -430,7 +431,7 @@
 | [Te Agradeço](https://open.spotify.com/track/5DDWvqCt4JhlTy1gRo8Aj2) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Te Agradeço](https://open.spotify.com/album/3w0JXy6UdPI8fMYo5O4TsG) | 2:16 | 2023-04-15 | 2023-05-13 |
 | [Te Encontrar](https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Te Encontrar](https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV) | 2:47 | 2023-07-21 | 2023-07-29 |
 | [Telefone](https://open.spotify.com/track/41ddz03BDKqt3l6hfDvkYB) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Telefone](https://open.spotify.com/album/53gUYKttbO0y7tPUsk4qf7) | 2:58 | 2023-08-18 | 2023-09-02 |
-| [Tempestade](https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH), [Isaac Folly](https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB) | [Tempestade](https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1) | 3:24 | 2023-04-28 |  |
+| [Tempestade](https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH), [Isaac Folly](https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB) | [Tempestade](https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1) | 3:24 | 2023-04-28 | 2025-06-07 |
 | [Tempestade](https://open.spotify.com/track/1I57j6OTcEJWShxaa6xrS7) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Insanou](https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3) | [Tempestade](https://open.spotify.com/album/76wlxLNGpKzyTGItuvzMDU) | 3:44 | 2023-07-14 | 2023-07-22 |
 | [Tempo pra Tudo](https://open.spotify.com/track/4reOAuEYcw13yImUIFS71W) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Tempo pra Tudo](https://open.spotify.com/album/1eok8fki5vOFimJnplkCTo) | 3:01 | 2023-02-24 | 2023-04-29 |
 | [Teologia Negra](https://open.spotify.com/track/6yoco3ulwjuskHpxH3h9qL) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Teologia Negra](https://open.spotify.com/album/6WQaF4Ig4xJhtw6yFmyBMJ) | 2:04 | 2024-09-13 | 2024-10-18 |

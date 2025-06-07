@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \ub9ac\ubca0\ub780\ud14c (Libelante)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4712,
+  "num_followers": 4714,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
+      },
+      "artists": [
+        {
+          "name": "Libelante",
+          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
+    },
+    {
+      "added_at": "2025-05-27 09:14:59",
+      "album": {
         "name": "2022 Winter SMTOWN : SMCU PALACE",
         "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
       },
@@ -811,30 +827,6 @@
       "duration_ms": 129440,
       "name": "Welcome To SMCU PALACE",
       "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
-    },
-    {
-      "added_at": "2025-05-27 09:14:59",
-      "album": {
-        "name": "psalms",
-        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        },
-        {
-          "name": "Budapest Scoring Orchestra and Choir",
-          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
-        },
-        {
-          "name": "Jung Eun Hye",
-          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "26.9",
-      "url": "https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -859,18 +851,26 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
+        "name": "psalms",
+        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
       "artists": [
         {
-          "name": "Libelante",
-          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        {
+          "name": "Budapest Scoring Orchestra and Choir",
+          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        },
+        {
+          "name": "Jung Eun Hye",
+          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
         }
       ],
-      "duration_ms": 250413,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
+      "duration_ms": 217480,
+      "name": "26.9",
+      "url": "https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
+    },
+    {
+      "added_at": "2025-05-27 09:14:59",
+      "album": {
         "name": "Modern Cello",
         "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 305000,
       "name": "Us, then",
       "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
-    },
-    {
-      "added_at": "2025-05-27 09:14:59",
-      "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
-      },
-      "artists": [
-        {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
       },
       "artists": [
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 195283,
-      "name": "When We Meet Again",
-      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
+      "duration_ms": 283880,
+      "name": "Il Mare Calmo Della Sera",
+      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
       },
       "artists": [
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 283880,
-      "name": "Il Mare Calmo Della Sera",
-      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        },
+        {
+          "name": "COAST82",
+          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+        }
+      ],
+      "duration_ms": 279528,
+      "name": "Island baby",
+      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+    },
+    {
+      "added_at": "2025-05-27 09:14:59",
+      "album": {
         "name": "Remembering That Time",
         "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
       },
@@ -1663,22 +1683,6 @@
       "duration_ms": 267986,
       "name": "Remembering That Time",
       "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
-    },
-    {
-      "added_at": "2025-05-27 09:14:59",
-      "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 348446,
-      "name": "Cello Forest",
-      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1703,22 +1707,18 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
       },
       "artists": [
         {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        },
-        {
-          "name": "COAST82",
-          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 279528,
-      "name": "Island baby",
-      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "Modern Cello",
-        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+        "name": "Bartok Violin Concerto",
+        "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
       },
       "artists": [
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Lee Jong Eun",
+          "url": "https://open.spotify.com/artist/3Z99KEDvrRSX1hRfYpcy4u"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Blooming",
-      "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
+      "duration_ms": 1015440,
+      "name": "Violin Concerto No. 2, BB 117: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1935,22 +1939,18 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "Bartok Violin Concerto",
-        "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
       },
       "artists": [
         {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Lee Jong Eun",
-          "url": "https://open.spotify.com/artist/3Z99KEDvrRSX1hRfYpcy4u"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 1015440,
-      "name": "Violin Concerto No. 2, BB 117: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf"
+      "duration_ms": 184000,
+      "name": "Blooming",
+      "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -1967,26 +1967,6 @@
       "duration_ms": 157946,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
-    },
-    {
-      "added_at": "2025-05-27 09:14:59",
-      "album": {
-        "name": "Schubert: Piano Sonatas III",
-        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "William Youn",
-          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
-        }
-      ],
-      "duration_ms": 628546,
-      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
-      "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -2011,6 +1991,26 @@
       "duration_ms": 361853,
       "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
       "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
+    },
+    {
+      "added_at": "2025-05-27 09:14:59",
+      "album": {
+        "name": "Schubert: Piano Sonatas III",
+        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "William Youn",
+          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+        }
+      ],
+      "duration_ms": 628546,
+      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
+      "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
     },
     {
       "added_at": "2025-05-27 09:14:59",
@@ -2047,18 +2047,30 @@
     {
       "added_at": "2025-05-27 09:14:59",
       "album": {
-        "name": "Sound for Pets",
-        "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
+        "name": "Dream Quilter",
+        "url": "https://open.spotify.com/album/0sSgf9k492KRXE9uwzUwpj"
       },
       "artists": [
         {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paul Verlaine",
+          "url": "https://open.spotify.com/artist/7nZSFxwhYPg0lT15y8cx6F"
+        },
+        {
+          "name": "David DQ Lee",
+          "url": "https://open.spotify.com/artist/2TtSZl1TkC0DMgp1726W1C"
+        },
+        {
+          "name": "das freie orchester Berlin",
+          "url": "https://open.spotify.com/artist/5wuGtP9IxJx2EKUlAyYJcI"
         }
       ],
-      "duration_ms": 309600,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
+      "duration_ms": 301120,
+      "name": "Suite Bergamasque L. 75: 3. Clair de Lune",
+      "url": "https://open.spotify.com/track/0oEpFHMabWJrE4cagcJEvZ"
     }
   ],
   "unique_name": "Classics Korea",

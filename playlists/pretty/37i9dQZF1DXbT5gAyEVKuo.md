@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Travis Greene & Forward City
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,878 likes - 75 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,919 likes - 75 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [Better than Life \- Live](https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz) | [Vizion Worship](https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0), [Katrina Houston](https://open.spotify.com/artist/10yRCRMqHkgFSSrXEcJqeE) | [Better than Life \(Live\)](https://open.spotify.com/album/4zcsi3YBVPTItEHMOyvguC) | 4:20 |
 | 75 | [You Are Good \(Live\)](https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Are Good \(Live\)](https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP) | 4:34 |
 
-Snapshot ID: `AAAAAI3tQnLGEX/wD73/k3nm4uML+78Y`
+Snapshot ID: `aCf5OQAAAABvpF5zerbCOO02DhNBxr/T`

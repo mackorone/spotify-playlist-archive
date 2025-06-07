@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,804 likes - 34 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,805 likes - 34 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 33 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 |
 | 34 | [Sixtyniner](https://open.spotify.com/track/77DwUe5ydUuDfSiurT0VCX) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 5:17 |
 
-Snapshot ID: `aD+MgAAAAACmLQ2n77Nmjakwa7PN9ybX`
+Snapshot ID: `aEDeAAAAAABRMkfbj2U/EzVoxuMDAJKJ`

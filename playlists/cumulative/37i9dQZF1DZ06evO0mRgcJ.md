@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 41 min
+87 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [El Niño Fame](https://open.spotify.com/track/2EzRb90iPu15kFq0Ia1evR) | [Los Chavalos de California](https://open.spotify.com/artist/1mkQparEZMfT9Zbgb5mLMk), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Niño Fame](https://open.spotify.com/album/0g0PfLThD4vHLK8DIZZGKF) | 2:41 | 2024-11-25 |  |
 | [EL NIÑO FAME](https://open.spotify.com/track/0qbKFZVCMIZ9LWyOEVTeeP) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 2:38 | 2024-04-10 |  |
 | [El Samurai](https://open.spotify.com/track/3PjPdmbhzvDRt7lSCrDtpr) | [Buknas De Culiancan](https://open.spotify.com/artist/4ltNeZd8JcwBALDRoTRVpU), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Favoritos](https://open.spotify.com/artist/1Ti9TrFc0eVpEmNngPt5Iy), [Ruta 15](https://open.spotify.com/artist/4k9ZhU49pleTTjKqyrlNlZ) | [Corridos De Accionar](https://open.spotify.com/album/03xxMNyDSb2YvMPMwF7O9r) | 2:49 | 2024-01-29 | 2024-12-08 |
-| [El Señor de las Hummers](https://open.spotify.com/track/4sjspyI8IcrdhLNWTqw4WZ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:59 | 2025-05-19 |  |
+| [El Señor de las Hummers](https://open.spotify.com/track/4sjspyI8IcrdhLNWTqw4WZ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:59 | 2025-05-19 | 2025-06-07 |
 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 | 2024-01-29 |  |
 | [EL TERMINATOR](https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 2:35 | 2024-04-11 | 2025-05-15 |
 | [El Uno Al 7](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 | 2024-01-29 |  |
@@ -55,6 +55,7 @@
 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 | 2024-01-29 |  |
 | [HUMILDE Y RANCHERO](https://open.spotify.com/track/1AfJbVYMxJpwy8VKmtViS5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:09 | 2024-04-27 | 2024-08-22 |
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 | 2025-01-05 |
+| [I Fkd Up](https://open.spotify.com/track/6TXP4ip9tUGwCVOtRE72Kr) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [I Fkd Up](https://open.spotify.com/album/0ZS4uM0siedzjRVJ96TlEw) | 2:45 | 2025-06-07 |  |
 | [Indio Enamorado](https://open.spotify.com/track/1GqnzEv3hQyd9ridxoQG3g) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:25 | 2025-05-26 |  |
 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 | 2024-01-29 |  |
 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 | 2024-06-18 |

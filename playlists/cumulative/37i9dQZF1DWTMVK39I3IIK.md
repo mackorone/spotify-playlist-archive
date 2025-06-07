@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   june
 
-225 songs - 11 hr 42 min
+226 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 |  |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 |  |
-| [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 |  |
+| [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
 | [Forsvinde før min tid](https://open.spotify.com/track/739g1njLcGRxuinhHrGOyC) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Forsvinde før min tid](https://open.spotify.com/album/4vwkuHnC44uaEWw00M4mpO) | 2:34 | 2024-12-12 | 2025-01-24 |
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 | 2024-10-13 |
@@ -134,6 +134,7 @@
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
+| [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 | 2025-06-05 |  |
 | [Kærligheden Vinder](https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Kærligheden Vinder](https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt) | 3:32 | 2024-06-27 | 2025-02-25 |
 | [Lad Dig Gå](https://open.spotify.com/track/5aLQybTzAGTgbY9QFkMzMH) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Lad Dig Gå](https://open.spotify.com/album/2e4MVybCUxC94Ic5obJPvA) | 2:57 | 2025-04-17 |  |
 | [Lander Et Sted](https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Lander Et Sted](https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF) | 2:53 | 2024-06-27 | 2025-02-23 |

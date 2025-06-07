@@ -1,13 +1,33 @@
 {
-  "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 157729,
+  "description": "Jazz voices of today. Cover: Tyreek McDole",
+  "num_followers": 157746,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktTgAAAADy2CwV4fqv8fK10+4dWlYl",
+  "snapshot_id": "aEJnxgAAAADXIlC7fjk560I+Ce3AjUN/",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:06",
+      "album": {
+        "name": "Open Up Your Senses",
+        "url": "https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        },
+        {
+          "name": "Emmanuel Michael",
+          "url": "https://open.spotify.com/artist/7KZINOn2ahS7jEo4oBAJ4G"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Somalia Rose",
+      "url": "https://open.spotify.com/track/1Aq4i6pPnk8GsDOJbDamOA"
+    },
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
@@ -1767,26 +1787,6 @@
       "duration_ms": 136725,
       "name": "Sad to Say - Snapshot - vocal theme",
       "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Crooning Undercover",
-        "url": "https://open.spotify.com/album/5SVHtY9fN5Ne3rPZOqtKg7"
-      },
-      "artists": [
-        {
-          "name": "Mario Biondi",
-          "url": "https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        }
-      ],
-      "duration_ms": 301053,
-      "name": "Dindi (with Paolo Fresu)",
-      "url": "https://open.spotify.com/track/3pW8zELCXQhiczD2UKS62j"
     },
     {
       "added_at": "2023-12-08 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Didi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,926 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,991 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 8 | [GAMME 2 BOSS](https://open.spotify.com/track/0fltveHa24SP15AsxbUdOh) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [GAMME 2 BOSS](https://open.spotify.com/album/7FNEycoTOLPCJdat5EoIGs) | 2:26 |
 | 9 | [Béni](https://open.spotify.com/track/6jSuFCEBmPaw57N4Me4bya) | [Lesky](https://open.spotify.com/artist/0VogK6a2ytEmfv2Eg2ZvBp), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [Bmuxx Carter](https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C) | [Béni](https://open.spotify.com/album/3VGDTzCploKK1PR16XKXPZ) | 3:53 |
 | 10 | [Hala Madrid \- 2025 Edition](https://open.spotify.com/track/2CWotPY8sl5ASLKJ5SqgcE) | [BAD NOVA](https://open.spotify.com/artist/2gFUXTtTNFzZ6f5cYwijXp) | [Hala Madrid \(2025 Edition\)](https://open.spotify.com/album/6FZSmGG9sv5BA4lcJG2YjZ) | 4:00 |
-| 11 | [Booska Yeyo](https://open.spotify.com/track/75ZTJOFuzBIC3N20ppb30A) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Booska Yeyo](https://open.spotify.com/album/1SnEDzWgFxOJOyUtATEaEG) | 1:47 |
+| 11 | [BOUSKA YEYO](https://open.spotify.com/track/75ZTJOFuzBIC3N20ppb30A) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [BOUSKA YEYO](https://open.spotify.com/album/1SnEDzWgFxOJOyUtATEaEG) | 1:47 |
 | 12 | [BATON NON NON](https://open.spotify.com/track/2SdSUeEaMraip31hhJ0fY5) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 3:23 |
 | 13 | [Satanana \(feat\. DRE\-A\)](https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR), [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [Satanana \(feat\. DRE\-A\)](https://open.spotify.com/album/6RrXnrMFJMjdzVBploTzHD) | 2:49 |
 | 14 | [RODÉLA](https://open.spotify.com/track/3VsnE1pUT5ZOAjh23OdnKc) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [RODÉLA](https://open.spotify.com/album/7at50ZqUOtUANlJuquWOwa) | 3:44 |

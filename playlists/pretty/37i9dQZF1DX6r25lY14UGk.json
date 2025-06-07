@@ -1,13 +1,101 @@
 {
   "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 55874,
+  "num_followers": 56010,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktVQAAAABautI4d5decd4wxVuXJCvo",
+  "snapshot_id": "aEJnyQAAAADBWrgla/KRcMVsEJRBdbl5",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "Pop Those Bubbles",
+        "url": "https://open.spotify.com/album/0W6lqnxqVIJXezSPFCT15D"
+      },
+      "artists": [
+        {
+          "name": "Stacey Peasley",
+          "url": "https://open.spotify.com/artist/1liqgCbpEcVHazfOTQuzB5"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Pop Those Bubbles",
+      "url": "https://open.spotify.com/track/2jiSDVOU6qmk3Dbl4iwdxw"
+    },
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "Cat Song",
+        "url": "https://open.spotify.com/album/2qI1TkgruJ8BlKz5AhGmO9"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Dog Song",
+      "url": "https://open.spotify.com/track/2rOjOR2gmXeYuU5GGVNyg7"
+    },
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "When We Go Camping",
+        "url": "https://open.spotify.com/album/45RuOxAukZNsj4tOAbvHa3"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 136668,
+      "name": "When We Go Camping",
+      "url": "https://open.spotify.com/track/1k7OW4RrUA3WYMuFHzWh6I"
+    },
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "Fisher-Price Record Player - Mindfulness",
+        "url": "https://open.spotify.com/album/0JcVAv4STl87iOFRKEDrja"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 74983,
+      "name": "Great Great Day",
+      "url": "https://open.spotify.com/track/2wx30pcK4MMak1VWxn7qcX"
+    },
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/0Ko7LvnmGKN2XeCXrFFl5Q"
+      },
+      "artists": [
+        {
+          "name": "Nadine Ghawi",
+          "url": "https://open.spotify.com/artist/5PXBQUpoYfifX6cxXf6iad"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2r62cCIJG9aTO7Oy4TXiDC"
+    },
     {
       "added_at": "2025-05-30 04:00:21",
       "album": {

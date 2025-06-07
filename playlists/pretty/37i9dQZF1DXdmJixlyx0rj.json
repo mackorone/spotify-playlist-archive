@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: DPR CREAM & DPR ARTIC)",
-  "num_followers": 29319,
+  "num_followers": 29338,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+      },
+      "artists": [
+        {
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+        }
+      ],
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
-      },
-      "artists": [
-        {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
-        }
-      ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
       "added_at": "2025-05-20 07:55:57",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
-      },
-      "artists": [
-        {
-          "name": "GENRE",
-          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "RIZZ (Feat. Shiming)",
-      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
+      },
+      "artists": [
+        {
+          "name": "GENRE",
+          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "RIZZ (Feat. Shiming)",
+      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
     },
     {
       "added_at": "2025-05-20 07:55:57",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
-        "name": "MOONLIGHT (MOTi Remix)",
-        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "MOONLIGHT - MOTi Remix",
-      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
+        "name": "MOONLIGHT (MOTi Remix)",
+        "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "MOONLIGHT - MOTi Remix",
+      "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
       "added_at": "2025-05-20 07:55:57",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
-        "name": "iScreaM Vol.29 : Fact Check Remixes",
-        "url": "https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx"
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "2Spade",
-          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
         }
       ],
-      "duration_ms": 225230,
-      "name": "Fact Check - 2Spade Remix",
-      "url": "https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J"
+      "duration_ms": 153520,
+      "name": "Without You (Alok Remix) (Radio Edit)",
+      "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
     },
     {
       "added_at": "2025-05-20 07:55:57",
@@ -1859,22 +1855,6 @@
     {
       "added_at": "2025-05-20 07:55:57",
       "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "Without You (Alok Remix) (Radio Edit)",
-      "url": "https://open.spotify.com/track/47ObYsWRktqKiVXWVUzbT6"
-    },
-    {
-      "added_at": "2025-05-20 07:55:57",
-      "album": {
         "name": "SEROTONIN",
         "url": "https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 170440,
       "name": "SEROTONIN",
       "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
+    },
+    {
+      "added_at": "2025-05-20 07:55:57",
+      "album": {
+        "name": "iScreaM Vol.29 : Fact Check Remixes",
+        "url": "https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Fact Check - 2Spade Remix",
+      "url": "https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J"
     },
     {
       "added_at": "2025-05-20 07:55:57",

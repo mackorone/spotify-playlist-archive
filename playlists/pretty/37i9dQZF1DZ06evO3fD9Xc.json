@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103845,
+  "num_followers": 103850,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAmIeMksAG88wfJ0WWY+07+",
+  "snapshot_id": "aEDeAAAAAAAU2A3/74MpHSPMBPUj2XCt",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 242091,
-      "name": "Tengo Que Colgar",
-      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 242091,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Marea",
         "url": "https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 255000,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudanzas",
-        "url": "https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv"
+        "name": "Mentirme",
+        "url": "https://open.spotify.com/album/7iDQeCKHlXuSlCR46lzriR"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 223820,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/7qnImhMiu7IBw233XIl3Aa"
+      "duration_ms": 188087,
+      "name": "Mentirme",
+      "url": "https://open.spotify.com/track/0EdF6zXLaN1RePAQouS6sT"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentirme",
-        "url": "https://open.spotify.com/album/7iDQeCKHlXuSlCR46lzriR"
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 188087,
-      "name": "Mentirme",
-      "url": "https://open.spotify.com/track/0EdF6zXLaN1RePAQouS6sT"
+      "duration_ms": 223820,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/7qnImhMiu7IBw233XIl3Aa"
     },
     {
       "added_at": null,

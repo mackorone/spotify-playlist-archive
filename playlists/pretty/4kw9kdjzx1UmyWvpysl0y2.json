@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125285,
+  "num_followers": 125278,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUKpO/NPMWD0Fz3/6Oea9PLfNh1Rf5",
+  "snapshot_id": "AAAUKwOJ7CB7MTQO5sC14TmEkh0YJ1pq",
   "tracks": [
+    {
+      "added_at": "2025-06-06 15:19:34",
+      "album": {
+        "name": "Requiem for a Riot",
+        "url": "https://open.spotify.com/album/1nqOabFas9FCqKVEaRad52"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        },
+        {
+          "name": "Era Harris",
+          "url": "https://open.spotify.com/artist/0LblmjSaHxJvyBMDCWLr3f"
+        }
+      ],
+      "duration_ms": 159204,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/4l5ipa1fcZnPlKWHmRHvoS"
+    },
     {
       "added_at": "2025-06-05 14:53:20",
       "album": {

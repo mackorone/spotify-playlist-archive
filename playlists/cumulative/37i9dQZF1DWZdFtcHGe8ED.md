@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-442 songs - 1 day 7 hr 16 min
+444 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Angel Of Death](https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:51 | 2024-03-08 | 2024-04-19 |
 | [Annihilation of Civilization](https://open.spotify.com/track/4WpRhaIjVI7zQc7k23tfnX) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [Annihilation of Civilization](https://open.spotify.com/album/0p65AMSlyx1Lew0i5BGbRn) | 4:17 | 2022-07-13 | 2023-08-01 |
 | [Antisocial](https://open.spotify.com/track/2Hy27APwGt3lMfpZ0Bzf13) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [State Of Euphoria](https://open.spotify.com/album/3dy6mgYszZm3noUMEgWYGE) | 4:24 | 2024-03-08 |  |
+| [Architect Of Fears \- 2025 BFS 10 Years Edition](https://open.spotify.com/track/3zwVmUoR1nsTUthC2HYkoI) | [Death Decline](https://open.spotify.com/artist/1bgeQljXQlY64QQSQ7DgEe) | [Architect Of Fears](https://open.spotify.com/album/35CaQAKJGFjuHQ6xdTECcs) | 3:56 | 2025-06-06 |  |
 | [Armed To The Teeth](https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Armed To The Teeth](https://open.spotify.com/album/5b30EK9tx0jYfn7DP38rNn) | 4:26 | 2021-12-17 |  |
 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 | 2021-12-17 |  |
 | [Assassination](https://open.spotify.com/track/1UaQv5HGSKoI6WXNO86Hzd) | [Take Offense](https://open.spotify.com/artist/49eiDCa8flQFXHs6zx7IQJ) | [Assassination](https://open.spotify.com/album/34S0j4xLj8kidTQ2XUU7VI) | 2:44 | 2024-06-27 | 2024-07-01 |
@@ -155,7 +156,7 @@
 | [For Whom The Bell Tolls \- Remastered](https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 5:09 | 2024-03-08 |  |
 | [Forever and Beyond Despair](https://open.spotify.com/track/06JTEv291uEs4VcUVcuy3S) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Forever And Beyond Despair](https://open.spotify.com/album/6Soxbrj9VpGteJYUYCbhNQ) | 3:02 | 2024-03-08 |  |
 | [Forever and Beyond Despair](https://open.spotify.com/track/22wCXpyHaTQDM5odduUeIJ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Defectum Omnium](https://open.spotify.com/album/6DdMUdrcN1y5IjJ6P71R7B) | 3:02 | 2024-03-08 | 2024-04-19 |
-| [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 | 2021-12-17 |  |
+| [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 | 2021-12-17 | 2025-06-07 |
 | [From the Past Comes the Storms \- Re\-Recorded](https://open.spotify.com/track/1TkZ5zd4E7GTaFCvV5VpdS) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [From the Past Comes the Storms \(Re\-Recorded\)](https://open.spotify.com/album/4Hg5AgwXCCifSA5j0GdWTh) | 4:53 | 2024-06-10 | 2025-03-27 |
 | [From Unknown Heights You Shall Fall](https://open.spotify.com/track/5Vh37vGVM4aG4kUCDEwQMc) | [Deicide](https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89) | [Banished By Sin](https://open.spotify.com/album/6s8xggL2f3l0N6KGkrn0vz) | 3:25 | 2024-06-10 |  |
 | [Fuel for Fire](https://open.spotify.com/track/6KXZXc8GC0hNMirU7U1Osh) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:00 | 2021-12-17 | 2022-03-04 |
@@ -290,7 +291,7 @@
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 |  |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |
-| [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 | 2024-06-10 |  |
+| [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 | 2024-06-10 | 2025-06-07 |
 | [Planet Eaters](https://open.spotify.com/track/0Z7vzeA4iARryELXvgLrpw) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Planet Eaters](https://open.spotify.com/album/1ShyesD8tBxk8NWmdIXjF3) | 5:32 | 2021-12-17 | 2022-02-11 |
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 | 2023-11-02 |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
@@ -370,6 +371,7 @@
 | [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 | 2022-08-15 |
 | [Surf Nicaragua](https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:40 | 2022-07-13 |  |
 | [Synchro Anarchy](https://open.spotify.com/track/7jQ8PxjIR2o4y4nndfEvh1) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/1k9JH2nPsI1Lb9ny0rFVpj) | 4:25 | 2022-01-28 | 2022-02-11 |
+| [Taphephobia](https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Taphephobia](https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH) | 3:42 | 2025-06-06 |  |
 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 | 2022-12-15 |  |
 | [Terror Labyrinthian](https://open.spotify.com/track/2prsx8ng0W98Rl66M9fy1P) | [Nuclear Tomb](https://open.spotify.com/artist/6CUkovLJ3LDsmvIVM9LdC5) | [Terror Labyrinthian](https://open.spotify.com/album/2V2MDkHKFjZeBZU2N3Sxbm) | 3:22 | 2024-06-27 | 2025-01-10 |
 | [Tetrastructural Minds](https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Outer Isolation](https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U) | 5:21 | 2021-12-17 |  |

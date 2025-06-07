@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,160 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,167 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 48 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 49 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
 | 50 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
-| 51 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 |
-| 52 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
+| 51 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
+| 52 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 |
 | 53 | [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 |
 | 54 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 |
 | 55 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 82 | [Waiting To Go](https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Waiting To Go](https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP) | 2:30 |
 | 83 | [Better Than I?](https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG) | [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Better Than I?](https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5) | 2:25 |
 | 84 | [Oh Ah \(with Paul Beaubrun & Cimafunk\)](https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Oh Ah \(with Paul Beaubrun & Cimafunk\)](https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb) | 1:51 |
-| 85 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
-| 86 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
+| 85 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
+| 86 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
 | 87 | [Relentless](https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Relentless](https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp) | 2:58 |
 | 88 | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU) | 4:27 |
 | 89 | [We Are The Ones \- FC24 Version](https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [We Are The Ones \(FC24 Version\)](https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO) | 2:15 |

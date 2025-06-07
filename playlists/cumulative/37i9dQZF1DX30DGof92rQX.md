@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Zafar, Salman Paras
 
-224 songs - 11 hr 53 min
+225 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Kabhi Mein Kabhi Tum](https://open.spotify.com/track/3Sz9b5LuyZ48AFgc37Db8v) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Kabhi Mein Kabhi Tum](https://open.spotify.com/album/59GXnJVnXGqQHza4Cy2Gdo) | 3:33 | 2024-06-28 | 2025-01-17 |
 | [Kaise Jiyun](https://open.spotify.com/track/6kq8ppuZ63MS8IpivLpZIp) | [Ibrahim Sulayman](https://open.spotify.com/artist/455eqD8miKi61kJndsKkFD) | [Kaise Jiyun](https://open.spotify.com/album/1eSMpovJ1SdMiWUMNx0EtG) | 3:09 | 2024-06-28 | 2025-01-17 |
 | [KAMLI](https://open.spotify.com/track/7eVgndAA88uKaZE88o8Qz9) | [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd), [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [YDV](https://open.spotify.com/artist/4ZyEDjgPrbX47OOgGg6Rqk) | [KAMLI](https://open.spotify.com/album/5wlUShEZGY4Nj0xXl9OyF3) | 2:21 | 2024-06-28 | 2025-01-17 |
+| [Karay Karay](https://open.spotify.com/track/5fLmMh0GIsSjz858dmmt8x) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Salman Paras](https://open.spotify.com/artist/6JC7bSuSttgAd92jKVQcbI) | [Karay Karay](https://open.spotify.com/album/5tJPMgyfibTiCgaqmXWLlP) | 3:13 | 2025-06-06 |  |
 | [Kehte Raho](https://open.spotify.com/track/5gwwfepdfUXI6D1PQzxB5W) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa) | [Kehte Raho](https://open.spotify.com/album/1Xv4yVxbCNZ234TCtyeZzH) | 2:33 | 2024-06-28 | 2025-01-17 |
 | [Khilnay Ko](https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 4:29 | 2025-04-18 | 2025-05-02 |
 | [Khizaan](https://open.spotify.com/track/3WDxldpZLZkjVCwE892DVp) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Khizaan](https://open.spotify.com/album/2PJV2dGwrn0OROSL1sNYUo) | 2:44 | 2024-06-28 | 2024-11-08 |

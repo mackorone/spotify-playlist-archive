@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 168 | [Take It All](https://open.spotify.com/track/1Oie9WdiQ3qd2kB5PJ8iyG) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 2:53 |
 | 169 | [Sha\-Maraca](https://open.spotify.com/track/3XwvbDAtGMb3Ef7FReYyaz) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills EP](https://open.spotify.com/album/1G9NhKyIZ3aFL3eoLr1C5s) | 1:28 |
 | 170 | [I Would \- Australian Version](https://open.spotify.com/track/3lGjD7k0g4VopZ1M9WyIYm) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [My Only](https://open.spotify.com/album/1YWbJuyQjHIqpIMwZt5Zvp) | 3:21 |
-| 171 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
-| 172 | [Suffocating Slow](https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT) | 3:08 |
+| 171 | [Suffocating Slow](https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT) | 3:08 |
+| 172 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 173 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `AbzWygAAAAA9+NxJOesYy9spxlrklHO/`
+Snapshot ID: `AbzcagAAAACIjpQbFbHXbkiqZJg1+Xjr`

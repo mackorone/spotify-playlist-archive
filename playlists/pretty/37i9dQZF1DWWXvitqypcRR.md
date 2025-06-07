@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,108 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 49 | [Do It For You](https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s), [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY) | [Do It For You](https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq) | 3:34 |
 | 50 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 |
 
-Snapshot ID: `aBtS+wAAAACNKwUctmy2/EAW2oy89YTa`
+Snapshot ID: `AAAAAFPDx43iiDKsCKXyzmNZEZ0YYO08`

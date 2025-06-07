@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135704,
+  "num_followers": 135718,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+      "duration_ms": 210000,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
     },
     {
       "added_at": "2025-06-05 15:00:31",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2025-06-05 15:00:31",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
-        "name": "\u306f\u306a\u3088\u3069",
-        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
-      },
-      "artists": [
-        {
-          "name": "Natsuko Nisshoku",
-          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
-        }
-      ],
-      "duration_ms": 261282,
-      "name": "\u3084\u3048",
-      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
         "name": "This is music too",
         "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 264680,
       "name": "\u9752\u6708\u6d6e\u304f\u6d77",
       "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
+        "name": "\u306f\u306a\u3088\u3069",
+        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "duration_ms": 261282,
+      "name": "\u3084\u3048",
+      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
       "added_at": "2025-06-05 15:00:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 286366,
       "name": "Twinkle Stars",
       "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
+      },
+      "artists": [
+        {
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2025-06-05 15:00:31",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
         "name": "\u5bdd\u8a00\u306e\u6642\u9593",
         "url": "https://open.spotify.com/album/2EX58WObR8lLwJ27RUjEEP"
       },
@@ -1443,6 +1459,38 @@
       "duration_ms": 290833,
       "name": "\u5bdd\u8a00\u306e\u6642\u9593",
       "url": "https://open.spotify.com/track/0U9xmgGV9t6KouPHqYNvwV"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
+      "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
     },
     {
       "added_at": "2025-06-05 15:00:31",
@@ -1467,54 +1515,6 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
-      },
-      "artists": [
-        {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
-      },
-      "artists": [
-        {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
-      "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
@@ -1527,42 +1527,6 @@
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
-        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
-        "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        },
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "\u307b\u3057\u307c\u3057\u306e\u306f\u3089",
-      "url": "https://open.spotify.com/track/3GCetWwiWvkIl8sn2QYgcY"
-    },
-    {
-      "added_at": "2025-06-05 15:00:31",
-      "album": {
-        "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
-        "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 317853,
-      "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
-      "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
     },
     {
       "added_at": "2025-06-05 15:00:31",
@@ -1583,6 +1547,22 @@
     {
       "added_at": "2025-06-05 15:00:31",
       "album": {
+        "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
+        "url": "https://open.spotify.com/album/0fNR4AYbU7lZ6m4LrQobu6"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 317853,
+      "name": "\u5e30\u308a\u305f\u304f\u306a\u3063\u305f\u3088",
+      "url": "https://open.spotify.com/track/2p1CDsp3PCIt6juRzQWsgP"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
         "name": "Flavor Of Life",
         "url": "https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 417803,
       "name": "Flavor Of Life",
       "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
+    },
+    {
+      "added_at": "2025-06-05 15:00:31",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "\u307b\u3057\u307c\u3057\u306e\u306f\u3089",
+      "url": "https://open.spotify.com/track/3GCetWwiWvkIl8sn2QYgcY"
     },
     {
       "added_at": "2025-06-05 15:00:31",

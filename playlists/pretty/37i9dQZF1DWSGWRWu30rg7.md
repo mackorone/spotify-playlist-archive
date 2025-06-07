@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Vanessa Zee
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,006 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,128 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 15 | [Bunga Cinta](https://open.spotify.com/track/7wBZA8fNYMaxwBeWVsC9Gh) | [Fazan](https://open.spotify.com/artist/7CwUw1JCsTQzHYcppVO6yp) | [Bunga Cinta](https://open.spotify.com/album/0BkXA55NvW9Pe0xxYOhVp3) | 4:04 |
 | 16 | [Selaras Dunia](https://open.spotify.com/track/7K9rjuGjOYKevSqBnfTN4l) | [Meltic](https://open.spotify.com/artist/6ivZJIh2PQnI66calvGfxr) | [Selaras Dunia](https://open.spotify.com/album/4RorSQ666N3H4jbod2IMdp) | 4:52 |
 | 17 | [Runaway](https://open.spotify.com/track/3aJbH8XQCYPE5RKkjDhx6W) | [Shyclops](https://open.spotify.com/artist/7zYMujuLfBXBchiqk64fgZ) | [Runaway](https://open.spotify.com/album/2rWfTnlzuEVq3KifP02KdI) | 3:45 |
-| 18 | [Kita Deal](https://open.spotify.com/track/0B7giRaMs5YmnK00CwkFiy) | [Eno Smaper](https://open.spotify.com/artist/0hu0mXvQsAcG6sD3NSbK71), [Nathh](https://open.spotify.com/artist/6ZZcNnPtNA2FgObgLJd38s) | [Kita Deal](https://open.spotify.com/album/63SGs5xHlRC82JUFjMMuVI) | 3:03 |
+| 18 | [Kita Deal](https://open.spotify.com/track/0B7giRaMs5YmnK00CwkFiy) | [Eno Smaper](https://open.spotify.com/artist/1FDZxWIFmahkAWx3O9UHT2), [Nathh](https://open.spotify.com/artist/6ZZcNnPtNA2FgObgLJd38s) | [Kita Deal](https://open.spotify.com/album/63SGs5xHlRC82JUFjMMuVI) | 3:03 |
 | 19 | [Pelipur Lara](https://open.spotify.com/track/4dxuJAR457o7rZWy6bY8R0) | [Tenri Abeng](https://open.spotify.com/artist/1wCBn39k2epiBOZs59KBCa) | [Pelipur Lara](https://open.spotify.com/album/3fN7rItluq1Hb3O7ZlXZ7F) | 4:00 |
 | 20 | [Terpikat](https://open.spotify.com/track/1gx9Bd1F4Z7amlFhcFGeoy) | [Jeyma Monica](https://open.spotify.com/artist/13TIqNSApj4u450gNHdCHN) | [Terpikat](https://open.spotify.com/album/3QD6zS8BeMSZNFJFWMwfcf) | 3:19 |
 | 21 | [Still With You](https://open.spotify.com/track/43QWYyR2ShP5cITFTTFvZP) | [Kartika Wang](https://open.spotify.com/artist/2QQLZwFwB7z5EuPgEbFOGj) | [Still With You](https://open.spotify.com/album/2VIUP1UUEvLlqJnC1gJQcr) | 3:51 |

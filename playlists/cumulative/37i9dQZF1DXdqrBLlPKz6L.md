@@ -2,9 +2,9 @@
 
 ### [Trapperz Andinos](https://open.spotify.com/playlist/37i9dQZF1DXdqrBLlPKz6L)
 
-> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Reboll333
+> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R., Hades66, Almighty
 
-122 songs - 6 hr 38 min
+123 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Extendo](https://open.spotify.com/track/7Bu12uXqRtldFXjQrDz1OJ) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Mi Amol](https://open.spotify.com/album/6q2Fr2Emd3XP45CcfdEq75) | 2:31 | 2024-08-23 |  |
 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 | 2023-03-24 |  |
 | [Flight Away](https://open.spotify.com/track/5nggToLBtfPFNjIRQjHc58) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [YK](https://open.spotify.com/artist/0fml592mEs3xp2zhVLjxre), [Hiro Angeles](https://open.spotify.com/artist/3UYyyQSTk9ytiF55vUXO6G) | [Flight Away](https://open.spotify.com/album/5TWKnCddueE4CqT0lEJ8Pj) | 4:03 | 2021-10-15 | 2023-02-10 |
-| [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 | 2022-08-19 |  |
+| [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 | 2022-08-19 | 2025-06-07 |
 | [Flor de Loto](https://open.spotify.com/track/2z2er73rnxiOZFXNFifeCg) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/2FhnnIxgFTzyGeKX3OhVSz) | 2:06 | 2023-03-24 | 2024-02-24 |
 | [Flor de Loto](https://open.spotify.com/track/6o0FYA5icN4PImQFrfaBFL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1XlOKFZuqfljW19y6JsAEw) | 2:06 | 2024-01-26 | 2024-04-19 |
 | [Fuck Love](https://open.spotify.com/track/0DWxjkUdTVvlC5EpPqQfiH) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuck Love](https://open.spotify.com/album/3bBbAqa1aH2yj4cFUmQEUH) | 3:45 | 2021-10-15 |  |
@@ -95,6 +95,7 @@
 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-10-15 |  |
 | [No Sé](https://open.spotify.com/track/3cDTaeeL4b7zSVYXbSoSpS) | [Stailmic](https://open.spotify.com/artist/3JvGIegytK234itXw0xaOY) | [No Sé](https://open.spotify.com/album/7tR03q8Trq7V0i3mYKnZ2j) | 4:05 | 2021-10-15 | 2022-04-09 |
 | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/track/2uCUEMPaiBg3mOBzP0ygId) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Pipo Martinez](https://open.spotify.com/artist/3NBtvR4R4OWimH7bzLOvYB) | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/album/4Js4KZ1XTWxnxM1yi38poT) | 3:15 | 2022-04-08 | 2023-11-18 |
+| [Otros Planes](https://open.spotify.com/track/3YnNJdbJwgJbIY52RqWPVn) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Otros Planes](https://open.spotify.com/album/7xVXWXbRaBCEMXMqnuIWg8) | 3:16 | 2025-06-06 |  |
 | [P0rn0 Gr@t1$](https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Niña Buena](https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd) | 2:36 | 2023-12-01 | 2024-01-13 |
 | [Panamera](https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC) | [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O), [Zuco OMG](https://open.spotify.com/artist/2AsK0GD1xFCS4L3lv8im4w) | [Panamera](https://open.spotify.com/album/4CZrPqu9r8VFm5RA6M4v5v) | 3:15 | 2021-10-15 | 2024-01-27 |
 | [Parche Tranqui](https://open.spotify.com/track/2ROj8GoI45RQouYomaLDTm) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Parche Tranqui](https://open.spotify.com/album/62pPVP5bcY133KxtFPw8zx) | 3:41 | 2025-05-27 |  |

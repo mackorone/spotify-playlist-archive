@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 212027,
+  "num_followers": 212102,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-05-13 13:17:03",
       "album": {
-        "name": "Amar Singh Chamkila - Live Recorded",
-        "url": "https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nisha Bano",
-          "url": "https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr"
-        }
-      ],
-      "duration_ms": 117536,
-      "name": "Pat Doon Chugti Ni",
-      "url": "https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9"
-    },
-    {
-      "added_at": "2025-05-13 13:17:03",
-      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 244960,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0"
+    },
+    {
+      "added_at": "2025-05-13 13:17:03",
+      "album": {
+        "name": "Amar Singh Chamkila - Live Recorded",
+        "url": "https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nisha Bano",
+          "url": "https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr"
+        }
+      ],
+      "duration_ms": 117536,
+      "name": "Pat Doon Chugti Ni",
+      "url": "https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9"
     },
     {
       "added_at": "2025-05-13 13:17:03",

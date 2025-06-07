@@ -1,15 +1,451 @@
 {
-  "description": "All new Worship songs on the rise! Cover: TEMITOPE",
-  "num_followers": 144479,
+  "description": "All new Worship songs on the rise! Cover: 7 Hills Worship",
+  "num_followers": 144643,
   "original_name": "Worship Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCf51gAAAAB9CTPVNPhlhUBMJMBAEIz1",
+  "snapshot_id": "AAAAAK2F4rgJUK1VSup1UHiyL0kJKZ1o",
   "tracks": [
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "No Way (Live)",
+        "url": "https://open.spotify.com/album/6KEEplOyTERlWSnqyvVulD"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Tyson Cunningham",
+          "url": "https://open.spotify.com/artist/5ppe0Thiu8hYj9tzosMFkA"
+        }
+      ],
+      "duration_ms": 333663,
+      "name": "No Way - Live",
+      "url": "https://open.spotify.com/track/2NTScyNBoNuI1SuJa5u7WV"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/0iql1Q9RHLdfX6e32SUxKJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 264107,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/0gDdrITVEHF5puxOo0ma1o"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 217614,
+      "name": "Just That Good",
+      "url": "https://open.spotify.com/track/41Z1kDTRyaclKHmXkR0vn7"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Mercy In The Morning",
+        "url": "https://open.spotify.com/album/7kaanmAt7rAGOf6puTSjWR"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 326301,
+      "name": "Mercy In The Morning",
+      "url": "https://open.spotify.com/track/0nmEnCJrQoUdf04kZye0QQ"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "One Name",
+        "url": "https://open.spotify.com/album/0mh8zIXLCUR0Kk02W89h5w"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        },
+        {
+          "name": "Anchored Music",
+          "url": "https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "One Name",
+      "url": "https://open.spotify.com/track/38S3cC6HmKMwnGypZ15KnU"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Anywhere Else",
+        "url": "https://open.spotify.com/album/4RRA9ybwKe8AZnlQNtewVG"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 287688,
+      "name": "Anywhere Else",
+      "url": "https://open.spotify.com/track/4zXbaQQ5a2ILGvGw3uJ05r"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Testimony (Choral Version)",
+        "url": "https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 233886,
+      "name": "Testimony - Choral Version",
+      "url": "https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Our God Reigns (Over All The Earth) [Live]",
+        "url": "https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 563562,
+      "name": "Our God Reigns (Over All The Earth) - Live",
+      "url": "https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Worship From The Studio",
+        "url": "https://open.spotify.com/album/1B8AtR4HC5xIu07dNo2q1K"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "duration_ms": 231617,
+      "name": "Crumbs From The Table - Band",
+      "url": "https://open.spotify.com/track/6cOvRsJtKPiJL8kLw0gcAo"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Dwell",
+        "url": "https://open.spotify.com/album/2KqpntXs36LLr188Bo31Tc"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "duration_ms": 347362,
+      "name": "Dwell",
+      "url": "https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Cathedral (Live)",
+        "url": "https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Cageless Birds",
+          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
+        }
+      ],
+      "duration_ms": 356938,
+      "name": "Cathedral - Live",
+      "url": "https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Who Else",
+        "url": "https://open.spotify.com/album/4oZaexnq27sRnGmpSa1Opj"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        },
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        }
+      ],
+      "duration_ms": 213291,
+      "name": "Who Else",
+      "url": "https://open.spotify.com/track/1bZbXxbxS2yIpmHNVYKJE9"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Washed",
+        "url": "https://open.spotify.com/album/5mLoMRKwLT3Zm3vAizRpNX"
+      },
+      "artists": [
+        {
+          "name": "Newlands Worship",
+          "url": "https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 317071,
+      "name": "Washed",
+      "url": "https://open.spotify.com/track/6ZJEBlM2Q2jglDpPpSQU84"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Thank You Jesus For The Blood",
+        "url": "https://open.spotify.com/album/5n1n2UCr6ap0SSGRERyd6g"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 259148,
+      "name": "Thank You Jesus For The Blood",
+      "url": "https://open.spotify.com/track/02q56Lib8mhmHXKrxv3ONY"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Redemption Has Come (MultiTracks Session)",
+        "url": "https://open.spotify.com/album/3iAhdazgV7ntwzqTokQH1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Redemption Has Come - MultiTracks Session",
+      "url": "https://open.spotify.com/track/2UM2gXDRcF1efh8I6wi6y0"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Let Everything That Has Breath (Live)",
+        "url": "https://open.spotify.com/album/433lYnN4VPop9bAiTYhGmq"
+      },
+      "artists": [
+        {
+          "name": "Gas Street Music",
+          "url": "https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG"
+        },
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 231276,
+      "name": "Let Everything That Has Breath - Live",
+      "url": "https://open.spotify.com/track/32UqPmcoBcki91fa9uz9dt"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/0l3cXowJpjzIPk7Av3zQHZ"
+      },
+      "artists": [
+        {
+          "name": "Grace Gonzalez",
+          "url": "https://open.spotify.com/artist/5zcsaGi7X7Djbl8ONhxlgV"
+        }
+      ],
+      "duration_ms": 393476,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/5XTxPTFLjv7WPyWA8ZWRA7"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "We Sing Holy (Live)",
+        "url": "https://open.spotify.com/album/1HDJJ545xea0xVD55oUZE3"
+      },
+      "artists": [
+        {
+          "name": "Central Live",
+          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
+        }
+      ],
+      "duration_ms": 402583,
+      "name": "Holy Is The Lord - Live",
+      "url": "https://open.spotify.com/track/0Xd6LZbsRNhnbzl6KQxdOc"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "The Lord is Good (Live Strings Session)",
+        "url": "https://open.spotify.com/album/3Q2vqbswoz2QtWNNUSAhso"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        }
+      ],
+      "duration_ms": 328499,
+      "name": "The Lord is Good - Live Strings Session",
+      "url": "https://open.spotify.com/track/4dtej7MhHyJuo3IPxo19Xt"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Shadow of Your Wings",
+        "url": "https://open.spotify.com/album/7sZI4QJWkK6EPQfzhnDLsY"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        },
+        {
+          "name": "Will Edwards",
+          "url": "https://open.spotify.com/artist/2fDNeMnYZn2xsvnEFYWyP7"
+        },
+        {
+          "name": "Megan Kerr",
+          "url": "https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG"
+        }
+      ],
+      "duration_ms": 278354,
+      "name": "Shadow of Your Wings",
+      "url": "https://open.spotify.com/track/1f4KQ8XLf554qEezyoZAj9"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/7CLwBMuAgZKy0FHJrN0r5R"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        }
+      ],
+      "duration_ms": 447937,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3SsUnLK6OtCEo0L0HMynSb"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Voice Of God",
+        "url": "https://open.spotify.com/album/6a7PpLU63wPxqiK91tzwsR"
+      },
+      "artists": [
+        {
+          "name": "MVMNT Music",
+          "url": "https://open.spotify.com/artist/6hqd7tuxGE8xQkIH9GZY4z"
+        }
+      ],
+      "duration_ms": 238621,
+      "name": "Voice Of God",
+      "url": "https://open.spotify.com/track/0xXKsYqwqdOCbl0U2oqyOs"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Not My Will",
+        "url": "https://open.spotify.com/album/4JwmQx9mca3o98zNvtkF0y"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Let The Alabaster Break",
+      "url": "https://open.spotify.com/track/4ttw3cafYuFIJdvEiR9BxM"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/3ksw35mgXULsNNvJn9g2tZ"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 228902,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/14sxDZyYeGVhFhaX0DG5pu"
+    },
+    {
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "IN ALL THINGS",
         "url": "https://open.spotify.com/album/2F94CzR3W7QJc0kJ2ua4jg"
@@ -25,7 +461,7 @@
       "url": "https://open.spotify.com/track/1DkJmM356G3ZU9UL5jxW81"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Sons Of Sunday",
         "url": "https://open.spotify.com/album/0uGwOI1g9VLHVZtaGh2X9w"
@@ -41,7 +477,7 @@
       "url": "https://open.spotify.com/track/5aFJW3p1SvYfvVRT7HBKp8"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Be Glad (Live)",
         "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
@@ -57,7 +493,7 @@
       "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/3MzourdoMOaPz6LOz3Uoyu"
@@ -73,7 +509,7 @@
       "url": "https://open.spotify.com/track/7rk50Ud5SVX8PU9pbCtaea"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Open the Eyes of my Heart",
         "url": "https://open.spotify.com/album/736VPQcyFyiOEPr9tNNiRd"
@@ -93,7 +529,7 @@
       "url": "https://open.spotify.com/track/4Y9hnkP1qfKkBfZL6dWtv7"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Fan The Flame",
         "url": "https://open.spotify.com/album/1WUcpyQx1vgcvbNFC0pkpG"
@@ -113,7 +549,7 @@
       "url": "https://open.spotify.com/track/1xn4MhIl2JDBxwAGlYFTaG"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Adonai (Live)",
         "url": "https://open.spotify.com/album/4xquuOA7DRNjjBoxUVuXfV"
@@ -133,7 +569,7 @@
       "url": "https://open.spotify.com/track/3wmmDTTjiUpjIAfiz2pdGU"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Go And Tell",
         "url": "https://open.spotify.com/album/2M5auh7pHi2UbulGpUdJdU"
@@ -149,7 +585,7 @@
       "url": "https://open.spotify.com/track/6dGB1UDxt5EsIStvawhtwL"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/5rOi83XWa7BUl5wZn2ML6X"
@@ -169,7 +605,7 @@
       "url": "https://open.spotify.com/track/4Fn3r6TXyzAaONZtm4YNH3"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Fall On My Knees Again",
         "url": "https://open.spotify.com/album/2ZPahCuTGqHODX7Xl3GXHv"
@@ -189,7 +625,7 @@
       "url": "https://open.spotify.com/track/4l5Le38sU3RwaJmlGWaBZ1"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Let Me Love You More",
         "url": "https://open.spotify.com/album/4QmhnesRttsnImCdC1tWe3"
@@ -217,7 +653,7 @@
       "url": "https://open.spotify.com/track/53nmVlRqzZTSNbdIpPurKs"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/4DQozN0TczEGQHQGHeqpgO"
@@ -233,7 +669,7 @@
       "url": "https://open.spotify.com/track/1mOIawagsw5exb4sdGMFvH"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "LIVE FROM IO WKND",
         "url": "https://open.spotify.com/album/0rREJdGac7CLynSDpGaRxQ"
@@ -253,7 +689,7 @@
       "url": "https://open.spotify.com/track/13NzMeG6afiIFc5bRBxgH1"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Carry It Well",
         "url": "https://open.spotify.com/album/5QEonwR94eiHd7VuaLBWr9"
@@ -273,7 +709,7 @@
       "url": "https://open.spotify.com/track/0iJhDQmokHsKjGrYWGkKBM"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "LO Worship: Acoustic Sessions",
         "url": "https://open.spotify.com/album/7JNV6t7l0KJkAbbz7TnWDz"
@@ -289,7 +725,7 @@
       "url": "https://open.spotify.com/track/4arZruhIf7mtqGXKxN8sEu"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Sing Of Your Love",
         "url": "https://open.spotify.com/album/1z85nQYhxoLCNo8SaIGn8E"
@@ -309,7 +745,7 @@
       "url": "https://open.spotify.com/track/3HQ9mUzgLQ6Hvl1Q1YiiKN"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "MARVELOUS",
         "url": "https://open.spotify.com/album/0y8KqMQunAIul7iMRcS67i"
@@ -325,7 +761,7 @@
       "url": "https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Always Been Good (Live) (feat. Destiny Barber)",
         "url": "https://open.spotify.com/album/1DGL4W3vo0YDF0eqQfHAG5"
@@ -345,7 +781,7 @@
       "url": "https://open.spotify.com/track/0Xga61RPD8LsOx73HQwKVe"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "The King Is In The Room",
         "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
@@ -361,51 +797,7 @@
       "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "The First Hymn",
-        "url": "https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Ben Fielding",
-          "url": "https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO"
-        }
-      ],
-      "duration_ms": 394806,
-      "name": "The First Hymn - Live",
-      "url": "https://open.spotify.com/track/6NqEi3GGzKNsroK1p5JwAh"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "We Want More (Live)",
-        "url": "https://open.spotify.com/album/2ZZ6xJ91TUuzOLN6CbX7ji"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        },
-        {
-          "name": "Canaan Baca",
-          "url": "https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q"
-        }
-      ],
-      "duration_ms": 418378,
-      "name": "We Want More - Live",
-      "url": "https://open.spotify.com/track/0ZoW7ausPTO7jXJbB6j11Z"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Turn It To Praise",
         "url": "https://open.spotify.com/album/1GaWOIysmcn2IuwFQJ4qxM"
@@ -421,7 +813,7 @@
       "url": "https://open.spotify.com/track/0DRZQ0wN33seQSZ5jMZiTV"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "A New Reality (Acoustic Sessions)",
         "url": "https://open.spotify.com/album/2tdPcucc4eSnM7PbDcFEam"
@@ -437,7 +829,7 @@
       "url": "https://open.spotify.com/track/4F0SDoKbTKQG446AWA6J8a"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "The Healing (Live)",
         "url": "https://open.spotify.com/album/0xh7S8mu1HvyLa68sCBShK"
@@ -457,7 +849,7 @@
       "url": "https://open.spotify.com/track/2oGRCj8wQGrJ4Uahm1HlZx"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Abide With Me",
         "url": "https://open.spotify.com/album/0StGW8DC1xuHr9RQzk7iFZ"
@@ -473,23 +865,7 @@
       "url": "https://open.spotify.com/track/1S6ZD6eCmkyX3mQObOcmBY"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Sing (Acoustic)",
-        "url": "https://open.spotify.com/album/6Mm0LVoOrstIHfARobGjf1"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 213011,
-      "name": "Sing - Acoustic",
-      "url": "https://open.spotify.com/track/0S1x8JxRubw2S8LS5b1faP"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Greatly To Be Praised (Live)",
         "url": "https://open.spotify.com/album/2OSFDqMbtiqHrSVXbWbQHM"
@@ -513,7 +889,7 @@
       "url": "https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Mighty Name of Jesus (Live)",
         "url": "https://open.spotify.com/album/14bpNlh1xY0ADHNZc1LxIc"
@@ -529,7 +905,7 @@
       "url": "https://open.spotify.com/track/46WzpkFoJalPyep0pxLcG3"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "What A Love",
         "url": "https://open.spotify.com/album/4Ca9luh8aDzYUDuGRYVWqb"
@@ -545,47 +921,7 @@
       "url": "https://open.spotify.com/track/6t4TuFrkOppS2epOHPjxbN"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Show Me Your Face / Yahweh",
-        "url": "https://open.spotify.com/album/120pXKz9TN4sU4qe84Fz9J"
-      },
-      "artists": [
-        {
-          "name": "Red Worship",
-          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 541987,
-      "name": "Show Me Your Face / Yahweh",
-      "url": "https://open.spotify.com/track/1kF9KGzK0N3jANOgrH2Vqt"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "You Are My All In All",
-        "url": "https://open.spotify.com/album/65APhzttPEascS7l44Husz"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        },
-        {
-          "name": "Brooke Voland",
-          "url": "https://open.spotify.com/artist/61pdcjqHVQyj2TMUXYiChJ"
-        }
-      ],
-      "duration_ms": 325363,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/5IOBHJfYkgOsNu4J8r9WSp"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Goodness of God (Acapella)",
         "url": "https://open.spotify.com/album/5iKCGvqzdPm9ivOFhTeUs1"
@@ -601,7 +937,7 @@
       "url": "https://open.spotify.com/track/27cyzgTpykXYIfvVAfLSgZ"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "The Hymnal: Blessed Assurance",
         "url": "https://open.spotify.com/album/7pUkhnnvfDuI0fyGZIhs4R"
@@ -617,7 +953,7 @@
       "url": "https://open.spotify.com/track/56XWlgantiwoKnHZzvJfDb"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Tend (Live)",
         "url": "https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX"
@@ -637,7 +973,7 @@
       "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Simple Phrase",
         "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
@@ -653,7 +989,7 @@
       "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Thank You For The Cross",
         "url": "https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4"
@@ -669,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "All Hail The King",
         "url": "https://open.spotify.com/album/3Ird7HI6GotViABE2KONhO"
@@ -689,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1Pdf6ifGdWTXRSGEOTUR54"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Wait / Praise The Giver",
         "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
@@ -705,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Sing Of Your Love (Live)",
         "url": "https://open.spotify.com/album/2YxPlUxsa6rkdghoc4KNoZ"
@@ -729,43 +1065,7 @@
       "url": "https://open.spotify.com/track/7pZFRGLVp7ytiV0k4cGbN8"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "More Than Anything",
-        "url": "https://open.spotify.com/album/2cr24YSOt7yzztwQWgHkof"
-      },
-      "artists": [
-        {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
-        }
-      ],
-      "duration_ms": 249246,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/668JNfVoAyfJdJfgT4hvMM"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Eden (Live)",
-        "url": "https://open.spotify.com/album/5N1WJL82K9qV5tXTk79v8Y"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Henry Seeley",
-          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
-        }
-      ],
-      "duration_ms": 507541,
-      "name": "All Fall Down - Live",
-      "url": "https://open.spotify.com/track/39f4VewtRh9XSed54TMDV4"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "If it wasn't for Jesus (from the studio)",
         "url": "https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo"
@@ -781,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Holy Spirit",
         "url": "https://open.spotify.com/album/5IBGHoFzGPbzEYhOm2ZtbX"
@@ -797,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3ikAtB81cBPRxZmMAwCHvz"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Be Enthroned",
         "url": "https://open.spotify.com/album/4SQ6Rf3Zw0jh2fnokm4wFt"
@@ -817,27 +1117,7 @@
       "url": "https://open.spotify.com/track/5ts3OOaqhinmz867jVm95J"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Bless Your Name (Live)",
-        "url": "https://open.spotify.com/album/5sSSg4qGRjJWKhTrtPTZ15"
-      },
-      "artists": [
-        {
-          "name": "Breakaway Worship",
-          "url": "https://open.spotify.com/artist/3qlB6KcL344WFe5NbKb6iv"
-        },
-        {
-          "name": "Austin Haas",
-          "url": "https://open.spotify.com/artist/1BoRxtGn6dPQNCwY7syhpy"
-        }
-      ],
-      "duration_ms": 315295,
-      "name": "Bless Your Name (feat. Austin Haas) - Live",
-      "url": "https://open.spotify.com/track/2tRTMmV5qsyGafcNb11wDw"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Holy Spirit Come (Live)",
         "url": "https://open.spotify.com/album/7kA6Uar6XDnRg8fnvfkm6S"
@@ -857,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2TesdD6dq76FpAAN5qv2kf"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Presence is Peace",
         "url": "https://open.spotify.com/album/6w4T4ZZbrx6FedouRQ9kM4"
@@ -877,43 +1157,7 @@
       "url": "https://open.spotify.com/track/2YOgmNrdemSz7Rvnso6dhm"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/0468cfHesYWwYzeZ1VE9UE"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Christ Our King",
-      "url": "https://open.spotify.com/track/2CHBjHRK9JijzFHV36oEcP"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "All That I Know",
-        "url": "https://open.spotify.com/album/0ThedLmINNUuYa7cxUqNrx"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Evelyn Cortazio",
-          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
-        },
-        {
-          "name": "Anchored Music",
-          "url": "https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "All That I Know",
-      "url": "https://open.spotify.com/track/2z8nbr5kB2ntuYASlRKOpb"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Never Will",
         "url": "https://open.spotify.com/album/0a7PU95YNLZnASSYaaTJb0"
@@ -929,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3Kb61BErxaKRAlTqVYX8M4"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Heal Me",
         "url": "https://open.spotify.com/album/6br3oBuVVUTj5hVm0G5pmB"
@@ -945,27 +1189,7 @@
       "url": "https://open.spotify.com/track/5iO0QcvVl5F0VRAYSbW0uI"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 420019,
-      "name": "The Church - Live",
-      "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "With Everything / Rest On Us",
         "url": "https://open.spotify.com/album/4Ony8XdH45g3FB87isBwFg"
@@ -985,63 +1209,7 @@
       "url": "https://open.spotify.com/track/6P9Vd0YtlaQHbIsSRoVrk0"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "My Empty Grave (Live)",
-        "url": "https://open.spotify.com/album/4AbwNSdUIrX3kTlVJyxtja"
-      },
-      "artists": [
-        {
-          "name": "Southeast Worship",
-          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
-        }
-      ],
-      "duration_ms": 417953,
-      "name": "My Empty Grave - Live",
-      "url": "https://open.spotify.com/track/0M5lT5xfqNvj0t9UZqU4jP"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "I Know The Way (Radio Version)",
-        "url": "https://open.spotify.com/album/4O41eQKqMMWzlWCelnAs50"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 212627,
-      "name": "I Know The Way - Radio Version",
-      "url": "https://open.spotify.com/track/3qSgxznEBRztTVabMVBj75"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Praises & Prayers, Vol. 1 (Deluxe)",
-        "url": "https://open.spotify.com/album/7sM8xR3pUQdt3WxHFF3H6t"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        },
-        {
-          "name": "Corbin Phillips",
-          "url": "https://open.spotify.com/artist/6EPSg1gsct5FInjukNWFUS"
-        }
-      ],
-      "duration_ms": 215881,
-      "name": "Highest One - Studio Version",
-      "url": "https://open.spotify.com/track/6TKa8tj1cwopGcCTnIGeCL"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Great and Lowly King",
         "url": "https://open.spotify.com/album/7bhZSYN3i2ICdUAKt51pCQ"
@@ -1061,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5Q8rQsNB3s6WILBRY7CSRq"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Faithful Still (Live)",
         "url": "https://open.spotify.com/album/7HA8l0P9GWqfDU52Bii5hy"
@@ -1077,23 +1245,7 @@
       "url": "https://open.spotify.com/track/1lKTNUloG8NivfCVzqyMKG"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Never Going Back (Live)",
-        "url": "https://open.spotify.com/album/1ZHxKdDcoQPkLBHLRwllMn"
-      },
-      "artists": [
-        {
-          "name": "Fellowship Creative",
-          "url": "https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL"
-        }
-      ],
-      "duration_ms": 272653,
-      "name": "Never Going Back - Live",
-      "url": "https://open.spotify.com/track/08XlToHeC3bO8KfrVOJoW6"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Family: Live From Newberg",
         "url": "https://open.spotify.com/album/49GIZappb71K3JBlsCZQpP"
@@ -1113,23 +1265,7 @@
       "url": "https://open.spotify.com/track/4e7XqKvFbxCzLjgP9DLZYm"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Live From MVMNT Conference",
-        "url": "https://open.spotify.com/album/3wtX9o8nu6bjBPXz6xofbc"
-      },
-      "artists": [
-        {
-          "name": "Fresh Life Worship",
-          "url": "https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E"
-        }
-      ],
-      "duration_ms": 301147,
-      "name": "Where the River Goes - Live From MVMNT Conference",
-      "url": "https://open.spotify.com/track/5wbi3qfGLTZusFXGpOl39p"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Make Me New",
         "url": "https://open.spotify.com/album/0C3WNL927UdbjMz7enoKJk"
@@ -1153,47 +1289,7 @@
       "url": "https://open.spotify.com/track/4fGaJvQ9f50GLkdIND83Xc"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Jesus Changes Everything / Exalted One",
-        "url": "https://open.spotify.com/album/5FcJbpZQjeNmvKb3Kfvb84"
-      },
-      "artists": [
-        {
-          "name": "Celebration Music",
-          "url": "https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp"
-        },
-        {
-          "name": "Patrick Curry",
-          "url": "https://open.spotify.com/artist/7Huh4wUZHE2TYedx8thAL8"
-        }
-      ],
-      "duration_ms": 208931,
-      "name": "Exalted One",
-      "url": "https://open.spotify.com/track/16iXH8dmXuVKTcS72VIaR8"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Oh How I Love Jesus",
-        "url": "https://open.spotify.com/album/3xeNY7FyNVBJzJ9BQN78cI"
-      },
-      "artists": [
-        {
-          "name": "Chad Graham",
-          "url": "https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep"
-        },
-        {
-          "name": "Fallon Graham",
-          "url": "https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg"
-        }
-      ],
-      "duration_ms": 162407,
-      "name": "Oh How I Love Jesus",
-      "url": "https://open.spotify.com/track/3pUGSCxF6h1MoUPlpu1SsY"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "The Image",
         "url": "https://open.spotify.com/album/5lpuaMKwpRs2PvBsUcYUXf"
@@ -1217,27 +1313,7 @@
       "url": "https://open.spotify.com/track/3DzFfyOOZ1CWoV0sL2TKWW"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Doorkeeper",
-        "url": "https://open.spotify.com/album/5o2WxWDy0XHdvKIfeeJAYN"
-      },
-      "artists": [
-        {
-          "name": "CXMMXNS",
-          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
-        },
-        {
-          "name": "Kory Miller",
-          "url": "https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h"
-        }
-      ],
-      "duration_ms": 368285,
-      "name": "Doorkeeper",
-      "url": "https://open.spotify.com/track/6puwefYQJscScbqwPO8hVP"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Beyond Us (Deluxe)",
         "url": "https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA"
@@ -1253,7 +1329,7 @@
       "url": "https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Where Can I Go That My Maker Won't Be?",
         "url": "https://open.spotify.com/album/7wotx4RjfDYMsn2dgrjAHs"
@@ -1281,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1HoY6xu7Yj9kV6cFIcMWSB"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "I Fear No Evil (Live)",
         "url": "https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd"
@@ -1305,47 +1381,7 @@
       "url": "https://open.spotify.com/track/4MOpbyLSlO3wAVE2fdgEni"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2mttMnvIhccSExY7qsC2Fg"
-      },
-      "artists": [
-        {
-          "name": "Legacy Nashville",
-          "url": "https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje"
-        },
-        {
-          "name": "Brian Nhira",
-          "url": "https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L"
-        },
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
-        }
-      ],
-      "duration_ms": 345959,
-      "name": "23",
-      "url": "https://open.spotify.com/track/5egr0YZazg7e17gCxFsVbA"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Story of Mercy",
-        "url": "https://open.spotify.com/album/7is8wnO4oDfxy847KCKIom"
-      },
-      "artists": [
-        {
-          "name": "Harborside Music",
-          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
-        }
-      ],
-      "duration_ms": 405657,
-      "name": "Story of Mercy",
-      "url": "https://open.spotify.com/track/20wV25pB8iRqXCD3TXWYBq"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Just Jesus (Live)",
         "url": "https://open.spotify.com/album/5ldsXczfVph2WSGWkWueMJ"
@@ -1365,7 +1401,7 @@
       "url": "https://open.spotify.com/track/5Efo5tCdMX80zvxuJSwiY2"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Can't Help But Praise (Live)",
         "url": "https://open.spotify.com/album/5ee1yzrCU71q3nzkGgxhqk"
@@ -1381,7 +1417,7 @@
       "url": "https://open.spotify.com/track/0fjwtWPuU8mlvuizYQDH0p"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "King On The Throne (Live)",
         "url": "https://open.spotify.com/album/6UXRmfkCJmy75aLrvoY0XE"
@@ -1405,7 +1441,7 @@
       "url": "https://open.spotify.com/track/6VW30VHpjdnytcnHeR4hro"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0pQLV8G4XY0FPUS9xNn4Jb"
@@ -1429,7 +1465,7 @@
       "url": "https://open.spotify.com/track/53uuLBkjuxD56ZlYbODJ2y"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Slower I Go (Studio)",
         "url": "https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp"
@@ -1449,71 +1485,7 @@
       "url": "https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA"
     },
     {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/22gf2O70BB3evJlGqOoNgw"
-      },
-      "artists": [
-        {
-          "name": "Sound Chapel",
-          "url": "https://open.spotify.com/artist/4yAyAH2xJ5HMDCqdlS2VGP"
-        },
-        {
-          "name": "Ethan Hulse",
-          "url": "https://open.spotify.com/artist/5EAld9tTFN5ZJq5dcCxbB1"
-        }
-      ],
-      "duration_ms": 326368,
-      "name": "Forever Amen",
-      "url": "https://open.spotify.com/track/0LZi0SLoUvppUMpa9wVFZP"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "Prayers Filled With Praises (ambient)",
-        "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
-      },
-      "artists": [
-        {
-          "name": "Austin Ludwig",
-          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 246043,
-      "name": "Prayers Filled With Praises - ambient",
-      "url": "https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
-      "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/6F557PeBXTghQ67gMZks44"
-      },
-      "artists": [
-        {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
-        },
-        {
-          "name": "Ocean Beams",
-          "url": "https://open.spotify.com/artist/5DxcERrYo2NEdaAHSHE7vt"
-        },
-        {
-          "name": "TCAT Collective",
-          "url": "https://open.spotify.com/artist/3sq0FMynqRQy05zPZiSgah"
-        }
-      ],
-      "duration_ms": 296621,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/5YZjEJH4AoDgFwPWAvqccr"
-    },
-    {
-      "added_at": "2025-05-17 02:52:06",
+      "added_at": "2025-06-06 11:56:49",
       "album": {
         "name": "Things Of Heaven",
         "url": "https://open.spotify.com/album/2773dqfopUODXvsX1T5N3J"

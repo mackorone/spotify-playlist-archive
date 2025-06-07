@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 105380,
+  "num_followers": 105406,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Toma Ketama",
-        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
-      },
-      "artists": [
-        {
-          "name": "Ketama",
-          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Agustito",
-      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Puro Veneno",
         "url": "https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 240093,
       "name": "Echo De Menos",
       "url": "https://open.spotify.com/track/5F9NOb35E8wWEFY79Dv4vE"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Toma Ketama",
+        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
+      },
+      "artists": [
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Agustito",
+      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
     },
     {
       "added_at": "2022-01-25 22:47:02",

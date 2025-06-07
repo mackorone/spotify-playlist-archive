@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross, Akon
+> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band
 
-352 songs - 19 hr 17 min
+353 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-16 | 2025-01-11 |
 | [Came The Closest](https://open.spotify.com/track/2fRqb3yoCI9cbRASkEMo3m) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Came The Closest](https://open.spotify.com/album/6iRu1ih4G0bpKX8fPpOlhm) | 3:14 | 2023-11-03 | 2024-04-06 |
 | [Car That Drove You Away](https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 | 2025-05-02 |  |
-| [Caught Me At A Good Time](https://open.spotify.com/track/2fRP7yg4VYwyIHKDXLRj9W) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Caught Me At A Good Time](https://open.spotify.com/album/12Kz7CkGnf5zKNI7VtNFAj) | 2:42 | 2025-03-07 |  |
+| [Caught Me At A Good Time](https://open.spotify.com/track/2fRP7yg4VYwyIHKDXLRj9W) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Caught Me At A Good Time](https://open.spotify.com/album/12Kz7CkGnf5zKNI7VtNFAj) | 2:42 | 2025-03-07 | 2025-06-07 |
 | [chad](https://open.spotify.com/track/3jKg8MisTdeSusXTL9BQXV) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [chad](https://open.spotify.com/album/6r86RsMh6XIOGkKhdH9ksU) | 2:46 | 2023-11-03 | 2024-02-10 |
 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 | 2024-10-04 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/4UJiJf6bPw5V3HLU462WFR) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Flatland Forever](https://open.spotify.com/album/6hsLVJIMa6eZ0eo0sEeVbg) | 3:23 | 2024-11-09 | 2025-01-11 |
@@ -274,6 +274,7 @@
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-10 | 2025-04-19 |
 | [So Many Summers](https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [So Many Summers](https://open.spotify.com/album/7LJugehkZRhRCm0RwX1j3M) | 3:44 | 2023-11-03 | 2024-03-02 |
 | [Solitary Tracks](https://open.spotify.com/track/3E95KwP7L3CTEC42RS2Mws) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Solitary Tracks](https://open.spotify.com/album/6T3CK6Nzy6QTpT9jmVuWH7) | 3:59 | 2025-02-28 | 2025-06-03 |
+| [Somebody I Know](https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Somebody I Know](https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e) | 3:00 | 2025-06-06 |  |
 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:30 | 2024-08-23 | 2024-12-07 |
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-12-06 |  |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-01 | 2024-06-09 |

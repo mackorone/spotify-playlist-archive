@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,046 likes - 170 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,071 likes - 170 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 169 | [roaming roads](https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [roaming roads](https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0) | 2:36 |
 | 170 | [Summer Nights](https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX) | [Asokiah](https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5) | [Summer Nights](https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG) | 1:52 |
 
-Snapshot ID: `AAAAAMgzFHMhXPrQ/AnpipipG0aiXpdA`
+Snapshot ID: `Z/5CXQAAAAByVRjhdFiCTSGiepBJaJE6`

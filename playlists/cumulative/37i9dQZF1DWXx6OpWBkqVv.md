@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-142 songs - 9 hr 5 min
+144 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Alright](https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv) | 3:00 | 2023-01-03 | 2024-04-19 |
 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-10-15 |  |
 | [Angels](https://open.spotify.com/track/1mpYj5ENPXpxmjRF0oHnTW) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 2:51 | 2022-01-20 | 2022-11-13 |
-| [Angels](https://open.spotify.com/track/1zuKjpp4t7BS8JPKi6mkQr) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/2cRMVS71c49Pf5SnIlJX3U) | 2:51 | 2021-10-15 |  |
+| [Angels](https://open.spotify.com/track/1zuKjpp4t7BS8JPKi6mkQr) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/2cRMVS71c49Pf5SnIlJX3U) | 2:51 | 2021-10-15 | 2025-06-07 |
 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2022-01-20 | 2024-04-19 |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2022-01-20 | 2024-04-19 |
 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 | 2021-10-15 |  |
@@ -47,6 +47,7 @@
 | [Heads Will Roll](https://open.spotify.com/track/3zvHOVC4jikl6jORSr6OLE) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/5HBmdEPIzWtcWwH2JSv7go) | 3:41 | 2021-10-15 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2022-01-20 | 2024-04-19 |
 | [Hide It Away](https://open.spotify.com/track/2XLG8FRWlCChHrbfs9YvQN) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [More](https://open.spotify.com/album/1h6FJ7fi2IBcYhmeno64Zl) | 2:49 | 2025-04-01 |  |
+| [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-06 |  |
 | [If You Wanna](https://open.spotify.com/track/0KNVDEeZWXZPIYKqJeRRpX) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from the Vaccines?](https://open.spotify.com/album/6eWtdQm0hSlTgpkbw4LaBG) | 2:54 | 2021-10-15 |  |
 | [If You Wanna](https://open.spotify.com/track/3VaCWm6MMabDxJAzpedeQi) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [The Hits](https://open.spotify.com/album/6B8yhZXyWT9BIG3qoSI84x) | 2:54 | 2022-01-20 | 2022-11-14 |
 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 | 2022-01-20 | 2024-04-19 |
@@ -71,7 +72,7 @@
 | [Mr\. Brightside](https://open.spotify.com/track/25vf0eCrswI3GcuMH4fL3R) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Best Male Rock Singers](https://open.spotify.com/album/0MNEMYOJEiBmLv6g3zqTNY) | 3:43 | 2022-01-20 | 2022-11-14 |
 | [My Home Away From Home](https://open.spotify.com/track/4vGw3LshPYY14UlqwJfimC) | [Take Me Home](https://open.spotify.com/artist/2GjR5IECGvfoIPvSd1UsUR) | [Coming of Age](https://open.spotify.com/album/0m2XywTCfViuiAcLzrYCNW) | 4:00 | 2022-01-20 | 2024-04-19 |
 | [My Home Away From Home](https://open.spotify.com/track/136VYKgZ8b97NcYH7oVrvG) | [Take Me Home](https://open.spotify.com/artist/2GjR5IECGvfoIPvSd1UsUR) | [My Home Away from Home](https://open.spotify.com/album/2bwflBfENoLsziu8HNYBWf) | 4:02 | 2022-01-20 | 2022-11-13 |
-| [My Home Away from Home](https://open.spotify.com/track/409GzmnfisGqjDWyN57iTq) | [Take Me Home](https://open.spotify.com/artist/2GjR5IECGvfoIPvSd1UsUR) | [My Home Away from Home](https://open.spotify.com/album/3ANFaHRYgucYUuzU8IwiXJ) | 4:02 | 2021-10-15 |  |
+| [My Home Away from Home](https://open.spotify.com/track/409GzmnfisGqjDWyN57iTq) | [Take Me Home](https://open.spotify.com/artist/2GjR5IECGvfoIPvSd1UsUR) | [My Home Away from Home](https://open.spotify.com/album/3ANFaHRYgucYUuzU8IwiXJ) | 4:02 | 2021-10-15 | 2025-06-07 |
 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 | 2022-01-20 | 2024-04-19 |
 | [My Number](https://open.spotify.com/track/6qJaB0ZANcuk1F2ou8jdzK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Classic Indie](https://open.spotify.com/album/7BaGjs9SbQqURlaCBQBkFV) | 3:58 | 2022-01-20 | 2022-11-13 |
 | [My Number](https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad) | 4:00 | 2021-10-15 |  |
@@ -111,6 +112,7 @@
 | [Say It Ain't So](https://open.spotify.com/track/7eTEVei2Q7Umyzk3AmGObC) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Afternoon Rock](https://open.spotify.com/album/4Y6nUfzVt2MYWBrvNUdtey) | 4:18 | 2022-01-20 | 2022-11-13 |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2022-01-20 | 2024-04-19 |
 | [Say It Ain't So](https://open.spotify.com/track/7vhhU4SsMDV8uSQlCxf1Lk) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/5n15QbYKbO4pzAV2Iy1VVG) | 4:18 | 2021-10-15 |  |
+| [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-06-06 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 | 2021-10-15 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2022-01-20 | 2024-04-19 |
 | [Seven Nation Army](https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 3:52 | 2022-01-20 | 2022-11-13 |

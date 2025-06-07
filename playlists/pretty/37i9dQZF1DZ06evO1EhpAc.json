@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9454,
+  "num_followers": 9456,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACsUEbm76xBFQHXOWgGdafY",
+  "snapshot_id": "aEDeAAAAAAD1G0IcNWS04OkSZQr3ubt0",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 237231,
       "name": "Raingurl",
       "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": null,
@@ -71,22 +87,6 @@
       "duration_ms": 168500,
       "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Jentry Chau vs the Underworld",
-          "url": "https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19"
-        }
-      ],
-      "duration_ms": 127487,
-      "name": "Do You See Me",
-      "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 186873,
       "name": "SPELL \uc8fc\ubb38",
       "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Jentry Chau vs the Underworld",
+          "url": "https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19"
+        }
+      ],
+      "duration_ms": 127487,
+      "name": "Do You See Me",
+      "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe In Ya (Max Tundra Remix)",
         "url": "https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With A Hammer",
         "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
@@ -527,26 +527,6 @@
       "duration_ms": 122600,
       "name": "I'll Remember For Me, I'll Remember For You",
       "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 149982,
-      "name": "Enough For Love - Yaeji heart+beat Remix",
-      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
     },
     {
       "added_at": null,
@@ -583,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 149982,
+      "name": "Enough For Love - Yaeji heart+beat Remix",
+      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "With A Hammer",
         "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 162459,
       "name": "WHEN I GROW UP",
       "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EAST Vs. WEST",
-        "url": "https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV"
-      },
-      "artists": [
-        {
-          "name": "DJ OG Uncle Skip",
-          "url": "https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Drink Redux",
-      "url": "https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 170424,
       "name": "MONEY CAN'T BUY",
       "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EAST Vs. WEST",
+        "url": "https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV"
+      },
+      "artists": [
+        {
+          "name": "DJ OG Uncle Skip",
+          "url": "https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Drink Redux",
+      "url": "https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw"
     }
   ],
   "unique_name": "This Is Yaeji",

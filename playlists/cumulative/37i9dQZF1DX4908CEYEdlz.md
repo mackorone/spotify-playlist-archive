@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: A Day To Remember
 
-372 songs - 22 hr 47 min
+373 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 | 2022-01-14 |  |
 | [Frenzy](https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Frenzy](https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk) | 3:00 | 2022-10-28 | 2023-07-22 |
 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 | 2025-05-23 |  |
+| [Fuck Off \- Fidlar Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 | 2025-06-06 |  |
 | [future](https://open.spotify.com/track/1Tu1eZLylyidCJgUPcVqwj) | [Far From Alaska](https://open.spotify.com/artist/1ztNPX8z169arfAY0TWFLB), [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp) | [future](https://open.spotify.com/album/3DVz85WINTS7vaNXLtOQb4) | 2:16 | 2023-03-10 | 2023-04-01 |
 | [game](https://open.spotify.com/track/4m3yaLdrw9E8cfpXmYiUM9) | [Odeon](https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt) | [game](https://open.spotify.com/album/5vOHcm81OJgROOZP0B0fe2) | 3:22 | 2022-01-14 | 2022-01-29 |
 | [Generais De Fralda](https://open.spotify.com/track/1Zyl4XBTV72Ip1d9Xocrk4) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Generais de Fralda](https://open.spotify.com/album/7qykDoupr9TCpy0Yx46679) | 1:14 | 2025-05-16 |  |
@@ -190,7 +191,7 @@
 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 | 2022-07-01 | 2023-04-22 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2022-01-14 | 2022-02-05 |
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-16 |  |
-| [Liberdade Eliminando o Mundo](https://open.spotify.com/track/4wZmw3jPRfqCxE2U07yf77) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Liberdade Eliminando o Mundo](https://open.spotify.com/album/6dgUisP60khrx9NTruIPpT) | 3:49 | 2024-06-28 |  |
+| [Liberdade Eliminando o Mundo](https://open.spotify.com/track/4wZmw3jPRfqCxE2U07yf77) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Liberdade Eliminando o Mundo](https://open.spotify.com/album/6dgUisP60khrx9NTruIPpT) | 3:49 | 2024-06-28 | 2025-06-07 |
 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 | 2024-03-22 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/5QrIzPcWxuCD6v5TPue6PX) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Life Is Beautiful](https://open.spotify.com/album/2fnf4Gc7k5iUp8dbQuhLIo) | 3:19 | 2023-06-09 | 2023-09-16 |
 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 | 2022-01-14 | 2025-05-03 |

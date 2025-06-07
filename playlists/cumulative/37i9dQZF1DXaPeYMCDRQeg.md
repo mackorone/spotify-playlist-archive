@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-358 songs - 23 hr 27 min
+359 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [I Like The Way](https://open.spotify.com/track/0flZtKtmkZMNqFF7V7Yfmu) | [Hi\-Five](https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH) | [Greatest Hits](https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib) | 5:50 | 2022-03-14 | 2022-10-17 |
 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 | 2021-12-15 | 2023-02-11 |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 5:22 | 2021-12-15 | 2022-07-16 |
-| [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/track/1GpDcABDptCpIOALmD2S5f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/album/62JqX6BIBj6uqUTFVWjTQP) | 2:56 | 2024-11-19 |  |
+| [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/track/1GpDcABDptCpIOALmD2S5f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/album/62JqX6BIBj6uqUTFVWjTQP) | 2:56 | 2024-11-19 | 2025-06-07 |
 | [I Luv Your Girl](https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:27 | 2024-01-31 |  |
 | [I Promise](https://open.spotify.com/track/0m0NTpTPaIajAhXDPJ9wvL) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:03 | 2025-01-06 | 2025-02-08 |
 | [I Still Love You](https://open.spotify.com/track/7ecOjXV0WlewEXaRo2kLNn) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [Star](https://open.spotify.com/album/5MynMNCxSoiaCnLhA3y3NE) | 4:47 | 2021-12-15 | 2023-02-11 |
@@ -202,7 +202,7 @@
 | [Love Drought](https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:57 | 2023-02-10 | 2024-02-01 |
 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 | 2021-12-15 | 2024-12-21 |
 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 | 2024-01-31 |  |
-| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-05-23 |  |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-05-23 | 2025-06-07 |
 | [Love Song](https://open.spotify.com/track/4oZPOhLn4AoWrJKQj2ORjX) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Love Song](https://open.spotify.com/album/3NCwymfin2azsUdEb2U8xK) | 2:57 | 2022-02-04 | 2022-06-29 |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2023-02-10 | 2024-02-01 |
 | [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2024-09-20 |  |
@@ -337,6 +337,7 @@
 | [Time Today \- Remix](https://open.spotify.com/track/6xQObuonHYg7NbuHngLlcg) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Time Today \(Remix\)](https://open.spotify.com/album/2hA9pr8kwJ4haAAstHtE3n) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/1zw58wBujy79wxhOoxHxii) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/6EzhFxkhJ1Fd6vSER8YL8l) | 3:46 | 2021-12-15 | 2022-07-29 |
 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 | 2021-12-15 | 2023-02-11 |
+| [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 | 2025-06-06 |  |
 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 | 2021-12-15 | 2023-02-11 |
 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 | 2024-06-20 | 2024-06-30 |
 | [Uproar](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:14 | 2024-06-20 | 2024-06-30 |

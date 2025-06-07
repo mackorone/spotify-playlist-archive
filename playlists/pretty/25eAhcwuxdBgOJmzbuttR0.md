@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 373 songs - 1 day 1 hr 17 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 374 songs - 1 day 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -381,5 +381,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 371 | [SHALLOW](https://open.spotify.com/track/7hm7YOaz4CHZYAiYBDbf4m) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [VAMP](https://open.spotify.com/album/4bk8MDVLQ78NVnVeAKpe6z) | 3:29 |
 | 372 | [Emergence](https://open.spotify.com/track/2OMjHcniFxzijWX7EaBrXE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:26 |
 | 373 | [King](https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:52 |
+| 374 | [Fight Like A Girl \- feat\. K.Flay](https://open.spotify.com/track/6TUYOU8S2s5l8zgdHeVsjZ) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/38tIdig9WXv884CFCXuyuG) | 3:06 |
 
-Snapshot ID: `AAABgWwloKG4TJGgtT5VSSRyzvNZDmJ9`
+Snapshot ID: `AAABglQnp58LAdVwE8REnIbU9XIL13Yc`

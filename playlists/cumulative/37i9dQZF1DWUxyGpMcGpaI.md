@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#4【チェンソーマン】  戸谷菊之介×坂田将吾「台本を暗記して臨んだシーンとは…？」](https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『ウィッチウォッチ』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『ウィッチウォッチ』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 25:47 | 2023-01-04 |  |
+| [\#4【チェンソーマン】  戸谷菊之介×坂田将吾「台本を暗記して臨んだシーンとは…？」](https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『Summer Pockets』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『Summer Pockets』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 25:47 | 2023-01-04 |  |
 | [100% sales tax](https://open.spotify.com/track/3ztPDYVgfx4IHQSwOArlmJ) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 1:28 | 2023-01-24 |  |
 | [a tombstone](https://open.spotify.com/track/4DGlXheC0A5W21V0WWjAss) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack Complete Edition \- chainsaw edge fragments \-](https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C) | 2:40 | 2023-01-24 |  |
 | [a tombstone](https://open.spotify.com/track/40wsJS8Ma1KiGcwgNbxigt) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.3 \(Episode 8\-12\)](https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4) | 2:40 | 2022-12-27 | 2023-01-26 |

@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-444 songs - 1 day 1 hr 0 min
+446 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Never Let Me Down Again](https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM) | [Jessica Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:29 | 2023-09-15 | 2025-03-14 |
 | [Never the 1](https://open.spotify.com/track/3CvfUOkWsfTr7ZIjl6D9Uk) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [20mg of Happiness](https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D) | 2:51 | 2023-09-15 | 2025-03-14 |
 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 | 2023-09-15 | 2025-03-14 |
+| [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 | 2025-06-06 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/0impvergaW8CuQS2OcEWMu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 3:00 | 2025-03-26 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-09-15 | 2025-03-14 |
 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 | 2024-02-16 | 2025-03-14 |
@@ -394,6 +395,7 @@
 | [This Town](https://open.spotify.com/track/1JdQzbncy3m0OvK8mE0Qxm) | [Tessa Odden](https://open.spotify.com/artist/5fWn9g8ERHtGKWdkAuomBx) | [This Town](https://open.spotify.com/album/14CtMo9Z3QPuNwCDzsI4Py) | 3:23 | 2023-09-15 | 2025-03-14 |
 | [THOUSAND MILES](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THOUSAND MILES](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2023-09-15 | 2025-03-14 |
 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 | 2023-09-15 | 2025-03-14 |
+| [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 |  |
 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2025-03-26 |  |
 | [Too Fucked Up to Love you](https://open.spotify.com/track/5pvqXgUhiQsNZ9whFVjtaa) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Monochrome](https://open.spotify.com/album/2sLWUHZQTHFzlYqJ2P1H36) | 2:45 | 2023-09-15 | 2025-03-14 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2023-09-15 |  |

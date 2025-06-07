@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Joey Bada$$",
+  "description": "Up and down I-95. Cover: Clipse",
   "name": "State of Mind",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 91461,
       "name": "(Extra cheese)",
       "url": "https://open.spotify.com/track/3EhqkRh6JO4jjyU9Ok2pG1"
@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "AHA",
+        "url": "https://open.spotify.com/album/3Ss0N9H97FQsgOoGnkQcEA"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162558,
+      "name": "AHA",
+      "url": "https://open.spotify.com/track/5iB97HefP9cudBwiOtfxcI"
+    },
+    {
+      "album": {
         "name": "Ain't Get Caught (feat. Jozzy)",
         "url": "https://open.spotify.com/album/0OrIKeiLmUMluuyYiRx1rR"
       },
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 89673,
       "name": "AVENTADOR",
       "url": "https://open.spotify.com/track/1HfRUONTeuX9dwOdgLFCe0"
@@ -2668,6 +2686,24 @@
       "duration_ms": 171428,
       "name": "BB Belt (Remix)(with Bb trickz)",
       "url": "https://open.spotify.com/track/6Q4YPBrvlY5QquLGptybcP"
+    },
+    {
+      "album": {
+        "name": "BBC",
+        "url": "https://open.spotify.com/album/5zMDLrAblOQRCmmsGErd3d"
+      },
+      "artists": [
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "BBC",
+      "url": "https://open.spotify.com/track/4PT50aQpCi7G7hkEOeLNON"
     },
     {
       "album": {
@@ -4388,6 +4424,28 @@
       "duration_ms": 178786,
       "name": "Brand New 911",
       "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
+    },
+    {
+      "album": {
+        "name": "Rookie of the Year",
+        "url": "https://open.spotify.com/album/4GSlPYadgWlrjUjtWoPC9P"
+      },
+      "artists": [
+        {
+          "name": "Sturdyyoungin",
+          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
+        },
+        {
+          "name": "DonnyC",
+          "url": "https://open.spotify.com/artist/30uMT9on5GgknR4vSyGNiw"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111849,
+      "name": "Brat Doll",
+      "url": "https://open.spotify.com/track/2KlKpQXFn1hUtU0Le3Ius8"
     },
     {
       "album": {
@@ -7494,7 +7552,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 178359,
       "name": "Different (with 42 Dugg)",
       "url": "https://open.spotify.com/track/3CXFeHHhNvwHsgAMdnPCve"
@@ -7552,7 +7610,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 136920,
       "name": "Disgusted",
       "url": "https://open.spotify.com/track/1izgz7mqWzI5QR3E8y7nQI"
@@ -9436,7 +9494,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 123900,
       "name": "Fanboy and Chum Chum",
       "url": "https://open.spotify.com/track/7swlmal1D17zTnsWiM1GuO"
@@ -12062,7 +12120,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 121519,
       "name": "GoROUND",
       "url": "https://open.spotify.com/track/4YtuYDR319Xp5GsguDOMcw"
@@ -12084,7 +12142,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 186500,
       "name": "Got You",
       "url": "https://open.spotify.com/track/237yt61ZnMPZBeLylJ43lI"
@@ -12782,7 +12840,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 173498,
       "name": "Heavenly pt3",
       "url": "https://open.spotify.com/track/7wLWyvTZbhkoDHj7xX4d6C"
@@ -12808,6 +12866,36 @@
       "duration_ms": 200425,
       "name": "Heavy (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/1xaNHQWsWNBknEE1vIIcd9"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Jae Lou",
+          "url": "https://open.spotify.com/artist/5zqtx53hAXjldb0dPhYAd1"
+        },
+        {
+          "name": "King Kota",
+          "url": "https://open.spotify.com/artist/1237Vbj1sAR5ElqPuWO03L"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/6a0K1tfV8VzYPrPGClZlTT"
     },
     {
       "album": {
@@ -14724,7 +14812,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 157500,
       "name": "JAT",
       "url": "https://open.spotify.com/track/70P4w3bgH61ZSt4gGFd0r2"
@@ -15876,6 +15964,24 @@
       "duration_ms": 179209,
       "name": "Last Time (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4bgfOF85wLRLtVtDeuwlNH"
+    },
+    {
+      "album": {
+        "name": "Latency",
+        "url": "https://open.spotify.com/album/1klo3EP0w6QR8MhD27AWG0"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145464,
+      "name": "Latency",
+      "url": "https://open.spotify.com/track/4dj9ZNAgq4Vfll0sG2e993"
     },
     {
       "album": {
@@ -17904,6 +18010,24 @@
       "duration_ms": 138145,
       "name": "Me & You (feat. Salma Slims)",
       "url": "https://open.spotify.com/track/4m3W7NQJ78Rsm5JTtBiphm"
+    },
+    {
+      "album": {
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/0AZzBpP070CamsTm5Pqvgf"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144462,
+      "name": "Me Again",
+      "url": "https://open.spotify.com/track/7ajhnF9PY4D1LftlzVpO6G"
     },
     {
       "album": {
@@ -21247,6 +21371,24 @@
     },
     {
       "album": {
+        "name": "One Of Them",
+        "url": "https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171772,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB"
+    },
+    {
+      "album": {
         "name": "ShaaBiggaa & Hiii Siddity",
         "url": "https://open.spotify.com/album/4mT8qhNHsh2cxrY3TSCEqM"
       },
@@ -21616,6 +21758,28 @@
       "duration_ms": 196312,
       "name": "Outside (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9"
+    },
+    {
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/60LHNmZV4NxCVryFb4jhZy"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166351,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/0fyTxbBpOEBjh6be882tHu"
     },
     {
       "album": {
@@ -24904,6 +25068,24 @@
       "duration_ms": 180340,
       "name": "Runaway (feat. Nas)",
       "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
+    },
+    {
+      "album": {
+        "name": "Runaway Love Freestyle",
+        "url": "https://open.spotify.com/album/5eEim9IEtbqoQeGGHOUQwT"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191804,
+      "name": "Runaway Love Freestyle",
+      "url": "https://open.spotify.com/track/08HZj3jt95PxmbYkyV96u9"
     },
     {
       "album": {
@@ -32042,7 +32224,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 120153,
       "name": "WiNSTON WOLF",
       "url": "https://open.spotify.com/track/1RbYmeEXgHZNSS4nhKCiDm"
@@ -32758,6 +32940,28 @@
       "duration_ms": 122000,
       "name": "YUMA",
       "url": "https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA"
+    },
+    {
+      "album": {
+        "name": "Yup & I do",
+        "url": "https://open.spotify.com/album/5uiCdHTYa2rFe0QkPRO6yO"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "STMG DemGuyz",
+          "url": "https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126799,
+      "name": "Yup & I do",
+      "url": "https://open.spotify.com/track/5xs9IGR02tU4bsHt3a6CBP"
     },
     {
       "album": {

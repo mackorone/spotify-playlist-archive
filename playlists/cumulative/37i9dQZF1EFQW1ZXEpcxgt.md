@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 8 hr 12 min
+147 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 | 2025-05-26 |  |
 | [Hips Don't Lie](https://open.spotify.com/track/0E7AHMdJL4XMOuRShGs23D) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:28 | 2022-06-04 |  |
 | [Home](https://open.spotify.com/track/5GI96fTs0xkKXfgShNn975) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [At Home](https://open.spotify.com/album/27y7LkojjT5POmnZeWIttg) | 2:30 | 2022-06-04 |  |
-| [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4tV5HtU19qU0m52jHp8WQD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/album/4GYjTuUIbdIiUYOQvUiTZy) | 3:57 | 2025-05-26 |  |
+| [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:57 | 2025-06-06 |  |
+| [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4tV5HtU19qU0m52jHp8WQD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [HOROSCOPE \(feat\. Pharrell Williams\)](https://open.spotify.com/album/4GYjTuUIbdIiUYOQvUiTZy) | 3:57 | 2025-05-26 | 2025-06-07 |
 | [Hurt for Long](https://open.spotify.com/track/5Zo2q2qGbGMzPURPXqOqlX) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:17 | 2022-06-04 |  |
 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/2BM7nF0pMIpLQOT04o691Z) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:22 | 2022-06-04 |  |
 | [Hustle Harder](https://open.spotify.com/track/2SS3wA4pk7jutREHgojJcb) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Nobody's Smiling \(Deluxe\)](https://open.spotify.com/album/0ymZEUngBCetAJcJaqO63b) | 3:58 | 2022-06-04 |  |

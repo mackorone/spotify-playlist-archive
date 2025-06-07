@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Smerz
 
-114 songs - 6 hr 22 min
+119 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [CPH](https://open.spotify.com/track/71ut6WB7qCVH0wOiXGtzFt) | [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Still life](https://open.spotify.com/album/688FqKQlinS1PjgQnj29jJ) | 5:03 | 2025-03-31 |  |
 | [Crickets](https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Crickets](https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI) | 3:21 | 2025-03-13 |  |
 | [Cute Little Spore](https://open.spotify.com/track/6qRLpNRWAAiaF1SBNmutHs) | [Velvy](https://open.spotify.com/artist/3QOzYZsjM7lKys2jAyg9JV) | [The Room We Lived In](https://open.spotify.com/album/00wYWrRYnSOBLNFSqYJn42) | 3:12 | 2025-03-13 |  |
+| [daugther](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daugther](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 | 2025-06-06 |  |
 | [Days In My Arms](https://open.spotify.com/track/6juSVsEDuNqM2Zp8D0kK5L) | [Milan W.](https://open.spotify.com/artist/4ZCux8WXdeKCoARMg1JSok) | [Leave Another Day](https://open.spotify.com/album/40UEAKeQY7F59p1dLFrD24) | 4:00 | 2025-03-13 |  |
 | [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:39 | 2025-03-13 |  |
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-08 |  |
@@ -40,7 +41,7 @@
 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 | 2025-03-13 |  |
 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-04-24 |  |
 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 | 2025-03-13 |  |
-| [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 |  |
+| [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-06-07 |
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
 | [Emo Regulation](https://open.spotify.com/track/4PjdsrYAb9CWjbtT9RUwi3) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:23 | 2025-05-15 |  |
@@ -51,6 +52,7 @@
 | [follow your nature](https://open.spotify.com/track/5lyvMhPSs4Lz9XVT9Vyhi4) | [great area](https://open.spotify.com/artist/2RZuX5qzl7vZSxlX5T2hBj) | [Follow Your Nature](https://open.spotify.com/album/7jcUICqffbjaDdPpDT7Yxt) | 2:16 | 2025-03-13 |  |
 | [Forgetful](https://open.spotify.com/track/3Q1u8slUCTZEy8zlS9W3iZ) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Forgetful](https://open.spotify.com/album/3JkbrPgAyJMSn9YuPUpNS5) | 4:41 | 2025-03-13 |  |
 | [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 |  |
+| [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 |  |
 | [Good Stuff \- Edit](https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Good Stuff \(Edit\)](https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul) | 3:29 | 2025-04-03 |  |
 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2025-03-13 |  |
@@ -87,6 +89,7 @@
 | [Orbit With You](https://open.spotify.com/track/5xztDcEC4sgXximb2D4a7g) | [FRUM](https://open.spotify.com/artist/5bLn7G1fMLphqWKHVsf36r) | [Whirlpool](https://open.spotify.com/album/7H4WKgNSU90vCS3Jp4sidl) | 2:59 | 2025-05-22 |  |
 | [Organs](https://open.spotify.com/track/3XrEOFbHz26fgR8UTmPxmP) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:47 | 2025-03-13 |  |
 | [Perfectly Blue](https://open.spotify.com/track/2TmoPdRP4g4L6RFMNI7Q1w) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue](https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2) | 3:23 | 2025-03-13 | 2025-05-16 |
+| [Play](https://open.spotify.com/track/4EbKAHT7I23BeXQFJ041Ls) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Play](https://open.spotify.com/album/6ftc3vTUK6umbu9YvAtXJo) | 4:34 | 2025-06-06 |  |
 | [Player](https://open.spotify.com/track/2ijSauaN6TX94b8VRSdn1j) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 2:51 | 2025-03-13 |  |
 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 | 2025-05-08 |  |
 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 | 2025-04-29 |  |
@@ -101,6 +104,7 @@
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 |  |
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 |  |
+| [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-06 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 |  |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 |  |
@@ -119,6 +123,7 @@
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 |  |
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-17 |  |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-21 |  |
+| [You're on the Loose](https://open.spotify.com/track/77P729eyk6EgyXQJV22hpu) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [You're on the Loose](https://open.spotify.com/album/7An52a3iEFGZPKQE3NCDSy) | 4:37 | 2025-06-06 |  |
 | [Your House](https://open.spotify.com/track/246PgD6sKyx5qKGAg11PvC) | [Coined](https://open.spotify.com/artist/0au9S2IIAu2bbXGbKfQ7Tc), [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Your House](https://open.spotify.com/album/0RpisJnciJ1zJ9cMhci6zL) | 2:58 | 2025-03-31 |  |
 | [YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [YSL](https://open.spotify.com/album/0Kj9BfyMD0zK43pZloXTaB) | 2:34 | 2025-03-13 |  |
 | [YZOBEL](https://open.spotify.com/track/1eM523xDxp1mHQiTA7kmFB) | [Gyeongsu](https://open.spotify.com/artist/5WxULI3e8qgnKwMauQduCD), [Croche](https://open.spotify.com/artist/22I9JgE3OUvUWkYGuXbH2z) | [SLIT](https://open.spotify.com/album/0zX7226sj8C09ggxKE3NKZ) | 3:02 | 2025-03-13 |  |

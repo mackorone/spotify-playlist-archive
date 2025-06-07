@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Rise Against",
+  "description": "The best and latest rock and alternative. Cover: Volbeat",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "God Of Angels Trust",
+        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "Demonic Depression",
+      "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
+    },
+    {
+      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ"
       },
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 221795,
       "name": "JIM BOB",
       "url": "https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK"
@@ -2890,7 +2908,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"

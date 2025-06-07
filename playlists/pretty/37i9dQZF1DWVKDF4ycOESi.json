@@ -1,6 +1,6 @@
 {
   "description": "Nuovi brani di Bresh, Tananai, Sabrina Carpenter, Rhove, Baby Gang, Ed Sheeran, Levante, Emma Nolde e tanti altri.",
-  "num_followers": 337254,
+  "num_followers": 337756,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-06-05 23:01:15",
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "added_at": "2025-06-05 23:01:15",
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
@@ -865,7 +881,7 @@
         },
         {
           "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "url": "https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM"
         }
       ],
       "duration_ms": 170895,

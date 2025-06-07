@@ -3123,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Comin' In Cold",
+        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Comin' In Cold",
+      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
+    },
+    {
+      "album": {
         "name": "Coming Home To You (Bigger Houses)",
         "url": "https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl"
       },

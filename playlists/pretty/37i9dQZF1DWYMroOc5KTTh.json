@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 705486,
+  "num_followers": 705602,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 150700,
+      "name": "Body & Soul (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
         "name": "Blackoak",
         "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "The Juicebox",
-        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 150700,
-      "name": "Body & Soul (feat. Biig Piig)",
-      "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
     },
     {
       "added_at": "2025-05-08 23:00:16",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-05-08 23:00:16",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 253043,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT"
+    },
+    {
+      "added_at": "2025-05-08 23:00:16",
+      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 222675,
       "name": "JOY (By My Side)",
       "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
-    },
-    {
-      "added_at": "2025-05-08 23:00:16",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 253043,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT"
     },
     {
       "added_at": "2025-05-08 23:00:16",

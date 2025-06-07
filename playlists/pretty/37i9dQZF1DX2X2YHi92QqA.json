@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u0442\u0435\u043f\u043b\u0438\u0445 \u0434\u043d\u0456\u0432 \ud83c\udf3b\u2600\ufe0f\ud83c\udfd5\ufe0f",
-  "num_followers": 36044,
+  "num_followers": 36061,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,22 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "You got time and I got money",
-        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
       },
       "artists": [
         {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+          "name": "Sasha Norova",
+          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
         }
       ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+      "duration_ms": 132626,
+      "name": "\u0410\u0443 \u0430\u0443",
+      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -331,22 +335,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
-        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
       },
       "artists": [
         {
-          "name": "Sasha Norova",
-          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 132626,
-      "name": "\u0410\u0443 \u0430\u0443",
-      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
+        "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
+        "url": "https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG"
+      },
+      "artists": [
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
+      "url": "https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
         "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
-        "url": "https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG"
-      },
-      "artists": [
-        {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "\u041a\u0410\u0416\u0410\u041d\u0418",
-      "url": "https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
         "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
       },
@@ -899,22 +899,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
-        "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
       },
       "artists": [
         {
-          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
-          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 185409,
-      "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
-      "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -935,18 +931,22 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+        "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
+        "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
         }
       ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
+      "duration_ms": 185409,
+      "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
+      "url": "https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "swim",
-        "url": "https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 282389,
-      "name": "swim",
-      "url": "https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H"
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

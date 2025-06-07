@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,990 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,989 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 | 19 | [Love Love Love \- Instrumental](https://open.spotify.com/track/0WbkukjmHQ3Y0PClLU1fAP) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Love Love Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6b0RI9sLF9braqpMYCVQwm) | 3:16 |
 | 20 | [Talk to me \- Instrumental](https://open.spotify.com/track/3dE2DqQOl8eOgu1MfjFxnV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Talk to me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC) | 4:17 |
 | 21 | [Your tender heart hurts me \- Instrumental](https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 |
-| 22 | [Want to be happy \- Instrumental](https://open.spotify.com/track/47hVZY42dyrjuvcZxwZak2) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 |
-| 23 | [Wanna be your lover \- Instrumental](https://open.spotify.com/track/4iFeJ1CbCUyHLFCotgPPiM) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Wanna be your lover \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/3Ea87oNrypIds4feLNpugp) | 4:26 |
+| 22 | [Wanna be your lover \- Instrumental](https://open.spotify.com/track/4iFeJ1CbCUyHLFCotgPPiM) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Wanna be your lover \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/3Ea87oNrypIds4feLNpugp) | 4:26 |
+| 23 | [Want to be happy \- Instrumental](https://open.spotify.com/track/47hVZY42dyrjuvcZxwZak2) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 |
 | 24 | [Love beyond words \- Instrumental](https://open.spotify.com/track/0inBLZZp4n4hd3JnJfNd1M) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 |
 
 Snapshot ID: `ZIxW0QAAAAAsdZEtJSZ23s2RziQaaKU6`

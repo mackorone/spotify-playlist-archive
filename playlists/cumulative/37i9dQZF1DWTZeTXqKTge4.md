@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Aswell
+> Le meilleur du hip\-hop québécois\. Photo: White\-B
 
-807 songs - 1 day 17 hr 6 min
+809 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 | 2022-12-02 | 2023-09-30 |
 | [30 Shots](https://open.spotify.com/track/6VEoDyngWaZrkKV7Jw2ShY) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/3sAKND1PUz7rDHB4xuvMuD) | 2:53 | 2023-02-03 | 2023-02-08 |
 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 | 2022-01-21 | 2022-04-23 |
+| [300](https://open.spotify.com/track/7LjEC618TnZIBPPFUYMgB2) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [300](https://open.spotify.com/album/4Oi4mTuE5Qg33JlN1gbgml) | 2:43 | 2025-06-06 |  |
 | [3e avenue](https://open.spotify.com/track/1Utqa3AcyGm5qZGek8WxQP) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [3e avenue](https://open.spotify.com/album/7F34U28n3S1sT9jkVWcgd9) | 3:28 | 2022-01-07 | 2022-04-02 |
 | [4 Freestyle](https://open.spotify.com/track/7iwVomN3kJh4qTjCAOlZnS) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [4 Freestyle](https://open.spotify.com/album/0N8iFVEWhVVXla6ASyOa2m) | 2:51 | 2022-01-07 | 2022-01-29 |
 | [40](https://open.spotify.com/track/6MJSvI0HaZC2W5JIZg9w50) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [40](https://open.spotify.com/album/1k7givc0662M7BReqqkAGx) | 2:30 | 2024-07-19 |  |
-| [4502](https://open.spotify.com/track/3fV0H6wr3f36sMga8xrgUp) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Genèse](https://open.spotify.com/album/3Les4fAJE90bbd7fVzOGzD) | 2:41 | 2025-03-14 |  |
+| [4502](https://open.spotify.com/track/3fV0H6wr3f36sMga8xrgUp) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Genèse](https://open.spotify.com/album/3Les4fAJE90bbd7fVzOGzD) | 2:41 | 2025-03-14 | 2025-06-07 |
 | [4AMINRDP](https://open.spotify.com/track/2c0er12peuMMb9bol1Ktig) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI) | [2003](https://open.spotify.com/album/1LppY42rL5Y6LmNJ0evHez) | 2:48 | 2023-04-07 | 2023-06-17 |
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2022-01-07 | 2022-02-12 |
 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 | 2022-01-21 | 2022-05-14 |
@@ -248,7 +249,7 @@
 | [EDM \(Entre deux mondes\)](https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [EDM \(Entre deux mondes\)](https://open.spotify.com/album/4v9kxxVzv0G27JxTC1Aj3k) | 2:55 | 2023-07-28 | 2023-09-23 |
 | [Efforts](https://open.spotify.com/track/3ySHy6KrvjBZ6W5IHervID) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Efforts](https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn) | 3:57 | 2022-10-28 | 2023-01-28 |
 | [EGK](https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [EGK](https://open.spotify.com/album/2yO4mSOgBVH41omCGeIi5J) | 2:28 | 2023-08-11 | 2023-12-09 |
-| [Elle est bonne](https://open.spotify.com/track/1NY5sirmSCfQ7w8eIwQ6nB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:59 | 2025-01-24 |  |
+| [Elle est bonne](https://open.spotify.com/track/1NY5sirmSCfQ7w8eIwQ6nB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence Complice](https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB) | 2:59 | 2025-01-24 | 2025-06-07 |
 | [Emballer](https://open.spotify.com/track/0eOFvt23wFrXi7j6QH9lgz) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/5vShKF0bNg1VzgeN62B8N9) | 2:12 | 2023-10-13 | 2023-10-28 |
 | [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 | 2023-09-01 | 2023-10-15 |
 | [En Demande](https://open.spotify.com/track/6yGdLOahF39Dvgf8Zvkrbz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [On Reste Actif](https://open.spotify.com/album/2S7jfIOKQccTaJxPEF7ifI) | 3:00 | 2025-05-16 |  |
@@ -469,6 +470,7 @@
 | [Marathon](https://open.spotify.com/track/2hM2oSiYb7d0xlZqYFtA8R) | [Jam](https://open.spotify.com/artist/4m4tKG9uHphPln2GikPfYN) | [Bettta](https://open.spotify.com/album/5Uh9kzQjSmeA2kUt94usNK) | 3:02 | 2023-11-03 | 2023-11-13 |
 | [Marrakech](https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9) | [Marrakech](https://open.spotify.com/album/7b4wIbfPAoDOXsBLYEzki2) | 3:31 | 2022-01-21 | 2022-04-29 |
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-06-10 | 2023-11-13 |
+| [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 | 2025-06-06 |  |
 | [Mauvais Ressentiment](https://open.spotify.com/track/7Gqxw0JjHdPW6crGmFMIlA) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [Mauvais Ressentiment](https://open.spotify.com/album/2i2QBPdBMAGlBuvCdzfp5e) | 2:57 | 2023-08-18 | 2024-04-27 |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2023-09-29 | 2024-03-16 |
 | [Mauvais rêve](https://open.spotify.com/track/6u2UQSSpp6fO3LubYW3ef6) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:50 | 2024-04-19 | 2025-03-01 |

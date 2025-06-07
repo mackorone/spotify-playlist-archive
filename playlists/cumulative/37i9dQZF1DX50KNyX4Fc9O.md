@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Sabrina Carpenter
 
-1,931 songs - 4 day 3 hr 36 min
+1,932 songs - 4 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1765,6 +1765,7 @@
 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 | 2024-01-11 | 2024-02-09 |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-16 | 2024-01-12 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-06-15 | 2023-07-07 |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 |  |
 | [Typical Guy](https://open.spotify.com/track/100GxoYupCTtvH3iNlwVEz) | [Josh Mac](https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L) | [Dreamlike](https://open.spotify.com/album/2F9F5GLBnAeqezA5HYZtmM) | 2:59 | 2023-11-30 | 2024-01-12 |
 | [u stay on my mind](https://open.spotify.com/track/32Z8DWYXNkWPJNILin5ICp) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [u stay on my mind](https://open.spotify.com/album/1PR2VPWqa5ZsukGYS4QMpE) | 3:10 | 2023-06-22 | 2023-06-30 |
 | [U Stay On My Mind](https://open.spotify.com/track/7hfyTmnJ3RkbRETLbS6SZz) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [U Stay On My Mind](https://open.spotify.com/album/2D6mvxNOCurkKqD0KCwitU) | 3:10 | 2023-06-15 | 2023-06-26 |

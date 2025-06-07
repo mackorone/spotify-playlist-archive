@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-405 songs - 23 hr 48 min
+406 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [LOVE YOU](https://open.spotify.com/track/1rzLrlJ3dB0OYODelxaRQY) | [C.T.O](https://open.spotify.com/artist/7lcIiKfgKb19JCpm16acIQ) | [LOVE YOU](https://open.spotify.com/album/7mrM3Ixy1Ui3wXBxEadmE2) | 3:34 | 2022-06-20 | 2022-07-07 |
 | [Love you till I die](https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O) | [黃號](https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA), [曾薀帆](https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD) | [為你唱情歌 \- Love you till I die](https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T) | 3:22 | 2022-11-08 | 2022-12-28 |
 | [Loving Everyday](https://open.spotify.com/track/6vj4dqQLuUJ037MzU2VEXe) | [Ling Kai](https://open.spotify.com/artist/1Cp9y8CEOMasKnTpOnsUL0) | [Loving Everyday](https://open.spotify.com/album/28byJbDSuF3IusuQlSVWIA) | 4:24 | 2022-06-27 | 2022-07-04 |
+| [Luv U No Reason \(L.U.N.R\) \[feat\. J.Tim\]](https://open.spotify.com/track/2UldjvotRZWSttlMGss4fv) | [K!ddingboi](https://open.spotify.com/artist/0aMb32AbyiEHs6q7t5d1gC), [J.Tim](https://open.spotify.com/artist/35GRmLEv0RouFxQ6SahMCS) | [Luv U No Reason \(L.U.N.R\) \[feat\. J.Tim\]](https://open.spotify.com/album/1CIPn9IfUB8IGGFBc42cGk) | 3:14 | 2025-06-05 |  |
 | [Make You Mine](https://open.spotify.com/track/7srrBO1i4TPAzL8ksts1lQ) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Make You Mine](https://open.spotify.com/album/55qaa3QlpERHC9ji8n93QV) | 3:28 | 2022-08-08 | 2022-08-30 |
 | [Meant To Be](https://open.spotify.com/track/2JMvrwCMRQyTAU0mcC1L4V) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Meant To Be](https://open.spotify.com/album/6ZrpBdx44f9CSSa5DTPh5W) | 4:03 | 2022-06-06 | 2022-07-16 |
 | [Melody](https://open.spotify.com/track/7LGg45oJbIiyt0zVwb5Ho0) | [Baozhai Mezhong](https://open.spotify.com/artist/1sNBvC3ul9Xy0beVtEDPqV) | [Melody](https://open.spotify.com/album/5DfouQvBikRahYnthwaKHw) | 3:57 | 2022-06-06 | 2022-07-29 |
@@ -181,7 +182,7 @@
 | [好久不見](https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:12 | 2022-06-20 |  |
 | [好像都一樣 \(電視劇《兩個人的小森林》片尾曲\)](https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn) | [Esther Yu](https://open.spotify.com/artist/5zPqM8LgROl23YebfY1a7B), [張彬彬](https://open.spotify.com/artist/3mqdyRN0qBJFC2K8QtaOoe) | [好像都一樣 \(電視劇《兩個人的小森林》片尾曲\)](https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6) | 2:57 | 2022-10-24 | 2025-02-07 |
 | [好喜歡你](https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [好喜歡你](https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp) | 4:27 | 2022-06-06 |  |
-| [好多話想對你講](https://open.spotify.com/track/4yqKs33VoYAgBkF8SUwrWH) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [好多話想對你講](https://open.spotify.com/album/1UxbkWXnkQf7Lf8ZIXESuM) | 3:59 | 2025-05-08 |  |
+| [好多話想對你講](https://open.spotify.com/track/4yqKs33VoYAgBkF8SUwrWH) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [好多話想對你講](https://open.spotify.com/album/1UxbkWXnkQf7Lf8ZIXESuM) | 3:59 | 2025-05-08 | 2025-06-07 |
 | [好想 \- 戲劇《好想和你在一起》片頭曲](https://open.spotify.com/track/1gWK2W3UnyatosWIjz4Gda) | [Kuo Shu\-Yao](https://open.spotify.com/artist/2YyCcOAo9HUfReP3xbe65c) | [好想 \(戲劇《好想和你在一起》片頭曲\)](https://open.spotify.com/album/7l5FZcosIcto7LiMwkaE6k) | 4:06 | 2022-06-13 | 2022-06-18 |
 | [如果月亮會說話](https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮會說話](https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz) | 3:02 | 2024-10-24 |  |
 | [妳看這是我的女朋友](https://open.spotify.com/track/5Ru7JmXWYeGBmwrysslteo) | [祁聖翰](https://open.spotify.com/artist/3MWlzbPRqwOGSn6II9duXc) | [妳看這是我的女朋友](https://open.spotify.com/album/6586J9hr3zPm1I1jo8yFiP) | 3:11 | 2022-06-20 | 2022-07-24 |

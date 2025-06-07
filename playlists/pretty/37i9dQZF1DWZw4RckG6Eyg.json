@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray",
-  "num_followers": 39214,
+  "num_followers": 39247,
   "original_name": "Indie songs from 2024 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "stick of gum",
+        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "stick of gum",
+      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Lejos De M\u00e1s",
         "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 246720,
       "name": "Lejos De M\u00e1s",
       "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "stick of gum",
-        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "stick of gum",
-      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 182761,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "SlowMo",
         "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 222741,
       "name": "Soft Spoken",
       "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 182761,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
       },
       "artists": [
         {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 166228,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
+      "duration_ms": 168160,
+      "name": "Persuasion",
+      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1135,34 +1135,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
       },
       "artists": [
         {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Persuasion",
-      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Dennis",
-        "url": "https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "Kepko",
-      "url": "https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg"
+      "duration_ms": 166228,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 265165,
       "name": "Guided Tour",
       "url": "https://open.spotify.com/track/0afflx9Jk8wIFitFncBnyS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Dennis",
+        "url": "https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "Kepko",
+      "url": "https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg"
     },
     {
       "added_at": "2024-12-04 12:15:00",

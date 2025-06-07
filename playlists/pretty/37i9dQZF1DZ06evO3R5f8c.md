@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,718 likes - 49 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,813 likes - 49 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 40 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
 | 41 | [Extra Time On You \(feat\. Portia Monique\)](https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:22 |
 | 42 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
-| 43 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
-| 44 | [Izizwe](https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 7:00 |
+| 43 | [Izizwe](https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 7:00 |
+| 44 | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [I Have Faith \(feat\. Mondli Ngcobo\)](https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS) | 8:14 |
 | 45 | [Stuck In Your Love \(feat\. Azola\)](https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:05 |
 | 46 | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD) | 9:48 |
-| 47 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 |
-| 48 | [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
+| 47 | [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
+| 48 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 |
 | 49 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 
-Snapshot ID: `aD+MgAAAAADeR343TG+31EXX6jmtiUcy`
+Snapshot ID: `aEDeAAAAAACn91Criuq23BcnJNBTU3Im`

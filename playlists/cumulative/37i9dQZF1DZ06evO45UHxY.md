@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 30 min
+112 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Un Engaño Más](https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Sorprendente](https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my) | 2:59 | 2023-11-10 |  |
 | [Vamos a Bailar](https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Vamos a Bailar](https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z) | 2:45 | 2022-06-01 |  |
 | [Voy a Decirle](https://open.spotify.com/track/5kG9Ng8DM15wTB1H1TGh8k) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [A Pesar de Todo](https://open.spotify.com/album/5EAh7WUPKJAqw2fwGZ2M8N) | 2:22 | 2022-06-01 | 2023-11-11 |
-| [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 | 2022-06-01 |  |
+| [Ya parará](https://open.spotify.com/track/3xCVnLKHyNbdL0QBP0E8lo) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 0:38 | 2025-06-07 |  |
+| [Ya parará](https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Cumbia Explosión](https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa) | 0:38 | 2022-06-01 | 2025-06-07 |
 | [Ya se peinó el crespito](https://open.spotify.com/track/1qEZhq6g541kbk9hjpvWd3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Con Banda](https://open.spotify.com/album/3aTBKYHMYBw8oBTZVMoeu4) | 1:45 | 2025-04-28 | 2025-04-29 |
 | [Yo Soy el Bueno](https://open.spotify.com/track/5muMpAeGSrxLLZpDeuMdHM) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:42 | 2025-03-25 | 2025-03-30 |
 | [Zapatos De Bailador](https://open.spotify.com/track/4rmIfxQJ9Wcov4EgNsVFfR) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Mas Caliente..\. La Niña Fresa](https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a) | 2:46 | 2024-01-14 | 2024-03-01 |

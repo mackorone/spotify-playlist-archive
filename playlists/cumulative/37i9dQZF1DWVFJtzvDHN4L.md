@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-100 songs - 4 hr 49 min
+101 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [American Beauty \- Arr\. for Orchestra by David Le Page](https://open.spotify.com/track/44yJ0ref4zNaTgLzoVLyLN) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Orchestra of the Swan](https://open.spotify.com/artist/4Q6c37zCXu7UvWmUcROoVq), [David le Page](https://open.spotify.com/artist/2ibsbvp3eHcQOgxZxVsk8x), [David Gordon](https://open.spotify.com/artist/4YvmbUu5BxZsyJkkgf5CZN) | [American Beauty \(Arr\. for Orchestra by David Le Page\)](https://open.spotify.com/album/20gCLYuqHftsYNN3DnE9NN) | 3:18 | 2025-05-07 |  |
 | [American Symphony Theme](https://open.spotify.com/track/12YNZAFHGLIrtzQU7cfnQ6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 2:41 | 2024-11-19 |  |
 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 | 2021-11-19 |  |
+| [Bauklotze \(From "Attack on Titan"\)](https://open.spotify.com/track/1BbMcLt9Mmc3YgyEMjT0vt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Andrea Cicalese](https://open.spotify.com/artist/4F5KVGbhPL8Xla1Hss1EyJ), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Bauklotze \(From "Attack on Titan"\)](https://open.spotify.com/album/6C2ISOB35FkHeyIlJJS9re) | 2:51 | 2025-06-06 |  |
 | [Beyond](https://open.spotify.com/track/3UIdfTWEMXcBZYgLN3mMvu) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Il Grande Male \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL) | 3:12 | 2023-05-12 |  |
 | [Brianna and Roger Theme](https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V) | 3:24 | 2021-11-19 | 2022-05-28 |
 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 | 2021-11-19 |  |

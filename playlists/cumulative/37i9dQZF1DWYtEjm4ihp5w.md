@@ -4,7 +4,7 @@
 
 > Cover: Dollypran
 
-394 songs - 20 hr 55 min
+395 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Eufury](https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Eufury](https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5) | 2:34 | 2022-12-26 | 2023-01-20 |
 | [Everlasting](https://open.spotify.com/track/2Be8nEJt4Hb7FSc2XvvGvU) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Everlasting](https://open.spotify.com/album/3uaYjrZkX6GWwH4kT3I0Cj) | 2:09 | 2023-10-26 | 2024-04-16 |
 | [Expensive](https://open.spotify.com/track/43XQVlTRzQKFtTYjneCu4h) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Expensive](https://open.spotify.com/album/5lJcGdfH7BEJt7SqjnCrl8) | 2:41 | 2024-10-23 | 2024-11-09 |
+| [F.Y.P](https://open.spotify.com/track/2DLoq9DzEs6Tp9403HBKGg) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [F.Y.P](https://open.spotify.com/album/65o0PHgaKCbqjnT1rODCbj) | 2:18 | 2025-06-06 |  |
 | [FACE TO FACE](https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 3:24 | 2025-04-17 |  |
 | [Farabi](https://open.spotify.com/track/02o7lbyZIApp7NBkPdCaTc) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Farabi](https://open.spotify.com/album/4eoDHeBPry2u5eGSs7Odor) | 3:09 | 2024-07-12 | 2024-07-23 |
 | [FASMA](https://open.spotify.com/track/7l2fdBuvtRt4tyWO8qtsR0) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [K°](https://open.spotify.com/album/29mZb79vD9uxVblI4Xh1hp) | 2:31 | 2025-05-22 |  |
@@ -164,7 +165,7 @@
 | [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 | 2025-01-04 |  |
 | [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 | 2023-12-28 | 2024-01-07 |
 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 | 2024-10-25 | 2024-11-18 |
-| [Jorja Smith](https://open.spotify.com/track/7DfQdQYTgngRvFq2zHGPDX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Jorja Smith](https://open.spotify.com/album/1o5ynyB52KUH1riQlPBGgW) | 3:00 | 2025-05-26 |  |
+| [Jorja Smith](https://open.spotify.com/track/7DfQdQYTgngRvFq2zHGPDX) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Jorja Smith](https://open.spotify.com/album/1o5ynyB52KUH1riQlPBGgW) | 3:00 | 2025-05-26 | 2025-06-07 |
 | [Jouj Ft.kasso](https://open.spotify.com/track/5Ywo6LwAcgwzEa38bZ0u3Q) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [kasso](https://open.spotify.com/artist/7ut4C0DkTA34VaO0xAjJA3) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 3:02 | 2023-05-18 | 2023-05-23 |
 | [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 | 2023-09-01 | 2024-06-21 |
 | [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 | 2025-01-11 |  |

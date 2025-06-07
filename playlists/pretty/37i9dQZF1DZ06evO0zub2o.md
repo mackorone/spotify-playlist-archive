@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,499 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,570 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 16 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 17 | [Drag the Waters](https://open.spotify.com/track/5t8sFMJ2aQaHqLnrAd4Q40) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:55 |
 | 18 | [A New Level](https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 |
-| 19 | [Psycho Holiday](https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:19 |
-| 20 | [Slaughtered](https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:57 |
+| 19 | [Slaughtered](https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:57 |
+| 20 | [Psycho Holiday](https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:19 |
 | 21 | [Yesterday Don't Mean Shit](https://open.spotify.com/track/0MT298VrmI1Kb7GFbxw43C) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 4:19 |
 | 22 | [Regular People \(Conceit\)](https://open.spotify.com/track/0YgOMJldhmvg5mE2H2AbUA) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:27 |
-| 23 | [The Art of Shredding](https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:18 |
-| 24 | [Strength Beyond Strength](https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:38 |
+| 23 | [Strength Beyond Strength](https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:38 |
+| 24 | [The Art of Shredding](https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:18 |
 | 25 | [The Great Southern Trendkill](https://open.spotify.com/track/055Oi1gpZYQ3mVC5aOntx7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 3:46 |
 | 26 | [Piss](https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Piss](https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3) | 4:22 |
 | 27 | [Goddamn Electric](https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 4:56 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 39 | [Death Rattle](https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:17 |
 | 40 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
 
-Snapshot ID: `aD+MgAAAAACg4RfMvhBmodSWOe2widxV`
+Snapshot ID: `aEDeAAAAAAAa+Lmz2nBXKiXaiSPkOdzm`

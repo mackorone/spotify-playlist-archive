@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDm+kQAAAAAufDXnqWAf4Bg+c094X4w7",
+  "snapshot_id": "aEJhhQAAAABXiXzyhA3VC/uVsaMpxiTN",
   "tracks": [
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/48dljowJi0iaP7zBkGpnEk"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6A8MA3Quif1pQKPwHs56jm"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Mist\u00e9rios",
         "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "S\u00f3 Rock 3",
         "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
@@ -129,7 +129,27 @@
       "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
+      "album": {
+        "name": "Mr. Lupa Freestyle",
+        "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 147129,
+      "name": "Mr. Lupa Freestyle",
+      "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
+    },
+    {
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Invis\u00edvel pt.2",
         "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "OG AKA ENT",
         "url": "https://open.spotify.com/album/5yPaX4Gr9NZDkgb1v7ppA2"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/4GONOtCdIdl7hspqqgx0UD"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
@@ -213,7 +233,27 @@
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        }
+      ],
+      "duration_ms": 202282,
+      "name": "Mente Al\u00e9m",
+      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
+    },
+    {
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Morrer De Amor",
         "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
@@ -249,27 +289,7 @@
       "url": "https://open.spotify.com/track/6dRr2YljG54MTLMyGZc1Q0"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "Mente Al\u00e9m",
-      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
         "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/6KmSPfiuHbtj9r1KtBWyoq"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "DIAS ANTES DO CAOS",
         "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Cyberpunk",
         "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
@@ -477,31 +497,7 @@
       "url": "https://open.spotify.com/track/0MmCrODsKXrfiIqt6CajUY"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
@@ -529,7 +525,31 @@
       "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
+      "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+    },
+    {
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "MOTIVO",
         "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Replay - Spotify Singles",
         "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Pool Party - Viv\u00eancias",
         "url": "https://open.spotify.com/album/56nX0RDYQFsBxNBmqeY7rY"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/1y0Rdm4A2E0F8rgMv3GsZd"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Eu Meto Bronca",
         "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "QMPND",
         "url": "https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/1ZT7EVs6OJxUlcGCL3mFM2"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Ruas Frias",
         "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
@@ -885,7 +905,7 @@
       "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
@@ -917,7 +937,7 @@
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "RELATOS",
         "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
@@ -973,7 +993,7 @@
       "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Estrela do Blocko !",
         "url": "https://open.spotify.com/album/5NduXW5kkie5ZrLJBO3OF0"
@@ -997,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
@@ -1025,7 +1045,7 @@
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Mate Ou Morra",
         "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
@@ -1081,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Diesel Dior",
         "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
@@ -1105,7 +1125,7 @@
       "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "ELA \u00c9 RIO",
         "url": "https://open.spotify.com/album/5jkeTUtKTpSgM7B5XRK9U1"
@@ -1133,7 +1153,7 @@
       "url": "https://open.spotify.com/track/5qxLT4qC7xkWttnBYgT4xL"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "A Vida De Um G\u00e2ngster",
         "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
@@ -1157,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Papo Reto",
         "url": "https://open.spotify.com/album/24RRYd3XJ5cDM5JnWxOb8e"
@@ -1181,27 +1201,7 @@
       "url": "https://open.spotify.com/track/5TYh0QfBKXBT3bM8XQpiRa"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
-      "album": {
-        "name": "Cashley On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/1b3JgmOm7UVVijXTZ1H7WR"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        }
-      ],
-      "duration_ms": 87338,
-      "name": "Cashley On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/78yxlhUQ9IngKuAwIoHDXz"
-    },
-    {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Mate Ou Morra",
         "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Ratos",
         "url": "https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj"
     },
     {
-      "added_at": "2025-05-30 14:20:01",
+      "added_at": "2025-06-06 03:33:25",
       "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"

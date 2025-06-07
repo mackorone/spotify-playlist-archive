@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-293 songs - 18 hr 24 min
+294 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz) | 3:01 | 2025-02-28 |  |
 | [Home Improvement](https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Home Improvement](https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK) | 2:55 | 2024-10-18 |  |
 | [honestly i](https://open.spotify.com/track/2iA70Q4RrgppK7alU8D2gn) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 3:06 | 2025-05-30 |  |
+| [Hordes of Khan](https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Hordes of Khan](https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy) | 3:43 | 2025-06-06 |  |
 | [House of Cards](https://open.spotify.com/track/5Ly7Vc6VnlyN2xogyFMGiE) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 4:19 | 2021-10-29 | 2023-01-04 |
 | [House Of Straw](https://open.spotify.com/track/0s3ejGiMmzrVoK6zKhHDfA) | [Bury Your Dead](https://open.spotify.com/artist/2cGTjGiqVo9E2NQIz3lP9D) | [Beauty And The Breakdown](https://open.spotify.com/album/4mDtEEumv69lfTqwDwbM8D) | 4:02 | 2022-03-08 | 2023-01-05 |
 | [House On Fire](https://open.spotify.com/track/6EaGa19IlwQoB28FXba3GU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [House On Fire](https://open.spotify.com/album/4ZsxV8LXCcGnIszpQn82pV) | 3:14 | 2021-08-20 |  |

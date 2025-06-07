@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 16694,
+  "num_followers": 16698,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,42 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -535,42 +571,6 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -587,42 +587,6 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
-        "name": "My Village People (MVP)",
-        "url": "https://open.spotify.com/album/01JdWbBb6rHyP4vxibhkH1"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 173191,
-      "name": "My Village People (MVP)",
-      "url": "https://open.spotify.com/track/3fGyA69gQWxUIIftu0qlYz"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -647,6 +611,42 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
+        "name": "My Village People (MVP)",
+        "url": "https://open.spotify.com/album/01JdWbBb6rHyP4vxibhkH1"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "duration_ms": 173191,
+      "name": "My Village People (MVP)",
+      "url": "https://open.spotify.com/track/3fGyA69gQWxUIIftu0qlYz"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Excellent",
-        "url": "https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        }
-      ],
-      "duration_ms": 160583,
-      "name": "Excellent",
-      "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
       },
@@ -695,6 +675,22 @@
       "duration_ms": 189177,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -719,18 +715,22 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+        "name": "Excellent",
+        "url": "https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
         }
       ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+      "duration_ms": 160583,
+      "name": "Excellent",
+      "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "This Is Not the Tape III",
-        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Fefe Ne Fe",
-      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "This Is Not the Tape III",
+        "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Fefe Ne Fe",
+      "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -1031,42 +1031,6 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "NEXT DOOR (with Sarkodie)",
-        "url": "https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 156791,
-      "name": "NEXT DOOR (with Sarkodie)",
-      "url": "https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
-        "name": "Makoma",
-        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Makoma",
-      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1087,6 +1051,22 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "NEXT DOOR (with Sarkodie)",
+        "url": "https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 156791,
+      "name": "NEXT DOOR (with Sarkodie)",
+      "url": "https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Saint Tropez",
-      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/2EqVdnQMtVOAIyLVPH1q9Y"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "Atele",
-        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
+        "name": "CHRONICLES (The First Supper)",
+        "url": "https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ"
       },
       "artists": [
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         }
       ],
-      "duration_ms": 166885,
-      "name": "Atele",
-      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
+      "duration_ms": 161985,
+      "name": "Till It's Done",
+      "url": "https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
-        "name": "CHRONICLES (The First Supper)",
-        "url": "https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Till It's Done",
-      "url": "https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
         "name": "For the Popping (Apicki)",
         "url": "https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 177049,
       "name": "For the Popping (Apicki)",
       "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
+        "name": "Atele",
+        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 166885,
+      "name": "Atele",
+      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
     },
     {
       "added_at": "2025-05-30 00:01:34",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2025-05-30 00:01:34",
       "album": {
+        "name": "Fine Girl",
+        "url": "https://open.spotify.com/album/5H9X2O4eYYkTshwoofj3eB"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "duration_ms": 182622,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ"
+    },
+    {
+      "added_at": "2025-05-30 00:01:34",
+      "album": {
         "name": "NLF (Breakfast) [Remix] (feat. Lyrical Joe, Medikal & Beeztrap KOTM)",
         "url": "https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 266922,
       "name": "NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix",
       "url": "https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD"
-    },
-    {
-      "added_at": "2025-05-30 00:01:34",
-      "album": {
-        "name": "Fine Girl",
-        "url": "https://open.spotify.com/album/5H9X2O4eYYkTshwoofj3eB"
-      },
-      "artists": [
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        },
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 182622,
-      "name": "Fine Girl",
-      "url": "https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ"
     }
   ],
   "unique_name": "Troski Rhythms",

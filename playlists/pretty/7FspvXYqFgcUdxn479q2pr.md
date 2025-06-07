@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Yves V
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,414 likes - 22 songs - 1 hr 3 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,409 likes - 22 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 21 | [That's Just Love](https://open.spotify.com/track/3axt8o9qCEM8EPjHHLn0mR) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [HEARTSTRINGS](https://open.spotify.com/album/3M4BDnaYzmeRD0HD3LPNiR) | 3:00 |
 | 22 | [Into The Void \(feat\. Jordan Lindley\)](https://open.spotify.com/track/61kGJVuQJOqnpgnS2rzcCR) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [RØØTZ](https://open.spotify.com/artist/4frpBL2krY6yQkxN9bN0ui), [Jordan Lindley](https://open.spotify.com/artist/5lTAqA42dmnnSAcio6j3th) | [Into The Void \(feat\. Jordan Lindley\)](https://open.spotify.com/album/1mAVbja9AMFiLeduec3BLE) | 3:21 |
 
-Snapshot ID: `AAAsj+u4ha+D2h0vXpoMRKtI8iNnh9uS`
+Snapshot ID: `AAAsky+q+mA3XZozobNPJm1K3XK/KNkG`

@@ -5461,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/45gMPSPhEibGhKpN4FDNbM"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174033,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3rditla7Kb4Sg9cibEdEdb"
+    },
+    {
+      "album": {
         "name": "Antares",
         "url": "https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS"
       },

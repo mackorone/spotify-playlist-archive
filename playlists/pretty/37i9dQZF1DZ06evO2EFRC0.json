@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 95680,
+  "num_followers": 95701,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACBgH1ftiOa5fafTuk0Yoqj",
+  "snapshot_id": "aEDeAAAAAAASph88skYLX5rJUrIPLMyX",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
-        "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
+        "name": "Dios es Bueno",
+        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Waleska Morales",
-          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
-      "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
+      "duration_ms": 325029,
+      "name": "En los Montes en los Valles",
+      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
     },
     {
       "added_at": null,
@@ -451,18 +443,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios es Bueno",
-        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
+        "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+        "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
       },
       "artists": [
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
         }
       ],
-      "duration_ms": 325029,
-      "name": "En los Montes en los Valles",
-      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
+      "duration_ms": 271266,
+      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+      "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
     },
     {
       "added_at": null,
@@ -527,6 +527,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Dariana",
+          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
+        }
+      ],
+      "duration_ms": 298942,
+      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
+      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias / Tu Fidelidad",
         "url": "https://open.spotify.com/album/307RCjvBgxdkGic3GVV2jY"
       },
@@ -563,30 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Dariana",
-          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
-        }
-      ],
-      "duration_ms": 298942,
-      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
-      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En adoraci\u00f3n",
         "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
       },
@@ -599,6 +599,30 @@
       "duration_ms": 371788,
       "name": "Si puedes creer",
       "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Krystal Guerra Witt",
+          "url": "https://open.spotify.com/artist/1WCzAjMYQUbMR5CVZKfYkm"
+        },
+        {
+          "name": "Elena Witt-Guerra",
+          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
+        }
+      ],
+      "duration_ms": 227172,
+      "name": "Renu\u00e9vame / Tu Amor Por Mi",
+      "url": "https://open.spotify.com/track/0iV2iKb7xXppAHh0pDGkCR"
     },
     {
       "added_at": null,
@@ -631,30 +655,6 @@
       "duration_ms": 167758,
       "name": "Porque para Siempre",
       "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Krystal Guerra Witt",
-          "url": "https://open.spotify.com/artist/1WCzAjMYQUbMR5CVZKfYkm"
-        },
-        {
-          "name": "Elena Witt-Guerra",
-          "url": "https://open.spotify.com/artist/4zESLvdxWtqZP4qbQIO6ka"
-        }
-      ],
-      "duration_ms": 227172,
-      "name": "Renu\u00e9vame / Tu Amor Por Mi",
-      "url": "https://open.spotify.com/track/0iV2iKb7xXppAHh0pDGkCR"
     },
     {
       "added_at": null,

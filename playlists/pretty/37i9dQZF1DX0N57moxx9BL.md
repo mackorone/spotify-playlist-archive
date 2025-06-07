@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Seventh Day Slumber
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,716 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,780 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [They See \- Live In Pomona](https://open.spotify.com/track/76g9TZlz0vfqFjLr2w8pvJ) | [HolyName](https://open.spotify.com/artist/70dru8oehK8CwnNzANx6CJ), [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [They See \(Live in Pomona\)](https://open.spotify.com/album/0ZUNh3WGZfdLe4UUgO4c48) | 4:00 |
 | 75 | [Found Again](https://open.spotify.com/track/6GBlqgArnysPVm2dxsGY6T) | [Ryan Tobin](https://open.spotify.com/artist/3fa1pOq8hmczAGWfYtxDPi) | [Found Again](https://open.spotify.com/album/3RRncCTfbBp4ZWBxigLYT6) | 2:36 |
 
-Snapshot ID: `aDqgUwAAAADDZ44omrM4UXT6j59/55H0`
+Snapshot ID: `aDqgUwAAAACva3QihWZzfh/oYZ8ri2Ll`

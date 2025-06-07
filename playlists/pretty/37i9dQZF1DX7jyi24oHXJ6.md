@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jyi24oHXJ6.md) - [plain]
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,476 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,477 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jyi24oHXJ6.md) - [plain]
 | 58 | [WHAT IF \- Instrumental](https://open.spotify.com/track/0s6PI3y3HIadOqpTkQGcHw) | [Kang Seung Sik](https://open.spotify.com/artist/6KQYNyGaP0jX300OaEdaY0) | [EXchange2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0y5sj7HQRpnxRMsoNTLr7O) | 3:20 |
 | 59 | [SUN OR SUCK \- Instrumental](https://open.spotify.com/track/0Sz3yG1vtYzSPpM0wuCC4Q) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [EXchange, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5DctMyANI2pckvjR7yj9ED) | 2:50 |
 
-Snapshot ID: `AAAAAP044HbrH9zEMwX7diGSeCr1L9C8`
+Snapshot ID: `ZffkNgAAAABi0Xkpix25s62q8C39h3N7`

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-937 songs - 3 day 8 hr 2 min
+938 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Here To Stay](https://open.spotify.com/track/0GDp1pEmSG9dOuJo53w2ha) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Here To Stay](https://open.spotify.com/album/7q24QNVZWKvpIUrxuENhBX) | 6:41 | 2022-04-19 | 2022-08-04 |
 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 | 2024-02-02 | 2024-11-09 |
 | [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 | 2024-08-17 |
+| [Hit the Ground](https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa) | [Texture](https://open.spotify.com/artist/1K3a2VWnyszfzzdnT8iu0e) | [Hit the Ground](https://open.spotify.com/album/7yD02x73angL1C9H4dfjCV) | 2:25 | 2025-06-06 |  |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 |  |
 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 | 2024-02-23 | 2024-07-16 |
 | [Holding You](https://open.spotify.com/track/69IGLjobHJWBQUotPlqcsx) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Holding You](https://open.spotify.com/album/6VBIkxNYQ3dW1o6KVJMI8v) | 5:28 | 2024-12-20 | 2025-04-26 |
@@ -738,7 +739,7 @@
 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2024-01-05 | 2024-05-11 |
 | [Shaman](https://open.spotify.com/track/0CCTuZS9cObjmWjfwYOaPM) | [Azedia](https://open.spotify.com/artist/19YDv4gY8HMpdJgABGIVJn) | [Shaman](https://open.spotify.com/album/1O1d80c9ux5acX2CIPDtrs) | 5:41 | 2021-08-20 | 2022-07-28 |
 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 | 2024-12-13 |  |
-| [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-04 |  |
+| [Show Me](https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Beobê](https://open.spotify.com/artist/1SNjvPpsWFYWGpJW5wPeeK) | [Show Me](https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn) | 2:50 | 2025-04-04 | 2025-06-07 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-07 |  |
 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-28 | 2024-08-10 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 |  |

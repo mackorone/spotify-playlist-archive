@@ -8919,6 +8919,28 @@
     },
     {
       "album": {
+        "name": "\u00daltimo Brinde",
+        "url": "https://open.spotify.com/album/4HVvgaDqHFexmkRNkXOxI4"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/1QwLBPmAp63HjTiYPQqmb8"
+    },
+    {
+      "album": {
         "name": "Mil Cora\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1wlrdpEvZxFu7921y6jihY"
       },
@@ -11256,7 +11278,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 233142,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6pxtGuCncm3TWeULE1OA53"
@@ -11944,7 +11966,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 198620,
       "name": "Por que tu insiste?",
       "url": "https://open.spotify.com/track/485lu5LvbXE6mXyesHRMM1"
@@ -15754,6 +15776,24 @@
       "duration_ms": 130000,
       "name": "Urso Love",
       "url": "https://open.spotify.com/track/48tSWbMyg3alpeOYWvYRYa"
+    },
+    {
+      "album": {
+        "name": "Vagabundo Apaixonou",
+        "url": "https://open.spotify.com/album/5QaJ2FnPEpY5nImwOvPffv"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Vagabundo Apaixonou",
+      "url": "https://open.spotify.com/track/2gaXhafenjWSGgr9VBA1G4"
     },
     {
       "album": {

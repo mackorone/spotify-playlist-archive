@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-551 songs - 1 day 7 hr 30 min
+552 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blessing](https://open.spotify.com/track/0I5lFzbgE9kwcZUeXmUZPn) | [Bonge La Nyau](https://open.spotify.com/artist/4w19ryUFdkiLmZ26j5omEY), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Blessing](https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh) | 3:04 | 2024-02-15 | 2024-05-17 |
 | [Bobea](https://open.spotify.com/track/0YcIY0C7NS6Yzngjdrnb3W) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Bobea](https://open.spotify.com/album/6K66HalLnaJpXDAIUeZH4W) | 3:23 | 2023-06-22 | 2023-10-27 |
 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 | 2025-02-20 |  |
+| [Body](https://open.spotify.com/track/5CLaOLPBVMYezpGZgHIAeV) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Body](https://open.spotify.com/album/4kzlFWiEEVzSV2x6HY7RwP) | 2:50 | 2025-06-05 |  |
 | [Bombshell \(Cheza\) \(feat\. DJ Exit\)](https://open.spotify.com/track/0GzpqRtw9ff6x65wewCuLQ) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [DJ Exit](https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u) | [Bombshell \(Cheza\) \(feat\. DJ Exit\) \[Radio Edit\]](https://open.spotify.com/album/4cr9j5k8jOgdTpSJqRVi3n) | 5:31 | 2025-04-24 |  |
 | [Bora Peke Yangu](https://open.spotify.com/track/0eIdUNkRBCxaouwoDRl2M4) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:55 | 2021-11-11 | 2022-03-04 |
 | [Buruda](https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Buruda](https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3) | 3:44 | 2023-12-08 | 2024-09-20 |

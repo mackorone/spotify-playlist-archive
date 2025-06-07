@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-05",
+      "date_removed": null,
       "duration_ms": 192689,
       "name": "Cosas Sencillas",
       "url": "https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE"
@@ -15250,7 +15250,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 240000,
       "name": "MAS QUE AMIGOS",
       "url": "https://open.spotify.com/track/7FShXQYb7oLVenr7IeM3CL"
@@ -18798,6 +18798,32 @@
       "duration_ms": 202946,
       "name": "OTRO FILI",
       "url": "https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP"
+    },
+    {
+      "album": {
+        "name": "Otros Planes",
+        "url": "https://open.spotify.com/album/7xVXWXbRaBCEMXMqnuIWg8"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196065,
+      "name": "Otros Planes",
+      "url": "https://open.spotify.com/track/3YnNJdbJwgJbIY52RqWPVn"
     },
     {
       "album": {
@@ -27540,7 +27566,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

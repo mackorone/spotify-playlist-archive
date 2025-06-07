@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: DERBY
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,888 likes - 129 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,911 likes - 129 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 18 | [Phase](https://open.spotify.com/track/0JRW8NV1CmnJSvvAQfUgHn) | [Polly](https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq) | [Phase](https://open.spotify.com/album/2KzieOntW45Ap8bKEkxn56) | 3:23 |
 | 19 | [Racing Mount Pleasant](https://open.spotify.com/track/6ITu4g9Rw4uO6N07gjpIQ2) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/24rTA1jGh2AdmuN6GrYhpw) | 5:15 |
 | 20 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 |
-| 21 | [we're fine](https://open.spotify.com/track/6h31yfBfn7jWhEucUWnaJL) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [we're fine](https://open.spotify.com/album/3usi5a5ewzrH0RsO2eIalf) | 2:45 |
+| 21 | [Black Hair](https://open.spotify.com/track/6h31yfBfn7jWhEucUWnaJL) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Black Hair](https://open.spotify.com/album/3usi5a5ewzrH0RsO2eIalf) | 2:45 |
 | 22 | [MOTH](https://open.spotify.com/track/21GVerzG5CIaXuLqPZCzwP) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [BROADWAY & BOND](https://open.spotify.com/album/2RUKkWGLqHcHoNkmKO435C) | 2:51 |
 | 23 | [Pulled Me in Dark](https://open.spotify.com/track/51IYzcb1bKuyA9tVk06OGD) | [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc) | [Pulled Me in Dark](https://open.spotify.com/album/2O2hRNszrULuyEQDhCSLcB) | 6:58 |
 | 24 | [If I Were A Fish](https://open.spotify.com/track/2d368ggIW1QLrmVzGt4zSf) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [If I Were A Fish](https://open.spotify.com/album/6KmgAsCHvtqmWTpBbmIcvM) | 2:35 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 128 | [it's nice to see you, stranger](https://open.spotify.com/track/4GyxvCkRn9sS7pgWmt1r8D) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [it's nice to see you, stranger](https://open.spotify.com/album/6RdLtRKb5anSmRQxmHI4ZE) | 3:02 |
 | 129 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
 
-Snapshot ID: `aECq2wAAAAAn76v7NlUrpt/3j8GLqO9L`
+Snapshot ID: `AAAAADT5z7DVWBnqrSCQyBjGXuPCylT3`

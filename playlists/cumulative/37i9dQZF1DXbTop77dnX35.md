@@ -4,7 +4,7 @@
 
 > New Music from BNXN, Young Jonn, Simi and more
 
-2,867 songs - 6 day 1 hr 7 min
+2,869 songs - 6 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2078,7 +2078,7 @@
 | [PRICEY](https://open.spotify.com/track/0E7K1769Y6z3LWaHICOJoM) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [PRICEY](https://open.spotify.com/album/4xwvndFQ0aMMU7lDcikYAM) | 2:27 | 2024-11-01 | 2024-11-08 |
 | [Pride](https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Pride](https://open.spotify.com/album/7trfAzxwXmdxFnZZT3TQ5y) | 2:23 | 2024-11-01 | 2024-11-08 |
 | [Princess Treatment](https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Love & Hustle](https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7) | 3:00 | 2025-03-28 | 2025-04-04 |
-| [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-06 |  |
+| [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-06 |  |
 | [PROBLEM](https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [PROBLEM](https://open.spotify.com/album/5Ak0B9sbAdYAtvNQr1to1a) | 2:54 | 2024-11-22 | 2024-11-29 |
 | [Problem](https://open.spotify.com/track/5gI0vicHAem0aJ1j3RqJO8) | [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem](https://open.spotify.com/album/0KpmQ4HGUOoPi51VGCfunK) | 2:44 | 2024-09-06 | 2024-09-13 |
 | [Prodigal](https://open.spotify.com/track/4AzjDZudZxhTvv7c0bx1RV) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Prodigal](https://open.spotify.com/album/6EJI47BoVplR1bbCDjHtp0) | 2:44 | 2024-08-09 | 2024-08-17 |
@@ -2256,6 +2256,7 @@
 | [Shantel](https://open.spotify.com/track/4eWhCE1OirbQstbBfubj1d) | [Mista Myles](https://open.spotify.com/artist/7uAAmJ1aG1pf41H00sFpec) | [Shantel](https://open.spotify.com/album/1FP7mbr6qE5tM4FePwDYB9) | 2:46 | 2025-01-31 | 2025-02-07 |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-21 | 2025-02-28 |
 | [Share Update \- 2024 Remastered Remix](https://open.spotify.com/track/5KYrd24iSHfhJ2jUCq2iL5) | [Airdew](https://open.spotify.com/artist/0L77A5YFDpTtF1hmjfB8HK), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Share Update \(2024 Remastered Remix\)](https://open.spotify.com/album/6e0DZwKAlF6Hu1IeemcAkr) | 2:38 | 2024-11-29 | 2024-12-06 |
+| [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/0jf9tcOCuWrrzkd7coqYsL) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/5LSMSeJZz1A2SnWpxWBV4I) | 3:49 | 2025-06-06 |  |
 | [Shaye](https://open.spotify.com/track/1DHk3pzFOaVI3Z96ja1KRp) | [Deentrg](https://open.spotify.com/artist/1uJFvqAiaQfUjkHoGahWvR) | [Shaye](https://open.spotify.com/album/2AM5lUTJ1kFrzqBmHtRFZS) | 2:40 | 2024-06-07 | 2024-06-14 |
 | [Shayo](https://open.spotify.com/track/4v0Ilrc43w5wPeNVHutPgZ) | [BAD HABEAT](https://open.spotify.com/artist/0f7J1ilGXQK3MoM0JgTN9Z) | [Shayo](https://open.spotify.com/album/3WQ4zzhlyAvwE435qGJOoL) | 2:34 | 2024-07-12 | 2024-07-19 |
 | [Shayo \- Jamie P Remix](https://open.spotify.com/track/6rYvy2N1G9nXEV1gl1xSXa) | [Little Lagos Records](https://open.spotify.com/artist/0rCLpxB5lzOgRKPh9RBYmo), [Bigiano](https://open.spotify.com/artist/6KyHXlcKqJM6jasFLUiOWK), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Jamie P](https://open.spotify.com/artist/0JyQC2roImhqMgluitNbSY) | [Shayo \(Remix\)](https://open.spotify.com/album/5n1G3HjpTer3KROREuWbKM) | 3:20 | 2025-05-30 | 2025-06-06 |
@@ -2634,6 +2635,7 @@
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-07 | 2025-02-14 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-04-04 |
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 | 2025-03-21 |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 |  |
 | [UEFA](https://open.spotify.com/track/5qYYofJmpgigudaj3HENQN) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [UEFA](https://open.spotify.com/album/1hKN16Z7UmAnqKP6dtkBWe) | 2:08 | 2024-08-02 | 2024-08-09 |
 | [Uka](https://open.spotify.com/track/67hgugx7Jq8n8cAT9ZBKEa) | [David Millz](https://open.spotify.com/artist/4llstFMIANaijvNAmDLtFW) | [Uka](https://open.spotify.com/album/0iRpfknqsXDN74gjGXzEix) | 2:32 | 2025-03-14 | 2025-03-21 |
 | [Umkhosi](https://open.spotify.com/track/0sKXczOHqbvgFhyOu4OTZV) | [MELO\-T](https://open.spotify.com/artist/01FyVQ33X6fGz8W7ttHaDL), [Afro Creative DJs](https://open.spotify.com/artist/33NUX5sNxsIQsvaRh6zxFK) | [Umkhosi](https://open.spotify.com/album/0Dyh7E5Uebx4xQNAryBgAZ) | 6:32 | 2025-06-06 |  |

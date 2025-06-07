@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 18791,
+  "num_followers": 18797,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABuOhf43nbiZH4xvVRXSuVd",
+  "snapshot_id": "aEDeAAAAAADG+hWa1G7QN2KS581wiC6n",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+        "name": "L\u00e1tigo de Fuego",
+        "url": "https://open.spotify.com/album/4fEsXRXacqDQ3qvvIuq5Ua"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Virtual",
-      "url": "https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY"
+      "duration_ms": 231171,
+      "name": "L\u00e1tigo de Fuego",
+      "url": "https://open.spotify.com/track/5B3bU3NkZSVtfAGUg6TSzP"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1tigo de Fuego",
-        "url": "https://open.spotify.com/album/4fEsXRXacqDQ3qvvIuq5Ua"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 231171,
-      "name": "L\u00e1tigo de Fuego",
-      "url": "https://open.spotify.com/track/5B3bU3NkZSVtfAGUg6TSzP"
+      "duration_ms": 242000,
+      "name": "Virtual",
+      "url": "https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY"
     },
     {
       "added_at": null,

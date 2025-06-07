@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 392210,
+  "num_followers": 392230,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,22 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "\u58f0",
-        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
+        "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 263983,
-      "name": "\u58f0",
-      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
+      "duration_ms": 200511,
+      "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -499,22 +503,18 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
+        "name": "\u58f0",
+        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 200511,
-      "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
+      "duration_ms": 263983,
+      "name": "\u58f0",
+      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+        "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
+        "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
       },
       "artists": [
         {
-          "name": "\u53cb\u6210\u7a7a",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+          "name": "\u5927\u68ee\u5143\u8cb4",
+          "url": "https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+      "duration_ms": 250106,
+      "name": "\u7d75\u753b",
+      "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+      },
+      "artists": [
+        {
+          "name": "\u53cb\u6210\u7a7a",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+    },
+    {
+      "added_at": "2025-06-03 15:00:36",
+      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
-    },
-    {
-      "added_at": "2025-06-03 15:00:36",
-      "album": {
-        "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
-        "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u68ee\u5143\u8cb4",
-          "url": "https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "\u7d75\u753b",
-      "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
-      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
-    },
-    {
-      "added_at": "2025-06-03 15:00:36",
-      "album": {
         "name": "Luv Myself (feat. AKLO & KEIJU)",
         "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2025-06-03 15:00:36",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
+      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
-        "url": "https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 277119,
-      "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
-      "url": "https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt"
-    },
-    {
-      "added_at": "2025-06-03 15:00:36",
-      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+    },
+    {
+      "added_at": "2025-06-03 15:00:36",
+      "album": {
+        "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
+        "url": "https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 277119,
+      "name": "\u6b8b\u50cf\u306e\u611b\u3057\u65b9",
+      "url": "https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "harunone",
-        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "harunone",
-      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
-    },
-    {
-      "added_at": "2025-06-03 15:00:36",
-      "album": {
         "name": "\u6708\u3078\u884c\u3053\u3046",
         "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 155740,
       "name": "0.0000%",
       "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
+    },
+    {
+      "added_at": "2025-06-03 15:00:36",
+      "album": {
+        "name": "harunone",
+        "url": "https://open.spotify.com/album/1s3ZPjmQ7ZX6UOrIh4W43w"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "harunone",
+      "url": "https://open.spotify.com/track/6Yu04azyaRYfstRsHJPKK8"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "The End of the F***ing World",
-        "url": "https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS"
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
       "artists": [
         {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 244285,
-      "name": "The End of the F***ing World",
-      "url": "https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS"
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+        "name": "The End of the F***ing World",
+        "url": "https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
         }
       ],
-      "duration_ms": 225960,
-      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+      "duration_ms": 244285,
+      "name": "The End of the F***ing World",
+      "url": "https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
       "artists": [
         {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+      "duration_ms": 157773,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     },
     {
       "added_at": "2025-06-03 15:00:36",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2025-06-03 15:00:36",
       "album": {
-        "name": "Don't go (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 157773,
-      "name": "Don't go (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
       "added_at": "2025-06-03 15:00:36",

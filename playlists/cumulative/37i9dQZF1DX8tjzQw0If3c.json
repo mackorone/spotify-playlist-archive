@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "better than u",
+        "url": "https://open.spotify.com/album/2M1M1b8IG5nvXcKFvR99ea"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        },
+        {
+          "name": "teem",
+          "url": "https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182312,
+      "name": "better than u",
+      "url": "https://open.spotify.com/track/7h7WqKE1VcH5mSUntNZXe0"
+    },
+    {
+      "album": {
         "name": "BEFORE I SEE",
         "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
       },

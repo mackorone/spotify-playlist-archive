@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 雷擎 \(L8ching\) x 阿橘 \(Ahh G\)
 
-2,317 songs - 5 day 14 hr 59 min
+2,318 songs - 5 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1315,7 +1315,7 @@
 | [想一個人](https://open.spotify.com/track/1yfJ2Oc5p4KWr6kBHIYlTe) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [想一個人](https://open.spotify.com/album/2PiOLiIqyiTuAwVeAC9Dy2) | 4:32 | 2025-01-02 | 2025-01-17 |
 | [想你想你](https://open.spotify.com/track/4HCTAnB6SVjydxfpMlbN8p) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [想你想你](https://open.spotify.com/album/7jqhQ0VO6Qld6JfJttghxC) | 3:15 | 2025-05-22 |  |
 | [想你的旋律](https://open.spotify.com/track/6lDHkGyAOk1W03gp5WzZ0n) | [小玉兒Sonya](https://open.spotify.com/artist/0ddo5dsKCUPUi5EW3YDBeO) | [想你的旋律](https://open.spotify.com/album/2IOmmr7kEBZ3grDyBBEor5) | 3:38 | 2024-08-29 | 2024-09-06 |
-| [想你的病](https://open.spotify.com/track/4E5GwYhlr4kXBaW8gTizKP) | [三水](https://open.spotify.com/artist/1BHeIJXye6EDxkyXb8wcG1), [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF) | [想你的病](https://open.spotify.com/album/47DtyJcG8odPT8pyoUKyCH) | 2:39 | 2025-06-05 |  |
+| [想你的病](https://open.spotify.com/track/4E5GwYhlr4kXBaW8gTizKP) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [三水](https://open.spotify.com/artist/1BHeIJXye6EDxkyXb8wcG1) | [想你的病](https://open.spotify.com/album/47DtyJcG8odPT8pyoUKyCH) | 2:39 | 2025-06-05 |  |
 | [想像我們 \- 影集《影后》插曲](https://open.spotify.com/track/6nCmq2mgPmrWEkfOdi9u0L) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [影集《影后》感情原聲帶](https://open.spotify.com/album/6PvS1cmdGlvI8bJJ4QtOJc) | 4:01 | 2024-11-14 | 2024-12-06 |
 | [想去遠方](https://open.spotify.com/track/68kxKMACNAZK7edrmfQGUG) | [黃麟堯 0yao](https://open.spotify.com/artist/5KosNYlC1QcKLSlmcclX5E) | [想去遠方](https://open.spotify.com/album/6fqijXJM7RoK3oVOzJs9XA) | 4:03 | 2025-02-27 | 2025-03-07 |
 | [想和你](https://open.spotify.com/track/056gvfjlsKIz2LXdJu7huz) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [想和你](https://open.spotify.com/album/0A0FCkldQC3lautaFYKz6Z) | 3:43 | 2025-02-13 | 2025-03-07 |
@@ -1858,6 +1858,7 @@
 | [白日夢繩索](https://open.spotify.com/track/6Jy0rQR3mrYX57MoSt8Lmc) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [白日夢繩索](https://open.spotify.com/album/1gmqNF6LM9coMjNv5og8u7) | 3:55 | 2025-03-20 | 2025-04-18 |
 | [白日夢遊記](https://open.spotify.com/track/6v196UgRKpKI9VKX6l5xwL) | [葉秉桓](https://open.spotify.com/artist/7x8FMmtil03ZC6oIEPz8xs) | [白日夢遊記](https://open.spotify.com/album/2PTq0yNj4egzuHE1GbW3ep) | 3:30 | 2025-03-27 | 2025-04-11 |
 | [白日梦游记](https://open.spotify.com/track/6jVITaIUfPoThBIE9MeTqS) | [REEBX](https://open.spotify.com/artist/3LEdwW2oT9mc2CEULY1a8N), [DreamBeach](https://open.spotify.com/artist/5dD1ViHHSYWQX9lb8VUsab) | [白日梦游记](https://open.spotify.com/album/6E7b37TbYcVyC26AbQO95R) | 3:04 | 2024-10-10 | 2024-10-18 |
+| [白月光手札](https://open.spotify.com/track/5ygzeolDec4fz0kcYSWkck) | [张萌川](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [白月光手札](https://open.spotify.com/album/3TG7q6oF9Hp5YYVV0hFHtm) | 4:13 | 2025-06-05 |  |
 | [白樹](https://open.spotify.com/track/428XtGuhYhUSk02xpsPQuz) | [袁語笙](https://open.spotify.com/artist/3J2ufQTqU0OKM6yCd7KVzy) | [白樹](https://open.spotify.com/album/1K8R8r8QxSRftLrbTEFi18) | 2:30 | 2024-12-19 | 2025-01-03 |
 | [白玫瑰 White Roses](https://open.spotify.com/track/0csb8WeWpU7t1S6uB6KJRS) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [白玫瑰 White Roses](https://open.spotify.com/album/4jPLAotdqghvuXTigztLGj) | 2:36 | 2024-10-10 | 2024-11-01 |
 | [白目 \(feat\. 草屯囝仔\)](https://open.spotify.com/track/31PuXSemjswEkz2QxYJIeC) | [羅文裕](https://open.spotify.com/artist/7oMkAwPOEfk2ETm9HX9Ruo), [草屯囝仔](https://open.spotify.com/artist/4iWbokr6sX6boUL1Jlxj28) | [白目 \(feat\. 草屯囝仔\)](https://open.spotify.com/album/1CY48GI719j9rxkG1S2Xbq) | 4:08 | 2024-09-05 | 2024-09-27 |

@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Simge",
-  "num_followers": 533587,
+  "num_followers": 533726,
   "original_name": "trend 2025",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "A\u015fkperest",
-        "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
+        "name": "Ge\u00e7sin Y\u0131llar",
+        "url": "https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx"
       },
       "artists": [
         {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        },
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
         }
       ],
-      "duration_ms": 280560,
-      "name": "A\u015fk Yok Olmakt\u0131r",
-      "url": "https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7"
+      "duration_ms": 207428,
+      "name": "Ge\u00e7sin Y\u0131llar",
+      "url": "https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -171,22 +175,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Ge\u00e7sin Y\u0131llar",
-        "url": "https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx"
+        "name": "A\u015fkperest",
+        "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
       },
       "artists": [
         {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        },
-        {
-          "name": "Merve \u00d6zbey",
-          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
         }
       ],
-      "duration_ms": 207428,
-      "name": "Ge\u00e7sin Y\u0131llar",
-      "url": "https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS"
+      "duration_ms": 280560,
+      "name": "A\u015fk Yok Olmakt\u0131r",
+      "url": "https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -247,38 +247,6 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "HUQQA",
-        "url": "https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 127031,
-      "name": "HUQQA",
-      "url": "https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
-        "name": "Ge\u00e7iyor Zaman",
-        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 152438,
-      "name": "Sen Kald\u0131n",
-      "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
         "name": "YANKI X \u0130NT\u0130HAR",
         "url": "https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 151512,
       "name": "YANKI X \u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 152438,
+      "name": "Sen Kald\u0131n",
+      "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "HUQQA",
+        "url": "https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 127031,
+      "name": "HUQQA",
+      "url": "https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
+        "name": "BELLYDANCE",
+        "url": "https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 147123,
+      "name": "BELLYDANCE",
+      "url": "https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
         "name": "B\u0130TM\u0130YOR",
         "url": "https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S"
       },
@@ -355,6 +371,26 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
+        "name": "pUTA",
+        "url": "https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        },
+        {
+          "name": "BIGBAT",
+          "url": "https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix"
+        }
+      ],
+      "duration_ms": 104072,
+      "name": "pUTA",
+      "url": "https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
         "name": "\u00c7atma Yarim",
         "url": "https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG"
       },
@@ -367,22 +403,6 @@
       "duration_ms": 177572,
       "name": "\u00c7atma Yarim",
       "url": "https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
-        "name": "BELLYDANCE",
-        "url": "https://open.spotify.com/album/7vKX8Z5lmyEPCmNfVjP8vq"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 147123,
-      "name": "BELLYDANCE",
-      "url": "https://open.spotify.com/track/3mnejDqp3v2ucwt7MlcwsN"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -407,22 +427,26 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "pUTA",
-        "url": "https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd"
+        "name": "SONBAHAR",
+        "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
       },
       "artists": [
         {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
         },
         {
-          "name": "BIGBAT",
-          "url": "https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix"
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
         }
       ],
-      "duration_ms": 104072,
-      "name": "pUTA",
-      "url": "https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp"
+      "duration_ms": 150000,
+      "name": "SONBAHAR",
+      "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -475,30 +499,6 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "SONBAHAR",
-        "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
-      },
-      "artists": [
-        {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        },
-        {
-          "name": "Poizi",
-          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
-        },
-        {
-          "name": "SNOW",
-          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SONBAHAR",
-      "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
         "name": "K\u00f6r Sevdam",
         "url": "https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa"
       },
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
+        "name": "Mosmor Perde",
+        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Mosmor Perde",
+      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
         "name": "Ge\u00e7iyor Zaman",
         "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 174000,
       "name": "Onlar Anlamaz Halden",
       "url": "https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
-        "name": "GELME \u0130STEMEM",
-        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "GELME \u0130STEMEM",
-      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -591,6 +591,22 @@
       "duration_ms": 277166,
       "name": "\u00c7\u00f6zemezsin",
       "url": "https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "GELME \u0130STEMEM",
+        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "GELME \u0130STEMEM",
+      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -675,22 +691,6 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Mosmor Perde",
-        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Mosmor Perde",
-      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
         "name": "Ba\u011f\u0131\u015fla",
         "url": "https://open.spotify.com/album/2se3g3MA4orPR1OI5TjWOP"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 279799,
       "name": "Ara Beni L\u00fctfen",
       "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "MARALIM",
+        "url": "https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "MARALIM",
+      "url": "https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -755,22 +771,6 @@
       "duration_ms": 154631,
       "name": "Kervan",
       "url": "https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
-        "name": "MARALIM",
-        "url": "https://open.spotify.com/album/0Gg74PqzDIPUiXmB2dYTfT"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/2JcW80GkUeqlA9HGHNVugP"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "MARALIM",
-      "url": "https://open.spotify.com/track/2WDQgqHMnbMSvYqNPJ1IIb"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "DRAMA",
-        "url": "https://open.spotify.com/album/4WFyH3e9a02OlEwHaYcbax"
-      },
-      "artists": [
-        {
-          "name": "Sibel Can",
-          "url": "https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG"
-        }
-      ],
-      "duration_ms": 247855,
-      "name": "Bize Has",
-      "url": "https://open.spotify.com/track/1oPLRm2lgwzW4IiUmYI27Q"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
         "name": "GASSAL (2. Sezon Soundtrack)",
         "url": "https://open.spotify.com/album/3Xp3DqpbV34eIrvDLT2zmu"
       },
@@ -855,18 +839,34 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Can\u0131n Beni \u00c7ekti",
-        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/4WFyH3e9a02OlEwHaYcbax"
       },
       "artists": [
         {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+          "name": "Sibel Can",
+          "url": "https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Can\u0131n Beni \u00c7ekti",
-      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
+      "duration_ms": 247855,
+      "name": "Bize Has",
+      "url": "https://open.spotify.com/track/1oPLRm2lgwzW4IiUmYI27Q"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "Ben Hala R\u00fcyada",
+        "url": "https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 258931,
+      "name": "Y\u00fcz\u00fck",
+      "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"
     }
   ],
   "unique_name": "trend 2025",

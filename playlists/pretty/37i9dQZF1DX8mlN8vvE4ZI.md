@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,736 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,741 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 3 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 |
 | 4 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 |
 | 5 | [Vandanaa Trayee](https://open.spotify.com/track/0ikbKcgUbI3hinyrWEfwo5) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [Chants of India](https://open.spotify.com/album/53w0AMB3LamIPNsOpQSQ2s) | 4:32 |
-| 6 | [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 |
+| 6 | [Chaand Baaliyan \- On Sitar](https://open.spotify.com/track/4cyg9E9nEDyzu1mAaQaOpX) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1) | [The Chaand Baaliyan Jukebox](https://open.spotify.com/album/5Pcapg63INIzleQpJY0yXh) | 1:46 |
 | 7 | [Shankara](https://open.spotify.com/track/5jHb5VUjOepNc8DbwXkhYQ) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Shankara](https://open.spotify.com/album/3CekrxmBD7TNAi9Ddok85O) | 1:55 |
 | 8 | [Sagar Kinare \(Sitar Instrumental\)](https://open.spotify.com/track/7cMpAcWOmmcYWwhwSJr2xD) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:43 |
 | 9 | [Lasya](https://open.spotify.com/track/5yU6oTG6dh4JmP65f9CJht) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/2YIGIiMYhsnDSeot1MQm0H) | 4:38 |
 | 10 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 |
-| 11 | [Chaand Baaliyan \- On Sitar](https://open.spotify.com/track/4cyg9E9nEDyzu1mAaQaOpX) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1) | [The Chaand Baaliyan Jukebox](https://open.spotify.com/album/5Pcapg63INIzleQpJY0yXh) | 1:46 |
+| 11 | [Strings of Serenity](https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK), [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl) | [Strings of Serenity](https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v) | 2:20 |
 | 12 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 |
 | 13 | [Sagar Kinare](https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 4:06 |
 | 14 | [Lat Ulajhi \- Instrumental](https://open.spotify.com/track/5pPBW1gjjepWGyn8BqqF5X) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Lat Ulajhi \- Single](https://open.spotify.com/album/1htF88la5OLlyZgDhJaRKT) | 3:48 |

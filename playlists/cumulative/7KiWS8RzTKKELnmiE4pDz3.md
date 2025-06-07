@@ -4,7 +4,7 @@
 
 > 
 
-1,047 songs - 2 day 4 hr 16 min
+1,048 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Patience \(feat\. Don Toliver\)](https://open.spotify.com/track/05grSYrVwYw58YMOdJceyz) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:22 | 2023-07-12 | 2023-12-14 |
 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 | 2025-04-30 | 2025-05-21 |
 | [Pedestrian](https://open.spotify.com/track/30YhyUmaegqSxsBICCeVzY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:45 | 2023-08-28 | 2024-03-05 |
+| [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 | 2025-06-06 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/3Ab6LCpjNI4GQZ5tXBpJkc) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/6x57aHz5UqOELrNukV6hoD) | 2:06 | 2022-09-09 | 2023-05-09 |
 | [Perfect Timing](https://open.spotify.com/track/0Tnvy0iwmoGBD0mq5MtgZF) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Sophomore Season](https://open.spotify.com/album/0AuGgD8nSb5Ct0sU6LGtiY) | 2:55 | 2022-10-28 | 2023-12-14 |
 | [Permanent Scar \(feat\. Young Thug and Quando Rondo\)](https://open.spotify.com/track/56y48l3RslFer22WytV6KU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 3:18 | 2023-12-15 | 2025-05-21 |

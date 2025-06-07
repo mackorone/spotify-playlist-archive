@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAC4PFryzM4jqRgMTR+y0qdO",
+  "snapshot_id": "aEDeAAAAAAC0Jimg6U+JylhE89t/21HJ",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 224957,
-      "name": "The Lens",
-      "url": "https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw"
+      "duration_ms": 224773,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 379103,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only You Say It",
         "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What We Do To Feel",
         "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 224773,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua"
+      "duration_ms": 224957,
+      "name": "The Lens",
+      "url": "https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw"
     },
     {
       "added_at": null,

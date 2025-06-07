@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 418113,
+  "num_followers": 418091,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y1gAAAACCrKoDivGF2lUZj5Z8YfFG",
+  "snapshot_id": "aEJn0wAAAADj1TOZJ2jRID2dBGBC9h95",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+    },
     {
       "added_at": "2025-05-23 04:00:22",
       "album": {
@@ -515,22 +531,6 @@
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Hammer to the Heart",
-      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
     },
     {
       "added_at": "2024-05-03 04:01:00",

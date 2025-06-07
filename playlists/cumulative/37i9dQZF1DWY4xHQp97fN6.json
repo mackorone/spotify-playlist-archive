@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "Mood: Turnt Cover: Playboi Carti",
+  "description": "Mood: Turnt Cover: Lil Tecca",
   "name": "Get Turnt",
   "tracks": [
     {
@@ -8708,7 +8708,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
@@ -9712,7 +9712,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 183336,
       "name": "Jalen Hurtski",
       "url": "https://open.spotify.com/track/2qqAPvW9T0xZnp4olmg2I4"
@@ -11340,6 +11340,24 @@
       "duration_ms": 187034,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
+    },
+    {
+      "album": {
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/0AZzBpP070CamsTm5Pqvgf"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144462,
+      "name": "Me Again",
+      "url": "https://open.spotify.com/track/7ajhnF9PY4D1LftlzVpO6G"
     },
     {
       "album": {
@@ -13172,6 +13190,28 @@
       "duration_ms": 148715,
       "name": "Outside (Better Days)",
       "url": "https://open.spotify.com/track/26BMsCXJpD7eYtP7ufhApC"
+    },
+    {
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/60LHNmZV4NxCVryFb4jhZy"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166351,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/0fyTxbBpOEBjh6be882tHu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 
 > sunny bossa beats to chill, focus or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,181 likes - 70 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,295 likes - 70 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 | 69 | [Aruba Nights](https://open.spotify.com/track/72T0k8wtYvPmKpszZ2KqQS) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Aruba Nights](https://open.spotify.com/album/0DusIpWGwwWliJ3mO06pWS) | 2:25 |
 | 70 | [Swaying](https://open.spotify.com/track/6UADZ0D5NwibLNnz3XiIXj) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [Swaying](https://open.spotify.com/album/3teKKsv3mnR7griYcohtKN) | 2:07 |
 
-Snapshot ID: `AAAAALoo4ngVt26aWV2LguuV2kJyomLw`
+Snapshot ID: `aCa4VQAAAACGcNmHKohsZ2Xopa5x96La`

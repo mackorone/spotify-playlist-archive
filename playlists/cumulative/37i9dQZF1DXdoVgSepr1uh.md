@@ -4,7 +4,7 @@
 
 > Lauty Gram, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-285 songs - 13 hr 38 min
+288 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [COLOCARTELO](https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn) | [Renzo ED](https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [COLOCARTELO](https://open.spotify.com/album/1H9iOGypdEnAKbNHSlU2EV) | 2:56 | 2024-11-15 |  |
 | [Como Antes](https://open.spotify.com/track/42we2zjPoYkN2S79iRaLG6) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Géminis](https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP) | 3:02 | 2022-05-24 | 2023-10-01 |
 | [COMO YO](https://open.spotify.com/track/0Og7eYHkLv6k3bRu2LH80I) | [Motta WS](https://open.spotify.com/artist/03x1CdLth8gMPrk97uQ3i3), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [COMO YO](https://open.spotify.com/album/2ClVBOtCglZe92r1lHJfzj) | 2:13 | 2025-03-28 |  |
+| [Con Ella y No Conmigo](https://open.spotify.com/track/5cOa0UN0g0OFS3g3ZDoS2W) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [Con Ella y No Conmigo](https://open.spotify.com/album/1U9T57HDASMdFYaz3HR98p) | 2:42 | 2025-06-06 |  |
 | [CONEXXXIÓN](https://open.spotify.com/track/72ICF2K74z1e0z8KIRP7HJ) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [CONEXXXIÓN](https://open.spotify.com/album/3zqBhwyCJ7a0JBw6R1Sr7q) | 3:38 | 2023-12-08 | 2024-02-24 |
 | [Copacabana](https://open.spotify.com/track/6TdKDyEmYreudp1NcvorV8) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Copacabana](https://open.spotify.com/album/0wALAHwLS2U83B4fKSKwFR) | 1:57 | 2022-05-24 | 2022-07-29 |
 | [Cora Partido](https://open.spotify.com/track/287JhhKlTLuTzxp28ySSiO) | [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Cora Partido](https://open.spotify.com/album/1uNQMBHfg8xOWBEsFxG1iV) | 3:23 | 2023-01-27 | 2023-02-04 |
@@ -176,6 +177,7 @@
 | [Modo Animal](https://open.spotify.com/track/5EjVHiGKgQxdnOOtemXs1k) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [TSUNAMI](https://open.spotify.com/album/1REQLSIOdAZzja7bmeM0WV) | 2:40 | 2024-07-26 |  |
 | [Modo Avión](https://open.spotify.com/track/4qMAWw30CdPVCS6adU1QLi) | [POLI](https://open.spotify.com/artist/58bKHK6LvPOSZJmHOozjfz), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Modo Avión](https://open.spotify.com/album/1W1IyRqoLR1WsZPIMVYDQw) | 3:11 | 2022-06-17 | 2022-08-06 |
 | [Mojate](https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Santin Lotty](https://open.spotify.com/artist/0Yr1qhvpxZndglpOrbYkXw) | [Mojate](https://open.spotify.com/album/6F7Run8Ltsg0WQ0T7qtsP0) | 3:15 | 2022-08-05 | 2024-01-27 |
+| [Momento Justo](https://open.spotify.com/track/13M9BE3mO75dJ7qo18e2oP) | [Luz Eluney](https://open.spotify.com/artist/4BnDpIPclX4yzei6j1C1Dr) | [Momento Justo](https://open.spotify.com/album/7EnBZu1YNoHOz4bOA8I0M7) | 2:02 | 2025-06-06 |  |
 | [MotaMoto](https://open.spotify.com/track/4IuJPZXhwuEVP4F0Xz261V) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MotaMoto](https://open.spotify.com/album/5yXc9YYgTGVOiUVGJtN6Fl) | 2:28 | 2023-09-29 |  |
 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 | 2024-11-15 |  |
 | [Móntate](https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Hazze](https://open.spotify.com/artist/6I4wcPs18A8lyviDCZsVH6) | [Móntate](https://open.spotify.com/album/3kwz5RqbMhHNqgAnl5avUV) | 2:58 | 2022-05-24 | 2023-02-18 |
@@ -215,6 +217,7 @@
 | [PRESIÓN](https://open.spotify.com/track/4zCyJr1apBS2791oMtea5f) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PRESIÓN](https://open.spotify.com/album/0pTere7czaMnyRpVs7i6fP) | 3:07 | 2023-05-02 |  |
 | [Pretinha](https://open.spotify.com/track/0gokl2danyrRzlPh8OcOtN) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pretinha](https://open.spotify.com/album/7rAsMPibZeliLEAwohmqZz) | 2:29 | 2022-05-24 | 2024-04-19 |
 | [QUE CABRONA](https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [QUE CABRONA](https://open.spotify.com/album/2RSVEhLOpYwQifGU7rxSAd) | 2:48 | 2025-03-07 |  |
+| [Que estas haciendo ?](https://open.spotify.com/track/1FdYgUZpMO2QfFcB1RhURy) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz) | [Que estas haciendo ?](https://open.spotify.com/album/1lCahxumZI6cGVn3QYvMda) | 2:00 | 2025-06-06 |  |
 | [Que onda bebé](https://open.spotify.com/track/1NmC9f4OiGMNugcvg1SIRO) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Que onda bebé](https://open.spotify.com/album/0QR1zDVGryqbcMWsdsrglX) | 2:29 | 2024-11-15 |  |
 | [QUIEN SI NO](https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [QUIEN SI NO](https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a) | 2:01 | 2022-11-18 | 2022-12-24 |
 | [Quiero](https://open.spotify.com/track/7MPxWi6W7VH5DNusjwNhbn) | [Alejo Park](https://open.spotify.com/artist/0u4eSD22YhmWJMg1A22GBw) | [Quiero](https://open.spotify.com/album/14Bt8cXWLWmEaqIUDtdCze) | 2:46 | 2022-05-24 | 2023-01-21 |

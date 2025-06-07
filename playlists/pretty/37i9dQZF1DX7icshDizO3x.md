@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 来日公演 Stray Kids World Tour 『dominATE JAPAN』のセットリストをMCと共に公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,864 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,861 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 47 | [Christmas Love](https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 3:06 |
 | 48 | [Merry Xmas!](https://open.spotify.com/track/6i0KQCx982gE8cXPA4D451) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids World Tour <dominATE JAPAN> audio liners](https://open.spotify.com/album/2GlgaZMdv10BIkkwcBPQWK) | 0:42 |
 
-Snapshot ID: `AAAAAAWxNDSSYjqnB+z61luXJK+u7qcO`
+Snapshot ID: `Z/BylgAAAABVtvoJQ/nQ2zls3ww1bGNP`

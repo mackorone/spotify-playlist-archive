@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
 
-416 songs - 1 day 9 hr 26 min
+417 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 | 2025-05-13 |  |
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |
 | [Stella's Cough](https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Stella's Cough](https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc) | 3:42 | 2023-05-23 | 2024-05-29 |
-| [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 | 2023-07-25 |  |
+| [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 | 2023-07-25 | 2025-06-07 |
 | [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 | 2023-09-12 | 2025-01-23 |
 | [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 | 2024-10-08 | 2025-05-15 |
 | [Suddenly Lovers](https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Suddenly Lovers](https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW) | 3:38 | 2023-09-12 | 2023-09-20 |
@@ -354,6 +354,7 @@
 | [WE ARE](https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [WE ARE](https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr) | 4:01 | 2025-04-01 |  |
 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 | 2023-02-16 |  |
 | [WELCOME TO THE BLACK PARADE](https://open.spotify.com/track/747cIzkwZSoEL01oLUiCZC) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [WELCOME TO THE BLACK PARADE](https://open.spotify.com/album/2IYQXw6OPHd2yMPmtqGDlN) | 4:40 | 2023-04-04 | 2023-05-24 |
+| [What hummingbirds teach us about flying](https://open.spotify.com/track/63A5iao38RysFoJepVv63Y) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [What hummingbirds teach us about flying](https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn) | 5:27 | 2025-06-03 |  |
 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 | 2024-09-03 |  |
 | [When A Man Loves A Woman](https://open.spotify.com/track/5BiOhaS9NGbRPDV2AKzvwZ) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [Beauty And Funky](https://open.spotify.com/album/3UihgxiHq3bvjCRvcP3hgJ) | 7:45 | 2023-05-23 | 2023-05-31 |
 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 | 2023-05-30 | 2023-06-13 |

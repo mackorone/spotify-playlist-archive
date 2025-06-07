@@ -2,9 +2,9 @@
 
 ### [Douceur Pop](https://open.spotify.com/playlist/37i9dQZF1DX9LNmKG8TiZU)
 
-> Des titres pop, tout en douceur\. Photo : Selena Gomez & benny blanco
+> Des titres pop, tout en douceur\. Photo : Teddy Swims
 
-251 songs - 13 hr 46 min
+252 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Lullaby](https://open.spotify.com/track/1J2Lndxqp2Xlp6OShqaZpH) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:42 | 2022-12-21 | 2023-03-03 |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2024-02-02 | 2024-02-16 |
 | [Miss You](https://open.spotify.com/track/0dzQiejP41haESvtBRKoXx) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Miss You](https://open.spotify.com/album/3WMLMW2wBbLZvj0537g7ou) | 2:10 | 2025-05-15 |  |
-| [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 | 2025-01-02 |  |
+| [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 | 2025-01-02 | 2025-06-07 |
 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 | 2025-05-15 |  |
 | [My Girl](https://open.spotify.com/track/2tZ9SSCDM5uJS8ZXGdfvCf) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [My Girl](https://open.spotify.com/album/3nUXrYLUNFUkc4ugtT5Sfq) | 2:58 | 2022-12-21 | 2023-06-03 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-19 | 2024-02-09 |
@@ -236,6 +236,7 @@
 | [TIME!](https://open.spotify.com/track/571eDSnPzwHNL3233ICp6w) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [the greatest hits](https://open.spotify.com/album/6RY9gppYrTRUHBHvPWfPyW) | 3:12 | 2024-03-07 | 2024-03-15 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 | 2024-04-19 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2025-02-08 |
+| [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-06-06 |  |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-31 | 2024-08-30 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-12-21 | 2023-12-22 |
 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 | 2022-12-21 | 2023-03-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 35937,
+  "num_followers": 35952,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADuGuOn9qDlk+OmGftUK5Xm",
+  "snapshot_id": "aEDeAAAAAAAdM43qZIWhiVZqijT7fHoZ",
   "tracks": [
     {
       "added_at": null,
@@ -298,11 +298,15 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 146893,
-      "name": "H&M",
-      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+      "duration_ms": 178160,
+      "name": "Look What You Did (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
     },
     {
       "added_at": null,
@@ -378,15 +382,11 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Look What You Did (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "added_at": null,

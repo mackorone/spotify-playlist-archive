@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,598 songs - 3 day 12 hr 16 min
+1,599 songs - 3 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,7 +823,7 @@
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-30 | 2024-04-15 |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-04-18 | 2025-04-23 |
 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 | 2025-05-19 | 2025-06-01 |
-| [Lights](https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Lights](https://open.spotify.com/album/58US0k9s4PeMLsiSEnghgG) | 2:29 | 2025-05-31 |  |
+| [Lights](https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Lights](https://open.spotify.com/album/58US0k9s4PeMLsiSEnghgG) | 2:29 | 2025-05-31 | 2025-06-07 |
 | [Like a Prayer \- Choir Version From “Deadpool & Wolverine”](https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo) | [I'll Take You There Choir](https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 2:32 | 2024-08-27 | 2024-10-15 |
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2024-11-12 | 2024-12-02 |
 | [Like I Do](https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Like I Do](https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ) | 2:29 | 2024-01-29 | 2024-02-21 |
@@ -886,6 +886,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-09 | 2024-05-15 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-04-07 | 2024-04-14 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-27 | 2024-03-27 |
+| [Makeup](https://open.spotify.com/track/6byukcmVQRSNHaC10OmP2J) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Makeup](https://open.spotify.com/album/0M4C80GGpXefAmgu5P6hHc) | 3:58 | 2025-06-06 |  |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-05-07 | 2024-05-29 |
 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 | 2025-05-22 | 2025-05-26 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-16 | 2024-08-21 |
@@ -915,7 +916,7 @@
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-18 | 2024-06-23 |
 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 | 2025-03-11 | 2025-05-14 |
 | [MICHELIN CLUB](https://open.spotify.com/track/2ZYaDVnLmYMJTIOWUGpnsJ) | [MARXO](https://open.spotify.com/artist/5AvW4S6Ml81QJQj7IA1EF6) | [MICHELIN CLUB](https://open.spotify.com/album/3FGgUyRAN78rKq211ozvLa) | 2:30 | 2025-05-30 | 2025-06-06 |
-| [MICHELIN CLUB](https://open.spotify.com/track/66JZjAMWAhZC9RdtQFBuo0) | [MARXO](https://open.spotify.com/artist/5AvW4S6Ml81QJQj7IA1EF6) | [MICHELIN CLUB](https://open.spotify.com/album/2zJwWbxRVGpYhWJbdxdaDG) | 2:30 | 2025-06-05 |  |
+| [MICHELIN CLUB](https://open.spotify.com/track/66JZjAMWAhZC9RdtQFBuo0) | [MARXO](https://open.spotify.com/artist/5AvW4S6Ml81QJQj7IA1EF6) | [MICHELIN CLUB](https://open.spotify.com/album/2zJwWbxRVGpYhWJbdxdaDG) | 2:30 | 2025-06-05 | 2025-06-07 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-23 | 2024-05-07 |
 | [midnight](https://open.spotify.com/track/6ELrvdk2hdwTUMUa77mVsg) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [midnight](https://open.spotify.com/album/776RB8H2PaZgnXia3cwumR) | 2:09 | 2024-10-08 | 2024-10-22 |
 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-04-09 | 2024-04-20 |
@@ -999,7 +1000,7 @@
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-08-19 | 2024-09-23 |
 | [No One's Watching Me \(feat\. Olivia Dean\)](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 | 2024-10-15 | 2024-10-29 |
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-16 | 2024-05-21 |
-| [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-06-04 | 2025-06-06 |
+| [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-06-04 |  |
 | [Nobody New](https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Nobody New](https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3) | 3:35 | 2025-04-22 | 2025-04-30 |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-11-05 | 2024-11-13 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-03-04 | 2025-04-26 |

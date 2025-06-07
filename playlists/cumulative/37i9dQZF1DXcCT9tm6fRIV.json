@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "Besos Brujos",
+        "url": "https://open.spotify.com/album/1n2oAD6iVT9VB7kTFLD2ve"
+      },
+      "artists": [
+        {
+          "name": "Anita Co",
+          "url": "https://open.spotify.com/artist/69VIeRBvUHH2D29hY0ZHvG"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199365,
+      "name": "Besos Brujos",
+      "url": "https://open.spotify.com/track/6f2QMZFPMq4d5IeK0sq4yN"
+    },
+    {
+      "album": {
         "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
         "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
       },
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"

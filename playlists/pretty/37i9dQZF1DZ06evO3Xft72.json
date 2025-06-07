@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 283041,
+  "num_followers": 283072,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABYDb6stdQKgQ6Lk61FTa/k",
+  "snapshot_id": "aEDeAAAAAAAz4iygH1DDkPEZPweuW04V",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Rock! Rock! (Till You Drop)",
-      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
+      "duration_ms": 342510,
+      "name": "Women - Remastered 2017",
+      "url": "https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 342510,
-      "name": "Women - Remastered 2017",
-      "url": "https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa"
+      "duration_ms": 234753,
+      "name": "Rock! Rock! (Till You Drop)",
+      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
       "duration_ms": 397813,
       "name": "Gods Of War",
       "url": "https://open.spotify.com/track/04fSMvH0SLmdykyg06rXC3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254501,
-      "name": "Comin' Under Fire",
-      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
       "duration_ms": 272871,
       "name": "Stand Up (Kick Love Into Motion)",
       "url": "https://open.spotify.com/track/0dr71rw5oIcPtUHRJES6gP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 254501,
+      "name": "Comin' Under Fire",
+      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 327250,
+      "name": "Paper Sun",
+      "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drastic Symphonies",
         "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 355972,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 327250,
-      "name": "Paper Sun",
-      "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
     },
     {
       "added_at": null,

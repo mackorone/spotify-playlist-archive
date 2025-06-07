@@ -2,9 +2,9 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover: Yuki Chiba\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover: Ty Dolla $ign\)
 
-2,837 songs - 5 day 23 hr 23 min
+2,839 songs - 5 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [All I Wanna Know](https://open.spotify.com/track/3rWGgckX6iOjacBDMCaV97) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:26 | 2023-03-17 | 2023-04-28 |
 | [All I Want for Christmas 2 \(feat\. DAMINI & SINCE\)](https://open.spotify.com/track/1A5qB3kbOHhL5BiI9EOgkv) | [Rosy Barbie](https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [All I Want for Christmas 2](https://open.spotify.com/album/2yR88ptPciW8syYEAGWXFz) | 2:47 | 2024-01-05 | 2024-02-09 |
 | [All In](https://open.spotify.com/track/1sE7vQVIRzptUgsx2TH4Gy) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Misunderstood](https://open.spotify.com/album/5ridWYM8bnEFaZ9dQkLxid) | 2:02 | 2022-04-07 | 2022-04-22 |
+| [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-06 |  |
 | [All My Life](https://open.spotify.com/track/28q91Ob8OZPXwh7AWr7xvr) | [Htet Yan](https://open.spotify.com/artist/31vqTnmKzw4UybufdOrFVA), [Pisol Pholtirasatien](https://open.spotify.com/artist/7KI9T48kSPageKiH5c4i4W) | [All My Life](https://open.spotify.com/album/5iyQe9hJL9Kw1mUyxsc6bs) | 3:15 | 2023-03-23 | 2023-05-05 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-11 | 2023-06-20 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:43 | 2023-11-29 | 2024-01-05 |
@@ -1574,6 +1575,7 @@
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-06-02 | 2022-07-15 |
 | [MSG \(Feat\. PENOMECO\)](https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:37 | 2024-03-28 | 2024-04-05 |
 | [mudboy](https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [mudboy](https://open.spotify.com/album/0YLwlxIkAliUiTlfdpb5a2) | 1:53 | 2023-07-20 | 2023-09-08 |
+| [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 |  |
 | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO) | 3:42 | 2022-08-11 | 2022-09-02 |
 | [Murdergram Deux \(feat\. Eminem\)](https://open.spotify.com/track/7gXM8fCGg0SmRzAVySp3ie) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Murdergram Deux](https://open.spotify.com/album/0XoE5ChBCxDA1oYfoJ8PtH) | 3:05 | 2024-09-12 | 2024-10-25 |
 | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke) | 2:46 | 2024-08-23 | 2024-10-25 |

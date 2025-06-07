@@ -9173,6 +9173,24 @@
     },
     {
       "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142622,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC"
+    },
+    {
+      "album": {
         "name": "vivid memories of dreams i've never had",
         "url": "https://open.spotify.com/album/6fe2bdJm6B9yScnNf8lj5F"
       },
@@ -11314,7 +11332,7 @@
       },
       "artists": [
         {
-          "name": "Skuzland",
+          "name": "skuzland",
           "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
         },
         {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 17 hr 38 min
+174 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 | 2024-06-11 | 2024-07-13 |
 | [Never Leave](https://open.spotify.com/track/5qfvPaSv4M0wFa5RnZhye7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 8:03 | 2024-06-11 |  |
 | [No One Ever Cared for Me Like Jesus](https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:53 | 2024-06-11 |  |
+| [No One Like the Lord / King of Glory \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 | 2025-06-06 |  |
 | [Not Just Stories \(feat\. Aaron Moses\)](https://open.spotify.com/track/17Nk8D3lbtnUZ5qVFRDntv) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 8:40 | 2024-06-11 |  |
 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 | 2024-06-11 |  |
 | [Nothing Left to Prove \(feat\. Israel Houghton & Mav City Gospel Choir\)](https://open.spotify.com/track/3BoGNV3vmAn6wzdsinNeSn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Breathe \- EP](https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA) | 10:39 | 2024-06-11 |  |

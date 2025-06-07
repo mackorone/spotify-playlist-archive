@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-479 songs - 1 day 4 hr 3 min
+480 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 | 2024-05-18 |
 | [Honey Imastar](https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Honey Imastar](https://open.spotify.com/album/3iuveO3vYNqvD7Wze0ubLc) | 3:07 | 2023-05-26 | 2024-11-23 |
 | [Hotel](https://open.spotify.com/track/4pvWcCnoJnhSQtCMEeb0bb) | [Stevie Matthew](https://open.spotify.com/artist/5SOrNyoEsMC5gHnP7FYLOo), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Hotel](https://open.spotify.com/album/1ZcoiFSaI8ttDTlIG4i4CF) | 2:34 | 2024-02-16 | 2024-08-17 |
-| [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-03 |  |
+| [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-03 | 2025-06-07 |
 | [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 | 2023-01-23 | 2023-04-15 |
 | [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 | 2023-04-30 |
 | [How Hard](https://open.spotify.com/track/2JOSfWc65aBarFXcxRxf1n) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [P.O.C \(Proof of Concept\)](https://open.spotify.com/album/6wfl3Oks8Uja2rSHml7WEK) | 4:11 | 2022-06-03 | 2023-06-10 |
@@ -318,6 +318,7 @@
 | [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 | 2024-01-06 |
 | [Nowhere](https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Tom Felton](https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Nowhere](https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss) | 3:45 | 2025-02-14 | 2025-02-22 |
 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 | 2023-08-25 | 2024-05-18 |
+| [Old Skool Funk](https://open.spotify.com/track/7Bnq7r5Dx0zJqK6iJsMqkJ) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Warrior Princess](https://open.spotify.com/album/2HT5wyg1UfnaoGyX3LAB6N) | 4:33 | 2025-06-06 |  |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 | 2024-03-15 |  |
 | [Online](https://open.spotify.com/track/69NC8FNTlg78LJG4tTk0eI) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Digital Nightmare](https://open.spotify.com/album/4qkSsAWMPhXTEwXZIDnlJv) | 4:14 | 2024-03-22 |  |

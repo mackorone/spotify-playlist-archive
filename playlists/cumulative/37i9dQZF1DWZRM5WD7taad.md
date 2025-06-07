@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en Portada
 
-371 songs - 18 hr 28 min
+373 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Antisocial](https://open.spotify.com/track/7tEsY4EB0tKXDgbv3JLRG4) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Rich Vagos Mixtape, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/6dGmu0l1TMcAZVC13XX1LN) | 3:00 | 2023-02-10 | 2024-08-31 |
 | [Arena y Mar](https://open.spotify.com/track/7m5O0Qhg8rFzlHPpPYiBJi) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [Arena y Mar](https://open.spotify.com/album/4adqT2DBSfGEi2GkvMQ9vG) | 2:36 | 2025-01-10 |  |
 | [Arrepentío](https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [Arrepentío](https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp) | 3:30 | 2022-04-18 | 2023-03-11 |
+| [Así pasa](https://open.spotify.com/track/31v9atYBozXbJeiQO37YWL) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Así pasa](https://open.spotify.com/album/4NDU2fvFgMYGNmKKsca3M2) | 2:04 | 2025-06-06 |  |
 | [Atlanta](https://open.spotify.com/track/3oEfaR3cbD1vs0wUZyxfta) | [B$ Sofia](https://open.spotify.com/artist/2f0ZUjFHq2GQqU3m828rTp) | [Atlanta](https://open.spotify.com/album/5x7f4eNxkiCVhhcMTAIHvY) | 2:41 | 2023-09-15 | 2024-04-27 |
 | [Autodefensa](https://open.spotify.com/track/4VxzbMh8EGxb71o6n3gEvV) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MARICA](https://open.spotify.com/artist/3uuVC225TxrBKJB1SmnOlq) | [Autodefensa](https://open.spotify.com/album/2vXHHCAjX6a9wf4GmosnoO) | 3:52 | 2023-01-13 | 2023-07-01 |
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-12-13 | 2023-02-06 |
@@ -303,6 +304,7 @@
 | [Rompiendo Esquemas](https://open.spotify.com/track/39AsaL5KiC1qW3OTrmEBnM) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Dj Kaizen \(Chile\)](https://open.spotify.com/artist/3zRSeoE7Udey1Ggleah4VH) | [Verso… Luego Existo \(The NYC Version\)](https://open.spotify.com/album/2TejLZ73MuwhR4dQMNVAGZ) | 2:59 | 2021-12-13 | 2023-07-01 |
 | [rookie of the year](https://open.spotify.com/track/52efxkazJPLF9SeuUuuX0u) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:49 | 2024-04-05 |  |
 | [Roothoppas \- Remix](https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Roothoppas \(Remix\)](https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL) | 3:01 | 2023-06-16 | 2025-01-25 |
+| [Sala Llena](https://open.spotify.com/track/0r09pvHj9RWzEfAkClrb4D) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Sala Llena](https://open.spotify.com/album/3mtTUeqA6YQnMdDJwCRb0H) | 2:15 | 2025-06-06 |  |
 | [Samuleto](https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:13 | 2023-06-16 | 2025-02-22 |
 | [SANA SANA](https://open.spotify.com/track/6ZzjeYAIHkIbh6VhYsMSIg) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SANA SANA](https://open.spotify.com/album/6I94uMnDMEFe8EHX2QiQES) | 2:58 | 2021-12-13 | 2022-07-29 |
 | [SANA SANA](https://open.spotify.com/track/7kakp7vYlAUJAOTBYh42ic) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 2:58 | 2022-06-27 | 2024-02-17 |

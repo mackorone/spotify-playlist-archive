@@ -3089,6 +3089,28 @@
     },
     {
       "album": {
+        "name": "amber",
+        "url": "https://open.spotify.com/album/68UcY5xt8TqeyDX7qfTMt6"
+      },
+      "artists": [
+        {
+          "name": "Loop Schrauber",
+          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
+        },
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110157,
+      "name": "amber",
+      "url": "https://open.spotify.com/track/5gWUVYVKdHL7T7t0BSH7rz"
+    },
+    {
+      "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/08GkdemsCiWeBYI6PZH3fQ"
       },
@@ -5674,6 +5696,24 @@
       "duration_ms": 133434,
       "name": "Azure",
       "url": "https://open.spotify.com/track/65OlR2TSDo3O9yNGnSlrFx"
+    },
+    {
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/53TOmghjyocsgjB8kel5y0"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122916,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/4688YlffnkSyvENu12znzj"
     },
     {
       "album": {
@@ -18738,7 +18778,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 118441,
       "name": "Desert Rain",
       "url": "https://open.spotify.com/track/537vbafZKRnIHmrVEypjdi"
@@ -20794,6 +20834,28 @@
       "duration_ms": 138948,
       "name": "Drifting Soul",
       "url": "https://open.spotify.com/track/2mf1TmMOkpQVpmuleWfHSL"
+    },
+    {
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB"
     },
     {
       "album": {
@@ -24850,6 +24912,28 @@
       "duration_ms": 109625,
       "name": "Fire In Your Eyes",
       "url": "https://open.spotify.com/track/5F2PpT6OYeRGGDxzipZ2aQ"
+    },
+    {
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/1h126jgwXgvPlmqrKYjrpk"
+      },
+      "artists": [
+        {
+          "name": "The Flipside",
+          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121379,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/1IliCedo3jvUAnkVUfOb5Y"
     },
     {
       "album": {
@@ -45004,7 +45088,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 169399,
       "name": "Lueur",
       "url": "https://open.spotify.com/track/60VOx6iiKDVOlJIFK02z2p"
@@ -46234,7 +46318,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 130060,
       "name": "Maturity",
       "url": "https://open.spotify.com/track/6ugFAYxotR6wlHNCTeBis3"
@@ -54934,7 +55018,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 128000,
       "name": "Ohkay",
       "url": "https://open.spotify.com/track/25TVeAkwi7ZfGIHqGpyV9Y"
@@ -83250,7 +83334,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 112173,
       "name": "Vibers Only",
       "url": "https://open.spotify.com/track/5tkXrepPqwA7mKJay5kChz"

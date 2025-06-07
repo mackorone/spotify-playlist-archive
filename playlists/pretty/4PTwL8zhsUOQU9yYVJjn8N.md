@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > whoa almost 300 saves !1!?1&\#x2F;?!1 tank u
 
-[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 262 likes - 179 songs - 5 hr 46 min
+[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 264 likes - 179 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

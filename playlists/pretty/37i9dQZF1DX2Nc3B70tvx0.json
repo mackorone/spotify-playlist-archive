@@ -1,28 +1,28 @@
 {
-  "description": "The best of right now. Cover: Matt Berninger",
-  "num_followers": 2034672,
+  "description": "The best of right now. Cover: Alex G",
+  "num_followers": 2033890,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSieyhoEBj5f7zy34QmLhvBdCDZ",
+  "snapshot_id": "aENpagAAAAAj+D1BlugWJwG/dFmtDwoy",
   "tracks": [
     {
-      "added_at": "2025-05-23 04:00:47",
+      "added_at": "2025-05-30 04:00:38",
       "album": {
-        "name": "Transmuted Matter",
-        "url": "https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 256156,
-      "name": "Transmuted Matter",
-      "url": "https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf"
+      "duration_ms": 210306,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2025-05-16 04:00:33",
@@ -39,6 +39,46 @@
       "duration_ms": 227586,
       "name": "Bloom Baby Bloom",
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "Deadhead",
+        "url": "https://open.spotify.com/album/63Z4mEljk9OQdp16KoxhnW"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+        }
+      ],
+      "duration_ms": 212169,
+      "name": "Deadhead",
+      "url": "https://open.spotify.com/track/54FHlsiPjCazyG91mf7HAW"
+    },
+    {
+      "added_at": "2025-06-06 22:19:22",
+      "album": {
+        "name": "BOYS WITH THE CHARACTERISTICS OF WOLVES",
+        "url": "https://open.spotify.com/album/6msWhetiDeqECTJZGUjEUI"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 182123,
+      "name": "BOYS WITH THE CHARACTERISTICS OF WOLVES",
+      "url": "https://open.spotify.com/track/1TkJJEmsVvlE3rvWEq9glK"
     },
     {
       "added_at": "2025-05-09 04:00:06",
@@ -59,38 +99,6 @@
     {
       "added_at": "2025-05-30 04:00:38",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
-    },
-    {
-      "added_at": "2025-05-30 04:00:38",
-      "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/1Dgpzrfx3i4N8NzBcWru47"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 173883,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/0WTyIytT4Yi0nHtWI29PVZ"
-    },
-    {
-      "added_at": "2025-05-30 04:00:38",
-      "album": {
         "name": "Hope We Have Fun",
         "url": "https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb"
       },
@@ -107,6 +115,190 @@
       "duration_ms": 179900,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "Take me back",
+        "url": "https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Take me back",
+      "url": "https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8"
+    },
+    {
+      "added_at": "2025-05-30 04:00:38",
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
+    },
+    {
+      "added_at": "2025-06-02 16:53:40",
+      "album": {
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 239214,
+      "name": "Ancients",
+      "url": "https://open.spotify.com/track/4iHdC0BfZKWGcynFUbY5YK"
+    },
+    {
+      "added_at": "2025-04-25 04:00:55",
+      "album": {
+        "name": "Learn To Let You Go",
+        "url": "https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        },
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 191166,
+      "name": "Learn To Let You Go",
+      "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "special",
+        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 138861,
+      "name": "special",
+      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2aB0cfwaJSkhLNGTC4MdP0"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/4MxiJ97y5kgK7Y9SX3NXm3"
+    },
+    {
+      "added_at": "2025-05-23 04:00:47",
+      "album": {
+        "name": "Transmuted Matter",
+        "url": "https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 256156,
+      "name": "Transmuted Matter",
+      "url": "https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "Wolf River",
+        "url": "https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 221441,
+      "name": "Wolf River",
+      "url": "https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty"
+    },
+    {
+      "added_at": "2025-05-30 04:00:38",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/1Dgpzrfx3i4N8NzBcWru47"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 173883,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/0WTyIytT4Yi0nHtWI29PVZ"
     },
     {
       "added_at": "2025-04-25 04:00:55",
@@ -157,24 +349,20 @@
       "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
-      "added_at": "2025-05-30 04:00:38",
+      "added_at": "2025-06-06 04:00:34",
       "album": {
-        "name": "Real Thing",
-        "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
+        "name": "paper doll",
+        "url": "https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS"
       },
       "artists": [
         {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
         }
       ],
-      "duration_ms": 205146,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+      "duration_ms": 195452,
+      "name": "paper doll",
+      "url": "https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV"
     },
     {
       "added_at": "2025-05-16 04:00:33",
@@ -207,22 +395,6 @@
       "duration_ms": 197113,
       "name": "Door",
       "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
-    },
-    {
-      "added_at": "2025-06-02 16:53:40",
-      "album": {
-        "name": "Ancients / It's Starting",
-        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 239214,
-      "name": "Ancients",
-      "url": "https://open.spotify.com/track/4iHdC0BfZKWGcynFUbY5YK"
     },
     {
       "added_at": "2025-05-30 04:00:38",
@@ -275,26 +447,6 @@
       "duration_ms": 242480,
       "name": "As Two People Drift Apart",
       "url": "https://open.spotify.com/track/56BnRYMVVAKtvkIZIQbfCq"
-    },
-    {
-      "added_at": "2025-04-25 04:00:55",
-      "album": {
-        "name": "Learn To Let You Go",
-        "url": "https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        },
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 191166,
-      "name": "Learn To Let You Go",
-      "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
     },
     {
       "added_at": "2025-05-23 04:00:47",

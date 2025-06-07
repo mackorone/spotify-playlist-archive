@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 208690,
       "name": "Calmy",
       "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
@@ -5304,7 +5304,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 414600,
       "name": "Holocene, Pt. II",
       "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
@@ -13969,6 +13969,24 @@
     },
     {
       "album": {
+        "name": "Yes Baby",
+        "url": "https://open.spotify.com/album/4F3MFTq2TiWlHQN7XXGag5"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183624,
+      "name": "Yes Baby",
+      "url": "https://open.spotify.com/track/5VPo4yWk05Fb0AVhwTjniq"
+    },
+    {
+      "album": {
         "name": "Yonio",
         "url": "https://open.spotify.com/album/5Y2cCWWxiVgdIoaW4sUF4m"
       },
@@ -14100,6 +14118,32 @@
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/3bIILlNbQB51BHUK4ZX28e"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+        },
+        {
+          "name": "Liz Cass",
+          "url": "https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259523,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6O2r4n5YeF5KXVNUrobHZe"
     },
     {
       "album": {

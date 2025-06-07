@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Superafim
 
-777 songs - 1 day 20 hr 6 min
+778 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Do Brasil](https://open.spotify.com/track/4rrcZoOtIHIi5fpTz8wYvL) | [Laura Catarina](https://open.spotify.com/artist/4pw8NCGjdpJ8XiPq7PFb69), [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN) | [Do Brasil](https://open.spotify.com/album/6Bw0lGimgQUi4PukaKxSfg) | 4:15 | 2022-10-21 | 2022-12-10 |
 | [Dolores Prestes a Levitar](https://open.spotify.com/track/7n24CsLROsiawSHA3pnhHf) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM) | [Dolores Prestes a Levitar](https://open.spotify.com/album/1smRYpdy6Ya0wz1tLCb4rU) | 3:22 | 2024-05-31 | 2024-09-28 |
 | [Domingo](https://open.spotify.com/track/2lRsKNaA8pmA6zPJvqZnaf) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj), [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Domingo](https://open.spotify.com/album/3qyC2kRaHZZ7xPsMp7ChnW) | 3:12 | 2022-08-05 | 2023-07-15 |
-| [domingo](https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [domingo](https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T) | 4:10 | 2024-12-06 |  |
+| [domingo](https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [domingo](https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T) | 4:10 | 2024-12-06 | 2025-06-07 |
 | [Domingo de Sol](https://open.spotify.com/track/6gukKbG49ETpkHqwG3n4OD) | [Holger](https://open.spotify.com/artist/27euzsPUnsiX6SutdBXti0) | [Domingo de Sol](https://open.spotify.com/album/2WUiv785U0NmWRrdOn2ijY) | 3:19 | 2023-05-19 | 2023-09-23 |
 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 | 2023-11-17 | 2024-06-08 |
 | [Door](https://open.spotify.com/track/5YkZTtb0htLlo2F1Um6knO) | [Gato de Rua](https://open.spotify.com/artist/2q9BBqImQUlzKzpj1k2KqH) | [Door](https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu) | 2:12 | 2022-07-22 | 2022-08-13 |
@@ -472,6 +472,7 @@
 | [não posso ficar \(pra sempre\)](https://open.spotify.com/track/4xPYZzsyMbNTJISnGNRLnQ) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [não posso ficar \(pra sempre\)](https://open.spotify.com/album/3xaJvamcwjwwE51yIzVIRh) | 3:19 | 2022-12-16 | 2023-01-04 |
 | [Não Saio](https://open.spotify.com/track/5qasQTEYxcYe3GwZI3oWFv) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Não Saio](https://open.spotify.com/album/6DPb16RRvFWZiPR9e3xScw) | 2:23 | 2023-07-28 | 2024-03-02 |
 | [Não Se Mate](https://open.spotify.com/track/0PwmZFmoTNI7kr84TnPTnD) | [Pullovers](https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE) | [Não Se Mate](https://open.spotify.com/album/4JXWdznL0zmj6G63Qcc0Hf) | 2:47 | 2023-07-21 | 2023-09-02 |
+| [Não te falta nada](https://open.spotify.com/track/0idT6OLqNmKHeoEWXfLMng) | [Pedro Bienemann](https://open.spotify.com/artist/7sLYOTl34bly1Y5FKwnNhY) | [Não te falta nada](https://open.spotify.com/album/0rvAi01z3XJCQRliRchM6U) | 6:39 | 2025-06-06 |  |
 | [Não Tem Ninguém Vivo Aos Domingos](https://open.spotify.com/track/0AK189S1vIQRcK5SiQxHJQ) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Semana Estreita](https://open.spotify.com/album/0M0EqrfLQpwgU3xaGcKyaj) | 3:32 | 2024-03-01 | 2024-04-27 |
 | [Não Tá Tudo Bem](https://open.spotify.com/track/1sWp5zr7a2sXDhi6f13r3A) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Não Tá Tudo Bem](https://open.spotify.com/album/6nbjq7zgZxmIyyjK3RpVOo) | 4:21 | 2023-06-16 | 2023-09-02 |
 | [Não Vou Mentir](https://open.spotify.com/track/7blyqL8Grf3Zu4bnXJy4j0) | [triz nowa](https://open.spotify.com/artist/0ZggquqaZxc6ZpP4lilI4p) | [Não Vou Mentir](https://open.spotify.com/album/7fM7cMlSzQWBg9rZknl6Vu) | 2:49 | 2023-05-26 | 2023-09-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Lucas &amp; Steve , LAWRENT , Izzy Bizu
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,512 likes - 15 songs - 43 min 18 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,506 likes - 15 songs - 43 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 14 | [Oh My Lord](https://open.spotify.com/track/0KdIvpscCOvSG7FmmR4Clg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Oh My Lord](https://open.spotify.com/album/5n1f5e0bY7vt51HW63NOAg) | 2:22 |
 | 15 | [Last Forever](https://open.spotify.com/track/3fghHh3Md2fDNx03vvhOhJ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Last Forever](https://open.spotify.com/album/16YAydZvzNFRVlGmtzZPX6) | 2:56 |
 
-Snapshot ID: `AAAfg3S/i5HsGdtyRza33OluH9SvNrHX`
+Snapshot ID: `AAAfh1xWjLzkDMuTCTjSAWCav3GCtKdw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Mar\u00eda Becerra y Paulo Londra en portada.",
+  "description": "Los \u00e9xitos del pop latino, con Alejandro Sanz & Shakira en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 201290,
       "name": "Baby",
       "url": "https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy"
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185869,
+      "name": "CUANDO HABLES CON \u00c9L",
+      "url": "https://open.spotify.com/track/3HwOh611McmotNJOLEb66y"
+    },
+    {
+      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5"
       },
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 263000,
       "name": "Cuento - Versi\u00f3n de Ximena",
       "url": "https://open.spotify.com/track/6KH5I74Q8OccGi5KLaxfDD"
@@ -3811,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "\u00bfY ahora qu\u00e9?",
+        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "El vino de tu boca",
+      "url": "https://open.spotify.com/track/7hUJOJ6aF45Y7kbx9Xf0qX"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
@@ -5198,7 +5234,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 153709,
       "name": "Hoy no me siento bien",
       "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
@@ -5600,6 +5636,24 @@
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "album": {
+        "name": "Korazong",
+        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174048,
+      "name": "Korazong",
+      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
     },
     {
       "album": {
@@ -8040,7 +8094,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 157453,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -9084,7 +9138,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 219949,
       "name": "Otra Noche de Llorar",
       "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
@@ -10308,7 +10362,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 168409,
       "name": "Salida de Chicas",
       "url": "https://open.spotify.com/track/1w1bTqBDXvCv1tQqql8pSu"
@@ -11058,6 +11112,50 @@
       "duration_ms": 199591,
       "name": "SINCERAMENTE",
       "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
+    },
+    {
+      "album": {
+        "name": "SINTIGO",
+        "url": "https://open.spotify.com/album/0wqFd2OdyY5NgnDlTzhDZi"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Mazzarri",
+          "url": "https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217614,
+      "name": "SINTIGO",
+      "url": "https://open.spotify.com/track/2xOuv7kfN1luCeosa8O6h9"
+    },
+    {
+      "album": {
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
     },
     {
       "album": {
@@ -12333,6 +12431,24 @@
     },
     {
       "album": {
+        "name": "NO TENGO PRISA",
+        "url": "https://open.spotify.com/album/3bDiazdfAMlDrS3IO3jaqY"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156927,
+      "name": "UNA VELITA - Bonus Track",
+      "url": "https://open.spotify.com/track/2XoxGAplGnPSNRtaPNw3kb"
+    },
+    {
+      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -12406,6 +12522,28 @@
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
+        "name": "Vacaciones",
+        "url": "https://open.spotify.com/album/5R9qh99MpoXhpUu6Ozk03n"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/47eaS9ydA3Wt9gTMYuZCSt"
     },
     {
       "album": {

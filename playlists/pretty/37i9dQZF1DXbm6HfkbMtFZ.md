@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,727 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,842 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 34 | [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 |
 | 35 | [Pressure](https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Lo Artiz](https://open.spotify.com/artist/471krICBnmucQIpNOf7az7), [Julia Zivic](https://open.spotify.com/artist/14ICub3ucTYRmPTfvyCsh6) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 1:44 |
 | 36 | [You're so Fine](https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 2:53 |
-| 37 | [HEART OF THE MATTER](https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [HEART OF THE MATTER](https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b) | 3:46 |
-| 38 | [fool around](https://open.spotify.com/track/1qabjFO5ij7kHIM91RSeqr) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:44 |
+| 37 | [fool around](https://open.spotify.com/track/1qabjFO5ij7kHIM91RSeqr) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:44 |
+| 38 | [HEART OF THE MATTER](https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [HEART OF THE MATTER](https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b) | 3:46 |
 | 39 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 |
 | 40 | [Water Your Garden](https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 2:49 |
 | 41 | [Idol Eyes](https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Idol Eyes](https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D) | 4:48 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 73 | [Lucy](https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW) | [Yenkee](https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd) | [Lucy](https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz) | 3:46 |
 | 74 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 |
 | 75 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
-| 76 | [Love You Most](https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh) | [Laura Jean Anderson](https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0) | [Lonesome No More](https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi) | 3:07 |
-| 77 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
+| 76 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
+| 77 | [Love You Most](https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh) | [Laura Jean Anderson](https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0) | [Lonesome No More](https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi) | 3:07 |
 | 78 | [Red Wine](https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh) | [Grapetooth](https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI) | 3:59 |
 | 79 | [You Don't Have to Be a Star \(To Be In My Show\)](https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M) | [Marilyn McCoo](https://open.spotify.com/artist/2jirMwr4cHJzjtx8vDX5IO), [Billy Davis Jr.](https://open.spotify.com/artist/090k1Fxa70NDQvkXmQBUfW) | [I Hope We Get To Love In Time](https://open.spotify.com/album/6Vwss896snaZfuyr351z99) | 4:39 |
 | 80 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
@@ -110,9 +110,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 100 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 |
 | 101 | [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 |
 | 102 | [Coolhand](https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Coolhand](https://open.spotify.com/album/5ttfJqE5cQ9U0ffPuVOePK) | 3:38 |
-| 103 | [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 |
-| 104 | [Complete Annihilation!](https://open.spotify.com/track/252brHktw7kGAdCCahQpW8) | [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH) | [Complete Annihilation!](https://open.spotify.com/album/60frpW79j23XuMagTCBBMB) | 5:01 |
-| 105 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 |
+| 103 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 |
+| 104 | [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 |
+| 105 | [Complete Annihilation!](https://open.spotify.com/track/252brHktw7kGAdCCahQpW8) | [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH) | [Complete Annihilation!](https://open.spotify.com/album/60frpW79j23XuMagTCBBMB) | 5:01 |
 | 106 | [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 |
 | 107 | [You Make Me Smile](https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mamalarky](https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43) | 3:36 |
 | 108 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 110 | [I'm Late](https://open.spotify.com/track/6KV7F3IPwbTiPQ4mA7maO2) | [KERA](https://open.spotify.com/artist/0ZLjlul3kXdLihVJqJn0PR), [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [I'm Late](https://open.spotify.com/album/2qSWLEtkcSZ5ljd7zxaFR1) | 2:39 |
 | 111 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 |
 | 112 | [High on Your Love](https://open.spotify.com/track/6snSPqco0MOZTibmHLAH7O) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/1zL1bCnuSQsWuao9g7urmb) | 4:13 |
-| 113 | [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 |
-| 114 | [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 |
+| 113 | [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 |
+| 114 | [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 |
 | 115 | [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 |
 
 Snapshot ID: `aEBJPgAAAABr9hG0sEGlZWW+ytg5UDSh`

@@ -1,13 +1,97 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44108,
+  "num_followers": 44109,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaNQBiVzSQ2TEY7PcBZXc/PEVU0MhZ",
+  "snapshot_id": "AAAaOm9YbNwwkUC41lYYCX7yCDfukF0W",
   "tracks": [
+    {
+      "added_at": "2025-06-06 17:14:58",
+      "album": {
+        "name": "That Sound",
+        "url": "https://open.spotify.com/album/6LBbCQJsfH9SHKglDxhmnB"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 132222,
+      "name": "That Sound",
+      "url": "https://open.spotify.com/track/0MP2he665Jggrzp9SZKgnF"
+    },
+    {
+      "added_at": "2025-06-06 17:15:12",
+      "album": {
+        "name": "Into The Light (feat. Miggy Dela Rosa) [MOTi Remix]",
+        "url": "https://open.spotify.com/album/6jKfa1lCTdNzKVs4YDCA70"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Into The Light (feat. Miggy Dela Rosa) - MOTi Remix",
+      "url": "https://open.spotify.com/track/2ywFehEY98g6Vg0xd7RLzr"
+    },
+    {
+      "added_at": "2025-06-06 17:15:29",
+      "album": {
+        "name": "Into The Light (feat. Miggy Dela Rosa) [Repiet Remix]",
+        "url": "https://open.spotify.com/album/7LQg7Ti33M9PL3lzs7faqy"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Into The Light - Repiet Remix",
+      "url": "https://open.spotify.com/track/3F5JFRFRo3AXOkSMa6wCyd"
+    },
+    {
+      "added_at": "2025-06-06 17:16:00",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/7n8qZodlWldwKXposxfWwN"
+      },
+      "artists": [
+        {
+          "name": "GONE ASTRAY",
+          "url": "https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA"
+        },
+        {
+          "name": "WHOISJAYE",
+          "url": "https://open.spotify.com/artist/6PnBjHJND78m5zNOJ77kgF"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/2PWg2jPoQNlusbXZkGsMVg"
+    },
     {
       "added_at": "2025-06-02 18:34:05",
       "album": {

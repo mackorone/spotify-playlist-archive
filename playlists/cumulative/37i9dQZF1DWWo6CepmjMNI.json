@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: fluffypak",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: vavava",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 166500,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1Anas6GRmSjoIkyjuntZgz"
@@ -462,6 +462,24 @@
       "duration_ms": 289687,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/4Nkdc05HTrHHG0Cpu5q4oG"
+    },
+    {
+      "album": {
+        "name": "REEBOK",
+        "url": "https://open.spotify.com/album/3lOPJJp70ymi1RZRCgnMrr"
+      },
+      "artists": [
+        {
+          "name": "FORD TRIO",
+          "url": "https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238746,
+      "name": "REEBOK",
+      "url": "https://open.spotify.com/track/69CK1dRHKnDgI5K5p2ORnM"
     },
     {
       "album": {
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 289828,
       "name": "\u0e0b\u0e36\u0e19\u0e46 (Let You Know)",
       "url": "https://open.spotify.com/track/4nTArnXQvyGRlDuMsYwHe7"
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48...",
+        "url": "https://open.spotify.com/album/3mpGWSAGz2UvDIu4tdsPhD"
+      },
+      "artists": [
+        {
+          "name": "vavava",
+          "url": "https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428571,
+      "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48...",
+      "url": "https://open.spotify.com/track/3pZlqkXcdPqZPkx5SqMki3"
+    },
+    {
+      "album": {
         "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
         "url": "https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT"
       },
@@ -1914,7 +1950,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 211862,
       "name": "\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Think of)",
       "url": "https://open.spotify.com/track/4DuHeUrU05aCgsNdFlsbLC"
@@ -2142,6 +2178,24 @@
       "duration_ms": 207000,
       "name": "\u0e21\u0e32\u0e22\u0e32 (Maya)",
       "url": "https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e34\u0e16\u0e38\u0e19\u0e32 (Amygdala)",
+        "url": "https://open.spotify.com/album/3wTVRAUB8LRtfouX1zcSaj"
+      },
+      "artists": [
+        {
+          "name": "Jurassic.Pew",
+          "url": "https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "\u0e21\u0e34\u0e16\u0e38\u0e19\u0e32 (Amygdala)",
+      "url": "https://open.spotify.com/track/25GbVBQ3uetWjmMIaZAJN3"
     },
     {
       "album": {
@@ -2614,7 +2668,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 262000,
       "name": "\u0e2a\u0e35\u0e2a\u0e31\u0e19\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19 ( point )",
       "url": "https://open.spotify.com/track/4MnxhyBNVUdMwggVokRXIZ"
@@ -3050,6 +3104,24 @@
       "duration_ms": 250000,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e08\u0e35\u0e22\u0e19\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33 (memorize)",
+        "url": "https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK"
+      },
+      "artists": [
+        {
+          "name": "KEEPBOYS",
+          "url": "https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33 (memorize)",
+      "url": "https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8"
     },
     {
       "album": {

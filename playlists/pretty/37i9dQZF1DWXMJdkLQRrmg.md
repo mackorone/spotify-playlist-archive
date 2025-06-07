@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,813 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,860 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 54 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 |
 | 55 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
 | 56 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
-| 57 | [YOU DON’T KNOW WHAT LOVE MEANS \(feat\. Taylor Acorn\) \- Piano Version](https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [YOU DON’T KNOW WHAT LOVE MEANS \(feat\. Taylor Acorn\) \[Piano Version\]](https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw) | 3:54 |
-| 58 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 |
+| 57 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 |
+| 58 | [YOU DON’T KNOW WHAT LOVE MEANS \(feat\. Taylor Acorn\) \- Piano Version](https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [YOU DON’T KNOW WHAT LOVE MEANS \(feat\. Taylor Acorn\) \[Piano Version\]](https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw) | 3:54 |
 | 59 | [Muscle Museum \- Live Acoustic Version KCRW 8/3/99](https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Muscle Museum](https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU) | 4:44 |
 | 60 | [The Funeral \- Acoustic](https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer) | 3:33 |
 | 61 | [blindfolded \(acoustic\)](https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded \(acoustic\)](https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW) | 3:24 |

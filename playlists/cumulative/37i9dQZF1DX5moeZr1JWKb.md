@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Delfina Dib
 
-176 songs - 9 hr 35 min
+177 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [CINCEL](https://open.spotify.com/track/3aklqZlbNriDYntnTFqbm5) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [3m5](https://open.spotify.com/artist/1dYMiH0FUuABDJekuOMnuf), [Nichess One](https://open.spotify.com/artist/1mMPZ6dhjDEGg9cqe4Y1SI), [Craz Digga](https://open.spotify.com/artist/0Ksqg1QhIxR9COemcBopPa) | [METAL II](https://open.spotify.com/album/5jybgUqJoTIoeO07AuDQ51) | 3:19 | 2024-10-18 | 2024-11-30 |
 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 | 2023-05-26 |  |
 | [Como la Luna](https://open.spotify.com/track/1UEHZCmDiPnyHM0iYZCBtQ) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Como la Luna](https://open.spotify.com/album/2ZOtTWMHm1DG7lNFsjhJDI) | 3:46 | 2023-08-04 | 2023-08-12 |
+| [Como Un Imán](https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Como Un Imán](https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27) | 3:45 | 2025-06-06 |  |
 | [Contrato](https://open.spotify.com/track/1K10uZmH3gS5fG3HiKlNaJ) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Contrato](https://open.spotify.com/album/1qiraKvyJTwUdWOJC2oVuQ) | 2:52 | 2023-05-26 |  |
 | [Copycats](https://open.spotify.com/track/7e1K8P7VCmTKAEzqiPqgnA) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Saga Uno](https://open.spotify.com/artist/1vyFkmTWEMhgKuK1fFwCjZ), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL) | [Copycats](https://open.spotify.com/album/179O7GapWGZOoXTLmI1P2r) | 3:35 | 2024-07-12 | 2025-05-03 |
 | [Corazón](https://open.spotify.com/track/6BlMONswYrMdTaKMyB3Ox6) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Corazón](https://open.spotify.com/album/29JIy55gOvxwgbTTz4FOrs) | 3:53 | 2025-01-17 |  |
@@ -172,7 +173,7 @@
 | [Uno](https://open.spotify.com/track/0KS5pkZsWwnJdQJtwFE1UE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Uno](https://open.spotify.com/album/1wg1rRJToAGEXNRS6r24Ma) | 3:21 | 2024-02-23 |  |
 | [Uno](https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:21 | 2023-05-26 | 2024-04-19 |
 | [Vaivén](https://open.spotify.com/track/5Pmqbpl8LsFAOTVM5CyLcy) | [El Nido](https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF), [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Repz Bar$](https://open.spotify.com/artist/6gghfqGeVkTx0fcrgd7ESK), [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Alman Lenid](https://open.spotify.com/artist/3aKmPqBx1uIDdHexfQ81lf) | [Vaivén](https://open.spotify.com/album/009XeJky5RjEa5EuKI2OMv) | 4:14 | 2023-05-26 |  |
-| [Verano](https://open.spotify.com/track/5Jkv87bzjnfvY5cIQk6s0H) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Obra Negra](https://open.spotify.com/album/6jNFIJ3FmR2tZybX4VOZbq) | 3:05 | 2024-12-06 |  |
+| [Verano](https://open.spotify.com/track/5Jkv87bzjnfvY5cIQk6s0H) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Obra Negra](https://open.spotify.com/album/6jNFIJ3FmR2tZybX4VOZbq) | 3:05 | 2024-12-06 | 2025-06-07 |
 | [Vibrando en Alto](https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Vibrando en Alto](https://open.spotify.com/album/2Sa6rmZ4tPSRse0aOlRKjI) | 3:00 | 2023-05-26 |  |
 | [Vida Buena](https://open.spotify.com/track/2MMlie9z2Huecoyf7pcOYa) | [VHESE](https://open.spotify.com/artist/3v9la1GviN9d3oZqdFu4Gz), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [Vida Buena](https://open.spotify.com/album/4scpWAsBHsDM0Zual9MUKN) | 3:33 | 2023-09-08 | 2023-11-11 |
 | [Viento](https://open.spotify.com/track/38HS4ioSKj5aIj5Czr0352) | [Jay M Vee](https://open.spotify.com/artist/4jSlNjieG5Gtz82RPzUbF2), [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Viento](https://open.spotify.com/album/6ZfPNl1JCYyLpNJvSATZVl) | 1:58 | 2024-04-19 | 2024-07-13 |

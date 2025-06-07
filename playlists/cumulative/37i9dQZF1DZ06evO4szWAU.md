@@ -4,7 +4,7 @@
 
 > This is Willie Colón\. The essential tracks, all in one playlist.
 
-76 songs - 6 hr 52 min
+77 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [El Malo](https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Malo](https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE) | 4:00 | 2022-09-14 | 2024-03-08 |
 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 | 2024-04-30 |  |
 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 | 2022-09-08 |  |
-| [Estar Lejos](https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Estar Lejos](https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11) | 4:07 | 2022-09-08 |  |
+| [Estar Lejos](https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Estar Lejos](https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11) | 4:07 | 2022-09-08 | 2025-06-07 |
+| [Estar Lejos](https://open.spotify.com/track/4jSg7gqa54hxILz9urk7R4) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vida Mas Simple](https://open.spotify.com/album/4XjOzImqR39IvSHrapxoRv) | 4:07 | 2025-06-07 |  |
 | [Fue Varón \- Remastered 2024](https://open.spotify.com/track/35Dg7f4W625cpBEgTojjkG) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Metiendo Mano \(Remastered 2024\)](https://open.spotify.com/album/05Dph98Y5d6WU33B54w8R7) | 5:36 | 2024-06-30 | 2024-07-27 |
 | [Ghana'e \- Remastered 2024](https://open.spotify.com/track/5tsR72q0HYjqGFiE8s4WXm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [La Gran Fuga \(Remastered 2024\)](https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak) | 4:05 | 2025-04-27 | 2025-05-24 |
 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 | 2022-09-08 |  |

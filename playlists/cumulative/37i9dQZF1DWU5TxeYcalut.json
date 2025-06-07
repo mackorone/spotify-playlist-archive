@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Hamilton De Holanda",
-  "name": "Jazz Brasileiro",
+  "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
+  "name": "Jazz BR",
   "tracks": [
     {
       "album": {
@@ -210,6 +210,24 @@
       "duration_ms": 506440,
       "name": "Atrevido",
       "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
+    },
+    {
+      "album": {
+        "name": "Marca Passo",
+        "url": "https://open.spotify.com/album/5gPnlRYkxpQLIYMy5hEpR6"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328292,
+      "name": "Belenzinho",
+      "url": "https://open.spotify.com/track/2J8Wc1tjG7Ko83dnEndO97"
     },
     {
       "album": {
@@ -622,7 +640,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 191684,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/47wEKppE3oQnGjpF9KnJ6q"

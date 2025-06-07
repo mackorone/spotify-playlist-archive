@@ -6249,6 +6249,28 @@
     },
     {
       "album": {
+        "name": "FTS (Sub Zero Project Rework)",
+        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203862,
+      "name": "FTS - Sub Zero Project Rework",
+      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
+    },
+    {
+      "album": {
         "name": "FUTS (Fuck Up The Speakers)",
         "url": "https://open.spotify.com/album/0m2G7Wr6gUg2j1eu9ckYnM"
       },
@@ -7016,7 +7038,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 165176,
       "name": "Hardcore Life",
       "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"

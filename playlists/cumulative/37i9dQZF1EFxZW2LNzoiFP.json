@@ -1857,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Heart of Mine",
+        "url": "https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg"
+      },
+      "artists": [
+        {
+          "name": "Still Eye",
+          "url": "https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Heart of Mine",
+      "url": "https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau"
+    },
+    {
+      "album": {
         "name": "Hang Up the Lights",
         "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
       },

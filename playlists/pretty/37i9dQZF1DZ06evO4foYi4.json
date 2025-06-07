@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 53968,
+  "num_followers": 53976,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABZuHEnSBqOSxt0bqtQPy1Y",
+  "snapshot_id": "aEDeAAAAAABv5EVndTdrWqyFIbJl0s3y",
   "tracks": [
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 178722,
-      "name": "El Mero Cero",
-      "url": "https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ"
+      "duration_ms": 181733,
+      "name": "Laughing with a Mouth of Blood",
+      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Laughing with a Mouth of Blood",
-      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+      "duration_ms": 178722,
+      "name": "El Mero Cero",
+      "url": "https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 179920,
       "name": "Bad Believer",
       "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 277893,
       "name": "Huey Newton",
       "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Saves, I Spend",
-        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 222986,
       "name": "Dinner for Two",
       "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Saves, I Spend",
+        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
     },
     {
       "added_at": null,

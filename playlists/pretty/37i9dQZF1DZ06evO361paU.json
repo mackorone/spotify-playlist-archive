@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 284293,
+  "num_followers": 284323,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAA+VtvDztcPzN6C9inbugos",
+  "snapshot_id": "aEDeAAAAAABgIFidVR29IAJbJ5Gl8n0c",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Ride Remixes, Pt. 2",
-        "url": "https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg"
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
       "artists": [
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        },
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
         }
       ],
-      "duration_ms": 211166,
-      "name": "Let It Ride - HoneyLuv Remix",
-      "url": "https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z"
+      "duration_ms": 382722,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+        "name": "Let It Ride Remixes, Pt. 2",
+        "url": "https://open.spotify.com/album/0tAicLuKd7VSZ65MH9NLBg"
       },
       "artists": [
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
         }
       ],
-      "duration_ms": 382722,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
+      "duration_ms": 211166,
+      "name": "Let It Ride - HoneyLuv Remix",
+      "url": "https://open.spotify.com/track/3Ch5p4bpm3E62yWj3lQn1Z"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 282400,
-      "name": "Here to Love",
-      "url": "https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql"
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 282400,
+      "name": "Here to Love",
+      "url": "https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 122000,
       "name": "2025",
       "url": "https://open.spotify.com/track/14XmKSlgewQWk9N4nz7ngD"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 148644,
       "name": "ADMITE",
       "url": "https://open.spotify.com/track/05X57peZvM18BOly3zW5Nh"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 159995,
       "name": "AFTERPARTY",
       "url": "https://open.spotify.com/track/0cAZEIKg7yMOZ52RkcwWqc"
@@ -11931,6 +11931,32 @@
     },
     {
       "album": {
+        "name": "Duzz On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/3qWfTFgyqbaiva9BXaku1C"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138580,
+      "name": "Duzz On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/0JqJcQqibqtPdrUaA1Q1h6"
+    },
+    {
+      "album": {
         "name": "D\u00e9cimo Segundo",
         "url": "https://open.spotify.com/album/04QHFCQOzUJI375A4znZBy"
       },
@@ -16330,6 +16356,32 @@
       "duration_ms": 78003,
       "name": "GLORD",
       "url": "https://open.spotify.com/track/7bwDy9YugqXLSkhpTB4MB1"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/40A5L0aSSTmA55c5w08dCN"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "Liam Fenti",
+          "url": "https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150095,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/6CJavvzsoaVFLTpzxQAfUZ"
     },
     {
       "album": {
@@ -22346,7 +22398,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 128640,
       "name": "Modelo Brasileiro",
       "url": "https://open.spotify.com/track/6lUQQUxG5UNAJ0kviKSQA9"
@@ -22740,6 +22792,28 @@
       "duration_ms": 207833,
       "name": "Movimenta\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/7royICXlvN3tiakpjrWICz"
+    },
+    {
+      "album": {
+        "name": "Mr. Lupa Freestyle",
+        "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147129,
+      "name": "Mr. Lupa Freestyle",
+      "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
     },
     {
       "album": {
@@ -23224,6 +23298,28 @@
       "duration_ms": 159147,
       "name": "Nave Nova",
       "url": "https://open.spotify.com/track/4mo9gKEwZ4aoF18dy854fF"
+    },
+    {
+      "album": {
+        "name": "Nave Preta",
+        "url": "https://open.spotify.com/album/7ucfmZrmP6YA6K5IKhDFlq"
+      },
+      "artists": [
+        {
+          "name": "Neivol",
+          "url": "https://open.spotify.com/artist/22vTEI8dZUqbwgMnqOgyf0"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Nave Preta",
+      "url": "https://open.spotify.com/track/1Rma9Db6Q6Q31iCqWkkSNk"
     },
     {
       "album": {
@@ -23922,7 +24018,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 131741,
       "name": "Novo Dia",
       "url": "https://open.spotify.com/track/5QGrKhNKSPzFhofeW8iJPZ"
@@ -25192,6 +25288,32 @@
       "duration_ms": 208750,
       "name": "OPOSI\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/5I4ezRCotFebdYTHPeQMoC"
+    },
+    {
+      "album": {
+        "name": "OQCSENTE",
+        "url": "https://open.spotify.com/album/0p8NSwHbqbW7f0eHNF97ka"
+      },
+      "artists": [
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+        },
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        },
+        {
+          "name": "BeatByDrey",
+          "url": "https://open.spotify.com/artist/368y69JDrGHLlxFv2MLdBT"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "OQCSENTE",
+      "url": "https://open.spotify.com/track/46J5muHM6imLvOUuncOj8q"
     },
     {
       "album": {
@@ -30946,7 +31068,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 175687,
       "name": "Seda de Alfafa",
       "url": "https://open.spotify.com/track/5JsgZ3ok2fyJiigFDEJ8LH"
@@ -33220,6 +33342,32 @@
       "duration_ms": 155142,
       "name": "Tag Heuer",
       "url": "https://open.spotify.com/track/0ZPgczrExiZzzzRKbZ9xCL"
+    },
+    {
+      "album": {
+        "name": "Tanqueray",
+        "url": "https://open.spotify.com/album/3wPVzMxlSdtqkm8W9xzWkL"
+      },
+      "artists": [
+        {
+          "name": "RIBEIRO",
+          "url": "https://open.spotify.com/artist/59z8Z7HaWsuzVYA4WsHJyI"
+        },
+        {
+          "name": "Dreey",
+          "url": "https://open.spotify.com/artist/0o5ExKejzq5LNmUnE4gokW"
+        },
+        {
+          "name": "CalliCartel",
+          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151052,
+      "name": "Tanqueray",
+      "url": "https://open.spotify.com/track/76uX7X9XjumNNPcmAzlehs"
     },
     {
       "album": {

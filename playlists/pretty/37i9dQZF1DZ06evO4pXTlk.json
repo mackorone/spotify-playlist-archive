@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAanPsQkS2Z5tFw+E+Xa2yK",
+  "snapshot_id": "aEDeAAAAAACKjqXe05XFQwHrj3w6QZG3",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 232078,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
+      "duration_ms": 184443,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 184443,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
+      "duration_ms": 232078,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 212905,
-      "name": "Do You Feel Safe?",
-      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 154626,
       "name": "Slackerpop",
       "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 212905,
+      "name": "Do You Feel Safe?",
+      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 170883,
-      "name": "Nightschool",
-      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 165334,
       "name": "Lust In Translation",
       "url": "https://open.spotify.com/track/7KVn75EGzjgomi0hAKSHcU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Nightschool",
+      "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ready to Call",
         "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 219405,
       "name": "Ready to Call",
       "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 316893,
-      "name": "Cool Ethan",
-      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Like This",
-        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 230897,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
+      "duration_ms": 316893,
+      "name": "Cool Ethan",
+      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 250203,
       "name": "Weather Warning",
       "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 230897,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 254106,
-      "name": "He Sinks. He Sleeps",
-      "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     }
   ],
   "unique_name": "This Is The XCERTS",

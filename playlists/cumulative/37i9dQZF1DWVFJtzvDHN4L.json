@@ -143,6 +143,44 @@
     },
     {
       "album": {
+        "name": "Bauklotze (From \"Attack on Titan\")",
+        "url": "https://open.spotify.com/album/6C2ISOB35FkHeyIlJJS9re"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "Andrea Cicalese",
+          "url": "https://open.spotify.com/artist/4F5KVGbhPL8Xla1Hss1EyJ"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "NDR Radiophilharmonie",
+          "url": "https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR"
+        },
+        {
+          "name": "Michael England",
+          "url": "https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "Bauklotze (From \"Attack on Titan\")",
+      "url": "https://open.spotify.com/track/1BbMcLt9Mmc3YgyEMjT0vt"
+    },
+    {
+      "album": {
         "name": "Il Grande Male (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5dHOnPMjwR3s3cjApZr5UL"
       },

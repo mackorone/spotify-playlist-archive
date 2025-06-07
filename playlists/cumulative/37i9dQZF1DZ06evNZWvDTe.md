@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-194 songs - 11 hr 34 min
+195 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 | 2022-05-21 |  |
 | [Honey \(feat\. Kuami Eugene\)](https://open.spotify.com/track/5nVhVTm0ZVWMiFRXmC1ori) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:17 | 2022-03-13 | 2022-09-25 |
 | [Hope \(Brighter Day\)](https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM) | 5:16 | 2022-05-10 |  |
+| [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 | 2025-06-07 |  |
 | [I Know](https://open.spotify.com/track/0UyqB29vUuveKq8ftX7tLD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [I Know](https://open.spotify.com/album/65gooErIzRYOMZiwUGnlMK) | 3:07 | 2021-12-28 | 2022-03-14 |
 | [I Wanna Love You \(feat\. Harmonize\)](https://open.spotify.com/track/2mHB3UQ6yDuyBD0TA8OACi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:54 | 2022-01-26 | 2022-08-20 |
 | [I'll Be There \(feat\. MOGmusic\)](https://open.spotify.com/track/0nDlqLTFNlKtTKP3YptEC1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:57 | 2022-01-27 | 2023-03-04 |
@@ -199,7 +200,7 @@
 | [X](https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 4:33 | 2024-05-26 | 2024-11-23 |
 | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo) | 3:02 | 2021-12-28 | 2022-11-13 |
 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 | 2021-12-28 | 2022-10-11 |
-| [Yedin](https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yedin](https://open.spotify.com/album/1fuwXJKd5nYTrVFU9R7Afj) | 3:17 | 2024-12-10 |  |
+| [Yedin](https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yedin](https://open.spotify.com/album/1fuwXJKd5nYTrVFU9R7Afj) | 3:17 | 2024-12-10 | 2025-06-07 |
 | [You Know](https://open.spotify.com/track/4WyeQ7S4ggK6OT0xfoFJK2) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse EP](https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF) | 3:39 | 2023-11-10 | 2023-12-14 |
 | [Your Waist](https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:33 | 2021-12-28 | 2023-04-17 |
 

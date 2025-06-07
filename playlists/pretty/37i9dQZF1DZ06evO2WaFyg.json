@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 257540,
+  "num_followers": 257586,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAlNl2GbxhM0tqxKXi0xjH8",
+  "snapshot_id": "aEDeAAAAAADe4aIWfO7WaZ2XvL8UtmMs",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+        "name": "So Much Fun (Deluxe)",
+        "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
       "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 181626,
-      "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"
+      "duration_ms": 279906,
+      "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
+      "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
     },
     {
       "added_at": null,
@@ -347,26 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun (Deluxe)",
-        "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
       "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 279906,
-      "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
-      "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+      "duration_ms": 181626,
+      "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lightyears (with Young Thug)",
-        "url": "https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Lightyears (with Young Thug)",
-      "url": "https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 217960,
       "name": "Choppa Won't Miss (feat. Young Thug)",
       "url": "https://open.spotify.com/track/5O9zs6G6RcB6yP1OKwnwiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lightyears (with Young Thug)",
+        "url": "https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR"
     },
     {
       "added_at": null,

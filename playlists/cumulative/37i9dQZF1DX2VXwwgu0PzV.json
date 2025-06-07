@@ -4243,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Cover me",
+        "url": "https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C"
+      },
+      "artists": [
+        {
+          "name": "Dr. Prinz",
+          "url": "https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188367,
+      "name": "Cover me",
+      "url": "https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA"
+    },
+    {
+      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: SEVENTEEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,477 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,492 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 49 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 50 | [Love Again](https://open.spotify.com/track/0A3omwhvYCn1Hg27VliWen) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 2:06 |
 
-Snapshot ID: `aEIyJAAAAABfO0S/77x3ixi9w8izkEYR`
+Snapshot ID: `aEIyJAAAAABYIniR105Of/Oh9Jx4+dFh`

@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-164 songs - 9 hr 48 min
+165 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 | 2024-10-18 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7xytPbtoifMwgcAxuZqRtw) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Bossa Nova Covers](https://open.spotify.com/album/6HjifVwY0K0LJ1OvByfMTX) | 2:45 | 2021-11-26 |  |
 | [Jardineira](https://open.spotify.com/track/2ROhCRzklIHQ6Ug9oOYv0W) | [GAÊ](https://open.spotify.com/artist/2vyuxwDD1pPSDuTxdLLDrS) | [Jardineira](https://open.spotify.com/album/6tOiLqNhvrhiRs83UAdDJB) | 3:00 | 2024-02-15 | 2024-06-15 |
-| [Lamento](https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:46 | 2021-11-26 |  |
+| [Lagoa](https://open.spotify.com/track/5my65lHV7ciJheZbqvM4bB) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Heekyung Na](https://open.spotify.com/artist/76LR88PeOBh7PJyOFdJojB), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6), [Misael Barros](https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO) | [Lagoa](https://open.spotify.com/album/49fkJwdHf7dj4XNTLPrn1N) | 4:23 | 2025-06-06 |  |
+| [Lamento](https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 2:46 | 2021-11-26 | 2025-06-07 |
 | [Liberdade, vai](https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Liberdade, vai](https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI) | 3:51 | 2024-05-10 |  |
 | [Libertação](https://open.spotify.com/track/1lamFtTxjFvoPjvmzWGXzY) | [Vidal Assis](https://open.spotify.com/artist/0SAL1paPmwbBf2FR2hAj9L) | [Libertação](https://open.spotify.com/album/6menATFqidzRjusVl0INqK) | 2:56 | 2021-11-26 |  |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2021-11-26 | 2025-02-01 |

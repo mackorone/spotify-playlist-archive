@@ -1,29 +1,13 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 100355,
+  "num_followers": 100701,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACxWSzSkKqLwH50Dq9Eg7Ar",
+  "snapshot_id": "aEDeAAAAAACJPCiQcJJHuZPFdNJavqb+",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 185881,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/2U46T1FxXkD7bqMVf1ZwMf"
-    },
     {
       "added_at": null,
       "album": {
@@ -99,22 +83,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRAISES (remix)",
-        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
       "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 170353,
-      "name": "PRAISES (remix)",
-      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+      "duration_ms": 133944,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
     },
     {
       "added_at": null,
@@ -139,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+        "name": "PRAISES (remix)",
+        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
       "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 133944,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
+      "duration_ms": 170353,
+      "name": "PRAISES (remix)",
+      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
     },
     {
       "added_at": null,
@@ -171,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOW KEY",
-        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
       "artists": [
         {
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 150485,
-      "name": "LOW KEY",
-      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
+      "duration_ms": 161544,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut"
     },
     {
       "added_at": null,
@@ -207,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+        "name": "LOW KEY",
+        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
       },
       "artists": [
         {
@@ -216,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 161544,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut"
+      "duration_ms": 150485,
+      "name": "LOW KEY",
+      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
     },
     {
       "added_at": null,
@@ -235,6 +219,38 @@
       "duration_ms": 156583,
       "name": "SUNRISE",
       "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 135975,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 219983,
+      "name": "LIFT MY HANDS",
+      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
     },
     {
       "added_at": null,
@@ -259,38 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 219983,
-      "name": "LIFT MY HANDS",
-      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 135975,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven On My Mind (with Forrest Frank)",
         "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
       },
@@ -311,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
       "artists": [
         {
@@ -320,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 157155,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4"
+      "duration_ms": 167666,
+      "name": "B.I.G.",
+      "url": "https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD"
     },
     {
       "added_at": null,
@@ -343,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
       "artists": [
         {
@@ -352,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 167666,
-      "name": "B.I.G.",
-      "url": "https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD"
+      "duration_ms": 157155,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4"
     },
     {
       "added_at": null,
@@ -383,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         }
       ],
-      "duration_ms": 185273,
-      "name": "HEAVEN ON THIS EARTH",
-      "url": "https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO"
+      "duration_ms": 147692,
+      "name": "NO L's",
+      "url": "https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol"
     },
     {
       "added_at": null,
@@ -423,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         }
       ],
-      "duration_ms": 147692,
-      "name": "NO L's",
-      "url": "https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol"
+      "duration_ms": 185273,
+      "name": "HEAVEN ON THIS EARTH",
+      "url": "https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
       "duration_ms": 144568,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "FATHER'S HOUSE",
+      "url": "https://open.spotify.com/track/7dXS2jInaNYJXQOG22SdWg"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "FATHER'S HOUSE",
-      "url": "https://open.spotify.com/track/7dXS2jInaNYJXQOG22SdWg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -527,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 155067,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
@@ -563,6 +527,26 @@
       "duration_ms": 170521,
       "name": "slow down",
       "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 155067,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
     },
     {
       "added_at": null,
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 201050,
-      "name": "Come Thou Font",
-      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 151905,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 201050,
+      "name": "Come Thou Font",
+      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
     },
     {
       "added_at": null,

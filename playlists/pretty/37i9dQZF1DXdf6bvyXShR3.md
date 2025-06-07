@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,377 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,404 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 69 | [Thinking About You Calms Me Down](https://open.spotify.com/track/25lichGYPTOAwpm9PNaWVf) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/1KX6j0VmAYu3dOJUicdQoE) | 2:53 |
 | 70 | [Wake And Return \- Acoustic Version](https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra: Acoustic](https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb) | 2:57 |
 
-Snapshot ID: `AAAAAE4LXd7VrDjvxlvOoMMi9tSy/i3O`
+Snapshot ID: `aDoY4gAAAABtp7HKtx/6WXm+f5oluiXp`

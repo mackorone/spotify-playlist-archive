@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,162 likes - 97 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,167 likes - 97 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 34 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |
 | 35 | [I'm In The Mood For Love \- Take 3 / Alternate Take](https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:34 |
 | 36 | [Here I'll Stay](https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:00 |
-| 37 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
-| 38 | [Cadência](https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs) | [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Caio Marcio Santos](https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184) | [Cadência Verde e Amarela](https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av) | 3:57 |
+| 37 | [Cadência](https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs) | [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Caio Marcio Santos](https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184) | [Cadência Verde e Amarela](https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av) | 3:57 |
+| 38 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
 | 39 | [Something 'bout the Rain](https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 4:37 |
 | 40 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
 | 41 | [Take a Giant Step](https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:47 |

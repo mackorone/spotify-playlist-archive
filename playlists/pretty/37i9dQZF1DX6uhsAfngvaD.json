@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 317620,
+  "num_followers": 317648,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Simone Pace",
+          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
+        }
+      ],
+      "duration_ms": 212008,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Heathers",
         "url": "https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 228522,
       "name": "what if love isn't enough",
       "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
-      },
-      "artists": [
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        },
-        {
-          "name": "Simone Pace",
-          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
-        }
-      ],
-      "duration_ms": 212008,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
     }
   ],
   "unique_name": "Dreampop",

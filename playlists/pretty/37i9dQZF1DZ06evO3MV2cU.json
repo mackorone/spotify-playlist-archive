@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 138645,
+  "num_followers": 138662,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABKs7fV6WMZv/Ivl1bRgvAa",
+  "snapshot_id": "aEDeAAAAAACR0zGOC//HJye/PklwgDWT",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 221186,
       "name": "The Cross",
       "url": "https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285115,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And If Our God Is For Us...",
         "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 278013,
       "name": "I Lift My Hands",
       "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285115,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Great Thou Art (Until That Day) [Live]",
         "url": "https://open.spotify.com/album/4xCf9WmCtwMBcds8fj6I6W"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be A Light",
         "url": "https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 173960,
       "name": "Be A Light",
       "url": "https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "I Will Rise",
+      "url": "https://open.spotify.com/track/0BP0JHEeYVZZsyngW4Uc1x"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Hymn",
-        "url": "https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Ben Fielding",
-          "url": "https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO"
-        }
-      ],
-      "duration_ms": 251064,
-      "name": "The First Hymn",
-      "url": "https://open.spotify.com/track/1Azri3vJMThJNOJF9OTv8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 280477,
       "name": "Here For You - Live",
       "url": "https://open.spotify.com/track/35xxlDrbgHAbOMYLoTrImH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Hymn",
+        "url": "https://open.spotify.com/album/79DMLr7d7TtolyaV1WZoEq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Ben Fielding",
+          "url": "https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO"
+        }
+      ],
+      "duration_ms": 251064,
+      "name": "The First Hymn",
+      "url": "https://open.spotify.com/track/1Azri3vJMThJNOJF9OTv8m"
     },
     {
       "added_at": null,

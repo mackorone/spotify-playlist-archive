@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: snuggle
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,558 likes - 170 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,615 likes - 170 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

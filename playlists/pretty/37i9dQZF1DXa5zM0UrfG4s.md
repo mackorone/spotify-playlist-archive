@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,568 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,590 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 38 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |
 | 39 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
 | 40 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 |
-| 41 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 |
-| 42 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
+| 41 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
+| 42 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 |
 | 43 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
 | 44 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
 | 45 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 57 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 |
 | 58 | [Dagsfylla](https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7) | [Kaptein EPA](https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Løvendahl](https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz) | [Dagsfylla](https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt) | 1:51 |
 | 59 | [Zetor’n](https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:47 |
-| 60 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
-| 61 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 |
+| 60 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 |
+| 61 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 62 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 63 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
 | 64 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
-| 65 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
-| 66 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
+| 65 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
+| 66 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 | 67 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
 | 68 | [En liten plass](https://open.spotify.com/track/4WPcCS7W5Fv4UzE3aDV5IU) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Langtur](https://open.spotify.com/album/1UNhDfbtYSyqjAaxodw9uy) | 3:08 |
 | 69 | [Alt det der](https://open.spotify.com/track/7qQmbSx16gAj5j8eR1Pn6d) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der](https://open.spotify.com/album/645DPvuuUPRDfKiyEyq5uo) | 2:57 |
-| 70 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 |
+| 70 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 |
 
 Snapshot ID: `aC+eiAAAAADQ06TuxSJkYS26mtq5+znH`

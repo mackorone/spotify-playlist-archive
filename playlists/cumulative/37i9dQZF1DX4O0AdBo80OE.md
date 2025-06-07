@@ -2,9 +2,9 @@
 
 ### [Rap Latte](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Rimas cremosas, tan necesarias como tu café\. Dharius y Yayo en portada.
+> Rimas cremosas, tan necesarias como tu café\. Paulo Londra en portada.
 
-240 songs - 13 hr 16 min
+241 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 | 2023-05-26 |  |
 | [MPD](https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [MPD](https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o) | 3:11 | 2024-09-06 | 2024-09-28 |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2023-05-26 |  |
+| [Mujer Maravilla](https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Mujer Maravilla](https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN) | 2:27 | 2025-06-06 |  |
 | [Ni bien ni mal](https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ni bien ni mal](https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs) | 2:50 | 2023-05-26 | 2023-09-02 |
 | [No Es Mía](https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O) | 3:08 | 2023-05-26 |  |
 | [No Estás II](https://open.spotify.com/track/5PnpsdSrjziwHQW9KJySE7) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx), [M.Timére](https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5) | [No Estás II](https://open.spotify.com/album/4tWQ9A0rlk3iGszgOLeVu0) | 3:59 | 2024-03-01 | 2024-05-11 |

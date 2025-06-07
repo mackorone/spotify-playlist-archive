@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,257 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,556 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 30 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
 | 31 | [Time to Burn \- Radio Edit](https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC) | [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0) | [Time To Burn 2010](https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku) | 2:55 |
 | 32 | [Synaesthesia \(Fly Away\)](https://open.spotify.com/track/5QdgpcfAw8EbsupH0B6BpI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Sheryl Deane](https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa) | [Synaesthesia \(Fly Away\)](https://open.spotify.com/album/5VsjT0u49R46HG9kSYsHMz) | 3:49 |
-| 33 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
-| 34 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
+| 33 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
+| 34 | [Happiness Happening \- Lange Remix](https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA) | [Happiness Happening](https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0) | 3:35 |
 | 35 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |
 | 36 | [Diving Faces \- Radio Cut](https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU) | [Liquid Child](https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7) | [Diving Faces](https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ) | 3:40 |
 | 37 | [Coming On Strong](https://open.spotify.com/track/1ZLjrNoJWPvfMb7grtSNVf) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [The World Of Trance \(40 Biggest Trance Hits Ever\) \- Armada Music](https://open.spotify.com/album/3L3PWNYWWiW0eGKV5nAXsR) | 3:19 |

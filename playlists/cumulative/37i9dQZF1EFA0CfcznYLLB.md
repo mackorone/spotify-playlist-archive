@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-388 songs - 20 hr 25 min
+389 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Notifications](https://open.spotify.com/track/3PMX3IVMy3JcVgGgp9LbPt) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 2:07 | 2023-12-13 |  |
 | [Novacane](https://open.spotify.com/track/6hljbMoAdhLkH9Zs36n9RO) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Keep God First](https://open.spotify.com/album/0ecR68heNFl1trGt4WFUzc) | 2:53 | 2024-05-20 | 2024-05-22 |
 | [Novacane](https://open.spotify.com/track/3autIySOEzceIx7kKp0P1V) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/7JRWPjH1IDKuw2jxMcEhLh) | 2:54 | 2023-12-13 | 2025-05-26 |
+| [Novacane](https://open.spotify.com/track/3rditla7Kb4Sg9cibEdEdb) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/45gMPSPhEibGhKpN4FDNbM) | 2:54 | 2025-06-06 |  |
 | [November Rain](https://open.spotify.com/track/58ZdT5NQIAkeSWUxNneBg8) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:13 | 2023-12-13 |  |
 | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2KQdxByLeH5HvuqG2MPbg7) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [96 Months](https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0) | 3:04 | 2024-08-11 |  |
 | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2rYyq0b3XWwmWl0k727OVG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Nuh Ready Nuh Ready \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/album/5tJjXZhkwWQYginKpNGFte) | 3:04 | 2023-12-13 | 2024-08-12 |

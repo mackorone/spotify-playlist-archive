@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-171 songs - 13 hr 17 min
+172 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Overground \(from the Netflix Series "Top Boy"\) \- Radio Edit](https://open.spotify.com/track/1i7oBTpQtmRrdYnpG3zj3c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Overground \(from the Netflix Series "Top Boy"\) \[Radio Edit\]](https://open.spotify.com/album/20ct57DIqkLF379gT34bov) | 4:31 | 2023-12-13 | 2023-12-30 |
 | [Pause](https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:23 | 2023-05-07 | 2025-05-28 |
 | [Pewter](https://open.spotify.com/track/7uOnrYfOnsqXgaiCWGpZH8) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours \(Expanded\)](https://open.spotify.com/album/7IPh831tMAre1SRBWzp5Vz) | 3:59 | 2023-03-31 | 2023-04-29 |
+| [Play On \- Single Edit](https://open.spotify.com/track/1L8Ub8ABkm10UsU9YZdAKB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Play On](https://open.spotify.com/album/5sVXzbcsNpsVQbTzfSAFhg) | 4:02 | 2025-06-07 |  |
 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 | 2022-05-29 | 2024-07-22 |
 | [Radio](https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 4:04 | 2023-05-07 | 2025-04-11 |
 | [Reflection \- Excerpt](https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet) | 4:20 | 2023-02-17 | 2024-12-16 |
@@ -165,7 +166,7 @@
 | [Under \- From "Cool World"](https://open.spotify.com/track/5TlKBQIYCuGaCVfnXc2u0l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 5:19 | 2023-02-23 | 2023-03-10 |
 | [Under Stars \- 2005 Mix](https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:30 | 2022-05-30 |  |
 | [Under Stars II \- Remastered 2005](https://open.spotify.com/track/1zeqghK8uQXeEbIQJna4NX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:22 | 2024-05-07 | 2025-01-06 |
-| [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 | 2022-08-16 |  |
+| [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 | 2022-08-16 | 2025-06-07 |
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2022-05-30 | 2024-07-22 |
 | [We Let It In](https://open.spotify.com/track/4GM08ICJRy8IoCN92CzvAj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 3:28 | 2022-09-11 | 2022-10-21 |
 | [We Let It In](https://open.spotify.com/track/4yWd80KUbRs8nuv8MocOa5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:28 | 2022-10-20 | 2023-02-27 |

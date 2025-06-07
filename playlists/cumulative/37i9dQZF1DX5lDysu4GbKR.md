@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: Gaidaa
+> Stripped back vibes\. Cover: Cynthia Erivo
 
-280 songs - 16 hr 29 min
+282 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/track/6DTJgb33ibZl2pElkWqUfm) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/album/2ECyJoQ4tFw87gsjmQMoOq) | 4:47 | 2021-12-09 | 2023-06-30 |
 | [Floods \- Live](https://open.spotify.com/track/4GBjdj1z74h8RVr1Us6YFc) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 4:24 | 2021-12-09 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-12-09 |  |
+| [Free \- Acoustic Version](https://open.spotify.com/track/2Rn92MnXejzNAoVU74nm2F) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Free \(Acoustic Version\)](https://open.spotify.com/album/4Od7QH0SgdhW7R4KMsdlrh) | 4:09 | 2025-06-06 |  |
 | [Gentlemen Don't](https://open.spotify.com/track/6qz64OVGikyW6lgiGabdzJ) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 3:08 | 2021-12-09 | 2022-01-14 |
 | [Get You \- Live at The Dairy, London, 2018](https://open.spotify.com/track/2EJWix6iALSlWsZafPUPw6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Live at The Dairy](https://open.spotify.com/album/1FsLkDdBvnFcPQLxKCq4pb) | 4:13 | 2021-12-09 | 2022-01-26 |
 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/19hHkHNqoDb55MoLLvpPG3) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gold \(Live at Subfrantic\)](https://open.spotify.com/album/5qlO0CJBcPPzIDLaJkI32K) | 3:30 | 2021-12-09 |  |
@@ -168,6 +169,7 @@
 | [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 |  |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-07 | 2024-02-09 |
+| [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 | 2025-06-06 |  |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 | 2022-10-13 |
 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-09-29 | 2023-05-19 |
 | [Myself](https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/70ovgYVVme5Lu3wY16ISNs) | 2:49 | 2022-06-16 |  |

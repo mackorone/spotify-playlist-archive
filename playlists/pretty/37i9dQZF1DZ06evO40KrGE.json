@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36692,
+  "num_followers": 36697,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACdNTB+q+KC6EKmWMu9hmTG",
+  "snapshot_id": "aEDeAAAAAABCLK3Ps5wczuLRmpyhlgZ2",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Identidade",
-        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Identidade",
-      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 399386,
       "name": "Quem \u00e9 Ele - Ao Vivo",
       "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Louvarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 334656,
       "name": "Te Louvarei - Ao Vivo",
       "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 145511,
+  "num_followers": 145548,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADvJIC84wW2iC7d5KNn0SsG",
+  "snapshot_id": "aEDeAAAAAADVDCeR4a/FcBZ6yLt1AzBD",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
-        "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },
       "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 177094,
-      "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
-      "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
+      "duration_ms": 256519,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
     },
     {
       "added_at": null,
@@ -283,18 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+        "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
+        "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
       },
       "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 256519,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
+      "duration_ms": 177094,
+      "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
+      "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "The Joy of Life",
+      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amore (Remastered)",
         "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 214572,
       "name": "Mi manchi",
       "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "The Joy of Life",
-      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Kenny G",
         "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazilian Nights (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Heart And Soul - Live",
-      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 298066,
       "name": "Everytime I Close My Eyes (with Babyface)",
       "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 207757,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
     },
     {
       "added_at": null,

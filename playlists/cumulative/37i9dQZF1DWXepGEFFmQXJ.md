@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Dylan Scott
 
-965 songs - 2 day 4 hr 42 min
+966 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 | 2024-09-20 |
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2021-12-30 | 2022-04-01 |
 | [Come Together](https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Mitch Tambo](https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W), [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Come Together](https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz) | 4:11 | 2022-09-27 | 2023-01-20 |
+| [Comin' In Cold](https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Comin' In Cold](https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK) | 3:00 | 2025-06-05 |  |
 | [Coming Home To You \(Bigger Houses\) \[feat\. Owen Riegling\]](https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Coming Home To You \(Bigger Houses\)](https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl) | 3:28 | 2024-10-17 | 2025-01-24 |
 | [Common Ground](https://open.spotify.com/track/54Zy7I0104rUDCOlVJVXaq) | [Caitlyn Shadbolt](https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC) | [Bloom & Surrender](https://open.spotify.com/album/5FW3FwReSPdFC5fVANPqqe) | 3:19 | 2023-06-08 | 2023-07-18 |
 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-03-28 | 2024-07-05 |

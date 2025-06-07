@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb"
+    },
+    {
+      "album": {
         "name": "BET",
         "url": "https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV"
       },
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 204387,
       "name": "Cut U Off",
       "url": "https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I"
@@ -5605,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "One Of Them",
+        "url": "https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171772,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB"
+    },
+    {
+      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
       },
@@ -8464,7 +8500,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 200000,
       "name": "Whatever I Want",
       "url": "https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr"

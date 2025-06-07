@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt"
       },
@@ -5729,6 +5747,28 @@
     },
     {
       "album": {
+        "name": "Happen To Me (Steve Aoki Remix)",
+        "url": "https://open.spotify.com/album/4y7lBv98C4OxEKataIujzf"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168940,
+      "name": "Happen To Me - Steve Aoki Remix",
+      "url": "https://open.spotify.com/track/1M1fmid4SE8wtqdmmH6l9e"
+    },
+    {
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
       },
@@ -7552,7 +7592,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 155495,
       "name": "Invincible - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
@@ -16198,7 +16238,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 164973,
       "name": "Yes I'm A Mess",
       "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"

@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-304 songs - 15 hr 21 min
+305 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Me enamoré de una cayetana](https://open.spotify.com/track/28T53c7HkprdeXAo2JGbSw) | [Gasolinera](https://open.spotify.com/artist/6afDfh5EbiXrDVXn2RCncM) | [Canciones que escribí para mis amigos](https://open.spotify.com/album/4QhJijDjV1JRNEzPk6ROJM) | 2:44 | 2025-04-10 | 2025-05-16 |
 | [Mechero](https://open.spotify.com/track/5H4267SpoBtTJByqPKswVP) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet) | [Mechero](https://open.spotify.com/album/2lXGN5ejiwpsB7myP4j8Nj) | 2:11 | 2025-05-15 |  |
 | [Mi Locura](https://open.spotify.com/track/20w5eoFbHbEpEkMn9j3uDq) | [Eruktogatos](https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ), [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Mi Locura](https://open.spotify.com/album/7ME5Ud4N8o9W1hwmPMi0wm) | 3:55 | 2024-12-19 | 2025-02-08 |
-| [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 | 2023-12-08 |  |
+| [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 | 2023-12-08 | 2025-06-07 |
 | [Mi Pez es Tauro y Por Eso No Me Habla](https://open.spotify.com/track/7xmbjnlxS7l4zGz3AOI1q2) | [Glandes Glandes](https://open.spotify.com/artist/1RTpZJ73YMjlNPqYbPjMMp) | [Mi Pez es Tauro y Por Eso No Me Habla](https://open.spotify.com/album/33nXcSHhT3h7D4XibQMtLv) | 1:00 | 2025-04-10 | 2025-06-06 |
 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 | 2023-12-08 |  |
 | [Mi Vida sin Mi](https://open.spotify.com/track/2b32BQjjd7SJ2z3Y0LggLr) | [Rat\-Zinger](https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR) | [Alegoría del mal](https://open.spotify.com/album/0weu9LJEL63ulze2cpp6n3) | 2:41 | 2025-06-05 |  |
@@ -262,6 +262,7 @@
 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 | 2024-03-12 |  |
 | [Señoras y Señores](https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU) | [No Hay Futuro](https://open.spotify.com/album/5Evysq6CtQKeK5fCXtqCjz) | 3:31 | 2023-12-08 | 2024-04-19 |
 | [Señoras y Señores \- Versión 2025](https://open.spotify.com/track/5J3AWSKrW3RP55HMYtdyrd) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU), [Mala Reputación](https://open.spotify.com/artist/6Y6pF5eEgYW8XwEDebMk1R) | [Señoras y Señores \(Versión 2025\)](https://open.spotify.com/album/6n8jFEHH3I88WlusxDT0AM) | 3:32 | 2025-05-15 |  |
+| [Si Te Coge Greta Thunberg](https://open.spotify.com/track/19pVQCrYaAOwQLFmshUrLH) | [Los Pelukeros de Punset](https://open.spotify.com/artist/6juxKdApXKZBmcsINhuCb5), [Catalina Grande Piñón Pequeño](https://open.spotify.com/artist/701mxW0iFERrJuhfNebtL3) | [Si Te Coge Greta Thunberg](https://open.spotify.com/album/74ErpDzlO2IjF78JLJbOpV) | 2:30 | 2025-06-05 |  |
 | [Silencio roto](https://open.spotify.com/track/4Tj1XMpVCn07xKWkNjk5C5) | [Los Saneadores](https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx), [Helga Pataki](https://open.spotify.com/artist/1xFwIdpA7KoZKFoib8H6rX) | [Silencio roto](https://open.spotify.com/album/3ReN6Vb64V2JW7TdANiV87) | 2:46 | 2025-01-03 | 2025-02-08 |
 | [Solidaridad](https://open.spotify.com/track/2dUJdEReUw0NxdEFA3kTrr) | [Kraken PunkRock](https://open.spotify.com/artist/4OitUQ1rKKZobNXdgd7P4W) | [Solidaridad](https://open.spotify.com/album/2vSZJItxKV4X9yBHf7YiLj) | 3:43 | 2025-02-07 | 2025-03-14 |
 | [Solo en Casa](https://open.spotify.com/track/6lBp12MLvC0qGebQzd61ny) | [Glandes Glandes](https://open.spotify.com/artist/1RTpZJ73YMjlNPqYbPjMMp) | [Solo en Casa](https://open.spotify.com/album/0tmTicFtkxYmvSMGxjl6aw) | 2:21 | 2025-02-13 | 2025-03-14 |

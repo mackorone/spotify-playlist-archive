@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Calvin Harris & Clementine Douglas",
+  "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Sam Gellaitry",
   "name": "Dance Hits",
   "tracks": [
     {
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 238242,
       "name": "Focus (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
@@ -5210,6 +5210,28 @@
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q"
+    },
+    {
+      "album": {
+        "name": "light years (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220978,
+      "name": "light years (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
       "album": {

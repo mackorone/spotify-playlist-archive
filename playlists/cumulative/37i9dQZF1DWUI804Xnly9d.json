@@ -1327,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "bemausam toofaan",
+        "url": "https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ"
+      },
+      "artists": [
+        {
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        },
+        {
+          "name": "Meera",
+          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "bemausam toofaan",
+      "url": "https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D"
+    },
+    {
+      "album": {
         "name": "Betabiyaan",
         "url": "https://open.spotify.com/album/1p7qu0SWTkMBCxkqz9QvJ4"
       },
@@ -5725,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Kyun?",
+        "url": "https://open.spotify.com/album/4z2xS1OlMUwBDJX7KcocbD"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147604,
+      "name": "Kyun?",
+      "url": "https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg"
+    },
+    {
+      "album": {
         "name": "Laazmi",
         "url": "https://open.spotify.com/album/6To7c9IW2w6NbXKLxRDFQg"
       },
@@ -7861,6 +7901,24 @@
     },
     {
       "album": {
+        "name": "Raaste",
+        "url": "https://open.spotify.com/album/0610arumkxfIIU827Cczzu"
+      },
+      "artists": [
+        {
+          "name": "Mayank Thakur",
+          "url": "https://open.spotify.com/artist/6aw1MJxB9XqzxPow8DINiV"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183724,
+      "name": "Raaste",
+      "url": "https://open.spotify.com/track/3PBH3YK6DQ3PhOKG69kDTf"
+    },
+    {
+      "album": {
         "name": "Raaston",
         "url": "https://open.spotify.com/album/0FTmUC5KGJsplaQuqlyY6o"
       },
@@ -8888,7 +8946,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 194900,
       "name": "Sun Le Zara",
       "url": "https://open.spotify.com/track/6n93IAPBFSIBlhuHI7ap0w"
@@ -9042,7 +9100,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 190153,
       "name": "Tasweer",
       "url": "https://open.spotify.com/track/1DVZdAQcO55X638XYaphEr"
@@ -9400,7 +9458,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 163390,
       "name": "Teri Baahon Mein",
       "url": "https://open.spotify.com/track/4aJxK0IBKX6C5F0kEXyAdg"

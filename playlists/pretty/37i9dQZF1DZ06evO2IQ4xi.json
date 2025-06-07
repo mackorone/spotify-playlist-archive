@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 91635,
+  "num_followers": 91745,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAmKe5sNbiKLSqK53gJFfu8",
+  "snapshot_id": "aEDeAAAAAAD0qS2Gm8KdYXAtI0ck/i6s",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "I'M HIS, HE'S MINE (feat. Doechii)",
-      "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 176682,
       "name": "Wat U Sed (feat. Doechii & Kal Banx)",
       "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "I'M HIS, HE'S MINE (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-175 songs - 11 hr 7 min
+177 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [El Magnetismo](https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [El Magnetismo](https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th) | 5:11 | 2024-04-12 |  |
 | [El Modo](https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [El Modo](https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS) | 4:16 | 2024-10-18 |  |
 | [El Mundo Será Nuestro](https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K) | [Glas](https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch) | [El Mundo Será Nuestro](https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX) | 4:38 | 2023-09-08 | 2024-10-19 |
+| [Elástico](https://open.spotify.com/track/3ApFiXaRRWgDboSybvH7Ii) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Elástico](https://open.spotify.com/album/22polaq69EdC1tuOBjglxI) | 3:15 | 2025-06-06 |  |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2023-09-08 |  |
 | [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 | 2024-02-29 | 2024-10-19 |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-09-08 |  |
@@ -133,6 +134,7 @@
 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 | 2024-01-12 | 2024-10-19 |
 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 | 2025-03-14 |  |
 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 | 2023-12-07 | 2024-10-19 |
+| [Putita Boutique](https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Putita Boutique \(feat\. TAICHU\)](https://open.spotify.com/album/2Zl0muZNPDJtNGWrEXauDL) | 2:21 | 2025-06-06 |  |
 | [Quemo la Estrella](https://open.spotify.com/track/2x2sn2NCMhrsE9mIzJPtek) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA) | [Quemo la Estrella](https://open.spotify.com/album/0x0EqxJq11eOJey3L3ShiI) | 3:33 | 2024-10-18 |  |
 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 | 2023-09-08 | 2024-10-19 |
 | [Qué Bueno Que Llegaste](https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Qué Bueno Que Llegaste](https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY) | 4:35 | 2024-02-22 |  |

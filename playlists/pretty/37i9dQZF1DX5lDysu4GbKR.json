@@ -1,13 +1,45 @@
 {
-  "description": "Stripped back vibes. Cover: Gaidaa",
-  "num_followers": 611727,
+  "description": "Stripped back vibes. Cover: Cynthia Erivo",
+  "num_followers": 611734,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCbUnQAAAABM/saAriRdbmTz7GvmT8NG",
+  "snapshot_id": "AAAAAMIFIvz05qsBKC7kygI48kPyhaGb",
   "tracks": [
+    {
+      "added_at": "2025-06-06 06:40:55",
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 273132,
+      "name": "More Than Twice",
+      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
+    },
+    {
+      "added_at": "2025-06-06 14:58:17",
+      "album": {
+        "name": "Free (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4Od7QH0SgdhW7R4KMsdlrh"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Free - Acoustic Version",
+      "url": "https://open.spotify.com/track/2Rn92MnXejzNAoVU74nm2F"
+    },
     {
       "added_at": "2025-05-09 16:34:54",
       "album": {

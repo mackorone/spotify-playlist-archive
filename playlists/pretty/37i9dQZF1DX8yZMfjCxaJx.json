@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 212145,
+  "num_followers": 212281,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "El Plumas",
         "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 150528,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Jalense la Gre\u00f1a",
-        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "El Gerry",
-      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Los Brothers",
         "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 213442,
       "name": "Los Brothers",
       "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "El Gerry",
+      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "La G\u00fcera y La Morena",
         "url": "https://open.spotify.com/album/3iUNVJ2MkizmsYYeTBxSTx"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -907,22 +923,6 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "EXOTIC\u00d3N",
         "url": "https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 158493,
       "name": "EXOTIC\u00d3N",
       "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 338511,
-      "name": "Promesa Cumplida",
-      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Desde La Prisi\u00f3n 19",
         "url": "https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 175583,
       "name": "Desde La Prisi\u00f3n 19",
       "url": "https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "La Belikada",
-        "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 153106,
-      "name": "La Belikada",
-      "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "El 7 Tito Beltr\u00e1n",
         "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
       },
@@ -1663,6 +1643,30 @@
       "duration_ms": 247944,
       "name": "El 7 Tito Beltr\u00e1n",
       "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
+        "name": "La Cruda Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "El Panu (En Vivo)",
+      "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
     },
     {
       "added_at": "2025-03-28 18:15:05",
@@ -1699,26 +1703,22 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "La Cruda Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
+        "name": "La Belikada",
+        "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         },
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 157966,
-      "name": "El Panu (En Vivo)",
-      "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
+      "duration_ms": 153106,
+      "name": "La Belikada",
+      "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
     },
     {
       "added_at": "2025-03-28 18:15:05",

@@ -1,13 +1,29 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 29974,
+  "num_followers": 29985,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAA2+2p1+WSKwrtwrbkM1SwL",
+  "snapshot_id": "aEDeAAAAAABQL8+LLgO9U1nxEAiQTdwn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2P1HY1xrchi0lvhyEfyi1V"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 217121,
+      "name": "Compadre",
+      "url": "https://open.spotify.com/track/4v6T7dXpZPyXafu6Pl66VN"
+    },
     {
       "added_at": null,
       "album": {
@@ -203,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Despues de Ti",
-      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
+      "duration_ms": 300982,
+      "name": "Me Matar\u00e1 El Sentimiento",
+      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
     },
     {
       "added_at": null,
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300982,
-      "name": "Me Matar\u00e1 El Sentimiento",
-      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
+      "duration_ms": 205493,
+      "name": "Despues de Ti",
+      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Ed Sheeran
 
-1,126 songs - 2 day 8 hr 49 min
+1,127 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,6 +994,7 @@
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-01 | 2025-05-30 |
 | [The Way I Want It](https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [The Way I Want It](https://open.spotify.com/album/273PYkxoYVyKhsNdKnNyiT) | 2:13 | 2024-06-28 | 2024-07-05 |
 | [The Way It Was Before \(End Credits Version\)](https://open.spotify.com/track/4v0cLvqKksdCSZrFVDO9PB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [The Way It Was Before \(End Credits Version\) \[From the Netflix film by Skydance Animation "Spellbound"\]](https://open.spotify.com/album/60hiESggNyRXv4japokeyn) | 3:46 | 2024-11-14 | 2024-12-13 |
+| [The World's Greatest Overthinker](https://open.spotify.com/track/3JGWh1Udf8vf0KlGCKh0bo) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn), [Jordan Haller](https://open.spotify.com/artist/4pQMz0SruViBNcmoS3xoNz) | [The World's Greatest Overthinker](https://open.spotify.com/album/5RynNHIBMJriY2X3KI7QtQ) | 3:03 | 2025-06-06 |  |
 | [Thee Unknown](https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 3:24 | 2024-09-19 | 2024-10-18 |
 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-05-15 |  |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-10-31 | 2024-11-22 |

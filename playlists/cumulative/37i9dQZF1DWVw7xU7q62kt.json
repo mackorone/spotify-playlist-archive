@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 125926,
       "name": "Behind The Moon",
       "url": "https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI"
@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 118000,
       "name": "Final Cut",
       "url": "https://open.spotify.com/track/6GR7dWU8WAa4wzrN8gcWma"
@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 170269,
       "name": "Hasta Siempre",
       "url": "https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2"
@@ -4746,7 +4746,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 138471,
       "name": "Jetlag",
       "url": "https://open.spotify.com/track/2vdTowOY0bym0sUF4Qc6G8"
@@ -5324,7 +5324,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "lemon tree",
       "url": "https://open.spotify.com/track/71qHrRlWDAN4SJFPPEaUAK"
@@ -5378,7 +5378,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 94605,
       "name": "Let's Play",
       "url": "https://open.spotify.com/track/3fLZip8P4stvAB1XxeT4jV"
@@ -5977,6 +5977,28 @@
     },
     {
       "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/5ideol9Vlwaj7p8g0H31za"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121395,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/3pKMgBB1ekswonKouOA9Vq"
+    },
+    {
+      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/08Y9RaMwqw9G2kv9xW7NZU"
       },
@@ -6262,7 +6284,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 111711,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6ich2rsYphd2p6Bp8mRpw8"
@@ -7316,7 +7338,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 126428,
       "name": "parandrus",
       "url": "https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP"
@@ -7766,6 +7788,28 @@
       "duration_ms": 120888,
       "name": "Recourse",
       "url": "https://open.spotify.com/track/51WCLrFoBdD7ZBHKTYQ470"
+    },
+    {
+      "album": {
+        "name": "Remembering Tomorrow",
+        "url": "https://open.spotify.com/album/1afTL7c0n7uiUUovpFBcrG"
+      },
+      "artists": [
+        {
+          "name": "Whilst",
+          "url": "https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Remembering Tomorrow",
+      "url": "https://open.spotify.com/track/2ul7CG2AoTwMBjJbozQmTK"
     },
     {
       "album": {
@@ -8514,7 +8558,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 91976,
       "name": "so lovely",
       "url": "https://open.spotify.com/track/4puUYXaqELXLsQzmKdoO6v"
@@ -9288,7 +9332,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 139636,
       "name": "Sunday Swing",
       "url": "https://open.spotify.com/track/4XJyLqHI1dia3lg4S3yRPo"
@@ -10752,7 +10796,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 150736,
       "name": "Verdant",
       "url": "https://open.spotify.com/track/2HWjYlDWKuAF9KWxwLPXBB"
@@ -11082,7 +11126,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 140816,
       "name": "What If",
       "url": "https://open.spotify.com/track/4nF4pM4QjUdggBFVf2h67C"

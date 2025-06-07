@@ -2,9 +2,9 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Las canciones de pop más exitosas en México\. Shakira & Alejandro Sanz en portada.
+> Las canciones de pop más exitosas en México\. Esteman y Daniela Spalla en portada.
 
-733 songs - 1 day 15 hr 21 min
+734 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2024-03-23 |
 | [CORAZONES ROTOS](https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [CORAZONES ROTOS](https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4) | 3:50 | 2023-01-17 | 2023-02-04 |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-03-22 | 2024-06-08 |
-| [Corazón en Coma](https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corazón en Coma](https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k) | 2:52 | 2024-05-17 |  |
+| [Corazón en Coma](https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corazón en Coma](https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k) | 2:52 | 2024-05-17 | 2025-06-07 |
 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 | 2022-08-19 | 2022-09-24 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-23 | 2023-09-30 |
 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v) | 3:15 | 2024-08-30 | 2024-09-07 |
@@ -190,7 +190,7 @@
 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 | 2025-01-31 | 2025-03-01 |
 | [Dicen en mi Barrio](https://open.spotify.com/track/1JuPGhXphzWrADfz8ZtO4f) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 3:03 | 2024-05-10 | 2024-06-08 |
 | [Digan Lo Que Digan](https://open.spotify.com/track/3fVCHWVR5B1iCs4srsl0Sz) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Digan Lo Que Digan](https://open.spotify.com/album/7F7LlmCuhON4gIRgJuIkAe) | 3:29 | 2022-09-23 | 2023-02-18 |
-| [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 | 2025-05-02 |  |
+| [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 | 2025-05-02 | 2025-06-07 |
 | [Dime Que Sí](https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Dime Que Sí](https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs) | 4:34 | 2022-02-18 | 2022-08-27 |
 | [Dime Quién](https://open.spotify.com/track/2O37D0PuPoRrL657rdpnLk) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 2:30 | 2024-05-17 | 2024-07-27 |
 | [DIME QUIÉN????](https://open.spotify.com/track/186Mx1PHhT87YfoBCV93Wx) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 2:44 | 2022-11-25 | 2023-01-17 |
@@ -213,6 +213,7 @@
 | [Dámelo](https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dámelo](https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC) | 3:03 | 2023-09-08 | 2023-09-24 |
 | [Déjalo En Visto](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 | 2023-06-30 | 2023-08-12 |
 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 | 2024-05-24 | 2024-07-06 |
+| [El Acuerdo](https://open.spotify.com/track/5656uNhek3iuoACMKIuoLN) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [El Acuerdo](https://open.spotify.com/album/7GSC7VQVLMHqSvllZrcS6L) | 3:25 | 2025-06-06 |  |
 | [El Amigo](https://open.spotify.com/track/0MoIJDuJ2Q7XphYMIxWvRB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [El Amigo](https://open.spotify.com/album/6OySc3pqPzPDePgD017baK) | 3:09 | 2025-03-21 |  |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-08-25 | 2024-04-19 |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-04 |  |

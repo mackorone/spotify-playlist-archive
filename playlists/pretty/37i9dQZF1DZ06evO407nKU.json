@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53669,
+  "num_followers": 53680,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACqop0nElsyOWnylc0VcKlH",
+  "snapshot_id": "aEDeAAAAAAD/T0Qme2sl/8cjfgE95iWd",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Doble S",
-          "url": "https://open.spotify.com/artist/0iGURLngDC4AjEKaAmF1LF"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Doble S",
+          "url": "https://open.spotify.com/artist/0iGURLngDC4AjEKaAmF1LF"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142849,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Mi Sueno Seria",
-      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
+      "duration_ms": 142849,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Mi Sueno Seria",
+      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dariel Party, Vol 1.",
+        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 192086,
+      "name": "Siempre A Tu Lado (En Vivo)",
+      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
     },
     {
       "added_at": null,
@@ -795,26 +815,6 @@
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dariel Party, Vol 1.",
-        "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 192086,
-      "name": "Siempre A Tu Lado (En Vivo)",
-      "url": "https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Perdidos Que Nunca",
-        "url": "https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 249789,
-      "name": "El Signo Libra",
-      "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol 1.",
         "url": "https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 243885,
       "name": "Conv\u00e9nceme (En Vivo)",
       "url": "https://open.spotify.com/track/4rrY9i7GRZrBi4bcBaC2BU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Perdidos Que Nunca",
+        "url": "https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 249789,
+      "name": "El Signo Libra",
+      "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
     },
     {
       "added_at": null,

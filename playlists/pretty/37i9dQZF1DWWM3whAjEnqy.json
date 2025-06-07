@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 1097,
+  "num_followers": 1104,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 195324,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "After Hours, Close To Dawn",
-        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
-      },
-      "artists": [
-        {
-          "name": "Kingswood",
-          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 201706,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "After Hours, Close To Dawn",
+        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
+      },
+      "artists": [
+        {
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
     },
     {
       "added_at": "2023-11-15 02:04:48",

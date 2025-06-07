@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159512,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
+    },
+    {
+      "album": {
         "name": "Clueless",
         "url": "https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp"
       },
@@ -2846,6 +2864,24 @@
       "duration_ms": 141211,
       "name": "Drive It",
       "url": "https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb"
+    },
+    {
+      "album": {
+        "name": "Driving Me Wild",
+        "url": "https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Driving Me Wild",
+      "url": "https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU"
     },
     {
       "album": {

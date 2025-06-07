@@ -5291,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/3pwzFBsourkBycBuMII9qE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Barret",
+          "url": "https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257060,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1Qeikj2UVp0D7j1GY0ElIY"
+    },
+    {
+      "album": {
         "name": "Duets (30th Anniversary)",
         "url": "https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C"
       },

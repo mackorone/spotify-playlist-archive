@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 268708,
+  "num_followers": 268878,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -503,22 +523,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 279333,
-      "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -539,22 +555,6 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 225000,
       "name": "Como Tu Mujer (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Necesito Una Compa\u00f1era",
-        "url": "https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Los Contacto",
-          "url": "https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Necesito Una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -1195,22 +1175,6 @@
       "duration_ms": 229733,
       "name": "C\u00f3mo Me Duele Irte Perdiendo",
       "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Mi Eterno Amor Secreto (En Vivo)",
-        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 233728,
-      "name": "Mi Eterno Amor Secreto (En Vivo)",
-      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1231,6 +1195,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Mi Eterno Amor Secreto (En Vivo)",
+        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 233728,
+      "name": "Mi Eterno Amor Secreto (En Vivo)",
+      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 215000,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Necesito Una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Los Contacto",
+          "url": "https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Necesito Una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Ya No Te Vayas",
-      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 193000,
       "name": "Presiento Que Voy A LLorar",
       "url": "https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Ya No Te Vayas",
+      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
     },
     {
       "added_at": "2025-01-23 17:30:18",

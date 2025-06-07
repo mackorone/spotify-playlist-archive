@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Aaduthan pidi",
+        "url": "https://open.spotify.com/album/5ynvym2YELcl8gdNzQgC0F"
+      },
+      "artists": [
+        {
+          "name": "Bhraandan",
+          "url": "https://open.spotify.com/artist/42jvGGIqzYvTjLlgPDVoCD"
+        },
+        {
+          "name": "DCee\u2206",
+          "url": "https://open.spotify.com/artist/0Nal49kRLweGNpqvj4fFp0"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132019,
+      "name": "Aaduthan pidi",
+      "url": "https://open.spotify.com/track/5tgCKQ8LWZyo5XjarHKxQa"
+    },
+    {
+      "album": {
         "name": "Aana",
         "url": "https://open.spotify.com/album/3y4I3MczKrYz9YEncRBBEZ"
       },
@@ -844,6 +866,28 @@
       "duration_ms": 133333,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X"
+    },
+    {
+      "album": {
+        "name": "Beast",
+        "url": "https://open.spotify.com/album/4nFj0Z4Crs1Lj4ZpptKQAY"
+      },
+      "artists": [
+        {
+          "name": "AK Hash",
+          "url": "https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9"
+        },
+        {
+          "name": "Azer farzy",
+          "url": "https://open.spotify.com/artist/1Ypyejd2CL9WwdQZaLIjeC"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/7w2ZVADrOEzrh58MUojP0W"
     },
     {
       "album": {
@@ -1658,7 +1702,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 194303,
       "name": "Drill Sanskar",
       "url": "https://open.spotify.com/track/7Ky9e5Cax488vMTOGLZA4T"
@@ -2313,6 +2357,28 @@
     },
     {
       "album": {
+        "name": "Kaalam",
+        "url": "https://open.spotify.com/album/4xnsg2WPxrJqFDgOMTzasY"
+      },
+      "artists": [
+        {
+          "name": "Xcro",
+          "url": "https://open.spotify.com/artist/7oSfvcQRkVViXu1ptM20nz"
+        },
+        {
+          "name": "Arun Bhasker",
+          "url": "https://open.spotify.com/artist/2rgLYoaezRdyY5a73Gbfl6"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140997,
+      "name": "Kaalam",
+      "url": "https://open.spotify.com/track/7HhYS5zqDk5iSvFMkstE1k"
+    },
+    {
+      "album": {
         "name": "Methi, Pt. 1",
         "url": "https://open.spotify.com/album/44bdtCuOHWHzTDojk6EGJm"
       },
@@ -2464,7 +2530,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 229735,
       "name": "KACHERI",
       "url": "https://open.spotify.com/track/2sKsxT1TtBmEyE1BboqZ6E"
@@ -3867,6 +3933,36 @@
     },
     {
       "album": {
+        "name": "MARJARA MANTHRAM",
+        "url": "https://open.spotify.com/album/3vVkDUXdypnfeN7t23G0dF"
+      },
+      "artists": [
+        {
+          "name": "S Dee",
+          "url": "https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt"
+        },
+        {
+          "name": "Hiphop JB",
+          "url": "https://open.spotify.com/artist/58MN2gwmEvgqAECH1yKX5I"
+        },
+        {
+          "name": "ABX",
+          "url": "https://open.spotify.com/artist/1sZhhWVSSFy1hSUeNkWZQp"
+        },
+        {
+          "name": "Boomtroz",
+          "url": "https://open.spotify.com/artist/10GD7XYTVafmH82WAzSsjd"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "MARJARA MANTHRAM",
+      "url": "https://open.spotify.com/track/4vtwy9qWhdiSc4Eb6z3Xcg"
+    },
+    {
+      "album": {
         "name": "Marpapa (From \"Marco\")",
         "url": "https://open.spotify.com/album/1zy7mSPHWA8o9XJQG5em9D"
       },
@@ -4936,7 +5032,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 180000,
       "name": "Pacha Paara Kallu",
       "url": "https://open.spotify.com/track/1oC7SzREM0hH1xX0QIGCKS"
@@ -7232,7 +7328,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 162857,
       "name": "Veri",
       "url": "https://open.spotify.com/track/1JpXGQStxGBkoYWy9GAvGK"

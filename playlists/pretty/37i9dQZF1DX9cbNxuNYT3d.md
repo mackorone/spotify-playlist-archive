@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,928 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,986 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Adore](https://open.spotify.com/track/5z44PxNBSF4Bd50jE5K6Mb) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 7:02 |
 | 50 | [Fallin' in love](https://open.spotify.com/track/5yBiLaIDL1pwwNli16MGka) | [Shazz](https://open.spotify.com/artist/3WXF9fqBHmKBirvFxGDvCe), [Alec.C](https://open.spotify.com/artist/0gXUvA4KDtIsJBSA1MQWQM) | [In The Light](https://open.spotify.com/album/4qwOZy8ImMsBk8Z3MZ8Mja) | 5:12 |
 
-Snapshot ID: `Z5OfqQAAAABuneo9b+TiRWgpIdDJnGUt`
+Snapshot ID: `AAAAAGkFz5G+mhU5ZV034EHm5r1wN+Qi`

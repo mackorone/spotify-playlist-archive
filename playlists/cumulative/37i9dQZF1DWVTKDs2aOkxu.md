@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Ethel Cain
 
-530 songs - 1 day 7 hr 19 min
+531 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [gossip](https://open.spotify.com/track/6NqpS02dRJVerrl1BK2Vpg) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [gossip](https://open.spotify.com/album/1dA49LMqVRHNHkLYqDlCdF) | 3:47 | 2024-11-22 | 2025-03-14 |
 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 | 2025-01-17 | 2025-02-21 |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-05-15 | 2025-06-06 |
+| [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 | 2025-06-06 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 | 2024-08-09 |
 | [Gut Punch Love](https://open.spotify.com/track/1qzgtjh0waCwTb1sW9tVQn) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Gut Punch Love](https://open.spotify.com/album/1bkhDhgBqTsNI6rrwGNWZT) | 2:59 | 2024-09-20 | 2024-11-29 |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-17 | 2025-04-11 |
@@ -520,7 +521,7 @@
 | [When I Wake Up I'm Sad](https://open.spotify.com/track/5xT3wvyIlD1H2pxAJjMYTV) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [When I Wake Up I'm Sad](https://open.spotify.com/album/1KS7kJbZUASitLCrZ3vnbG) | 4:27 | 2024-11-15 | 2025-02-07 |
 | [Where I Left Us](https://open.spotify.com/track/7lK2E3l1hckTDxfbGxHr6z) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Where I Left Us](https://open.spotify.com/album/7jUP9aI7MfsViyidFLjnLI) | 3:03 | 2024-07-25 | 2024-10-04 |
 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 | 2025-06-05 |  |
-| [White Male Privilege](https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s) | 3:49 | 2025-05-16 |  |
+| [White Male Privilege](https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s) | 3:49 | 2025-05-16 | 2025-06-07 |
 | [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 | 2025-01-24 | 2025-03-21 |
 | [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 | 2025-03-14 | 2025-05-23 |
 | [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-06-27 | 2024-07-19 |

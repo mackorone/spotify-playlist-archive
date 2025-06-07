@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Jakkie Louw, Jay, Taye, Ziané Saaymanen meer!
 
-1,771 songs - 4 day 2 hr 24 min
+1,772 songs - 4 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Ek lewe vir jou](https://open.spotify.com/track/1tEVgXzrRNIe4J3xzy6Izs) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG), [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn) | [Ek lewe vir jou](https://open.spotify.com/album/4ovtRB8cs8YCXdxZ2MB7UN) | 4:26 | 2024-02-08 | 2024-03-01 |
 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 | 2022-09-15 | 2022-12-02 |
 | [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-02 | 2023-04-21 |
+| [Ek Maak Jou Myne](https://open.spotify.com/track/5CY5qdpzA0DVI9imAcGzwW) | [Hugh Lynn](https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w) | [Ek Maak Jou Myne](https://open.spotify.com/album/6wWIVWH6W1Ait8IdiyrL7S) | 2:49 | 2025-06-06 |  |
 | [Ek Mis Jou \- Remix](https://open.spotify.com/track/2usZ51LNLgkrlTxNjLiLBu) | [Rohan Britz](https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo) | [Ek Mis Jou \(Remix\)](https://open.spotify.com/album/3um8Q9pJybmjzkgZ8EWvFc) | 3:35 | 2024-02-22 | 2024-03-22 |
 | [Ek Moes Dit Gesê Het](https://open.spotify.com/track/4SPkoOxB7YapvdbghtccTl) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Ek Moes Dit Gesê Het](https://open.spotify.com/album/5lucuqI53Ku3ukgOCy3PAg) | 4:07 | 2023-05-11 | 2023-06-17 |
 | [Ek Probeer](https://open.spotify.com/track/1ixBQMO19n3eXRsSgaQFR2) | [Klasie](https://open.spotify.com/artist/32AROwpHlhY44s9vp081Yd) | [Ek Probeer](https://open.spotify.com/album/5u4FmVgNASBkqlvtDspwi6) | 3:13 | 2023-09-07 | 2023-09-22 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-274 songs - 15 hr 55 min
+275 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,8 @@
 | [Victorious](https://open.spotify.com/track/7q3dr26d1GjDvqSdtVaaMA) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 3:16 | 2024-03-07 |  |
 | [Wait for love](https://open.spotify.com/track/2ncrUmm8ClzbvOnsyaTACm) | [Nicky Blitz](https://open.spotify.com/artist/1auEXVjtAE1Q22jdOmeYcq) | [Hawk EP Enhanced](https://open.spotify.com/album/3e6VAyayA9bzvrwOTHc6UC) | 1:55 | 2024-03-07 |  |
 | [Wait On Me](https://open.spotify.com/track/6CLx4X6ovfxFwcBbr5vv59) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Let The Road](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) | 3:57 | 2024-03-07 |  |
-| [Waiting For You](https://open.spotify.com/track/5Ifce5KgdKucElJ6uZO7id) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/54cPFFV6YaShr1ptMhfU1Z) | 3:29 | 2024-08-17 |  |
+| [Waiting For You](https://open.spotify.com/track/5Ifce5KgdKucElJ6uZO7id) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/54cPFFV6YaShr1ptMhfU1Z) | 3:29 | 2024-08-17 | 2025-06-07 |
+| [Waiting For You](https://open.spotify.com/track/6gsF4DOkIBLhvrfRYL1M5G) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:29 | 2025-06-06 |  |
 | [Waking Up](https://open.spotify.com/track/0CRR2E9z9q7plwppNYZoQg) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Waking Up](https://open.spotify.com/album/67dz58Oxf79j69TS8RPej9) | 4:00 | 2024-03-07 |  |
 | [Walking On The Stars](https://open.spotify.com/track/1tzZb7tlJq0K1PjgoZWobX) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Flying Machines](https://open.spotify.com/album/1OsnCpUBHZO95dN9vOefuz) | 4:01 | 2024-03-07 |  |
 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 | 2024-03-07 |  |

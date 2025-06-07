@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Son of the San Lorenzo",
+        "url": "https://open.spotify.com/album/0KTfVCtu9uZM8aDtzexZp5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Daniel",
+          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293846,
+      "name": "Son Of The San Lorenzo",
+      "url": "https://open.spotify.com/track/2TQ41pQc8mP9ECyjeyc7Uz"
+    },
+    {
+      "album": {
         "name": "SKIN",
         "url": "https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Drake, Lil Tecca, The Weeknd, Playboi Carti and Doechii.",
+  "description": "Today's Hip-Hop with Lil Wayne, Lil Yachty, Drake, Lil Tecca and Key Glock.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -2772,6 +2772,24 @@
       "duration_ms": 147469,
       "name": "Beep Beep (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC"
+    },
+    {
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb"
     },
     {
       "album": {
@@ -6894,7 +6912,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 264790,
       "name": "DOLLAR menu",
       "url": "https://open.spotify.com/track/4uSaaHuvtIo1qIdWgsX4AH"
@@ -12978,7 +12996,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 159428,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR"
@@ -15028,7 +15046,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 157056,
       "name": "LUV? (feat. Anne-Marie)",
       "url": "https://open.spotify.com/track/4kSXfaTJzXGkEdGBQBl0MB"
@@ -16346,6 +16364,24 @@
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
     },
     {
       "album": {
@@ -22374,7 +22410,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 202500,
       "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
       "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"
@@ -23502,6 +23538,32 @@
       "duration_ms": 168580,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP"
     },
     {
       "album": {
@@ -27888,7 +27950,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 194095,
       "name": "WRK",
       "url": "https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY"

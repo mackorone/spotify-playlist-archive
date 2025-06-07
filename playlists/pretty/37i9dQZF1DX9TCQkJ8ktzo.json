@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 46212,
+  "num_followers": 46230,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 126096,
-      "name": "Chica Alborotada",
-      "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Cuba y Puerto Rico",
         "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 164986,
       "name": "La Guarachera",
       "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 126096,
+      "name": "Chica Alborotada",
+      "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
         "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 126226,
       "name": "El d\u00eda de los enamorados (remastered)",
       "url": "https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
       "added_at": "2024-04-25 04:43:45",

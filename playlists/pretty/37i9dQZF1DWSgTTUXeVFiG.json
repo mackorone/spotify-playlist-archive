@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 26090,
+  "num_followers": 26138,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
+        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 343266,
+      "name": "Un Verano en Nueva York - Live Version",
+      "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 485093,
       "name": "Tito Nieves Medley (Sonambulo / El Amor M\u00e1s Bonito / Almohada) - Live",
       "url": "https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
-        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 343266,
-      "name": "Un Verano en Nueva York - Live Version",
-      "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
     },
     {
       "added_at": "2024-09-24 20:35:55",

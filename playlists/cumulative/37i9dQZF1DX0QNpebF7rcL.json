@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/49LQVLiUGTJG21hla3nYhe"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262563,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/4INNhdZ6nnLhWVLflVWqfC"
+    },
+    {
+      "album": {
         "name": "Open Road",
         "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
       },
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 311013,
       "name": "Don't Get Me Started (with Steve Winwood)",
       "url": "https://open.spotify.com/track/6iji2KRmhPBorFa54KBLBa"
@@ -4682,7 +4700,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 316960,
       "name": "Look What I\u2019ve Become",
       "url": "https://open.spotify.com/track/2YjMliKzi6Ywcj1DhtPmxM"
@@ -4798,6 +4816,24 @@
       "duration_ms": 293400,
       "name": "Love Letter To The Blues - Bonus Track",
       "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
+    },
+    {
+      "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/0SCMk54z5JDLBYKXy6wbXT"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302146,
+      "name": "Love Lives Here",
+      "url": "https://open.spotify.com/track/12DquyXLBUV1fWw47GCHLI"
     },
     {
       "album": {
@@ -7100,7 +7136,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 255989,
       "name": "Talkin' To Myself",
       "url": "https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs"
@@ -8210,6 +8246,28 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
+    {
+      "album": {
+        "name": "Walk This Road (feat. Mavis Staples)",
+        "url": "https://open.spotify.com/album/17rXAvVnX0Anzzm1iFX3d3"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217158,
+      "name": "Walk This Road (feat. Mavis Staples)",
+      "url": "https://open.spotify.com/track/7psdAltFoyCXCjqW94T7zE"
     },
     {
       "album": {

@@ -1,33 +1,13 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 31538,
+  "num_followers": 31621,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABzf9BbLSJ5GOHjU+kao4PL",
+  "snapshot_id": "aEDeAAAAAABsvXbHLuR59lj23Mc5Tyh4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Had To Be There (feat. Kenny Chesney)",
-        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 220157,
-      "name": "You Had To Be There (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Had To Be There (feat. Kenny Chesney)",
+        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 220157,
+      "name": "You Had To Be There (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
       },
@@ -75,22 +75,6 @@
       "duration_ms": 222139,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Am I Okay? (I'll Be Fine)",
-        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 163633,
-      "name": "Bless Your Heart",
-      "url": "https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg"
     },
     {
       "added_at": null,
@@ -127,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 163633,
+      "name": "Bless Your Heart",
+      "url": "https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
@@ -139,22 +139,6 @@
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Am I Okay? (I'll Be Fine)",
-        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 214670,
-      "name": "Break It Right Back",
-      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
     },
     {
       "added_at": null,
@@ -191,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "Break It Right Back",
+      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
@@ -207,26 +207,6 @@
       "duration_ms": 199383,
       "name": "Fix You Too (feat. Kameron Marlowe)",
       "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 211730,
-      "name": "Ain't Nothing 'Bout You (with Megan Moroney)",
-      "url": "https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5"
     },
     {
       "added_at": null,
@@ -263,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 211730,
+      "name": "Ain't Nothing 'Bout You (with Megan Moroney)",
+      "url": "https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 191189,
       "name": "Nothin\u2019 Crazy (feat. Mackenzie Carpenter)",
       "url": "https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Am I Okay? (I'll Be Fine)",
-        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 220695,
-      "name": "I'll Be Fine",
-      "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 220695,
+      "name": "I'll Be Fine",
+      "url": "https://open.spotify.com/track/7r0EPhlEkkKzdLJyPw1wFz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/4Na8o82wKItDTndJr2Iyu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Are You Listening To?",
-        "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 251479,
-      "name": "What Are You Listening To?",
-      "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 161042,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Are You Listening To?",
+        "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 251479,
+      "name": "What Are You Listening To?",
+      "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
     },
     {
       "added_at": null,

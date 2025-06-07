@@ -2,7 +2,7 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative & rock releases\. Cover: White Lies
+> Nieuwe alternative & rock releases\. Cover: shame
 
 454 songs - 1 day 2 hr 24 min
 

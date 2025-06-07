@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 143652,
+  "num_followers": 143703,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "...But Seriously",
         "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 229746,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "A Night At The Opera",
-        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life",
-      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
     },
     {
       "added_at": "2024-06-14 18:07:20",

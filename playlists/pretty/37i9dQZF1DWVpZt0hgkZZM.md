@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,104 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,123 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 25 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 |
 | 26 | [Loquito por Ti](https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:47 |
 | 27 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
-| 28 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
-| 29 | [Mar de Emociones](https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Grandes de la Cumbia Tropical](https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC) | 3:32 |
+| 28 | [Mar de Emociones](https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Grandes de la Cumbia Tropical](https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC) | 3:32 |
+| 29 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
 | 30 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 31 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 |
 | 32 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 87 | [Bebiendo y Llorando](https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:55 |
 | 88 | [Oye](https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:09 |
 | 89 | [Los Charcos](https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 5:01 |
-| 90 | [Charanga Campesina](https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 2:38 |
-| 91 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
+| 90 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
+| 91 | [Charanga Campesina](https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 2:38 |
 | 92 | [Quiéreme, Quiéreme](https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22) | [Chico Cervantes Y Su Banda](https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8), [Pacho Tobío y Chico](https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 5:42 |
 | 93 | [Mil Horas](https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:46 |
 | 94 | [El Ausente](https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 962,
+  "num_followers": 961,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAB3p2Cu7a0PNuPxYQQVfeHH",
+  "snapshot_id": "aEDeAAAAAAAIqsuA7VKHeZwc5gkRQD/G",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Up (I've Had Enough)",
-        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 191533,
-      "name": "It'll All Work Out",
-      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
+      "duration_ms": 250520,
+      "name": "Something Good Coming",
+      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Let Me Up (I've Had Enough)",
+        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 250520,
-      "name": "Something Good Coming",
-      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+      "duration_ms": 191533,
+      "name": "It'll All Work Out",
+      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Nightwatchman",
-      "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Live Anthology",
         "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 169893,
       "name": "Alright for Now - Live",
       "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Nightwatchman",
+      "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
     },
     {
       "added_at": null,

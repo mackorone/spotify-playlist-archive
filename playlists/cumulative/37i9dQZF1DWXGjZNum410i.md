@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las canciones pop para toda la familia!
 
-179 songs - 9 hr 38 min
+180 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-09-08 | 2024-03-16 |
 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 | 2023-03-22 | 2024-02-17 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2024-02-22 |  |
-| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2023-05-27 |  |
+| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2023-05-27 | 2025-06-07 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 | 2024-11-29 | 2025-04-11 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-03-15 |  |
 | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V) | 2:42 | 2020-04-30 | 2022-07-03 |
@@ -166,6 +166,7 @@
 | [Ten Cuidado \- Pokémon 25 Version](https://open.spotify.com/track/4uLab51Ta0UtztqjonLs8j) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Pokémon 25: The Album](https://open.spotify.com/album/6UZE5G4Iu75KIsMcAswDrm) | 2:37 | 2021-12-06 | 2022-07-23 |
 | [Ten Cuidado \- Pokémon 25 Version](https://open.spotify.com/track/7F7WgxCXMIjjMS32HX94sb) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ten Cuidado \(Pokémon 25 Version\)](https://open.spotify.com/album/5ueiNMYBX3iBZcu1I3yD4f) | 2:37 | 2021-10-15 | 2022-07-14 |
 | [Tic Tac](https://open.spotify.com/track/4HLqqfytUOYBESkCvZQup9) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Grandes Éxitos](https://open.spotify.com/album/40ibA4EEknEKKs9yQjNsSM) | 2:29 | 2020-04-22 | 2022-07-29 |
+| [Tik Tok](https://open.spotify.com/track/0hnZBJrL2YIpLX0E3Bc9Us) | [Kardenas HK3](https://open.spotify.com/artist/3tmacOSHtx3qPuLzpo54Y5) | [Tik Tok](https://open.spotify.com/album/7s8q0JJIToRswzmlwpzs6w) | 2:51 | 2025-06-06 |  |
 | [Todo de Ti](https://open.spotify.com/track/5yLHW8TGZihPwravJTTrgu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Todo de Ti](https://open.spotify.com/album/22OaXBrC2e3CrQ5Cgp6m2L) | 2:31 | 2021-09-20 | 2022-07-29 |
 | [Todo En Mi Vida](https://open.spotify.com/track/1eQI12dVlkE9HOuiNB5sRq) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:24 | 2020-04-22 | 2022-07-27 |
 | [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-15 | 2024-06-22 |

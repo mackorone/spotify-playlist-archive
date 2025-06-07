@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: Patricia Wolf",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. On cover: Brian Eno & Beatie Wolfe",
   "name": "New Ambient",
   "tracks": [
     {
@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Eagle Rock, March 21st",
+        "url": "https://open.spotify.com/album/1M5s83rhV9NzmIX7fIXazS"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319739,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0lU68D5QYhaxcaqXKRniSq"
+    },
+    {
+      "album": {
         "name": "Agalma",
         "url": "https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6"
       },
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 358266,
       "name": "Artificial Infinity",
       "url": "https://open.spotify.com/track/4zdRT42hpO5OsXAgizZ3xk"
@@ -2352,6 +2370,28 @@
       "duration_ms": 305691,
       "name": "As I Was - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
+    },
+    {
+      "album": {
+        "name": "As If A Phantom",
+        "url": "https://open.spotify.com/album/7MlHtNNmVzegLkGK7geVJh"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "As If A Phantom",
+      "url": "https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk"
     },
     {
       "album": {
@@ -2834,7 +2874,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 389163,
       "name": "Axis",
       "url": "https://open.spotify.com/track/7ywoDyPnhtAjhcP1Flb0nH"
@@ -2856,6 +2896,24 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "album": {
+        "name": "Baia Degli Angeli",
+        "url": "https://open.spotify.com/album/5EQd8vV3AJ6e69taxxvatz"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270053,
+      "name": "Baia Degli Angeli",
+      "url": "https://open.spotify.com/track/0xQA9pEx6k6eD3rhuCiJBF"
     },
     {
       "album": {
@@ -3257,6 +3315,36 @@
     },
     {
       "album": {
+        "name": "beyond the veil",
+        "url": "https://open.spotify.com/album/6vTjBvfym5oBJV1KF5lxV6"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Owsey",
+          "url": "https://open.spotify.com/artist/6HYyeW4R4oZbUvkjG7t3qH"
+        },
+        {
+          "name": "leadwave",
+          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
+        },
+        {
+          "name": "Dean Korso",
+          "url": "https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "beyond the veil",
+      "url": "https://open.spotify.com/track/7D89udNmJensjptK9CP5Mp"
+    },
+    {
+      "album": {
         "name": "Suddenly/Big Empty Country (Edit)",
         "url": "https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5"
       },
@@ -3272,10 +3360,32 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 254122,
       "name": "Big Empty Country - Edit",
       "url": "https://open.spotify.com/track/4ZTSyUESmod019aAXjf5zU"
+    },
+    {
+      "album": {
+        "name": "Lateral",
+        "url": "https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476372,
+      "name": "Big Empty Country - V",
+      "url": "https://open.spotify.com/track/1MkM8QcfHDjkOFjLxo6tEd"
     },
     {
       "album": {
@@ -3618,7 +3728,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 178620,
       "name": "bluffing in the snow",
       "url": "https://open.spotify.com/track/07Ayk9xbO4XQR2PgLicB3T"
@@ -7954,7 +8064,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 260000,
       "name": "Esrever Ni Rehtaf (Edit)",
       "url": "https://open.spotify.com/track/4i6hJCHPazPlFhKitHRl6Y"
@@ -8730,6 +8840,28 @@
       "duration_ms": 227933,
       "name": "Find Our Way (Arr. Clements)",
       "url": "https://open.spotify.com/track/3atb5tysYdX4HDlUMYtxls"
+    },
+    {
+      "album": {
+        "name": "quilted lament",
+        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Gretchen Korsmo",
+          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408464,
+      "name": "find yourself in a hole on the beach",
+      "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
     },
     {
       "album": {
@@ -14873,6 +15005,24 @@
     },
     {
       "album": {
+        "name": "Model Home Magic Moment",
+        "url": "https://open.spotify.com/album/6DQNsM6luFFJRGniSnHeLu"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139874,
+      "name": "Model Home Magic Moment",
+      "url": "https://open.spotify.com/track/678dGSoSMwzHQslHjHGv3e"
+    },
+    {
+      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/0ybb3fO4tWtCzu4VKieRhL"
       },
@@ -16584,7 +16734,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 211467,
       "name": "off rhythm laughter",
       "url": "https://open.spotify.com/track/0fkQhqblpnW60SS0mYUHbn"
@@ -16620,7 +16770,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 134715,
       "name": "Offload Flip",
       "url": "https://open.spotify.com/track/4ZUrz0NlqXSMnheNUpoe62"
@@ -17180,6 +17330,24 @@
       "duration_ms": 196714,
       "name": "Other Tongues",
       "url": "https://open.spotify.com/track/6qsz4Fn5p4GWdla3N1fU6r"
+    },
+    {
+      "album": {
+        "name": "Desert Window",
+        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327104,
+      "name": "Our Relativity",
+      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
     },
     {
       "album": {
@@ -20405,6 +20573,28 @@
     },
     {
       "album": {
+        "name": "Sentio",
+        "url": "https://open.spotify.com/album/7AH5GFsqDOB0MxjBkZ47kC"
+      },
+      "artists": [
+        {
+          "name": "Rhian Sheehan",
+          "url": "https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT"
+        },
+        {
+          "name": "Arli Liberman",
+          "url": "https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311034,
+      "name": "Sentio",
+      "url": "https://open.spotify.com/track/6CcnKLPKO24iT3kA24XQcY"
+    },
+    {
+      "album": {
         "name": "Play Echoes",
         "url": "https://open.spotify.com/album/5hLbP2i4QeWU8twh9L9u6w"
       },
@@ -21219,6 +21409,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Waving As You Drive Away",
+        "url": "https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Smoked",
+      "url": "https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe"
+    },
+    {
+      "album": {
         "name": "Snow Ball",
         "url": "https://open.spotify.com/album/0b0F3Y7oSYFmbqC4wrquUd"
       },
@@ -21996,7 +22204,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 411480,
       "name": "Stairwell (Before and After)",
       "url": "https://open.spotify.com/track/2SKqYR2b9a8KMoC3oQZ8sS"
@@ -27250,6 +27458,32 @@
       "duration_ms": 227093,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/3Ov9hd59cYEYlgsv1zRjAk"
+    },
+    {
+      "album": {
+        "name": "Yellowed Leaves Drift Down",
+        "url": "https://open.spotify.com/album/2R4mUoqvpts55iUrOPG6lZ"
+      },
+      "artists": [
+        {
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        },
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Asia Dojnikowska",
+          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "Yellowed Leaves Drift Down",
+      "url": "https://open.spotify.com/track/1Thn7RyLmtnZilAzLg1U56"
     },
     {
       "album": {

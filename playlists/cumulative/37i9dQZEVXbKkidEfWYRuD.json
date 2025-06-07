@@ -10820,7 +10820,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -14274,7 +14274,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 109870,
       "name": "ParisLove",
       "url": "https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12"
@@ -14310,7 +14310,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
@@ -15634,7 +15634,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -15652,7 +15652,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -24336,7 +24336,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "\u0414\u0435 \u0431\u0438 \u0434\u0435 \u0431\u0438",
       "url": "https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db"
@@ -28074,7 +28074,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 178857,
       "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q"
@@ -35862,6 +35862,28 @@
       "duration_ms": 124128,
       "name": "\u0448\u043e \u0432\u0438 \u0431\u0440\u0430\u0442\u0442\u044f",
       "url": "https://open.spotify.com/track/0cCXLN9eUn6dmAgDPpZaJV"
+    },
+    {
+      "album": {
+        "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
+        "url": "https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2"
+      },
+      "artists": [
+        {
+          "name": "IVAN LIULENOV",
+          "url": "https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs"
+        },
+        {
+          "name": "DAMNITSKYI",
+          "url": "https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185061,
+      "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
+      "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Nuovi brani di Bresh, Tananai, Sabrina Carpenter, Rhove, Baby Gang, Ed Sheeran, Levante, Emma Nolde e tanti altri.
 
-5,158 songs - 10 day 19 hr 53 min
+5,159 songs - 10 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 | 2024-09-26 | 2024-10-04 |
 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-16 | 2025-01-24 |
 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-05 |  |
+| [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-05 |  |
 | [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 | 2024-08-22 | 2024-08-30 |
 | [All My Ladies](https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [All My Ladies](https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d) | 2:33 | 2024-05-16 | 2024-05-24 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2024-08-16 |
@@ -3706,7 +3707,7 @@
 | [Primadonna](https://open.spotify.com/track/3ntTfeW5DXmBbdFFwcwWKI) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Primadonna](https://open.spotify.com/album/3wEJFU0xhxhT2QgTu9xpEw) | 2:17 | 2024-07-25 | 2024-08-02 |
 | [PRIME](https://open.spotify.com/track/3cr5ZqdN6QCibiNTTyL8dE) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [PRIME](https://open.spotify.com/album/0ERWB9KIipQ0wNXutFGeF0) | 1:52 | 2025-02-06 | 2025-02-14 |
 | [Primo Ministro \(feat\. Vale Pain\)](https://open.spotify.com/track/0XbqUp7qWN5PD3pMtRHWg9) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Primo Ministro \(feat\. Vale Pain\)](https://open.spotify.com/album/4rKJlEEYlpn5CAvDEAw7Qa) | 2:19 | 2024-07-04 | 2024-07-12 |
-| [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-05 |  |
+| [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-05 |  |
 | [Principessa Peach](https://open.spotify.com/track/0delj6KlHvqnuDgVzcOgUC) | [B4BY LYNCE](https://open.spotify.com/artist/7cHtPVKOBg5DDMJCe6rjca) | [Principessa Peach](https://open.spotify.com/album/0eRI479tnHEdW6E6MrpjpF) | 2:43 | 2024-06-06 | 2024-06-14 |
 | [principio](https://open.spotify.com/track/6cq9sfMJP7K5MuoOXQq3Np) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [principio](https://open.spotify.com/album/2aTMtJ3F2OJFsWlclqMC9N) | 2:30 | 2025-01-30 | 2025-02-07 |
 | [Priscilla](https://open.spotify.com/track/0kohaqR08X8cG9yocgbHzx) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [WINDOW](https://open.spotify.com/album/3T7C9Pu9Sf1MuOoQnhtGVW) | 2:48 | 2025-04-03 | 2025-04-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE\*👉 <a href="https://spice.eplus.jp/articles/338296">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,701 likes - 81 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,744 likes - 81 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 76 | [月と太陽BREWING](https://open.spotify.com/track/3KKZ4eg8JNd06GocsJgePj) | [NOIZE](https://open.spotify.com/artist/5qSNCHO1r9WTh9BJKZ9GlZ) | [月と太陽BREWING](https://open.spotify.com/album/3svIeT5LPcAaMMDJq4eVYi) | 1:35 |
 | 77 | [雨に唄えば](https://open.spotify.com/track/5gFGHRJy6GcynqSK8FVSm9) | [Ryubi Miyase](https://open.spotify.com/artist/1zS6Z0i0nNN7cZJoLqmyJk) | [雨に唄えば](https://open.spotify.com/album/1HwQYFmyHxjCeQ2h5K0XF4) | 3:26 |
 | 78 | [フライデー・ナイト・キス](https://open.spotify.com/track/10xT5ycT06GD8slKTZfgTY) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T), [jungwooseok](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V) | [フライデー・ナイト・キス](https://open.spotify.com/album/7EEgXTwVQIMSXHrbAPFDtH) | 3:07 |
-| 79 | [ピンクペッパークランブル](https://open.spotify.com/track/4aSeGF1g3QXFIdBPLILM7P) | [ゴホウビ](https://open.spotify.com/artist/1dnWnuM4xikwmiVxlVYmqq) | [ピンクペッパークランブル](https://open.spotify.com/album/069HetbIgJDDZiCXwsjuWk) | 3:39 |
+| 79 | [ピンクペッパークランブル](https://open.spotify.com/track/4aSeGF1g3QXFIdBPLILM7P) | [GOHOBI](https://open.spotify.com/artist/3rUTguiMzTMxzTFPSytp6M) | [ピンクペッパークランブル](https://open.spotify.com/album/069HetbIgJDDZiCXwsjuWk) | 3:39 |
 | 80 | [dokaogenkide、](https://open.spotify.com/track/2VAMOI3qeK5WGCm8f96pgI) | [Sunny Girl](https://open.spotify.com/artist/1wkGtOevrl3LOU7tKa3hdm) | [itsukakakioeruhigakitemo](https://open.spotify.com/album/0V70SINbzSnj7CIu3Hewro) | 2:15 |
 | 81 | [tender](https://open.spotify.com/track/4pbR9ZNfjzvxpKwA25WeP8) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [deep into\_](https://open.spotify.com/album/2M6K4LGjkcwHI4ve7BrTIk) | 3:14 |
 

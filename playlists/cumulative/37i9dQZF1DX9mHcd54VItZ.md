@@ -4,7 +4,7 @@
 
 > The best new and classic South African Rock\. Cover: Drumfish
 
-703 songs - 1 day 17 hr 27 min
+705 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 | 2022-11-18 |
 | [Bones](https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o) | [Avolver](https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H) | [Bones](https://open.spotify.com/album/6VMjSQFJ3538k9UyZVQn1d) | 3:41 | 2023-07-28 | 2023-09-29 |
 | [BONS](https://open.spotify.com/track/4UqmMPfhiAevMRZcMYMtsH) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [BONS](https://open.spotify.com/album/2Y3GbhFlYxxeuyPFdEZYmM) | 4:00 | 2024-11-29 | 2024-12-06 |
+| [Boots Off!](https://open.spotify.com/track/6UJyniFdOsG46BVxIzRACm) | [Angst Party](https://open.spotify.com/artist/7IDGjkJM9ghKoiDW1ipKW0) | [Boots Off!](https://open.spotify.com/album/3gCtn0iKbsYQK4nmXwEdrv) | 2:27 | 2025-06-06 |  |
 | [Booty Call](https://open.spotify.com/track/0gFmcqNuLDixdCDEghj2Vk) | [James Sweetnam](https://open.spotify.com/artist/1Ux1XWXhHb2gSVNlDRFkKH) | [Booty Call](https://open.spotify.com/album/71FxzD8eFciDZTslRLknv5) | 2:46 | 2025-02-27 | 2025-03-07 |
 | [BOSS](https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [BOSS](https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU) | 2:22 | 2024-11-21 | 2025-03-07 |
 | [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 | 2024-05-10 |
@@ -352,7 +353,7 @@
 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 | 2024-01-04 | 2025-05-04 |
 | [Kwart Voor Agt](https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu) | [Lliam Meredith](https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9) | [Kwart Voor Agt](https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN) | 2:29 | 2023-11-24 | 2024-01-05 |
 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 | 2024-10-18 | 2025-04-11 |
-| [Kyk Terug](https://open.spotify.com/track/03LFyc9Ma8c87I69JT6P4F) | [Vreemd](https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9) | [Alles, Almal, Iewers](https://open.spotify.com/album/6i6wvlNYJ21tvNAbbreUaf) | 2:41 | 2025-05-22 |  |
+| [Kyk Terug](https://open.spotify.com/track/03LFyc9Ma8c87I69JT6P4F) | [Vreemd](https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9) | [Alles, Almal, Iewers](https://open.spotify.com/album/6i6wvlNYJ21tvNAbbreUaf) | 2:41 | 2025-05-22 | 2025-06-07 |
 | [Laatnag\-sonop\-koebaai](https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Laatnag\-sonop\-koebaai](https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN) | 3:49 | 2022-11-24 | 2023-03-03 |
 | [Langs Die Straat](https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Langs Die Straat](https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj) | 3:31 | 2024-03-29 | 2024-05-19 |
 | [Last In Line](https://open.spotify.com/track/1lPJIkt0pT8e0P82m4BXzs) | [JaeXlynne](https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz) | [Last In Line](https://open.spotify.com/album/5vqcJr1gGTDTeVKR45dRNX) | 3:36 | 2025-04-24 | 2025-05-03 |
@@ -514,7 +515,7 @@
 | [Runners](https://open.spotify.com/track/04ji2S99gUmYFUM7meH2dq) | [Squeal](https://open.spotify.com/artist/05QUj92uS2fRlB6P2RO5uV) | [Rocktober \(The Best South African Rock Hits of All Time\)](https://open.spotify.com/album/4BO2l8sACrAbp1OCtSWK8Q) | 5:37 | 2024-01-04 | 2024-03-30 |
 | [Saag Suip En Sokkie](https://open.spotify.com/track/5q6HEX89ABIT1sWpyhvUAb) | [Die Doodsvonnis](https://open.spotify.com/artist/6fcoIoxyV5itSoYb4ogktx), [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9), [Die FakboiZ](https://open.spotify.com/artist/2FypL6wVPXP0L8jGzVnTt3) | [Saag Suip En Sokkie](https://open.spotify.com/album/4tiih59fqpsAVMw0cVz1KQ) | 3:23 | 2025-03-14 | 2025-03-22 |
 | [Safari Music](https://open.spotify.com/track/6Qen4bdmho0oKLwfDwgu3n) | [Not My Dog](https://open.spotify.com/artist/7p5v2JRt5D9QjHn3u8h16T) | [Dogumentary](https://open.spotify.com/album/2xV7OjTmhfasmMXVEIr56g) | 3:28 | 2024-01-04 | 2024-02-10 |
-| [Safe Harbours](https://open.spotify.com/track/4hu0XJrK3Pdw6AKOGVz0va) | [Half Price](https://open.spotify.com/artist/5hhxRKw2vy8rZkBltFtb1y) | [Safe Harbours](https://open.spotify.com/album/2yuFbefevMkITIqG1x8kTz) | 3:31 | 2025-05-29 |  |
+| [Safe Harbours](https://open.spotify.com/track/4hu0XJrK3Pdw6AKOGVz0va) | [Half Price](https://open.spotify.com/artist/5hhxRKw2vy8rZkBltFtb1y) | [Safe Harbours](https://open.spotify.com/album/2yuFbefevMkITIqG1x8kTz) | 3:31 | 2025-05-29 | 2025-06-07 |
 | [Saterdag Is Nog 'n Dag \(Radio Edit\)](https://open.spotify.com/track/0haSFu3gTeYMY2xvHZDslQ) | [Saterdag Vanaand](https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc) | [Saterdag Is Nog 'n Dag \(Radio Edit\)](https://open.spotify.com/album/4BVIp3kb1NsT2jkgtTsTp2) | 2:59 | 2025-01-30 | 2025-02-07 |
 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 | 2022-09-15 | 2022-11-18 |
 | [Scarred](https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Far From Who We Are](https://open.spotify.com/album/03CcQkzVwJtlfN0k33fjpg) | 3:15 | 2022-12-01 | 2023-03-10 |
@@ -583,6 +584,7 @@
 | [Suburban Casualty](https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K) | [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Suburban Casualty](https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI) | 3:54 | 2022-12-08 | 2023-03-31 |
 | [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 | 2023-04-28 |
+| [Suikerbossie Gedekonstrueer](https://open.spotify.com/track/0PhMtLX6Z2tjjAIwriNbI1) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Suikerbossie Gedekonstrueer](https://open.spotify.com/album/6DdDeFPJJj14w7E8ojF0TF) | 2:49 | 2025-06-06 |  |
 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 | 2022-08-04 | 2023-02-10 |
 | [Sunrise on the River](https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA) | [Kayla The Crow](https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH) | [Sunrise on the River](https://open.spotify.com/album/51994iHGJIquxFw7z1fveh) | 2:49 | 2025-01-23 | 2025-03-07 |
 | [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 | 2023-08-17 | 2024-05-10 |

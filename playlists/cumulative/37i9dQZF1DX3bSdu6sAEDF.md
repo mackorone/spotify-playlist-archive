@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-416 songs - 22 hr 56 min
+418 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Safe Place to Land \(feat\. John Legend\)](https://open.spotify.com/track/55fyE9Q754QhXpmcLtmmam) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:29 | 2021-08-05 | 2022-01-20 |
 | [about her\. again.](https://open.spotify.com/track/4SMHL36a0GQKh8ZuE33cby) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:46 | 2021-08-05 | 2022-01-20 |
 | [Adeline](https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:32 | 2021-08-05 | 2022-01-20 |
-| [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-01 |  |
+| [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-01 | 2025-06-07 |
 | [Again](https://open.spotify.com/track/0Eef5uHiJVJO0nt4Zo4QCd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:25 | 2022-12-02 | 2023-04-22 |
 | [Again](https://open.spotify.com/track/4xdPgVt4AwYzVsYZ8TuFQB) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/3SuZwz2B4DjWeL3JlAFmBG) | 3:25 | 2022-11-11 | 2022-11-24 |
 | [Again](https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/0UnB3RhLhRaVjSYS6wDyfp) | 3:25 | 2022-11-11 | 2022-12-03 |
@@ -240,6 +240,7 @@
 | [Love Like That](https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Love Like That](https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s) | 3:34 | 2022-02-18 | 2023-04-22 |
 | [Love Like That](https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Drift Back](https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl) | 3:14 | 2022-04-22 | 2024-03-16 |
 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 | 2022-04-15 | 2023-06-15 |
+| [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 | 2025-06-06 |  |
 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 | 2025-03-21 |  |
 | [Love Myself](https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Myself](https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF) | 3:07 | 2022-01-19 | 2023-04-22 |
 | [Love on the Side](https://open.spotify.com/track/1R6mnS40siUbvImKAjJAw9) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/48hn8wP1pcy5YLtPgKciPM) | 2:33 | 2022-04-01 | 2023-06-24 |
@@ -255,6 +256,7 @@
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 |  |
 | [MAGIK](https://open.spotify.com/track/6zWdODBjSnvZF3V1i2s8lq) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [MAGIK](https://open.spotify.com/album/3Zj2GG4pPjg4ppByk5iCL5) | 2:36 | 2025-05-16 |  |
 | [Make Someone Happy](https://open.spotify.com/track/1dCS83iZarLD5pdiSM77P6) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Make Someone Happy](https://open.spotify.com/album/7BKVAdt0Hu9UqHceowEMBP) | 1:47 | 2021-08-05 | 2022-01-17 |
+| [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
 | [maybe i'm the problem now](https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [maybe i'm the problem now](https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC) | 3:12 | 2023-09-01 | 2025-05-24 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 |  |
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 |  |
@@ -342,7 +344,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2022-01-19 | 2022-07-29 |
 | [So Caught Up](https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:48 | 2022-01-19 | 2022-04-21 |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2022-01-21 | 2023-04-22 |
-| [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-15 |  |
+| [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-15 | 2025-06-07 |
 | [Somebody To You \(feat\. Cory Wong & Vincen García\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 | 2023-09-15 |  |
 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 | 2022-05-06 | 2022-11-24 |
 | [Something to Someone](https://open.spotify.com/track/56U84FLjFgsEY6NZvuxa3U) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:18 | 2022-05-06 | 2023-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa\_9WSXQAGcMj9SpxUMJQ">Ziggy4x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,648 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,654 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 40 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
 | 41 | [Heroes](https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Heroes](https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7) | 2:24 |
 | 42 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 |
-| 43 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
-| 44 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
+| 43 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
+| 44 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
 | 45 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
 | 46 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
 | 47 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
-| 48 | [Funds up](https://open.spotify.com/track/2YlQMXoBxIFbkuEsmbLOLb) | [Eboii](https://open.spotify.com/artist/0QAgKu19p71ftk4GJL5D4K), [Lukey Luxman](https://open.spotify.com/artist/26riHWbHZJDYFfZKzYD8Xs) | [Funds up](https://open.spotify.com/album/3MfN6NrliRwkNhQ9QQ8R4U) | 2:42 |
-| 49 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
+| 48 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
+| 49 | [Funds up](https://open.spotify.com/track/2YlQMXoBxIFbkuEsmbLOLb) | [Eboii](https://open.spotify.com/artist/0QAgKu19p71ftk4GJL5D4K), [Lukey Luxman](https://open.spotify.com/artist/26riHWbHZJDYFfZKzYD8Xs) | [Funds up](https://open.spotify.com/album/3MfN6NrliRwkNhQ9QQ8R4U) | 2:42 |
 | 50 | [Op Fok](https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5) | [Op Fok](https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL) | 2:08 |
 
 Snapshot ID: `aEIToAAAAADh4Sk70vU99Pwwg7Cgcj6Q`

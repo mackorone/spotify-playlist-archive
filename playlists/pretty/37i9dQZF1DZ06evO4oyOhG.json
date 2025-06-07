@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 17799,
+  "num_followers": 17801,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABF15A7xbt3HHejTPv8/l2Q",
+  "snapshot_id": "aEDeAAAAAABzC2/mDsrEeWbxmhi9Ys12",
   "tracks": [
     {
       "added_at": null,
@@ -403,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9b3c\u30ce\u68ee",
-        "url": "https://open.spotify.com/album/11KLezHDkMMTZejfjErhiQ"
+        "name": "\u604b\u8272\u306b\u54b2\u3051",
+        "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
       },
       "artists": [
         {
           "name": "CHiCO with HoneyWorks",
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "sana",
+          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
         }
       ],
-      "duration_ms": 275640,
-      "name": "\u9b3c\u30ce\u68ee",
-      "url": "https://open.spotify.com/track/5bn8QRLruU48VU3an3MMNr"
+      "duration_ms": 252160,
+      "name": "\u3053\u308c\u9752\u6625\u30a2\u30f3\u30c0\u30fc\u30b9\u30bf\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u604b\u8272\u306b\u54b2\u3051",
-        "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
+        "name": "\u9b3c\u30ce\u68ee",
+        "url": "https://open.spotify.com/album/11KLezHDkMMTZejfjErhiQ"
       },
       "artists": [
         {
           "name": "CHiCO with HoneyWorks",
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        },
-        {
-          "name": "sana",
-          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
         }
       ],
-      "duration_ms": 252160,
-      "name": "\u3053\u308c\u9752\u6625\u30a2\u30f3\u30c0\u30fc\u30b9\u30bf\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq"
+      "duration_ms": 275640,
+      "name": "\u9b3c\u30ce\u68ee",
+      "url": "https://open.spotify.com/track/5bn8QRLruU48VU3an3MMNr"
     },
     {
       "added_at": null,

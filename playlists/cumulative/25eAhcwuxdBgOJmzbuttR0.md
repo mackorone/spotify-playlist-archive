@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-375 songs - 1 day 1 hr 31 min
+376 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Fata Morgana](https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:21 | 2025-03-25 |  |
 | [Feiticeira](https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:09 | 2023-03-29 |  |
 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 | 2025-04-04 |  |
+| [Fight Like A Girl \- feat\. K.Flay](https://open.spotify.com/track/6TUYOU8S2s5l8zgdHeVsjZ) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/38tIdig9WXv884CFCXuyuG) | 3:06 | 2025-06-06 |  |
 | [Finale](https://open.spotify.com/track/6hqys5tmolP7EU6ZNP981s) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:07 | 2023-03-28 |  |
 | [First It Giveth](https://open.spotify.com/track/5yprGKAwV1GSJSiATa50Ni) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:18 | 2023-03-28 |  |
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2023-03-28 |  |

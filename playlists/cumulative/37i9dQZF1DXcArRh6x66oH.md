@@ -4,7 +4,7 @@
 
 > roots run deep
 
-383 songs - 22 hr 55 min
+384 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 | 2023-10-14 | 2024-04-19 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-14 | 2023-10-23 |
 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2023-12-13 | 2024-08-10 |
+| [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 | 2025-06-06 |  |
 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 | 2023-04-14 | 2024-05-25 |
 | [Take Me Down River](https://open.spotify.com/track/1JB1ib2LlccjoFHbHKaK9V) | [Grayson Little](https://open.spotify.com/artist/3m9JXQ3NwpCcmzwOKH5AKM) | [Take Me Down River](https://open.spotify.com/album/2lM7nqpNNf7kanAoVTB18P) | 3:31 | 2023-02-24 | 2023-12-09 |
 | [Tattoos](https://open.spotify.com/track/1XcxubL4Y4U4gxLeIbb8VM) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:23 | 2023-02-24 |  |

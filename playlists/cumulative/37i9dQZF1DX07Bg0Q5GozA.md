@@ -2,7 +2,7 @@
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover:
+> New music off the beaten track\. Cover: SPARKLING, Digitalism
 
 1,162 songs - 3 day 5 hr 2 min
 

@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-261 songs - 15 hr 7 min
+262 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 | 2022-12-09 | 2024-05-25 |
 | [JEOPARDY](https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [JEOPARDY](https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL) | 3:57 | 2025-05-02 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2023-01-13 | 2023-12-14 |
+| [Kekka Orai\(English ver\)](https://open.spotify.com/track/2PFp5efJF0uBwvDxyC1ASL) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Kekka Orai\(English ver\)](https://open.spotify.com/album/1ygQd5Oc5CVPPTMKIRIYyZ) | 2:54 | 2025-06-06 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-12-09 | 2025-04-12 |
 | [Kirie and Shuichi](https://open.spotify.com/track/2aTO74K3NrPd5Klvyv9LtB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Uzumaki \(Anime Series Original Soundtrack\)](https://open.spotify.com/album/7jSnAYdc0Aysd2ONzzVwLX) | 1:55 | 2024-09-27 |  |
 | [Know No Better \- Doobious Remix](https://open.spotify.com/track/0mz8ZwZ5KwnO122kS4N0IL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Doobious](https://open.spotify.com/artist/4Si6bkuClXDbHbTTAH0xPC) | [Know No Better \(Remixes\)](https://open.spotify.com/album/30cBFG2VLjgEE2qJfZgy3P) | 3:15 | 2022-02-18 | 2022-12-10 |

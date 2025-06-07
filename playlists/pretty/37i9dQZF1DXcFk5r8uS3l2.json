@@ -1,13 +1,41 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
-  "num_followers": 461094,
+  "num_followers": 461146,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y5AAAAADQK4sESqDDFT8sK/Ic+LVe",
+  "snapshot_id": "aEKIdAAAAAAyrXDI5Gj1Oty4KeouLgLX",
   "tracks": [
+    {
+      "added_at": "2025-06-06 06:19:32",
+      "album": {
+        "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
+        "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        },
+        {
+          "name": "Henry Kapono",
+          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "duration_ms": 260803,
+      "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
+      "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
+    },
     {
       "added_at": "2025-05-23 04:00:36",
       "album": {
@@ -1715,22 +1743,6 @@
       "duration_ms": 223182,
       "name": "Freedom Road",
       "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "How Deep Is Your Love",
-        "url": "https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        }
-      ],
-      "duration_ms": 248590,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy"
     }
   ],
   "unique_name": "Blues Roots",

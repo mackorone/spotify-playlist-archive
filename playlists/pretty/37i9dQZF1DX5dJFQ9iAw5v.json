@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33077,
+  "num_followers": 33081,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
         }
       ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 365560,
       "name": "So in Love",
       "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -699,18 +699,30 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+        "name": "Pettinato Plays Garc\u00eda",
+        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
       },
       "artists": [
         {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+          "name": "Roberto Pettinato",
+          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
+        },
+        {
+          "name": "Andr\u00e9s Marino",
+          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
+        },
+        {
+          "name": "Hern\u00e1n Cassibba",
+          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
+        },
+        {
+          "name": "Omar Menendez",
+          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
         }
       ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+      "duration_ms": 339612,
+      "name": "Veinte Trajes Verdes",
+      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -751,6 +763,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
         "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
@@ -763,34 +791,6 @@
       "duration_ms": 347200,
       "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
       "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Pettinato Plays Garc\u00eda",
-        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pettinato",
-          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
-        },
-        {
-          "name": "Andr\u00e9s Marino",
-          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
-        },
-        {
-          "name": "Hern\u00e1n Cassibba",
-          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
-        },
-        {
-          "name": "Omar Menendez",
-          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
-        }
-      ],
-      "duration_ms": 339612,
-      "name": "Veinte Trajes Verdes",
-      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
-      },
-      "artists": [
-        {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
-        }
-      ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "...Baby One More Time",
         "url": "https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 201500,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+      },
+      "artists": [
+        {
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+        }
+      ],
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Polacos",
+        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Polacos",
+      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Mezcalero",
         "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 297000,
       "name": "Mezcalero",
       "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
-      },
-      "artists": [
-        {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Polacos",
-        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Polacos",
-      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1215,6 +1215,46 @@
       "duration_ms": 324720,
       "name": "Milonga Del Fin Del Mundo",
       "url": "https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 495746,
+      "name": "Cabrera's Blues",
+      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1255,30 +1295,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 495746,
-      "name": "Cabrera's Blues",
-      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Querido Bill : Tributo a Bill Evans",
         "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 490280,
       "name": "Billie's Bounce",
       "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 405604,
-      "name": "La Novena",
-      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Tr\u00edas",
         "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 640853,
       "name": "Trias",
       "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 405604,
+      "name": "La Novena",
+      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
     },
     {
       "added_at": "2025-04-14 14:58:34",

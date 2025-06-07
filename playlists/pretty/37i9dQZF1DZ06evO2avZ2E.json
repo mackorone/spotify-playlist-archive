@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2958,
+  "num_followers": 2959,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADfoulqyTo8rSAfSxQo8xDF",
+  "snapshot_id": "aEDeAAAAAABaZYBeumC4qvgSMzsC8O3G",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRAVEDAD",
         "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU"
     },
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+        "name": "Out Cold (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0qQ5zadXGyGteQKihv2hl7"
       },
       "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 189760,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
+      "duration_ms": 240266,
+      "name": "Out Cold - Deluxe Version",
+      "url": "https://open.spotify.com/track/1sWBKj4C5KwSawtCNxLKFg"
     },
     {
       "added_at": null,
@@ -507,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 260526,
       "name": "Puro Pasado",
       "url": "https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out Cold (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0qQ5zadXGyGteQKihv2hl7"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Out Cold - Deluxe Version",
-      "url": "https://open.spotify.com/track/1sWBKj4C5KwSawtCNxLKFg"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 233656,
-      "name": "Al Fondo de M\u00ed",
-      "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OPTEMOS",
         "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
       },
@@ -627,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 233656,
+      "name": "Al Fondo de M\u00ed",
+      "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fue Solo un Sue\u00f1o",
         "url": "https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC"
       },
@@ -643,6 +643,26 @@
       "duration_ms": 229000,
       "name": "Fue Solo un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ISABEL LP",
+        "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Castillo De Arena",
+      "url": "https://open.spotify.com/track/0CYNGsiMY2VjOBdIh2fWIO"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ISABEL LP",
-        "url": "https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "Castillo De Arena",
-      "url": "https://open.spotify.com/track/0CYNGsiMY2VjOBdIh2fWIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "m\u00fasica para una pel\u00edcula que no existe",
         "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "m\u00fasica para una pel\u00edcula que no existe",
         "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 90875,
-      "name": "caballos",
-      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
+      "duration_ms": 230921,
+      "name": "beso",
+      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venus (Remix)",
-        "url": "https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN"
+        "name": "Volver a Comenzar",
+        "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 232753,
-      "name": "Venus (Remix)",
-      "url": "https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW"
+      "duration_ms": 187670,
+      "name": "Volver a Comenzar",
+      "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 230921,
-      "name": "beso",
-      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
+      "duration_ms": 90875,
+      "name": "caballos",
+      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
     },
     {
       "added_at": null,
@@ -899,22 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Comenzar",
-        "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
+        "name": "Venus (Remix)",
+        "url": "https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN"
       },
       "artists": [
         {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 187670,
-      "name": "Volver a Comenzar",
-      "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
+      "duration_ms": 232753,
+      "name": "Venus (Remix)",
+      "url": "https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

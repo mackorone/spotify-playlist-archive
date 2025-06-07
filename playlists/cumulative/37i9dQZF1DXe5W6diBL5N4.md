@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: B.I\(비아이\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-12,593 songs - 30 day 1 hr 33 min
+12,594 songs - 30 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3750,6 +3750,7 @@
 | [Glowing Light](https://open.spotify.com/track/5lxFv9Aig7R0OZDKbHd0Zb) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Glowing Light](https://open.spotify.com/album/6TSD70PyuuHYCr59KUw3ex) | 4:06 | 2024-06-04 | 2024-06-20 |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-10 | 2024-07-23 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-04-30 | 2025-06-03 |
+| [Gnarly \- Ice Spice Remix](https://open.spotify.com/track/3wAvAVwMbUG3Bw23M8KMke) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gnarly \(Ice Spice Remix\)](https://open.spotify.com/album/3aC2oeSUYvBKXkTr6RDIwX) | 2:17 | 2025-06-06 |  |
 | [GO](https://open.spotify.com/track/7lK9XQFIMihBvPy2jIpqXy) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [GO](https://open.spotify.com/album/0Sp6AZTcrjkNEDQcuL5VWA) | 3:28 | 2022-08-09 | 2022-08-17 |
 | [GO](https://open.spotify.com/track/22TOE5xxShGlXeiWN1g1MB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [High School Return of a Gangster OST Part.1](https://open.spotify.com/album/290Co85Yeq4Mu6rhlJAhMv) | 3:57 | 2024-05-29 | 2024-06-20 |
 | [GO \(Feat\. M1NU\)](https://open.spotify.com/track/6crhrqS5FiCWizhDWjr9RA) | [AN TAE EUN](https://open.spotify.com/artist/2qZSCpDt07SbX3eFmbabBc), [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH) | [GO \(Feat\. M1NU\)](https://open.spotify.com/album/6uwswIkQJLPCdQJnMn54tX) | 3:25 | 2025-05-05 | 2025-05-10 |
@@ -4147,7 +4148,7 @@
 | [HeeJae](https://open.spotify.com/track/2iS2DlzN8l7lpop2AZTnXL) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [HeeJae](https://open.spotify.com/album/4tcrJqHMo9bFjRYR8Kf6HJ) | 4:16 | 2024-01-31 | 2024-03-09 |
 | [Heels](https://open.spotify.com/track/4x6nunPhR0Clk682Vi2N4Y) | [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Y2K92 simo](https://open.spotify.com/artist/1FkDkDzIU5TduleinIYkm5) | [Heels](https://open.spotify.com/album/6joXsPfxEwSPHxLa4fjSGC) | 3:49 | 2023-12-20 | 2024-01-09 |
 | [Heigh\-ho](https://open.spotify.com/track/1NN2AltpOhdzxywllHYMrY) | [신우](https://open.spotify.com/artist/3qzGr8dVeIizPJKq6yR1xA) | [Claim Your Lottery Prize \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/7p0hfZANnTCSmbljFjgNzq) | 2:59 | 2022-06-18 | 2022-06-28 |
-| [Height Difference](https://open.spotify.com/track/1wiyZkzlC6EFMCpXc3EkPu) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [My Curations Vol.3 YEWON](https://open.spotify.com/album/7Ca8yelDySjWtVbYEBCYXc) | 3:52 | 2025-06-04 |  |
+| [Height Difference](https://open.spotify.com/track/1wiyZkzlC6EFMCpXc3EkPu) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [My Curations Vol.3 YEWON](https://open.spotify.com/album/7Ca8yelDySjWtVbYEBCYXc) | 3:33 | 2025-06-04 |  |
 | [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 | 2024-01-30 | 2024-05-01 |
 | [Hell Chosen \(feat\. oygli\)](https://open.spotify.com/track/6HkTBbrBIWSfW55hkGMycy) | [Fredi Casso](https://open.spotify.com/artist/2tVGjpHP709GdVbRx7PTEy), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [SECOND II NONE](https://open.spotify.com/album/2KWT2m76KsdbmIWKXfLVra) | 3:06 | 2022-07-06 | 2022-07-12 |
 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-23 | 2025-02-21 |

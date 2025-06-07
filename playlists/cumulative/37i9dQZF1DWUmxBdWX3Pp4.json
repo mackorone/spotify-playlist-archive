@@ -10305,6 +10305,28 @@
     },
     {
       "album": {
+        "name": "Ski Mask",
+        "url": "https://open.spotify.com/album/1LwWMKZWCsI04Y9vCsp9ba"
+      },
+      "artists": [
+        {
+          "name": "Queen Parker",
+          "url": "https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117645,
+      "name": "Ski Mask",
+      "url": "https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/63Evq6spRulb51uVevqui3"
       },

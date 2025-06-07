@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-1,703 songs - 3 day 14 hr 49 min
+1,704 songs - 3 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-05-14 | 2025-06-05 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-02 | 2024-07-18 |
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-04-14 | 2025-05-15 |
-| [DIA DELÍCIA](https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/6bKskOvtdva3ul5sCUAiV5) | 1:15 | 2025-06-05 |  |
+| [DIA DELÍCIA](https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do) | 1:15 | 2025-06-06 |  |
+| [DIA DELÍCIA](https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/6bKskOvtdva3ul5sCUAiV5) | 1:15 | 2025-06-05 | 2025-06-07 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-30 | 2024-08-14 |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-03-04 | 2025-03-12 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-03 | 2025-01-09 |

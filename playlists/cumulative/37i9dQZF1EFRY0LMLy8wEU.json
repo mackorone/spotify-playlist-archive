@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "i've been meaning to say this...",
+        "url": "https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350857,
+      "name": "Look At What The Blood Has Done",
+      "url": "https://open.spotify.com/track/1OOdR0H1l7fC1ynap0I42m"
+    },
+    {
+      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -604,6 +626,32 @@
       "duration_ms": 414363,
       "name": "MARVELOUS",
       "url": "https://open.spotify.com/track/4kCtLx1GjpIqylf6kAXZBP"
+    },
+    {
+      "album": {
+        "name": "i've been meaning to say this...",
+        "url": "https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Ethan Mizell",
+          "url": "https://open.spotify.com/artist/0Z3GyEO2HxFkopxTnzmPfX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553099,
+      "name": "Marvelous (Lion Of Judah)",
+      "url": "https://open.spotify.com/track/1xIACUXOMUSmg9n5PN147G"
     },
     {
       "album": {

@@ -1,13 +1,65 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 275997,
+  "num_followers": 276015,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDsV2gAAAADOMNo12bnsFEC2LLat5YMv",
+  "snapshot_id": "aEJn3wAAAAC4NOEyHOK+lMltpADh+5bc",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Love Me Alive",
+      "url": "https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0X25tZlCCHAofXorBcuty3"
+      },
+      "artists": [
+        {
+          "name": "Honey.",
+          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
+        }
+      ],
+      "duration_ms": 218970,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK"
+      },
+      "artists": [
+        {
+          "name": "aleksiah",
+          "url": "https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9"
+        }
+      ],
+      "duration_ms": 219812,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d"
+    },
     {
       "added_at": "2025-05-31 14:44:42",
       "album": {
@@ -23,6 +75,22 @@
       "duration_ms": 197239,
       "name": "Gimmicks",
       "url": "https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "If I stop I'll feel it",
+        "url": "https://open.spotify.com/album/4GCkV1Tw1RPjYgyN4953MI"
+      },
+      "artists": [
+        {
+          "name": "Markella",
+          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "If I stop I'll feel it",
+      "url": "https://open.spotify.com/track/3ZmazoGrS6OXn5iF2k5D5M"
     },
     {
       "added_at": "2025-05-31 14:44:42",
@@ -431,26 +499,6 @@
       "duration_ms": 176098,
       "name": "SWEET (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
-    },
-    {
-      "added_at": "2025-01-31 05:00:32",
-      "album": {
-        "name": "Revelation",
-        "url": "https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253862,
-      "name": "Revelation",
-      "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
     },
     {
       "added_at": "2025-02-28 05:00:46",
@@ -995,22 +1043,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Reaper",
-        "url": "https://open.spotify.com/album/3frmBizhbh3gg79cqmwIpV"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 160608,
-      "name": "The Reaper",
-      "url": "https://open.spotify.com/track/4B8N1c0C7nbC8bx9Ji6DyO"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Age Of Consent",
         "url": "https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm"
       },
@@ -1023,22 +1055,6 @@
       "duration_ms": 303306,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "HERO",
-        "url": "https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 238614,
-      "name": "HERO",
-      "url": "https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Heartbeat Highway",
-        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Heartbeat Highway",
-      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
       },
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "No One Hurts Me Like I Hurt Myself",
-        "url": "https://open.spotify.com/album/01Zyx6jhu6fFJzkUY8igGl"
-      },
-      "artists": [
-        {
-          "name": "Markella",
-          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
-        }
-      ],
-      "duration_ms": 184009,
-      "name": "No One Hurts Me Like I Hurt Myself",
-      "url": "https://open.spotify.com/track/6ywGrUZvGy9ofSWeO5Ak3x"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/3iF8qGkmv3GeukyG2Gp23k"
-      },
-      "artists": [
-        {
-          "name": "Metteson",
-          "url": "https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD"
-        }
-      ],
-      "duration_ms": 216477,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6WBaB2VtZME06Wy2DmRpSa"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Dance Away The Pain",
         "url": "https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in"
       },
@@ -1271,26 +1239,6 @@
       "duration_ms": 176813,
       "name": "Dance Away The Pain",
       "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1355,26 +1303,6 @@
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1471,22 +1399,6 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Get Wild",
-        "url": "https://open.spotify.com/album/6ctKa1fF9AWTGoU2Gf4PII"
-      },
-      "artists": [
-        {
-          "name": "LOVE SICK",
-          "url": "https://open.spotify.com/artist/3oX23qsyfFiuzyXDBbmhXO"
-        }
-      ],
-      "duration_ms": 201399,
-      "name": "Get Wild",
-      "url": "https://open.spotify.com/track/05vIJo5TbBbbYo7G5bB1Zy"
     },
     {
       "added_at": "2024-08-30 04:00:00",

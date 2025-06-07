@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: BICEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,375 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,384 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 98 | [Paloma](https://open.spotify.com/track/0XFaih4JWTQp66hTX4uDaZ) | [SOBSTORY](https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9) | [Paloma](https://open.spotify.com/album/2nu5p2z9XDeb03r1D11c4Q) | 5:40 |
 | 99 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 |
 
-Snapshot ID: `AAAAAPX5p1xXdpDBwIKA+k9uX1yYvsNb`
+Snapshot ID: `aEIhdgAAAAB/eiy87pYwea1vNPVRJuod`

@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-772 songs - 1 day 13 hr 36 min
+773 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 | 2024-02-13 | 2024-02-16 |
 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-25 | 2024-05-05 |
 | [Dynamite](https://open.spotify.com/track/4HHMYC5atoi0ZRQfmkxuLB) | [Sherizz](https://open.spotify.com/artist/2f3cw59N6NrXxJIEwiCgDt) | [Dynamite](https://open.spotify.com/album/1XpuyYKixpvqeENPZL0MyA) | 2:36 | 2024-03-01 | 2024-04-19 |
+| [Early Momo](https://open.spotify.com/track/4Kt5UFZHC1PTITrkSN1FUW) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Early Momo](https://open.spotify.com/album/3z68dQY5gNRMqGjoJIMQa4) | 2:14 | 2025-06-06 |  |
 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 | 2022-02-11 | 2022-11-14 |
 | [Early Momo](https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Teslim: The Energy Still Lives in Me](https://open.spotify.com/album/08k2IfdgUGN3JycLGkREJI) | 3:14 | 2023-01-13 | 2024-02-09 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-20 | 2023-02-24 |
@@ -389,7 +390,7 @@
 | [Let You Go](https://open.spotify.com/track/74ZWwUSOcQ2TrMbDOxAGeS) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [VOICENOTE \(EP\)](https://open.spotify.com/album/1UG3wqX23dJYi9cCFyfdxL) | 2:18 | 2022-07-28 | 2022-08-13 |
 | [Lights](https://open.spotify.com/track/4ehv6o4SKNuRoZG6F3aKqi) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Catch Up! // Lights](https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f) | 2:18 | 2023-06-30 | 2023-07-14 |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-14 | 2022-08-26 |
-| [Like Home \(feat\. Teni\)](https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Like Home \(feat\. Teni\)](https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4) | 3:18 | 2025-03-14 |  |
+| [Like Home \(feat\. Teni\)](https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Like Home \(feat\. Teni\)](https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4) | 3:18 | 2025-03-14 | 2025-06-07 |
 | [Like Ice Spice](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-07-14 | 2023-09-29 |
 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 | 2023-11-24 | 2024-03-28 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 | 2023-06-25 |

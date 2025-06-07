@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 125539,
+  "num_followers": 125546,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAABSL9vTMbp3atgZqXuUwLAn",
+  "snapshot_id": "aEDeAAAAAABd+b+C4wEUEr8eOp6riS/y",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal Acostumbrao (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Mal Acostumbrao - con Maria Becerra",
+      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
         "url": "https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 216809,
       "name": "Manos Fr\u00edas",
       "url": "https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal Acostumbrao (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Mal Acostumbrao - con Maria Becerra",
-      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
       "added_at": null,
@@ -263,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos en Cualquier Horario",
-        "url": "https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Lucy Vives",
-          "url": "https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Besos en Cualquier Horario",
-      "url": "https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prende la C\u00e1mara RMX",
         "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
       },
@@ -307,6 +283,30 @@
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos en Cualquier Horario",
+        "url": "https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Lucy Vives",
+          "url": "https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Besos en Cualquier Horario",
+      "url": "https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noche de Luna",
         "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 184763,
       "name": "Noche de Luna",
       "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "spoiler: sale mal",
-        "url": "https://open.spotify.com/album/4Tap86SbHBVNZoxnOpzmtW"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 164342,
-      "name": "spoiler: sale mal",
-      "url": "https://open.spotify.com/track/3gLJbBmpvQAIQV6Dh8Ft9W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 228533,
       "name": "Sin Querer Queriendo (feat. Mau y Ricky)",
       "url": "https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "spoiler: sale mal",
+        "url": "https://open.spotify.com/album/4Tap86SbHBVNZoxnOpzmtW"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 164342,
+      "name": "spoiler: sale mal",
+      "url": "https://open.spotify.com/track/3gLJbBmpvQAIQV6Dh8Ft9W"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lib\u00e9lulas",
-        "url": "https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Lib\u00e9lulas",
-      "url": "https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chama",
         "url": "https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192286,
       "name": "La Chama",
       "url": "https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lib\u00e9lulas",
+        "url": "https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr"
     },
     {
       "added_at": null,
@@ -1079,22 +1079,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya T\u00fa Me Conoces",
-        "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Ya T\u00fa Me Conoces",
-      "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+      "duration_ms": 242417,
+      "name": "Mal de la Cabeza",
+      "url": "https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

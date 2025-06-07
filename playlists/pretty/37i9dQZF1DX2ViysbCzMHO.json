@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 170966,
+  "num_followers": 170996,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "You (Acoustic)",
-        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "You - Acoustic",
-      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Long Haul (Stripped)",
         "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 242530,
       "name": "Long Haul - Stripped",
       "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "You (Acoustic)",
+        "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "You - Acoustic",
+      "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Steady Heart (Wedding Version)",
-        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Steady Heart - Wedding Version",
-      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Like It Ain't (Stripped)",
         "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 156690,
       "name": "Like It Ain't - Stripped",
       "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Steady Heart (Wedding Version)",
+        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210555,
+      "name": "Steady Heart - Wedding Version",
+      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
         "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 200506,
       "name": "You Don't Want That Smoke. - The Acoustic Version.",
       "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Trouble (Piano Version)",
         "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 214640,
       "name": "Trouble - Piano Version",
       "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Drive You Out Of My Mind (Dark Room Edition)",
         "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 234310,
       "name": "Drive You Out Of My Mind - Dark Room Edition",
       "url": "https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2025-04-11 04:00:33",

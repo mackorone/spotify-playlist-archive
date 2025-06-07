@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,472 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,474 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 19 | [Come Ye Sinners, Poor and Needy](https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU) | [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Storm](https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8) | 5:00 |
 | 20 | [I Have Decided](https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:16 |
 | 21 | [Holy, Holy, Holy](https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 2:26 |
-| 22 | [Home \(Lyana's Song from Caretaker\)](https://open.spotify.com/track/2K2TlhCodATC2zBV62D75o) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [R.J\. Halbert](https://open.spotify.com/artist/74kavaQT7aReFkvXgf5uX1) | [Home \(Lyana's Song from Caretaker\)](https://open.spotify.com/album/4Uii4mHwQbJWr5GGO1kuHU) | 3:18 |
-| 23 | [River Lullaby](https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 3:56 |
+| 22 | [River Lullaby](https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 3:56 |
+| 23 | [Home \(Lyana's Song from Caretaker\)](https://open.spotify.com/track/2K2TlhCodATC2zBV62D75o) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [R.J\. Halbert](https://open.spotify.com/artist/74kavaQT7aReFkvXgf5uX1) | [Home \(Lyana's Song from Caretaker\)](https://open.spotify.com/album/4Uii4mHwQbJWr5GGO1kuHU) | 3:18 |
 | 24 | [In A Little While](https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:22 |
 | 25 | [This Is My Father's World](https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:05 |
 | 26 | [Angels](https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 4:12 |
-| 27 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
-| 28 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:27 |
+| 27 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:27 |
+| 28 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
 | 29 | [What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art \- Medley](https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:30 |
 | 30 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 |
 | 31 | [Carry You](https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Rock Of Ages...Hymns & Faith](https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi) | 3:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 39 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
 | 40 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 |
 | 41 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 |
-| 42 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
-| 43 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 |
+| 42 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 |
+| 43 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
 | 44 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 |
 | 45 | [These are the Days \(feat\. Amy Grant\)](https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:50 |
 | 46 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 |
 | 50 | [Everywhere I Go](https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 4:35 |
 
-Snapshot ID: `aD+MgAAAAACgxkwNgLo7DAUHT4Bg/gg2`
+Snapshot ID: `aEDeAAAAAAC/F4qjgfDRBHBwG3Sv6WfO`

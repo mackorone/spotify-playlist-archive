@@ -2,9 +2,9 @@
 
 ### [Running Club](https://open.spotify.com/playlist/37i9dQZF1DWT6anPZiHuxz)
 
-> Chasing that runner's high\. Countdown to Global Running Day 🏃‍♀️🏃
+> Chasing that runner's high
 
-298 songs - 16 hr 12 min
+299 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 | 2025-01-31 |  |
 | [I Know You \(feat\. Bastille\) \- Vigiland Remix](https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [I Know You \(Remixes\) \(feat\. Bastille\)](https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo) | 3:03 | 2022-08-12 | 2024-01-20 |
 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 | 2025-04-04 |  |
-| [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 | 2024-05-17 |  |
+| [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 | 2024-05-17 | 2025-06-07 |
 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 | 2024-01-19 | 2024-02-10 |
 | [I Really Like You \- Blasterjaxx Remix](https://open.spotify.com/track/7CZvFZDozMBgbfKSePgpSk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [I Really Like You \(Remixes\)](https://open.spotify.com/album/4NxuJRGusCauOfvlEKbDm6) | 3:35 | 2022-08-12 | 2023-05-18 |
 | [I Wanna Know \(feat\. Bea Miller\) \- Syn Cole Remix](https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Wanna Know \(feat\. Bea Miller\) \- Remixes](https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l) | 2:59 | 2022-08-12 | 2024-02-10 |
@@ -291,6 +291,7 @@
 | [Turn The Tide](https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Turn The Tide](https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2) | 2:59 | 2024-07-26 |  |
 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 | 2023-01-03 | 2024-06-09 |
 | [Universe \- Galantis Remix](https://open.spotify.com/track/6WJu3kRMBSanaLp4c5rvgd) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Universe \(Galantis Remix\)](https://open.spotify.com/album/5kmcp5oSdQjaji6PDgbi1O) | 2:44 | 2024-04-19 | 2024-05-18 |
+| [Until The Lights Go Out](https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [CARMA](https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA) | [Until The Lights Go Out](https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ) | 3:11 | 2025-06-06 |  |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-15 | 2025-03-29 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2024-01-19 |  |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 | 2024-12-23 |

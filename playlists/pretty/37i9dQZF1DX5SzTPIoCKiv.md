@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,327 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,508 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 15 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 |
 | 16 | [God Can Use A Broken Man](https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [God Can Use A Broken Man](https://open.spotify.com/album/7G84INpL3oLq7Z6SE7MJi4) | 4:11 |
 | 17 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
-| 18 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 |
-| 19 | [GOODBYE YESTERDAY](https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [GOODBYE YESTERDAY](https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE) | 4:58 |
-| 20 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 |
-| 21 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
-| 22 | [Tell Me How](https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Tell Me How](https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw) | 3:03 |
-| 23 | [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 |
+| 18 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 |
+| 19 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 |
+| 20 | [GOODBYE YESTERDAY](https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [GOODBYE YESTERDAY](https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE) | 4:58 |
+| 21 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 |
+| 22 | [The Blessing](https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Blessing](https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL) | 7:03 |
+| 23 | [Tell Me How](https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Tell Me How](https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw) | 3:03 |
 | 24 | [Don't Stop Praying](https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Don't Stop Praying](https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz) | 3:53 |
 | 25 | [Saved By Love \- 2025 Remaster](https://open.spotify.com/track/4KVb2TJQjwsx1dHHvOaibY) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:41 |
 | 26 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 49 | [Canyon](https://open.spotify.com/track/0AmKjCIxl7leZzlVbHeAmO) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/1BSzjovh9NjjdoxfSVyjbV) | 3:40 |
 | 50 | [To Save My Life](https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q) | 3:20 |
 
-Snapshot ID: `aBRhtAAAAACCoMLBgp5Uk1r96ILYF20U`
+Snapshot ID: `aELRzgAAAAAtl+jpPea0MO9hyvWcMebr`

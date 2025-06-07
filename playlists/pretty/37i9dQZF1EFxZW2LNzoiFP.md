@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 240 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 241 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 108 | [Love To You, Mate](https://open.spotify.com/track/6MTyUnENTi5ruX3yFuVdnX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:47 |
 | 109 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 |
 | 110 | [Amnesia](https://open.spotify.com/track/1QLsB1p8qoqLho63QdhLYU) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Amnesia](https://open.spotify.com/album/7nKdgCnwH657TEKLNPoVW9) | 2:29 |
-| 111 | [White Whale](https://open.spotify.com/track/1EnfJ62qpnikJ2EWMfla3a) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 3:41 |
-| 112 | [Lobster](https://open.spotify.com/track/69AlqL0LKvcc67srWDfE1w) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 4:47 |
+| 111 | [Lobster](https://open.spotify.com/track/69AlqL0LKvcc67srWDfE1w) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 4:47 |
+| 112 | [White Whale](https://open.spotify.com/track/1EnfJ62qpnikJ2EWMfla3a) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 3:41 |
 | 113 | [Vous Venez Souvent Ici?](https://open.spotify.com/track/7Fou7tDtiyNdHybKF1cDvQ) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Vous Venez Souvent Ici?](https://open.spotify.com/album/2fpfr1uAv5ZZFsxpBQAP9M) | 2:16 |
 | 114 | [Work It Out](https://open.spotify.com/track/3Ib2Zo2ekncLEPolzEvcfy) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 4:33 |
 | 115 | [I Got You](https://open.spotify.com/track/4UZbh9hvG4koPEOsgxUg0T) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Homesick \(Deluxe\)](https://open.spotify.com/album/3hlVF7J7TrYkgo1zrUweHz) | 3:50 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 156 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
 | 157 | [Bathroom Floor](https://open.spotify.com/track/1q7bdWE77gGMJuJkUE8fNr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:31 |
 | 158 | [Demons](https://open.spotify.com/track/0dZ7VZnKG6QBxBEcVSEMou) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 1:44 |
-| 159 | [Your Party](https://open.spotify.com/track/2mV56orItkQuNIcNB3oyoW) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:11 |
-| 160 | [Wildfire](https://open.spotify.com/track/3Q8wPOOfGezQsDOpdlC6Oc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Wildfire](https://open.spotify.com/album/7lmd4XerMqM2nfCSID3HEb) | 3:40 |
+| 159 | [Wildfire](https://open.spotify.com/track/3Q8wPOOfGezQsDOpdlC6Oc) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Wildfire](https://open.spotify.com/album/7lmd4XerMqM2nfCSID3HEb) | 3:40 |
+| 160 | [Your Party](https://open.spotify.com/track/2mV56orItkQuNIcNB3oyoW) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:11 |
 | 161 | [Swank](https://open.spotify.com/track/0OMr7kjVgXAPz0Of16NU4c) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 2:45 |
 | 162 | [Someone Like You](https://open.spotify.com/track/78A1ZV1xMBgTs0I8fV00Rn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:04 |
 | 163 | [Let the Water Run](https://open.spotify.com/track/1tMTOjJqXwXDSLpNEbBNjn) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Let the Water Run](https://open.spotify.com/album/2toyRx7ndM44FiZZKIzJq7) | 3:09 |
@@ -241,12 +241,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 231 | [Come Into The Light](https://open.spotify.com/track/3kjDnoYuBJ2hyU5A18GGRt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:48 |
 | 232 | [You Messed up](https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:25 |
 | 233 | [Jerks](https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:10 |
-| 234 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
-| 235 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
-| 236 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
-| 237 | [Marshmallow Skies](https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:10 |
-| 238 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
-| 239 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
-| 240 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
+| 234 | [Heart of Mine](https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau) | [Still Eye](https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL) | [Heart of Mine](https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg) | 3:06 |
+| 235 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
+| 236 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
+| 237 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
+| 238 | [Marshmallow Skies](https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:10 |
+| 239 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
+| 240 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
+| 241 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbzW3gAAAAAQL7fAdZVawO9J2zFS1OjK`
+Snapshot ID: `AbzcfgAAAABZ7FAemqMMeeuLaSBm19nE`

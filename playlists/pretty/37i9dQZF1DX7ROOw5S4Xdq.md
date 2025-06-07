@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,199 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,430 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 9 | [Minha Escolha É Cristo \- Ao Vivo](https://open.spotify.com/track/51osVjzCy5uBPEzJJJ47EL) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Minha Escolha É Cristo \(Ao Vivo\)](https://open.spotify.com/album/4UZHDeVwryL1EnshmrLofn) | 4:33 |
 | 10 | [A Maior Honra](https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Guilherme Andrade](https://open.spotify.com/artist/6LFnFW6ECYKbvQ4QV4NwnH) | [A Maior Honra](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 11:22 |
 | 11 | [Contagem Regressiva \- Ao Vivo](https://open.spotify.com/track/4eDY8ornfE2tpdPc294Maq) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu), [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Contagem Regressiva \(43 Anos Louvor Eterno\) \[Ao Vivo\]](https://open.spotify.com/album/2nBZGbhj2oLm7rOO9ee9xb) | 4:40 |
-| 12 | [Dentro de Nós](https://open.spotify.com/track/2cFTMSHNWbEsZ5SIIiXETa) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Dentro de Nós](https://open.spotify.com/album/55sL6AgUle1A9TBI06K5Cs) | 6:35 |
+| 12 | [Dentro de Nós \- Ao Vivo](https://open.spotify.com/track/2cFTMSHNWbEsZ5SIIiXETa) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Dentro de Nós \(Ao Vivo\)](https://open.spotify.com/album/55sL6AgUle1A9TBI06K5Cs) | 6:35 |
 | 13 | [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z) | 5:47 |
 | 14 | [Ainda Tem Promessa \(Ao Vivo\)](https://open.spotify.com/track/0pq3Oss8dTfNGsTKOEd7vZ) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Ainda Tem Promessa \(Ao Vivo\)](https://open.spotify.com/album/1FYY6MlQ0LmGY7aO8JEpG3) | 7:16 |
 | 15 | [Vou Seguir](https://open.spotify.com/track/5tnZ3K6wToSW0SADvzb6Dk) | [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Vou Seguir](https://open.spotify.com/album/56qORvrbaj9kPQLkgP2XXT) | 2:42 |

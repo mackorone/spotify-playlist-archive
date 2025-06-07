@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-20 songs - 7 hr 8 min
+20 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2020-11-27 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2020-11-27 |  |
 | [I Still Feel The Same About You](https://open.spotify.com/track/2kfNXuGSmdndkOO6L1Gx63) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [Ella: The Legendary Decca Recordings](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) | 3:18 | 2020-11-27 |  |
-| [Justin Hurwitz \- La La Land](https://open.spotify.com/episode/1I9a9iNPxtNQu7StOvSlEI) | [Song Exploder](https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG) | [Song Exploder](https://open.spotify.com/album/10lMwCjvzLCLwth2AW6cLG) | 20:51 | 2020-11-27 |  |
+| [Justin Hurwitz \- La La Land](https://open.spotify.com/episode/1I9a9iNPxtNQu7StOvSlEI) | [Song Exploder](https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG) | [Song Exploder](https://open.spotify.com/album/10lMwCjvzLCLwth2AW6cLG) | 20:32 | 2020-11-27 |  |
 | [Lady Gaga](https://open.spotify.com/episode/7DCT42yibqEgUMTn3ZqHOu) | [Bandwagons](https://open.spotify.com/show/1iRkm9c2ckj7LB5oeoJI9i) | [Bandwagons](https://open.spotify.com/album/1iRkm9c2ckj7LB5oeoJI9i) | 52:50 | 2020-11-27 |  |
 | [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:39 | 2020-11-27 |  |
 | [On the Road Again \- Live](https://open.spotify.com/track/1OmKo4t4Bh95xQI6WGiUR3) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits \(& Some That Will Be\)](https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC) | 2:33 | 2020-11-27 |  |

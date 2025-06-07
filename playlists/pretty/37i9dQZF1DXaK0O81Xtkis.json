@@ -1,13 +1,29 @@
 {
-  "description": "a little indie, a little pop.  Cover: Eli",
-  "num_followers": 227364,
+  "description": "a little indie, a little pop.  Cover: Kacy Hill ",
+  "num_followers": 227397,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktYgAAAACPFDoLrJ//g6x/ZxCcIHbJ",
+  "snapshot_id": "aEJn0wAAAABM5YIG+kQ2/02NhDZQXtlk",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "Chasing After You (From \u201cThe Buccaneers S2\u201d Soundtrack)",
+        "url": "https://open.spotify.com/album/1YptAC7HZdxLfTsRyzYHru"
+      },
+      "artists": [
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Chasing After You (From \u201cThe Buccaneers S2\u201d Soundtrack)",
+      "url": "https://open.spotify.com/track/14KDMtRqZDwg7gJAYRRcuF"
+    },
     {
       "added_at": "2025-05-30 04:00:34",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 190032,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "Florida California (State of Mind)",
+        "url": "https://open.spotify.com/album/1bFYQ8FnOc29LrzYNHFmvp"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "duration_ms": 147644,
+      "name": "Florida California (State of Mind)",
+      "url": "https://open.spotify.com/track/4jRNRiUAwyKaz2ogK8ESvn"
     },
     {
       "added_at": "2025-05-30 04:00:34",
@@ -43,6 +75,22 @@
       "duration_ms": 136925,
       "name": "Starry Eyed (with Chelsea Cutler)",
       "url": "https://open.spotify.com/track/4qPEcB7tDrrGu0eheFa6H4"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "Let The Light In",
+        "url": "https://open.spotify.com/album/7bM1GKA0zREafTz0rmbtBk"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Family Out Of Friends",
+      "url": "https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -77,6 +125,38 @@
       "url": "https://open.spotify.com/track/55g2TpbGrXxLdekbyui2Sl"
     },
     {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "I Might",
+        "url": "https://open.spotify.com/album/4Hm3EHLMSw7v8PRtO5j9wH"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "I Might",
+      "url": "https://open.spotify.com/track/7qxhvX5rwSTUJs07Ju55gu"
+    },
+    {
+      "added_at": "2025-05-30 04:00:34",
+      "album": {
+        "name": "Keeping Score",
+        "url": "https://open.spotify.com/album/5schDejMf0DBdtxhSgp63Q"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Keeping Score",
+      "url": "https://open.spotify.com/track/0rfOB4iAlPa5bSluHxZfTf"
+    },
+    {
       "added_at": "2025-05-30 04:00:34",
       "album": {
         "name": "lips",
@@ -107,22 +187,6 @@
       "duration_ms": 181874,
       "name": "body language",
       "url": "https://open.spotify.com/track/6xs1WkRjbCHuYrfsCWT7ap"
-    },
-    {
-      "added_at": "2025-05-30 04:00:34",
-      "album": {
-        "name": "Keeping Score",
-        "url": "https://open.spotify.com/album/5schDejMf0DBdtxhSgp63Q"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Keeping Score",
-      "url": "https://open.spotify.com/track/0rfOB4iAlPa5bSluHxZfTf"
     },
     {
       "added_at": "2025-02-28 05:01:00",
@@ -173,6 +237,22 @@
       "url": "https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ"
     },
     {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/52gX9KyI0a6oOMsxlRDzPl"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "duration_ms": 177278,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/3tpIyY5p1wKIxDjeMdvBdJ"
+    },
+    {
       "added_at": "2025-05-02 04:00:38",
       "album": {
         "name": "Second Wind",
@@ -203,6 +283,22 @@
       "duration_ms": 169636,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1c6bj876zIW0aApA07uW30"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "self-fulfilling prophecy",
+        "url": "https://open.spotify.com/album/6TSDeEgkTScNo2YSJZkCjI"
+      },
+      "artists": [
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 167055,
+      "name": "self-fulfilling prophecy",
+      "url": "https://open.spotify.com/track/582JbWRQHuIenmQw1AsKPE"
     },
     {
       "added_at": "2025-05-16 04:00:10",
@@ -485,38 +581,6 @@
       "url": "https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs"
     },
     {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK"
-      },
-      "artists": [
-        {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "What My Heart Needs",
-      "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
-    },
-    {
       "added_at": "2025-04-11 04:00:17",
       "album": {
         "name": "INSIDE :",
@@ -547,54 +611,6 @@
       "duration_ms": 144445,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/1PUfHBF7ggLkIqKl3aSvqR"
-    },
-    {
-      "added_at": "2025-03-30 23:24:50",
-      "album": {
-        "name": "Cr\u00e8me Brul\u00e9e",
-        "url": "https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt"
-      },
-      "artists": [
-        {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
-        }
-      ],
-      "duration_ms": 179045,
-      "name": "Cr\u00e8me Brul\u00e9e",
-      "url": "https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC"
-    },
-    {
-      "added_at": "2025-04-18 04:05:00",
-      "album": {
-        "name": "Concrete Boy",
-        "url": "https://open.spotify.com/album/3iK8JoFrmS2LLgA0pTO7Ci"
-      },
-      "artists": [
-        {
-          "name": "Adrian Lyles",
-          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
-        }
-      ],
-      "duration_ms": 129483,
-      "name": "Concrete Boy",
-      "url": "https://open.spotify.com/track/3R1cGeXcNA6yIF66vclK1h"
-    },
-    {
-      "added_at": "2025-04-11 18:17:08",
-      "album": {
-        "name": "Father Time (10am)",
-        "url": "https://open.spotify.com/album/6CiNSkolG9MwDaKYidLERu"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "Father Time (10am)",
-      "url": "https://open.spotify.com/track/1gr4SwXkiwhaHFAkFneIpA"
     },
     {
       "added_at": "2025-04-11 04:00:17",
@@ -645,54 +661,6 @@
       "url": "https://open.spotify.com/track/2K7joY7tfceQ5GRhibXpN2"
     },
     {
-      "added_at": "2025-04-04 04:00:31",
-      "album": {
-        "name": "Don\u2019t Tell The Girls",
-        "url": "https://open.spotify.com/album/1U932jtjwu2EAPpJgAgmGR"
-      },
-      "artists": [
-        {
-          "name": "BIZZY",
-          "url": "https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk"
-        }
-      ],
-      "duration_ms": 184837,
-      "name": "Don't Tell The Girls",
-      "url": "https://open.spotify.com/track/3zMr8WPJTChcnrJR2kXqHa"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/0vh29UqwakrXXKoXNx0pFE"
-      },
-      "artists": [
-        {
-          "name": "Girlish",
-          "url": "https://open.spotify.com/artist/5PfYBii9FIHzxC5lJBYyW9"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/5SRtYF8McqIjXUfuZ6pkRg"
-    },
-    {
-      "added_at": "2025-03-28 04:26:12",
-      "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 144424,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
-    },
-    {
       "added_at": "2025-02-14 05:00:19",
       "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
@@ -707,74 +675,6 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "don't blow the candles out",
-        "url": "https://open.spotify.com/album/0N6eI2jcaJSrX1K50gR05j"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "don't blow the candles out",
-      "url": "https://open.spotify.com/track/5F8TjzFBjOK6zCwZZY44b8"
-    },
-    {
-      "added_at": "2025-04-04 04:00:31",
-      "album": {
-        "name": "ricochet",
-        "url": "https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "ricochet",
-      "url": "https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb"
-    },
-    {
-      "added_at": "2025-03-14 04:00:02",
-      "album": {
-        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        },
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "HOMEsick",
-        "url": "https://open.spotify.com/album/69KjgUNpD2ASxN0J0mgbIt"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 164430,
-      "name": "my girl",
-      "url": "https://open.spotify.com/track/7zgkmSJe6oVuMpZzE7pGlM"
     },
     {
       "added_at": "2025-04-04 04:00:31",
@@ -809,54 +709,6 @@
       "url": "https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt"
     },
     {
-      "added_at": "2025-04-04 04:00:31",
-      "album": {
-        "name": "heavy",
-        "url": "https://open.spotify.com/album/5nkbGoZXVKxCLxAezGg2sP"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 187532,
-      "name": "heavy",
-      "url": "https://open.spotify.com/track/2nDnRXjD0tEq9Bfmu3qNm3"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "Sleep When We're Dead",
-        "url": "https://open.spotify.com/album/6KupgnVlFhSUX0sjBvwbFy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 220344,
-      "name": "Sleep When We're Dead",
-      "url": "https://open.spotify.com/track/35fc0NCsFFXUkRkMJQZ0b2"
-    },
-    {
-      "added_at": "2025-03-28 04:26:12",
-      "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 212411,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt"
-    },
-    {
       "added_at": "2025-03-14 04:00:02",
       "album": {
         "name": "Relationships",
@@ -871,22 +723,6 @@
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B"
-      },
-      "artists": [
-        {
-          "name": "Dirt Flirt",
-          "url": "https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT"
     },
     {
       "added_at": "2025-03-07 05:00:39",
@@ -937,70 +773,6 @@
       "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
     },
     {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/6yaYem5lqtFW5V16lJxOSn"
-      },
-      "artists": [
-        {
-          "name": "Finn Askew",
-          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/4CUY1kNNXIepII3eHqOyZ4"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "part time thing",
-        "url": "https://open.spotify.com/album/3RbW8HTCIc30mhFCiGa0N3"
-      },
-      "artists": [
-        {
-          "name": "Nafeesisboujee",
-          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
-        }
-      ],
-      "duration_ms": 118952,
-      "name": "part time thing",
-      "url": "https://open.spotify.com/track/3xlVGQ7uZhoErYlPNa0HB8"
-    },
-    {
-      "added_at": "2025-02-21 05:00:23",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/7gnf1UNA18n7SThlTZa3CS"
-      },
-      "artists": [
-        {
-          "name": "Kai Bosch",
-          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
-        }
-      ],
-      "duration_ms": 202593,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/04GhEfWKEragdPIlf1s8hd"
-    },
-    {
-      "added_at": "2025-03-21 04:01:01",
-      "album": {
-        "name": "cats can surf",
-        "url": "https://open.spotify.com/album/4PWFmTNCil8STXVDlLXNsu"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 164120,
-      "name": "cats can surf",
-      "url": "https://open.spotify.com/track/3WUBOD1vDawuuHFlnUXjmV"
-    },
-    {
       "added_at": "2025-02-28 05:01:00",
       "album": {
         "name": "Sorry I'm Here For Someone Else",
@@ -1015,22 +787,6 @@
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
-    },
-    {
-      "added_at": "2025-02-21 05:00:23",
-      "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 192257,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS"
     },
     {
       "added_at": "2025-02-14 05:00:19",

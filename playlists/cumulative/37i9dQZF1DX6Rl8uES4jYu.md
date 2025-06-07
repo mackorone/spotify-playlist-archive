@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-474 songs - 1 day 2 hr 25 min
+475 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Don't Trip](https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:00 | 2022-04-22 | 2023-12-09 |
 | [Don’t Care](https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 5:22 | 2022-10-14 | 2023-01-20 |
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
-| [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 |  |
+| [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 | 2025-06-07 |
 | [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 | 2022-12-02 | 2024-04-19 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 | 2023-10-14 |
 | [Easy](https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Who?](https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx) | 2:58 | 2022-04-22 | 2023-10-21 |
@@ -459,6 +459,7 @@
 | [Where Do I Go From Here](https://open.spotify.com/track/6GgilVSiwORRZpxDVS5VrZ) | [Soulpersona](https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362), [Princess Freesia](https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER) | [Extended Pleasure](https://open.spotify.com/album/3ajFuJCUGHt96d8EE9BmMn) | 5:54 | 2021-09-21 | 2022-04-21 |
 | [Which Side You're On](https://open.spotify.com/track/7aBjTHXRcZed06n0rWgyLu) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Which Side You're On](https://open.spotify.com/album/7Lo6Fc6SRr1AxIKIK3Fbjz) | 3:34 | 2021-05-14 | 2022-04-20 |
 | [White Knuckles](https://open.spotify.com/track/4Oq4ZOVKOHkQdqQnR3WuH3) | [Yes Please](https://open.spotify.com/artist/5CCzvTURuUq1HQ6bazBVTc) | [White Knuckles](https://open.spotify.com/album/0KiiuXruo2JhUHxpDP4Add) | 4:02 | 2021-09-21 | 2022-04-21 |
+| [Who I Really Am](https://open.spotify.com/track/7owXpWh50yqVlul8WnSb8J) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) | [Who I Really Am](https://open.spotify.com/album/07D4Uocg83G7iPN8BZVNIh) | 2:55 | 2025-06-06 |  |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 | 2024-01-27 |
 | [Why Do I?](https://open.spotify.com/track/1idb0UwGFUvrLRxGndnQhr) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/384hEnsXsFYB37WvBwuXBI) | 3:57 | 2021-02-22 | 2022-07-18 |
 | [Wild](https://open.spotify.com/track/6NL3hDAjEwwGzWJLaJUqpE) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Wild](https://open.spotify.com/album/0EI2qlr3ZYkERbLzVa78B1) | 2:49 | 2022-03-18 | 2025-02-08 |

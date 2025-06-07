@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring beaux 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,045 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,050 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 49 | [COMING HOME 2 U](https://open.spotify.com/track/7cRBPefk7PJ1ARS0NRm4t6) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [girlhood.](https://open.spotify.com/album/6pLO5gFGkmR3dUAx8EEtqS) | 4:08 |
 | 50 | [Use A Friend](https://open.spotify.com/track/7fGzH1N3Hv3TZOuscdSLvn) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Only Making It Worse](https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx) | 3:18 |
 | 51 | [My Brother's Guest Bed](https://open.spotify.com/track/609Nd2xhxPgFxdSFx2F3VN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [My Brother's Guest Bed](https://open.spotify.com/album/430a74Rz9ehcYqIGQE5Pqr) | 2:36 |
-| 52 | [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 |
-| 53 | [Like You Mean It](https://open.spotify.com/track/4I6YA2dALn0knco3BylDmf) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Like You Mean It](https://open.spotify.com/album/1OPRflgKe11QJ3SJa65ynF) | 3:04 |
+| 52 | [Like You Mean It](https://open.spotify.com/track/4I6YA2dALn0knco3BylDmf) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Like You Mean It](https://open.spotify.com/album/1OPRflgKe11QJ3SJa65ynF) | 3:04 |
+| 53 | [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 |
 | 54 | [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 |
 | 55 | [Anything/Anyone](https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [Anything/Anyone](https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU) | 2:40 |
 | 56 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 63 | [Praying Mantis](https://open.spotify.com/track/2kKEe3yPOh6ZdNbZnZnB3x) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Praying Mantis](https://open.spotify.com/album/2JLl4NMrwZKKrsnO2lxGWX) | 3:06 |
 | 64 | [God Isn't Real](https://open.spotify.com/track/41VkkMHjk3hTHEemUhwePp) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [God Isn't Real](https://open.spotify.com/album/2aebxXPrkZTqvW6ssEijwT) | 3:56 |
 | 65 | [Easy on My Little Heart](https://open.spotify.com/track/3TR90HQoCo1riKefUOeBAv) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Easy on My Little Heart](https://open.spotify.com/album/6NAo4g4qh1iXDR9fNBUi3a) | 2:16 |
-| 66 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 |
-| 67 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
-| 68 | [I Want To](https://open.spotify.com/track/6Qy3Cu6LR03vzYlR2og4i4) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Want To](https://open.spotify.com/album/24K1DBHx7GjbRss1x0r9qx) | 2:48 |
+| 66 | [I Want To](https://open.spotify.com/track/6Qy3Cu6LR03vzYlR2og4i4) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [I Want To](https://open.spotify.com/album/24K1DBHx7GjbRss1x0r9qx) | 2:48 |
+| 67 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 |
+| 68 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
 | 69 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 |
-| 70 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
-| 71 | [Made It Happen](https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [Made It Happen](https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG) | 3:59 |
+| 70 | [Made It Happen](https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [Made It Happen](https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG) | 3:59 |
+| 71 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
 | 72 | [Feeling It All](https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Feeling It All](https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28) | 3:20 |
 | 73 | [Secret Garden](https://open.spotify.com/track/61WmkXkc4GLLnrq6npOmPP) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Secret Garden](https://open.spotify.com/album/39eyEARANqCAq59mwRdT4K) | 5:19 |
 | 74 | [hush!](https://open.spotify.com/track/25WxEpbCml2kL1YJVNVa64) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:34 |

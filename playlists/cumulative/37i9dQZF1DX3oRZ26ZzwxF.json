@@ -227,24 +227,6 @@
     },
     {
       "album": {
-        "name": "Booska Yeyo",
-        "url": "https://open.spotify.com/album/1SnEDzWgFxOJOyUtATEaEG"
-      },
-      "artists": [
-        {
-          "name": "Jr La Melo",
-          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
-        }
-      ],
-      "date_added": "2025-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 107194,
-      "name": "Booska Yeyo",
-      "url": "https://open.spotify.com/track/75ZTJOFuzBIC3N20ppb30A"
-    },
-    {
-      "album": {
         "name": "BOUCHEKARAILLE",
         "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
       },
@@ -260,6 +242,24 @@
       "duration_ms": 186206,
       "name": "BOUCHEKARAILLE",
       "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
+    },
+    {
+      "album": {
+        "name": "BOUSKA YEYO",
+        "url": "https://open.spotify.com/album/1SnEDzWgFxOJOyUtATEaEG"
+      },
+      "artists": [
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107194,
+      "name": "BOUSKA YEYO",
+      "url": "https://open.spotify.com/track/75ZTJOFuzBIC3N20ppb30A"
     },
     {
       "album": {

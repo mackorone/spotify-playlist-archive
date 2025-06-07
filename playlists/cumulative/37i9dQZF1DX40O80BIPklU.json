@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 157741,
       "name": "Abunda",
       "url": "https://open.spotify.com/track/70xxQPdThFNAsyJppFyx40"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 200064,
       "name": "Alley Oop",
       "url": "https://open.spotify.com/track/4prSeUgilnoQ6J5I3iMpQT"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 218823,
       "name": "Bien Locos",
       "url": "https://open.spotify.com/track/1FoRhO8UUmgUOrX9oCuASy"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 184501,
       "name": "Cholombiano",
       "url": "https://open.spotify.com/track/5KHPWQnt8Yi41zit7WqFp8"
@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Pneuma",
+        "url": "https://open.spotify.com/album/0a6JfB23BjM0aj9vSsnoMv"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188765,
+      "name": "David",
+      "url": "https://open.spotify.com/track/3hujY1Y02IcqwpEc6qxcu0"
+    },
+    {
+      "album": {
         "name": "De La Mata",
         "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
       },
@@ -3374,6 +3392,28 @@
       "duration_ms": 271646,
       "name": "DHARMA",
       "url": "https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/3eXcGyDMSAQVmguugUuaqV"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/16XAN9gpC9SRqurufHuOtG"
     },
     {
       "album": {
@@ -4373,6 +4413,28 @@
     },
     {
       "album": {
+        "name": "Fiera",
+        "url": "https://open.spotify.com/album/23fQLb3hOhtp0e40E4Jl5C"
+      },
+      "artists": [
+        {
+          "name": "KOK\u00d4 CEC\u00ca",
+          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
+        },
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221189,
+      "name": "Fiera",
+      "url": "https://open.spotify.com/track/6m1F2u2z2IYSWXPCFgCEeK"
+    },
+    {
+      "album": {
         "name": "Fiesta De Barrio",
         "url": "https://open.spotify.com/album/069edRbz8dGWvqvcgMUJDw"
       },
@@ -4733,6 +4795,24 @@
     },
     {
       "album": {
+        "name": "Golfista",
+        "url": "https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158927,
+      "name": "Golfista",
+      "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
+    },
+    {
+      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -4804,6 +4884,54 @@
       "duration_ms": 195548,
       "name": "Guajiro Dream",
       "url": "https://open.spotify.com/track/1KNF7lPnpTrLJcJS2LD6Xw"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2JEQgrVvfNvpdvF7500cRW"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "$kyhook",
+          "url": "https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1lCVw5qZ1TSZ7KKFMFBWCm"
+    },
+    {
+      "album": {
+        "name": "HERRERA & SHEPHERD",
+        "url": "https://open.spotify.com/album/5cHrPQAHhgzK95vja01TcE"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Reke",
+          "url": "https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4"
+        },
+        {
+          "name": "KAI7ER",
+          "url": "https://open.spotify.com/artist/7KtgKyVdys6aF68eamw1xr"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173380,
+      "name": "HERRERA & SHEPHERD",
+      "url": "https://open.spotify.com/track/6nMYEa0Yr4zRmWBZlxi8ba"
     },
     {
       "album": {
@@ -5189,6 +5317,32 @@
     },
     {
       "album": {
+        "name": "K Chula",
+        "url": "https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "OKEIFLOU",
+          "url": "https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193398,
+      "name": "K Chula",
+      "url": "https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb"
+    },
+    {
+      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -5566,7 +5720,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 200930,
       "name": "LA LUZ DEL BARRIO",
       "url": "https://open.spotify.com/track/0HXnUllePUuqMgLxOzqTts"
@@ -11261,6 +11415,40 @@
     },
     {
       "album": {
+        "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
+        "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287679,
+      "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
+      "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
+    },
+    {
+      "album": {
         "name": "Triste Bolero",
         "url": "https://open.spotify.com/album/6pyYHUe0Il68a8DxsuJxIL"
       },
@@ -12010,7 +12198,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 187931,
       "name": "\u00bfQui\u00e9n Pierde?",
       "url": "https://open.spotify.com/track/6HO5wfhnNnI6U41jJMSlj8"

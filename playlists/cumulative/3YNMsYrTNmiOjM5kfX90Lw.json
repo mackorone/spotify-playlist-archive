@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 198755,
       "name": "AJUTOARE",
       "url": "https://open.spotify.com/track/6KJaDciaw4weCvUABxndIH"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 111453,
       "name": "Always There (When I Need Her)",
       "url": "https://open.spotify.com/track/7F0Z2aHCxiPktCa7qXdHbX"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 177460,
       "name": "COMO SEA",
       "url": "https://open.spotify.com/track/4qa5XvzmVuyYHqOzKLiluA"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 342857,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 190432,
       "name": "Garley (Move)",
       "url": "https://open.spotify.com/track/55MqIZHmox9UsPVEaMN9mZ"
@@ -4907,6 +4907,28 @@
     },
     {
       "album": {
+        "name": "Beast In Us",
+        "url": "https://open.spotify.com/album/7y4R0VCEjWpH2CF5MHEHsn"
+      },
+      "artists": [
+        {
+          "name": "MXIII",
+          "url": "https://open.spotify.com/artist/1lbWjqthTnjpuOArI4vx6s"
+        },
+        {
+          "name": "J.s.R",
+          "url": "https://open.spotify.com/artist/3cYYDWmA8QHS53YfGwJWRe"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/3Z33uq72730lBDrSuM9QLU"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/6x625ZKUxKJOnE82yzNzBH"
       },
@@ -4994,7 +5016,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 106618,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/13bv99oED0SuoVnLcAqfdK"
@@ -6151,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "Hustle and Heart",
+        "url": "https://open.spotify.com/album/4K1K5forhuFxjtJ9yN1xGO"
+      },
+      "artists": [
+        {
+          "name": "Viberootz",
+          "url": "https://open.spotify.com/artist/6tkLX3EevkfgtiwMWZDG2Z"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174335,
+      "name": "Love Storm",
+      "url": "https://open.spotify.com/track/3CocVPLCQ37AOyqHFkNB8k"
+    },
+    {
+      "album": {
         "name": "Love the Way We Shine",
         "url": "https://open.spotify.com/album/0wEsBVB0oLTbUQ2YLjL8Ti"
       },
@@ -6663,6 +6703,24 @@
     },
     {
       "album": {
+        "name": "Meu Guerreiro",
+        "url": "https://open.spotify.com/album/0itBkMThlrRzxUYBkvzC6V"
+      },
+      "artists": [
+        {
+          "name": "GuiFeee",
+          "url": "https://open.spotify.com/artist/0hCDpVc6X1OwTKb1h9rHHQ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186479,
+      "name": "Meu Guerreiro",
+      "url": "https://open.spotify.com/track/76tQ4KVCuUfnqMmvczpOX2"
+    },
+    {
+      "album": {
         "name": "H-24",
         "url": "https://open.spotify.com/album/5AwWzveaqlZHWC1MgxcShq"
       },
@@ -6964,7 +7022,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 143819,
       "name": "MOTH",
       "url": "https://open.spotify.com/track/2vXk9cgccmIOS1qdFLF8wF"
@@ -7540,7 +7598,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 138149,
       "name": "OH CRAZY",
       "url": "https://open.spotify.com/track/2IVQe8Hyuux2nMMadtr9ta"
@@ -8481,6 +8539,24 @@
     },
     {
       "album": {
+        "name": "Bruise Art",
+        "url": "https://open.spotify.com/album/0GHpwIy6iwFwAeRh80ctNV"
+      },
+      "artists": [
+        {
+          "name": "Gansta Skaa",
+          "url": "https://open.spotify.com/artist/26fZV2szHWr1dRxb4noJ3c"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151301,
+      "name": "Rerun",
+      "url": "https://open.spotify.com/track/09sSN9O9ymQ9xfax5BVVjd"
+    },
+    {
+      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/1sCKcjPik8ghcJB2Q1kKSy"
       },
@@ -9252,7 +9328,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 177319,
       "name": "Space N Time",
       "url": "https://open.spotify.com/track/70bQbnJmEl8492pMI22thF"
@@ -10294,7 +10370,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 197720,
       "name": "Todo Tiene Su Final",
       "url": "https://open.spotify.com/track/10LLgIh9GyQBq5sTDSJwzw"
@@ -10598,7 +10674,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 168711,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/2W7MyG1hjT1LTxs8UWpzqX"
@@ -11048,7 +11124,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 184293,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/3NwRd42H3xGcK7oww2tHkz"

@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-214 songs - 9 hr 10 min
+215 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [The Ballad of the Witches' Road \(True Crime Version\)](https://open.spotify.com/track/13JG9286axiC4Vf19BXopw) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 1:42 | 2024-09-20 | 2025-01-31 |
 | [The Bamboo Spring](https://open.spotify.com/track/3i4VFsgDWhd1L52DlNS4qE) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 3:18 | 2024-01-05 |  |
 | [The Convergence \(Main Theme\)](https://open.spotify.com/track/06oxloNrchPg8GOovW6k1V) | [Moonju Lee](https://open.spotify.com/artist/0vepBUJFXH3lLEUO8bdbbS), [Netmarble Monster Sound Team](https://open.spotify.com/artist/4FltW3DdTf4VjREPFrpmBq) | [MARVEL Future Revolution: The Convergence Soundtrack \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7xdi478x5z8DrcRcC7WG1w) | 1:43 | 2024-01-05 |  |
+| [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2025-06-06 |  |
 | [The Final Battle Begins](https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 4:21 | 2024-01-05 |  |
 | [The Hero of the Multiverse](https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If...? \- An Immersive Story \(Original Soundtrack\)](https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8) | 1:23 | 2024-08-16 |  |
 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 | 2024-01-05 |  |

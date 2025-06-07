@@ -4,7 +4,7 @@
 
 > I'm a real bad girl but a real good kisser 🔁
 
-2,406 songs - 5 day 0 hr 58 min
+2,407 songs - 5 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2360,6 +2360,7 @@
 | [Wish We Were Strangers](https://open.spotify.com/track/7JmxTYEbTKlKMqtWhlw8DT) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Wish We Were Strangers](https://open.spotify.com/album/31UMGvNuEYAL6n6TabZp9r) | 2:48 | 2022-08-19 | 2022-10-08 |
 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 | 2022-05-20 | 2022-08-19 |
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-05-20 | 2024-01-05 |
+| [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 | 2025-06-06 |  |
 | [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 | 2023-10-24 |
 | [With You With Me](https://open.spotify.com/track/3Y0rnBBAxCWab8Y8CsayUg) | [YUMI](https://open.spotify.com/artist/3xZnNKEKJLFSv7kP7NdWj5) | [With You With Me](https://open.spotify.com/album/2tOCOjZOZltoT7eRcoUErx) | 3:51 | 2019-05-26\* | 2019-08-13 |
 | [WITHOUT ME](https://open.spotify.com/track/07U3HKqYqyeSM1PTCnaqlM) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [WITHOUT ME](https://open.spotify.com/album/1IOwyKItig1kQXSHAX8X5J) | 2:57 | 2021-10-10 | 2021-10-11 |

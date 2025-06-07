@@ -4,7 +4,7 @@
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Estevie
 
-424 songs - 1 day 1 hr 8 min
+425 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Corazón Enamorado](https://open.spotify.com/track/78iEnVk4OmYctV5syJPtif) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 4:07 | 2022-01-14 | 2022-11-14 |
 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 | 2022-01-14 | 2024-10-11 |
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-04-29 | 2024-04-19 |
-| [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-20 |  |
+| [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-20 | 2025-06-07 |
 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 | 2023-05-01 | 2024-05-03 |
 | [Cómo Te Voy a Olvidar](https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3ERz9oKdZXefGVnDajDR5m) | 4:20 | 2022-04-29 | 2022-07-28 |
 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 | 2023-05-01 |  |
@@ -314,6 +314,7 @@
 | [Pedazo de papel](https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Pedazo de papel](https://open.spotify.com/album/1HfXPWyVeJyUfE6Wi9ILCa) | 3:56 | 2024-05-03 | 2025-01-15 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2023-05-01 | 2024-05-03 |
 | [Peligrosa y Linda](https://open.spotify.com/track/67H1L34DWG4M0wr4Y0VuNj) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX), [Wilceu Pause](https://open.spotify.com/artist/44Eoyx3pVM83sgqDzyY7sk) | [Peligrosa y Linda](https://open.spotify.com/album/1Ja4Zw46RSoClT3fBjFv3G) | 3:30 | 2024-05-03 | 2025-04-12 |
+| [Pelotero A La Bola](https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X) | [Pelotero A La Bola](https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6) | 2:36 | 2025-06-06 |  |
 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 | 2024-06-28 | 2025-05-03 |
 | [Periquito](https://open.spotify.com/track/1vqFPo2MG1uAsXLgA2yo02) | [Salo Venegas](https://open.spotify.com/artist/3T3RSeGnajowqGtFhXRqrN) | [Periquito](https://open.spotify.com/album/6DqfYxqqPhpNrOW9PJLK9F) | 3:38 | 2025-01-05 |  |
 | [Pero La Recuerdo](https://open.spotify.com/track/5aTH2uXcAXh36qd4iYzx99) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Los Gigantes De La Cumbia](https://open.spotify.com/album/6X18OZwslOKTDm43TmOF4M) | 4:02 | 2022-01-14 | 2022-11-13 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 36355,
+  "num_followers": 36375,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "JUST FRIENDS",
-        "url": "https://open.spotify.com/album/2KNsDuRNuH5DxQui3aqEyV"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "JUST FRIENDS",
-      "url": "https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "pacifico",
         "url": "https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 198349,
       "name": "pacifico",
       "url": "https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "JUST FRIENDS",
+        "url": "https://open.spotify.com/album/2KNsDuRNuH5DxQui3aqEyV"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "JUST FRIENDS",
+      "url": "https://open.spotify.com/track/37QEOk1qyAZFVLL5YApiht"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -767,22 +767,18 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "From The Stars EP",
-        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 260156,
-      "name": "From The Stars",
-      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -803,18 +799,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+        "name": "From The Stars EP",
+        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+      "duration_ms": 260156,
+      "name": "From The Stars",
+      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 227934,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Put Your Love On Me (feat. Henry Camamile)",
         "url": "https://open.spotify.com/album/2nQZyTRC7ckSchCSdvL9Vg"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 199718,
       "name": "Put Your Love On Me (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/3vgDmz3zXSanBA52SeTmtD"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "added_at": "2025-05-29 23:00:11",

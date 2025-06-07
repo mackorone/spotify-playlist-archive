@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 > Want some metal? Better to start with the essentials\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,786,050 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,786,042 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

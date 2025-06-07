@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,634 likes - 121 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,660 likes - 120 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 8 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 |
 | 9 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
 | 10 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 |
-| 11 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 |
-| 12 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 |
-| 13 | [Immersive](https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Immersive](https://open.spotify.com/album/7JEyelqrTWVdYq5jhH2a22) | 3:04 |
-| 14 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
-| 15 | [93.](https://open.spotify.com/track/1qQgYfb28afmiq0G3ecxWj) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5g48TWpACPOJSEMFTwceZZ) | 1:24 |
-| 16 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 |
-| 17 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 |
-| 18 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
-| 19 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 |
-| 20 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 |
+| 11 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 |
+| 12 | [Immersive](https://open.spotify.com/track/5eqdjCfqFcbX4F6GBISrHm) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Immersive](https://open.spotify.com/album/7JEyelqrTWVdYq5jhH2a22) | 3:04 |
+| 13 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
+| 14 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 |
+| 15 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 |
+| 16 | [93.](https://open.spotify.com/track/1qQgYfb28afmiq0G3ecxWj) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5g48TWpACPOJSEMFTwceZZ) | 1:24 |
+| 17 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 |
+| 18 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 |
+| 19 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
+| 20 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 |
 | 21 | [Sunshine](https://open.spotify.com/track/5flCtFDMbtxnbc33pekd92) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunshine](https://open.spotify.com/album/5UWKVYrWjt1MrnUrQehaZ4) | 2:12 |
 | 22 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 |
 | 23 | [McCoy](https://open.spotify.com/track/2go8ClPo7rUZiVwTYjslUO) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [In Rainbows](https://open.spotify.com/album/2WPUYjAwgoEHaHJvBARs2O) | 3:43 |
@@ -128,6 +128,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 118 | [Hip Hop \- Instrumental Version](https://open.spotify.com/track/3eGZIooxS9bXBFl6xI344j) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:45 |
 | 119 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 |
 | 120 | [Players \(Instrumental\)](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
-| 121 | [Drugs \- Instrumental](https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:19 |
 
-Snapshot ID: `aCj84AAAAACM2NxqvH6CjyjGlrYbPere`
+Snapshot ID: `aEMB6wAAAABDnXeSXvBqMK280RnCaABJ`

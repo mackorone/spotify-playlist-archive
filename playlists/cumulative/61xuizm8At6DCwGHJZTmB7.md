@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-617 songs - 2 day 11 hr 57 min
+618 songs - 2 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2024-07-23 | 2024-10-10 |
 | [Praise Is The Breakthrough](https://open.spotify.com/track/6XtE7xTr9ME1EMw5aqcPzu) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [Chapel Sessions \(Vol\. 1\)](https://open.spotify.com/album/3N9X0XqmjcwlNO3ma61Ufc) | 5:21 | 2024-10-25 | 2025-01-25 |
 | [Praise The Lord \- Live](https://open.spotify.com/track/5Hxcds4VSqx8sWJK0ZoRaj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Matthew Harris](https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN) | [Praise The Lord \(Live\)](https://open.spotify.com/album/1ZFTdand5Rxb5mkQUytVlo) | 3:51 | 2023-07-14 | 2023-12-14 |
+| [Praise The Lord Forever](https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Praise The Lord Forever](https://open.spotify.com/album/0iql1Q9RHLdfX6e32SUxKJ) | 4:24 | 2025-06-06 |  |
 | [Praise You Anywhere \- Live](https://open.spotify.com/track/2GD9NVyL1EoQUA2MVW2HnX) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP), [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp) | [Praise You Anywhere \(Live\)](https://open.spotify.com/album/5MVkF6BeuBjlpWUxW9uWWG) | 4:12 | 2023-12-01 | 2024-09-10 |
 | [Pray You Never Leave](https://open.spotify.com/track/2VfuplNtg5McYruOmm90QM) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Without You & Pray You Never Leave](https://open.spotify.com/album/6wwnMCgf9B8Y3DxqKONZsi) | 4:00 | 2024-09-06 |  |
 | [Prayer For This Gathering \- Live](https://open.spotify.com/track/4trkYRoPHjISrClSrovlWs) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2tNV9tCgWoScrEvoplIXGP), [Chelsea Mason](https://open.spotify.com/artist/1Dos5OjKuGIgzgTQKrddFT) | [Prayer For This Gathering](https://open.spotify.com/album/6knjzyjQzFONBaOSZpj2hm) | 5:40 | 2024-02-23 | 2024-03-02 |

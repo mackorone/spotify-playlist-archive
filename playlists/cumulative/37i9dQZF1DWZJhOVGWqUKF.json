@@ -3547,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "GUTSY",
+        "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281124,
+      "name": "GUTSY",
+      "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+    },
+    {
+      "album": {
         "name": "H3ART",
         "url": "https://open.spotify.com/album/3mWCpFJ6BCujuMNFHBlLzd"
       },
@@ -8280,7 +8298,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 191746,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"

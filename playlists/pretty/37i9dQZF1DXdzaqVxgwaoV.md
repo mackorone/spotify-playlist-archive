@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,041 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,036 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 61 | [En Mi Pensamiento \(Te Necesito\)](https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 4:04 |
 | 62 | [Micaela](https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold](https://open.spotify.com/artist/4R5fxip31MUAZnwwSgdlmI) | [Salsa Pa Bacanes](https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu) | 4:53 |
 | 63 | [Así Te Quiero Yo](https://open.spotify.com/track/0yRCIDuZfg6eXy3Tg9B7iU) | [La Gran Banda Caleña](https://open.spotify.com/artist/4mSjsAYIPvfiRHmNmNH8a2), [Jorge Solís](https://open.spotify.com/artist/1reY0a17u02VndROtflcB7) | [Picoteando por Ahí y Otros Éxitos](https://open.spotify.com/album/5QrcL2jTqliHd8O563vBbQ) | 3:48 |
-| 64 | [El Ausente](https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:26 |
+| 64 | [Baión de Madrid](https://open.spotify.com/track/2DOuK2pYUrJF00VZuZV591) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:55 |
 | 65 | [Dame Tu Mujer José](https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:51 |
 | 66 | [La Dueña de Mi Suerte](https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco) | [Ramiro Y Joche](https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1) | [Premio Platino para los Vallenatos Nueva Generación](https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI) | 5:05 |
 | 67 | [Ceniza Fría](https://open.spotify.com/track/3q15KHRykWDh4IzLuVj8sc) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Éxitos los Chiches Vallenatos](https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU) | 4:01 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 78 | [Con Verraquera](https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:08 |
 | 79 | [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 |
 | 80 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
-| 81 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos, Vol\. 1](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 |
-| 82 | [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 |
+| 81 | [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 |
+| 82 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos, Vol\. 1](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 |
 | 83 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
 | 84 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
 | 85 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 |

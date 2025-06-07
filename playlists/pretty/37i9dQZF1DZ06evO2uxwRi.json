@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 41948,
+  "num_followers": 41956,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADVapWnNsN5z4NEgv9sgh7q",
+  "snapshot_id": "aEDeAAAAAAAwWvxjYd4G42qobQYT46+0",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
       "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 204400,
-      "name": "nothing matters (with Jordan Pundik of New Found Glory)",
-      "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
+      "duration_ms": 217413,
+      "name": "It's Not Your Fault",
+      "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 217413,
-      "name": "It's Not Your Fault",
-      "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
+      "duration_ms": 204400,
+      "name": "nothing matters (with Jordan Pundik of New Found Glory)",
+      "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
     },
     {
       "added_at": null,

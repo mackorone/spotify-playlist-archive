@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover:
+> New music off the beaten track\. Cover: SPARKLING, Digitalism
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,770 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,726 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Look For You](https://open.spotify.com/track/7GgDTBz5u5qTVyQJTE6wco) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Look For You](https://open.spotify.com/album/24U5qXKf5kWLyHR27IeKMr) | 3:33 |
 | 75 | [Heat](https://open.spotify.com/track/0areojbnyM4jm0jQ6fU6ko) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Heat](https://open.spotify.com/album/2kYla7qUsfm8fHbS2ODxP0) | 2:30 |
 
-Snapshot ID: `aEITmwAAAADkMWc6K4wt0DW9JxY9wgrx`
+Snapshot ID: `AAAAADCIXBQS+qIZ3pJnWZlKTQ1F5hLb`

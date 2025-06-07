@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-172 songs - 9 hr 36 min
+173 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,13 +51,14 @@
 | [Godspeed](https://open.spotify.com/track/2ARGyDTsorNJG3vclTCzwq) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Covers](https://open.spotify.com/album/1sERYSzi32APhDRjLAAm7r) | 2:42 | 2024-12-06 | 2025-05-28 |
 | [Gold](https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Gold](https://open.spotify.com/album/5r5nju63zf21QC2ApeWNt2) | 2:45 | 2023-01-04 | 2025-03-01 |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-22 |  |
-| [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2023-01-04 |  |
+| [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2023-01-04 | 2025-06-07 |
 | [Good Day](https://open.spotify.com/track/5zsTxXxpVzWC9MqeNJ3Pes) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:53 | 2023-11-17 | 2024-04-19 |
 | [Good In Me](https://open.spotify.com/track/0p4K6vPDV2bnwCK1hihpt7) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good In Me](https://open.spotify.com/album/7yQrM7GtpRyxvJyXcE351Z) | 3:01 | 2023-01-04 | 2024-09-21 |
 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 | 2024-07-26 | 2025-05-28 |
 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2023-11-15 | 2024-03-02 |
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-02-24 | 2023-07-26 |
 | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/2DuDGvtZmUZZINTOvhm3CR) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Happy Place \(feat\. Jasmine Thompson\)](https://open.spotify.com/album/38xoqyWybDC5qjbsshhRkd) | 3:06 | 2023-01-04 | 2023-11-18 |
+| [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 | 2025-06-06 |  |
 | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:40 | 2023-01-04 | 2025-02-01 |
 | [Healing](https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Healing](https://open.spotify.com/album/3lcnhk95qdnXkvcGeVuKXo) | 5:03 | 2025-02-24 |  |
 | [Hear My Voice](https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Hear My Voice](https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49) | 2:31 | 2025-03-28 |  |
@@ -133,7 +134,7 @@
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2023-03-10 | 2023-11-16 |
 | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/track/76xRTCRN9TqfvkEfRtz9Kk) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/album/1I50JGbfZdDfgBMJSx53mM) | 3:43 | 2023-09-15 |  |
 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2023-01-04 | 2023-08-05 |
-| [Spin](https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Spin](https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT) | 3:30 | 2025-01-31 |  |
+| [Spin](https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Spin](https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT) | 3:30 | 2025-01-31 | 2025-06-07 |
 | [Stand By You](https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:39 | 2023-01-04 |  |
 | [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 | 2023-04-07 |  |
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-03 |  |

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Little Simz
 
-2,979 songs - 6 day 16 hr 42 min
+2,980 songs - 6 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2740,6 +2740,7 @@
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 | 2024-01-05 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-05-25 | 2023-06-16 |
 | [Twust](https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij) | [HStikkytokky](https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb), [General G](https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO) | [Twust](https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6) | 2:26 | 2023-04-25 | 2023-05-12 |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-05 |  |
 | [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-04-24 | 2025-06-06 |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2024-11-22 | 2025-01-17 |
 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 | 2023-12-08 | 2024-01-13 |

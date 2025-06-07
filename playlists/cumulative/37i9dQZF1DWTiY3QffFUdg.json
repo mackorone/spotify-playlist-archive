@@ -1025,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "Country Roads",
+        "url": "https://open.spotify.com/album/3qP68dpdi9QrNjYKNTsBP3"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190438,
+      "name": "Country Roads",
+      "url": "https://open.spotify.com/track/5zCEzQtMVqQPnjua0Orfyc"
+    },
+    {
+      "album": {
         "name": "Cover Up My Face",
         "url": "https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8"
       },
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
@@ -2517,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Iced Lips",
+        "url": "https://open.spotify.com/album/3B38JWfPV8tzWBwB2tOHg1"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139462,
+      "name": "Iced Lips",
+      "url": "https://open.spotify.com/track/14896rLkWF8L1oaaMiMGBQ"
+    },
+    {
+      "album": {
         "name": "In My Hands (with Camden Cox)",
         "url": "https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW"
       },
@@ -2944,7 +2984,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 142991,
       "name": "Like This",
       "url": "https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL"
@@ -3560,6 +3600,28 @@
       "duration_ms": 120000,
       "name": "New Phone Who Dis?",
       "url": "https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF"
+    },
+    {
+      "album": {
+        "name": "No Division",
+        "url": "https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "XSALT",
+          "url": "https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366613,
+      "name": "No Division (feat. XSALT)",
+      "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
     },
     {
       "album": {
@@ -4272,7 +4334,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 171970,
       "name": "Play It Loud",
       "url": "https://open.spotify.com/track/2OzIpR52uwLnHJgjbeMIsT"

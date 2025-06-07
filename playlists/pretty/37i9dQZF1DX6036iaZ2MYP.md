@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  BNXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,446 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,921 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [f.u\. 2](https://open.spotify.com/track/7qFKhEdrG8Pn9FP64k2Pbe) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [f.u\. 2](https://open.spotify.com/album/0q2uMZoPhWru8dDyB7FmsH) | 3:13 |
 | 50 | [Wagwan](https://open.spotify.com/track/01Yfxp4rdAdoo7gX8HRWs6) | [Naïloss](https://open.spotify.com/artist/256NYYph425UhMKkVXvWzW) | [Wagwan](https://open.spotify.com/album/6OypgAIrZdUiExghItZydI) | 2:00 |
 
-Snapshot ID: `aEIThgAAAACUic39zvdbF5GdASopON7A`
+Snapshot ID: `aEIThgAAAABPYQm/Zfi3IY7yeu/3ad6R`

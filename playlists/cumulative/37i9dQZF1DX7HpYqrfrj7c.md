@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-91 songs - 4 hr 39 min
+93 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 | 2024-06-24 |  |
 | [Do You Believe? \- Instrumental](https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [Do You Believe? EP](https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak) | 3:41 | 2024-06-24 |  |
 | [Don't U Kno \(Instrumental\)](https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:59 | 2024-06-24 |  |
+| [Drugs \- Instrumental](https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:19 | 2025-06-06 |  |
 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 | 2024-06-24 |  |
 | [Electric Impression](https://open.spotify.com/track/4Tw2CWFi6qbBZezMBvpUTN) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The SP1200 Project: A Re\-Awakening](https://open.spotify.com/album/6JsylDwCpnODpmaFacekJK) | 4:00 | 2024-06-24 |  |
 | [Fadi Ammous \- Instrumental](https://open.spotify.com/track/6Wq4158Y2nsVntQKToQnyG) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Fadi Ammous \(Instrumental\)](https://open.spotify.com/album/6p5fIROdQYBdpKM5httoSk) | 3:03 | 2024-06-24 |  |
@@ -71,6 +72,7 @@
 | [Never Stop Rockin'](https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK) | [Beamic](https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1) | [Never Stop Rockin'](https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5) | 4:20 | 2024-06-24 |  |
 | [On the Fritz](https://open.spotify.com/track/7KSe5EwXawbxoMSYqs4pF7) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:21 | 2024-06-24 |  |
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2024-06-24 |  |
+| [Play My Guitar](https://open.spotify.com/track/0NWb5HTrknj2QFMnZb6rYK) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [Play My Guitar](https://open.spotify.com/album/4wwHYtqvJjDaipxuuGMpGA) | 2:08 | 2025-06-06 |  |
 | [Prodigy Vision](https://open.spotify.com/track/7GG2FRZUlqZ4Ll4bNU0G6U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Prodigy Vision](https://open.spotify.com/album/2cj4KrLQBpngclJF5KErZH) | 3:03 | 2025-05-09 |  |
 | [Proof](https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH), [DJ Shon](https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy) | [The All Boom](https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0) | 2:00 | 2024-06-24 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2024-06-24 |  |

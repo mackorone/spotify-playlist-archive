@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Nasi
 
-197 songs - 11 hr 46 min
+198 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Eu não sou mais o mesmo](https://open.spotify.com/track/7ggCFNp07eR7nfpIbuHZQi) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Eu não sou mais o mesmo](https://open.spotify.com/album/0FRCbWvGvqxHWhcnxLu0DF) | 2:07 | 2025-03-24 |  |
 | [Eu Quero Tanto](https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Eu Quero Tanto](https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA) | 3:07 | 2024-08-30 | 2025-01-11 |
 | [EU TE AMO](https://open.spotify.com/track/3mhDxeYWwVUfxDNc51nOD4) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [EU TE AMO](https://open.spotify.com/album/6lvxovwkQGcaTjWpBjS2GV) | 3:28 | 2025-05-09 |  |
-| [Eu Vi Tudo](https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Pouso](https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy) | 3:27 | 2024-08-30 |  |
+| [Eu Vi Tudo](https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Pouso](https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy) | 3:27 | 2024-08-30 | 2025-06-07 |
 | [ex.ploda](https://open.spotify.com/track/7p1RZjnWapwed6oS2eRp6j) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [ex.ploda](https://open.spotify.com/album/2g8718FH49HgDoKeBQ3SyX) | 2:15 | 2024-03-22 | 2024-05-11 |
 | [Feedback \- Ao Vivo](https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Solo Ma Non Troppo](https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV) | 3:32 | 2025-05-30 |  |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2023-07-21 |  |
@@ -203,6 +203,7 @@
 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 | 2024-04-05 |  |
 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 | 2024-03-22 |  |
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-07 | 2024-06-29 |
+| [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 | 2025-06-06 |  |
 | [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-09-08 | 2023-10-14 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2023-07-21 | 2024-05-03 |
 

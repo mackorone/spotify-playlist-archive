@@ -4,7 +4,7 @@
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Chris Tomlin
 
-283 songs - 18 hr 31 min
+284 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Not Finished Yet](https://open.spotify.com/track/6KOODaO7lys3ialQZJh2Db) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Not Finished Yet](https://open.spotify.com/album/2qnDanXvr4aS8tnqJ4UOSK) | 3:25 | 2021-10-15 | 2025-03-08 |
 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 | 2021-10-15 | 2024-11-30 |
 | [Not Too Far](https://open.spotify.com/track/1UAZPeZdpFFYa8wanZCj1H) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [HEATHEN](https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG) | 3:01 | 2024-05-10 | 2024-06-22 |
-| [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-04-04 |  |
+| [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-04-04 | 2025-06-07 |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2021-10-15 | 2024-06-22 |
 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 | 2023-02-18 | 2024-06-22 |
 | [OK](https://open.spotify.com/track/76UQFZtK8p9OC1FqHh38ha) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Don't Look Back](https://open.spotify.com/album/09po9KUVap0vuJdpjHxYeL) | 3:43 | 2021-10-15 | 2022-07-28 |
@@ -291,5 +291,6 @@
 | [You've Always Been](https://open.spotify.com/track/3WJu00SBajX0tuNfg53yKU) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 | 2021-10-15 | 2024-04-19 |
 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2021-10-15 | 2024-06-22 |
+| [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 | 2025-06-06 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

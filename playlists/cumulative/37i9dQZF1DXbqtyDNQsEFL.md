@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Dr\. Prinz and Chizie
 
-530 songs - 2 day 2 hr 13 min
+531 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 | 2024-07-27 |
 | [Covenant Keeper](https://open.spotify.com/track/3oHMTQYoGL1eEAqFDK4bRh) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 3:52 | 2022-10-14 | 2022-11-05 |
 | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mahazel](https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA) | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw) | 9:51 | 2023-12-22 | 2024-01-23 |
+| [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 | 2025-06-06 |  |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-24 | 2024-06-01 |
 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 | 2024-11-01 |  |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |

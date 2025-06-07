@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Eric Church",
+  "description": "Today's top country hits. Cover: Kelsea Ballerini",
   "name": "Hot Country",
   "tracks": [
     {
@@ -1944,6 +1944,28 @@
       "duration_ms": 226173,
       "name": "Born Here Live Here Die Here",
       "url": "https://open.spotify.com/track/24TigVMgym0xm5pnyH8i2i"
+    },
+    {
+      "album": {
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        },
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
     },
     {
       "album": {
@@ -4035,6 +4057,28 @@
     },
     {
       "album": {
+        "name": "Drunk Right Now (Na Na Na) with Akon",
+        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198660,
+      "name": "Drunk Right Now (Na Na Na) with Akon",
+      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3bztzbbqYIdPU7ePsUu01r"
       },
@@ -4392,7 +4436,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 193248,
       "name": "Favorite Country Song",
       "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
@@ -8498,7 +8542,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 191928,
       "name": "Leave Me Too",
       "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"

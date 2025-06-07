@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,332 songs - 5 day 3 hr 9 min
+2,333 songs - 5 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@
 | [Driving Home for Christmas](https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:59 | 2023-12-25 | 2023-12-27 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-12-25 | 2022-12-28 |
 | [Droit au but](https://open.spotify.com/track/4y7wmBHkbyAiyeRyOuf0h6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:15 | 2023-06-10 | 2023-06-12 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-12 | 2025-06-04 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-12 |  |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-04 | 2024-05-09 |
 | [Du mal à te dire](https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:27 | 2021-07-04 | 2021-10-17 |
 | [Du propre](https://open.spotify.com/track/17gkoi8EGPO1XssTOYK5ki) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:47 | 2021-11-21 | 2022-10-31 |
@@ -742,6 +742,7 @@
 | [Fame](https://open.spotify.com/track/2zt0fhip78NtumaIoFGpB6) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:19 | 2022-12-03 | 2022-12-09 |
 | [Fan](https://open.spotify.com/track/29NYSe0PGnjSU4Vo0dxmON) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:25 | 2022-06-25 | 2022-06-27 |
 | [Fantôme](https://open.spotify.com/track/4sPcGnNyuANZvH9PESIeSP) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Fantôme](https://open.spotify.com/album/2IhLz9vy5bTvZzLhHXMJiH) | 3:40 | 2021-10-10 | 2021-10-17 |
+| [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-06-06 |  |
 | [FAST LIFE & FAMILLE](https://open.spotify.com/track/3Ird3tXm20WmN24qZPxNpZ) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY), [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:58 | 2024-09-21 | 2024-09-23 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-17 |
 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-03 | 2025-05-01 |
@@ -1178,7 +1179,7 @@
 | [La zalousie \(Interlude\)](https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 0:47 | 2021-11-14 | 2021-11-14 |
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-07-28 | 2024-05-25 |
 | [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-03-11 | 2023-07-29 |
-| [Laboratoire](https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 2:42 | 2024-05-24 |  |
+| [Laboratoire](https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 2:42 | 2024-05-24 | 2025-06-07 |
 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-12 | 2024-09-04 |
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-16 | 2024-11-29 |
@@ -2245,7 +2246,7 @@
 | [Vovo](https://open.spotify.com/track/2ohO63bidj6AMGmRxqWGt0) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 3:18 | 2023-10-21 | 2023-10-23 |
 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 | 2025-01-14 | 2025-02-02 |
 | [Vrai / Faux](https://open.spotify.com/track/7c8hPeNvH3bWnQPqaVBIst) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:55 | 2021-11-14 | 2021-11-20 |
-| [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 | 2025-01-25 |  |
+| [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 | 2025-01-25 | 2025-06-07 |
 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-15 | 2024-06-21 |
 | [Vroum Vroum](https://open.spotify.com/track/6sRPU30pj9A6G1pBXqzQkM) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Vroum Vroum](https://open.spotify.com/album/0cPGWnwGhDm4SAV8h2Ot6l) | 3:06 | 2021-03-27 | 2021-06-13 |
 | [Vroum Vroum](https://open.spotify.com/track/1TmuaS1lnCUf7yCLk2hwDT) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Dernier souffle](https://open.spotify.com/album/0pMvd6rQonhDJT4ELR9GJE) | 3:06 | 2021-06-13 | 2021-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Lubber Pandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,840 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,069 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 70 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
 | 71 | [Yaaro Ivan](https://open.spotify.com/track/4LIJn3SG7mCCNKQc6vyy5S) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Udhayam NH4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jzgxRw8bNWoCXUxKWqERO) | 4:43 |
 | 72 | [Thaarame Thaarame \- From "Kadaram Kondan"](https://open.spotify.com/track/2x1R5G71p2UsLEQtH6gtdL) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Thaarame Thaarame \(From "Kadaram Kondan"\)](https://open.spotify.com/album/7gDlZBWd8cyUXL3qqqTQNc) | 3:48 |
-| 73 | [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 |
-| 74 | [Po Indru Neeyaga](https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:43 |
+| 73 | [Po Indru Neeyaga](https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Velai Illa Pattadhaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9) | 3:43 |
+| 74 | [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 |
 | 75 | [Vaa Vaathi](https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8) | 3:45 |
 
 Snapshot ID: `aEBZWQAAAABrNbQfNwADe+UAV5G1DV0Q`

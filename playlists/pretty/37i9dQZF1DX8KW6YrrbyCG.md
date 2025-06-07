@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KW6YrrbyCG.md) - [plain]
 
 > Editorial picks of the best songs from 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,273 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,280 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KW6YrrbyCG.md) - [plain]
 | 74 | [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 |
 | 75 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |
 
-Snapshot ID: `ZWdMDwAAAADZkjNHoLo7xR/Y0F78QdGR`
+Snapshot ID: `AAAAAMTYyC8EZyo3yKC12VFzgrFpCBr0`

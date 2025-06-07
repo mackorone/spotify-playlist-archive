@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ZIN CHOI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-960 songs - 2 day 10 hr 33 min
+961 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
 | [Do You Believe in Love?](https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Do You Believe in Love?](https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht) | 3:29 | 2024-05-22 | 2024-06-19 |
 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 | 2022-08-04 | 2024-01-31 |
-| [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 | 2025-04-11 |  |
+| [Do You Think Of Me?](https://open.spotify.com/track/67kcXvYNr1WUXx00bjt1HL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me?](https://open.spotify.com/album/7pOrzU2NCcOT1QxvBX70Fe) | 3:16 | 2025-04-11 | 2025-06-07 |
 | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/track/0GveX1FMRVjfXQtPJAvQJJ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/album/6i8NTK3zdu3TJxo1TR8uzG) | 3:16 | 2022-05-11 | 2022-05-24 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-31 | 2022-04-19 |
 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 | 2023-02-14 | 2023-03-01 |
@@ -247,6 +247,7 @@
 | [Failure story](https://open.spotify.com/track/1uPOeYYJW6uI4BSCSPjsM1) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Flex](https://open.spotify.com/album/0xZT3BXMksrqFn0oKO33Qq) | 3:33 | 2022-01-27 | 2022-06-30 |
 | [FALL](https://open.spotify.com/track/6vUrSRRrSAcTUZMbGyds1C) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 4:01 | 2022-03-31 | 2022-04-18 |
 | [fall apart](https://open.spotify.com/track/4jAVpxfvPYN09k2uzax9DS) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [on and on](https://open.spotify.com/album/1zaYXYzPbFzUrQHl7APGZY) | 2:15 | 2024-11-20 | 2025-01-31 |
+| [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 | 2025-06-05 |  |
 | [Fallin'](https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Modern, Mild](https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9) | 3:11 | 2021-12-12 | 2022-07-27 |
 | [Falling Star](https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56) | [Up\-Dawn](https://open.spotify.com/artist/2iuvwj3RhVBo3OM1WTSlZu) | [Falling Star](https://open.spotify.com/album/163ztGWzGI1Wk6sB9QAPHG) | 4:03 | 2021-12-21 | 2022-07-21 |
 | [Far 멀리](https://open.spotify.com/track/7y4ye2TL1fT2WUTes5Q921) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Between 사이](https://open.spotify.com/album/6H8uxH4wbBRchrN1O6lgOh) | 3:34 | 2022-03-31 | 2022-04-16 |

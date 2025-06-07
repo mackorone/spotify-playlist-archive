@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-800 songs - 2 day 20 hr 38 min
+801 songs - 2 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [Silence In a Room of Lies](https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Jared Dines](https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ) | [Silence In a Room of Lies](https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98) | 3:14 | 2023-12-06 | 2025-02-08 |
 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 | 2024-07-23 |  |
 | [Singularity](https://open.spotify.com/track/1D2fvbNf4LpOGPPkJ4uqyV) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Semaphore](https://open.spotify.com/album/0Wm6uBSaY1mRlXLammTLOs) | 2:52 | 2021-12-17 | 2022-09-03 |
-| [Skinwalker](https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo) | [Artificial Language](https://open.spotify.com/artist/10Mmz2UngxRjkZmz0a1H32) | [Skinwalker](https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f) | 4:40 | 2024-03-29 |  |
+| [Skinwalker](https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo) | [Artificial Language](https://open.spotify.com/artist/10Mmz2UngxRjkZmz0a1H32) | [Skinwalker](https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f) | 4:40 | 2024-03-29 | 2025-06-07 |
 | [Skylights](https://open.spotify.com/track/71GzM7SRPM36zKoiRyW5vm) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Skylights](https://open.spotify.com/album/0dZAOahUNYJiUfX0uNqFGJ) | 3:57 | 2021-12-17 | 2022-05-11 |
 | [Skylla](https://open.spotify.com/track/5rsJEHEMaEerw1uNH1FksB) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Skylla](https://open.spotify.com/album/2mmTwMMc5IPDfAziKQoYwQ) | 4:18 | 2022-07-13 | 2025-02-08 |
 | [Sleep Whisper](https://open.spotify.com/track/0Uill1vqGgC1zOShoKoqe2) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Sleep Whisper](https://open.spotify.com/album/0zUdYR6wHtGlvHFjfz1RO8) | 5:12 | 2022-04-29 | 2022-06-11 |
@@ -796,6 +796,7 @@
 | [White Water](https://open.spotify.com/track/5NmreSAnQcInIfyxspnoFX) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [White Water](https://open.spotify.com/album/4cOJWEpRMY7x35u3imB92y) | 3:34 | 2022-04-22 | 2022-12-30 |
 | [Why Do I Care](https://open.spotify.com/track/0jjAghbDie2a2cETSDl1ky) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Why Do I Care](https://open.spotify.com/album/6Ukl77GQ4tlcOS2Na2lQ6q) | 5:00 | 2021-12-31 | 2023-01-21 |
 | [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 |  |
+| [Wind of no Change](https://open.spotify.com/track/1gGqd0eLe2XBwXKr3SxHKU) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Wind of no Change](https://open.spotify.com/album/1ngzziiE3nVGMP5zq8rmdC) | 4:52 | 2025-06-06 |  |
 | [Within the Sphere](https://open.spotify.com/track/1f4BjsMcz7zR7HHtDXlNEC) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Within the Sphere](https://open.spotify.com/album/7FICWjTaVxI1T1sy4ae37L) | 5:15 | 2021-12-17 | 2022-07-11 |
 | [Wonderland](https://open.spotify.com/track/32xzobEEYV8nphwopudnTY) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH), [Skeb](https://open.spotify.com/artist/0l22ZecRDOBWHJdmVmw9Rf) | [Wonderland](https://open.spotify.com/album/2pF7TT6tSoOpkct2Jfsqi1) | 4:05 | 2022-04-22 | 2025-05-24 |
 | [Yonder](https://open.spotify.com/track/1n4viFiH0y3iBwoURa8uY3) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Le Grand Voyage](https://open.spotify.com/album/6vkVCBBaqsTiraWDpIbRZV) | 7:32 | 2022-07-08 | 2022-09-03 |

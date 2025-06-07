@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky?si=Yy9urTgNTSC0T0EIIvXA8g">DopeNation</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,640 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,641 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 46 | [CLOSER](https://open.spotify.com/track/0dXLrSxcQFTEVKLg2I0MxI) | [Royal Ezenwa](https://open.spotify.com/artist/0oRtqoahaYrcXuJATzagv3) | [CLOSER / CONTROL](https://open.spotify.com/album/05AuVyLZ7nVkLqW06LvUQz) | 3:05 |
 | 47 | [The Pink Panther](https://open.spotify.com/track/2dED7CsaX6jogS5cSftJL6) | [DJ.O\_WORTHY](https://open.spotify.com/artist/1LXqSud63Yn00GuG83HbQA) | [The Pink Panther](https://open.spotify.com/album/2PrvVjjvzENEscMSNuVeOj) | 6:08 |
 | 48 | [PRAY](https://open.spotify.com/track/04HaRnRxAv5DdN0qUMQLHB) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [PRAY](https://open.spotify.com/album/1BOMVoUaUwYfEJhvqVACts) | 2:35 |
-| 49 | [Ngelinye iLanga \(feat\. Zimvo & Yanga Grenade\)](https://open.spotify.com/track/2sfkp81UC3FxRU57rzXcYu) | [Bandros](https://open.spotify.com/artist/5yR5c8xnUVQDP3UDqfjhZd), [Luxtonic](https://open.spotify.com/artist/4yYfPYl3d7ZHAQYdH2RBWB), [Jamrock](https://open.spotify.com/artist/7xqEbvizqb2LUWRFghwlYv), [Zimvo](https://open.spotify.com/artist/5eOVZdQNBoHqNnosZTM1hk), [Yanga Grenade](https://open.spotify.com/artist/7Hr1rJkoRxDX06YI7VpGIj) | [Ngelinye iLanga \(feat\. Zimvo & Yanga Grenade\)](https://open.spotify.com/album/6HZDI19DLbhtRAd7G9vaCy) | 8:04 |
+| 49 | [Yey 2.0](https://open.spotify.com/track/3HgddH7pSKltHv2FQ6XViy) | [Ngobz](https://open.spotify.com/artist/21r9n5Ra4Kz8fiR3HysMUy), [Snyper Reloaded](https://open.spotify.com/artist/2V9ILjFbdFofSvameBeUia) | [A king was Born](https://open.spotify.com/album/1u7owfhVuxJfEkOyjMcl0o) | 5:22 |
 | 50 | [KNEES & BEND II \- Amapiano Version](https://open.spotify.com/track/6czouCglMuuW9AJUccBn6L) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb), [Iyke Parker](https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Knees & Bend Remix Pack](https://open.spotify.com/album/0JIrP8PYGB1gRfYZLpMuo2) | 2:22 |
 
 Snapshot ID: `aEIToAAAAABnzHjr4I5QnKoncIwVdUBf`

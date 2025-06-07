@@ -4,7 +4,7 @@
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 11 min
+94 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [RAIO LASER](https://open.spotify.com/track/5mRRse77ESs5JDw3SZhT3w) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:02 | 2023-12-13 | 2024-06-04 |
 | [Raio Laser \- Ao Vivo](https://open.spotify.com/track/5ECxikYW0AveEGTa7j4fKA) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:59 | 2024-06-04 | 2024-06-10 |
 | [Rebola \(Participação especial de Carlinhos Brown e Gloria Groove\)](https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:54 | 2023-11-10 | 2024-09-30 |
+| [Retrovisor](https://open.spotify.com/track/4HYZYfXAeETot63750cbxe) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:10 | 2025-06-07 |  |
 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 | 2023-11-10 |  |
 | [Samba in Paris](https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 4:26 | 2023-11-10 |  |
 | [SAMBA IN PARIS \- AO VIVO](https://open.spotify.com/track/4plvsdkIRsdMFYiXyrLCsx) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 2:50 | 2023-11-10 | 2023-12-14 |

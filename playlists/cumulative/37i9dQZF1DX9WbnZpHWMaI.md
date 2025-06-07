@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring LUMI.
+> Celebrating women at the center of innovation in electronic music\. Featuring TDJ.
 
-603 songs - 1 day 14 hr 12 min
+606 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Hi Speed Lover](https://open.spotify.com/track/50DGpVgEzfhFApK43HWRLo) | [Airrica](https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW) | [Hi Speed Lover](https://open.spotify.com/album/23GrgqUMu7L1PIKMs5jaCH) | 3:08 | 2024-06-18 | 2024-06-29 |
 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 | 2024-07-26 | 2025-04-12 |
 | [Higher](https://open.spotify.com/track/44BOuprG538ofr0uUO7jRr) | [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Higher](https://open.spotify.com/album/4ivh5G9ja0yRD2M3KEelgJ) | 2:49 | 2024-04-19 | 2024-06-29 |
-| [Higher](https://open.spotify.com/track/1hAcMSQaEwMpO2SV4tiStj) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Get Up](https://open.spotify.com/album/1Ynu1lN1FE4mBO1JjKsg0j) | 5:12 | 2025-05-09 |  |
+| [Higher](https://open.spotify.com/track/1hAcMSQaEwMpO2SV4tiStj) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Get Up](https://open.spotify.com/album/1Ynu1lN1FE4mBO1JjKsg0j) | 5:12 | 2025-05-09 | 2025-06-07 |
 | [Higher](https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Higher](https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD) | 3:32 | 2024-04-26 | 2024-08-17 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 | 2025-04-19 |
 | [Holding Back](https://open.spotify.com/track/3PY4LMTRDGzg9wXq4tB9cE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Holding Back](https://open.spotify.com/album/7vH5NAAUkYccDgk37OZcmc) | 3:45 | 2025-02-07 | 2025-03-29 |
@@ -400,8 +400,9 @@
 | [No Good For Me](https://open.spotify.com/track/1egyWKeo2iMvB0y4GaUjnt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/4w9gaeny1Z2qHihswgXISA) | 3:35 | 2022-03-08 | 2022-11-13 |
 | [No Good For Me](https://open.spotify.com/track/58Nk6FBeZFEHgHIUw201Z4) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:35 | 2022-03-08 | 2023-02-02 |
 | [No Good For Me](https://open.spotify.com/track/7CAwk333MKotsz8nm6Og7j) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/41lP4JFAtyIfAMLMBX1Hhw) | 3:35 | 2021-03-01 | 2022-07-29 |
-| [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 | 2025-05-09 |  |
+| [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 | 2025-05-09 | 2025-06-07 |
 | [Northern Lights](https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Northern Lights](https://open.spotify.com/album/5xv8wuO5iQ1HmIcJSKsjGH) | 4:21 | 2025-02-28 |  |
+| [Nova](https://open.spotify.com/track/3hLfifIpMTrw1VKqfcBhGa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Nova](https://open.spotify.com/album/2kseeZVin6wA2vOCOmWlr9) | 5:55 | 2025-06-06 |  |
 | [Nowhere Left to Run](https://open.spotify.com/track/6w18Tgm9Yf7MScG1s8zmFx) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Nowhere Left to Run](https://open.spotify.com/album/2C7sKtQRd1WHroITeVEBqb) | 2:18 | 2025-04-11 |  |
 | [Obsesión Romántica](https://open.spotify.com/track/7uFODqub2N87Sq5yUz5ksA) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [Obsesión Romántica](https://open.spotify.com/album/1da1Ef2gpAXI0Xet1ZrZAa) | 7:11 | 2022-03-08 | 2024-03-02 |
 | [Obsesión Romántica](https://open.spotify.com/track/3kBUPfyyjXV7SYFUQnwWzv) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 7:11 | 2021-03-01 | 2022-07-29 |
@@ -467,6 +468,7 @@
 | [Say It](https://open.spotify.com/track/6qz6MREKavkUBqlM4vWLbL) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Say It](https://open.spotify.com/album/53Yb9x1ITQv8qry0IQTXNe) | 3:40 | 2024-04-26 | 2024-06-25 |
 | [searching](https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [searching](https://open.spotify.com/album/4JFKDlnzhn44lISfGzwSQG) | 3:02 | 2024-05-24 | 2024-06-29 |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-14 | 2025-05-24 |
+| [SENSE\_LESS](https://open.spotify.com/track/1qf65XWPapiV0Tqf6uRqdH) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [SENSE\_LESS](https://open.spotify.com/album/4UrvRzSobhDtTvieApxIhi) | 4:35 | 2025-06-06 |  |
 | [Serotonin](https://open.spotify.com/track/6aJ4TYVFDMiOVHJYAEfcvi) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T) | 3:17 | 2024-03-01 | 2024-05-03 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-03-07 | 2024-03-02 |
 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 | 2024-09-30 | 2024-12-07 |
@@ -549,7 +551,7 @@
 | [there she goes!](https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [there she goes!](https://open.spotify.com/album/1Tecp6YGtuur5HZ0317Er2) | 1:57 | 2024-04-26 | 2024-07-13 |
 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 | 2024-03-01 | 2024-12-21 |
 | [Thinking A Lot](https://open.spotify.com/track/6R4i0xWUvB5gzkCRilxOPK) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Thinking A Lot](https://open.spotify.com/album/7HKAWbE7LhMLvWHHwWnpzY) | 2:44 | 2024-05-21 | 2024-09-14 |
-| [Thinking About You](https://open.spotify.com/track/7llDFqI7CEsHzeT7L5Au8Z) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Thinking About You](https://open.spotify.com/album/75SlnGZsGCrIUY3Skf2vA8) | 5:14 | 2025-03-21 |  |
+| [Thinking About You](https://open.spotify.com/track/7llDFqI7CEsHzeT7L5Au8Z) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Thinking About You](https://open.spotify.com/album/75SlnGZsGCrIUY3Skf2vA8) | 5:14 | 2025-03-21 | 2025-06-07 |
 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 | 2024-10-04 | 2025-01-08 |
 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 | 2024-07-12 | 2025-04-12 |
 | [Tidal wave \(feat\. Miss Jay\)](https://open.spotify.com/track/0M8E67OGSGgqwkJeRHC9bq) | [Lurayana](https://open.spotify.com/artist/3RA3hn7wU5JYYY12KQ5EzY), [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [Kairosclerosis](https://open.spotify.com/album/3MU1jBa04ioVt0ivHkAEEy) | 3:00 | 2024-03-01 | 2024-08-17 |
@@ -597,6 +599,7 @@
 | [What We Live For](https://open.spotify.com/track/18K9abEONMttU0sx38Phun) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [What We Live For](https://open.spotify.com/album/3tzAwMMF99SeLuz4hND1T8) | 5:37 | 2024-04-19 | 2024-05-18 |
 | [When It Comes To Love](https://open.spotify.com/track/4at3vuKWn64sDq1ClFTmOf) | [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Pressure](https://open.spotify.com/album/2lGuyCKc6O3dDteX2GO5ZK) | 2:51 | 2024-08-09 | 2024-10-26 |
 | [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-05-30 |  |
+| [Where Is My Angel](https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Where Is My Angel](https://open.spotify.com/album/3BbOh6UaSYNbdSZbQdrCfd) | 4:25 | 2025-06-06 |  |
 | [Where My Girls At?](https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Where My Girls At?](https://open.spotify.com/album/0V67ejz6Vt8Ucjkh6ZMcVY) | 2:28 | 2024-03-01 | 2024-06-08 |
 | [Whispers](https://open.spotify.com/track/5PqAPfjhNfDoTrjtrPRZXe) | [Khira Li](https://open.spotify.com/artist/3bek8rwCEzQExpuy8RXRYS) | [Whispers](https://open.spotify.com/album/1uub1O2WZ95A7vV5IdnDpU) | 3:17 | 2024-03-22 | 2024-05-18 |
 | [Whistleblower](https://open.spotify.com/track/0ng3SNNggu5wRukKK9ByV0) | [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Mothearth](https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto) | 4:48 | 2024-03-22 | 2024-05-18 |

@@ -2095,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "F.Y.P",
+        "url": "https://open.spotify.com/album/65o0PHgaKCbqjnT1rODCbj"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        },
+        {
+          "name": "GELLO 4031",
+          "url": "https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138507,
+      "name": "F.Y.P",
+      "url": "https://open.spotify.com/track/2DLoq9DzEs6Tp9403HBKGg"
+    },
+    {
+      "album": {
         "name": "BL\u00c9DARD",
         "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
       },
@@ -3040,7 +3062,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 180705,
       "name": "Jorja Smith",
       "url": "https://open.spotify.com/track/7DfQdQYTgngRvFq2zHGPDX"

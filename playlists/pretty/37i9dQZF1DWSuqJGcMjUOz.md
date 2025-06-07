@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,323 likes - 91 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,324 likes - 91 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 90 | [Le vent est de ton bord](https://open.spotify.com/track/7wl5kuRvCqPHuyinZFbg1s) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Le vent est de ton bord](https://open.spotify.com/album/4B2wAnlYHd8oGN0GPii1tq) | 3:58 |
 | 91 | [Sans toi](https://open.spotify.com/track/0jcyPUPVS3ob8pD6mgWzFT) | [Passion Poire](https://open.spotify.com/artist/6O7S83SFDd2xDlCKQmad3l) | [Pression des poires](https://open.spotify.com/album/0NZqmS6CKeNSzTOfzjHZrQ) | 2:46 |
 
-Snapshot ID: `aCdoAAAAAAAcDtomKMxR2rfaKJcnqiJ3`
+Snapshot ID: `aCdoAAAAAABqnXiHztdc/BHY73+G2WY9`

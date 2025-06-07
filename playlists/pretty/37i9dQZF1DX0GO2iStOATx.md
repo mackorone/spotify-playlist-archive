@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,027 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,102 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 24 | [Lak 28 Kudi Da](https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Lak 28 Kudi Da](https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B) | 3:32 |
 | 25 | [Truck](https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:29 |
 | 26 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 |
-| 27 | [Pat Doon Chugti Ni](https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nisha Bano](https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr) | [Amar Singh Chamkila \- Live Recorded](https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK) | 1:57 |
-| 28 | [Radio](https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 4:04 |
+| 27 | [Radio](https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 4:04 |
+| 28 | [Pat Doon Chugti Ni](https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nisha Bano](https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr) | [Amar Singh Chamkila \- Live Recorded](https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK) | 1:57 |
 | 29 | [Infinite Return](https://open.spotify.com/track/24sVtO6KaTmPVH3n99THBB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 0:33 |
 | 30 | [Enlightenment](https://open.spotify.com/track/2eMyIBkiRlPYWNBBAGEZEx) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 0:36 |
 | 31 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 |

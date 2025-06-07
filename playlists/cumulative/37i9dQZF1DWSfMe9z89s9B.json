@@ -8416,7 +8416,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
@@ -10214,7 +10214,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 211817,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
@@ -10456,7 +10456,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 150349,
       "name": "Heat w Heat",
       "url": "https://open.spotify.com/track/7Dhlv0BPphJWqEtG4KCkDs"
@@ -22742,7 +22742,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 219861,
       "name": "Sweet Like",
       "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
@@ -24920,6 +24920,24 @@
       "duration_ms": 186485,
       "name": "two door tiffany",
       "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
+    },
+    {
+      "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
+      },
+      "artists": [
+        {
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172690,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 268260,
+  "num_followers": 268261,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADreZX/AJf16vwI1cv8UcrT",
+  "snapshot_id": "aEDeAAAAAACGNwZgAsYfUDSSBaiZKAkZ",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 276965,
-      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
-      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP Gabriela Rocha",
         "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 276965,
+      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
+      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creio Que Tu \u00c9s a Cura",
-        "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 351708,
-      "name": "Creio Que Tu \u00c9s a Cura",
-      "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00e9s Poderoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creio Que Tu \u00c9s a Cura",
+        "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 351708,
+      "name": "Creio Que Tu \u00c9s a Cura",
+      "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
     },
     {
       "added_at": null,

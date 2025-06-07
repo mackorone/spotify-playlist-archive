@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 198394,
+  "num_followers": 198442,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Demonstration Tapes",
         "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 111266,
       "name": "Mr. Moneybag$",
       "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2024-10-07 20:36:39",

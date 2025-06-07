@@ -1,6 +1,6 @@
 {
   "description": "Sextile on the cover bby",
-  "num_followers": 194750,
+  "num_followers": 194864,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-05-02 04:00:30",
       "album": {
+        "name": "Just Your Doll",
+        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+    },
+    {
+      "added_at": "2025-05-02 04:00:30",
+      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 165120,
       "name": "Golden Skans",
       "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
-    },
-    {
-      "added_at": "2025-05-02 04:00:30",
-      "album": {
-        "name": "Just Your Doll",
-        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 147234,
-      "name": "Just Your Doll",
-      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
     },
     {
       "added_at": "2025-05-02 04:00:30",

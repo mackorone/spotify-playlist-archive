@@ -4,7 +4,7 @@
 
 > you up?
 
-501 songs - 1 day 3 hr 55 min
+502 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2024-03-16 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 |  |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-28 | 2023-01-29 |
+| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 |  |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-08 |  |
 | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/track/0RW7ykDvCSTMF5FT4lIFfL) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/album/5GUgoPG9hrtOyix0u2tG37) | 3:07 | 2022-04-01 | 2022-04-20 |
 | [All The Time](https://open.spotify.com/track/7nyOUQbRoDts90BhAgzapi) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [American Honey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FqLgj2sag3iodr9f0Zaxd) | 4:25 | 2022-03-25 | 2022-04-17 |
@@ -367,7 +368,7 @@
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-02-11 | 2022-07-29 |
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-10-04 |  |
 | [Questions](https://open.spotify.com/track/3LpmZrDqY7GsCdCYHRqT3n) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Questions / Nightly](https://open.spotify.com/album/1qNj3UHGr6MK1YsC1iBPRY) | 2:32 | 2024-10-25 | 2024-12-14 |
-| [Questions \(feat\. Ari Abdul\)](https://open.spotify.com/track/3kk0MeILiUA17MvF0Fz1At) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Questions \(feat\. Ari Abdul\)](https://open.spotify.com/album/2GvgkXso7I5OuOJbU79py5) | 2:45 | 2024-12-27 |  |
+| [Questions \(feat\. Ari Abdul\)](https://open.spotify.com/track/3kk0MeILiUA17MvF0Fz1At) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Questions \(feat\. Ari Abdul\)](https://open.spotify.com/album/2GvgkXso7I5OuOJbU79py5) | 2:45 | 2024-12-27 | 2025-06-07 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-04-23 | 2024-05-12 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2022-03-25 | 2022-04-21 |
 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 | 2022-02-04 | 2022-07-29 |

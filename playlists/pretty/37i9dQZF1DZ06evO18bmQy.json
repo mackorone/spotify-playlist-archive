@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 207253,
+  "num_followers": 207275,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAB7H9NtLBMFKJ13+JxHE/rO",
+  "snapshot_id": "aEDeAAAAAAAlcDPxnHLTetyWpHmlrc4V",
   "tracks": [
     {
       "added_at": null,
@@ -343,34 +343,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
       "artists": [
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
+      "duration_ms": 177230,
+      "name": "Preto Rico, Nunca Liso!",
+      "url": "https://open.spotify.com/track/0ZXfo727MxNxotmJXIqaG4"
     },
     {
       "added_at": null,
@@ -415,26 +407,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Preto Rico, Nunca Liso!",
-      "url": "https://open.spotify.com/track/0ZXfo727MxNxotmJXIqaG4"
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Spotify House at Ole Red on Broadway kicks off TODAY! Let's turn up the night like that radio dial..\. ✖️✖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,286 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,452 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

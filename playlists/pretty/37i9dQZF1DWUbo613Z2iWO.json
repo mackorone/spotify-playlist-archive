@@ -1,28 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover:  2BYG",
-  "num_followers": 55457,
+  "description": "R&B of the moment by the artists of the future. Cover:  Josh Levi",
+  "num_followers": 55465,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDk1IgAAAAD4+2WvPsH8dxulieCARdhy",
+  "snapshot_id": "aEKHjAAAAACozmrxxW8vqbH2hWDeumyz",
   "tracks": [
     {
-      "added_at": "2025-05-30 04:33:38",
+      "added_at": "2025-06-06 06:15:40",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/4mutaCxhEmmqzXvxEuowSp"
+        "name": "DON'T GO",
+        "url": "https://open.spotify.com/album/099NpAg36lYBfjHhlm0cbC"
       },
       "artists": [
         {
-          "name": "2BYG",
-          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
-      "duration_ms": 185601,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/58TT87ZzrcZEyoqY57x7UT"
+      "duration_ms": 147768,
+      "name": "DON'T GO",
+      "url": "https://open.spotify.com/track/5tUB2wLW8Cm7yovnJMNjNK"
     },
     {
       "added_at": "2025-05-23 04:00:52",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/5CltNqbB9fsOCzgUQTLkl8"
     },
     {
-      "added_at": "2025-05-30 04:33:38",
+      "added_at": "2025-06-06 06:15:40",
       "album": {
-        "name": "Raw Honey",
-        "url": "https://open.spotify.com/album/5HUVN7K4MeLxTyCiFJv5vI"
+        "name": "Is This Love?",
+        "url": "https://open.spotify.com/album/69BacA7EcUTy0yOIEsYO3M"
       },
       "artists": [
         {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 165378,
-      "name": "Laying In His Bed",
-      "url": "https://open.spotify.com/track/3GoZXEcHhdQlXvK9QC2mY3"
+      "duration_ms": 210729,
+      "name": "Is This Love?",
+      "url": "https://open.spotify.com/track/43Ha9dTAQLXaGF2aDeEzyH"
     },
     {
       "added_at": "2025-05-30 04:33:38",
@@ -71,6 +75,22 @@
       "duration_ms": 210307,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5dShEaAMvS1larPOsU3H1r"
+    },
+    {
+      "added_at": "2025-05-30 04:33:38",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4mutaCxhEmmqzXvxEuowSp"
+      },
+      "artists": [
+        {
+          "name": "2BYG",
+          "url": "https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE"
+        }
+      ],
+      "duration_ms": 185601,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/58TT87ZzrcZEyoqY57x7UT"
     },
     {
       "added_at": "2025-05-16 04:00:37",
@@ -103,6 +123,42 @@
       "duration_ms": 188382,
       "name": "Main Character",
       "url": "https://open.spotify.com/track/6UT5bzdmspm2noDOOxWthd"
+    },
+    {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Raw Honey",
+        "url": "https://open.spotify.com/album/5HUVN7K4MeLxTyCiFJv5vI"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 163043,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2dYx1egE3Wg57VKoQDaCBr"
+    },
+    {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6UWWZvdmR3hkFGj7JDHaNe"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 171370,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3TIMs6PfewA6xaZi5jF62N"
     },
     {
       "added_at": "2025-05-16 04:00:37",
@@ -139,6 +195,22 @@
       "duration_ms": 179591,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/7AGwFQn8ETG3cE8MVSjXBT"
+    },
+    {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Cruel, Cruel World",
+        "url": "https://open.spotify.com/album/47nu3IoIKtUjqNpUxVTjH9"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/46emxvSTVCV9JNhR7vx0f1"
     },
     {
       "added_at": "2025-05-30 04:33:38",
@@ -245,6 +317,22 @@
       "url": "https://open.spotify.com/track/0r0F65GN6g3Bo2QGLqfocv"
     },
     {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq"
+    },
+    {
       "added_at": "2025-05-30 04:33:38",
       "album": {
         "name": "Sleepwalking",
@@ -293,6 +381,22 @@
       "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
     },
     {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "duration_ms": 159512,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
+    },
+    {
       "added_at": "2025-05-30 04:33:38",
       "album": {
         "name": "SHRETA",
@@ -307,22 +411,6 @@
       "duration_ms": 162461,
       "name": "WDYM?",
       "url": "https://open.spotify.com/track/0OCTPHig501tBFp0Q7qIdU"
-    },
-    {
-      "added_at": "2025-05-30 04:33:38",
-      "album": {
-        "name": "Slow Jam Szn",
-        "url": "https://open.spotify.com/album/4tFAWjtG1MkocENvvstGac"
-      },
-      "artists": [
-        {
-          "name": "Ebub\u00e9",
-          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "What Can I Do",
-      "url": "https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX"
     },
     {
       "added_at": "2025-05-19 17:44:32",
@@ -357,38 +445,6 @@
       "url": "https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj"
     },
     {
-      "added_at": "2025-05-16 13:42:09",
-      "album": {
-        "name": "Lil' Obsession",
-        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 181921,
-      "name": "Lil' Obsession",
-      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
-    },
-    {
-      "added_at": "2025-05-23 04:00:52",
-      "album": {
-        "name": "Magic !",
-        "url": "https://open.spotify.com/album/4FEms9JIMreEr7Yorl6rgZ"
-      },
-      "artists": [
-        {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Magic !",
-      "url": "https://open.spotify.com/track/1SjD13SA4gJyyikO61Ny8e"
-    },
-    {
       "added_at": "2025-05-30 04:33:38",
       "album": {
         "name": "New Beginnings",
@@ -405,24 +461,20 @@
       "url": "https://open.spotify.com/track/3V5R6h2ucgLiHfAxgDGVgZ"
     },
     {
-      "added_at": "2025-05-30 04:33:38",
+      "added_at": "2025-03-21 05:20:48",
       "album": {
-        "name": "My Girls (feat. Sierra Sellers)",
-        "url": "https://open.spotify.com/album/7c08Y9F0zNR3PrdiP13TCj"
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0Ovj6EvLPcUdythgf3NULU"
       },
       "artists": [
         {
-          "name": "Sophia Galat\u00e9",
-          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
-        },
-        {
-          "name": "Sierra Sellers",
-          "url": "https://open.spotify.com/artist/3CX8IWsvFSnxgb5x82sETO"
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
         }
       ],
-      "duration_ms": 217588,
-      "name": "My Girls (feat. Sierra Sellers)",
-      "url": "https://open.spotify.com/track/2mdwJ2wy0OchwJSt09p2Cy"
+      "duration_ms": 173682,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/59X3CiTwsVyEpTfVNghHG4"
     },
     {
       "added_at": "2025-05-16 04:16:26",
@@ -457,20 +509,108 @@
       "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
     },
     {
-      "added_at": "2025-05-30 04:33:38",
+      "added_at": "2025-04-18 05:56:45",
       "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/5kwFkDit4r3He4ucO6Sppg"
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB"
       },
       "artists": [
         {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+          "name": "EJ Ross",
+          "url": "https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB"
+        },
+        {
+          "name": "Jay Versace",
+          "url": "https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5"
         }
       ],
-      "duration_ms": 180000,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/2yGbrqOfY9taaNTOw30G0b"
+      "duration_ms": 182694,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz"
+    },
+    {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "DOYA?",
+        "url": "https://open.spotify.com/album/7FyYBUJVSsqPaBV0QzvSnW"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "duration_ms": 211921,
+      "name": "DOYA?",
+      "url": "https://open.spotify.com/track/2q525jOBsyaEvP9OnNaA8c"
+    },
+    {
+      "added_at": "2025-05-16 13:42:09",
+      "album": {
+        "name": "Lil' Obsession",
+        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+    },
+    {
+      "added_at": "2025-05-30 04:33:38",
+      "album": {
+        "name": "My Girls (feat. Sierra Sellers)",
+        "url": "https://open.spotify.com/album/7c08Y9F0zNR3PrdiP13TCj"
+      },
+      "artists": [
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        },
+        {
+          "name": "Sierra Sellers",
+          "url": "https://open.spotify.com/artist/3CX8IWsvFSnxgb5x82sETO"
+        }
+      ],
+      "duration_ms": 217588,
+      "name": "My Girls (feat. Sierra Sellers)",
+      "url": "https://open.spotify.com/track/2mdwJ2wy0OchwJSt09p2Cy"
+    },
+    {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Right Side",
+        "url": "https://open.spotify.com/album/4Qqc5yB1u7LQPDhpAZw0MT"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 176809,
+      "name": "Right Side",
+      "url": "https://open.spotify.com/track/7LjXtIApPh4G81nAMMCB1b"
+    },
+    {
+      "added_at": "2025-05-30 04:33:38",
+      "album": {
+        "name": "Slow Jam Szn",
+        "url": "https://open.spotify.com/album/4tFAWjtG1MkocENvvstGac"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "What Can I Do",
+      "url": "https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX"
     },
     {
       "added_at": "2025-05-23 04:00:52",
@@ -509,20 +649,32 @@
       "url": "https://open.spotify.com/track/0YwFzB0wgGn2XhloqPzVH6"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
+      "added_at": "2025-04-11 14:58:37",
       "album": {
-        "name": "DOYA?",
-        "url": "https://open.spotify.com/album/7FyYBUJVSsqPaBV0QzvSnW"
+        "name": "561",
+        "url": "https://open.spotify.com/album/1QWwpTh1lUAn7Kf6byyUhc"
       },
       "artists": [
         {
+          "name": "bbyblu",
+          "url": "https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz"
+        },
+        {
+          "name": "Norah's World",
+          "url": "https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh"
+        },
+        {
           "name": "3ee",
           "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
         }
       ],
-      "duration_ms": 211921,
-      "name": "DOYA?",
-      "url": "https://open.spotify.com/track/2q525jOBsyaEvP9OnNaA8c"
+      "duration_ms": 138463,
+      "name": "561",
+      "url": "https://open.spotify.com/track/1wVFdQBApaatPvfrhTaMxL"
     },
     {
       "added_at": "2025-05-23 04:00:52",
@@ -619,26 +771,6 @@
     {
       "added_at": "2025-05-09 04:00:22",
       "album": {
-        "name": "FEEL THE BA$S (Extendo) [feat. BEAM]",
-        "url": "https://open.spotify.com/album/1iHWp6CEKFhaIQ29AorMQ5"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 167029,
-      "name": "FEEL THE BA$S (Extendo) [feat. BEAM]",
-      "url": "https://open.spotify.com/track/7D376hckBJfa3yDWdgn3MN"
-    },
-    {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
         "name": "I'm A Good Girl..... Do You Believe Me?",
         "url": "https://open.spotify.com/album/3o9LhBYcra8I10QKBoDYUI"
       },
@@ -651,26 +783,6 @@
       "duration_ms": 222764,
       "name": "S.T.M.F.U.",
       "url": "https://open.spotify.com/track/4leXhi5nddAs8mVbsNr91p"
-    },
-    {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -999,26 +1111,6 @@
     {
       "added_at": "2025-04-18 05:56:45",
       "album": {
-        "name": "BLIND",
-        "url": "https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB"
-      },
-      "artists": [
-        {
-          "name": "EJ Ross",
-          "url": "https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB"
-        },
-        {
-          "name": "Jay Versace",
-          "url": "https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "BLIND",
-      "url": "https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz"
-    },
-    {
-      "added_at": "2025-04-18 05:56:45",
-      "album": {
         "name": "Distant Lover",
         "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
       },
@@ -1225,34 +1317,6 @@
       "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
-      "added_at": "2025-04-11 14:58:37",
-      "album": {
-        "name": "561",
-        "url": "https://open.spotify.com/album/1QWwpTh1lUAn7Kf6byyUhc"
-      },
-      "artists": [
-        {
-          "name": "bbyblu",
-          "url": "https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz"
-        },
-        {
-          "name": "Norah's World",
-          "url": "https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh"
-        },
-        {
-          "name": "3ee",
-          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
-        }
-      ],
-      "duration_ms": 138463,
-      "name": "561",
-      "url": "https://open.spotify.com/track/1wVFdQBApaatPvfrhTaMxL"
-    },
-    {
       "added_at": "2025-04-25 06:38:50",
       "album": {
         "name": "One Call",
@@ -1303,22 +1367,6 @@
       "duration_ms": 160847,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7DceR0WNzszl53i1b43HPp"
-    },
-    {
-      "added_at": "2025-03-28 19:26:34",
-      "album": {
-        "name": "Lay With Me",
-        "url": "https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA"
-      },
-      "artists": [
-        {
-          "name": "Ebub\u00e9",
-          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Lay With Me",
-      "url": "https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD"
     },
     {
       "added_at": "2025-04-11 05:30:41",
@@ -1605,22 +1653,6 @@
       "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
     },
     {
-      "added_at": "2025-03-21 05:20:48",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/0Ovj6EvLPcUdythgf3NULU"
-      },
-      "artists": [
-        {
-          "name": "AKIA",
-          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
-        }
-      ],
-      "duration_ms": 173682,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/59X3CiTwsVyEpTfVNghHG4"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "CRYBABY",
@@ -1775,30 +1807,6 @@
       "duration_ms": 156920,
       "name": "Truce",
       "url": "https://open.spotify.com/track/6Mqj4plQzZgzFGcPAbs1fJ"
-    },
-    {
-      "added_at": "2025-02-14 08:04:25",
-      "album": {
-        "name": "u miss me yet?",
-        "url": "https://open.spotify.com/album/0gRnc0cFqzRPeHNyjkXs4A"
-      },
-      "artists": [
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        },
-        {
-          "name": "Kai Ca$h",
-          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
-        },
-        {
-          "name": "Really Jaewon",
-          "url": "https://open.spotify.com/artist/1aDsYxMf0dLEqrpmcvvWE0"
-        }
-      ],
-      "duration_ms": 131133,
-      "name": "Let you have it (feat. Kai Ca$h & Really Jaewon)",
-      "url": "https://open.spotify.com/track/36T3K1sXVo6FftX0C7o89E"
     },
     {
       "added_at": "2025-02-28 06:56:32",
@@ -1991,22 +1999,6 @@
       "duration_ms": 178571,
       "name": "Magic Gurl (feat. Lekan)",
       "url": "https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr"
-    },
-    {
-      "added_at": "2024-11-15 07:31:41",
-      "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 226835,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
     },
     {
       "added_at": "2025-01-31 10:15:38",
@@ -2549,22 +2541,6 @@
       "url": "https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Love So Good",
-        "url": "https://open.spotify.com/album/5mkBg9NiLCnnr2xijskvsb"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Love So Good",
-      "url": "https://open.spotify.com/track/1I8ZT8kG2cCquUagTfaZ7M"
-    },
-    {
       "added_at": "2024-10-25 07:34:30",
       "album": {
         "name": "Heal U / Out My Hair",
@@ -2763,42 +2739,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Lockjaw 2",
-        "url": "https://open.spotify.com/album/6cky5nR2nafUXW1e9KZQoN"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Lockjaw 2",
-      "url": "https://open.spotify.com/track/6zDC7r1EzJ8gf4GiSr7Ez7"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Fold",
-        "url": "https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 157606,
-      "name": "Fold",
-      "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "LOVE/HATE Pt. 2",
         "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
       },
@@ -2865,34 +2805,6 @@
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "GEMS IN THE CORNERSTORE II",
-        "url": "https://open.spotify.com/album/2KhWIDrrHqMEdXZsSj8vNk"
-      },
-      "artists": [
-        {
-          "name": "JEMS!",
-          "url": "https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe"
-        },
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "J.Robb",
-          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
-        },
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 160490,
-      "name": "MASHUP",
-      "url": "https://open.spotify.com/track/70KlBBhGkQtuVICtZwt9zL"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Your Ecstasy",
@@ -2955,22 +2867,6 @@
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Give",
-        "url": "https://open.spotify.com/album/44bKQsq55IjWcKTdky40qz"
-      },
-      "artists": [
-        {
-          "name": "Genia",
-          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
-        }
-      ],
-      "duration_ms": 136971,
-      "name": "Give",
-      "url": "https://open.spotify.com/track/2a0rr6LVmgGk6oY1sYQFau"
     },
     {
       "added_at": "2024-08-16 04:00:00",

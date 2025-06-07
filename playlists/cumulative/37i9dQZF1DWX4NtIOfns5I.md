@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> qunnie on the cover 🫧
+> hiiiii medium build <3
 
-526 songs - 1 day 7 hr 9 min
+532 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 | 2024-04-13 |
 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 | 2024-08-26 | 2025-02-27 |
 | [Drive](https://open.spotify.com/track/3CMUT3yFtwmdSjv4gOj3yl) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Drive](https://open.spotify.com/album/1eAJcsrNvXzmm3OyKASvzk) | 3:27 | 2025-04-11 |  |
+| [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 | 2025-06-06 |  |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 | 2025-01-18 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-24 |  |
 | [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-10-06 | 2024-04-13 |
@@ -133,6 +134,7 @@
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-05-30 |  |
 | [Electric Lizard](https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Rocky Doom](https://open.spotify.com/album/18dZNZb5ijjIfVAmZSR0sT) | 3:26 | 2024-05-31 | 2025-03-13 |
 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 | 2024-11-08 |  |
+| [Elton & John](https://open.spotify.com/track/2qGEN0vFCGqQJESssTRFEI) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [Elton & John](https://open.spotify.com/album/04LHRaYDpTgMteqRNcIPeb) | 3:24 | 2025-06-06 |  |
 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 | 2023-12-08 | 2024-10-05 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-10-27 | 2024-04-06 |
 | [Euphor](https://open.spotify.com/track/4CiqKccFFYGmFPz7HVTjfW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:03 | 2023-10-17 | 2024-03-13 |
@@ -246,6 +248,7 @@
 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 | 2025-05-30 |  |
 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 | 2023-10-06 | 2024-07-09 |
 | [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 | 2024-04-05 | 2024-06-29 |
+| [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-06 |  |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-10 |  |
 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 | 2025-03-14 |  |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-09-07 |
@@ -291,6 +294,7 @@
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-11 | 2025-03-13 |
 | [me and you](https://open.spotify.com/track/0oJ0ZWkjZBYRtUBeC0o76c) | [gabrielle hope](https://open.spotify.com/artist/5VSQfk6IkMUb8IVxo3mtPt) | [me and you](https://open.spotify.com/album/089mLGaIa69aVY4G5yjg9F) | 1:32 | 2025-01-10 |  |
 | [Mean Guy](https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [With a Lightning Strike](https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr) | 3:29 | 2024-10-11 | 2025-05-14 |
+| [Meaning](https://open.spotify.com/track/41S0JSa52kSmDUFsKEBaiB) | [e4444e](https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC) | [Authentic Natural Tradition](https://open.spotify.com/album/3pwDE4fSZ5BsTnUTHZrHCR) | 5:35 | 2025-06-06 |  |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-03-29 | 2024-09-14 |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-10-06 | 2024-07-13 |
 | [Mine / Yours](https://open.spotify.com/track/7lw4DkSEskhvXl0LdPOfXQ) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 3:06 | 2023-12-15 | 2024-03-16 |
@@ -320,6 +324,7 @@
 | [Mystery Of Love \- Demo](https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery Of Love \(Demo\)](https://open.spotify.com/album/06pLW7elratms6S5yufTzn) | 4:04 | 2025-04-01 |  |
 | [Naive](https://open.spotify.com/track/6U5MOnKglGPSwGaJocFn67) | [LUELLA](https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9) | [Naive](https://open.spotify.com/album/7pSMjtGrXhS5URH9TxYFSO) | 3:07 | 2025-04-18 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-10-06 | 2024-04-06 |
+| [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-06 |  |
 | [Never Learned To Dance](https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/5ms3VD6BeAQjId7vGPPznI) | 3:44 | 2023-10-06 | 2023-11-18 |
 | [Never Learned To Dance](https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG) | 3:44 | 2023-11-10 | 2024-03-16 |
 | [Never Rest](https://open.spotify.com/track/2355mlkKrUl6pcuGBqCf3s) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Never Rest](https://open.spotify.com/album/1eoqXp1vx3j64v3SRxlOrx) | 4:28 | 2025-04-04 |  |
@@ -447,6 +452,7 @@
 | [The Bell Jar](https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [The Bell Jar](https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK) | 2:19 | 2024-04-05 | 2024-10-05 |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-10-06 | 2024-06-01 |
 | [The Commons](https://open.spotify.com/track/7DZsQQKTTp0u7wn4kvfuv9) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Commons](https://open.spotify.com/album/3OAXLr5eOIyMr1pyVKSyKA) | 5:24 | 2024-11-08 | 2025-03-13 |
+| [The Explorer](https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [The Explorer](https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9) | 2:54 | 2025-06-06 |  |
 | [The Favorite](https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [The Favorite](https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43) | 3:05 | 2024-04-12 | 2024-09-14 |
 | [The Former](https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [The Former](https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i) | 2:37 | 2023-10-06 | 2024-03-16 |
 | [The Garden](https://open.spotify.com/track/0KpuNyAoL4CqiiBdb1IOpH) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:45 | 2025-02-07 | 2025-05-31 |

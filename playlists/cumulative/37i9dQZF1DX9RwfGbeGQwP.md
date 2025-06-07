@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,574 songs - 2 day 11 hr 10 min
+1,575 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Boardwalk](https://open.spotify.com/track/4Nbt5ee9Y8Yv6zwFZX12BD) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Boardwalk](https://open.spotify.com/album/3s61bBrT4w1ILyuKz5iLzB) | 2:12 | 2022-07-01 | 2022-11-20 |
 | [Bonham Style](https://open.spotify.com/track/4aUXLVtHvNsJKmiHSTZ01J) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 2:02 | 2022-01-27 | 2022-05-20 |
 | [bonsai](https://open.spotify.com/track/3u1ZSXyd1waiy4akEjNXLl) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [bonsai](https://open.spotify.com/album/0GdKTZx1pCIXTEFWGHYvaa) | 2:02 | 2024-11-22 |  |
-| [Botanica](https://open.spotify.com/track/5SsWXtzXi0TH2015CccwRy) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Botanica](https://open.spotify.com/album/65jS2v1ucYq4cyWAu5jj4G) | 2:04 | 2025-01-24 |  |
+| [Botanica](https://open.spotify.com/track/5SsWXtzXi0TH2015CccwRy) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Botanica](https://open.spotify.com/album/65jS2v1ucYq4cyWAu5jj4G) | 2:04 | 2025-01-24 | 2025-06-07 |
 | [Boy Meets World Inst](https://open.spotify.com/track/0eXAYw2pF3hzciUH507pwa) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Boy Meets World Inst](https://open.spotify.com/album/4ckx6Sxdvk4cKax9ZBosLO) | 2:36 | 2022-09-30 | 2023-02-25 |
 | [Breakfast](https://open.spotify.com/track/2Y6fX4H6onPgZjdqS2zTrx) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Breakfast](https://open.spotify.com/album/4cItehTSGEfNRt5nt3OPJW) | 2:18 | 2022-09-23 | 2023-09-05 |
 | [Breakfast at night](https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Breakfast at night](https://open.spotify.com/album/22js5LzkbvZ1dOmKZHcOgC) | 2:00 | 2022-09-30 | 2024-11-17 |
@@ -172,6 +172,7 @@
 | [butterflies](https://open.spotify.com/track/2rSvj3ijnLX9hQh7yfN5QN) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [butterflies](https://open.spotify.com/album/3w2hAC4HRNyIXW6slXuFBl) | 2:24 | 2025-05-23 |  |
 | [butterflies in my head](https://open.spotify.com/track/0ycyOQwmsZWgiTRNN1MDFk) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [butterflies in my head](https://open.spotify.com/album/425IDUiunzsWmbNdzo7uom) | 1:44 | 2025-04-11 | 2025-06-05 |
 | [BUYING TIME](https://open.spotify.com/track/42ONWs84CDvyidcjFTPAdq) | [LiLucifer](https://open.spotify.com/artist/6Lr60FHZF0k8lGTQVQoBSO) | [THROWAWAY VOL\. 4: LAVENDER & LILAC](https://open.spotify.com/album/6lhvBh2ftiVNoDXajbHWL4) | 3:15 | 2022-04-08 | 2022-07-01 |
+| [by the fireplace](https://open.spotify.com/track/1PbFELwPRHh7RNOyWX1qTe) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [by the fireplace](https://open.spotify.com/album/5V32FKLnq7s2RMmvc7iwws) | 2:29 | 2025-06-04 |  |
 | [By Your Side](https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [By Your Side](https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg) | 2:00 | 2023-03-24 |  |
 | [cactus on my table](https://open.spotify.com/track/0KLNaZS6yJY6R3jyJJsXun) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Cactus Man](https://open.spotify.com/album/0xbp9NClixl5hupffRxnCA) | 1:45 | 2023-04-20 | 2024-12-01 |
 | [caffeine](https://open.spotify.com/track/2bImrY3LXxj72uneLO4pp0) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [caffeine](https://open.spotify.com/album/5yptCJok2t4x94m9wtuRQ3) | 2:11 | 2022-09-02 |  |

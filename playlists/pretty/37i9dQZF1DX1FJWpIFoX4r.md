@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 
 > A beautifully wicked tale of privilege and desire\. Listen to the music from Saltburn, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,239 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,242 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FJWpIFoX4r.md) - [plain]
 | 33 | [Almost None](https://open.spotify.com/track/4WDl6NlOVwTWplDKMx0Vou) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 5:35 |
 | 34 | [Felix's Suite](https://open.spotify.com/track/19JxnkB2iMjJbOuk5hICfK) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 7:49 |
 
-Snapshot ID: `AAAAANhABytzwTcIHIxNEW/BXvo5giGb`
+Snapshot ID: `ZasUUwAAAABTYaTNycrQzuDDHxhRmF/p`

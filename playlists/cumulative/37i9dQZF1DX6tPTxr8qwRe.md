@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Banshee
 
-908 songs - 1 day 17 hr 53 min
+914 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 | 2021-11-12 | 2022-03-18 |
 | [Hurting My Own Feelings](https://open.spotify.com/track/5icmPOyz0YQy7gF6hwNWKk) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/1xmvvsuA22peyMbHyq9atz) | 2:55 | 2025-04-18 |  |
 | [HUSH](https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel](https://open.spotify.com/album/6zvckLWDs3GtRAll4b0Cvl) | 3:10 | 2022-10-07 | 2023-04-01 |
+| [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 | 2025-06-06 |  |
 | [HUSH](https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [HUSH](https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo) | 2:55 | 2024-04-24 | 2024-05-18 |
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-09-10 | 2022-04-09 |
 | [Hype Song](https://open.spotify.com/track/7dgRK8IwI02y7MiBNd5a1b) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Hype Song](https://open.spotify.com/album/1z6jjSoP7UC4Sb3AHkBS4v) | 3:27 | 2023-12-01 | 2024-04-27 |
@@ -460,6 +461,7 @@
 | [k](https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [k](https://open.spotify.com/album/2IoAmQn8rBf4YNpGyJarxM) | 2:46 | 2023-04-28 | 2023-06-17 |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2022-12-09 | 2023-04-01 |
 | [kill the girl](https://open.spotify.com/track/5z5Tph3uXkhy9CWANGbv7h) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [kill the girl](https://open.spotify.com/album/6POWvEgFWeIkFq35tMWUpH) | 2:30 | 2024-05-03 | 2024-06-29 |
+| [KILL4ME](https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [KILL4ME](https://open.spotify.com/album/7vjtCYVgXACX4bZ3nAvepU) | 2:20 | 2025-06-06 |  |
 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 | 2022-10-28 | 2023-04-01 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2021-10-29 | 2023-01-06 |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 | 2022-04-29 |
@@ -468,6 +470,7 @@
 | [Kiss My \(Ah\)](https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Kiss My \(Ah\)](https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0) | 2:18 | 2024-09-13 | 2024-11-16 |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-26 | 2024-09-21 |
 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 | 2023-07-21 | 2024-01-05 |
+| [Known Better](https://open.spotify.com/track/6ug40pJYvZ5jitCcNN4tOh) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Known Better](https://open.spotify.com/album/0ZHK8D7PKdxw84sgkh3g4K) | 2:38 | 2025-06-06 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-31 | 2023-08-05 |
 | [LAST CIGARETTE \(feat\. Au/Ra\)](https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [LAST CIGARETTE \(feat\. Au/Ra\)](https://open.spotify.com/album/3dK2iIjUFadIeePyqL6zel) | 2:13 | 2022-05-06 | 2022-09-17 |
 | [Late Nights](https://open.spotify.com/track/1H8pQCxDEq0kFO99KBfAys) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Late Nights](https://open.spotify.com/album/7MfjEuBusZ0Lk8lxxEAjFq) | 3:10 | 2023-07-21 | 2023-08-05 |
@@ -704,6 +707,7 @@
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
 | [Sex Concept](https://open.spotify.com/track/056QhSuhJ822uO45NZtq1X) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Sex Concept](https://open.spotify.com/album/2JOwZaCHcUSJUxQPQ9WfmY) | 3:52 | 2024-08-16 | 2025-01-25 |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2023-11-10 | 2024-03-23 |
+| [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-06 |  |
 | [Shapeshifter](https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shapeshifter](https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol) | 2:26 | 2024-04-12 | 2024-06-29 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-01-15 | 2024-04-27 |
@@ -825,6 +829,7 @@
 | [Trust Me](https://open.spotify.com/track/6Tr21jU9bkvMInMemDrsB9) | [Lola Blanc](https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy) | [Trust Me](https://open.spotify.com/album/2cZr0zvYEZDQS7TJauEMHZ) | 4:38 | 2023-08-11 | 2023-12-09 |
 | [TRUST!](https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [TRUST!](https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep) | 2:51 | 2024-10-18 | 2025-04-12 |
 | [trying to forget](https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy) | [Ally Bakst](https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11) | [in my head](https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP) | 3:00 | 2025-05-30 |  |
+| [Turn Me On](https://open.spotify.com/track/5UCxUTkbkfayryv1awEuTD) | [Cheska Moore](https://open.spotify.com/artist/4zMP0yVET0EuGE9SynLoSM) | [Turn Me On](https://open.spotify.com/album/6Z1ucMn66DJFPGfkBSUd4M) | 2:37 | 2025-06-06 |  |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-24 | 2022-07-30 |
 | [Twisted](https://open.spotify.com/track/1m1DJcA1MNiadetY9tFZzD) | [Laura Davidson](https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf) | [Twisted](https://open.spotify.com/album/0csthgfGKnJIar7TlqRGKE) | 2:21 | 2023-12-15 | 2024-02-17 |
 | [Two Sides](https://open.spotify.com/track/5FnspVG6iriNNFuBKKoQbB) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [It's Not That Deep: Chapter 1](https://open.spotify.com/album/62DB8pQf35nmgO8Cq1HZH6) | 2:25 | 2022-08-12 | 2022-09-17 |
@@ -896,6 +901,7 @@
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-05-20 | 2022-10-22 |
 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 | 2022-10-28 | 2023-04-01 |
 | [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 | 2024-01-20 |
+| [WITHOUT YOU](https://open.spotify.com/track/71m5UAl8ImCsCIUmB6BebA) | [Maya Wasserman](https://open.spotify.com/artist/0vXZJkCe3eRPiUExSOVrKU) | [WITHOUT YOU](https://open.spotify.com/album/2oOTz2LrAq3zbBCsRbHhi0) | 2:10 | 2025-06-06 |  |
 | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/track/3EgRznELSayrCj19aGYRic) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/album/0vCm9yXPMOX7BpLtuB0YjC) | 2:57 | 2024-05-10 | 2024-06-29 |
 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 | 2022-01-28 | 2022-10-08 |
 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 | 2023-06-30 | 2023-09-16 |
@@ -909,7 +915,7 @@
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
 | [you should be scared](https://open.spotify.com/track/0TdQSyR07a1aDdY4I8C52T) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [you should be scared](https://open.spotify.com/album/3dzY3s9OZBgrfqjqs6oHgh) | 2:14 | 2025-04-25 |  |
 | [You Used To Be So Sexy](https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV) | 3:24 | 2025-05-02 |  |
-| [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 |  |
+| [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 | 2025-06-07 |
 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 | 2024-01-27 |
 | [You're the only one I trust](https://open.spotify.com/track/3BN2hEZ2TxqjzYVpAVLTzV) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You're the only one I trust](https://open.spotify.com/album/1og1NwWveeYLy9dZq5HdcL) | 3:06 | 2025-05-30 |  |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 | 2023-11-11 |

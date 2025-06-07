@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34289,
+  "num_followers": 34293,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAPsRr61/9An7/3XHarpJ4J",
+  "snapshot_id": "aEDeAAAAAABsHnAo6A9A6qLul07C2ih3",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 292400,
       "name": "The Chapel",
       "url": "https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lift Our Spirits Raise Our Voice",
         "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 219072,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo"
     },
     {
       "added_at": null,

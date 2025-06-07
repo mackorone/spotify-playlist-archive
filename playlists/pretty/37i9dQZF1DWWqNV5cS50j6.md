@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,345 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,343 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 |
+| 1 | [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 |
 | 2 | [keep it up](https://open.spotify.com/track/0QihOt3PvTC50rZKTc7CU0) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [keep it up](https://open.spotify.com/album/6q85e8IqXxFi0WGMJGuPkP) | 1:54 |
 | 3 | [MISS ME?](https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [MISS ME?](https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9) | 2:06 |
 | 4 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 12 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
 | 13 | [goodWork](https://open.spotify.com/track/6lvebzEwTvoCF8MTL2n7nX) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [goodWork](https://open.spotify.com/album/4dvn5Bie7C35P2W27lMRDl) | 2:58 |
 | 14 | [rollercoasting](https://open.spotify.com/track/0Chlm3pFxI4Lt9xV2vVy3K) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [rollercoasting](https://open.spotify.com/album/01QNFvqgizbYrDk7sGxunS) | 1:38 |
-| 15 | [H+H](https://open.spotify.com/track/3N0jaNfm4tH6EKw5lIwCOX) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [H+H](https://open.spotify.com/album/19qzl6ksm4J9cbWJZ5QhFm) | 1:52 |
+| 15 | [H+H](https://open.spotify.com/track/3N0jaNfm4tH6EKw5lIwCOX) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [H+H](https://open.spotify.com/album/19qzl6ksm4J9cbWJZ5QhFm) | 1:52 |
 | 16 | [Heart of a Child](https://open.spotify.com/track/7qBRZlD9CyeR1IzhqGKnvC) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Breeze Grew a Fire](https://open.spotify.com/album/27Wwasz4XZHobOHQaB4R0g) | 3:49 |
 | 17 | [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 |
 | 18 | [rush](https://open.spotify.com/track/0kICcAeTYemPAAtBvDpttb) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rush](https://open.spotify.com/album/5e6mRAECzmgEduX7v7kgwi) | 2:10 |

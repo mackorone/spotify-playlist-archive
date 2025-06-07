@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Abigail Chams
 
-298 songs - 16 hr 48 min
+299 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Be My Rescue](https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Sweet Sour Serenade](https://open.spotify.com/album/5vpuiuqaKIxzCDAzjXCS3t) | 3:08 | 2024-11-07 | 2025-02-07 |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 | 2025-02-27 |  |
+| [Body](https://open.spotify.com/track/5CLaOLPBVMYezpGZgHIAeV) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Body](https://open.spotify.com/album/4kzlFWiEEVzSV2x6HY7RwP) | 2:50 | 2025-06-05 |  |
 | [Buruda](https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Buruda](https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3) | 3:44 | 2024-03-14 | 2024-03-22 |
 | [Butterfly \(feat\. Phina\)](https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Butterfly \(feat\. Phina\)](https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu) | 3:00 | 2024-01-18 | 2024-05-24 |
 | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/track/6ZWjQChIMWzChj1yDsi30e) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/album/16e0cDT5TScFTG3w0OJKxL) | 3:04 | 2024-12-19 |  |

@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-117 songs - 8 hr 0 min
+118 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Flipper](https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Pink Wax](https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird) | 4:05 | 2025-03-14 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2025-02-21 |  |
 | [fourth wave](https://open.spotify.com/track/4QsWMsZWAMgztjfmY4WdQg) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [fourth wave](https://open.spotify.com/album/7hzttSqPCyCw9q2senJNpt) | 4:24 | 2025-03-28 |  |
-| [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 |  |
+| [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 | 2025-06-07 |
 | [Havana Jazz](https://open.spotify.com/track/1dfsalIhl3q8TN7h2JnTtO) | [T.Markakis](https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu), [Blanco K](https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj) | [Havana Jazz](https://open.spotify.com/album/1PnumLRat66gCYGg0C99Cl) | 3:50 | 2025-04-29 |  |
 | [Have You Ever Dream Of Nancy Plenozas ?](https://open.spotify.com/track/0TSIg2HyR7W715x9gU6D7s) | [Soufflé Caramel](https://open.spotify.com/artist/4mGvEsQqmeRz8uJHHFLxnp) | [Club de Jazz 2](https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz) | 9:30 | 2025-02-21 |  |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2025-02-21 |  |
@@ -106,6 +106,7 @@
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 |  |
 | [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 |  |
+| [Spore](https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Spore](https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz) | 2:30 | 2025-06-06 |  |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-21 |  |
 | [Sundials](https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM) | [Brawther](https://open.spotify.com/artist/6UV6mehn2Fs0ropWUpGWtI), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sundials EP](https://open.spotify.com/album/2gUTGkvfNNYhojlNAtGm29) | 6:26 | 2025-02-21 |  |
 | [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 |  |

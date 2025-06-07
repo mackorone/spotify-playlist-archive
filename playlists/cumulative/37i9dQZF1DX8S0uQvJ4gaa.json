@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Dylan Scott",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Waylon Wyatt",
   "name": "New Boots",
   "tracks": [
     {
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 255712,
       "name": "American Trail",
       "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 235773,
       "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
       "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
@@ -7161,6 +7161,24 @@
     },
     {
       "album": {
+        "name": "Comin' In Cold",
+        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Comin' In Cold",
+      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
       },
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 216718,
       "name": "Country in the Clouds",
       "url": "https://open.spotify.com/track/7FjO69pOVGMhZMEeMsPWkT"
@@ -9465,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "Dodge a Bullet",
+        "url": "https://open.spotify.com/album/0IhgFS7FRUgW7iKCNAUG7d"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "Dodge a Bullet",
+      "url": "https://open.spotify.com/track/2jzinvUUX94JyPd29xxepc"
+    },
+    {
+      "album": {
         "name": "Does He Know About Us",
         "url": "https://open.spotify.com/album/10zLSRxtFmjmD2n3VO7ERT"
       },
@@ -9704,6 +9740,24 @@
       "duration_ms": 226975,
       "name": "Don't Think Jesus",
       "url": "https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2"
+    },
+    {
+      "album": {
+        "name": "DON'T WANNA GO HOME",
+        "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133560,
+      "name": "DON'T WANNA GO HOME",
+      "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
     },
     {
       "album": {
@@ -10646,7 +10700,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 198660,
       "name": "Drunk Right Now (Na Na Na) with Akon",
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
@@ -13161,6 +13215,24 @@
     },
     {
       "album": {
+        "name": "George F****** Strait",
+        "url": "https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189165,
+      "name": "George F****** Strait",
+      "url": "https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l"
+    },
+    {
+      "album": {
         "name": "George Strait Songs",
         "url": "https://open.spotify.com/album/4yunMFaNLz4dG99buYdUpn"
       },
@@ -13700,7 +13772,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 177506,
       "name": "Girl I Never Met",
       "url": "https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x"
@@ -16412,7 +16484,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
@@ -19411,6 +19483,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Worried About It",
+        "url": "https://open.spotify.com/album/7K59GahC9DKMSllzumwKTK"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204810,
+      "name": "I Ain't Worried About It",
+      "url": "https://open.spotify.com/track/1Oy43PnF4oNGIZhDr6h93z"
+    },
+    {
+      "album": {
         "name": "shot in the dark",
         "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
       },
@@ -19668,7 +19758,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 163871,
       "name": "I Deserve a Heartbreak",
       "url": "https://open.spotify.com/track/0R6lnjGCnNToW1B9m7ETms"
@@ -19892,7 +19982,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 199711,
       "name": "I Don't Want You (feat. Charles Wesley Godwin)",
       "url": "https://open.spotify.com/track/6b0pK1DjxT5dERtsGG8jyX"
@@ -22074,7 +22164,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 230644,
       "name": "It\u2019s The Little Things",
       "url": "https://open.spotify.com/track/3MGkaaSUgm40GOZT4fuVFb"
@@ -22244,6 +22334,24 @@
       "duration_ms": 176013,
       "name": "Jesus Saves",
       "url": "https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW"
+    },
+    {
+      "album": {
+        "name": "Jesus Wouldn't Do",
+        "url": "https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Jesus Wouldn't Do",
+      "url": "https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux"
     },
     {
       "album": {
@@ -23312,7 +23420,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 168680,
       "name": "Learn The Hard Way",
       "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
@@ -24596,6 +24704,24 @@
       "duration_ms": 203321,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/0vK1vDEvEMvSpFEKW62Qub"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174709,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl"
     },
     {
       "album": {
@@ -29723,6 +29849,24 @@
     },
     {
       "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228247,
+      "name": "Old Habits",
+      "url": "https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5"
+    },
+    {
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu"
       },
@@ -32945,6 +33089,24 @@
     },
     {
       "album": {
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/2T7ERZKhSm5RU3Qoe79YYC"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178185,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/7wpHmibW1dlaNpCtz9zuSp"
+    },
+    {
+      "album": {
         "name": "Rival",
         "url": "https://open.spotify.com/album/6x76SSJsHpzc6Hf3mZOUnW"
       },
@@ -34734,7 +34896,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 229799,
       "name": "Sincerely, Your Son",
       "url": "https://open.spotify.com/track/4Avhm4TheMNptgXdaQN52O"
@@ -34810,6 +34972,24 @@
       "duration_ms": 196453,
       "name": "Sinning With You",
       "url": "https://open.spotify.com/track/7aP3ZnCrfQLFBFK4RiXpG2"
+    },
+    {
+      "album": {
+        "name": "Sippin Country",
+        "url": "https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd"
+      },
+      "artists": [
+        {
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "Sippin Country",
+      "url": "https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq"
     },
     {
       "album": {
@@ -38112,7 +38292,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 188200,
       "name": "Superman",
       "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
@@ -38152,6 +38332,24 @@
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
+    },
+    {
+      "album": {
+        "name": "Sweet Lady",
+        "url": "https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179022,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC"
     },
     {
       "album": {
@@ -38264,6 +38462,24 @@
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
+    },
+    {
+      "album": {
+        "name": "Tailspin",
+        "url": "https://open.spotify.com/album/2qtMLDwO5ktiVtFVATsL0O"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Tailspin",
+      "url": "https://open.spotify.com/track/74ouav2arWYgDA656JHLzJ"
     },
     {
       "album": {
@@ -39144,7 +39360,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 242446,
       "name": "The Bend",
       "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
@@ -42807,6 +43023,24 @@
     },
     {
       "album": {
+        "name": "Water My Flowers",
+        "url": "https://open.spotify.com/album/4pJjKdO71lcyiz7KMOKMFW"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220077,
+      "name": "Water My Flowers",
+      "url": "https://open.spotify.com/track/3YSDdyuCgLiYmT0SkOKOxa"
+    },
+    {
+      "album": {
         "name": "Water Under The Bridge",
         "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
       },
@@ -43442,7 +43676,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 211863,
       "name": "What Could Go Right (feat. Lanie Gardner)",
       "url": "https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na"
@@ -44828,6 +45062,24 @@
       "duration_ms": 233933,
       "name": "White Buffalo",
       "url": "https://open.spotify.com/track/7MnovOocsvlfoe2iNBAraA"
+    },
+    {
+      "album": {
+        "name": "Corn Queen",
+        "url": "https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247503,
+      "name": "White Limousine",
+      "url": "https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo"
     },
     {
       "album": {

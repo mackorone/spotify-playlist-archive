@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring GIV\u0112ON.",
+  "description": "What's happening in r&b, right now \u2013 featuring Mariah The Scientist.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 145000,
       "name": "3AM",
       "url": "https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS"
@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -886,7 +904,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 150841,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
@@ -5277,6 +5295,32 @@
     },
     {
       "album": {
+        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210071,
+      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
+    },
+    {
+      "album": {
         "name": "Effortlessly",
         "url": "https://open.spotify.com/album/6ahbfskqruzQOt5QXMlbzP"
       },
@@ -6613,6 +6657,28 @@
     },
     {
       "album": {
+        "name": "FREEDOM (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160455,
+      "name": "FREEDOM (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
+    },
+    {
+      "album": {
         "name": "DAROLD",
         "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
@@ -6926,7 +6992,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 192425,
       "name": "Gettin' in The Way - Spotify Singles",
       "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
@@ -7216,6 +7282,24 @@
       "duration_ms": 170526,
       "name": "Go' Head",
       "url": "https://open.spotify.com/track/4xlJlOrT1vgRrL2xxGHcRG"
+    },
+    {
+      "album": {
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "album": {
@@ -7742,6 +7826,24 @@
       "duration_ms": 221700,
       "name": "He Loves Us Both (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
+    },
+    {
+      "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "album": {
@@ -10463,6 +10565,28 @@
     },
     {
       "album": {
+        "name": "LEFT EYE (Remix)",
+        "url": "https://open.spotify.com/album/4o7fDuL1xt3qyxpjrbD3JA"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168865,
+      "name": "LEFT EYE - Remix",
+      "url": "https://open.spotify.com/track/7B2PA0vqzQ7oZOlPcqFPeC"
+    },
+    {
+      "album": {
         "name": "Ready Is Always Too Late (Deluxe)",
         "url": "https://open.spotify.com/album/7KaTBMubEkwwczNjyLyEB0"
       },
@@ -11130,6 +11254,24 @@
       "duration_ms": 191213,
       "name": "Lonely (feat. Bino Rideaux)",
       "url": "https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC"
+    },
+    {
+      "album": {
+        "name": "Long Time",
+        "url": "https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114768,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU"
     },
     {
       "album": {
@@ -15204,7 +15346,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 131764,
       "name": "Potential",
       "url": "https://open.spotify.com/track/3zf3l2QkCjHT60P5GDFofy"
@@ -17578,7 +17720,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 186482,
       "name": "Soft Girl Era",
       "url": "https://open.spotify.com/track/1Jk072eWqMwDQwvI7R8fff"
@@ -18854,7 +18996,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 286856,
       "name": "T.H.",
       "url": "https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs"
@@ -20542,6 +20684,24 @@
       "duration_ms": 126625,
       "name": "Two Sides (I\u2019m So Gemini) - Single Version",
       "url": "https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q"
+    },
+    {
+      "album": {
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
     },
     {
       "album": {

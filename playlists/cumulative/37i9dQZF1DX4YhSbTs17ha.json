@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Shakira & Alejandro Sanz en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Esteman y Daniela Spalla en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 172100,
       "name": "Coraz\u00f3n en Coma",
       "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 187226,
       "name": "digo que no, pero si",
       "url": "https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP"
@@ -4176,6 +4176,28 @@
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
+    },
+    {
+      "album": {
+        "name": "El Acuerdo",
+        "url": "https://open.spotify.com/album/7GSC7VQVLMHqSvllZrcS6L"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205669,
+      "name": "El Acuerdo",
+      "url": "https://open.spotify.com/track/5656uNhek3iuoACMKIuoLN"
     },
     {
       "album": {

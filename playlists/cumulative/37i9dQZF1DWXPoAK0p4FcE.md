@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Stoondio
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Newery, PONCHET
 
-115 songs - 8 hr 0 min
+116 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,10 +117,11 @@
 | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/track/55iW4BryMzudU98ySEhn1E) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/album/7hKiyBHI3KUPU1sbNCQT6H) | 4:08 | 2025-02-12 |  |
 | [ให้เธอรู้](https://open.spotify.com/track/3bxsNh46m1cicdfcNptwOY) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ให้เธอรู้](https://open.spotify.com/album/7spK5lX3p2nBLYmgyA5CyX) | 4:11 | 2024-06-27 | 2025-05-17 |
 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 | 2025-05-09 |  |
+| [ไม่ซับซ้อน](https://open.spotify.com/track/3rjuUVvemlYisi4ehnwNai) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen), [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [ไม่ซับซ้อน](https://open.spotify.com/album/5Gh9kDE3MM4FjGgnpNRkDy) | 3:45 | 2025-06-06 |  |
 | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/track/03VOGaj0opd5oCVwg1NU30) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/album/3kr9AyWsyMVUnRnatvJQSt) | 3:36 | 2024-08-30 | 2024-09-21 |
 | [ไม่เคยรู้](https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ไม่เคยรู้](https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io) | 5:02 | 2024-09-11 |  |
 | [ไม่เคยอ่อนแอแบบนี้มาก่อนเลย \(Blindfold\)](https://open.spotify.com/track/2dJuNVr4LGfmXSXlAHJmgl) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [Creatures](https://open.spotify.com/album/3UAPAQIqaSDvMWzQRzEsrV) | 3:33 | 2024-11-08 |  |
-| [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 | 2024-06-27 |  |
+| [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 | 2024-06-27 | 2025-06-07 |
 | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/track/1xOZwZkn1fFUb2e1pwMjRt) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/album/7tFLU2QlYvNCnUQKLV26hD) | 3:42 | 2024-06-27 |  |
 | [ไม่ไหวอย่าฝืน \(HANDYCAM\)](https://open.spotify.com/track/2v0yW8jRRKzbLHiNUZjM41) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ไม่ไหวอย่าฝืน \(HANDYCAM\)](https://open.spotify.com/album/5z2DhOR4bnMHeXk36sdRLQ) | 3:10 | 2025-04-04 |  |
 

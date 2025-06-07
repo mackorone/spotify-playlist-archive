@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-951 songs - 1 day 22 hr 47 min
+952 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 | 2023-07-14 | 2023-08-04 |
 | [DRUMLINE](https://open.spotify.com/track/4bTdTKiyVPozfr2TRqY0dc) | [01FRNCH](https://open.spotify.com/artist/6bve8VqiIP5cjKWtbYCk4t), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [DRUMLINE](https://open.spotify.com/album/4g9dHTsuIS88ap63gyXT1U) | 3:40 | 2023-08-03 | 2023-09-15 |
 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2022-11-25 | 2022-12-09 |
+| [Early Momo](https://open.spotify.com/track/4Kt5UFZHC1PTITrkSN1FUW) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Early Momo](https://open.spotify.com/album/3z68dQY5gNRMqGjoJIMQa4) | 2:14 | 2025-06-06 |  |
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-23 | 2023-03-25 |
 | [Ebelebe](https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Ebelebe](https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY) | 2:52 | 2024-02-23 | 2024-03-22 |
 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 | 2023-08-03 | 2023-09-15 |
@@ -313,7 +314,7 @@
 | [Fine Pass](https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Fine Pass](https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k) | 2:43 | 2023-10-13 | 2023-10-20 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-06-08 | 2023-02-24 |
 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 | 2024-08-02 | 2025-03-22 |
-| [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 | 2025-03-28 |  |
+| [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 | 2025-03-28 | 2025-06-07 |
 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 | 2024-07-26 | 2024-10-08 |
 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 | 2024-04-26 | 2024-05-10 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |

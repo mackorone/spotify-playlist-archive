@@ -3467,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Hate to Love",
+        "url": "https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Hate to Love",
+      "url": "https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor"
+    },
+    {
+      "album": {
         "name": "HE KNOWS (feat. Lil Nas X)",
         "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
       },

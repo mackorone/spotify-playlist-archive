@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "BITE",
+        "url": "https://open.spotify.com/album/4xKgTA0pfAL8OEvSRSiEoU"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170273,
+      "name": "BITE",
+      "url": "https://open.spotify.com/track/7wcLxoDNmNx4WiABHJZrrU"
+    },
+    {
+      "album": {
         "name": "Bla Bli Blu",
         "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
       },
@@ -4208,7 +4226,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 138355,
       "name": "DA DA DA",
       "url": "https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt"
@@ -21650,6 +21668,24 @@
       "duration_ms": 186432,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
+    },
+    {
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Witching Hour",
+      "url": "https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA"
     },
     {
       "album": {

@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Whatever Happens, Happens",
-        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Whatever Happens, Happens",
-      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 317178,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Whatever Happens, Happens",
+        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 227304,
+      "name": "Whatever Happens, Happens",
+      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
-      },
-      "artists": [
-        {
-          "name": "OLAN",
-          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
-        }
-      ],
-      "duration_ms": 224655,
-      "name": "Contra",
-      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 349000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
+      },
+      "artists": [
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        }
+      ],
+      "duration_ms": 224655,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
     },
     {
       "added_at": "2023-08-31 14:00:00",

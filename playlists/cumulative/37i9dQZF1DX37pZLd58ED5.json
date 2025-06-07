@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Tony Boy",
+  "description": "Solo beat e rime avvolgenti. Cover: Lazza",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "LOCURA (Opera)",
+        "url": "https://open.spotify.com/album/71zp4v15vupqfXHXYC9E43"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "FENTANYL feat. Sfera Ebbasta (Opera)",
+      "url": "https://open.spotify.com/track/5W7ztEbkvPndldZOZK8PYe"
+    },
+    {
+      "album": {
         "name": "PLAZA",
         "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
@@ -2834,6 +2856,28 @@
       "duration_ms": 237656,
       "name": "Mezzanotte in Punto (con Franco126, Ketama126 & Bresh)",
       "url": "https://open.spotify.com/track/4HPnwAsUMcudDgVCNLOzum"
+    },
+    {
+      "album": {
+        "name": "LOCURA (Jam)",
+        "url": "https://open.spotify.com/album/1xcWRxlgPGOEhzSeDUB0pS"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226424,
+      "name": "MEZZE VERIT\u00c0 feat. Kid Yugi (Jam)",
+      "url": "https://open.spotify.com/track/1JhX0OZnQNEhCKpseEvUiv"
     },
     {
       "album": {

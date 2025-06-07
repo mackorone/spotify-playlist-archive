@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Sean McConnell
 
-247 songs - 15 hr 4 min
+248 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Someday Song](https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Someday Song](https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl) | 3:16 | 2024-06-19 |  |
 | [Somewhere](https://open.spotify.com/track/5GQb6JXHTQW8Uz4xWo1lOi) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Somewhere](https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH) | 3:14 | 2022-01-28 | 2024-05-03 |
 | [Somewhere Between Texas and Tennessee](https://open.spotify.com/track/1eookKB7fhMF6bjqhUaJyz) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Somewhere Between Texas and Tennessee](https://open.spotify.com/album/21xANAhYWWHNn6hZdiivOB) | 3:33 | 2024-06-28 |  |
+| [Son Of The San Lorenzo](https://open.spotify.com/track/2TQ41pQc8mP9ECyjeyc7Uz) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Son of the San Lorenzo](https://open.spotify.com/album/0KTfVCtu9uZM8aDtzexZp5) | 4:53 | 2025-06-06 |  |
 | [Southside of Forever](https://open.spotify.com/track/2OOz6KPCstfYtxne6JFHQZ) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [SKIN](https://open.spotify.com/album/5BFYTEosLh6Dv6ObTpbuxO) | 3:34 | 2025-02-28 |  |
 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 | 2022-01-28 | 2023-12-02 |
 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2023-12-01 |  |

@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Rebeca Carvalho, Cassiane
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória
 
-288 songs - 1 day 2 hr 7 min
+289 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Enxugue as Lágrimas](https://open.spotify.com/track/1zdBHHqM5Hu1DcuQF1sa0D) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Enxugue as Lágrimas](https://open.spotify.com/album/6ntIB0HOTb7euDmDbsOKJy) | 5:53 | 2023-05-26 | 2023-07-08 |
 | [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z) | 5:47 | 2025-06-02 |  |
 | [Era Eu](https://open.spotify.com/track/06w4jnIoML6PFpouQXRfZN) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol\. 2\)](https://open.spotify.com/album/4JcaJ35kjjVoOb3vmlLb3S) | 5:37 | 2023-11-24 | 2024-04-19 |
-| [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 | 2023-11-24 |  |
+| [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 | 2023-11-24 | 2025-06-07 |
 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 | 2022-09-09 | 2022-10-01 |
 | [Escolhido](https://open.spotify.com/track/1HL6dDrHS1goaEj3mUJird) | [Juliana Santiago](https://open.spotify.com/artist/4rG1dRZldDf6AtgAuDxX2a) | [Escolhido](https://open.spotify.com/album/4yZZfd8marVzhwAkQRovDK) | 4:05 | 2023-09-01 | 2023-10-07 |
 | [Escreve \(Ao Vivo\)](https://open.spotify.com/track/7qOdt38keNGu7OP7PGm8Wn) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve / Enquanto Eu Chorava / Não é Tarde \(Ao Vivo\)](https://open.spotify.com/album/652u9uBuyxXqpSBwjgAnC2) | 4:19 | 2022-09-09 | 2023-02-04 |
@@ -136,9 +136,10 @@
 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 | 2023-02-24 | 2023-06-03 |
 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 | 2023-09-25 |  |
 | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/track/77bI4fOKEk3fFUgTKQ1dXk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/album/6TzyI0uQvnWWn5w6ATvoNi) | 4:33 | 2023-01-13 | 2023-02-04 |
-| [Jesus te Amamos](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Jesus te Amamos](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 | 2025-03-17 |  |
+| [Jesus te Amamos \- Ao Vivo](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Jesus te Amamos \(Ao Vivo\)](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 | 2025-03-17 |  |
 | [Jesus Vive \- Ao Vivo](https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Jesus Vive \(Ao Vivo\)](https://open.spotify.com/album/4peKjX1TTlUZXO9hR4SnRg) | 7:17 | 2023-05-12 | 2023-05-27 |
 | [Jesus, Meu Primeiro Amor \(Ao Vivo\)](https://open.spotify.com/track/0vqmdarUyBnBnXiyQ8bqvY) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Jesus, Meu Primeiro Amor \(Ao Vivo\)](https://open.spotify.com/album/4EY3T4raR9smfcDaZWY05b) | 5:31 | 2023-02-03 | 2023-07-08 |
+| [João Viu / Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [João Viu / Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog) | 4:39 | 2025-06-06 |  |
 | [Leão \- Acústico](https://open.spotify.com/track/72NJM7lD4KMcxoiSD5Cvab) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Leão \(Acústico\)](https://open.spotify.com/album/7KnlkcRioCEETEpOjrPTKO) | 3:50 | 2023-01-13 | 2023-02-04 |
 | [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 | 2023-08-04 | 2023-09-02 |
 | [Liberdade](https://open.spotify.com/track/2TWLi0yA5HiU3MM2G3tdht) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Liberdade](https://open.spotify.com/album/4avufiq5YcQv4etr5pnGzU) | 4:06 | 2024-04-26 | 2025-03-18 |

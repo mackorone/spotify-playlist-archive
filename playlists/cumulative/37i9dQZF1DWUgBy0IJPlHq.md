@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Sam Barber
+> A new shade of Country\. Cover: Hailey Whitters
 
-626 songs - 1 day 14 hr 13 min
+628 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-02-26 |
 | [Cypress Hills and the Big Country](https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:10 | 2022-09-23 | 2023-06-03 |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2023-09-23 |
+| [Dangerous](https://open.spotify.com/track/1MuLoJAZzlZ4asgtm9Nxx5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Dangerous](https://open.spotify.com/album/5ndbRx8tiRa4vA6suk6vAV) | 3:27 | 2025-06-06 |  |
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 | 2025-05-03 |
 | [Darlin’](https://open.spotify.com/track/2oLiG3wsAPUUR4dqYTvxx9) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Always, All Ways](https://open.spotify.com/album/0XYiD14vxa2hONBC6F1eUH) | 5:20 | 2022-12-16 | 2023-04-15 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-27 | 2023-09-09 |
@@ -277,6 +278,7 @@
 | [I Ain't Living Long Like This](https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 4:46 | 2022-11-25 | 2023-11-18 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-09 |
 | [I Don't Go To Funerals](https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 2:27 | 2022-04-29 | 2022-07-16 |
+| [I Don't Want You \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/6b0pK1DjxT5dERtsGG8jyX) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [I Don’t Want You](https://open.spotify.com/album/6qctV8CTmOncsWTKKmVYCS) | 3:19 | 2025-06-06 |  |
 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 | 2022-03-04 | 2022-04-23 |
 | [I Just Came Home To Count The Memories](https://open.spotify.com/track/6dP99TIwVsyUIJOCfvGpYl) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [I Just Came Home To Count The Memories](https://open.spotify.com/album/7rHnORf4k6tS3G8uJcPqT5) | 4:06 | 2022-05-06 | 2022-06-11 |
 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 | 2022-06-24 | 2023-07-15 |

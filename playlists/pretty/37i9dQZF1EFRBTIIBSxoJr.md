@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732 likes - 130 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 733 likes - 130 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 52 | [Stronger](https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 4:11 |
 | 53 | [Give Me Something](https://open.spotify.com/track/2gfUIB27jMLK2w0xMRdemZ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:12 |
 | 54 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
-| 55 | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/75nhw5YxdMeEE9cj9AjyHR) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:11 |
-| 56 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
+| 55 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
+| 56 | [Crown \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/75nhw5YxdMeEE9cj9AjyHR) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:11 |
 | 57 | [Almost Home](https://open.spotify.com/track/7h38rvuinAanaR7vaYLDVQ) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 58 | [Gatekeeper](https://open.spotify.com/track/02T6r1FheCaKwnJUwNJ04I) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gatekeeper](https://open.spotify.com/album/7qEf07O8bfCTYzxrUmhkgq) | 2:30 |
 | 59 | [Mimosa \(feat\. Jamila Velazquez, Raquel Castro & Yani Marin\)](https://open.spotify.com/track/1suT5CMehGisHTWyOYc0KS) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jamila Velazquez](https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX), [Yani Marin](https://open.spotify.com/artist/6eMmKtGbT9oHRnDMDzPlu3) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 3:27 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 129 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 130 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbzW6AAAAADtxE4N1m7GMeqVwkRMx/rR`
+Snapshot ID: `AbzcfgAAAAA7Qj+IKH4LqmZ0ixVKBTVx`

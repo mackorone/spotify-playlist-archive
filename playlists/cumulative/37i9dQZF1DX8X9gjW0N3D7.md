@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Gab Bouchard
 
-162 songs - 8 hr 44 min
+164 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,13 +60,15 @@
 | [I Lost My Baby](https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [I Lost My Baby](https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [Idiot](https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Royaume](https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi) | 3:57 | 2024-06-28 | 2024-08-24 |
 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-28 | 2024-08-17 |
+| [Il y a tant de moi en vous](https://open.spotify.com/track/49bqtZIf4uii8vOQQD4hsy) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Patrick Krief](https://open.spotify.com/artist/3qLS4mXlfuL6vnKdDe2dK6) | [Scarabée](https://open.spotify.com/album/6y1UMNEMz5lFm0eZZ6v39f) | 3:37 | 2025-06-06 |  |
 | [Imprudences](https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Imprudences](https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F) | 3:18 | 2025-04-25 | 2025-05-17 |
 | [Insolente](https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP) | [Les Chiens De Ruelles](https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG) | [BTDT](https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF) | 3:44 | 2024-08-16 |  |
-| [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 |  |
+| [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 | 2025-06-07 |
 | [J'aurais jamais pensé](https://open.spotify.com/track/6NTKE7COb1sqx2hyYrMM5y) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Tout ce que l’aube promet](https://open.spotify.com/album/3RJCD7qNl3cN3QLb0DYeA1) | 3:48 | 2025-03-14 |  |
 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-06-28 | 2025-02-08 |
 | [J'veux pas dormir](https://open.spotify.com/track/6XU42K9XBwGYLgXIsSegTp) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [J'veux pas dormir](https://open.spotify.com/album/6jhRh6BBSaurmvk0Lc40xb) | 3:27 | 2025-01-31 |  |
 | [J'veux pas qu'tu t'en ailles](https://open.spotify.com/track/1NKfADOLOFUiYvK4MTmQey) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [J'veux pas qu'tu t'en ailles](https://open.spotify.com/album/0CNkx8lVczeLG7eaiv63OE) | 2:16 | 2025-02-14 | 2025-03-15 |
+| [Je marche comme on tombe](https://open.spotify.com/track/4WAqdaelI3E9Gsqj8zk7lg) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Je marche comme on tombe](https://open.spotify.com/album/6vfFn1ttiRfvZMyAcxJvYv) | 3:24 | 2025-06-06 |  |
 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 | 2024-06-28 |  |
 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 | 2024-10-04 |  |
 | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf) | 3:41 | 2024-08-23 |  |
@@ -149,7 +151,7 @@
 | [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 | 2024-08-16 |  |
 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 | 2024-07-19 | 2025-01-18 |
 | [Ta peine](https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j) | 2:44 | 2024-06-28 | 2024-10-05 |
-| [Te laisser des mots](https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Te laisser des mots](https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7) | 3:13 | 2024-06-28 |  |
+| [Te laisser des mots](https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Te laisser des mots](https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7) | 3:13 | 2024-06-28 | 2025-06-07 |
 | [Tenir debout](https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Tenir debout](https://open.spotify.com/album/125ZnohcXIhDHR9q9T1Z35) | 3:36 | 2025-01-10 | 2025-03-15 |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-06-28 | 2025-02-22 |
 | [Tout ce que je dis](https://open.spotify.com/track/4R0wdkiNyVehGsv4uMc58S) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Tout ce que je dis](https://open.spotify.com/album/2zGxfVNGP1MoPkzHK1g4DH) | 3:02 | 2025-01-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484142,
+  "num_followers": 484130,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADhSDN6hGhnC7v7rtTVmSDW",
+  "snapshot_id": "aEDeAAAAAAAerf2WkBKn8gi0Elfylq1H",
   "tracks": [
     {
       "added_at": null,
@@ -439,38 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 133058,
-      "name": "Better in Color",
-      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 165689,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3rd Ward Bounce",
         "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
@@ -491,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 165689,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 133058,
+      "name": "Better in Color",
+      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'em Say",
-        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Caroline Smith",
-          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
         }
       ],
-      "duration_ms": 200578,
-      "name": "Let 'em Say",
-      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
+      "duration_ms": 169042,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
+        "name": "Let 'em Say",
+        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Caroline Smith",
+          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
         }
       ],
-      "duration_ms": 169042,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
+      "duration_ms": 200578,
+      "name": "Let 'em Say",
+      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
     },
     {
       "added_at": null,

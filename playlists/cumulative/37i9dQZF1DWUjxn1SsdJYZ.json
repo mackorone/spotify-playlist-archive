@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Been That",
+        "url": "https://open.spotify.com/album/1btxT6M4IMQrlGwy4AXiG8"
+      },
+      "artists": [
+        {
+          "name": "Sexton",
+          "url": "https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123065,
+      "name": "Been That",
+      "url": "https://open.spotify.com/track/0HIOjH6z5DOJ20FFBLAhnP"
+    },
+    {
+      "album": {
         "name": "Been Through Hell",
         "url": "https://open.spotify.com/album/2yW5IO4JRuj9rPQpuTHUMo"
       },

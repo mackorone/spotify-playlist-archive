@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 848132,
+  "num_followers": 848219,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
-    },
-    {
       "added_at": "2021-07-01 19:39:13",
       "album": {
         "name": "Winner In You",
@@ -267,6 +251,22 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -367,22 +367,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
-        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
+        "name": "Ice Cream Castle",
+        "url": "https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4"
       },
       "artists": [
         {
-          "name": "Lisa Lisa & Cult Jam",
-          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
-        },
-        {
-          "name": "Full Force",
-          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+          "name": "The Time",
+          "url": "https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv"
         }
       ],
-      "duration_ms": 404213,
-      "name": "I Wonder If I Take You Home",
-      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
+      "duration_ms": 333360,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -403,18 +399,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Ice Cream Castle",
-        "url": "https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4"
+        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
+        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
       },
       "artists": [
         {
-          "name": "The Time",
-          "url": "https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv"
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
         }
       ],
-      "duration_ms": 333360,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
+      "duration_ms": 404213,
+      "name": "I Wonder If I Take You Home",
+      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
     },
     {
       "added_at": "2021-04-01 19:37:56",

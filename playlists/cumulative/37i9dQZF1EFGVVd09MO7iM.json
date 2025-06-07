@@ -7335,6 +7335,28 @@
     },
     {
       "album": {
+        "name": "FATHER FIGURE",
+        "url": "https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "HOROSCOPE (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/4RV1L0LPC962g0Ig6ly8eS"
+    },
+    {
+      "album": {
         "name": "HOROSCOPE (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/4GYjTuUIbdIiUYOQvUiTZy"
       },
@@ -7350,7 +7372,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 237803,
       "name": "HOROSCOPE (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/4tV5HtU19qU0m52jHp8WQD"
@@ -13684,7 +13706,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 318160,
       "name": "Real",
       "url": "https://open.spotify.com/track/6TsnGNY2Hdh58fzo0c1D3Y"

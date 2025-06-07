@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Anora
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,430 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,429 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 51 | [Folie à Deux \- Music From The Motion Picture](https://open.spotify.com/track/4Twrnhrg6yIFCdor6yoFvW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:44 |
 | 52 | [MacArthur Park](https://open.spotify.com/track/5DBEFajBEaHgbbwe7oN0KP) | [Richard Harris](https://open.spotify.com/artist/30Qh39o424P9qgdHNVouvo) | [A Tramp Shining](https://open.spotify.com/album/5UZvF4xIz7lbGwxIW7AcV7) | 7:30 |
 
-Snapshot ID: `aB193QAAAADl2vPt2eEujnTsjn5a/lRk`
+Snapshot ID: `aB193QAAAADkR9Czf72bQpdlNl50Gd7M`

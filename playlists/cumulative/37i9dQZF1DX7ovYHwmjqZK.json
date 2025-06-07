@@ -1453,6 +1453,36 @@
     },
     {
       "album": {
+        "name": "Lagoa",
+        "url": "https://open.spotify.com/album/49fkJwdHf7dj4XNTLPrn1N"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        },
+        {
+          "name": "Heekyung Na",
+          "url": "https://open.spotify.com/artist/76LR88PeOBh7PJyOFdJojB"
+        },
+        {
+          "name": "Alexander Raichenok",
+          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
+        },
+        {
+          "name": "Misael Barros",
+          "url": "https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263307,
+      "name": "Lagoa",
+      "url": "https://open.spotify.com/track/5my65lHV7ciJheZbqvM4bB"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
       },
@@ -1464,7 +1494,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 166506,
       "name": "Lamento",
       "url": "https://open.spotify.com/track/4VzL2zgYITGrRwSTFiL9pI"

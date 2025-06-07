@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1413643,
+  "num_followers": 1413870,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 155960,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2025-05-30 05:19:13",

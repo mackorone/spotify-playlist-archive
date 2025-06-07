@@ -556,7 +556,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 130639,
       "name": "BIAGA",
       "url": "https://open.spotify.com/track/6afJmqv47eUa4GfsMug5ZW"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 142857,
       "name": "Esto si, esto no",
       "url": "https://open.spotify.com/track/3w0BuLrr6xAqQ49rjV2yCU"
@@ -2522,6 +2522,28 @@
     {
       "album": {
         "name": "Menina",
+        "url": "https://open.spotify.com/album/43aHk3kMcpQXezZcbZ1M3M"
+      },
+      "artists": [
+        {
+          "name": "Chiko Alfa",
+          "url": "https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146742,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/0vXlQXYzssHB7YiphovU0N"
+    },
+    {
+      "album": {
+        "name": "Menina",
         "url": "https://open.spotify.com/album/06NgH1iCD8dQlfFtw7JxCV"
       },
       "artists": [
@@ -3630,7 +3652,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 186150,
       "name": "Siente Bien",
       "url": "https://open.spotify.com/track/1WESlvnTN73QCmUbzybPsB"
@@ -3970,6 +3992,28 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "album": {
+        "name": "TAMOS BIEN",
+        "url": "https://open.spotify.com/album/1nYbETHXSPTnbDATB1sDzZ"
+      },
+      "artists": [
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152542,
+      "name": "TAMOS BIEN",
+      "url": "https://open.spotify.com/track/0K9Du7JDq9Zos8HTxncK3l"
     },
     {
       "album": {
@@ -4522,6 +4566,24 @@
       "duration_ms": 182769,
       "name": "Voce",
       "url": "https://open.spotify.com/track/4dq5Lnp3WZhqtvLBXrpA8e"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/0SRQ6cunoHrNrPlLwg7uqu"
+      },
+      "artists": [
+        {
+          "name": "Lenexx",
+          "url": "https://open.spotify.com/artist/5F77ksxlJCk6Z69gDEk3N8"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184060,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/1Zsp7ylRVIGvcKO0ndh4bv"
     },
     {
       "album": {

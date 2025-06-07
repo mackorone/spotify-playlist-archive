@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: DIESECT
+> New music by the heaviest independent artists every Wednesday\. Cover: LASTELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,117 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,142 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUFFER IN THE DARK](https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/2AeR1fwv8q6ocY1FAjShdB) | 3:05 |
-| 2 | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/track/0g6olXNFO0lM3QVzjXDiS3) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh), [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy), [Colin Young](https://open.spotify.com/artist/1Czqbs3tZ9A71hT3SytLvw) | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/album/5fQ5kzqWf2LC7vmg7BJytl) | 2:50 |
-| 3 | [Victim](https://open.spotify.com/track/2MmJg1AUWL9hFrpIEYfl8T) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Victim](https://open.spotify.com/album/2fS2HfXoGQKLuY22KOFr9p) | 4:21 |
-| 4 | [Little Death](https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [Little Death](https://open.spotify.com/album/3Ew9Jg8AaIqSkMONOAPhKF) | 4:01 |
-| 5 | [EARN YOUR FLOWERS](https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m) | 3:04 |
-| 6 | [Lost in Control](https://open.spotify.com/track/4v7n3KZRWe2tzPADg9QpNc) | [Prisoner](https://open.spotify.com/artist/2eR0p21Nln8QYqr6bGtfJH) | [Lost in Control](https://open.spotify.com/album/5Uz99SrYzP1kvw12SMgkpl) | 3:22 |
-| 7 | [Primrose](https://open.spotify.com/track/7bzVs85Dab4h38udT3Ps7u) | [LUMENS](https://open.spotify.com/artist/60DI1CV1J1duDsDo54A59m) | [Primrose](https://open.spotify.com/album/7bU7QcjgbJEl6UmvCbusuS) | 4:21 |
-| 8 | [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 |
-| 9 | [The First Wound](https://open.spotify.com/track/6pYM2VZw7Kg2myiDqIS6iT) | [Sunrot](https://open.spotify.com/artist/7c0RYfybXbQZJHzVCMROQR), [Dylan Walker](https://open.spotify.com/artist/4qkOSBrxz6jcBqcDayhmBg) | [Passages](https://open.spotify.com/album/5peARHyQfrCC4wkD6MejWI) | 5:00 |
-| 10 | [Arch Enemy](https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN), [VS / U](https://open.spotify.com/artist/1j2GLY97RB975mOth1nnvC) | [Arch Enemy](https://open.spotify.com/album/2ytGgsJOI7bxg8Gax5TrcV) | 3:21 |
-| 11 | [Sleight of Hand \- Candyland Sessions](https://open.spotify.com/track/37gAUddvRyRBZscwdDkR7k) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Sleight of Hand \(Candyland Sessions\)](https://open.spotify.com/album/6kyyVnK3iaP4zuuXdS19Fk) | 3:59 |
-| 12 | [Only We Know](https://open.spotify.com/track/1p1XCeiPjsfTjb2eRnbuph) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Only We Know](https://open.spotify.com/album/0EUhJXMwZL5WMI9Sit4ZeT) | 3:42 |
-| 13 | [554th](https://open.spotify.com/track/5DjARdbR6b4tJZFkWUI70m) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [554th](https://open.spotify.com/album/6vliE8WzMTVFFgDd575shV) | 2:48 |
-| 14 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
-| 15 | [Seer](https://open.spotify.com/track/4rTksefJUmU45NGod7W4sd) | [The Man\-Eating Tree](https://open.spotify.com/artist/6WXlGSfgUApP9UCG8npAM8) | [Seer](https://open.spotify.com/album/30Z5b4NvhlmUvsZSmae7kA) | 4:40 |
-| 16 | [Self Destruct](https://open.spotify.com/track/7AaIPEQ2epVSMx2RU34YXx) | [Wake Me](https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj) | [Self Destruct](https://open.spotify.com/album/7g0sm6XUal0fLyyAGDNbyz) | 2:54 |
-| 17 | [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 |
-| 18 | [Brandish The Blade](https://open.spotify.com/track/0kfa7UBRwbCGvjVs3eC23L) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [More Insane](https://open.spotify.com/album/62l7esoq7edRbNczfl1XdD) | 3:55 |
-| 19 | [Fading Fast](https://open.spotify.com/track/4cFepTylSUeNpm4cL2Y79m) | [LIMBS](https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX) | [Fading Fast](https://open.spotify.com/album/300WjK5JrLqUWcpiI5h9B3) | 3:30 |
-| 20 | [Vivid](https://open.spotify.com/track/0Cf1FfLhQOla4TziLHxmsb) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Vivid](https://open.spotify.com/album/0fFClRRuszJrzLi6BnTcuN) | 3:21 |
-| 21 | [Hypothermia](https://open.spotify.com/track/1lUDwFk4gC7dnJLklItVMH) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [Hypothermia](https://open.spotify.com/album/6Ou4V2zNK8pHrHagE100a8) | 3:40 |
-| 22 | [subjects](https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [subjects](https://open.spotify.com/album/2dOTy2hZMbzz6nmZYoThmA) | 3:59 |
-| 23 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
-| 24 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 |
-| 25 | [Solitary Realm](https://open.spotify.com/track/5sjZGEPCI5tYaxN9vPIFOW) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Solitary Realm](https://open.spotify.com/album/1TqkBao76dmva9Gflwx6ZT) | 2:32 |
-| 26 | [drown](https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6) | [Shallow Truths](https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg) | [drown](https://open.spotify.com/album/3PYL7TAV9FIaKTyFclcD4S) | 3:18 |
+| 1 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
+| 2 | [Primrose](https://open.spotify.com/track/7bzVs85Dab4h38udT3Ps7u) | [LUMENS](https://open.spotify.com/artist/60DI1CV1J1duDsDo54A59m) | [Primrose](https://open.spotify.com/album/7bU7QcjgbJEl6UmvCbusuS) | 4:21 |
+| 3 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |
+| 4 | [The First Wound](https://open.spotify.com/track/6pYM2VZw7Kg2myiDqIS6iT) | [Sunrot](https://open.spotify.com/artist/7c0RYfybXbQZJHzVCMROQR), [Dylan Walker](https://open.spotify.com/artist/4qkOSBrxz6jcBqcDayhmBg) | [Passages](https://open.spotify.com/album/5peARHyQfrCC4wkD6MejWI) | 5:00 |
+| 5 | [Seer](https://open.spotify.com/track/4rTksefJUmU45NGod7W4sd) | [The Man\-Eating Tree](https://open.spotify.com/artist/6WXlGSfgUApP9UCG8npAM8) | [Seer](https://open.spotify.com/album/30Z5b4NvhlmUvsZSmae7kA) | 4:40 |
+| 6 | [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 |
+| 7 | [Fading Fast](https://open.spotify.com/track/4cFepTylSUeNpm4cL2Y79m) | [LIMBS](https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX) | [Fading Fast](https://open.spotify.com/album/300WjK5JrLqUWcpiI5h9B3) | 3:30 |
+| 8 | [Hypothermia](https://open.spotify.com/track/1lUDwFk4gC7dnJLklItVMH) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [Hypothermia](https://open.spotify.com/album/6Ou4V2zNK8pHrHagE100a8) | 3:40 |
+| 9 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
+| 10 | [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 |
+| 11 | [subjects](https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50) | [st.sinner](https://open.spotify.com/artist/3OeX9lekdj5s9FByuNxW8G) | [subjects](https://open.spotify.com/album/2dOTy2hZMbzz6nmZYoThmA) | 3:59 |
+| 12 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 |
+| 13 | [Solitary Realm](https://open.spotify.com/track/5sjZGEPCI5tYaxN9vPIFOW) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Solitary Realm](https://open.spotify.com/album/1TqkBao76dmva9Gflwx6ZT) | 2:32 |
+| 14 | [drown](https://open.spotify.com/track/6kXWQ9AqYQ6p04P5BBH4m6) | [Shallow Truths](https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg) | [drown](https://open.spotify.com/album/3PYL7TAV9FIaKTyFclcD4S) | 3:18 |
+| 15 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
+| 16 | [Good Looking Girl Awful Music](https://open.spotify.com/track/7jEynwea4AAEDzujzp4Zsj) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Good Looking Girl, Awful Music](https://open.spotify.com/album/7wfN3HxHcFQU5ILA4yOnnK) | 3:22 |
+| 17 | [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 |
+| 18 | [Only We Know](https://open.spotify.com/track/1p1XCeiPjsfTjb2eRnbuph) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Only We Know](https://open.spotify.com/album/0EUhJXMwZL5WMI9Sit4ZeT) | 3:42 |
+| 19 | [Arch Enemy](https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN), [VS / U](https://open.spotify.com/artist/1j2GLY97RB975mOth1nnvC) | [Arch Enemy](https://open.spotify.com/album/2ytGgsJOI7bxg8Gax5TrcV) | 3:21 |
+| 20 | [SUFFER IN THE DARK](https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [HIDE FROM THE LIGHT](https://open.spotify.com/album/2AeR1fwv8q6ocY1FAjShdB) | 3:05 |
+| 21 | [Little Death](https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [Little Death](https://open.spotify.com/album/3Ew9Jg8AaIqSkMONOAPhKF) | 4:01 |
+| 22 | [Sleight of Hand \- Candyland Sessions](https://open.spotify.com/track/37gAUddvRyRBZscwdDkR7k) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Sleight of Hand \(Candyland Sessions\)](https://open.spotify.com/album/6kyyVnK3iaP4zuuXdS19Fk) | 3:59 |
+| 23 | [Burn My Creation](https://open.spotify.com/track/7zmggUnNu4v6uJEYNAFBNH) | [ASHEN SKY](https://open.spotify.com/artist/0fl9PLsc86HWFAwcnbVDfg) | [Burn My Creation](https://open.spotify.com/album/605YH992EXr2YsOFLWhaKg) | 4:02 |
+| 24 | [554th](https://open.spotify.com/track/5DjARdbR6b4tJZFkWUI70m) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [554th](https://open.spotify.com/album/6vliE8WzMTVFFgDd575shV) | 2:48 |
+| 25 | [Monster](https://open.spotify.com/track/6etjNYZWN6ZSyyNL9mT3f9) | [STELLVRIS](https://open.spotify.com/artist/3n9SWHa9CmQldmLrD9zfll) | [Monster](https://open.spotify.com/album/7q9zO7bLTSwTZqn1PwnqJf) | 4:16 |
+| 26 | [Vivid](https://open.spotify.com/track/0Cf1FfLhQOla4TziLHxmsb) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Vivid](https://open.spotify.com/album/0fFClRRuszJrzLi6BnTcuN) | 3:21 |
 | 27 | [Unjust God](https://open.spotify.com/track/74DQX5fBz8yOypEbENRAIG) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [Unjust God](https://open.spotify.com/album/7n6xW2xhJqMf5oi4yscWn2) | 4:31 |
 | 28 | [Cries of Domination](https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT) | [DON’T TRY](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Cries of Domination](https://open.spotify.com/album/6qxy0PZufi1mo7cFHzR4zn) | 3:04 |
 | 29 | [Contraband](https://open.spotify.com/track/6HXUFds0VgH7RqU3WP41gK) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Contraband](https://open.spotify.com/album/6FOtJeuCbI5lddNLcWJinZ) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 74 | [STAIN](https://open.spotify.com/track/6xcoa669YknFFOICTWrca1) | [Wither//Bloom](https://open.spotify.com/artist/2Zx7gOdSeToesLI2cDQnfd) | [STAIN](https://open.spotify.com/album/5SDokcHTkrn34sa3ljA2As) | 3:18 |
 | 75 | [Dying Wisdom](https://open.spotify.com/track/1HcrY7PKXdn7xGAAtByqff) | [Between The Lakes](https://open.spotify.com/artist/7uLa4LuYx19XT2ssR0zzEp) | [Dying Wisdom](https://open.spotify.com/album/1XPcgHjPblSz9ED1tLKANC) | 4:03 |
 
-Snapshot ID: `aDktUQAAAABCAvHQr0CptFKsjyjSMDmQ`
+Snapshot ID: `aEJn0gAAAADiIODpuPPEe0a7kvg9eOvy`

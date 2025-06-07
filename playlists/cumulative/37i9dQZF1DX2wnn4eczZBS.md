@@ -2,13 +2,13 @@
 
 ### [indie.nl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: Eefje de Visser
+> indie & indiepop in het Nederlands\. Cover: Norah Hendriks
 
-208 songs - 10 hr 52 min
+212 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [23.45](https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [23.45](https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9) | 3:17 | 2025-04-24 |  |
+| [23.45](https://open.spotify.com/track/19y3TK5V9b7MZEe5qTKCY1) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [23.45](https://open.spotify.com/album/4b0W64Ivrfy3aJgztXW1E9) | 3:17 | 2025-04-24 | 2025-06-07 |
 | [30 plusser in de discotheek](https://open.spotify.com/track/3sEFEJgKQCIA8ZyYWUSFa7) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [30 plusser in de discotheek](https://open.spotify.com/album/4MCMVsqIXQ4G3R6Hu4QgZw) | 2:39 | 2024-08-29 | 2025-01-11 |
 | [Aardbei en Vanille](https://open.spotify.com/track/4TZjJSHcExsyHgHlgvOmwQ) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Aardbei en Vanille](https://open.spotify.com/album/5GjRV1K4ngwxvORNRo0xfn) | 3:22 | 2024-06-26 | 2024-09-13 |
 | [Adem In, Adem Uit](https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Adem In, Adem Uit](https://open.spotify.com/album/5Nufsh4togaizijSgMIW7X) | 3:13 | 2024-06-26 | 2024-10-12 |
@@ -25,7 +25,7 @@
 | [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 | 2024-11-21 | 2025-03-29 |
 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 | 2025-01-10 | 2025-04-15 |
 | [Amerika + Bang zullen ze leven](https://open.spotify.com/track/4EXpcNXlT7Mdakwn3F95i5) | [Roos Rebergen](https://open.spotify.com/artist/3IUUGmmR8STIAtcg7qfDkZ), [SunSunSunOrchestra](https://open.spotify.com/artist/3hthcItgH8bgHoAwlD7exZ) | [Roos Rebergen & SunSunSun Orchestra](https://open.spotify.com/album/2xSVjtVjhCrCuievPEMAsH) | 5:47 | 2024-10-22 | 2025-01-24 |
-| [Ballenbak](https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [Ballenbak](https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ) | 2:37 | 2025-02-03 |  |
+| [Ballenbak](https://open.spotify.com/track/0oak6GeIAf1YwiVTlbomVn) | [Maartje](https://open.spotify.com/artist/7fz2OzUjHRv2ih9aaXoBnA) | [Ballenbak](https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ) | 2:37 | 2025-02-03 | 2025-06-07 |
 | [Bevrijd Me](https://open.spotify.com/track/0gahCzF8XX2DqQKJzQQWgR) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Alleen Bij Mij](https://open.spotify.com/album/169JAJ4TYcBRDSw86oGa2B) | 3:44 | 2024-06-26 | 2024-10-23 |
 | [Bezonnen](https://open.spotify.com/track/5a7eT9uULHMFw5s3vL3CKr) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Schip](https://open.spotify.com/album/1yA4hHmu2QkN4lubAvkdAY) | 2:48 | 2025-04-17 | 2025-05-27 |
 | [Blijf](https://open.spotify.com/track/4ap3sNRDT70SYLiyaQUhoY) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Blijf](https://open.spotify.com/album/0IHyCLajI8fimyu9fouxos) | 3:46 | 2024-11-14 | 2025-01-11 |
@@ -114,9 +114,11 @@
 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 | 2024-11-14 |  |
 | [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2024-10-24 | 2025-01-22 |
 | [Koude Kermis](https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Koude Kermis](https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR) | 2:49 | 2024-07-25 | 2024-08-30 |
+| [Kubus In Een Ballenbak](https://open.spotify.com/track/6gVbNT8Tqy1OzcnmDJYdcP) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2MRU9IpUwOsXN3n1dfXhFd) | 2:25 | 2025-06-06 |  |
 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 | 2024-11-14 |  |
 | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV) | 4:11 | 2025-06-02 |  |
 | [liefde is lang](https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [liefde is lang](https://open.spotify.com/album/7IcwezgetR4kkeGAtOlzhx) | 3:24 | 2024-09-12 | 2024-11-22 |
+| [Liefdesliedjes](https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw), [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Liefdesliedjes](https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz) | 2:13 | 2025-06-06 |  |
 | [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 | 2024-11-15 |
 | [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 | 2025-01-11 |
 | [Mannenbaby](https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mannenbaby](https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe) | 2:24 | 2025-03-28 |  |
@@ -142,7 +144,7 @@
 | [Niet Meer Los\(t\)](https://open.spotify.com/track/7FlKQRrHWiz6joBJyW7KHk) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Niet Meer Los\(t\)](https://open.spotify.com/album/6dlyRC7jWaZHKScKx6J2t0) | 3:17 | 2024-11-14 | 2025-01-11 |
 | [niet meer zo](https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [niet meer zo](https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV) | 3:34 | 2025-03-28 | 2025-05-09 |
 | [Niets Is Voor Altijd](https://open.spotify.com/track/2xPGzCwyQTDZA6qnRxpEfu) | [ANNABELLE](https://open.spotify.com/artist/3Fn18Mw7IUWlzFCmfPzP7H) | [Niets Is Voor Altijd](https://open.spotify.com/album/1Ez2l3IlooHGbTRu9DsTZW) | 3:07 | 2024-06-26 | 2024-07-06 |
-| [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 | 2025-01-10 |  |
+| [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 | 2025-01-10 | 2025-06-07 |
 | [Odysseus](https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [Odysseus](https://open.spotify.com/album/3d0vgaxBeSvrstgy2fVNXQ) | 3:26 | 2024-06-26 | 2024-10-23 |
 | [Onderaan](https://open.spotify.com/track/5Pj28CGATQQ78LsVJ1ug5d) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Onderaan](https://open.spotify.com/album/4AcHfI9uHulK73ES6fyE0r) | 4:33 | 2025-02-07 | 2025-03-02 |
 | [Onomkeerbaar](https://open.spotify.com/track/3dM16edUVofGFGO0Zwb11i) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Onomkeerbaar](https://open.spotify.com/album/5Ml2XiiPL0prhJVxS6240H) | 3:57 | 2025-05-26 |  |
@@ -159,6 +161,7 @@
 | [Rotonde](https://open.spotify.com/track/03jAxbMjwKuxlsgYaqT1Bt) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Rotonde](https://open.spotify.com/album/6jC78OUnAmxDCn24Xj2sC3) | 2:35 | 2025-03-28 | 2025-04-25 |
 | [S.O.S.](https://open.spotify.com/track/1Z9B1h99qrDLM2Mg8A2X2y) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [S.O.S.](https://open.spotify.com/album/0cuOUJAcoggXuV88PzqUKn) | 2:58 | 2024-06-26 | 2024-09-13 |
 | [Salmari & Kreeft](https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Naar De Haaien & Weer Terug](https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg) | 4:22 | 2024-10-09 | 2025-03-08 |
+| [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-06 |  |
 | [Schip](https://open.spotify.com/track/0prmFYgEnM3C1DydcWaPD3) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Schip](https://open.spotify.com/album/71FXgXXsQ4evMqRWsvxSsg) | 2:34 | 2024-10-24 | 2025-01-11 |
 | [Sexy Genoeg \(feat\. MEROL\)](https://open.spotify.com/track/1EQRtIpGXYAba7dz5ukrdd) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sexy Genoeg \(feat\. MEROL\)](https://open.spotify.com/album/1DiAV9MiIWkWodHdqElI9M) | 4:07 | 2024-07-05 | 2024-11-15 |
 | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf) | 3:27 | 2024-08-01 | 2025-02-28 |
@@ -201,7 +204,7 @@
 | [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 | 2024-07-19 |
 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 | 2025-04-03 |  |
 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 | 2025-03-28 |  |
-| [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 | 2025-02-03 |  |
+| [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 | 2025-02-03 | 2025-06-07 |
 | [wist je niet](https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO) | [wist je niet](https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO) | 2:43 | 2024-06-26 | 2024-08-02 |
 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 | 2024-09-12 | 2025-02-27 |
 | [Wolken](https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Wolken](https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD) | 3:25 | 2025-01-10 | 2025-05-09 |
@@ -214,6 +217,7 @@
 | [Zonder Liedjes](https://open.spotify.com/track/11eXLYhb5zZT7S54E9xC3b) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 3:00 | 2024-06-26 | 2024-07-27 |
 | [Zonder Met Jou](https://open.spotify.com/track/12GdGOj6lZMsW5yPEYc3lR) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [L.A.J.](https://open.spotify.com/artist/5Ti5ueoQjy6oV8q4XTjLwz) | [Zonder Met Jou](https://open.spotify.com/album/0AvThyeM5lQeuHwiHknSTv) | 3:36 | 2024-11-14 | 2025-01-11 |
 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 | 2024-11-14 |  |
+| [Zonder Zonnebril](https://open.spotify.com/track/0rkK1hlMvsgRkiDD3r8dmA) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Zonder Zonnebril](https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ) | 2:40 | 2025-06-06 |  |
 | [Zonnemaire](https://open.spotify.com/track/2vQShEd2G8MOGenQFEl5U2) | [VOS](https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw) | [Zonnemaire](https://open.spotify.com/album/2G4fDNmNI0QAvasFqr2mfS) | 3:04 | 2024-10-09 | 2025-01-11 |
 | [Zwijgrecht](https://open.spotify.com/track/489EDOr96zRHruVh5gH50G) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Zwijgrecht](https://open.spotify.com/album/7K8aEYuq4d07q3xzh2em2z) | 1:20 | 2024-06-26 | 2024-07-27 |
 

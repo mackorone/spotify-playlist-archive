@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,027 songs - 2 day 12 hr 40 min
+1,028 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-06-23 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-23 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-14 |  |
+| [Digital Dreams](https://open.spotify.com/track/0cEZKdHAH1eZqdqpflrA4Y) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Digital Dreams](https://open.spotify.com/album/6L7wgPoslU13RWe2ZIxo2J) | 6:06 | 2025-06-03 |  |
 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/0AYM2tgwtiB3QovS3FUlbu) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/2zjAF1GnsLQnUo1OOXclF6) | 3:51 | 2023-12-12 | 2023-12-23 |
 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/7CwI62aIqpf44HgTqzzr9x) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH) | 3:51 | 2023-12-12 | 2023-12-14 |
 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 3:52 | 2023-12-19 | 2024-02-21 |
@@ -405,7 +406,7 @@
 | [Just a Dream](https://open.spotify.com/track/6kKNdmbs99xoiMFHWDGL5G) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Just a Dream](https://open.spotify.com/album/5VDvxZf88UuvY3S3ZIsWGV) | 3:07 | 2024-02-09 | 2024-03-01 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/1z4MVjlHPchvfc8BAZaXqr) | 4:19 | 2023-11-21 | 2023-11-23 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 | 2023-11-29 |
-| [just a girl](https://open.spotify.com/track/0A53ixVdk0LYKSJKPQzm9q) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [just a girl](https://open.spotify.com/album/0H5hmZbrMRlTS7UmOVJcSf) | 2:49 | 2025-05-27 |  |
+| [just a girl](https://open.spotify.com/track/0A53ixVdk0LYKSJKPQzm9q) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [just a girl](https://open.spotify.com/album/0H5hmZbrMRlTS7UmOVJcSf) | 2:49 | 2025-05-27 | 2025-06-07 |
 | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 | 2024-11-20 | 2025-05-14 |
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-22 | 2024-05-24 |
 | [Kazenidakarete](https://open.spotify.com/track/28FsaeOb2QZBp2sVdzPzZw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Kazenidakarete](https://open.spotify.com/album/0dSxGg9f74wTok1Ar4kMUn) | 4:31 | 2023-05-23 | 2023-05-31 |

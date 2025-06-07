@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=knZAmKnbRdGHERALnIWAJQ">Festizie</a>
 
-1,098 songs - 2 day 11 hr 54 min
+1,099 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 | 2023-11-03 |  |
 | [Count my blessings](https://open.spotify.com/track/1LPdR3Ocjf6d4kI3TOR5vN) | [Da Music](https://open.spotify.com/artist/67nyPyO8EnwFEGTGvRmdDB), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Count my blessings](https://open.spotify.com/album/4yoXcjlJZrSg2UiWVAOUgJ) | 2:54 | 2024-04-12 | 2024-06-14 |
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 |  |
+| [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 | 2025-06-06 |  |
 | [Cover Me](https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [Cover Me](https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl) | 2:02 | 2024-01-19 | 2024-02-23 |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-10 | 2024-06-14 |
 | [Crazy Things](https://open.spotify.com/track/3Y0ATSQ9OdMrQMDu0JlYh4) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [Crazy Things](https://open.spotify.com/album/3gC6bvOAT5EJVAWEeinLU6) | 2:40 | 2023-06-23 | 2023-07-07 |

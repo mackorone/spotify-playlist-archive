@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-420 songs - 1 day 1 hr 25 min
+422 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-05-26 |  |
 | [Bailando Bachata](https://open.spotify.com/track/4jCiC3KDKNk1x8y16tupUb) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Bailando Bachata](https://open.spotify.com/album/2eIfWmj7khob6SiDVlr5Uo) | 3:08 | 2022-03-04 | 2022-09-03 |
 | [Bailemos Despacio](https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Bailemos Despacio](https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje) | 3:08 | 2022-03-04 | 2022-09-03 |
-| [Bajo la Luna](https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Bajo la Luna](https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY) | 3:49 | 2024-10-11 |  |
+| [Bajo la Luna](https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Bajo la Luna](https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY) | 3:49 | 2024-10-11 | 2025-06-07 |
 | [Basta Ya](https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Basta Ya](https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu) | 3:05 | 2022-09-09 | 2022-09-30 |
 | [Batalla Perdida](https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 | 2022-07-19 | 2022-09-03 |
 | [Batalla Perdida](https://open.spotify.com/track/4n4B4od4kBybQiPcn4L0Fe) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/290BICFZcn01p5w6UfZFnS) | 3:30 | 2022-03-04 | 2022-07-28 |
@@ -158,6 +158,7 @@
 | [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 | 2022-03-04 | 2024-01-13 |
 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 | 2022-03-04 | 2023-02-25 |
 | [Escasez de Besos](https://open.spotify.com/track/2kEC8t2FoGrN5H9FxnNBJn) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Escasez de Besos](https://open.spotify.com/album/7hu8S7ZNiakxzrN3K1sljS) | 3:20 | 2024-10-25 |  |
+| [Escondidas](https://open.spotify.com/track/5EXTrJSskWrszcWVtL2Z46) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Escondidas](https://open.spotify.com/album/1BJQYQy6Pw9eX61QhripaT) | 3:03 | 2025-06-06 |  |
 | [Eso Es Amor](https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn) | [Jiory](https://open.spotify.com/artist/4RLGPkFaRFlkPNFzVbcd6k) | [Eso Es Amor](https://open.spotify.com/album/1vqTyXMquKPCMAH5kU528d) | 3:52 | 2022-03-04 | 2022-09-03 |
 | [Espacio en Tu Corazón \- Remix](https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Espacio en Tu Corazón \(Remix\)](https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco) | 2:59 | 2024-10-04 |  |
 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 | 2025-05-23 |  |
@@ -179,6 +180,7 @@
 | [I Want It That Way](https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [I Want It That Way](https://open.spotify.com/album/4oDR12BRsPVfQznhclvUbs) | 2:36 | 2025-05-16 |  |
 | [Imaginate](https://open.spotify.com/track/5tVRV2dEkTRfZS3MUdb140) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Frank Santos](https://open.spotify.com/artist/7a6MDGQsPtRUbENWSjTjhf), [Dimen5ions](https://open.spotify.com/artist/78bzUCJmEsEgENTy7rjMCV), [Airin Music](https://open.spotify.com/artist/1UJYX9dJRliP8NxJ7Am7oX) | [Imaginate](https://open.spotify.com/album/392UFfjeAUuKwCJns8T5lg) | 3:32 | 2024-09-20 | 2025-05-17 |
 | [Imitadora](https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:54 | 2022-03-04 | 2023-02-25 |
+| [Infiel](https://open.spotify.com/track/5i4tJCyJBAA5FetlDDp1qD) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [Laura Alcoba](https://open.spotify.com/artist/4bPtZizzfakIoNwFpBAS87), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Infiel](https://open.spotify.com/album/0lJHrnZHnOtBu21nLiGJwK) | 3:40 | 2025-06-06 |  |
 | [Infiel](https://open.spotify.com/track/4OpFR4sz9kxF983pKdnx1k) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 4:25 | 2022-03-04 | 2022-09-03 |
 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 | 2022-03-04 | 2022-07-29 |
 | [Inocente](https://open.spotify.com/track/6rXvMpWJbTyhSrVWye7jPE) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:56 | 2022-03-04 | 2022-07-29 |

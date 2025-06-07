@@ -4721,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "album": {
         "name": "ALL IN MY HEAD / NO FUN",
         "url": "https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T"
       },
@@ -73747,7 +73765,7 @@
         },
         {
           "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "url": "https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM"
         }
       ],
       "date_added": "2025-06-05",

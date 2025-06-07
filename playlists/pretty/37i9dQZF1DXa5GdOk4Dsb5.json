@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 147009,
+  "num_followers": 147062,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 157193,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Duren",
         "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 190423,
       "name": "Duren",
       "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 157193,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Un Poco de Amor",
         "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 171236,
       "name": "Un Poco de Amor",
       "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Desarmada - Spotify Singles",
-        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Desarmada - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Me Pase de Tragos",
         "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
       },
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Tu Maniqu\u00ed",
-        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 154834,
-      "name": "Tu Maniqu\u00ed",
-      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
+        "name": "Tu Maniqu\u00ed",
+        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 154834,
+      "name": "Tu Maniqu\u00ed",
+      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
         "name": "10 PM (Popular)",
         "url": "https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR"
       },
@@ -1295,26 +1295,6 @@
       "duration_ms": 213180,
       "name": "10 PM - Popular",
       "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1335,6 +1315,26 @@
       "duration_ms": 173093,
       "name": "2 O 3 Botellas",
       "url": "https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Asi Soy Yo (Remix)",
-        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
-      },
-      "artists": [
-        {
-          "name": "Alexis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
-        },
-        {
-          "name": "Luisito Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Asi Soy Yo - Remix",
-      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Alguien Me Gusta",
         "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
       },
@@ -1443,6 +1419,30 @@
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Asi Soy Yo (Remix)",
+        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Asi Soy Yo - Remix",
+      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
     },
     {
       "added_at": "2024-07-11 01:48:38",

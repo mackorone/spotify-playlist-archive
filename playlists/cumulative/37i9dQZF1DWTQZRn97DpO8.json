@@ -113,24 +113,6 @@
     },
     {
       "album": {
-        "name": "5 \u00e9toiles",
-        "url": "https://open.spotify.com/album/4Rugw8pUP5n7DWQJ7ouOQa"
-      },
-      "artists": [
-        {
-          "name": "Abou Tall",
-          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
-        }
-      ],
-      "date_added": "2025-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201775,
-      "name": "5 \u00e9toiles",
-      "url": "https://open.spotify.com/track/3l5xazk89vOmVCnnw1Zx3n"
-    },
-    {
-      "album": {
         "name": "A quoi on joue ?",
         "url": "https://open.spotify.com/album/0hICOSl2tqgLqvR8p1fLeL"
       },
@@ -916,6 +898,24 @@
       "duration_ms": 183446,
       "name": "Cigarette apr\u00e8s l'amour",
       "url": "https://open.spotify.com/track/43G27zY6jl4NF0Kv5AyvAq"
+    },
+    {
+      "album": {
+        "name": "Cinq \u00c9toiles",
+        "url": "https://open.spotify.com/album/4Rugw8pUP5n7DWQJ7ouOQa"
+      },
+      "artists": [
+        {
+          "name": "Abou Tall",
+          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201775,
+      "name": "Cinq \u00c9toiles",
+      "url": "https://open.spotify.com/track/3l5xazk89vOmVCnnw1Zx3n"
     },
     {
       "album": {

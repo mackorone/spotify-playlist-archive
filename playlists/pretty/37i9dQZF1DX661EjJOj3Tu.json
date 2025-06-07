@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 519613,
+  "num_followers": 519582,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "El Manisero",
         "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 156640,
       "name": "El Manisero - Mambo Son",
       "url": "https://open.spotify.com/track/00MvNfAAC4O5pSvAZPDnGc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Yesun",
         "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 166974,
       "name": "Aggua",
       "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -979,30 +979,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Caetano Veloso & Ivan Sacerdote",
-        "url": "https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Ivan Sacerdote",
-          "url": "https://open.spotify.com/artist/7xiHV1zo8eXCzJWWGnU2IM"
-        },
-        {
-          "name": "Mosquito",
-          "url": "https://open.spotify.com/artist/5coeM7OaiVUCX4HjNesOLO"
-        }
-      ],
-      "duration_ms": 233483,
-      "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
-      "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -1047,22 +1023,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "El Arte Del Bolero",
-        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+        "name": "Caetano Veloso & Ivan Sacerdote",
+        "url": "https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP"
       },
       "artists": [
         {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         },
         {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+          "name": "Ivan Sacerdote",
+          "url": "https://open.spotify.com/artist/7xiHV1zo8eXCzJWWGnU2IM"
+        },
+        {
+          "name": "Mosquito",
+          "url": "https://open.spotify.com/artist/5coeM7OaiVUCX4HjNesOLO"
         }
       ],
-      "duration_ms": 477496,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+      "duration_ms": 233483,
+      "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
+      "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1079,6 +1059,26 @@
       "duration_ms": 307519,
       "name": "El Cervatillo",
       "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "El Arte Del Bolero",
+        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        },
+        {
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+        }
+      ],
+      "duration_ms": 477496,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
-      },
-      "artists": [
-        {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
-        }
-      ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 131386,
       "name": "Seven Steps To Heaven",
       "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+      },
+      "artists": [
+        {
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+        }
+      ],
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
-        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Vanessa Perea",
-          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 353320,
-      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
-      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1207,18 +1207,34 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+        "url": "https://open.spotify.com/album/4JXN3bXx0nkCQWI5VLXs40"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Vanessa Perea",
+          "url": "https://open.spotify.com/artist/6EnIfpO7dtvoZU28SNmye5"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 353320,
+      "name": "Se Te Olvida (La Mentira) / Sabor A Mi",
+      "url": "https://open.spotify.com/track/03C2wt9nzzDcguLm9sqnwP"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 432026,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 250080,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 349165,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 480026,
       "name": "Armando\u2019s Rhumba",
       "url": "https://open.spotify.com/track/6NTknQKoiFKfDe7VsnY8kq"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 349165,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Una Noche Con Rub\u00e9n Blades",
-        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 407832,
-      "name": "Don't Like Goodbyes - Bonus Track",
-      "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Que Bonita Bandera",
         "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Una Noche Con Rub\u00e9n Blades",
+        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 407832,
+      "name": "Don't Like Goodbyes - Bonus Track",
+      "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Te Escucho",
-        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ribeiro",
-          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
-        },
-        {
-          "name": "ELENI",
-          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
-        }
-      ],
-      "duration_ms": 230550,
-      "name": "Te Escucho",
-      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Virtual Birdland",
         "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 440053,
       "name": "Para Los Rumberos",
       "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Te Escucho",
+        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ribeiro",
+          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
+        },
+        {
+          "name": "ELENI",
+          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
+        }
+      ],
+      "duration_ms": 230550,
+      "name": "Te Escucho",
+      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
     },
     {
       "added_at": "2024-07-26 04:00:00",

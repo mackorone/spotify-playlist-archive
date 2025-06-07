@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Ray Vaughn",
+  "description": "Chillout hip-hop vibes. Cover: J. Cole",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 167450,
       "name": "Again",
       "url": "https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih"
@@ -5538,7 +5538,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 208197,
       "name": "Crash (feat. Raphael Saadiq and Kelly Rowland)",
       "url": "https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG"
@@ -6038,7 +6038,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -6680,6 +6680,28 @@
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
+    },
+    {
+      "album": {
+        "name": "Champagne Seats",
+        "url": "https://open.spotify.com/album/2Z133BWPPzCBnDfj55Bcuf"
+      },
+      "artists": [
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Thelonious Martin",
+          "url": "https://open.spotify.com/artist/4dCoC3RrPpjIgrF3LfIBB8"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Don't Take It Personal",
+      "url": "https://open.spotify.com/track/5RUZiHUU8KIGBGXCq96qOM"
     },
     {
       "album": {
@@ -10579,6 +10601,36 @@
     },
     {
       "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/1xaNHQWsWNBknEE1vIIcd9"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Jae Lou",
+          "url": "https://open.spotify.com/artist/5zqtx53hAXjldb0dPhYAd1"
+        },
+        {
+          "name": "King Kota",
+          "url": "https://open.spotify.com/artist/1237Vbj1sAR5ElqPuWO03L"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/6a0K1tfV8VzYPrPGClZlTT"
+    },
+    {
+      "album": {
         "name": "Hello Miss Johnson",
         "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
       },
@@ -11204,7 +11256,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 226666,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/6fZiYbImEWGWnDIIsNNTxd"
@@ -12865,6 +12917,24 @@
     },
     {
       "album": {
+        "name": "Karuna",
+        "url": "https://open.spotify.com/album/15vTkYwgJ0M4uDKhCTJNmE"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Karuna",
+      "url": "https://open.spotify.com/track/1t9PrdWXSdLkU0GS2yHDym"
+    },
+    {
+      "album": {
         "name": "Keep Calling",
         "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
       },
@@ -13610,6 +13680,24 @@
       "duration_ms": 206851,
       "name": "Life Goals",
       "url": "https://open.spotify.com/track/1a6umRqovO240DFN3xCEVf"
+    },
+    {
+      "album": {
+        "name": "Life Is A Jungle",
+        "url": "https://open.spotify.com/album/5DJD5CKsnWLTnWdCs8isPu"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89718,
+      "name": "Life Is A Jungle",
+      "url": "https://open.spotify.com/track/4cSCzhrX0PJRFMQii1Os64"
     },
     {
       "album": {
@@ -15721,6 +15809,32 @@
     },
     {
       "album": {
+        "name": "WITH ALL THESE EYES",
+        "url": "https://open.spotify.com/album/08Y3jIh8I5NF4LLMYKa6lx"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        },
+        {
+          "name": "1ofurfriends",
+          "url": "https://open.spotify.com/artist/59O2KJX0QTWOSJVbPGLrct"
+        },
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160309,
+      "name": "NEIGHBORHOOD WATCH",
+      "url": "https://open.spotify.com/track/336cCl9GD0whyqshhzhpSG"
+    },
+    {
+      "album": {
         "name": "I've Never Been Here Before",
         "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
       },
@@ -16174,7 +16288,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 165392,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/34cEqOnaJRikAuS8fijvZk"
@@ -16784,6 +16898,28 @@
       "duration_ms": 242613,
       "name": "One of Us",
       "url": "https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn"
+    },
+    {
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ"
     },
     {
       "album": {
@@ -20204,7 +20340,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
@@ -20852,6 +20988,28 @@
       "duration_ms": 192130,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5CrRKZJNYgUk58YSvp1RHj"
+    },
+    {
+      "album": {
+        "name": "Champagne Seats",
+        "url": "https://open.spotify.com/album/2Z133BWPPzCBnDfj55Bcuf"
+      },
+      "artists": [
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Thelonious Martin",
+          "url": "https://open.spotify.com/artist/4dCoC3RrPpjIgrF3LfIBB8"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Some More",
+      "url": "https://open.spotify.com/track/3hteGszV3Xnlo4lj0cURMi"
     },
     {
       "album": {
@@ -22162,7 +22320,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 160266,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/0bh9R4sWPfWlfAjsQlPLPI"

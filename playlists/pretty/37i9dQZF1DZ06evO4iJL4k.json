@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 304119,
+  "num_followers": 304180,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAA/wHP+Ib7DjC9/r2nOBBHg",
+  "snapshot_id": "aEDeAAAAAACk8XUYYCPIFDQYxlTfQgXJ",
   "tracks": [
     {
       "added_at": null,
@@ -1075,6 +1075,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo do Melhor",
         "url": "https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk"
       },
@@ -1115,38 +1147,6 @@
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
     },
     {
       "added_at": null,

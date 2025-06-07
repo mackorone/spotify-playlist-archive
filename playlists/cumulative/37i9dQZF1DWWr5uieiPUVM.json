@@ -11881,6 +11881,24 @@
     },
     {
       "album": {
+        "name": "Odisseia",
+        "url": "https://open.spotify.com/album/7boBqgtZPsVLsh2JUIMoyT"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137118,
+      "name": "Odisseia",
+      "url": "https://open.spotify.com/track/6zk2KqmVIvyKRbF50hXP5Q"
+    },
+    {
+      "album": {
         "name": "TRINCA",
         "url": "https://open.spotify.com/album/1ZZVf6Ynbeq1B8Ooh1im6j"
       },
@@ -16762,7 +16780,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain]
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,118 likes - 56 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,152 likes - 56 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain]
 | 3 | [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 |
 | 4 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 |
 | 5 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 |
-| 6 | [\#1【Dr.STONE】  小林裕介×鈴木崚汰「龍水は本当に優遇されている！」](https://open.spotify.com/episode/6NMBSzPPZHnSi8YKbtYJq0) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『ウィッチウォッチ』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『ウィッチウォッチ』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 29:31 |
+| 6 | [\#1【Dr.STONE】  小林裕介×鈴木崚汰「龍水は本当に優遇されている！」](https://open.spotify.com/episode/6NMBSzPPZHnSi8YKbtYJq0) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『Summer Pockets』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『Summer Pockets』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 29:31 |
 | 7 | [Good Morning World!](https://open.spotify.com/track/5p0T8499UG6lKHzXjLnckz) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning World!](https://open.spotify.com/album/7hjNB1sfkmCqiCHMhCGXEZ) | 4:09 |
 | 8 | [三原色](https://open.spotify.com/track/4xOD2IlfXe7oLfC4Fbn76p) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [三原色](https://open.spotify.com/album/2xeHiFG4KHRkUEUKuxymC1) | 3:29 |
 | 9 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 |

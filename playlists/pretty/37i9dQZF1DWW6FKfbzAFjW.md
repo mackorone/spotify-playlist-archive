@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,638 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,625 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 72 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
 | 73 | [Low Rider](https://open.spotify.com/track/2fmMPJb5EzZCx8BcNJvVk4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/6IaC3IRa3OAl6bHmdmjPTf) | 3:11 |
 | 74 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
-| 75 | [El Tucanazo](https://open.spotify.com/track/4oeXYGzdIY2ouB7nAaFRTh) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro\-Secuestro De Amor...Y Siguen Los Tucanes](https://open.spotify.com/album/54OgS974bLCe7kAArY5Ngr) | 2:54 |
-| 76 | [Jefe De Jefes](https://open.spotify.com/track/0gSZb3cwP9G6Byd6Z7acbi) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/68Ycn9k1YEXKPbbx5p8lMe) | 3:33 |
+| 75 | [Jefe De Jefes](https://open.spotify.com/track/0gSZb3cwP9G6Byd6Z7acbi) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jefe De Jefes](https://open.spotify.com/album/68Ycn9k1YEXKPbbx5p8lMe) | 3:33 |
+| 76 | [El Tucanazo](https://open.spotify.com/track/4oeXYGzdIY2ouB7nAaFRTh) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro\-Secuestro De Amor...Y Siguen Los Tucanes](https://open.spotify.com/album/54OgS974bLCe7kAArY5Ngr) | 2:54 |
 | 77 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/0ZxFFIJg3TzEoVcuj08rA2) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/4toVgPcbyFxBrTqh7irjEZ) | 2:24 |
 | 78 | [El Sonidito \- Urban Version](https://open.spotify.com/track/5FUDRZZrHzK2EA7nokdJWY) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx), [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Santana](https://open.spotify.com/artist/37tu48Y5bFE1LRuF5zDSfo) | [Super 1's Mega Hits](https://open.spotify.com/album/6V2aVcZUAtZ9k87BUFCvhP) | 3:20 |
 | 79 | [El Shot](https://open.spotify.com/track/050LR97VqIBFqQ57IJUyHY) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [El Shot](https://open.spotify.com/album/52dvQjFBqkmznqKe9m8lVV) | 2:40 |

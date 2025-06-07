@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,119,688 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,120,067 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 26 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
 | 27 | [My Way Or The Highway \(feat\. Diana King\)](https://open.spotify.com/track/4B6mG7n0BxvasblplYkgV5) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E), [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:55 |
 | 28 | [Mr\. Loverman \(feat\. Chevelle Franklin\)](https://open.spotify.com/track/2rbhnnqBoizShumb5Ul8oR) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Chevelle Franklin](https://open.spotify.com/artist/1owFk9HCCiomrmEt6k9cqC) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:38 |
-| 29 | [Please Stop Your Lying](https://open.spotify.com/track/4y8vOLeFZGHSeG6yJOKGbW) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
-| 30 | [Get Up, Stand Up](https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:29 |
+| 29 | [Get Up, Stand Up](https://open.spotify.com/track/0ee3Dr3rH7NSxOVcmlbsHJ) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:29 |
+| 30 | [Please Stop Your Lying](https://open.spotify.com/track/4y8vOLeFZGHSeG6yJOKGbW) | [Errol Dunkley](https://open.spotify.com/artist/228y2DiGvQkteqDD2dUZDD) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 31 | [Babylon Too Rough](https://open.spotify.com/track/2CFxgaypHjxdYWgfGFoDs0) | [Gregory Isaacs](https://open.spotify.com/artist/4MRDjHgHTne2Ft2oA8JO2x) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:53 |
 | 32 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
 | 33 | [Te Ves Buena](https://open.spotify.com/track/11hTfTUePHgMu4VpaNZ3Ir) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:02 |

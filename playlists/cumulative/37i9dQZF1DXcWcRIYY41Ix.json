@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "A la Mancha",
+        "url": "https://open.spotify.com/album/7mT0hALhyTOpKyjE8FsQIj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229691,
+      "name": "A la Mancha",
+      "url": "https://open.spotify.com/track/08vzW9tPlC59fBbh8Q1NFr"
+    },
+    {
+      "album": {
         "name": "De Canciones Tristes y Otras Sutilezas",
         "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
       },
@@ -278,6 +296,24 @@
       "duration_ms": 233312,
       "name": "Acantilado",
       "url": "https://open.spotify.com/track/2hTKVVpy3eZen3OVgfeIOR"
+    },
+    {
+      "album": {
+        "name": "Por Ahora Para Siempre",
+        "url": "https://open.spotify.com/album/1rFSMNkzIHzuRrpNn6E8lC"
+      },
+      "artists": [
+        {
+          "name": "joseluis",
+          "url": "https://open.spotify.com/artist/5x6IvwLFRH9IsqNFJWkJq4"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/4uQy8xqQC15QzDWZjBxfRX"
     },
     {
       "album": {
@@ -1016,7 +1052,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 234675,
       "name": "Alma Peque\u00f1a",
       "url": "https://open.spotify.com/track/50DOz8EiOdMIQr2lC5GZYn"
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 180157,
       "name": "Camino Que Pasa",
       "url": "https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U"
@@ -2245,12 +2281,12 @@
         },
         {
           "name": "Laura Chinelli",
-          "url": "https://open.spotify.com/artist/5vtYPQtCS5vJwVJmXKKx71"
+          "url": "https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq"
         }
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 292500,
       "name": "Candor",
       "url": "https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui"
@@ -4664,7 +4700,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 202826,
       "name": "El mayo florido de Karmento",
       "url": "https://open.spotify.com/track/6F3FIj2H1JFXRTB9BoqeAL"
@@ -5042,7 +5078,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 146949,
       "name": "Eltiempoesunacosa",
       "url": "https://open.spotify.com/track/1ixPVKwUsibdEkROEqZyFK"
@@ -7181,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "La Primera Luz",
+        "url": "https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285853,
+      "name": "La Primera Luz",
+      "url": "https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN"
+    },
+    {
+      "album": {
         "name": "La Profec\u00eda",
         "url": "https://open.spotify.com/album/0E6iE7Z2TREMlOcCdxsR2x"
       },
@@ -8935,6 +8989,28 @@
     },
     {
       "album": {
+        "name": "Mi jaula de grillos",
+        "url": "https://open.spotify.com/album/5BrZgntyvX1neqlvIyUKst"
+      },
+      "artists": [
+        {
+          "name": "Fran Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191189,
+      "name": "Mi jaula de grillos",
+      "url": "https://open.spotify.com/track/1PONJvf2CPzBCiKe7qY7c2"
+    },
+    {
+      "album": {
         "name": "Escorpiano",
         "url": "https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt"
       },
@@ -9138,7 +9214,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 332816,
       "name": "Miguitas de pan",
       "url": "https://open.spotify.com/track/0uqnA4Vaca06nMfSmieeJd"
@@ -9292,6 +9368,24 @@
       "duration_ms": 240449,
       "name": "Moment\u00e1nea",
       "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
+    },
+    {
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/3AIcvZUdB3KPseBtHgWoJ0"
+      },
+      "artists": [
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Monstruos",
+      "url": "https://open.spotify.com/track/6JKgtcEqx0fxYmHnCzhBug"
     },
     {
       "album": {
@@ -11424,7 +11518,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
@@ -13252,7 +13346,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 234000,
       "name": "Si yo soy Chavela, t\u00fa eres Frida (En Vivo)",
       "url": "https://open.spotify.com/track/1A0HKpa6H3n2fRDWIghSUe"
@@ -13890,7 +13984,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 224000,
       "name": "Te Espero Ac\u00e1",
       "url": "https://open.spotify.com/track/2JTXZrTfvtcaKyRwDjhtZN"
@@ -14603,6 +14697,24 @@
     },
     {
       "album": {
+        "name": "Todos dicen",
+        "url": "https://open.spotify.com/album/44pIo52FbnldJInReQbEjB"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Bird",
+          "url": "https://open.spotify.com/artist/1DbosGATEZmWSixTqlGPUh"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258226,
+      "name": "Todos dicen",
+      "url": "https://open.spotify.com/track/6kMMGPfnEYHfXgbvpSJkYE"
+    },
+    {
+      "album": {
         "name": "Un Viajecito",
         "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
       },
@@ -14900,6 +15012,24 @@
       "duration_ms": 205181,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/666OthmuNXcPPkJVGfNbnq"
+    },
+    {
+      "album": {
+        "name": "Tus Tetas",
+        "url": "https://open.spotify.com/album/6JgFYhuu3unjkrFHnVuyN6"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Tus Tetas",
+      "url": "https://open.spotify.com/track/2Ux7Ps15O6DvXTlYBS2Nr4"
     },
     {
       "album": {
@@ -15324,7 +15454,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 193475,
       "name": "Una Vida para M\u00ed",
       "url": "https://open.spotify.com/track/6MlIViSpbyUGiNRUgjGNbI"
@@ -16262,6 +16392,28 @@
       "duration_ms": 232719,
       "name": "\u00c1mbar y el Mar",
       "url": "https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9"
+    },
+    {
+      "album": {
+        "name": "Chao (Remix Reversiones)",
+        "url": "https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Ketekalles",
+          "url": "https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "\u00c1ndate - Reversi\u00f3n",
+      "url": "https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL"
     },
     {
       "album": {

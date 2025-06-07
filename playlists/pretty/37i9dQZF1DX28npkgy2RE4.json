@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 421912,
+  "num_followers": 421899,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Deli Daydreams",
-        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 294296,
-      "name": "Eviction Notice",
-      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "The Exception",
         "url": "https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX"
       },
@@ -799,18 +779,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+        "name": "Deli Daydreams",
+        "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
         }
       ],
-      "duration_ms": 248661,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f"
+      "duration_ms": 294296,
+      "name": "Eviction Notice",
+      "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -827,6 +811,22 @@
       "duration_ms": 369116,
       "name": "butter",
       "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 248661,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Human Emotion",
         "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 230000,
       "name": "Human Emotion",
       "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Stranger Danger",
-        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Stranger Danger",
-      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "midnight sun",
         "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Stranger Danger",
+        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Subtitles",
         "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 245172,
       "name": "Subtitles",
       "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "We Watch The Stars",
-        "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 225076,
-      "name": "We Watch The Stars - Berlin Session",
-      "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 352333,
       "name": "Best Thing You Never Had (The D Song)",
       "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "We Watch The Stars",
+        "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 225076,
+      "name": "We Watch The Stars - Berlin Session",
+      "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Love Without Possession",
-        "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
-      },
-      "artists": [
-        {
-          "name": "Scout Willis",
-          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
-        }
-      ],
-      "duration_ms": 241681,
-      "name": "Love Without Possession",
-      "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Storm Queen",
         "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 198750,
       "name": "Raglan",
       "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Love Without Possession",
+        "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "duration_ms": 241681,
+      "name": "Love Without Possession",
+      "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wilderness Within You",
-        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 230366,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "On the Outside",
         "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 189215,
       "name": "On the Outside",
       "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "We Cannot Resist",
         "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 193000,
       "name": "We Cannot Resist - Edit",
       "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Ignorance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Turn Away",
         "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 217862,
       "name": "Halo - Acoustic Version",
       "url": "https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Ignorance (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2025-02-07 05:00:36",

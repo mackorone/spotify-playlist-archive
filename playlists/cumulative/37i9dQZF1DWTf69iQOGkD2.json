@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Hungria",
+  "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto: Cryzin",
   "name": "Rap Ac\u00fastico",
   "tracks": [
     {
@@ -1592,6 +1592,10 @@
         {
           "name": "Malibu",
           "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
           "name": "Clau",
@@ -5702,6 +5706,10 @@
       },
       "artists": [
         {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
           "name": "BIN",
           "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
@@ -5710,16 +5718,12 @@
           "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "Keviin",
-          "url": "https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr"
-        },
-        {
           "name": "Budah",
           "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         },
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Keviin",
+          "url": "https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr"
         }
       ],
       "date_added": "2025-01-31",
@@ -6188,7 +6192,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 169570,
       "name": "Te encontrar",
       "url": "https://open.spotify.com/track/5u5nrbwzem3NEkq67f4Iwu"
@@ -6448,6 +6452,24 @@
       "duration_ms": 387131,
       "name": "T\u00e3o Jovens",
       "url": "https://open.spotify.com/track/3JWBRbBQLktAYsVevUbWc4"
+    },
+    {
+      "album": {
+        "name": "Vagabundo Apaixonou",
+        "url": "https://open.spotify.com/album/5QaJ2FnPEpY5nImwOvPffv"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Vagabundo Apaixonou",
+      "url": "https://open.spotify.com/track/2gaXhafenjWSGgr9VBA1G4"
     },
     {
       "album": {

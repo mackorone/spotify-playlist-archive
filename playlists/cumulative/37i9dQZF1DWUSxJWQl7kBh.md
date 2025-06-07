@@ -2,9 +2,9 @@
 
 ### [Corridos Motivadores](https://open.spotify.com/playlist/37i9dQZF1DWUSxJWQl7kBh)
 
-> De los malos tiempos aprendí que a la gente nunca la tienes feliz\. Grupo Selectivo en portada.
+> Y yo que sueño con un día poder lograr todo lo que imagino ✨🧿 Tombochio en portada.
 
-185 songs - 9 hr 18 min
+186 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [DINOSAURIOS](https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [DINOSAURIOS](https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb) | 3:18 | 2025-05-05 |  |
 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 | 2024-12-03 |  |
 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 | 2023-11-29 | 2024-12-04 |
+| [EASY](https://open.spotify.com/track/6w60YlYpRUFr0XrZ1bNt9D) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 2:57 | 2025-06-06 |  |
 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 | 2023-11-29 | 2024-12-04 |
 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 | 2023-11-29 | 2024-12-04 |
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-11-30 | 2023-08-04 |
@@ -66,7 +67,7 @@
 | [El Mentado \- En Vivo](https://open.spotify.com/track/6z1u6HIVf240RNUeIArF2k) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [En Vivo De La Costa A La Sierra](https://open.spotify.com/album/58IcLDg1e6DVbJmeANUFJM) | 2:26 | 2024-12-20 | 2025-03-01 |
 | [El Pickles](https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 | 2023-11-29 | 2024-04-19 |
 | [El Pickles](https://open.spotify.com/track/3gJnWf6yM9g2v2t7hV8QGa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:02 | 2023-11-29 | 2024-12-04 |
-| [El Poder De La Palabra](https://open.spotify.com/track/1kAYKWWCTLky4bqHQDocTJ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 3:46 | 2025-02-04 |  |
+| [El Poder De La Palabra](https://open.spotify.com/track/1kAYKWWCTLky4bqHQDocTJ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 3:46 | 2025-02-04 | 2025-06-07 |
 | [El Rescate](https://open.spotify.com/track/5xzGmQsjbPuIZ6GtPdVuEq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 2:34 | 2023-11-29 | 2024-12-04 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-11-30 | 2024-04-19 |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2022-11-30 | 2023-11-30 |

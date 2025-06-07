@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 682012,
+  "num_followers": 682140,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAfwCwPFg1UoUyS8UjlsHJj",
+  "snapshot_id": "aEDeAAAAAAAMBMw3M4Qw3XhomTYbrKry",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Second One To Know",
-      "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 300113,
       "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Second One To Know",
+      "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
     },
     {
       "added_at": null,

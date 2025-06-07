@@ -521,6 +521,36 @@
     },
     {
       "album": {
+        "name": "The Silver Violin",
+        "url": "https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Kirill Karabits",
+          "url": "https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228946,
+      "name": "Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
       },

@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "BITE",
+        "url": "https://open.spotify.com/album/4xKgTA0pfAL8OEvSRSiEoU"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170273,
+      "name": "BITE",
+      "url": "https://open.spotify.com/track/7wcLxoDNmNx4WiABHJZrrU"
+    },
+    {
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
       },
@@ -1610,6 +1628,24 @@
       "duration_ms": 357931,
       "name": "For Aisha (Featured in \"The Sky Is Pink\")",
       "url": "https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB"
+    },
+    {
+      "album": {
+        "name": "Bodyology",
+        "url": "https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141253,
+      "name": "Freaky Like That",
+      "url": "https://open.spotify.com/track/7bDFVicEweylijRmYV3fCf"
     },
     {
       "album": {

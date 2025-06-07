@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-515 songs - 1 day 2 hr 14 min
+516 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Try Your Luck](https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 2:43 | 2025-05-22 |  |
 | [Tsunami](https://open.spotify.com/track/2284BwyOtA8wI3jeObBlM0) | [NOAH](https://open.spotify.com/artist/1M0dufGcezQSWNroSSQcK5) | [Tsunami](https://open.spotify.com/album/4wmGfmi5xkEO6wZUOrIrqa) | 3:18 | 2025-01-09 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 |  |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 |  |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-04-25 |
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 |  |
 | [U Make Me Go \(Mmhh\)](https://open.spotify.com/track/7BPrjm9RNfxRatkPflgx8l) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [U Make Me Go \(Mmhh\)](https://open.spotify.com/album/0e2ztqqDZvEbYdmwHeJLk4) | 3:02 | 2024-10-24 | 2025-01-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Hey, XXXTentacion & Juice WRLD<br/>that's DOPE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,060 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,018 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

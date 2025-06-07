@@ -4,7 +4,7 @@
 
 > Yaşlı Amca ve haftanın en iyi çıkışları!
 
-1,532 songs - 3 day 5 hr 43 min
+1,533 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-08 | 2025-05-16 |
 | [All I Ever Really Wanted](https://open.spotify.com/track/1zGONdLGdhquiPP5dOYDoO) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [All I Ever Really Wanted](https://open.spotify.com/album/3MJYuUKnMFvbgDk66jIn30) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [All I Know](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 | 2025-04-03 | 2025-04-11 |
+| [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-05 |  |
 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 | 2025-05-29 | 2025-06-06 |
 | [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 | 2025-05-01 | 2025-05-09 |
 | [Allah'la Aramızda](https://open.spotify.com/track/6cn6hsxgIOeSvIDSNapqK4) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Allah'la Aramızda](https://open.spotify.com/album/5L7xPdvYwcWCmqswOFkUCY) | 3:22 | 2025-03-06 | 2025-03-14 |

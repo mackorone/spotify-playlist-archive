@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: 舐達麻
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,854 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,900 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 44 | [Haku](https://open.spotify.com/track/2LdYzK2rSbYbFY0ns69MYs) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Haku](https://open.spotify.com/album/7zQz8tOfsdNh3TnG2swhEN) | 2:12 |
 | 45 | [新しい友達いらない](https://open.spotify.com/track/6hRVNat0GUcPM9dOXshp8N) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [DubbyMaple](https://open.spotify.com/artist/2Y0nGXu6bM3bvR16LDbuKX) | [新しい友達いらない](https://open.spotify.com/album/0U4BaXJCAdqGDS0SjuaHyZ) | 2:38 |
 | 46 | [No Rules \(feat\. MaRI & OZworld\)](https://open.spotify.com/track/6jGh0VYYoLMzAC5naY31Ko) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [THE KILLER CUTS](https://open.spotify.com/album/2IW5awVB79dkFoOoD5HkDg) | 2:26 |
-| 47 | [First Take \(feat\. JP THE WAVY\)](https://open.spotify.com/track/7ybMwa8C4TKC0iWx8JBnjf) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [First Take \(feat\. JP THE WAVY\)](https://open.spotify.com/album/1tjhkrLrNxEnRG1E8Wkw7v) | 3:12 |
+| 47 | [First Take](https://open.spotify.com/track/7ybMwa8C4TKC0iWx8JBnjf) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [First Take](https://open.spotify.com/album/1tjhkrLrNxEnRG1E8Wkw7v) | 3:12 |
 | 48 | [Untitled \- 2020.05.18](https://open.spotify.com/track/4ocd0mzrWkc4GWgMJR2cw5) | [TAEYO](https://open.spotify.com/artist/2nZaGgjgDDlxleFV47azlV) | [IAMTYB IS YOURS \(2020\-2023 Demos\)](https://open.spotify.com/album/0vyo3hq7hTCLFqY3XmFspS) | 1:38 |
 | 49 | [なんとかなるさ](https://open.spotify.com/track/1okUPp53P1lvQCeZUXdbHi) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Secure](https://open.spotify.com/album/1b7Z0j7nuYbAkTwrTrNK1i) | 2:58 |
 | 50 | [TIME \(feat\. MFS\)](https://open.spotify.com/track/1JLgk1V5LbfxQKvnFXec4g) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [TIME \(feat\. MFS\)](https://open.spotify.com/album/0HV5q1uZKOy1UZOSaNPT7B) | 2:28 |

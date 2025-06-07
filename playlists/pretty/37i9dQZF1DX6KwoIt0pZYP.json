@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 250907,
+  "num_followers": 250914,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
         "name": "Room For You",
         "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 181602,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 163333,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 181602,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "the space between us",
         "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 253325,
       "name": "the space between us",
       "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "The Way You Look At Me",
         "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
       },
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Diving",
-        "url": "https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr"
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
         }
       ],
-      "duration_ms": 208767,
-      "name": "Diving",
-      "url": "https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem"
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
+        "name": "Diving",
+        "url": "https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr"
       },
       "artists": [
         {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
+      "duration_ms": 208767,
+      "name": "Diving",
+      "url": "https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
+        "name": "kiss me thru the phone",
+        "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
+      },
+      "artists": [
+        {
+          "name": "CLUB BOYBND",
+          "url": "https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN"
+        }
+      ],
+      "duration_ms": 117480,
+      "name": "kiss me thru the phone",
+      "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
         "name": "P.S. I LOVE YOU",
         "url": "https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 241947,
       "name": "P.S. I LOVE YOU (feat. Yuna)",
       "url": "https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
-        "name": "kiss me thru the phone",
-        "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
-      },
-      "artists": [
-        {
-          "name": "CLUB BOYBND",
-          "url": "https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN"
-        }
-      ],
-      "duration_ms": 117480,
-      "name": "kiss me thru the phone",
-      "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "to love in the 21st century",
-        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "the alternative",
-      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/0ghjtCHD4zRz0XkIVp2KQn"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 292901,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5q1usJ8JdXbmuojeXEUm0t"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
     },
     {
       "added_at": "2025-05-16 04:00:25",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-05-16 04:00:25",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
-      },
-      "artists": [
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
-    },
-    {
-      "added_at": "2025-05-16 04:00:25",
-      "album": {
         "name": "RABBITHOLE",
         "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
+    },
+    {
+      "added_at": "2025-05-16 04:00:25",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
     },
     {
       "added_at": "2025-05-16 04:00:25",

@@ -4,7 +4,7 @@
 
 > New music from Sabrina Carpenter, Red Sebastian, Berre, DYSTINCT and more...
 
-5,012 songs - 11 day 1 hr 28 min
+5,014 songs - 11 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [All I Need](https://open.spotify.com/track/39JxfzVUFRkq5EiX8xr3TB) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [All I Need](https://open.spotify.com/album/2Ao1JLV1aVemiixzAkyir2) | 2:54 | 2024-08-22 | 2024-08-30 |
 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 |  |
 | [All In](https://open.spotify.com/track/6TJW1HmoAU2OPNcL8M0PUM) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [All In](https://open.spotify.com/album/53LIEoBVRqQrFUS2kC2wHT) | 2:24 | 2024-08-16 | 2024-08-23 |
+| [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-06 |  |
 | [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 | 2024-08-22 | 2024-08-30 |
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-19 | 2024-07-27 |
 | [All Is Ours](https://open.spotify.com/track/1rxLCrJvvAH1gzcgEF7Sa2) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 3:41 | 2024-07-04 | 2024-07-12 |
@@ -3482,7 +3483,7 @@
 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-05-29 | 2025-06-06 |
 | [Primo Piatto](https://open.spotify.com/track/7G4pERAL0oyKJTbXfuJNBU) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Primo Piatto](https://open.spotify.com/album/1lfa4z3VBUjGFOfl451BA1) | 1:57 | 2024-09-12 | 2024-09-20 |
 | [Primrose](https://open.spotify.com/track/7qfGpHyuciZHeXBFwlP1DP) | [Orson Claeys](https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu) | [Primrose](https://open.spotify.com/album/5UFzzLp3UXe5LwUXMzw4W8) | 6:41 | 2024-06-20 | 2024-06-28 |
-| [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-06 |  |
+| [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 | 2025-06-06 |  |
 | [Principessa](https://open.spotify.com/track/60BFnfQs9T8xhpUeTI7759) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [Principessa](https://open.spotify.com/album/2XCoUwXyJWzAH0JcIu2SHs) | 4:01 | 2025-04-10 | 2025-04-18 |
 | [Prinses Pil](https://open.spotify.com/track/1WrwcIHLBhnXY459ybsY6p) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO), [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [Prinses Pil](https://open.spotify.com/album/2R5Dy2a0uemGmppzhYGfgS) | 2:43 | 2025-04-24 | 2025-05-02 |
 | [PRO SLIDE](https://open.spotify.com/track/1m00jpsZneOrfkQ4XK4QJa) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U), [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [AUTOFOCUS](https://open.spotify.com/album/6v3APU8tDZP7ZjKQQhwlbc) | 3:08 | 2024-10-10 | 2024-10-18 |
@@ -4552,6 +4553,7 @@
 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 | 2024-08-22 | 2024-08-30 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2024-11-22 |
 | [Two Times](https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Two Times](https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm) | 3:46 | 2025-02-21 | 2025-02-28 |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 |  |
 | [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-04-24 | 2025-05-02 |
 | [U](https://open.spotify.com/track/3fhl7YifbivGQO2deVLavJ) | [JAZMYN](https://open.spotify.com/artist/6axezvjsY79g2rkEp65ynf) | [U](https://open.spotify.com/album/4n8MrOOYW6Fh7ixALNVJ8H) | 4:17 | 2024-08-29 | 2024-09-06 |
 | [U Are The High](https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [U Are The High](https://open.spotify.com/album/0Ith2nwQnLsATxI4pF2Ur3) | 3:18 | 2024-09-05 | 2024-09-13 |

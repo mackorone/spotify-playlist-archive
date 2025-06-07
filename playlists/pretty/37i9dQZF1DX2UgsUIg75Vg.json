@@ -1,28 +1,32 @@
 {
-  "description": "Chill r&b. Cover: JayDon",
-  "num_followers": 2381722,
+  "description": "Chill r&b. Cover: Leon Thomas",
+  "num_followers": 2381519,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktZQAAAAA3kb3vSRzvX5rul4cMA7Os",
+  "snapshot_id": "aEJ0rwAAAAA3fBRqjC7CU3BmkKhfrNkt",
   "tracks": [
     {
-      "added_at": "2025-03-14 05:43:52",
+      "added_at": "2025-05-30 04:00:37",
       "album": {
-        "name": "I'll Be Good",
-        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
       "artists": [
         {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 212500,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
+      "duration_ms": 219607,
+      "name": "DIRT ON MY SHOES (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
     },
     {
       "added_at": "2025-05-23 04:40:36",
@@ -45,24 +49,36 @@
       "url": "https://open.spotify.com/track/73dCTAnLDKbL1MpwarKLCP"
     },
     {
-      "added_at": "2025-05-30 04:00:37",
+      "added_at": "2025-03-14 05:43:52",
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+        "name": "I'll Be Good",
+        "url": "https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
         }
       ],
-      "duration_ms": 219607,
-      "name": "DIRT ON MY SHOES (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+      "duration_ms": 212500,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
+    },
+    {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "What I Gotta Do",
+        "url": "https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 96048,
+      "name": "What I Gotta Do",
+      "url": "https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -147,6 +163,30 @@
       "duration_ms": 150038,
       "name": "SEARCHING",
       "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
+    },
+    {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 210071,
+      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
     },
     {
       "added_at": "2025-02-07 07:29:18",
@@ -237,6 +277,26 @@
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
     },
     {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Is This Love?",
+        "url": "https://open.spotify.com/album/69BacA7EcUTy0yOIEsYO3M"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 210729,
+      "name": "Is This Love?",
+      "url": "https://open.spotify.com/track/43Ha9dTAQLXaGF2aDeEzyH"
+    },
+    {
       "added_at": "2025-04-25 06:19:53",
       "album": {
         "name": "OpenYourEyes",
@@ -305,6 +365,22 @@
       "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
+    },
+    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "HunnyMoon Mountain",
@@ -351,6 +427,22 @@
       "duration_ms": 170526,
       "name": "Go' Head",
       "url": "https://open.spotify.com/track/4xlJlOrT1vgRrL2xxGHcRG"
+    },
+    {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6UWWZvdmR3hkFGj7JDHaNe"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 171370,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3TIMs6PfewA6xaZi5jF62N"
     },
     {
       "added_at": "2025-05-02 04:00:36",
@@ -433,6 +525,22 @@
       "url": "https://open.spotify.com/track/3S6k9OO5fSSoqiTeFCnKZf"
     },
     {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Cruel, Cruel World",
+        "url": "https://open.spotify.com/album/47nu3IoIKtUjqNpUxVTjH9"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/46emxvSTVCV9JNhR7vx0f1"
+    },
+    {
       "added_at": "2025-05-01 00:17:13",
       "album": {
         "name": "Gettin' in The Way - Spotify Singles",
@@ -463,6 +571,22 @@
       "duration_ms": 193209,
       "name": "The Usual",
       "url": "https://open.spotify.com/track/0pyNAZxl5ZNwR16z41z7WD"
+    },
+    {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq"
     },
     {
       "added_at": "2025-05-16 04:59:51",
@@ -1103,22 +1227,6 @@
       "duration_ms": 160476,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
-    },
-    {
-      "added_at": "2025-04-04 04:00:29",
-      "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/3rSea0lGP2kHDrGt7jJGeb"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 239216,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/6gP8rtbgAweJelfHeGDCzC"
     },
     {
       "added_at": "2025-04-25 06:19:53",

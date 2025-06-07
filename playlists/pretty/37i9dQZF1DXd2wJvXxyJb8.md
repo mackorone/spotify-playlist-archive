@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536,386 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536,538 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 17 | [Descer](https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ) | [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Descer](https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j) | 1:51 |
 | 18 | [a última dança](https://open.spotify.com/track/096gZM7wp5GKHBwtWY3d0z) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [pluglip](https://open.spotify.com/artist/2U0pxQZXxuKh6zKZ9t4uXV) | [a última dança](https://open.spotify.com/album/2eooZYrJukknYGymvXdl5E) | 2:06 |
 | 19 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
-| 20 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
+| 20 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [fire hair](https://open.spotify.com/artist/6wyE69vcYrfYvRaG5GNEkN), [WenHard](https://open.spotify.com/artist/4otphgHII0GMrR36Kexd3o) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
 | 21 | [Lembrei de Nós](https://open.spotify.com/track/3MZasYL4eB4Tm2U2LZ58tj) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Dominguinho](https://open.spotify.com/album/6laUDBtyfu4ngRbOsblhfS) | 3:16 |
 | 22 | [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 |
 | 23 | [Médio Versalico](https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD) | [DJ OLIVEIRA ORIGINAL](https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [Médio Versalico](https://open.spotify.com/album/68in7bmnv2YgoEFyx6hpD7) | 1:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 69 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
 | 70 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
 
-Snapshot ID: `aEG8CgAAAAA8BvayIA+y+RxxBsHp8DTr`
+Snapshot ID: `aEG8CgAAAAAmMSDRYaMb/yAH/Hm8d8Ag`

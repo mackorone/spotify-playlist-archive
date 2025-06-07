@@ -1,13 +1,29 @@
 {
   "description": "When the funk is too funky for words to keep up. Cover: Cory Wong",
-  "num_followers": 385422,
+  "num_followers": 385453,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MebAAAAAClAHKJUN8lX2VdvwNYtD3u",
+  "snapshot_id": "aEJnxQAAAADAi4MA0boZ7mA7AuVTamsH",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
+        "name": "Valk",
+        "url": "https://open.spotify.com/album/4i6qtifueainK5xqaiZAPM"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Valk",
+      "url": "https://open.spotify.com/track/1luuVnbf5YOFdXXELkWM6j"
+    },
     {
       "added_at": "2025-01-24 05:00:28",
       "album": {
@@ -1431,22 +1447,6 @@
       "duration_ms": 186066,
       "name": "116th St.",
       "url": "https://open.spotify.com/track/0CBvxTlEUQTQxwqtzr93ox"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "The Joy of Music. The Job of Real Estate.",
-        "url": "https://open.spotify.com/album/17OizIciohmcOZbMyBF2XV"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Test Drive - Instrumental",
-      "url": "https://open.spotify.com/track/6egcs8AHSL7oPfq5TZ8w6n"
     },
     {
       "added_at": "2023-08-04 04:01:00",

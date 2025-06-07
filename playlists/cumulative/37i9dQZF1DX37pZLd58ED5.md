@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Tony Boy
+> Solo beat e rime avvolgenti\. Cover: Lazza
 
-213 songs - 11 hr 19 min
+215 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ex Angelo \- Original Version](https://open.spotify.com/track/5Ac0RG0vnlsy3e5eeYEryB) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:23 | 2025-01-13 |  |
 | [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/1FEAEKjVQLZuSeb0omUxep) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:35 | 2022-10-25 | 2024-04-19 |
 | [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:35 | 2022-04-28 |  |
+| [FENTANYL feat\. Sfera Ebbasta \(Opera\)](https://open.spotify.com/track/5W7ztEbkvPndldZOZK8PYe) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA \(Opera\)](https://open.spotify.com/album/71zp4v15vupqfXHXYC9E43) | 3:09 | 2025-06-06 |  |
 | [Fiamme Alte](https://open.spotify.com/track/5N7x4uvQWF0Nte0yZX1fjn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:28 | 2022-04-28 | 2022-07-07 |
 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6Dc4svWZRieb8fCaQQGdot) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 3:37 | 2023-03-23 | 2023-04-10 |
 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 3:37 | 2023-04-06 | 2023-04-14 |
@@ -138,6 +139,7 @@
 | [MeryXSempre \(feat\. Shiva\)](https://open.spotify.com/track/4n5omnB5GcKuHhkVZWv1Ih) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 3:49 | 2022-04-28 |  |
 | [Mezzanotte in Punto \(con Franco126, Ketama126 & Bresh\)](https://open.spotify.com/track/2ppZvuaUPZftMUZ5PZQ1Qd) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 3:57 | 2023-04-06 | 2023-06-16 |
 | [Mezzanotte in Punto \(con Franco126, Ketama126 & Bresh\)](https://open.spotify.com/track/4HPnwAsUMcudDgVCNLOzum) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:57 | 2022-09-15 | 2023-04-13 |
+| [MEZZE VERITÀ feat\. Kid Yugi \(Jam\)](https://open.spotify.com/track/1JhX0OZnQNEhCKpseEvUiv) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA \(Jam\)](https://open.spotify.com/album/1xcWRxlgPGOEhzSeDUB0pS) | 3:46 | 2025-06-06 |  |
 | [Mi manchi](https://open.spotify.com/track/02azuYiDfYtTJ568UwYPQ3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:06 | 2022-10-25 | 2022-11-13 |
 | [Mi manchi](https://open.spotify.com/track/0L2Sq3mlGZsSvrOu15LZSi) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:06 | 2022-04-28 | 2022-10-26 |
 | [Mi manchi](https://open.spotify.com/track/7Jgi200kgCNvAuZw2W8Nxq) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:06 | 2022-10-25 | 2023-09-15 |

@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-405 songs - 1 day 2 hr 33 min
+406 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2023-01-20 | 2023-01-28 |
 | [Saber a Dónde ir](https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Saber a Dónde ir](https://open.spotify.com/album/6XVFjAPVhncAQb0K5xubnn) | 4:19 | 2024-07-02 | 2025-05-03 |
 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 | 2021-12-10 |  |
+| [Se parece mas a ti](https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Raíces Muy Fuertes](https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq) | 4:16 | 2025-06-06 |  |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/5F3qW7U4Tmqwmh0SsVkyOr) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/album/4LqtYba4wLsXu4vzPG4aEk) | 2:46 | 2021-12-10 | 2023-02-22 |
 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 | 2023-03-03 | 2023-05-20 |
 | [Sentimiento Colectivo](https://open.spotify.com/track/5Mt39ZADBRZMNeKG4DxDJP) | [Colectivo Ley De Origen](https://open.spotify.com/artist/5J6qDQo17awBaFEmOGhfb3), [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Sentimiento Colectivo](https://open.spotify.com/album/7e75vjhSH4p79UErg0u8hy) | 3:08 | 2021-12-10 | 2022-07-29 |
@@ -361,7 +362,7 @@
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2021-12-10 |  |
 | [Todo se Soluciona](https://open.spotify.com/track/582ZzddI9KhmtvPfSUL81X) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Todo se Soluciona](https://open.spotify.com/album/1Pod3KeHC3EdjuanFN5WDj) | 4:13 | 2023-07-21 | 2023-08-19 |
 | [Todo Tiene Su Tiempo](https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Elevándote](https://open.spotify.com/album/1AzhzZ8JOMRL0bOMzhdF8H) | 4:51 | 2021-12-10 | 2022-07-24 |
-| [Todo vuelve a su lugar](https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:59 | 2024-01-26 |  |
+| [Todo vuelve a su lugar](https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:59 | 2024-01-26 | 2025-06-07 |
 | [Trago Coqueto](https://open.spotify.com/track/1qHiEpXSWq4kMLKiBIVe1U) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Trago Coqueto](https://open.spotify.com/album/1peaQ1qGlbwL8V8LcKZElp) | 3:02 | 2023-08-18 | 2023-09-09 |
 | [Trenchtown Rock](https://open.spotify.com/track/4bbAv8sjSZyRYtcsjXmP87) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:47 | 2021-12-10 | 2022-06-21 |
 | [Triple L](https://open.spotify.com/track/61bQwkuORTqb9HmPiDHAsy) | [República Fortuna](https://open.spotify.com/artist/0GkZTYuobOGpjKah2pLi7Q) | [Triple L](https://open.spotify.com/album/0RFCLCIZI8ucuaz6m2RUfH) | 3:23 | 2023-03-03 | 2023-05-06 |

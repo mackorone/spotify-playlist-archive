@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-149 songs - 7 hr 55 min
+150 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,12 +116,13 @@
 | [Pode Acreditar](https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Pode Acreditar](https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf) | 3:39 | 2023-10-20 |  |
 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 | 2023-06-23 |  |
 | [PREAMAR](https://open.spotify.com/track/5vXucjlEods0fafmWCudxU) | [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Júnior Soares](https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON) | [PREAMAR](https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA) | 4:21 | 2023-06-23 |  |
-| [Pôr Do Sol Degradê](https://open.spotify.com/track/4yCtYSXQApwTyTxHurV4oG) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Pôr Do Sol Degradê](https://open.spotify.com/album/04Hm4DhDDuVdPEmBctOZ1J) | 2:42 | 2025-03-07 |  |
+| [Pôr Do Sol Degradê](https://open.spotify.com/track/4yCtYSXQApwTyTxHurV4oG) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Pôr Do Sol Degradê](https://open.spotify.com/album/04Hm4DhDDuVdPEmBctOZ1J) | 2:42 | 2025-03-07 | 2025-06-07 |
 | [Quanto Tempo Faz](https://open.spotify.com/track/0OYxFGhsjnN3ia8rJC93I5) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Converso Com Todas As Coisas](https://open.spotify.com/album/1AmkizZHt6dCgIJVzQ1Gyh) | 2:47 | 2023-06-23 | 2023-07-29 |
 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 | 2023-06-23 |  |
 | [Rainha da Minha Bateria](https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL) | [Rainha da Minha Bateria](https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu) | 4:03 | 2023-06-23 |  |
 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 | 2025-05-16 |  |
 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 | 2023-06-23 |  |
+| [Rio de Janeiro](https://open.spotify.com/track/5D4q61RINH3rVIrFAon43f) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Rio de Janeiro](https://open.spotify.com/album/4vjfZrlmuGONBGn0E4GKWx) | 3:03 | 2025-06-06 |  |
 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 | 2023-06-23 |  |
 | [Sala De Estar](https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jadeco](https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY) | [Sala De Estar](https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A) | 4:05 | 2023-10-20 |  |
 | [Samba](https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Samba](https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT) | 2:40 | 2023-06-23 | 2025-04-05 |

@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🏆 with Jon Casey & TroyBoi
 
-670 songs - 1 day 11 hr 1 min
+671 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [party! \(dance alone\)](https://open.spotify.com/track/5Gyk61VF5P3eIJ1dZwI7nh) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:40 | 2025-01-24 |  |
 | [Pause](https://open.spotify.com/track/3BEN6MDiWwQ0zekceNpU5y) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz) | [Pause](https://open.spotify.com/album/5o0A9wlHUUOB8mVxW1COX9) | 1:57 | 2024-06-17 | 2024-06-29 |
 | [People I Know](https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [People I Know](https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS) | 3:36 | 2022-02-01 | 2023-11-11 |
-| [PLEASURE](https://open.spotify.com/track/4YuvJDnq3mIJgNwnab08yE) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [PLEASURE / RAINBOWFHISH](https://open.spotify.com/album/5RJHzs0VQ9DGjZR7cdIIG3) | 3:52 | 2025-04-04 |  |
+| [PLEASURE](https://open.spotify.com/track/4YuvJDnq3mIJgNwnab08yE) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [PLEASURE / RAINBOWFHISH](https://open.spotify.com/album/5RJHzs0VQ9DGjZR7cdIIG3) | 3:52 | 2025-04-04 | 2025-06-07 |
 | [Pop Off](https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Kazu](https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:40 | 2022-05-11 | 2022-11-19 |
 | [Pour All Night](https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Thelonious](https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s) | [Pour All Night](https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e) | 3:29 | 2021-11-19 | 2024-08-10 |
 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 | 2023-06-09 | 2024-08-10 |
@@ -651,6 +651,7 @@
 | [Visions](https://open.spotify.com/track/3xY1Z0W0UO1itJoa5wpA95) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Visions](https://open.spotify.com/album/60ljn2ZV5TP3v0NHbEJ3VM) | 2:43 | 2023-11-03 | 2024-04-28 |
 | [Voices](https://open.spotify.com/track/2tsIMR0ok3KDqJ4oodDRjg) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Voices](https://open.spotify.com/album/3Xug1RZvXgaLQf7yPVlu7n) | 3:08 | 2023-11-03 | 2024-09-14 |
 | [Voices in the Wall](https://open.spotify.com/track/3Jh5bcDIKfzGOngSzk0GEP) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX) | [Voices in the Wall](https://open.spotify.com/album/41zETbeohy47Bqp1ebKUXf) | 4:56 | 2024-05-10 | 2024-05-18 |
+| [WANTS/NEEDS](https://open.spotify.com/track/0gkwto0Jdn9lMPJV8gkgQA) | [Cozy Kev](https://open.spotify.com/artist/7e0CLdbVq8tdRGfh8Tf6JB) | [WANTS/NEEDS](https://open.spotify.com/album/6hxefNk8O1xC7caW0t7luK) | 2:37 | 2025-06-06 |  |
 | [wantsomemusic? \- RemK Remix](https://open.spotify.com/track/3L30p1Mbv4ZuRtD2lB2NGI) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [wantsomemusic? \(RemK Remix\)](https://open.spotify.com/album/5oCmyYQlzf00S0Cno2yKlV) | 2:37 | 2025-02-07 | 2025-05-10 |
 | [WARDOGZ](https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4) | [6 FEET UNDER](https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl) | 2:34 | 2022-02-01 | 2023-11-18 |
 | [Watch Me Take It](https://open.spotify.com/track/3di8gtp6wVCk6qbfhlwA4l) | [Squired](https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6) | [FLASH](https://open.spotify.com/album/62wovOE6hpDM60KNznqK8L) | 2:21 | 2024-05-31 | 2024-08-31 |

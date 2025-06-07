@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: Rise Against
+> The best and latest rock and alternative\. Cover: Volbeat
 
-284 songs - 16 hr 56 min
+285 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [dead end kids](https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [dead end kids](https://open.spotify.com/album/1teNbZLz3PUefD4NXLocTl) | 3:17 | 2023-11-03 | 2024-04-06 |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-11-03 | 2024-11-02 |
 | [Deep End](https://open.spotify.com/track/158w8pSMF1Z13xzgHhGXRV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:47 | 2025-03-07 |  |
+| [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-06 |  |
 | [Dial Drunk](https://open.spotify.com/track/28iuT1dYxVCazkNrFoSahf) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:33 | 2023-11-03 | 2024-02-03 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2024-04-26 |  |
 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 | 2023-11-03 | 2024-03-23 |
@@ -121,7 +122,7 @@
 | [is it too late?](https://open.spotify.com/track/7nM7v4mzorGlZbsJlhuDL3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [is it too late?](https://open.spotify.com/album/45hjkRFUziCz2LKSNw8i6g) | 2:39 | 2024-04-05 | 2024-10-05 |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 |  |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-25 |  |
-| [JIM BOB](https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JIM BOB](https://open.spotify.com/album/1iaeDfvi0vLhu4uLCC4BLE) | 3:41 | 2024-05-31 |  |
+| [JIM BOB](https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JIM BOB](https://open.spotify.com/album/1iaeDfvi0vLhu4uLCC4BLE) | 3:41 | 2024-05-31 | 2025-06-07 |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-11-03 | 2024-04-06 |
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-11-03 | 2024-03-02 |
 | [Kate Moon](https://open.spotify.com/track/4i8ByiUFCWkIjXfWyms3om) | [Said The Whale](https://open.spotify.com/artist/0QTnH6UEP2jbZEVO6g6Vfe) | [Kate Moon](https://open.spotify.com/album/4Uycsoy9OUFUpuN6nsKCYQ) | 3:35 | 2024-06-01 | 2024-07-20 |
@@ -165,7 +166,7 @@
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-06-29 |
 | [Nobody's Soldier](https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 3:57 | 2024-10-25 |  |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-24 |  |
-| [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2024-02-02 |  |
+| [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2024-02-02 | 2025-06-07 |
 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 | 2023-11-03 | 2024-05-11 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-04-01 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-26 | 2025-05-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 505,
+  "num_followers": 504,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACRfwRBQxy0qGocikSPGZLs",
+  "snapshot_id": "aEDeAAAAAAAOwrqtjbzQUXJm5+C0yegg",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Ya Ni Me Acuerdo",
-      "url": "https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 212803,
       "name": "Al\u00e9rgica",
       "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Ya Ni Me Acuerdo",
+      "url": "https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Dame un Beso",
+      "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Podemos (No Volver a la Ciudad)",
         "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
       },
@@ -227,42 +243,6 @@
       "duration_ms": 187765,
       "name": "Podemos (No Volver a la Ciudad)",
       "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Alejandro Ascencio",
-          "url": "https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf"
-        }
-      ],
-      "duration_ms": 213448,
-      "name": "Cuando Me Quieras",
-      "url": "https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl"
     },
     {
       "added_at": null,
@@ -287,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Me Ha Pasado",
-        "url": "https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT"
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
       "artists": [
-        {
-          "name": "Beatriz Solis",
-          "url": "https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J"
-        },
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 191770,
-      "name": "A Mi Me Ha Pasado",
-      "url": "https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB"
+      "duration_ms": 214088,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl"
     },
     {
       "added_at": null,
@@ -314,31 +290,15 @@
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Dame un Beso",
-      "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una \u00daltima Noche",
-        "url": "https://open.spotify.com/album/5n7p3WM14jf5amvkY6rKMq"
-      },
-      "artists": [
-        {
-          "name": "Reto\u00f1os Del Rio",
-          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
         },
         {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "Alejandro Ascencio",
+          "url": "https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf"
         }
       ],
-      "duration_ms": 169596,
-      "name": "Una \u00daltima Noche",
-      "url": "https://open.spotify.com/track/3qarQbqnHhVji8OObEFeWK"
+      "duration_ms": 213448,
+      "name": "Cuando Me Quieras",
+      "url": "https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz"
     },
     {
       "added_at": null,
@@ -363,18 +323,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+        "name": "A Mi Me Ha Pasado",
+        "url": "https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT"
       },
       "artists": [
+        {
+          "name": "Beatriz Solis",
+          "url": "https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J"
+        },
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Dejar\u00e9",
-      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
+      "duration_ms": 191770,
+      "name": "A Mi Me Ha Pasado",
+      "url": "https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una \u00daltima Noche",
+        "url": "https://open.spotify.com/album/5n7p3WM14jf5amvkY6rKMq"
+      },
+      "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 169596,
+      "name": "Una \u00daltima Noche",
+      "url": "https://open.spotify.com/track/3qarQbqnHhVji8OObEFeWK"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 137055,
       "name": "El Motivo",
       "url": "https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 237029,
+      "name": "Dejar\u00e9",
+      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna de Octubre",
-        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 194932,
-      "name": "Luna de Octubre",
-      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 144765,
       "name": "La Corona Es M\u00eda",
       "url": "https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna de Octubre",
+        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 194932,
+      "name": "Luna de Octubre",
+      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 234864,
-      "name": "Besarte As\u00ed",
-      "url": "https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6"
+      "duration_ms": 151846,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
     },
     {
       "added_at": null,
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 151846,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 190090,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS"
+      "duration_ms": 234864,
+      "name": "Besarte As\u00ed",
+      "url": "https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 212983,
       "name": "El Mundo - En Vivo",
       "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cucurrucuc\u00fa Paloma",
+        "url": "https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 190090,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS"
     },
     {
       "added_at": null,
@@ -755,6 +755,30 @@
       "duration_ms": 345911,
       "name": "Ella - Tu Recuerdo y Yo - Canta, Canta, Canta - En Vivo",
       "url": "https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00c9XICO (CAN I STAY)",
+        "url": "https://open.spotify.com/album/6ZXcVsYRdUKUReGYRLrTD2"
+      },
+      "artists": [
+        {
+          "name": "Ayala",
+          "url": "https://open.spotify.com/artist/3CXuE5e7yVZDVTxhp8BeKa"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Mariachi Imperial Azteca",
+          "url": "https://open.spotify.com/artist/3i1TXUJiZ8xHGHddUTAvOh"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "M\u00e9xico (Can I Stay)",
+      "url": "https://open.spotify.com/track/1PuOLi2DuqheibqK4wTCI8"
     }
   ],
   "unique_name": "This Is Lupita Infante",

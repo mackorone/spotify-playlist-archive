@@ -2961,6 +2961,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vous EP",
+        "url": "https://open.spotify.com/album/71vPM5ro3LBizuBvVqSJSS"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Diogo Strausz",
+          "url": "https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387969,
+      "name": "D\u00e9j\u00e0 Vous",
+      "url": "https://open.spotify.com/track/27v3dCVeFekhgsG5h0EYG3"
+    },
+    {
+      "album": {
         "name": "Electric Energy",
         "url": "https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9"
       },
@@ -9386,7 +9408,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/3gXDTgiVHsEfc1wasANhTW"
@@ -10629,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "Live From Selby",
+        "url": "https://open.spotify.com/album/3Qfoag3UhBU3O9a1JBQagt"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Star Time",
+      "url": "https://open.spotify.com/track/2z4QKpl96jt13I7tFmEcMf"
+    },
+    {
+      "album": {
         "name": "Starlight Delight",
         "url": "https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp"
       },
@@ -10982,7 +11022,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 187968,
       "name": "Susannah",
       "url": "https://open.spotify.com/track/2ggtoA4Y5VbdFwcEApWXGs"

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: Lihim at Salita Artwork: Isu Kim
 
-3,288 songs - 8 day 0 hr 52 min
+3,289 songs - 8 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1076,6 +1076,7 @@
 | [Gutom](https://open.spotify.com/track/4RM6r2V2Bm7d7cx8aiGqQw) | [Gem Largo](https://open.spotify.com/artist/5yCfOWjEqPcrXCP2LyVkLr) | [Gutom](https://open.spotify.com/album/4RCPjfLQ6hrLhDC3AqFxAo) | 4:14 | 2025-05-22 |  |
 | [GVG](https://open.spotify.com/track/5tfxtdXR52FjnvkBjbrKdU) | [025 Bombin'](https://open.spotify.com/artist/5OB9ttbbxin1whE6sJXymc), [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT) | [GVG](https://open.spotify.com/album/2wVDIwaluXx4Fr2kqW02zU) | 3:01 | 2025-05-15 |  |
 | [Gwapo](https://open.spotify.com/track/0ntlsY4rkWmb78FAUKLuLe) | [Kiana Aaliyah](https://open.spotify.com/artist/2D63zVZjJVry2mWt3rIjIs) | [Gwapo](https://open.spotify.com/album/3dtTpv6vsl0bk5ssakPXXa) | 4:14 | 2023-10-05 | 2023-10-24 |
+| [Gwop](https://open.spotify.com/track/3FcU2py89fTfILaVh6cFyv) | [Xodah](https://open.spotify.com/artist/6PZ3nyHP9UVR0NTIYxwIL4), [Chello](https://open.spotify.com/artist/6P7ErNofbvvxHUFkA0dE3a) | [Gwop](https://open.spotify.com/album/2HdxMSqROgkx6nNE3w5cF4) | 2:30 | 2025-06-05 |  |
 | [H\-PASS](https://open.spotify.com/track/6fxdMzBx96G6CgcxH6jwKB) | [HGHLNDS](https://open.spotify.com/artist/3LcnzQaciKmahQokgl4L66) | [H\-PASS](https://open.spotify.com/album/7tNqTmMziApxDpyBwOiHQx) | 5:02 | 2023-03-30 | 2023-04-14 |
 | [habambuhay](https://open.spotify.com/track/43HFqEqjNQCJIYwrk8NYRr) | [Yuan Hernandez](https://open.spotify.com/artist/1sf0tG2Hem2I6HNj3LgkpL) | [habambuhay](https://open.spotify.com/album/67gprSo0YQkwzgNRJrt92D) | 5:18 | 2024-06-06 | 2024-06-28 |
 | [Habambuhay \(Di Ko Inakala\)](https://open.spotify.com/track/1fkN6nKuRm4TWnky7C4Dwe) | [Fox](https://open.spotify.com/artist/3DAjSkkGty8283gaAo3FDQ) | [Habambuhay \(Di Ko Inakala\)](https://open.spotify.com/album/6B3zi21Jhl6uSMGTuONMdT) | 3:24 | 2024-04-11 | 2024-06-01 |

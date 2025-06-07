@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Sacha and Canadian country music. ",
+  "description": "The home of Josh Ross and Canadian country music. ",
   "name": "North Country",
   "tracks": [
     {
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 199310,
       "name": "I Don't See Why Not",
       "url": "https://open.spotify.com/track/0HJk2kajnKs7VXkCrirxeV"
@@ -2326,6 +2326,24 @@
       "duration_ms": 186654,
       "name": "Leave the Tab Open",
       "url": "https://open.spotify.com/track/2magbsrEX1TSYoCTO1Zocl"
+    },
+    {
+      "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/1tMjcGC2FhekVNtpytOO8H"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pritchett",
+          "url": "https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182002,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/79pw9LTjx6RO0PCPdIgOnH"
     },
     {
       "album": {
@@ -3843,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Somebody I Know",
+        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180633,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
+    },
+    {
+      "album": {
         "name": "Somebody's Summer",
         "url": "https://open.spotify.com/album/0TfNXl2LBzm2D7iTHPCbeT"
       },
@@ -3966,7 +4002,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 213819,
       "name": "Stoned Alone (feat. Caitlyn Smith)",
       "url": "https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC"

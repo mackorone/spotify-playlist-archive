@@ -1,264 +1,344 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2503,
+  "num_followers": 2504,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEKh51k/OvkhIxpexf8aSqY5MOfm6N",
+  "snapshot_id": "AAAELCLEA0/qZKb977LnPUQq7D8hMFmI",
   "tracks": [
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Death Dreams",
-        "url": "https://open.spotify.com/album/0halqVdErEBsSxrVir07Ab"
+        "name": "SET\u00c4SESSARIT",
+        "url": "https://open.spotify.com/album/4Y2rwUHHE77fHvzXK1iSrl"
       },
       "artists": [
         {
-          "name": "heavy wild",
-          "url": "https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0"
+          "name": "OG Ulla-Maija",
+          "url": "https://open.spotify.com/artist/0OYspJRShx3Yx7QIykOJgq"
         }
       ],
-      "duration_ms": 196549,
-      "name": "Creeper",
-      "url": "https://open.spotify.com/track/2N7NgNdsEy0605JoSUVQwg"
+      "duration_ms": 143808,
+      "name": "SET\u00c4SESSARIT",
+      "url": "https://open.spotify.com/track/3afi9a26gPHfO4JxeOC5Wl"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Me lennettiin kohti aamua",
-        "url": "https://open.spotify.com/album/631JYwJ828LQYMeLuknpyH"
+        "name": "AKADEMIKER demo v37.mp3",
+        "url": "https://open.spotify.com/album/74wacL5CNRuz8dJB2nfWxh"
       },
       "artists": [
         {
-          "name": "Flippipuisto",
-          "url": "https://open.spotify.com/artist/3IWc5MkkGRWeLMZercb9Q1"
+          "name": "Slum",
+          "url": "https://open.spotify.com/artist/0mYhKOXwW3Iny2BeFHaEq8"
         }
       ],
-      "duration_ms": 188091,
-      "name": "Me lennettiin kohti aamua",
-      "url": "https://open.spotify.com/track/16oUMrsZTOpmKKylMMwT6D"
+      "duration_ms": 167446,
+      "name": "AKADEMIKER demo v37.mp3",
+      "url": "https://open.spotify.com/track/6CG5K577haXKJg0chp9tte"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "The Flow of Time And Age",
-        "url": "https://open.spotify.com/album/01PogVp1gRZ6VdFsvTTR0u"
+        "name": "Costa Del Sol",
+        "url": "https://open.spotify.com/album/2uRvI7qvcUFI7bajFPpMAU"
       },
       "artists": [
         {
-          "name": "Craneium",
-          "url": "https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK"
+          "name": "MD-Duo",
+          "url": "https://open.spotify.com/artist/2rznUoyBFf166RlY0ijnSt"
         }
       ],
-      "duration_ms": 283945,
-      "name": "The Flow of Time And Age",
-      "url": "https://open.spotify.com/track/22XFE3xEbsACGFZXpgERnT"
+      "duration_ms": 182933,
+      "name": "Costa Del Sol",
+      "url": "https://open.spotify.com/track/1GMq0ICq892sKih1Ud8ZWj"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "WHORESHIP",
-        "url": "https://open.spotify.com/album/0YjV9073hOIYgxZ7I0hhcr"
+        "name": "\u00d8ygarden (Akustisk)",
+        "url": "https://open.spotify.com/album/16MuQpF7UCBXExVKxvMbLG"
       },
       "artists": [
         {
-          "name": "IDLEYES",
-          "url": "https://open.spotify.com/artist/1Zzx3Sl3sPUVtKW9iHCe1k"
-        }
-      ],
-      "duration_ms": 255627,
-      "name": "DERELICT",
-      "url": "https://open.spotify.com/track/4qRDcniLINPLyMl73lPQl1"
-    },
-    {
-      "added_at": "2025-05-30 10:50:11",
-      "album": {
-        "name": "Ser n\u00e5nting st\u00f6rre",
-        "url": "https://open.spotify.com/album/6THDv7PcSZMM46p7lAImdv"
-      },
-      "artists": [
-        {
-          "name": "Jeanette \u00c5kerlund",
-          "url": "https://open.spotify.com/artist/0DWMclpbqAwwZqNoIkJaqY"
-        }
-      ],
-      "duration_ms": 251590,
-      "name": "Ser n\u00e5nting st\u00f6rre",
-      "url": "https://open.spotify.com/track/3hVL9uxgsW0hAQbPwFdWno"
-    },
-    {
-      "added_at": "2025-05-30 10:50:11",
-      "album": {
-        "name": "We Are Rock'N'Roll",
-        "url": "https://open.spotify.com/album/1pHcuOnXs4wcH0iOyFv35u"
-      },
-      "artists": [
-        {
-          "name": "COBRA CULT",
-          "url": "https://open.spotify.com/artist/77IxDTDqG6nzVeemvWGpjG"
-        }
-      ],
-      "duration_ms": 225112,
-      "name": "We Are Rock'N'Roll",
-      "url": "https://open.spotify.com/track/7E7FjKtQua64m2VBwAxAiL"
-    },
-    {
-      "added_at": "2025-05-30 10:50:11",
-      "album": {
-        "name": "LUMINA",
-        "url": "https://open.spotify.com/album/6Ud4WOYmJ0ZrUbRBhQnz7w"
-      },
-      "artists": [
-        {
-          "name": "Isora",
-          "url": "https://open.spotify.com/artist/40EcSPTTFtco37f3Ys9kCH"
+          "name": "Martin Engelsen",
+          "url": "https://open.spotify.com/artist/0QSv32WoIkGvjPf0ARrJrm"
         },
         {
-          "name": "Hana Beshie",
-          "url": "https://open.spotify.com/artist/0gb8IJ7o9cjg8ufGaSYY1Y"
+          "name": "S\u00f8lvi Kobbeltvedt",
+          "url": "https://open.spotify.com/artist/7KKZQCRxoZg3LdNNVGOaRR"
         }
       ],
-      "duration_ms": 167538,
-      "name": "Rampa (Ramp It Up)",
-      "url": "https://open.spotify.com/track/5EGhHhWJF2l3aBeGyuLtmg"
+      "duration_ms": 205644,
+      "name": "\u00d8ygarden - Akustisk",
+      "url": "https://open.spotify.com/track/0scQ9f1IEU7HBf3V0HIahw"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Waiting for you",
-        "url": "https://open.spotify.com/album/32pgN3w87nxwnEhrUQoVBn"
+        "name": "ABUELA!",
+        "url": "https://open.spotify.com/album/4uRI7KAIJuWO3hdK9Rj7aS"
       },
       "artists": [
         {
-          "name": "Yeah Oh!",
-          "url": "https://open.spotify.com/artist/3aiKvxaLxWXN7uOaA4nxmp"
+          "name": "Jasmine Kara",
+          "url": "https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj"
         }
       ],
-      "duration_ms": 150540,
-      "name": "Waiting for you",
-      "url": "https://open.spotify.com/track/6y9INjYLAvk7WpacFJuN39"
+      "duration_ms": 154666,
+      "name": "ABUELA!",
+      "url": "https://open.spotify.com/track/57hxGL6nE0xmzymbWpilZW"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Vi ville se ett norrsken",
-        "url": "https://open.spotify.com/album/5wdjFLazua8d2fMpYUCYvp"
+        "name": "Ever Since",
+        "url": "https://open.spotify.com/album/3AoCuUbkNfu0KDRaI11gSZ"
       },
       "artists": [
         {
-          "name": "Dark Sven",
-          "url": "https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv"
+          "name": "SUNDOWN",
+          "url": "https://open.spotify.com/artist/2IbqCQzZK61hhDGusimGum"
+        }
+      ],
+      "duration_ms": 162687,
+      "name": "Ever Since",
+      "url": "https://open.spotify.com/track/6zJuwtJMkOzqpFSsAPP97c"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Estonian Love",
+        "url": "https://open.spotify.com/album/0w68oXCTKDkOPJdCmC2EG4"
+      },
+      "artists": [
+        {
+          "name": "Wild Women Of Wongo",
+          "url": "https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ"
+        }
+      ],
+      "duration_ms": 211255,
+      "name": "Estonian Love",
+      "url": "https://open.spotify.com/track/39D4Qx25nB90oAxA5qsPVm"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Vinnare",
+        "url": "https://open.spotify.com/album/1qIQdXihZpzeHowH6zmQWL"
+      },
+      "artists": [
+        {
+          "name": "Mazar",
+          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
+        }
+      ],
+      "duration_ms": 142439,
+      "name": "Vinnare",
+      "url": "https://open.spotify.com/track/0GjYIXrLhmaL6EURzCFLFz"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Bury The Misery",
+        "url": "https://open.spotify.com/album/21QJvsb07whtCgnQauLtmc"
+      },
+      "artists": [
+        {
+          "name": "Awaken The Fire",
+          "url": "https://open.spotify.com/artist/4k9YxZViR98Bqsi2QbXaAc"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Bury The Misery",
+      "url": "https://open.spotify.com/track/6N4SvCkFzUoCnD3BBwDn4f"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/0xLtuL3v4tUpFO5S6veipZ"
+      },
+      "artists": [
+        {
+          "name": "Remedies",
+          "url": "https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN"
+        }
+      ],
+      "duration_ms": 205829,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0RQvJXKEmaAQgEYkaXeEwu"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Kauan Aikaa Sitten",
+        "url": "https://open.spotify.com/album/4Q7W8ZhfuYWmzOyDWQcDuf"
+      },
+      "artists": [
+        {
+          "name": "Harjula",
+          "url": "https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp"
+        }
+      ],
+      "duration_ms": 185132,
+      "name": "Viek\u00e4\u00e4 Mut Kotiin",
+      "url": "https://open.spotify.com/track/6XUxSgiHUja8SNMwNiBJAy"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Rennen door de Tijd",
+        "url": "https://open.spotify.com/album/515PYQTLXP7yAimQpNsBby"
+      },
+      "artists": [
+        {
+          "name": "False Perspective",
+          "url": "https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Rennen door de Tijd",
+      "url": "https://open.spotify.com/track/6rWcWX6une6PWOSojYl58n"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Thresholds of the Unseen, Book II: The Unfolding",
+        "url": "https://open.spotify.com/album/2dvjXxI5MBb6z0YKWl4uTG"
+      },
+      "artists": [
+        {
+          "name": "S\u00c1wol",
+          "url": "https://open.spotify.com/artist/1FNB9k4jwdxHepnUSiUO5e"
+        }
+      ],
+      "duration_ms": 305587,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/4O1VzTMeulDA9vlrDDjLzG"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Ice cold beer and a country song",
+        "url": "https://open.spotify.com/album/1ymuXFy3TBWcEJC7JkudmC"
+      },
+      "artists": [
+        {
+          "name": "Hollow Mockingbirds",
+          "url": "https://open.spotify.com/artist/61jT92XIntO90AWgpbE8mG"
+        }
+      ],
+      "duration_ms": 177784,
+      "name": "Ice cold beer and a country song",
+      "url": "https://open.spotify.com/track/1M7qpl5cwv9ZxjJWawkhIR"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Blocked",
+        "url": "https://open.spotify.com/album/6QeQh9MhB0V7k1zvNrPKGU"
+      },
+      "artists": [
+        {
+          "name": "PLADZ",
+          "url": "https://open.spotify.com/artist/2G67H6efWlr7fRlpKm35kH"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Vago",
+      "url": "https://open.spotify.com/track/0WYK1RveRq7QjmIwkNHYqH"
+    },
+    {
+      "added_at": "2025-06-06 12:28:40",
+      "album": {
+        "name": "Mineral Blood",
+        "url": "https://open.spotify.com/album/5RvKw0b6g6d7I3a3mOYriE"
+      },
+      "artists": [
+        {
+          "name": "03SIDIAN",
+          "url": "https://open.spotify.com/artist/7JYkm44knsFaB5O8xwekoZ"
         },
         {
-          "name": "\u00c5ke Nyke",
-          "url": "https://open.spotify.com/artist/25YL9ZHgYeaqN87fAobuK7"
+          "name": "Save Your Atoll",
+          "url": "https://open.spotify.com/artist/7jvhKoceOAgpwzc2end1Us"
         }
       ],
-      "duration_ms": 230500,
-      "name": "Tr\u00e4lhavet",
-      "url": "https://open.spotify.com/track/6iKGWZYH3j9CWwGZWkWhaU"
+      "duration_ms": 350754,
+      "name": "Fluvial Surge - Save Your Atoll Remix",
+      "url": "https://open.spotify.com/track/5DiuBddlfybMKtL8AbmGaL"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Dance To The Rhythm",
-        "url": "https://open.spotify.com/album/42QC6WdHRJawpFWmobTtAs"
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/42LdbRkyZToU6x9VgmFNbM"
       },
       "artists": [
         {
-          "name": "Chris Ward",
-          "url": "https://open.spotify.com/artist/6IEciYFAtFyDFIghn29gTv"
+          "name": "ELECTRIC JAGUAR BABY",
+          "url": "https://open.spotify.com/artist/0DdLxDzU4qcyr6ImGOwZbH"
         },
         {
-          "name": "Trishauna",
-          "url": "https://open.spotify.com/artist/7zwmREaO4J0MzYXn5sKAvU"
+          "name": "Chris Babalis",
+          "url": "https://open.spotify.com/artist/65tDZiQ5dwmLCWjIUeU9Z0"
         }
       ],
-      "duration_ms": 181846,
-      "name": "Dance To The Rhythm",
-      "url": "https://open.spotify.com/track/2bEyquRDBJ9Z8e780q2eXk"
+      "duration_ms": 286760,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/1jmZx6qSToasSWCPo7ISzY"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "N\u00e5n s\u00e5n som du",
-        "url": "https://open.spotify.com/album/5hv5bMqwYjwjRHAYWnMbzQ"
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/1sHbIlq4JzKCTwlmTSNVZP"
       },
       "artists": [
         {
-          "name": "Magnus Almgren",
-          "url": "https://open.spotify.com/artist/3iZO3QjCSlfkvP7NufkqX2"
+          "name": "Kaplan Dayhill",
+          "url": "https://open.spotify.com/artist/5ZolRUt0vZTGkcVsEcWRxT"
         }
       ],
-      "duration_ms": 230000,
-      "name": "N\u00e5n s\u00e5n som du",
-      "url": "https://open.spotify.com/track/1OCEjLr548g1KIrRaXCXxf"
+      "duration_ms": 257704,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/4T7f9CPFQxTJes3P0bY3pP"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/1EzNiNmbrFm05KjhwBxVsn"
+        "name": "King of Diamonds",
+        "url": "https://open.spotify.com/album/4VViIVTnOwV5yOcjg0GIba"
       },
       "artists": [
         {
-          "name": "Occupation:Baby",
-          "url": "https://open.spotify.com/artist/64fWwXwteuqwLPnNw1q9a4"
+          "name": "Tinnitus",
+          "url": "https://open.spotify.com/artist/4Voc87RhqtojHzLR3LrNao"
         }
       ],
-      "duration_ms": 198690,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4UGbAqtwPXxpgBiNGozDQr"
+      "duration_ms": 309410,
+      "name": "King of Diamonds",
+      "url": "https://open.spotify.com/track/7KDs8pLzc23IT84GveQxj1"
     },
     {
-      "added_at": "2025-05-30 10:50:11",
+      "added_at": "2025-06-06 12:28:40",
       "album": {
-        "name": "Till dig",
-        "url": "https://open.spotify.com/album/62GcsjM2lUWsDsmLwBYXPf"
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/2YOJesx5bFvIpGh1pWMj46"
       },
       "artists": [
         {
-          "name": "Josefine Wassler",
-          "url": "https://open.spotify.com/artist/5FRDbDNwQ1p1GqXt9QOfUx"
+          "name": "Witchforce",
+          "url": "https://open.spotify.com/artist/6zJIw8RGeBC04nDtvArTCi"
         }
       ],
-      "duration_ms": 162986,
-      "name": "Underbart \u00e4r kort",
-      "url": "https://open.spotify.com/track/2zi8F6xT6AYbllVgAsQ56Z"
-    },
-    {
-      "added_at": "2025-05-30 10:50:11",
-      "album": {
-        "name": "L\u00e5t det va s\u00e5 h\u00e4r i himmelen",
-        "url": "https://open.spotify.com/album/1UEYrlzfaKPw28dQ59FQB5"
-      },
-      "artists": [
-        {
-          "name": "Markus Ernerot",
-          "url": "https://open.spotify.com/artist/0hSSczUq3cqlkWJuqQx2bX"
-        }
-      ],
-      "duration_ms": 253252,
-      "name": "L\u00e5t det va s\u00e5 h\u00e4r i himmelen",
-      "url": "https://open.spotify.com/track/6fHzqhPbyX2aaS2cyXJ8U4"
-    },
-    {
-      "added_at": "2025-05-30 10:50:11",
-      "album": {
-        "name": "Happy end",
-        "url": "https://open.spotify.com/album/3R4GHZoom4zyV6Njzb7SyH"
-      },
-      "artists": [
-        {
-          "name": "Flow Up!",
-          "url": "https://open.spotify.com/artist/0xtJPlMJMYlb9IoPdhqrky"
-        }
-      ],
-      "duration_ms": 173662,
-      "name": "Happy end",
-      "url": "https://open.spotify.com/track/0a0VYQkNOyqF9TM6Bo1nzM"
+      "duration_ms": 286800,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/2NnI6KlYrIAWVjlDK0UcR8"
     }
   ],
   "unique_name": "Independent Music Friday",

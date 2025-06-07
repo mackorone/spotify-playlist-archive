@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 9582,
+  "num_followers": 9650,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACOnLI83cCWfcpbzTcvXgCS",
+  "snapshot_id": "aEDeAAAAAAC70YlocYDhPt+DYs1g4PT3",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 247997,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinderella Rock (Studio Cast Soundtrack)",
-        "url": "https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 256216,
-      "name": "I Can't Wish Much More",
-      "url": "https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
         "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 265596,
       "name": "What's The Buzz? / Strange Things Mystifying",
       "url": "https://open.spotify.com/track/606epVj3NNHfx0DI7Rsu3u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinderella Rock (Studio Cast Soundtrack)",
+        "url": "https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 256216,
+      "name": "I Can't Wish Much More",
+      "url": "https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31"
     },
     {
       "added_at": null,

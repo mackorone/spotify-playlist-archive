@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/1FiQzvs029sEXn288o4Fho"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/0fZdRKVQJnaH9lnmsSCZ81"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1Lyz1X6RH1AeazHdcwId6n"
       },
@@ -3594,6 +3612,24 @@
       "duration_ms": 125867,
       "name": "Coyote, You're My Star",
       "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
+    },
+    {
+      "album": {
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/1UQXwn8i2zfy4e0KlbOq5g"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4J96RsI1RWyl3KRTtJ9GLC"
     },
     {
       "album": {
@@ -8733,6 +8769,24 @@
     },
     {
       "album": {
+        "name": "Brighter The Days",
+        "url": "https://open.spotify.com/album/1YFcoVpjlvzqfszuNvQuZg"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261124,
+      "name": "I've Been Waiting",
+      "url": "https://open.spotify.com/track/1qG3hqpWIVmwr0eNjPrL3M"
+    },
+    {
+      "album": {
         "name": "I'VE FOUND MY HOME IN YOU",
         "url": "https://open.spotify.com/album/0Z5PNnjCNMic5MaAJDIkSx"
       },
@@ -10428,6 +10482,24 @@
       "duration_ms": 227480,
       "name": "Like I Feel (feat. Mereba)",
       "url": "https://open.spotify.com/track/64V55m8zSkracnZ6mYpjK0"
+    },
+    {
+      "album": {
+        "name": "Lil' Obsession",
+        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181921,
+      "name": "Lil' Obsession",
+      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
     },
     {
       "album": {
@@ -14719,6 +14791,24 @@
     },
     {
       "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/3475UHq3RWwHwHL0rDUQ9n"
+      },
+      "artists": [
+        {
+          "name": "Jared Grant",
+          "url": "https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/3PKlSn0C9WtcZRegzQ3a2z"
+    },
+    {
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/5ysdZkHkxPhFFquCkvX9HD"
       },
@@ -16919,6 +17009,28 @@
     },
     {
       "album": {
+        "name": "Archives Mixtape",
+        "url": "https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157374,
+      "name": "Somewhere You Can Fly",
+      "url": "https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl"
+    },
+    {
+      "album": {
         "name": "Song 2",
         "url": "https://open.spotify.com/album/0PXMA7mV36pCay4pr8hGBG"
       },
@@ -18870,7 +18982,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 181146,
       "name": "The Way",
       "url": "https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd"
@@ -21034,6 +21146,32 @@
       "duration_ms": 146293,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2Ex6PBUZ3fsF6slCIiqIdp"
+    },
+    {
+      "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/2zmt0QN4Q7F1h5VCqmyEJl"
+      },
+      "artists": [
+        {
+          "name": "EARTH",
+          "url": "https://open.spotify.com/artist/2tM7jmyjU1iGI8dwc2dYz5"
+        },
+        {
+          "name": "Matthew Goodman",
+          "url": "https://open.spotify.com/artist/3G7E7yPTDYS13ZBnw1YG36"
+        },
+        {
+          "name": "Leon King",
+          "url": "https://open.spotify.com/artist/5F0WhfIf9hNizpdTTV8Y0o"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156272,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/1QHvJRk5Y60VZRltRo0BQR"
     },
     {
       "album": {

@@ -5835,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Sweet Lady",
+        "url": "https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179022,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC"
+    },
+    {
+      "album": {
         "name": "Tails I Lose",
         "url": "https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b"
       },

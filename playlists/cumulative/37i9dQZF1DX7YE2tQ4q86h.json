@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Miley is the main pop girl emergency \ud83c\udd98 \n",
+  "description": "MARINA is the main pop girl emergency \ud83c\udd98 \n",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 191519,
       "name": "15 Minutes",
       "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 193253,
       "name": "Baby It\u2019s Both (Tick-Tack English Ver.) (Feat. Ava Max)",
       "url": "https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 154029,
       "name": "Boys",
       "url": "https://open.spotify.com/track/0BBLwKdU4vn0HDSi1C8xDZ"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 208114,
       "name": "CUPID'S GIRL",
       "url": "https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE"
@@ -6087,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0X25tZlCCHAofXorBcuty3"
+      },
+      "artists": [
+        {
+          "name": "Honey.",
+          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218970,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE"
+    },
+    {
+      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -7206,6 +7224,24 @@
       "duration_ms": 151776,
       "name": "Filter",
       "url": "https://open.spotify.com/track/104KjF0t9EnlFOoxGLxiSQ"
+    },
+    {
+      "album": {
+        "name": "PRINCESS OF POWER",
+        "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190567,
+      "name": "FINAL BOSS",
+      "url": "https://open.spotify.com/track/4u3Q32lyBy71GN14z952al"
     },
     {
       "album": {
@@ -12360,7 +12396,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 179631,
       "name": "Kant",
       "url": "https://open.spotify.com/track/3RHRXSKaQ6oBS29iiDI3as"
@@ -13971,6 +14007,24 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177543,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM"
+    },
+    {
+      "album": {
         "name": "LOVE ME / HATE ME",
         "url": "https://open.spotify.com/album/420k8UjboKKbxGSyB9Nt8l"
       },
@@ -13986,6 +14040,28 @@
       "duration_ms": 157265,
       "name": "LOVE ME / HATE ME",
       "url": "https://open.spotify.com/track/5RMRJRGzmUdlB7MQBzyTHi"
+    },
+    {
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205611,
+      "name": "Love Me Alive",
+      "url": "https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC"
     },
     {
       "album": {
@@ -14594,6 +14670,24 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "album": {
@@ -15994,6 +16088,24 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
     },
     {
       "album": {
@@ -18380,7 +18492,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 253862,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD"
@@ -19718,6 +19830,24 @@
       "duration_ms": 204370,
       "name": "skin deep",
       "url": "https://open.spotify.com/track/7jPd3Glmzd6qZhRus2aTPg"
+    },
+    {
+      "album": {
+        "name": "Slap In The Face",
+        "url": "https://open.spotify.com/album/1Pcu7HRh4QG9boEnM6GrnO"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192670,
+      "name": "Slap In The Face",
+      "url": "https://open.spotify.com/track/6FPr15g2fSz8ZJE6lbi2iQ"
     },
     {
       "album": {
@@ -23086,7 +23216,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 135465,
       "name": "u+me",
       "url": "https://open.spotify.com/track/4iGyFHws2ol6owstTPNe0x"
@@ -23598,7 +23728,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 217582,
       "name": "Walk of Fame (feat. Brittany Howard) - Edit",
       "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
@@ -23804,6 +23934,24 @@
       "duration_ms": 185066,
       "name": "We Will Rave",
       "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
+    },
+    {
+      "album": {
+        "name": "we're just girls!",
+        "url": "https://open.spotify.com/album/2GfRLNFKG7szM73oxgjNX3"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108576,
+      "name": "we're just girls!",
+      "url": "https://open.spotify.com/track/6yOWVXSjilnsVvQpNjH2rw"
     },
     {
       "album": {

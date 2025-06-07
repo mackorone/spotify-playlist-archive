@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-714 songs - 1 day 12 hr 5 min
+715 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 | 2023-05-25 | 2023-08-10 |
 | [uWu BURST](https://open.spotify.com/track/4v4P37b9O9MDUG083zK5Il) | [FLAYA PLAYA](https://open.spotify.com/artist/2rrl5KoXZgF1QJOnQPdgao), [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [Nomeli](https://open.spotify.com/artist/1BUS9imdzOiho5SfNrqjft) | [uWu BURST](https://open.spotify.com/album/3LKaUZRta8ouY5FqWFEhli) | 1:53 | 2023-05-02 | 2023-12-14 |
 | [VBM](https://open.spotify.com/track/13pYqH006kvuspL8ugXoMO) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [VBM](https://open.spotify.com/album/2SpSpaeK47KsZg8R5QuARt) | 2:15 | 2023-12-13 | 2024-07-19 |
+| [Vem Lenta!](https://open.spotify.com/track/5ivlqPm3UjpaGu1eBl2tAT) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Eluvo](https://open.spotify.com/artist/5d8FB3RYehI8dzHDX9LIQd), [KPHK](https://open.spotify.com/artist/3xJiemGM1VxCDi2QhGU08l) | [Vem Lenta!](https://open.spotify.com/album/7GSqL5FH32qRTI101iUuX4) | 1:14 | 2025-06-06 |  |
 | [Vibe](https://open.spotify.com/track/25Pk28XXDZL3MFwQ4NhkXy) | [Spicyverse](https://open.spotify.com/artist/1z7TqqEGp09sWiGRpsVfyD) | [Vibe](https://open.spotify.com/album/14lPbRLedj0B2d2zNRPEUq) | 2:59 | 2024-04-23 | 2024-11-20 |
 | [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 | 2024-04-25 | 2024-11-20 |
 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 | 2024-07-19 |

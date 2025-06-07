@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Neffa",
-  "num_followers": 46462,
+  "num_followers": 46470,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "URLAMI",
+        "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
+      },
+      "artists": [
+        {
+          "name": "genn butch",
+          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "URLAMI",
+      "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -851,6 +871,22 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "Il Tempo Vola 2002-2020",
+        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bugiardo",
+      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -883,58 +919,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Il Tempo Vola 2002-2020",
-        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bugiardo",
-      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "URLAMI",
-        "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
-      },
-      "artists": [
-        {
-          "name": "genn butch",
-          "url": "https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "URLAMI",
-      "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 224000,
       "name": "Notte Blu",
       "url": "https://open.spotify.com/track/2JiiQIk1Pr0k6DJdxuySB9"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "Sangue Siciliano",
+        "url": "https://open.spotify.com/album/71Sf16yPKxwSwHK3udt6nC"
+      },
+      "artists": [
+        {
+          "name": "L'Elfo",
+          "url": "https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ"
+        },
+        {
+          "name": "Kanaglia",
+          "url": "https://open.spotify.com/artist/4QtwCQauapNxthfR19PZDf"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "Sangue Siciliano",
+      "url": "https://open.spotify.com/track/4G8JGa4M2EP4EtgfsGQK0L"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "Sangue Siciliano",
-        "url": "https://open.spotify.com/album/71Sf16yPKxwSwHK3udt6nC"
-      },
-      "artists": [
-        {
-          "name": "L'Elfo",
-          "url": "https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ"
-        },
-        {
-          "name": "Kanaglia",
-          "url": "https://open.spotify.com/artist/4QtwCQauapNxthfR19PZDf"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "Sangue Siciliano",
-      "url": "https://open.spotify.com/track/4G8JGa4M2EP4EtgfsGQK0L"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -1731,26 +1731,22 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "SCATTO RUBATO",
-        "url": "https://open.spotify.com/album/75usAyt5XLtVDkVJBG4aTW"
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
         },
         {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        },
-        {
-          "name": "Macaboro",
-          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 118320,
-      "name": "SCATTO RUBATO",
-      "url": "https://open.spotify.com/track/0pQ1Kd5yu4sjSNQQ3oVHQZ"
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -1791,22 +1787,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+        "name": "SCATTO RUBATO",
+        "url": "https://open.spotify.com/album/75usAyt5XLtVDkVJBG4aTW"
       },
       "artists": [
         {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
         },
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        },
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
         }
       ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
+      "duration_ms": 118320,
+      "name": "SCATTO RUBATO",
+      "url": "https://open.spotify.com/track/0pQ1Kd5yu4sjSNQQ3oVHQZ"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "Est Tape Vol. 1",
+        "url": "https://open.spotify.com/album/5irsF1bIbQoCcg0kiI3w8n"
+      },
+      "artists": [
+        {
+          "name": "Vlad",
+          "url": "https://open.spotify.com/artist/0EioziECmDvxu1JB2ouajB"
+        },
+        {
+          "name": "Rough",
+          "url": "https://open.spotify.com/artist/1dOu1a2ZHjX3QoynWAqq4W"
+        }
+      ],
+      "duration_ms": 175462,
+      "name": "SECONDA GENERAZIONE",
+      "url": "https://open.spotify.com/track/4IaeetR0nHfiXj6YKRXO7U"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "Magic boulevard",
         "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
@@ -2155,26 +2175,6 @@
       "duration_ms": 172000,
       "name": "TANTI",
       "url": "https://open.spotify.com/track/6wiWJz2dTg8vLWAwdc7eri"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "Est Tape Vol. 1",
-        "url": "https://open.spotify.com/album/5irsF1bIbQoCcg0kiI3w8n"
-      },
-      "artists": [
-        {
-          "name": "Vlad",
-          "url": "https://open.spotify.com/artist/0EioziECmDvxu1JB2ouajB"
-        },
-        {
-          "name": "Rough",
-          "url": "https://open.spotify.com/artist/1dOu1a2ZHjX3QoynWAqq4W"
-        }
-      ],
-      "duration_ms": 175462,
-      "name": "SECONDA GENERAZIONE",
-      "url": "https://open.spotify.com/track/4IaeetR0nHfiXj6YKRXO7U"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Manchi solo tu",
-        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Gruff",
-          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Manchi solo tu",
-      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Manchi solo tu",
+        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Gruff",
+          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Manchi solo tu",
+      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "Disco Inverno",
+        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Aeroplani",
+      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/70ml3DIL4N3NvNq79QjaGW"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 199090,
       "name": "SANT'ERASMO SANTA MONICA (feat. Mick Jenkins & Louis Dee)",
       "url": "https://open.spotify.com/track/5ixvbCxdjERngKocffDrVi"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "Disco Inverno",
-        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
-      },
-      "artists": [
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Aeroplani",
-      "url": "https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2743,26 +2743,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Biancoscuro",
-        "url": "https://open.spotify.com/album/1os2yJdv9hnhUnLtKBvNDz"
-      },
-      "artists": [
-        {
-          "name": "Doro Gjat",
-          "url": "https://open.spotify.com/artist/49uTYcWJTqaPYKGUYB3Qbb"
-        },
-        {
-          "name": "Dee Jay Park",
-          "url": "https://open.spotify.com/artist/3dJIHjJFoNkWyPUfdqOpel"
-        }
-      ],
-      "duration_ms": 180754,
-      "name": "Sottoeffetto con Tormento",
-      "url": "https://open.spotify.com/track/41dRks6URKuFwJliJhBjZS"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Gotico Romanzo",
         "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
       },
@@ -2779,6 +2759,26 @@
       "duration_ms": 131054,
       "name": "Calici di gemme",
       "url": "https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Biancoscuro",
+        "url": "https://open.spotify.com/album/1os2yJdv9hnhUnLtKBvNDz"
+      },
+      "artists": [
+        {
+          "name": "Doro Gjat",
+          "url": "https://open.spotify.com/artist/49uTYcWJTqaPYKGUYB3Qbb"
+        },
+        {
+          "name": "Dee Jay Park",
+          "url": "https://open.spotify.com/artist/3dJIHjJFoNkWyPUfdqOpel"
+        }
+      ],
+      "duration_ms": 180754,
+      "name": "Sottoeffetto con Tormento",
+      "url": "https://open.spotify.com/track/41dRks6URKuFwJliJhBjZS"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2819,6 +2819,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "Rock On",
         "url": "https://open.spotify.com/album/3ED3F1GWHUBZnaYdMtBKIa"
       },
@@ -2847,38 +2867,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+        "name": "READY",
+        "url": "https://open.spotify.com/album/1Hv2YF8kUe3Qwr9QwqsO6Y"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 264689,
-      "name": "Note killer",
-      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+          "name": "Yamba",
+          "url": "https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T"
         },
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         }
       ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+      "duration_ms": 193636,
+      "name": "Streets is Watching",
+      "url": "https://open.spotify.com/track/45GsVrfcbwEx7y27U8j8Fu"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2907,26 +2915,18 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/1Hv2YF8kUe3Qwr9QwqsO6Y"
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
       "artists": [
         {
-          "name": "Yamba",
-          "url": "https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 193636,
-      "name": "Streets is Watching",
-      "url": "https://open.spotify.com/track/45GsVrfcbwEx7y27U8j8Fu"
+      "duration_ms": 264689,
+      "name": "Note killer",
+      "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -3015,22 +3015,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "MATTONE #3",
-        "url": "https://open.spotify.com/album/10LgmZ8cSYnxeQ6QuYygG1"
-      },
-      "artists": [
-        {
-          "name": "Muretto Milano",
-          "url": "https://open.spotify.com/artist/6GsJ2SUNkmYRp3JJ4y1Z9V"
-        }
-      ],
-      "duration_ms": 239409,
-      "name": "MATTONE #3",
-      "url": "https://open.spotify.com/track/3BuFCBd5UsQryhTMXr6Row"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Malastrada",
         "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
       },
@@ -3043,6 +3027,22 @@
       "duration_ms": 191053,
       "name": "Malastrada",
       "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "MATTONE #3",
+        "url": "https://open.spotify.com/album/10LgmZ8cSYnxeQ6QuYygG1"
+      },
+      "artists": [
+        {
+          "name": "Muretto Milano",
+          "url": "https://open.spotify.com/artist/6GsJ2SUNkmYRp3JJ4y1Z9V"
+        }
+      ],
+      "duration_ms": 239409,
+      "name": "MATTONE #3",
+      "url": "https://open.spotify.com/track/3BuFCBd5UsQryhTMXr6Row"
     },
     {
       "added_at": "2025-05-29 22:01:18",

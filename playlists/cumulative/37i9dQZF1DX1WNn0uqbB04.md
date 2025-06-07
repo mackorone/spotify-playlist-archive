@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-108 songs - 6 hr 48 min
+109 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Al Vacío](https://open.spotify.com/track/6pop1Zy75gRGx4946x3ZGY) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Al Vacío](https://open.spotify.com/album/28xoCj2zTxQJnQQg7lBqHY) | 3:34 | 2023-08-04 | 2024-06-13 |
 | [Amor de Madrugada](https://open.spotify.com/track/1VeQNKf4gVjSDwACQnIqhD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Amor de Madrugada](https://open.spotify.com/album/65jP2QhvAUT6JRlQxgH5GW) | 2:11 | 2024-11-04 |  |
 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 | 2023-08-04 |  |
-| [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 | 2023-11-24 |  |
+| [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 | 2023-11-24 | 2025-06-07 |
 | [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 | 2024-04-19 |
 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 | 2023-08-04 |  |
 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 | 2023-11-24 |  |
@@ -36,6 +36,7 @@
 | [Funky Tango \- Remasterizado 2023](https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG), [Juan Salinas](https://open.spotify.com/artist/3LkShlQRHHeTS7Y6iyOeX8) | [Funky Tango \(Remasterizado 2023\)](https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c) | 7:58 | 2023-08-04 |  |
 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 | 2023-08-04 |  |
 | [Hotel Victoria \- original](https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0) | [San Telmo Lounge](https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4) | [Madrugada En Backcelonia](https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY) | 3:22 | 2023-08-04 |  |
+| [Intentos del abrigo](https://open.spotify.com/track/1aqFFIRrzynC0F418qgF1D) | [Lakes](https://open.spotify.com/artist/4XkqhcDENtW6pqFQmYG47L) | [Intentos del abrigo](https://open.spotify.com/album/10GbbqcnA4vFqO6hpjTcAM) | 3:42 | 2025-06-06 |  |
 | [Kirón Tango](https://open.spotify.com/track/7IHzhCcYunBzdLXKKawyrt) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Sudestada Tango Lounge 2](https://open.spotify.com/album/3iNJRIotoqncIRI0fwY2pv) | 4:55 | 2023-08-04 | 2024-03-25 |
 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 | 2023-08-04 |  |
 | [La Cumparsita](https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7) | [bulevard tango club](https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5) | [Tango On The Dance Floor](https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94) | 3:26 | 2023-08-04 |  |

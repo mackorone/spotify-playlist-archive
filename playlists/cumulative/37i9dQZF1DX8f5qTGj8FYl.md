@@ -4,7 +4,7 @@
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-273 songs - 18 hr 49 min
+274 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Super Funk](https://open.spotify.com/track/0JWoDGtxgYj1KYBm6fJy77) | [Vern Blair Debate](https://open.spotify.com/artist/4QzD5PsnM0mBTIwJ9ynhTG) | [Texas Funk](https://open.spotify.com/album/3nruGhQNT3tOVyuC3oFjvH) | 3:14 | 2020-11-13 |  |
 | [Tej](https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD) | [The So Ons](https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D) | [Tej b/w Short Shrift](https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu) | 5:28 | 2020-11-13 |  |
 | [Test Drive \(Instrumental\)](https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 2:57 | 2020-11-13 | 2024-04-19 |
-| [Test Drive \- Instrumental](https://open.spotify.com/track/6egcs8AHSL7oPfq5TZ8w6n) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music\. The Job of Real Estate.](https://open.spotify.com/album/17OizIciohmcOZbMyBF2XV) | 2:57 | 2020-11-13 |  |
+| [Test Drive \- Instrumental](https://open.spotify.com/track/6egcs8AHSL7oPfq5TZ8w6n) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music\. The Job of Real Estate.](https://open.spotify.com/album/17OizIciohmcOZbMyBF2XV) | 2:57 | 2020-11-13 | 2025-06-07 |
 | [Tha Boogee](https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze of Sounds](https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6) | 7:08 | 2020-11-13 |  |
 | [Tha Boogee](https://open.spotify.com/track/4eh6JnrqfUX7mg335YvAIT) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze Of Sounds](https://open.spotify.com/album/4BZG7akPQogYTeomJQ363I) | 7:08 | 2023-08-04 | 2024-04-19 |
 | [Thankful](https://open.spotify.com/track/70E9nuuyPTvNPkfKafHtAD) | [Pablo Ojeda](https://open.spotify.com/artist/0V62WYCDy3mT7xUsCYJk9W) | [Thankful](https://open.spotify.com/album/402bUU8HIw8M3mK8RZftqi) | 3:42 | 2021-12-17 |  |
@@ -264,6 +264,7 @@
 | [Under Krameria](https://open.spotify.com/track/4xnhEYjnjGBMQIMk3Kq4u5) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Under Krameria](https://open.spotify.com/album/73NizEl5Omu4WrbBth8InD) | 3:54 | 2020-11-13 |  |
 | [Under Krameria](https://open.spotify.com/track/6yXui7U2I3116xZB7hfGQR) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Under Krameria](https://open.spotify.com/album/3we9q6CeQRFtSGLVHbddw9) | 3:54 | 2023-08-04 | 2024-04-19 |
 | [Under Krameria](https://open.spotify.com/track/2pqLCGH433kpQPUXZycwgS) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Under Krameria](https://open.spotify.com/album/1GXjajA2rbumbgKQBSAUkI) | 3:54 | 2023-08-04 | 2023-11-09 |
+| [Valk](https://open.spotify.com/track/1luuVnbf5YOFdXXELkWM6j) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Valk](https://open.spotify.com/album/4i6qtifueainK5xqaiZAPM) | 2:49 | 2025-06-06 |  |
 | [Village Life](https://open.spotify.com/track/0QWgR4xiWCzEWE2pXMdXEd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [2017](https://open.spotify.com/album/69SrXrzMk4yilsHSUp0qqI) | 4:39 | 2020-11-13 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Room](https://open.spotify.com/track/2BiCZnAgLZ70mQvSCDReH3) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [War Room](https://open.spotify.com/album/0ou3fGmWHOUMMomjdGeucP) | 4:31 | 2020-11-13 | 2022-07-25 |

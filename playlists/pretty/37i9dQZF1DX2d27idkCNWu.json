@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259374,
+  "num_followers": 259383,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "I Don't Care (Acoustic)",
         "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 238220,
       "name": "I Don't Care - Acoustic",
       "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -636,22 +636,6 @@
       "added_at": "2025-03-28 04:59:26",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
       "artists": [
@@ -667,6 +651,22 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Price Tag",
-        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 218528,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Price Tag",
+        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
@@ -1035,18 +1015,22 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Com Calor, Lary (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
       "artists": [
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 151542,
-      "name": "Um Milh\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1063,6 +1047,22 @@
       "duration_ms": 149451,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Com Calor, Lary (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 151542,
+      "name": "Um Milh\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Daisies (Acoustic)",
-        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Daisies - Acoustic",
-      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Daisies (Acoustic)",
+        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Daisies - Acoustic",
+      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
     },
     {
       "added_at": "2025-03-28 04:59:26",

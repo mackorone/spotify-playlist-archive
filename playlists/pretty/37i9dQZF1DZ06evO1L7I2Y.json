@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3333,
+  "num_followers": 3337,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACTvQyPDOg3ZhQV2aSIN1V4",
+  "snapshot_id": "aEDeAAAAAAB6kA8zg8cGaHFduNtQtsRi",
   "tracks": [
     {
       "added_at": null,
@@ -344,13 +344,13 @@
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 192676,
-      "name": "Despedidas",
-      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/0rgd774qnpXd6Gurk0dMoT"
     },
     {
       "added_at": null,
@@ -424,13 +424,13 @@
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 217263,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/0rgd774qnpXd6Gurk0dMoT"
+      "duration_ms": 192676,
+      "name": "Despedidas",
+      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
-      },
-      "artists": [
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40\u02da.40",
         "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 159455,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem que t\u00e1 vindo no porte?",
-        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 150711,
-      "name": "Quem que t\u00e1 vindo no porte?",
-      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
         "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
       },
@@ -927,30 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+        "name": "Quem que t\u00e1 vindo no porte?",
+        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
       },
       "artists": [
         {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Xandy MC",
-          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
-        },
-        {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 195447,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
+      "duration_ms": 150711,
+      "name": "Quem que t\u00e1 vindo no porte?",
+      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
     },
     {
       "added_at": null,
@@ -987,6 +959,34 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Xandy MC",
+          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 195447,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
     },
     {
       "added_at": null,

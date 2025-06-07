@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 39 min
+78 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Esta Noche](https://open.spotify.com/track/5oKreKhXCnZo8sUNfUUf7v) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Esta Noche](https://open.spotify.com/album/6b6A8FyoZIFCDwfc644b8K) | 2:35 | 2024-08-08 | 2024-08-22 |
 | [Estamos aquí](https://open.spotify.com/track/3NOjigYhB8fkuqK5570wsN) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Top Regional Mexicano](https://open.spotify.com/album/1c21iJdesNfqCJsXkztpyF) | 1:00 | 2023-11-10 | 2024-04-14 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2023-11-10 |  |
-| [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 | 2023-11-10 |  |
+| [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 | 2023-11-10 | 2025-06-07 |
 | [Florecita Rockera](https://open.spotify.com/track/7i59viEVeGVJfyYS59V7oG) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 2:44 | 2023-11-10 |  |
 | [FLOTA](https://open.spotify.com/track/2cgeaGlJpUl1C37OHb28XW) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:43 | 2023-11-10 |  |
 | [Fondo de Bikini](https://open.spotify.com/track/0TJpnfkl1YrpbUUWtEyKAt) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Fondo de Bikini](https://open.spotify.com/album/6oLPf50hLvj6jJCgUQ6xuA) | 3:04 | 2023-11-10 |  |
@@ -73,6 +73,7 @@
 | [Savana](https://open.spotify.com/track/1W7DaHbDQXBReaBCFylleA) | [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Una Fresa](https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs) | 2:48 | 2024-02-16 | 2024-10-19 |
 | [Savana](https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Atl Garza](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Savana](https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo) | 2:48 | 2023-11-10 |  |
 | [Scirocco](https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 3:31 | 2024-04-14 |  |
+| [teodiotequiero](https://open.spotify.com/track/5B1HE5AGQ2xHIyGPYgiZMO) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [teodiotequiero](https://open.spotify.com/album/4SZ9YcxGI6u8asjc3kmtRs) | 3:15 | 2025-06-07 |  |
 | [Todavía Te Extraño \(By BERSHKA MUSIC\)](https://open.spotify.com/track/2gd0IVQFFKq9YnkoMugBmx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todavía Te Extraño \(By BERSHKA MUSIC\)](https://open.spotify.com/album/7C109xgDDWe0k1wiVCdVp3) | 2:52 | 2025-02-09 | 2025-06-04 |
 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 | 2023-11-10 |  |
 | [Todo Pasa](https://open.spotify.com/track/5dysG1GlvAU2GndJU7O9Wb) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Gabriel Bitrán](https://open.spotify.com/artist/0cLnWomMNr0IlMpeWHwfP3) | [Todo Pasa](https://open.spotify.com/album/0JTwFw2yB7anulkQWSVmO3) | 2:59 | 2023-11-10 | 2023-12-14 |

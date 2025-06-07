@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,314 songs - 2 day 19 hr 47 min
+1,316 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [21st Century Hobby](https://open.spotify.com/track/4RMGlgCIVjvnBYUGRsSe82) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [21st Century Hobby](https://open.spotify.com/album/62nfKZNeYExKqSD87tWH8D) | 3:59 | 2021-06-12 | 2021-06-19 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-02-27 | 2021-05-15 |
 | [25](https://open.spotify.com/track/1osKpP5b18Xi1VmjXyF7Ig) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [Just Existing](https://open.spotify.com/album/0HguTMRMvOvE7eSxM24tiC) | 2:42 | 2021-10-09 | 2022-02-05 |
-| [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 | 2023-11-17 |  |
+| [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 | 2023-11-17 | 2025-06-07 |
 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 | 2024-01-12 | 2024-04-19 |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2020-10-29\* | 2021-02-20 |
 | [2b happy](https://open.spotify.com/track/0RXWN2VmORaPRzklOjz3B9) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [2b happy](https://open.spotify.com/album/2QHx8NdsnaTnczm9F51TQh) | 1:40 | 2020-10-29\* | 2020-11-03 |
@@ -321,6 +321,7 @@
 | [Dream House](https://open.spotify.com/track/60lvIOvMGnA99LuSofbcyw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 3:04 | 2021-05-03 | 2021-05-22 |
 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 | 2021-01-09 | 2021-04-24 |
 | [Drinking on My Own](https://open.spotify.com/track/6HFyjxSYCJqIOfFPhUn9zo) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Drinking on My Own](https://open.spotify.com/album/52XwdX4PxxlyYlyYNEreir) | 3:34 | 2021-01-09 | 2021-03-14 |
+| [drive](https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob) | [jessica\-ann](https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s) | [drive](https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX) | 2:58 | 2025-06-06 |  |
 | [Drive](https://open.spotify.com/track/6vU3EwC4Cg9nBIhzMD6dqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Running on Everything](https://open.spotify.com/artist/6m4N2GZCDQ1iqF3sM0t3Ei) | [Drive](https://open.spotify.com/album/3VtxlF7lJUezAkW5UNUsN9) | 2:39 | 2021-06-05 | 2021-07-04 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-01-09 | 2021-02-20 |
 | [Droves](https://open.spotify.com/track/0YppvOQE8xelLmxIKfbh0W) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/7bEt2pGjAlfQ12Bl9rSi7T) | 3:50 | 2023-02-24 | 2023-03-18 |
@@ -623,7 +624,7 @@
 | [Instabeat](https://open.spotify.com/track/4vH7mM5XBFyKXwDFbryT3r) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Instabeat](https://open.spotify.com/album/3kIQGJjwncGJkq2z09vN24) | 3:37 | 2022-04-08 | 2022-08-27 |
 | [Internet Stalking \(feat\. Adam Melchor\)](https://open.spotify.com/track/4BAkJk9QFtYWycVXRvhmhk) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Internet Stalking \(feat\. Adam Melchor\)](https://open.spotify.com/album/1mOoH3VAEdd0SOCpYdYw1c) | 2:30 | 2021-02-06 | 2021-03-27 |
 | [Into You](https://open.spotify.com/track/3mFiltbUQfGVJdNcOVlT2U) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Into You](https://open.spotify.com/album/1FWYeLDbM2L5ZoM9X1GS9M) | 3:01 | 2021-07-04 | 2021-09-11 |
-| [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-11-17 |  |
+| [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-11-17 | 2025-06-07 |
 | [Invisible Fence](https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:35 | 2021-08-14 | 2021-10-02 |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-10-29\* | 2020-12-12 |
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2021-02-27 | 2021-10-02 |
@@ -755,6 +756,7 @@
 | [Middle Man](https://open.spotify.com/track/2if8XzDccK6q3e6NBCxj1o) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Middle Man](https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD) | 2:58 | 2022-01-28 | 2022-02-19 |
 | [MIDDLE OF THE END \(HOW DOES IT FEEL\)](https://open.spotify.com/track/6KoW0yc1co2a3GLuaM4scJ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIDDLE OF THE END \(HOW DOES IT FEEL\)](https://open.spotify.com/album/3Lv4BnhLOStQDvqiQrs5DS) | 2:49 | 2021-04-24 | 2021-06-12 |
 | [Milk](https://open.spotify.com/track/1NBRpCH5bimvOtHJWiESAz) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Milk](https://open.spotify.com/album/3z9Xw6ileT4lHlb4AXtCcI) | 3:13 | 2023-10-06 | 2024-03-16 |
+| [Milk and Sugar](https://open.spotify.com/track/5iPCywl5F6YWIv9Hw0Ep0H) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Milk and Sugar](https://open.spotify.com/album/6rPasl9LpIQDyg802w4c8A) | 2:29 | 2025-06-06 |  |
 | [Million Dollar Bed](https://open.spotify.com/track/5eD6hEsUNUZuiLIIQPR7Im) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Losers Weepers](https://open.spotify.com/album/4cPcczzPqetNpbCCDT1zkb) | 3:23 | 2021-04-17 | 2021-05-22 |
 | [mini fridge](https://open.spotify.com/track/7ruLGK8sA4RS5x1Moayj66) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [mini fridge](https://open.spotify.com/album/0edkRml3yUMWIMQC9mNfQM) | 3:13 | 2021-08-14 | 2021-09-11 |
 | [miss sick world](https://open.spotify.com/track/0MvBFQUCiKRG1XUSsSeA3V) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [MISS SICK WORLD](https://open.spotify.com/album/2vyaeH9ozMPm8wGDAHq4yf) | 3:15 | 2021-10-09 | 2022-02-05 |

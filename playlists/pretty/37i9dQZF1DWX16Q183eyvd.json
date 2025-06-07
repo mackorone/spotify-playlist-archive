@@ -1,13 +1,29 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 101715,
+  "num_followers": 101817,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aC/y2AAAAACcsmUOscrks17o/QnSnZvN",
+  "snapshot_id": "aEJnyQAAAAAlQw9wcQX8bZa6n8Mqu8rv",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "Have a Great Time!",
+        "url": "https://open.spotify.com/album/5JtJBZJCk5qgkbQNCoHtwV"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "Have a Great Time!",
+      "url": "https://open.spotify.com/track/6FsBFQkORCWcEf2K4mA0e0"
+    },
     {
       "added_at": "2025-05-23 04:00:24",
       "album": {
@@ -63,6 +79,22 @@
       "duration_ms": 129179,
       "name": "Clean Hands",
       "url": "https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2"
+    },
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "The Bird Song",
+        "url": "https://open.spotify.com/album/4MQ7h2DfxK7VhQlppY5dvP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Apple",
+          "url": "https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Bird Song",
+      "url": "https://open.spotify.com/track/6MMZkLNvSHIKvwQo14sMrz"
     },
     {
       "added_at": "2025-04-25 04:00:47",
@@ -167,22 +199,6 @@
       "duration_ms": 143416,
       "name": "Wheels on the Bus (feat. Paul Wall) (H-Town Remix)",
       "url": "https://open.spotify.com/track/4h530TdFjTGeeoiLwRcY17"
-    },
-    {
-      "added_at": "2025-03-07 05:00:23",
-      "album": {
-        "name": "Adventures at the Library",
-        "url": "https://open.spotify.com/album/0a2n9rPlQCXtV9RTzJuHhY"
-      },
-      "artists": [
-        {
-          "name": "Uncle Apple",
-          "url": "https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M"
-        }
-      ],
-      "duration_ms": 176603,
-      "name": "Adventures at the Library",
-      "url": "https://open.spotify.com/track/6PWRuQpup8LH3hmADDtRP1"
     },
     {
       "added_at": "2025-01-10 05:00:16",
@@ -619,30 +635,6 @@
       "duration_ms": 142841,
       "name": "Girls Do It Best",
       "url": "https://open.spotify.com/track/0Nk5gkcSIkSu29m4XO95mq"
-    },
-    {
-      "added_at": "2024-01-30 16:42:16",
-      "album": {
-        "name": "Buddy's Magic Toy Box",
-        "url": "https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip"
-      },
-      "artists": [
-        {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        },
-        {
-          "name": "JER",
-          "url": "https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK"
-        },
-        {
-          "name": "Stacked Like Pancakes",
-          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "Recess",
-      "url": "https://open.spotify.com/track/4cTLSLjhkKCtGdkwmBPdK6"
     },
     {
       "added_at": "2024-02-02 05:01:00",

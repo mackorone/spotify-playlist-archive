@@ -3011,6 +3011,28 @@
     },
     {
       "album": {
+        "name": "Pear Kettu Paru",
+        "url": "https://open.spotify.com/album/2DQuHfg2toXYcngswflcFn"
+      },
+      "artists": [
+        {
+          "name": "Rejoy",
+          "url": "https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA"
+        },
+        {
+          "name": "Sanjit Lucksman",
+          "url": "https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166060,
+      "name": "Pear Kettu Paru",
+      "url": "https://open.spotify.com/track/45DB56vkOlgovmzfiYTTaG"
+    },
+    {
+      "album": {
         "name": "Podu Mike",
         "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
       },
@@ -3582,7 +3604,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 113142,
       "name": "Solli Vei",
       "url": "https://open.spotify.com/track/0a3kxt3ENfxvhNRC9MVLCY"
@@ -4024,6 +4046,36 @@
       "duration_ms": 239110,
       "name": "The One (From \"Retro\")",
       "url": "https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo"
+    },
+    {
+      "album": {
+        "name": "The Pen",
+        "url": "https://open.spotify.com/album/1drsi7guHzi4Fs3ysH0C9I"
+      },
+      "artists": [
+        {
+          "name": "Ess-K",
+          "url": "https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN"
+        },
+        {
+          "name": "Da Papes",
+          "url": "https://open.spotify.com/artist/7GhVU0cLmPZ0H0MQm8ESXp"
+        },
+        {
+          "name": "mc roshn",
+          "url": "https://open.spotify.com/artist/19JA4WMs34m89XEAUspLBO"
+        },
+        {
+          "name": "Martin Jazz",
+          "url": "https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177124,
+      "name": "The Pen",
+      "url": "https://open.spotify.com/track/3cFeOpj5DXuQFe0omvUK4B"
     },
     {
       "album": {
@@ -4684,7 +4736,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 191219,
       "name": "Yeththana Poi",
       "url": "https://open.spotify.com/track/74JSMYUsWd5M4xBjB2gzHd"

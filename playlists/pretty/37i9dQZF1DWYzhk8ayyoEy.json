@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 46000,
+  "num_followers": 46035,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDXL8AAAAABUwC7TH2M1xKS8i8yxzgZi",
+  "snapshot_id": "aEJnyQAAAADSX7KUeT3/8TyNHMgGaMRV",
   "tracks": [
     {
       "added_at": "2024-10-11 13:41:50",
@@ -23,6 +23,26 @@
       "duration_ms": 224506,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:09",
+      "album": {
+        "name": "Hard Fought Hallelujah (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 316002,
+      "name": "Hard Fought Hallelujah (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
       "added_at": "2025-05-27 14:28:00",
@@ -507,22 +527,6 @@
       "duration_ms": 198626,
       "name": "What a Day",
       "url": "https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT"
-      },
-      "artists": [
-        {
-          "name": "Madison Watkins",
-          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -1231,22 +1235,6 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Good Day",
-        "url": "https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 173983,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M"
     },
     {
       "added_at": "2024-10-11 13:41:50",

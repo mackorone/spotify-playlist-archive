@@ -4,7 +4,7 @@
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-115 songs - 7 hr 44 min
+116 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,11 @@
 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 | 2023-05-05 |  |
 | [Bad Guy \- Acoustic](https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Bad Guy \(Acoustic\)](https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi) | 2:41 | 2023-05-05 | 2024-04-19 |
 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 | 2023-08-18 |  |
-| [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 | 2023-05-05 |  |
+| [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 | 2023-05-05 | 2025-06-07 |
 | [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 | 2024-04-19 |  |
 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 | 2023-05-05 |  |
 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 | 2023-05-05 |  |
-| [Cabrobro \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/6GfqBkse7JgaIndolRQy1u) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Cabrobro \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/5dJz65iTYrIFhAoe4E424N) | 3:40 | 2025-02-28 |  |
+| [Cabrobro \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/6GfqBkse7JgaIndolRQy1u) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Cabrobro \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/5dJz65iTYrIFhAoe4E424N) | 3:40 | 2025-02-28 | 2025-06-07 |
 | [Caleidoscópio \(Ao Vivo\)](https://open.spotify.com/track/416HxK0h0JoSI6Qcgf0UMi) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [RoncaRonca Apresenta Os Paralamas do Sucesso \(Ao Vivo\)](https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz) | 4:02 | 2023-10-20 |  |
 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/0EH1ecgo60jEA3mzeF3XqL) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Ao Vivo / Remastered\)](https://open.spotify.com/album/0TcjNekoKeMNRoKZYestuT) | 4:16 | 2023-05-05 | 2024-04-19 |
 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Live\)](https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr) | 4:16 | 2024-04-19 |  |
@@ -80,6 +80,7 @@
 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chorão: Marginal Alado](https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z) | 2:08 | 2023-05-05 | 2024-04-19 |
 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7) | 2:08 | 2024-04-19 |  |
 | [O Girassol \- Versão Acústica](https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:07 | 2023-05-05 |  |
+| [O Passageiro \(The Passenger\) \- Ao Vivo](https://open.spotify.com/track/3jCV9CuT2Hzazecm49uqnZ) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Acústico Capital Inicial](https://open.spotify.com/album/2mt6segSup7hVNxC12Pji0) | 4:39 | 2025-06-06 |  |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 | 2023-05-05 | 2024-04-19 |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6nq1UXqPzEPPIG54YMSnhn) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:17 | 2024-04-19 |  |
 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 | 2023-05-05 |  |

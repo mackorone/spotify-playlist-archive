@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: girl in red
+> New and approved indie pop\. Cover: Indigo De Souza
 
-2,127 songs - 4 day 16 hr 35 min
+2,128 songs - 4 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,7 @@
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 | 2022-10-30 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-06-02 | 2022-01-06 |
 | [Creases](https://open.spotify.com/track/4ootnwx6kNm9jRd3hu0qRr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Creases](https://open.spotify.com/album/6GX28PQPkjog77dchhS7dp) | 2:26 | 2021-03-01 | 2021-03-21 |
-| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 | 2025-05-26 |
+| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 |  |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 | 2023-09-30 |
 | [crowd](https://open.spotify.com/track/4b0Z35o4ScmuFPTFdmFMEs) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [crowd](https://open.spotify.com/album/5unb3zadaEdorA9NLtoim8) | 2:46 | 2020-10-16 | 2021-08-17 |
 | [crowded room](https://open.spotify.com/track/6e3ASsTnmBCD9Xc8yozBDu) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [crowded room](https://open.spotify.com/album/03zDUuyCoXfI0uPNdgshjK) | 2:52 | 2020-10-20 | 2021-05-25 |
@@ -454,6 +454,7 @@
 | [Crying In Public \- MUNA Remix](https://open.spotify.com/track/6ouu4XNaN3pQMRo6BUvsaV) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Crying In Public \(MUNA Remix\)](https://open.spotify.com/album/5CG5Hrcv8PYM6GMIbTGBkI) | 3:58 | 2021-11-12 | 2022-07-29 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-12 | 2022-04-13 |
 | [Crying On My Own](https://open.spotify.com/track/0RrsFlWwmBxPA96PIMwhsu) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Crying On My Own](https://open.spotify.com/album/0L8dLRDXS1neezbmE0QiVP) | 3:35 | 2021-02-23 | 2021-05-28 |
+| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-06 |  |
 | [crystal clear](https://open.spotify.com/track/6qr6skNUEldlmc1p0fK7Gh) | [Goodie Bag](https://open.spotify.com/artist/2wfGvctJZV4yvkfzcb5Itk) | [crystal clear](https://open.spotify.com/album/1ddlffh87rXt5ZYAr54mBR) | 2:15 | 2021-03-19 | 2021-03-22 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-02 | 2023-02-10 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-28 | 2022-10-29 |
@@ -589,7 +590,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
-| [Dusty](https://open.spotify.com/track/3YAbD6ZmkXerUDg7GY15zZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Dusty](https://open.spotify.com/album/7deK3zxoJuFhDhZAguSOvt) | 4:05 | 2025-04-04 |  |
+| [Dusty](https://open.spotify.com/track/3YAbD6ZmkXerUDg7GY15zZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Dusty](https://open.spotify.com/album/7deK3zxoJuFhDhZAguSOvt) | 4:05 | 2025-04-04 | 2025-06-07 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 | 2024-11-23 |
 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-03-02 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
@@ -868,7 +869,7 @@
 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 | 2023-08-25 | 2024-05-18 |
 | [Hot like you](https://open.spotify.com/track/48FUVeDwsngzzJqJx4MUoo) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Hot like you](https://open.spotify.com/album/4883nS1fkXtvTQPVIivoUF) | 2:14 | 2025-05-16 |  |
 | [Hotel](https://open.spotify.com/track/714vS9Fx0TWQRutESsvfqA) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Hotel](https://open.spotify.com/album/6Q2quCpjul5NOu6MN6a1Dd) | 2:46 | 2022-02-25 | 2022-07-05 |
-| [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-05-16 |  |
+| [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-05-16 | 2025-06-07 |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-08-13 | 2022-04-14 |
 | [Hotel Room](https://open.spotify.com/track/2pxPyZopqt8UHeopkoQMql) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Hotel Room](https://open.spotify.com/album/5RTKA4rotAXJhtQ3XalzHe) | 2:59 | 2021-08-06 | 2022-03-31 |
 | [Hour 24](https://open.spotify.com/track/1KjAqIGaGNzKeN3WRzRBB6) | [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [Hour 24](https://open.spotify.com/album/7yLa6nQt9j15F3YyMGjAdw) | 3:02 | 2020-11-03 | 2021-01-15 |

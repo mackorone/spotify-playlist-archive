@@ -13623,6 +13623,24 @@
     },
     {
       "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
+    },
+    {
+      "album": {
         "name": "Penthouse Shordy",
         "url": "https://open.spotify.com/album/6x57aHz5UqOELrNukV6hoD"
       },

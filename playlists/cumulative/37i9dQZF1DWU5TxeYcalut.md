@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU5TxeYcalut.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU5TxeYcalut) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU5TxeYcalut)
 
-### [Jazz Brasileiro](https://open.spotify.com/playlist/37i9dQZF1DWU5TxeYcalut)
+### [Jazz BR](https://open.spotify.com/playlist/37i9dQZF1DWU5TxeYcalut)
 
-> Uma seleção especial do jazz nacional\. Foto: Hamilton De Holanda
+> Uma seleção especial do jazz nacional\. Foto: Azymuth
 
-165 songs - 13 hr 53 min
+166 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Afluente do Futuro](https://open.spotify.com/track/2U6VHc3DqSLhLrtTRNkFCT) | [Edson Natale](https://open.spotify.com/artist/04QptMACnngQNIRS51aUZd), [Nailor "Proveta" Azevedo](https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu), [Ronaldo Gama](https://open.spotify.com/artist/4MmP9KrhoxvjhGQXSeoDON), [Vanessa Moreno](https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4), [Maurício Badé](https://open.spotify.com/artist/0Kc6qEC575UlULLb5g5zFQ), [Saxofonando](https://open.spotify.com/artist/7nwfGsfk4taAdccx5MZSXw) | [Âmbar \- os Afluentes da Música](https://open.spotify.com/album/59N6VBsreoqwUhdqxYfClk) | 5:10 | 2022-07-08 |  |
 | [April Child](https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz) | [Marcelo Mariano](https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk), [Marcos Romera](https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV), [Joao Parahyba](https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW) | [April Child](https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc) | 7:04 | 2022-07-08 |  |
 | [Atrevido](https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O) | [Sidiel Vieira Quinteto](https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx), [Sidiel Vieira](https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50) | [Sidiel Vieira Quinteto](https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk) | 8:26 | 2022-07-08 |  |
+| [Belenzinho](https://open.spotify.com/track/2J8Wc1tjG7Ko83dnEndO97) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Marca Passo](https://open.spotify.com/album/5gPnlRYkxpQLIYMy5hEpR6) | 5:28 | 2025-06-06 |  |
 | [BH](https://open.spotify.com/track/0DAZbzl6FHufvWxFy73GwY) | [Andre Marques](https://open.spotify.com/artist/7ekmKn4Qnzao93UDyr2DPr), [Marcel Bottaro](https://open.spotify.com/artist/1aPBR2PKGmJc3j9nCl7pzJ), [Rodrigo Digão Braz](https://open.spotify.com/artist/1D0xkaglbjoTUhcvYAAXRn) | [Choro Universal](https://open.spotify.com/album/4trFnHIZG5awOetJXeqAKU) | 7:53 | 2022-07-08 | 2023-07-29 |
 | [Big Dreams](https://open.spotify.com/track/0pUHA5hg0UKO3FeKjchIom) | [São Paulo Panic](https://open.spotify.com/artist/7bplUyzy0CpehPMe5H8hyW), [Tal Arditi](https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A) | [São Paulo Panic](https://open.spotify.com/album/6uPh1MfMPsQdMW7eIqIbjr) | 4:18 | 2024-03-29 |  |
 | [Big Dreams](https://open.spotify.com/track/7cRwOIyWx2uDIp429g8T30) | [São Paulo Panic](https://open.spotify.com/artist/7bplUyzy0CpehPMe5H8hyW), [Tal Arditi](https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A) | [São Paulo Panic](https://open.spotify.com/album/3cXJvkZwggrxS9KAzLX5AE) | 4:18 | 2022-07-08 | 2024-04-19 |
@@ -33,7 +34,7 @@
 | [Chablis](https://open.spotify.com/track/5P9dUHDSoPqkryBCy0Kmmf) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Barolo](https://open.spotify.com/album/0qpfH2Z2M4RlZ92XBogBWH) | 1:58 | 2024-03-29 | 2025-04-19 |
 | [Chablis](https://open.spotify.com/track/5dbtSvnRtBa4eSzm4hqVD1) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Rioja](https://open.spotify.com/album/4EGJWju5MvV3Wtoaj1fThC) | 1:58 | 2023-07-07 | 2023-07-26 |
 | [Chablis](https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Somethin' Jazzy](https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m) | 1:58 | 2023-07-07 | 2024-04-19 |
-| [Cheek to Cheek](https://open.spotify.com/track/47wEKppE3oQnGjpF9KnJ6q) | [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Sway](https://open.spotify.com/album/2k12vDHjjOouicHnBgGy9O) | 3:11 | 2023-08-18 |  |
+| [Cheek to Cheek](https://open.spotify.com/track/47wEKppE3oQnGjpF9KnJ6q) | [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Sway](https://open.spotify.com/album/2k12vDHjjOouicHnBgGy9O) | 3:11 | 2023-08-18 | 2025-06-07 |
 | [Cinepoesia: Samba do Árvore](https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4) | [Léa Freire](https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo) | [Cinepoesia: Samba do Árvore](https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk) | 2:43 | 2022-07-08 |  |
 | [Climão](https://open.spotify.com/track/6ovDXiIzy40XMI85632P48) | [RP Project](https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY), [Walmir Gil](https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs) | [Climão](https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm) | 7:10 | 2022-07-08 | 2023-04-29 |
 | [Clube da Esquina \#2](https://open.spotify.com/track/7zsmMYWpFYuwbUBoS7ZoN3) | [Hamilton De Holanda Quintet](https://open.spotify.com/artist/6MzenfFiF1pl744GDCZbKP) | [Casa De Bituca](https://open.spotify.com/album/0jSp6arhifs3cSVyiRURX3) | 3:58 | 2022-07-08 | 2024-04-19 |

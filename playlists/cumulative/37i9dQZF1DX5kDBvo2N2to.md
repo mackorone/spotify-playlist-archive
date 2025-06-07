@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-332 songs - 18 hr 7 min
+333 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-13 |
 | [Flow](https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Flow](https://open.spotify.com/album/2NW96KndFggFYbRxqCfzzb) | 3:02 | 2025-04-17 |  |
 | [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 | 2024-11-01 |
-| [Flytta på dig](https://open.spotify.com/track/6eR2CClGsFqboQ61epslcx) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Flytta på dig](https://open.spotify.com/album/26CDINQwqeAb8xqceT0fxS) | 2:17 | 2025-03-27 |  |
+| [Flytta på dig](https://open.spotify.com/track/6eR2CClGsFqboQ61epslcx) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Flytta på dig](https://open.spotify.com/album/26CDINQwqeAb8xqceT0fxS) | 2:17 | 2025-03-27 | 2025-06-07 |
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-28 | 2024-09-27 |
 | [Forget,](https://open.spotify.com/track/7cAqg391pJlB8XWcgEWH6W) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Forget,](https://open.spotify.com/album/1CrkjivjCUyyotAissCcqN) | 2:58 | 2025-03-07 | 2025-03-21 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 |  |
@@ -185,6 +185,7 @@
 | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/track/77PM2HhareeItj0VnzTeEr) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/album/61U8pP2GeqCEJihnyiau83) | 2:51 | 2025-04-10 | 2025-05-29 |
 | [Kiss](https://open.spotify.com/track/1nGgVnr5yhyWfvB6UMiPSj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [A Letter From Rimini](https://open.spotify.com/album/0vif4YAS95ZZ139gnsXD5t) | 2:53 | 2024-10-10 | 2024-12-02 |
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 | 2024-11-09 |
+| [KNEEEES](https://open.spotify.com/track/36pxEPrYre9XxgGuOzEi3P) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [KNEEEES](https://open.spotify.com/album/4T1pGeeiGRtzN0HON6hfQJ) | 2:39 | 2025-06-05 |  |
 | [Kom ihåg mig](https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Kom ihåg mig](https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR) | 3:01 | 2025-05-08 |  |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 | 2024-08-16 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |

@@ -4,7 +4,7 @@
 
 > Your frequency for today's pop tracks, via South Africa\. Cover: <a href="https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=mCWOw4cDT7icuc\_WzKbQDw">Sabrina Carpenter</a>
 
-469 songs - 1 day 1 hr 13 min
+471 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Green Summer](https://open.spotify.com/track/2i2enF7yvueON1I7COL6vQ) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Green Summer](https://open.spotify.com/album/6g9rmcUEF2eLCmAYDrTMkr) | 2:49 | 2024-06-27 | 2024-07-27 |
 | [Growing Up](https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [Growing Up](https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw) | 2:37 | 2024-06-27 | 2024-08-16 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 | 2024-08-30 |
-| [Hand Me Downs](https://open.spotify.com/track/2urVnZNYyycyyMBDgLZb3o) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Hand Me Downs](https://open.spotify.com/album/3FhTSTkgDYt2x6dwbGazkm) | 2:23 | 2025-05-15 |  |
+| [Hand Me Downs](https://open.spotify.com/track/2urVnZNYyycyyMBDgLZb3o) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Hand Me Downs](https://open.spotify.com/album/3FhTSTkgDYt2x6dwbGazkm) | 2:23 | 2025-05-15 | 2025-06-07 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 | 2025-03-12 |
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-11-15 | 2024-11-22 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2025-03-20 | 2025-04-04 |
@@ -327,6 +327,7 @@
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-14 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-01-16 | 2025-04-11 |
 | [Santa Tell Me \- Peppermint Mix](https://open.spotify.com/track/26ytnVFUlycBLFsUiFKR7W) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Santa Tell Me and Boy For a Day](https://open.spotify.com/album/7awqKKOXZ4u4GuYauzYu9S) | 3:06 | 2024-11-21 | 2024-12-06 |
+| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 |  |
 | [Satellites](https://open.spotify.com/track/1BDdd5MksefeYznSnCERBS) | [Matt Gardiner](https://open.spotify.com/artist/1LBEtmJ1MsBzkFl5kV9pR6) | [Satellites](https://open.spotify.com/album/6nS3xyTPcHuMNjh2ngwKha) | 2:33 | 2024-10-10 | 2024-11-08 |
 | [Saturday](https://open.spotify.com/track/1KQPkjxYJY0A5HLpUx7r3k) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [Saturday](https://open.spotify.com/album/2XjnvtnZLD3E1l21t4AfIY) | 3:50 | 2025-02-13 | 2025-03-14 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-07-11 | 2024-08-24 |
@@ -415,6 +416,7 @@
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2025-03-20 | 2025-03-28 |
 | [Till the Sun Comes Up](https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Till the Sun Comes Up](https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9) | 3:43 | 2025-05-22 |  |
 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-03-11 | 2025-03-14 |
+| [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 |  |
 | [Too Much To Say](https://open.spotify.com/track/6Odxbe9wixPpSlCnOyh5Ow) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Too Much To Say](https://open.spotify.com/album/0OVwfFpOM8J5CgRJr7XVaL) | 2:53 | 2024-11-21 | 2025-01-24 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2025-01-30 | 2025-03-28 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-07-11 |  |
@@ -461,7 +463,7 @@
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-12-19 | 2025-02-21 |
 | [Wishbone \- Known Stranger Remix](https://open.spotify.com/track/25vla28yTknbfgauh9Wm7T) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549), [Known Stranger](https://open.spotify.com/artist/4Vh0tmi9CRcWj1mqvFqb8G) | [Wishbone \(Known Stranger Remix\)](https://open.spotify.com/album/1FJUie1arb2GeMDxj6NMVM) | 2:48 | 2025-04-10 | 2025-05-31 |
 | [With You](https://open.spotify.com/track/79LggjXGWmOdad69uxByNI) | [Joss Austin](https://open.spotify.com/artist/2NKDYt1C1JET13SHsFYXbv) | [With You](https://open.spotify.com/album/2rKoC3qq6soseMbHedF07S) | 2:31 | 2024-06-27 | 2024-07-12 |
-| [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-29 |  |
+| [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 | 2025-05-29 | 2025-06-07 |
 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2025-03-20 | 2025-04-18 |
 | [Wolves](https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Feathers And Stone](https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T) | 3:02 | 2025-01-30 | 2025-02-21 |
 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 | 2024-11-07 | 2024-11-16 |

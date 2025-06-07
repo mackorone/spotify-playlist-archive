@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  SEU Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Pat Barrett",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 507541,
       "name": "All Fall Down - Live",
       "url": "https://open.spotify.com/track/39f4VewtRh9XSed54TMDV4"
@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 233129,
       "name": "Happily Hidden (with John Mark McMillan)",
       "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
@@ -6646,6 +6646,24 @@
       "duration_ms": 313708,
       "name": "I Know That I Know - Live",
       "url": "https://open.spotify.com/track/2StfK9QdCBoRcGzIDWIaQy"
+    },
+    {
+      "album": {
+        "name": "I Look To The Hills (I Love You Lord)",
+        "url": "https://open.spotify.com/album/1rfYcJez8IuocKuOc5nPWk"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266968,
+      "name": "I Look To The Hills (I Love You Lord)",
+      "url": "https://open.spotify.com/track/75gzk1oz80UeqkpXbEzq6V"
     },
     {
       "album": {
@@ -8606,7 +8624,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 307866,
       "name": "Let Me Love You More",
       "url": "https://open.spotify.com/track/53nmVlRqzZTSNbdIpPurKs"
@@ -10727,6 +10745,28 @@
     },
     {
       "album": {
+        "name": "One Name",
+        "url": "https://open.spotify.com/album/0mh8zIXLCUR0Kk02W89h5w"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        },
+        {
+          "name": "Anchored Music",
+          "url": "https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "One Name",
+      "url": "https://open.spotify.com/track/38S3cC6HmKMwnGypZ15KnU"
+    },
+    {
+      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -11462,6 +11502,24 @@
       "duration_ms": 323051,
       "name": "Praise Opens Prison Doors - Live",
       "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
+    },
+    {
+      "album": {
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/0iql1Q9RHLdfX6e32SUxKJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264107,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG"
     },
     {
       "album": {
@@ -14154,6 +14212,36 @@
       "duration_ms": 443833,
       "name": "The Joy - Live",
       "url": "https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P"
+    },
+    {
+      "album": {
+        "name": "The Joy (Studio Version)",
+        "url": "https://open.spotify.com/album/3rIpCCkzBAOlcQkELrRaH5"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        },
+        {
+          "name": "Shantrice Laura",
+          "url": "https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236799,
+      "name": "The Joy - Studio Version",
+      "url": "https://open.spotify.com/track/6VDHBVXR8CBH1Ef2sJMTp2"
     },
     {
       "album": {
@@ -17208,6 +17296,28 @@
       "duration_ms": 368901,
       "name": "You Remain - Live",
       "url": "https://open.spotify.com/track/5OSWlFATPnMqNAidk1a0cT"
+    },
+    {
+      "album": {
+        "name": "You Stay The Same (Live)",
+        "url": "https://open.spotify.com/album/7rzqEeJH3LEF5g8Gt3TfhK"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Hailey Hampton",
+          "url": "https://open.spotify.com/artist/1es11bh34XVASYtJEa6be3"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333674,
+      "name": "You Stay The Same - Live",
+      "url": "https://open.spotify.com/track/1GVNMNVD6iShdSkhXdNy01"
     },
     {
       "album": {

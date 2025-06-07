@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 162367,
+  "num_followers": 162383,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACY5+u3caooN6s9Wt1rR+JU",
+  "snapshot_id": "aEDeAAAAAAAPhHlfPLyNs6E1sNgLHLut",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 537226,
-      "name": "Don't Lie To Me",
-      "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
+      "duration_ms": 247200,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
+      "duration_ms": 537226,
+      "name": "Don't Lie To Me",
+      "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
     },
     {
       "added_at": null,

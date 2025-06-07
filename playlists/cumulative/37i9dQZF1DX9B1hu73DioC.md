@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-922 songs - 2 day 6 hr 47 min
+923 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Angelina](https://open.spotify.com/track/5ZSSP4DA2iRTmKUQr7qicB) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Angelina](https://open.spotify.com/album/3gJQkqLEaJshEGIm3VK3Ea) | 3:24 | 2021-07-19 | 2022-07-29 |
 | [Anhedonia II](https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh), [Dirty Art Club](https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL) | [Anhedonia II b/w Ecstasy Cowgirl](https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg) | 2:39 | 2024-08-16 | 2024-10-12 |
 | [Another Lover](https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 4:26 | 2022-06-01 | 2023-09-16 |
+| [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-06-06 |  |
 | [Any Day Now](https://open.spotify.com/track/1cBUacNdVpbYZok1Mtklcq) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Any Day Now](https://open.spotify.com/album/6HmLstTPXIcQLaJ8ELX0gO) | 3:17 | 2024-06-17 | 2024-08-23 |
 | [Any Way You Want Me](https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:31 | 2023-02-24 | 2023-05-27 |
 | [Anymore](https://open.spotify.com/track/2MRPzUotcGDw5FN8MpTLTM) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Rhymes & Rhythms](https://open.spotify.com/album/5f5QEuCZYoDLIZTL03qk4m) | 4:07 | 2021-08-27 | 2022-05-26 |
@@ -299,7 +300,7 @@
 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2020-10-16 | 2023-07-08 |
 | [Fire Of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 | 2023-08-11 | 2023-09-16 |
 | [Fish Maan](https://open.spotify.com/track/6osmPkzt0Ap9LA9lta3rOV) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Fish Maan](https://open.spotify.com/album/0LgNeIrO1osf37UbuW1BIa) | 1:49 | 2023-03-10 | 2023-04-15 |
-| [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2023-12-12 |  |
+| [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2023-12-12 | 2025-06-07 |
 | [Float Away](https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Float Away](https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe) | 3:06 | 2023-08-11 | 2023-09-10 |
 | [Floated By](https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 4:16 | 2024-10-04 |  |
 | [Floating Sun](https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Floating Sun](https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb) | 2:26 | 2021-08-27 | 2022-05-31 |

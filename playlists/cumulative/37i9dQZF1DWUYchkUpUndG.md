@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Henrisoul
 
-5,416 songs - 16 day 12 hr 26 min
+5,418 songs - 16 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [Covenant Keeping God](https://open.spotify.com/track/5gzG5fb34R2ygk0Nafm2Qw) | [Joseph Godwin](https://open.spotify.com/artist/1DLhXAdXfertIv47pfKSHO) | [Covenant Keeping God](https://open.spotify.com/album/0M0h3nEvF06F4lwotFDzSY) | 3:39 | 2024-10-11 | 2024-10-25 |
 | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mahazel](https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA) | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw) | 9:51 | 2023-12-22 | 2024-01-05 |
 | [Covenant Keeping God \- Special Version](https://open.spotify.com/track/4kjuV3vNqBrgO7Af7B7j9Y) | [Bethelben](https://open.spotify.com/artist/2sA8agURLpE40zKKXizMkh), [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Bethel Benjamin](https://open.spotify.com/artist/2WON4mkpICzTPXRTI3fKpL) | [Covenant Keeping God \(Special Version\)](https://open.spotify.com/album/2psTv9odpEjGJhSc573joA) | 4:34 | 2024-05-03 | 2024-05-24 |
+| [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 | 2025-06-06 |  |
 | [Cover Me](https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [Cover Me](https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl) | 2:02 | 2024-01-19 | 2024-02-02 |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-10 | 2024-05-24 |
 | [Cover Me](https://open.spotify.com/track/1syCchO1DU8HAo70vD8GIO) | [RYT PATH](https://open.spotify.com/artist/4e9kAcO6FMhOgshwVbpNBu), [Crid Kore](https://open.spotify.com/artist/2O64hjDXA6pXOWota5Ootl), [Oshey](https://open.spotify.com/artist/5S54RN1QOM0Vm7S1HRTybp), [Jah\-love](https://open.spotify.com/artist/7IW8sUmmCfCpo4Y9C0j2M1) | [Cover Me](https://open.spotify.com/album/3cXUtUcTLnVrCMDZHywdJn) | 3:04 | 2025-04-04 | 2025-04-11 |
@@ -3618,6 +3619,7 @@
 | [Once in Royal David's City](https://open.spotify.com/track/7hz4QPv4YzRKDKWZbVUVHd) | [Lofi Prxxchr](https://open.spotify.com/artist/7KFHENWIur94kSsTfOndSJ), [King Davo](https://open.spotify.com/artist/6xevTwlQT0l6n96JSpjmTl) | [Once in Royal David's City](https://open.spotify.com/album/4vaoh6Pp1ZXiQxURYqaUlE) | 2:15 | 2023-12-08 | 2023-12-15 |
 | [Once In Royal David’s City](https://open.spotify.com/track/2eJ4Dxrg7YeuW0VH2a21fH) | [Jonathan L'Espérance](https://open.spotify.com/artist/0qhLM9NLxQaAU19UopyLo7) | [The Most Wonderful Time](https://open.spotify.com/album/0bcE1gbqW6tu6Gm6mNh02Q) | 2:04 | 2023-11-24 | 2023-12-08 |
 | [Onde Estava Eu \- Remix](https://open.spotify.com/track/0fop05AhIh8EqmHUAiVCZl) | [Beth Mambo](https://open.spotify.com/artist/75kyzhhWLSQqPuCrtPOSLW) | [Onde Estava Eu \(Remix\)](https://open.spotify.com/album/2wiBlME0jEk4RZiAg08XYA) | 4:39 | 2025-04-04 | 2025-04-11 |
+| [ONE BODY](https://open.spotify.com/track/7bNPlDONCuxL5E0wwOwnhI) | [Stickz](https://open.spotify.com/artist/1L5SQPV7d93Xrr0f1pRy1D) | [ONE BODY](https://open.spotify.com/album/6u2jgWebuvICCnUnkZTbiK) | 2:25 | 2025-06-06 |  |
 | [One Christ One Love](https://open.spotify.com/track/4QWx2bEgw3psRVBclTNneH) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [One Christ One Love](https://open.spotify.com/album/1DQMlWhHRCBLGZaIXiRibx) | 2:38 | 2024-11-01 | 2024-11-15 |
 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-26 | 2024-05-17 |
 | [One For The Lord](https://open.spotify.com/track/4cbknUhuVwOqKDZ2s4dAbp) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [One For The Lord](https://open.spotify.com/album/5i2EM4EzcNUNXGrgs3Olbk) | 2:57 | 2023-11-24 | 2023-12-08 |

@@ -1579,42 +1579,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Le ciel \u00e9tait blanc / Ribbons",
-        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
-      },
-      "artists": [
-        {
-          "name": "Mirabelle",
-          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
-        },
-        {
-          "name": "Laurence H\u00e9lie",
-          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Le ciel \u00e9tait blanc",
-      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 214044,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1643,6 +1607,42 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 214044,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Le ciel \u00e9tait blanc / Ribbons",
+        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
+      },
+      "artists": [
+        {
+          "name": "Mirabelle",
+          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
+        },
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Le ciel \u00e9tait blanc",
+      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
     },
     {
       "added_at": "2024-12-13 16:40:18",

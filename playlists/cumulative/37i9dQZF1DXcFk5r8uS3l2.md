@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-438 songs - 1 day 3 hr 26 min
+439 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-12-17 | 2024-03-23 |
 | [Hot Red](https://open.spotify.com/track/6usaOOBDR1ybEyyKT5GkGK) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Hot Red](https://open.spotify.com/album/31lcZTz1FTI2pUwe8uViJv) | 3:03 | 2022-11-04 | 2022-11-12 |
 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 | 2022-01-28 | 2024-04-19 |
-| [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 | 2021-12-17 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 | 2021-12-17 | 2025-06-07 |
 | [Howl](https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Howl](https://open.spotify.com/album/35a3US8iAh300740OipUz0) | 4:53 | 2022-04-01 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T) | [Sweet Talk](https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi) | [Switch On](https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt) | 4:18 | 2025-05-23 |  |
 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 | 2021-12-17 | 2022-09-27 |
@@ -206,6 +206,7 @@
 | [King Bee](https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [I Hear You Knocking](https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK) | 3:50 | 2021-12-17 | 2022-06-11 |
 | [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 | 2022-09-26 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 | 2024-08-03 |
+| [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:20 | 2025-06-06 |  |
 | [Leaning On The Altar](https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Leaning On The Altar](https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI) | 3:19 | 2024-11-08 |  |
 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 | 2024-05-03 | 2024-08-10 |
 | [Let It Burn](https://open.spotify.com/track/4kVg423IrwssKhqQF8p97a) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Beneath the Neon Glow](https://open.spotify.com/album/4a2bNYxBEDfmgecp9elbxs) | 4:48 | 2024-08-09 | 2025-03-15 |

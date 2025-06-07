@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Ken Carson
 
-147 songs - 6 hr 14 min
+149 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [CRAYON](https://open.spotify.com/track/44Rtuc5OuZtwMwPfkrAsp6) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [CRAYON](https://open.spotify.com/album/04cqIVlhRK13cRoRm6TuCB) | 2:16 | 2024-03-15 | 2024-04-06 |
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-14 |  |
 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 | 2024-12-06 | 2025-05-24 |
+| [DIE LIKE THIS](https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth) | [UntilJapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:45 | 2025-06-06 |  |
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 | 2024-04-27 |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 | 2024-03-15 |  |
@@ -42,13 +43,13 @@
 | [Fall Guys](https://open.spotify.com/track/7BrQDMJ4AcQDza9ULRJV6S) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Ball Hog For Life](https://open.spotify.com/album/44jodlDP4L9mvGF6T7wi3i) | 2:07 | 2025-05-16 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-12-01 | 2024-03-15 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-12-01 |  |
-| [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-03-15 |  |
+| [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-03-15 | 2025-06-07 |
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2023-12-01 | 2024-03-16 |
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-25 |  |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-03-15 |  |
 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 | 2024-10-25 |  |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-03-15 | 2025-03-26 |
-| [givenchy jeans](https://open.spotify.com/track/3xlQipBAHPoTwQ8fXRtKxj) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [givenchy jeans](https://open.spotify.com/album/7vzUXa6KCUly9coSH1X7UV) | 1:22 | 2024-12-06 |  |
+| [givenchy jeans](https://open.spotify.com/track/3xlQipBAHPoTwQ8fXRtKxj) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [givenchy jeans](https://open.spotify.com/album/7vzUXa6KCUly9coSH1X7UV) | 1:22 | 2024-12-06 | 2025-06-07 |
 | [Givenchy Kick\-Flip](https://open.spotify.com/track/0xtwb8CmysbHcqLYVUqWdy) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Music B4 Music](https://open.spotify.com/album/2NDLmnHVgicUmK6oEz0JMH) | 2:11 | 2024-05-14 | 2024-08-21 |
 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 | 2024-09-03 |  |
 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2024-10-25 | 2025-05-17 |
@@ -74,6 +75,7 @@
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-09-10 |  |
 | [King tonka](https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 2:05 | 2024-05-14 |  |
 | [KING TUT](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [KING TUT](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 | 2024-02-02 | 2024-06-01 |
+| [KISS THA RING](https://open.spotify.com/track/3TxGpv2xqe3LO5HsmcJgfC) | [UntilJapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:24 | 2025-06-06 |  |
 | [Kome On](https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mafia Musik](https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU) | 2:14 | 2023-12-01 | 2024-02-21 |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 | 2024-08-21 |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 | 2024-03-16 |

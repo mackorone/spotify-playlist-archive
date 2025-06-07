@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-478 songs - 2 day 0 hr 43 min
+479 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Le Flute](https://open.spotify.com/track/7wbx4RjFa36W5hQwQAr9je) | [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg) | [Le Flute](https://open.spotify.com/album/0TGtRZQya26UcZ4NGwO4WY) | 7:03 | 2021-03-01 | 2021-05-28 |
 | [Lenmana \- Rey&Kjavik's Tïger Remix](https://open.spotify.com/track/219ajHOCIyarOzs4jXeW6W) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz), [Tïger](https://open.spotify.com/artist/5cg5bE4j1ZSuu00biYx6R1) | [Mountiri Remix II](https://open.spotify.com/album/5cCy64eKuWBT682qVoVesq) | 7:31 | 2019-09-20 | 2020-07-24 |
 | [Lenny in the Sea with Dolphins](https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Fire in the Jungle](https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH) | 5:31 | 2019-12-08 | 2023-02-01 |
-| [Let It Burn](https://open.spotify.com/track/1ryJE0dz9TeEHgdRvC9EGE) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Human Rias](https://open.spotify.com/artist/5HvRY6v6p1gHMjiaNGZTBX), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Let It Burn](https://open.spotify.com/album/5ScFfQtWzrR41CIccSLbas) | 3:08 | 2025-01-10 |  |
+| [Let It Burn](https://open.spotify.com/track/1ryJE0dz9TeEHgdRvC9EGE) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Human Rias](https://open.spotify.com/artist/5HvRY6v6p1gHMjiaNGZTBX), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Let It Burn](https://open.spotify.com/album/5ScFfQtWzrR41CIccSLbas) | 3:08 | 2025-01-10 | 2025-06-07 |
 | [Letter For Poly \- Original Mix](https://open.spotify.com/track/4KVgUYybueThEzTFps5WhW) | [Cornucopia](https://open.spotify.com/artist/66NUn0HlKouyshMUZoiKKW) | [Letter For Poly](https://open.spotify.com/album/6IFRMsEeGh8Uq0x0ugEwF2) | 8:52 | 2019-08-02\* | 2019-09-06 |
 | [Levanta Muertos](https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 5:00 | 2020-04-02 | 2022-04-19 |
 | [Leys Lana](https://open.spotify.com/track/2dzm5nwD9HKoYzSE1gawDL) | [ASLN](https://open.spotify.com/artist/58DPIUFMVBSQEy9xZNbKfU), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0) | [Leys Lana](https://open.spotify.com/album/2RwIRZDWpEWBzBNvWf6dMi) | 3:08 | 2025-02-21 | 2025-05-31 |
@@ -344,6 +344,7 @@
 | [Persian Nights](https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Persian Nights](https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP) | 3:18 | 2023-01-30 | 2025-02-08 |
 | [Pervaz](https://open.spotify.com/track/3zyYTyXyHX52WWsaqFPEH0) | [Netam](https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6), [Muaz Ceyhan](https://open.spotify.com/artist/1xlRrEXSQPhtLjFuQIF47p) | [Tanburun Rüyaları](https://open.spotify.com/album/5jiH0oSegzyENIzfDGPUzm) | 4:36 | 2022-01-14 | 2024-06-08 |
 | [Poet\-Ease](https://open.spotify.com/track/5u8RZrjxxYHBgSBwWDyV16) | [Underspreche](https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm), [Sandra Restrepo](https://open.spotify.com/artist/6xcbHjACwkci6y1yJV7om2) | [Poet\-Ease](https://open.spotify.com/album/3UEMeHZo8S1uqlNuFfKu16) | 6:22 | 2019-09-06 | 2020-04-27 |
+| [Potelele](https://open.spotify.com/track/5CjFW6QavdBGO1Pip2PZqe) | [Mauricio Brigante](https://open.spotify.com/artist/7c64KrjDqcWYACzSaSXzOM), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Potelele](https://open.spotify.com/album/0hHIPQuB2AMtgDawX16iGr) | 2:45 | 2025-05-30 |  |
 | [Precious Story](https://open.spotify.com/track/5yK0lEffT7BqplloPOrg2g) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Buddha Bar: The Ultimate Experience](https://open.spotify.com/album/1QG5GYYjwWlBY1VDdNQ9Wd) | 6:33 | 2019-08-02\* | 2021-05-28 |
 | [Pulse Antique](https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 4:18 | 2024-04-26 | 2025-05-20 |
 | [Pártelo](https://open.spotify.com/track/7pAZFQZylCaA138Gort875) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Ghetto Flow](https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP) | [Pártelo](https://open.spotify.com/album/6kzkm05qMFnY2W0fxHYGEC) | 2:07 | 2025-04-18 | 2025-05-11 |

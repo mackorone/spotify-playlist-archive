@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Lisi
 
-1,208 songs - 2 day 8 hr 13 min
+1,209 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Beamin](https://open.spotify.com/track/1MIk9aJwcmNA2frRANiERW) | [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P) | [Beamin](https://open.spotify.com/album/6T3rJt2hAhK5lb1UJM3xFW) | 2:03 | 2022-06-09 | 2022-07-29 |
 | [Bechamel](https://open.spotify.com/track/4kkLZBxAYNIFv8US1MNcdt) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [Bechamel](https://open.spotify.com/album/6k0dU1mnnfIu5p4IaoMK9o) | 2:15 | 2025-01-23 | 2025-03-07 |
 | [Been Some Time](https://open.spotify.com/track/7FetHqkR87pkkEVqofj8wN) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Been Some Time](https://open.spotify.com/album/6EBFGc4d9mSR56TVNcIMe5) | 3:33 | 2022-12-01 | 2023-06-23 |
+| [Been That](https://open.spotify.com/track/0HIOjH6z5DOJ20FFBLAhnP) | [Sexton](https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2) | [Been That](https://open.spotify.com/album/1btxT6M4IMQrlGwy4AXiG8) | 2:03 | 2025-06-05 |  |
 | [Been Through Hell](https://open.spotify.com/track/1xtp8h5fesXgWcY3q9J95P) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [360](https://open.spotify.com/artist/3vn7rk7VNMfDhuZNB9sDYP), [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9) | [Been Through Hell](https://open.spotify.com/album/2yW5IO4JRuj9rPQpuTHUMo) | 3:47 | 2025-04-10 |  |
 | [BEEP BEEP](https://open.spotify.com/track/0coNqzu632xf6DK2F0vu94) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ) | [BEEP BEEP](https://open.spotify.com/album/6EXqZqquJQpvn9yhb0NbMY) | 2:20 | 2024-05-03 | 2024-06-28 |
 | [Ben Simmons](https://open.spotify.com/track/7cd9mHLZpfVdJeEPJzyKSD) | [Kavelli](https://open.spotify.com/artist/5R1toqsQtqx4tcNpItZuEU), [Horizon](https://open.spotify.com/artist/1FU9J5piutFKQmLEsy2d4q) | [Ben Simmons](https://open.spotify.com/album/3gryXuLZ9zuYm1FkmQ7hoP) | 2:24 | 2022-03-21 | 2022-05-27 |

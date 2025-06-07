@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative & rock releases\. Cover: White Lies
+> Nieuwe alternative & rock releases\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,072 likes - 103 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,093 likes - 103 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nothing On Me](https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Nothing On Me](https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM) | 2:44 |
-| 2 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
-| 3 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 |
+| 1 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 |
+| 2 | [Nothing On Me](https://open.spotify.com/track/0Javk02TRcIDmL6aYv7VAj) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Nothing On Me](https://open.spotify.com/album/603CwAyUDL1CurqYiYltjM) | 2:44 |
+| 3 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
 | 4 | [This Is How The Future Sounds](https://open.spotify.com/track/7wReoRwSoJQBIey1e9lxAg) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [This Is How The Future Sounds](https://open.spotify.com/album/4lSGBmcBLu8FrYAmZilmUu) | 2:57 |
-| 5 | [ON AND ON \(Song for Jasmin\)](https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:31 |
-| 6 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
-| 7 | [Hello](https://open.spotify.com/track/5VsVAPl0STzjrujHPa8jsF) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Hello](https://open.spotify.com/album/0J3A6JS6Nkbgnw0F6MHRTz) | 3:35 |
-| 8 | [Tina](https://open.spotify.com/track/7uFif00qArtq2USCkQEGac) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 3:32 |
-| 9 | [Easier Said Than Done](https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Easier Said Than Done](https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC) | 3:05 |
-| 10 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 |
-| 11 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
-| 12 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 |
-| 13 | [What3vr](https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 2:47 |
-| 14 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 |
-| 15 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 |
-| 16 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
+| 5 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
+| 6 | [ON AND ON \(Song for Jasmin\)](https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:31 |
+| 7 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
+| 8 | [Hello](https://open.spotify.com/track/5VsVAPl0STzjrujHPa8jsF) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Hello](https://open.spotify.com/album/0J3A6JS6Nkbgnw0F6MHRTz) | 3:35 |
+| 9 | [Tina](https://open.spotify.com/track/7uFif00qArtq2USCkQEGac) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 3:32 |
+| 10 | [Easier Said Than Done](https://open.spotify.com/track/4bmFe4XlRDAvx0BW5Lc3bd) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Easier Said Than Done](https://open.spotify.com/album/53sHMpu1fjrLTFBwPJZ8lC) | 3:05 |
+| 11 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 |
+| 12 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
+| 13 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 |
+| 14 | [What3vr](https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 2:47 |
+| 15 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 |
+| 16 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 |
 | 17 | [Keep Running](https://open.spotify.com/track/4b02GNdHU9C7bwOfAYDorE) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Keep Running](https://open.spotify.com/album/1gcgL4kcrkKmwGZ7vCM3s0) | 3:28 |
 | 18 | [Timber](https://open.spotify.com/track/0P8E6fdQMjk0oFkGsfHOBb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO \(Deluxe\)](https://open.spotify.com/album/4SSAyBIdEA58CuxpqhxjkD) | 4:44 |
 | 19 | [Life So Nice](https://open.spotify.com/track/3nx1Pv2g189I5dFsePS4Dy) | [Fit](https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf) | [Miracles Might Happen](https://open.spotify.com/album/5CYOtuum8HjHdriQ6fjb6H) | 2:24 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 102 | [Great Lovers](https://open.spotify.com/track/6YpzriIz4dYcw4ma1hUbaz) | [Martha Moore](https://open.spotify.com/artist/26znOEU7edUuy7G3oKnwmZ) | [Great Lovers](https://open.spotify.com/album/6dLfV3LKIIMUVPqv3SI5Ns) | 2:46 |
 | 103 | [Skincare](https://open.spotify.com/track/3CZYlfUslwuAqrHVooQetk) | [Parker Fans](https://open.spotify.com/artist/1vY8fuL3kdwvvfdoMHwvsX) | [Skincare](https://open.spotify.com/album/14iUEtih4o71XJKwNvIXlU) | 2:02 |
 
-Snapshot ID: `aEITmwAAAABArzdT4qjVqiDdKd016bHE`
+Snapshot ID: `aELj7AAAAADGbDJrmbC09rAZ/pllqB1E`

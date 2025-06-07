@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-408 songs - 20 hr 38 min
+409 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ain't Gonna Break](https://open.spotify.com/track/4cRCQ8wLnWKkLpUVijmp0J) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Ain't Gonna Break](https://open.spotify.com/album/2nueTq2RzhiXpqrUcGDfY9) | 3:04 | 2022-07-29 | 2023-06-24 |
 | [Alarm](https://open.spotify.com/track/33J9duYFGuYDolFULpYgi8) | [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [RALYFF](https://open.spotify.com/artist/2O5kshWyTHGk7xv2FCxEbh), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Alarm](https://open.spotify.com/album/09vMh7mmRqPCewaBjBnJeC) | 3:22 | 2024-03-14 | 2025-03-13 |
 | [Alive \- Edit](https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh) | [JAT](https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6) | [Alive \(Edit\)](https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt) | 3:13 | 2022-09-02 | 2022-09-24 |
+| [All Around Me \- Majed Remix](https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg) | [Majed](https://open.spotify.com/artist/1qUxaI5qlJjHsBBCohdkMh), [Luna Orbit](https://open.spotify.com/artist/78VO39HCLuuqEBGzPO6xts) | [All Around Me \(Majed Remix\)](https://open.spotify.com/album/1K4bnbCGdls1tHDR4oLWSC) | 2:59 | 2025-06-06 |  |
 | [All Mine](https://open.spotify.com/track/7I4KVxwDeZhlnCh15ckCWY) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [All Mine](https://open.spotify.com/album/2RitojyB3zQdkYEodRA7Fw) | 2:46 | 2024-09-27 | 2024-10-31 |
 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 | 2022-07-29 | 2022-11-05 |
 | [All My Life \- Airscape Remix](https://open.spotify.com/track/0VAVj1GEv2oVcz6Vkgf1WN) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [All My Life \(Airscape Remix\)](https://open.spotify.com/album/7oikZCI1DlS43oNBYXxHc2) | 3:15 | 2024-02-22 |  |
@@ -200,7 +201,7 @@
 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 | 2024-02-15 | 2024-11-16 |
 | [i wanna fly](https://open.spotify.com/track/68JOHaMI8coukJfb1TCTZ9) | [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [i wanna fly](https://open.spotify.com/album/4IgF5ddheFwicDBduGXsHD) | 3:11 | 2024-11-15 | 2025-01-04 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2024-08-09 |  |
-| [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 | 2022-07-29 |  |
+| [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 | 2022-07-29 | 2025-06-07 |
 | [I'll Be There](https://open.spotify.com/track/5KzCynjLHERTYYPFholHLr) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [I'll Be There](https://open.spotify.com/album/382roHRnixJGvT9BP5BmeG) | 2:55 | 2022-07-29 | 2023-12-23 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-08-10 |  |
 | [If I Could Be](https://open.spotify.com/track/0sBfZWTh37Oe41odntXpIF) | [Jordi Sans](https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0) | [If I Could Be](https://open.spotify.com/album/0NrA4ntS1Dl0uYcevhediU) | 3:47 | 2022-07-29 | 2022-09-03 |

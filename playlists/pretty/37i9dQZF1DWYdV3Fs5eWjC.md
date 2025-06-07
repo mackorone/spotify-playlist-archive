@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,983 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,001 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 72 | [CHAPTER & VERS](https://open.spotify.com/track/24NTKPJ76fvD1VroPGNiLn) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [GRIP SEQUEL](https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd) | 2:41 |
 | 73 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
 | 74 | [Find Some Space](https://open.spotify.com/track/5xRUOCle24SG7JZ4Otqejf) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [StarX Lover](https://open.spotify.com/album/6UPECmrrwiBjY0KhRHDNiG) | 3:34 |
-| 75 | [WASSUP WIT IT](https://open.spotify.com/track/2u4bGCgnndImZ3jObps4PZ) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [WASSUP WIT IT](https://open.spotify.com/album/6Vn6D6Gg5hOQcdas8mxukR) | 3:05 |
+| 75 | [Maybe](https://open.spotify.com/track/4Q5i4B6XiPWhGOFMxYvMfO) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Maybe](https://open.spotify.com/album/1PMUQC0cN01wWBOa7JX1Tz) | 3:00 |
 
 Snapshot ID: `aB1Q1AAAAACHnN7Um77aKb9jCrQSynob`

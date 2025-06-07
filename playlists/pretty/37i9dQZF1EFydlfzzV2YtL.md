@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 178 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 178 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 97 | [It Gets Dark](https://open.spotify.com/track/2atxeaxfexFVa2YglwPlSN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:23 |
 | 98 | [Don't Get Any Closer](https://open.spotify.com/track/4Of27nwjXcl2Pgo5VhnLQ5) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:48 |
 | 99 | [Hot Water](https://open.spotify.com/track/36rVmexpQ7mUBZrvnkC88j) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Hot Water](https://open.spotify.com/album/5C5F2TaSY6JEkXNJuMI6AZ) | 3:13 |
-| 100 | [Hollow](https://open.spotify.com/track/1DQiQmwleN5zdUSWZlMpGQ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:32 |
-| 101 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 100 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 101 | [Hollow](https://open.spotify.com/track/1DQiQmwleN5zdUSWZlMpGQ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:32 |
 | 102 | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/track/1zKlT4kCuHmIj10cr0ZryI) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/album/0onXv14PecMSAeMZKtjgAP) | 3:32 |
 | 103 | [Put The Gun Down](https://open.spotify.com/track/17zWJmzIhnp7h3TSr2qA4K) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:45 |
 | 104 | [Naked](https://open.spotify.com/track/4h5m6VrCEHBW5yU8Eye5Fr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:00 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 137 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
 | 138 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
 | 139 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
-| 140 | [Weakness \(Huey Lewis\) \(feat\. Maisy Stella\)](https://open.spotify.com/track/3lY1DbeIc84Y7kDCncyWbs) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 7:47 |
-| 141 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
+| 140 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
+| 141 | [Weakness \(Huey Lewis\) \(feat\. Maisy Stella\)](https://open.spotify.com/track/3lY1DbeIc84Y7kDCncyWbs) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 7:47 |
 | 142 | [Paranoid](https://open.spotify.com/track/6bigcY1dmG4tdXFH29qThb) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:21 |
 | 143 | [If Walls Could Talk \- Words on Bathroom Walls](https://open.spotify.com/track/5fBbkWcsvwoeI2u5ifhK5b) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Words on Bathroom Walls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sEhMYq3QFy3ShBGzUO2wu) | 1:38 |
 | 144 | [mizu](https://open.spotify.com/track/7wwUAXyxw2VhSobdpCn1Mt) | [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [Sophia Black](https://open.spotify.com/album/1L2c6U1HszcdQOfvE7pW8p) | 3:22 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 177 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 178 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbzW6AAAAADapiO1uFlQcOfjM9EFxX/k`
+Snapshot ID: `AbzciAAAAAAmIbFaXRZKCIY3rFVe3L76`

@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-385 songs - 22 hr 18 min
+386 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Acá con Vos](https://open.spotify.com/track/2jZPr6BJnsg8JQLCfAXb5P) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Acá con Vos](https://open.spotify.com/album/7xU1ndKdojlzoRQ5UWnyFK) | 3:45 | 2021-12-09 | 2022-07-29 |
 | [Acá Con Vos](https://open.spotify.com/track/2nD6nOl8XqytEEwo5x5icj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Acá Con Vos](https://open.spotify.com/album/1Iokwn1wthWYYh0vluLhpk) | 3:45 | 2022-09-21 | 2024-04-19 |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2021-12-09 | 2022-10-28 |
+| [aguasanta](https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc) | [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [aguasanta](https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT) | 3:12 | 2025-06-06 |  |
 | [Ahorita](https://open.spotify.com/track/1OzdGvZ6iSzTHVu9QF7dpT) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Ahorita](https://open.spotify.com/album/62fKzKe3VysgLR9GTajSLj) | 3:19 | 2021-12-09 | 2024-07-10 |
 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 | 2022-04-07 | 2022-10-28 |
 | [Algo Más](https://open.spotify.com/track/7CjfzkUKIbNrPD6ztRI8xO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Cheo](https://open.spotify.com/artist/7KoRkLCpcB7svD45xGxEfU) | [Algo Más](https://open.spotify.com/album/0s7AksApzZ6ann92uaNvJ3) | 3:27 | 2023-11-24 | 2024-12-19 |
@@ -67,7 +68,7 @@
 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 | 2022-09-21 | 2024-04-19 |
 | [Bésame mucho \(Kiss Me a Lot\)](https://open.spotify.com/track/0Vgsuj9b5MdKup4zwaQZIQ) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame Mucho](https://open.spotify.com/album/64vqYa85KJSWGw3sbtcxbG) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-09-21 | 2024-04-19 |
-| [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-12-09 |  |
+| [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-12-09 | 2025-06-07 |
 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 | 2024-09-06 |  |
 | [Cadáver](https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo) | [Stich](https://open.spotify.com/artist/25vFJVrERfAVNDjpLkXGQf) | [Los Jardines de la Memoria](https://open.spotify.com/album/3ppRHbKL2LIxa1JqnJvYiy) | 2:44 | 2022-04-07 |  |
 | [Cafecito](https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Cafecito](https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT) | 3:34 | 2021-12-09 | 2024-05-14 |

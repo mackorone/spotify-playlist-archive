@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/0tHTzbkHDKBqtYaY1KxKI1"
+      },
+      "artists": [
+        {
+          "name": "Baryk",
+          "url": "https://open.spotify.com/artist/41I7zqvdYOFQxYaF544OK7"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131071,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/7ksXTDAIUwWmf62JCmn9YX"
+    },
+    {
+      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/6TWLH4tJwj1pOEYk2enT4n"
       },
@@ -459,6 +477,28 @@
     },
     {
       "album": {
+        "name": "\u0412\u0442\u0440\u0430\u0447\u0430\u044e \u0437\u0432\u2019\u044f\u0437\u043e\u043a",
+        "url": "https://open.spotify.com/album/5Bf68SONBsoVuqZXPvgZMp"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u043e\u043d\u044f",
+          "url": "https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh"
+        },
+        {
+          "name": "\u041c94",
+          "url": "https://open.spotify.com/artist/7BnOhZi8wUFT3IfX3yHBUi"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "\u0412\u0442\u0440\u0430\u0447\u0430\u044e \u0437\u0432\u02bc\u044f\u0437\u043e\u043a",
+      "url": "https://open.spotify.com/track/2CAIfXmDjXKPUU0k3xdGAB"
+    },
+    {
+      "album": {
         "name": "\u0412\u0456\u0434\u0440\u0438\u0432\u0430\u044e\u0447\u0438\u0441\u044c",
         "url": "https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g"
       },
@@ -828,6 +868,24 @@
       "duration_ms": 154615,
       "name": "\u041a\u0418\u0407\u0412\u0421\u042c\u041a\u0418\u0419 \u0414\u0412\u0406\u0416",
       "url": "https://open.spotify.com/track/4eFIuirPLgbwCCco4AWgGJ"
+    },
+    {
+      "album": {
+        "name": "\u041a\u043e\u0436\u043d\u043e\u0433\u043e \u0414\u043d\u044f",
+        "url": "https://open.spotify.com/album/2sNyCOmZDidJbM2esfPzwl"
+      },
+      "artists": [
+        {
+          "name": "BURLA",
+          "url": "https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172176,
+      "name": "\u041a\u043e\u0436\u043d\u043e\u0433\u043e \u0414\u043d\u044f",
+      "url": "https://open.spotify.com/track/2wtwoWPuJiPrtQJ1BVul5B"
     },
     {
       "album": {
@@ -1230,7 +1288,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 157846,
       "name": "\u041d\u0435\u0431\u043e \u0445\u0438\u043b\u0438\u0442\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt"
@@ -1350,6 +1408,24 @@
       "duration_ms": 125712,
       "name": "\u041f\u02bc\u044f\u043d\u0438\u0439 \u0441\u043e\u0446\u0456\u0443\u043c",
       "url": "https://open.spotify.com/track/4u9XzHD4ZoqGLpVTlZMzfv"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0430\u043b\u0430\u0439",
+        "url": "https://open.spotify.com/album/7MoUsE0RF9ATUCdkBBPRbD"
+      },
+      "artists": [
+        {
+          "name": "\u0424\u0440\u0430\u0439",
+          "url": "https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "\u041f\u0430\u043b\u0430\u0439",
+      "url": "https://open.spotify.com/track/0hlU6mx6YlRvsMt1nHxcKS"
     },
     {
       "album": {
@@ -1510,6 +1586,28 @@
       "duration_ms": 192000,
       "name": "\u0421\u0432\u0456\u0442\u043b\u043e",
       "url": "https://open.spotify.com/track/1p77OCNbIxAS5LgFcgCsYe"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0438\u0433\u043d\u0430\u043b\u0438",
+        "url": "https://open.spotify.com/album/7rop61RWEVCexVD6qYt1jd"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u0430\u0439\u0447\u0443",
+          "url": "https://open.spotify.com/artist/29nWzSyEg2JLtzY9Z3vX03"
+        },
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "\u0421\u0438\u0433\u043d\u0430\u043b\u0438",
+      "url": "https://open.spotify.com/track/0GBt6xek4g1Rr4ytQlR9Ld"
     },
     {
       "album": {
@@ -2044,6 +2142,24 @@
       "duration_ms": 212000,
       "name": "\u0456\u043d\u043e\u0434\u0456",
       "url": "https://open.spotify.com/track/0SYwnCV5XXHmiz9QXIRTjL"
+    },
+    {
+      "album": {
+        "name": "\u0406\u043d\u044c \u044f\u043d\u044c",
+        "url": "https://open.spotify.com/album/6hEGRiKUbXvBTKgI04DNz8"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/7AAG9IPa2aBGQAAajyaBWS"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121363,
+      "name": "\u0406\u043d\u044c \u044f\u043d\u044c",
+      "url": "https://open.spotify.com/track/4jvJMdAuWJFWZgCN9rDDil"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lOLSAzbbCv"

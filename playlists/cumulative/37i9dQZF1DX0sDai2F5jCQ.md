@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Key Glock
 
-591 songs - 1 day 4 hr 49 min
+593 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [More Life](https://open.spotify.com/track/2seoURSCaa0mVLqodKvnTF) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [More Life](https://open.spotify.com/album/2LPnUdCOWHiKa8doWVtHum) | 3:08 | 2023-09-22 | 2023-11-17 |
 | [MOVIE](https://open.spotify.com/track/6Lo7ml7DFnDw2XNlv5c84p) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [MOVIE](https://open.spotify.com/album/26hzxv39hvWTG6t5zO8oQJ) | 3:32 | 2025-01-16 | 2025-04-04 |
 | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-18 | 2024-02-16 |
+| [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 |  |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-12 | 2024-03-15 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 | 2024-06-22 |
 | [NATURAL HABITAT](https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [NATURAL HABITAT](https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ) | 2:53 | 2024-05-24 | 2024-09-06 |
@@ -572,6 +573,7 @@
 | [We Still Don't Trust You](https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:12 | 2024-04-12 | 2024-05-03 |
 | [We Up](https://open.spotify.com/track/7H9W9Dn7LDHYfH2RNl4L4v) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr) | [We Up](https://open.spotify.com/album/7Dg1Ww7cvk176Xjsx0EiTg) | 3:12 | 2024-03-14 | 2024-06-22 |
 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 | 2024-08-01 | 2024-11-29 |
+| [Welcome to Tha Carter](https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:35 | 2025-06-06 |  |
 | [WHAT DO](https://open.spotify.com/track/6k5rWswrLNxNwMyFkC3Na2) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Souths Most Wanted](https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR) | 2:56 | 2024-04-11 | 2024-06-14 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-08 | 2024-03-15 |
 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2024-10-17 | 2025-04-04 |

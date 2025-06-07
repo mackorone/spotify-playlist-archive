@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Sacha and Canadian country music.
+> The home of Josh Ross and Canadian country music.
 
-271 songs - 14 hr 37 min
+273 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-31 | 2025-03-08 |
 | [I Ain't Country](https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [I Ain't Country](https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO) | 2:43 | 2025-05-02 |  |
 | [I Came Here to Leave You](https://open.spotify.com/track/6g9Qf4VIsk8NRGCjuXIp1e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui) | 2:58 | 2024-06-28 | 2024-09-14 |
-| [I Don't See Why Not](https://open.spotify.com/track/0HJk2kajnKs7VXkCrirxeV) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [I Don't See Why Not](https://open.spotify.com/album/05rrUU9UpnWX4bObjjeWDN) | 3:19 | 2025-04-18 |  |
+| [I Don't See Why Not](https://open.spotify.com/track/0HJk2kajnKs7VXkCrirxeV) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [I Don't See Why Not](https://open.spotify.com/album/05rrUU9UpnWX4bObjjeWDN) | 3:19 | 2025-04-18 | 2025-06-07 |
 | [I Don't See Why Not](https://open.spotify.com/track/3v1M3elHKiyYFKJ9gF7c2m) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [I Don't See Why Not](https://open.spotify.com/album/3g9SoGCrOgz5mmOEHEp12I) | 3:19 | 2025-04-11 | 2025-04-19 |
 | [I Grew Up On A Farm](https://open.spotify.com/track/3pBvU01semQ9Aia5KzoVGn) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [I Grew Up On A Farm](https://open.spotify.com/album/3qMRbYb6ZnZlgVMMAOyppv) | 3:11 | 2024-06-28 | 2024-08-10 |
 | [I Miss Tom Petty](https://open.spotify.com/track/2cKLJiaJwgoPDEMNqibPxn) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [I Miss Tom Petty](https://open.spotify.com/album/2jipnmsimfXo4shzek45q2) | 3:06 | 2024-07-05 | 2024-10-19 |
@@ -132,6 +132,7 @@
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |
 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 | 2025-02-14 | 2025-05-03 |
 | [Leave the Tab Open](https://open.spotify.com/track/2magbsrEX1TSYoCTO1Zocl) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Leave the Tab Open](https://open.spotify.com/album/6m3N5BjxA8SxB47RrTPGCN) | 3:06 | 2025-04-25 |  |
+| [Let It Ride](https://open.spotify.com/track/79pw9LTjx6RO0PCPdIgOnH) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Let It Ride](https://open.spotify.com/album/1tMjcGC2FhekVNtpytOO8H) | 3:02 | 2025-06-06 |  |
 | [Let Your Horses Run](https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run](https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd) | 2:59 | 2024-06-28 | 2024-09-14 |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-31 | 2025-04-11 |
 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 | 2024-07-12 | 2024-09-14 |
@@ -213,13 +214,14 @@
 | [Smoke](https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feels Country To Me \(Deluxe Edition\)](https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI) | 3:15 | 2024-08-16 | 2025-05-17 |
 | [Smoke Rings](https://open.spotify.com/track/4nl2s8WMKZrMnDbI0dT6G3) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Smoke Rings](https://open.spotify.com/album/73dLh0Odw7jnzPXDO9VQ1S) | 3:04 | 2025-01-31 | 2025-04-26 |
 | [Somebody](https://open.spotify.com/track/4To7mPuAzvr3SEv11JydSu) | [Julia Vos](https://open.spotify.com/artist/0dW8yOcvW7yg5U3d4g2bBB) | [Somebody](https://open.spotify.com/album/2Mm3lPj9raAwpBrcbKZGD6) | 3:34 | 2024-09-13 | 2024-10-05 |
+| [Somebody I Know](https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Somebody I Know](https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e) | 3:00 | 2025-06-06 |  |
 | [Somebody's Summer](https://open.spotify.com/track/2XK5pRFfwdj5Sioq1kGEhE) | [Ben Chase](https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0) | [Somebody's Summer](https://open.spotify.com/album/0TfNXl2LBzm2D7iTHPCbeT) | 2:33 | 2024-06-28 | 2024-09-14 |
 | [sometimes](https://open.spotify.com/track/3NQhWulAjyPb9s9RYpJnY0) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [sometimes](https://open.spotify.com/album/4BPPmUXxkL4Y03co7Mp3CD) | 2:40 | 2024-11-01 | 2024-11-23 |
 | [Somewhere Tonight](https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Somewhere Tonight](https://open.spotify.com/album/7kyYOT9mx5VaYu8iVoIK57) | 3:01 | 2024-08-09 | 2024-11-16 |
 | [Sounds Like A Memory](https://open.spotify.com/track/1C6Gh0FdaWKzE8qSiuWz6y) | [Rob Fitzgerald](https://open.spotify.com/artist/20qDnAzxoDhdA6eU6Ua6UT) | [Sounds Like A Memory](https://open.spotify.com/album/2bhbjNWxofLWAFddocTZd8) | 2:55 | 2025-04-25 |  |
 | [Stay a Little Longer](https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [Stay a Little Longer](https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb) | 3:09 | 2024-11-15 | 2025-04-26 |
 | [Still Make Cowgirls](https://open.spotify.com/track/6vuAjHpUrOVoY2hedswbdb) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Still Make Cowgirls](https://open.spotify.com/album/7tYoO5Hw7GbyYXXofPIWi5) | 3:08 | 2024-06-28 | 2024-08-03 |
-| [Stoned Alone \(feat\. Caitlyn Smith\)](https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 3:33 | 2024-10-11 |  |
+| [Stoned Alone \(feat\. Caitlyn Smith\)](https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 3:33 | 2024-10-11 | 2025-06-07 |
 | [Stuck](https://open.spotify.com/track/2nfzo62qLpxKagL3Ed4lOx) | [David Boyd Janes](https://open.spotify.com/artist/5GxnWuuTpzdnPb57PFxUHM) | [Stuck](https://open.spotify.com/album/6jsTamGJma9aiq767djQ7z) | 3:28 | 2024-06-28 | 2024-07-06 |
 | [Tail Lights](https://open.spotify.com/track/2V0OXn4Bum36a6tcVdDEci) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Tail Lights](https://open.spotify.com/album/3UnKGVmIllBTCsAbj4i9Wk) | 3:34 | 2025-01-31 | 2025-03-29 |
 | [Takes Me Back](https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Takes Me Back](https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd) | 3:15 | 2024-10-04 | 2024-10-26 |

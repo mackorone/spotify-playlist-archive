@@ -1,28 +1,36 @@
 {
-  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Muni Long",
-  "num_followers": 698955,
+  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Ciara",
+  "num_followers": 699106,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aCdNogAAAABlW95SymRzFU0HoIOSSEUJ",
+  "snapshot_id": "aEKJHwAAAADNVapnzOCnxAUTFY2qreGt",
   "tracks": [
     {
-      "added_at": "2025-05-02 04:00:32",
+      "added_at": "2025-06-06 04:54:35",
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 218397,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"
+      "duration_ms": 210071,
+      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -57,22 +65,6 @@
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
-      "added_at": "2025-05-02 04:00:32",
-      "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
-    },
-    {
       "added_at": "2024-03-08 16:23:30",
       "album": {
         "name": "The Diary Of Alicia Keys",
@@ -87,6 +79,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2025-05-02 04:00:32",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 218397,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"
     },
     {
       "added_at": "2024-03-08 16:23:30",
@@ -121,22 +129,6 @@
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
-      "added_at": "2025-05-02 04:00:32",
-      "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
-    },
-    {
       "added_at": "2024-02-07 18:14:04",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -169,6 +161,22 @@
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
+      "added_at": "2025-05-02 04:00:32",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+    },
+    {
       "added_at": "2024-02-07 18:14:04",
       "album": {
         "name": "Love Deluxe",
@@ -183,22 +191,6 @@
       "duration_ms": 218000,
       "name": "Like a Tattoo",
       "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
-    },
-    {
-      "added_at": "2025-04-25 07:40:31",
-      "album": {
-        "name": "Why Not More?",
-        "url": "https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 172294,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1S9nYSuuITWjF1VqqJGUTn"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -221,6 +213,22 @@
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
+      "added_at": "2025-05-02 04:00:32",
+      "album": {
+        "name": "Burning Blue",
+        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205724,
+      "name": "Burning Blue",
+      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+    },
+    {
       "added_at": "2024-03-08 16:23:30",
       "album": {
         "name": "The Writing's On The Wall",
@@ -237,20 +245,20 @@
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
-      "added_at": "2025-05-16 14:37:22",
+      "added_at": "2025-04-25 07:40:31",
       "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz"
+        "name": "Why Not More?",
+        "url": "https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 179594,
-      "name": "WHY",
-      "url": "https://open.spotify.com/track/2Ehx04k5p0pv0TbIwTb8Hl"
+      "duration_ms": 172294,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1S9nYSuuITWjF1VqqJGUTn"
     },
     {
       "added_at": "2024-03-08 16:23:30",
@@ -271,6 +279,38 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "added_at": "2025-05-16 14:37:22",
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/2Ehx04k5p0pv0TbIwTb8Hl"
+    },
+    {
+      "added_at": "2024-08-13 17:24:58",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2025-03-28 17:05:46",
@@ -303,38 +343,6 @@
       "duration_ms": 182741,
       "name": "Ms. Goody Two Shoes",
       "url": "https://open.spotify.com/track/7K9LVXkDmOQZ9aQnqGejqz"
-    },
-    {
-      "added_at": "2024-08-13 17:24:58",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
-    },
-    {
-      "added_at": "2025-05-16 14:37:22",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 172924,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
     },
     {
       "added_at": "2024-08-13 17:24:58",
@@ -385,22 +393,6 @@
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
-      "added_at": "2025-05-16 14:37:22",
-      "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
       "added_at": "2024-02-07 18:14:04",
       "album": {
         "name": "For Broken Ears",
@@ -417,20 +409,20 @@
       "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
-      "added_at": "2025-03-28 17:05:46",
+      "added_at": "2025-05-16 14:37:22",
       "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+        "name": "3",
+        "url": "https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+      "duration_ms": 172924,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -449,6 +441,22 @@
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
+      "added_at": "2025-03-28 17:05:46",
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
       "added_at": "2024-03-08 16:23:30",
       "album": {
         "name": "My 21st Century Blues",
@@ -463,38 +471,6 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2025-05-16 14:37:22",
-      "album": {
-        "name": "do what i say",
-        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
     },
     {
       "added_at": "2024-08-13 17:24:58",
@@ -513,20 +489,20 @@
       "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
     },
     {
-      "added_at": "2024-03-08 16:23:30",
+      "added_at": "2024-02-05 04:09:08",
       "album": {
-        "name": "Session 32",
-        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
         }
       ],
-      "duration_ms": 98026,
-      "name": "Session 32",
-      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2024-08-13 17:24:58",
@@ -549,20 +525,20 @@
       "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
     },
     {
-      "added_at": "2025-05-16 14:37:22",
+      "added_at": "2024-03-08 16:23:30",
       "album": {
-        "name": "Ain't Sad About It",
-        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
       },
       "artists": [
         {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 223106,
-      "name": "Ain't Sad About It",
-      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": "2024-08-13 17:24:58",
@@ -613,6 +589,22 @@
       "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
+      "added_at": "2025-05-16 14:37:22",
+      "album": {
+        "name": "do what i say",
+        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+    },
+    {
       "added_at": "2025-03-28 17:05:46",
       "album": {
         "name": "Call Me Crazy, But...",
@@ -649,6 +641,22 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
+      "added_at": "2024-03-08 16:23:30",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+    },
+    {
       "added_at": "2024-08-13 17:24:58",
       "album": {
         "name": "Nasty",
@@ -679,22 +687,6 @@
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-03-08 16:23:30",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "added_at": "2024-08-13 17:24:58",
@@ -831,6 +823,22 @@
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+    },
+    {
+      "added_at": "2024-03-08 16:23:30",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     }
   ],
   "unique_name": "Women of R&B",

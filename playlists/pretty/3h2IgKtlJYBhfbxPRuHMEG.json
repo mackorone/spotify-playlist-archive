@@ -6,13 +6,37 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEjYe1JPnvw7ziXp4aJJ+5R9110KdM",
+  "snapshot_id": "AAAEk1uIg9m0qM+EsoSvEDnBu+gZoCuL",
   "tracks": [
     {
-      "added_at": "2025-05-30 11:47:38",
+      "added_at": "2025-06-06 12:19:47",
       "album": {
-        "name": "RELOADED",
-        "url": "https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k"
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 184242,
+      "name": "Entropy (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/5qzyfGzhUm5YoruJeQRtiI"
+    },
+    {
+      "added_at": "2025-06-06 11:49:05",
+      "album": {
+        "name": "Patience (with Amadou & Mariam)",
+        "url": "https://open.spotify.com/album/25nwZXV9npGbu4CFqvDCb0"
       },
       "artists": [
         {
@@ -20,13 +44,13 @@
           "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
         }
       ],
-      "duration_ms": 228804,
-      "name": "RELOADED",
-      "url": "https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz"
+      "duration_ms": 185142,
+      "name": "Patience (with Amadou & Mariam)",
+      "url": "https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K"
     },
     {
       "added_at": "2025-06-02 13:15:12",
@@ -155,6 +179,26 @@
       "duration_ms": 160941,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/7IKTp0RWkrNgrdyIZ5Egk4"
+    },
+    {
+      "added_at": "2025-05-30 11:47:38",
+      "album": {
+        "name": "RELOADED",
+        "url": "https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 228804,
+      "name": "RELOADED",
+      "url": "https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz"
     },
     {
       "added_at": "2025-05-30 11:47:38",
@@ -1187,82 +1231,6 @@
       "duration_ms": 188800,
       "name": "It's Our Destiny - Subtronics Remix",
       "url": "https://open.spotify.com/track/1WylHY3NV9jPjRlpHcA8yR"
-    },
-    {
-      "added_at": "2025-05-30 11:47:38",
-      "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 240899,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU"
-    },
-    {
-      "added_at": "2025-05-30 11:47:38",
-      "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX"
-      },
-      "artists": [
-        {
-          "name": "Emalkay",
-          "url": "https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w"
-        },
-        {
-          "name": "The Others",
-          "url": "https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL"
-        },
-        {
-          "name": "Subscape",
-          "url": "https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS"
-        }
-      ],
-      "duration_ms": 268827,
-      "name": "Berserker",
-      "url": "https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN"
-    },
-    {
-      "added_at": "2025-05-30 11:47:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rude Boy 22 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
-    },
-    {
-      "added_at": "2025-05-30 11:47:38",
-      "album": {
-        "name": "My Favourite Dream",
-        "url": "https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4"
-      },
-      "artists": [
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        },
-        {
-          "name": "Tribe Alexander",
-          "url": "https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "My Favourite Dream",
-      "url": "https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I"
     }
   ],
   "unique_name": "Bass Drop",

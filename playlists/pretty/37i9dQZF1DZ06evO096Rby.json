@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 43500,
+  "num_followers": 43535,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAJCvR1NIwvihZFmUi9kLI1",
+  "snapshot_id": "aEDeAAAAAABpyJi7xV3UkYX+vC3rVa4b",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ajustad\u00f3n",
-        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Ajustad\u00f3n",
-      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Muchas Ganas (En Vivo)",
         "url": "https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX"
       },
@@ -523,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bronco Raptor",
-        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
+        "name": "Ajustad\u00f3n",
+        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
       },
       "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 218295,
-      "name": "La Bronco Raptor",
-      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
+      "duration_ms": 159685,
+      "name": "Ajustad\u00f3n",
+      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bronco Raptor",
+        "url": "https://open.spotify.com/album/1wvNskhYrVLbNd6UNk3SfB"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 218295,
+      "name": "La Bronco Raptor",
+      "url": "https://open.spotify.com/track/763c8f06SuDgOhCSzlPv92"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Cambio la Suerte",
         "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 171430,
       "name": "Me Cambio la Suerte",
       "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "El Caballero - En Vivo",
+      "url": "https://open.spotify.com/track/2LBlj7rQADMqVfss93FgRE"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 188138,
       "name": "Botecitos",
       "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "El Caballero - En Vivo",
-      "url": "https://open.spotify.com/track/2LBlj7rQADMqVfss93FgRE"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba Guasave (Chapito Isidro)",
         "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Entre Golpes y Besos - En Vivo",
-      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+        "name": "Se Cans\u00f3 (En Vivo)",
+        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
+      "duration_ms": 194634,
+      "name": "Se Cans\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
     },
     {
       "added_at": null,
@@ -899,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Cans\u00f3 (En Vivo)",
-        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 194634,
-      "name": "Se Cans\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
+      "duration_ms": 196750,
+      "name": "Entre Golpes y Besos - En Vivo",
+      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
     },
     {
       "added_at": null,

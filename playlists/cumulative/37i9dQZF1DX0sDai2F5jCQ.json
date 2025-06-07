@@ -7165,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -11810,6 +11828,24 @@
       "duration_ms": 166314,
       "name": "We Won",
       "url": "https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief"
+    },
+    {
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215425,
+      "name": "Welcome to Tha Carter",
+      "url": "https://open.spotify.com/track/0wI5MvhcdTrVERaDOHiNnp"
     },
     {
       "album": {

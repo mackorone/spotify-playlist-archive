@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 193226,
       "name": "Disco Nap",
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
@@ -6013,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Makes Me Wanna Dance",
+        "url": "https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161643,
+      "name": "Makes Me Wanna Dance",
+      "url": "https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH"
+    },
+    {
+      "album": {
         "name": "Manzana",
         "url": "https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb"
       },
@@ -7530,7 +7548,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 199461,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm"
@@ -9648,6 +9666,28 @@
       "duration_ms": 153005,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
+    },
+    {
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        },
+        {
+          "name": "Josef Scott",
+          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167805,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
     },
     {
       "album": {

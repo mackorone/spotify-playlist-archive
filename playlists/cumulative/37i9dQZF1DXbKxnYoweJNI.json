@@ -25332,12 +25332,12 @@
       },
       "artists": [
         {
-          "name": "\u4e09\u6c34",
-          "url": "https://open.spotify.com/artist/1BHeIJXye6EDxkyXb8wcG1"
-        },
-        {
           "name": "FH",
           "url": "https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF"
+        },
+        {
+          "name": "\u4e09\u6c34",
+          "url": "https://open.spotify.com/artist/1BHeIJXye6EDxkyXb8wcG1"
         }
       ],
       "date_added": "2025-06-05",
@@ -35554,6 +35554,24 @@
       "duration_ms": 184504,
       "name": "\u767d\u65e5\u68a6\u6e38\u8bb0",
       "url": "https://open.spotify.com/track/6jVITaIUfPoThBIE9MeTqS"
+    },
+    {
+      "album": {
+        "name": "\u767d\u6708\u5149\u624b\u672d",
+        "url": "https://open.spotify.com/album/3TG7q6oF9Hp5YYVV0hFHtm"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u840c\u5ddd",
+          "url": "https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253124,
+      "name": "\u767d\u6708\u5149\u624b\u672d",
+      "url": "https://open.spotify.com/track/5ygzeolDec4fz0kcYSWkck"
     },
     {
       "album": {

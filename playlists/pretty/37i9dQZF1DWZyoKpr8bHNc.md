@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,210 likes - 90 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,304 likes - 90 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 27 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 |
 | 28 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
 | 29 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
-| 30 | [Andak Bahariya](https://open.spotify.com/track/1Ub49Mz15iM2aur0EnTAik) | [Najah Salam](https://open.spotify.com/artist/2h3ONlkzMRAAkanWyh9RTR), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z), [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Melodies from Lebanon](https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR) | 8:15 |
+| 30 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
 | 31 | [Laktob Aourak El Chagar](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Hikayet El Omr Kolloh \- Zaman Ya Hob](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
-| 32 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
+| 32 | [Andak Bahariya](https://open.spotify.com/track/1Ub49Mz15iM2aur0EnTAik) | [Najah Salam](https://open.spotify.com/artist/2h3ONlkzMRAAkanWyh9RTR), [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z), [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Melodies from Lebanon](https://open.spotify.com/album/1gjPfpklxI7kwtl7k0wGDR) | 8:15 |
 | 33 | [Gana El Hawa Live](https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [El Toba](https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu) | 12:22 |
 | 34 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
 | 35 | [Al Dalouna](https://open.spotify.com/track/4taU34sUdcaY8GRJNabiQq) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [In the Country Bid'dayaa](https://open.spotify.com/album/1ipepXXHzY5fO9pnuOCxuO) | 3:35 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 62 | [Yess'idli Sabahou](https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 1](https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a) | 4:25 |
 | 63 | [Habayebna Hawalayna](https://open.spotify.com/track/3mJetRKi2uyhXGE1j8NnF9) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:10 |
 | 64 | [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 |
-| 65 | [Zakfe Ya Shabab](https://open.spotify.com/track/3mllE3vXvito7KG8K66w0Y) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Arabic Golden Oldies: Sabah \- Dahabiyat, Vol\. 2](https://open.spotify.com/album/3t2DQoQFV3TqWV5O9Grh5I) | 4:43 |
-| 66 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |
+| 65 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |
+| 66 | [Zakfe Ya Shabab](https://open.spotify.com/track/3mllE3vXvito7KG8K66w0Y) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Arabic Golden Oldies: Sabah \- Dahabiyat, Vol\. 2](https://open.spotify.com/album/3t2DQoQFV3TqWV5O9Grh5I) | 4:43 |
 | 67 | [E’tazalt El Gharam](https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [E'tazalt El Gharam](https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17) | 7:47 |
 | 68 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |
 | 69 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |

@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Volbeat
 
-508 songs - 1 day 5 hr 4 min
+509 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 | 2024-11-07 | 2024-11-15 |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-05-15 |  |
 | [Growing Numb](https://open.spotify.com/track/2BgO2kaEPZOL0LDEPubOEF) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Soft Noise](https://open.spotify.com/album/3NhMG4t5Jt8fKwGEXeXc1A) | 3:59 | 2024-11-28 | 2024-12-13 |
+| [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-06 |  |
 | [H3ART](https://open.spotify.com/track/2HwyEx4K2GQgd6qeHHwW2G) | [Generation.F](https://open.spotify.com/artist/7GeVC42xynFBkB6k4R5upa) | [H3ART](https://open.spotify.com/album/3mWCpFJ6BCujuMNFHBlLzd) | 3:41 | 2024-08-08 | 2024-08-20 |
 | [Halo](https://open.spotify.com/track/7GR2rTqKGbHS7ey5Fsnag8) | [Call Me Karizma](https://open.spotify.com/artist/1sW4M8kOFtay7ghvsAeOzZ), [LANDMVRKS](https://open.spotify.com/artist/0cEilUo3Eaw3KuL4Q5Jt21) | [Halo](https://open.spotify.com/album/5rjOiuejXu8LvmlglicDU2) | 3:07 | 2024-10-10 | 2024-10-18 |
 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 | 2025-05-08 |  |
@@ -444,7 +445,7 @@
 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-02 | 2025-02-18 |
 | [Teeth](https://open.spotify.com/track/6ByoE7KZTcqPmmyWGyq3hp) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [Teeth](https://open.spotify.com/album/6TxVQDVix5mb1iqfeTgDmW) | 2:29 | 2025-04-10 | 2025-04-25 |
 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 | 2024-06-27 | 2024-07-27 |
-| [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 |  |
+| [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-01 | 2025-06-07 |
 | [THE DAY I DIE](https://open.spotify.com/track/6i7bF28lxl9lIY5YlxEkOL) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE DAY I DIE](https://open.spotify.com/album/2TcaqGYejUhMR5Aazztveu) | 4:00 | 2025-04-24 |  |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-08 | 2024-09-27 |
 | [THE DEVIL I KNOW](https://open.spotify.com/track/6HUoEDzOcsT6d8mbY8CsJw) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [THE DEVIL I KNOW](https://open.spotify.com/album/5jfgjEwyuDHKPP7M3QANcB) | 3:45 | 2024-10-31 | 2024-11-08 |

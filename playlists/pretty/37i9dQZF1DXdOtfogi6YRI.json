@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: schafter",
-  "num_followers": 19122,
+  "num_followers": 19128,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Missouri",
-        "url": "https://open.spotify.com/album/7Hwn7u60OG2lY1ZCfESi0Q"
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
       },
       "artists": [
         {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Missouri",
-      "url": "https://open.spotify.com/track/73n8PQvuxmh9mdE7DQpMUj"
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -327,22 +331,18 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+        "name": "Missouri",
+        "url": "https://open.spotify.com/album/7Hwn7u60OG2lY1ZCfESi0Q"
       },
       "artists": [
         {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
         }
       ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
+      "duration_ms": 147000,
+      "name": "Missouri",
+      "url": "https://open.spotify.com/track/73n8PQvuxmh9mdE7DQpMUj"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Brednie",
-        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
-      },
-      "artists": [
-        {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
-        }
-      ],
-      "duration_ms": 195176,
-      "name": "Brednie",
-      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "Ale ten",
         "url": "https://open.spotify.com/album/4eqdhQTw6Mf8rPt9nNwszx"
       },
@@ -683,6 +667,62 @@
       "duration_ms": 159428,
       "name": "Ale ten",
       "url": "https://open.spotify.com/track/5yXsWm08CzbcfNe9FK5yfw"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Brednie",
+        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "duration_ms": 195176,
+      "name": "Brednie",
+      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "FALA MIXTAPE vol. 3",
+        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
+      },
+      "artists": [
+        {
+          "name": "KOLEKTYW FALA",
+          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        },
+        {
+          "name": "tyloch",
+          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
+        },
+        {
+          "name": "Mike Senshi",
+          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Sto lat",
+      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -735,46 +775,6 @@
       "duration_ms": 131052,
       "name": "NOWY POLSKI HYMN",
       "url": "https://open.spotify.com/track/1CVMXEAsLeXaxjSsV2DEtq"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "FALA MIXTAPE vol. 3",
-        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
-      },
-      "artists": [
-        {
-          "name": "KOLEKTYW FALA",
-          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
-        },
-        {
-          "name": "Szymi Szyms",
-          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        },
-        {
-          "name": "tyloch",
-          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
-        },
-        {
-          "name": "Mike Senshi",
-          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Sto lat",
-      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "TikToker?",
+        "url": "https://open.spotify.com/album/2WDfQpDEkmFva6i9cFXk8Q"
+      },
+      "artists": [
+        {
+          "name": "Czasin",
+          "url": "https://open.spotify.com/artist/3SEWLNMfnIlwf6XbjZIuah"
+        }
+      ],
+      "duration_ms": 126740,
+      "name": "TikToker?",
+      "url": "https://open.spotify.com/track/0J7RZqtlIzTyEIp6Ya9fFG"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "SFERA BRAKU GRAWITACJI",
         "url": "https://open.spotify.com/album/24tHdTyj0vC6Q7wH5Q3bu9"
       },
@@ -1307,18 +1323,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "TikToker?",
-        "url": "https://open.spotify.com/album/2WDfQpDEkmFva6i9cFXk8Q"
+        "name": "PU\u0141AP",
+        "url": "https://open.spotify.com/album/5dNwOn0L4ucFcomLVeI9rC"
       },
       "artists": [
         {
-          "name": "Czasin",
-          "url": "https://open.spotify.com/artist/3SEWLNMfnIlwf6XbjZIuah"
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
         }
       ],
-      "duration_ms": 126740,
-      "name": "TikToker?",
-      "url": "https://open.spotify.com/track/0J7RZqtlIzTyEIp6Ya9fFG"
+      "duration_ms": 165000,
+      "name": "PU\u0141AP",
+      "url": "https://open.spotify.com/track/7zhCaspWo9A8O12kPhlsoz"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1343,22 +1363,22 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "PU\u0141AP",
-        "url": "https://open.spotify.com/album/5dNwOn0L4ucFcomLVeI9rC"
+        "name": "jezus",
+        "url": "https://open.spotify.com/album/6y0C25NRurw7EP4OOCxxvO"
       },
       "artists": [
         {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
         },
         {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
         }
       ],
-      "duration_ms": 165000,
-      "name": "PU\u0141AP",
-      "url": "https://open.spotify.com/track/7zhCaspWo9A8O12kPhlsoz"
+      "duration_ms": 136421,
+      "name": "jezus",
+      "url": "https://open.spotify.com/track/2VsjCLFYIDZEF8hOvXhMMm"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1379,26 +1399,6 @@
       "duration_ms": 226303,
       "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
       "url": "https://open.spotify.com/track/2TrCHAIp8m2JrQMKd4P3GU"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "jezus",
-        "url": "https://open.spotify.com/album/6y0C25NRurw7EP4OOCxxvO"
-      },
-      "artists": [
-        {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "jezus",
-      "url": "https://open.spotify.com/track/2VsjCLFYIDZEF8hOvXhMMm"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
+        "name": "Pr\u0105d",
+        "url": "https://open.spotify.com/album/6AMo4jcotzw3BCrWTgXEWj"
+      },
+      "artists": [
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        }
+      ],
+      "duration_ms": 155324,
+      "name": "Pr\u0105d",
+      "url": "https://open.spotify.com/track/6NN7OZSXGqxIxV40JsbNAr"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
         "name": "Nie Tak Szybko",
         "url": "https://open.spotify.com/album/4Vl1otyqbw7mjWmGT8OzGm"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 196626,
       "name": "Nie Tak Szybko",
       "url": "https://open.spotify.com/track/2Qsq2127C4LKjoDEmDWyw2"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
-        "name": "Pr\u0105d",
-        "url": "https://open.spotify.com/album/6AMo4jcotzw3BCrWTgXEWj"
-      },
-      "artists": [
-        {
-          "name": "bartek koko",
-          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        }
-      ],
-      "duration_ms": 155324,
-      "name": "Pr\u0105d",
-      "url": "https://open.spotify.com/track/6NN7OZSXGqxIxV40JsbNAr"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1fc9SsybfeKZtA802PLKv3"
-      },
-      "artists": [
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        },
-        {
-          "name": "Wuja HZG",
-          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
-        }
-      ],
-      "duration_ms": 145238,
-      "name": "AURA",
-      "url": "https://open.spotify.com/track/7FLuRe3FYGPXdSFJGjli6N"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "Z\u0142ota Rybka EP",
         "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 132413,
       "name": "Balaclava",
       "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1fc9SsybfeKZtA802PLKv3"
+      },
+      "artists": [
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        },
+        {
+          "name": "Wuja HZG",
+          "url": "https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj"
+        }
+      ],
+      "duration_ms": 145238,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/7FLuRe3FYGPXdSFJGjli6N"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Zawi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/1CM6cpBFkQXd1vwVYD7sxz"
-      },
-      "artists": [
-        {
-          "name": "Hanka \u0141ubie\u0144ska",
-          "url": "https://open.spotify.com/artist/4AjOhD6PrIv7upuWscLRGI"
-        },
-        {
-          "name": "Przyborowski",
-          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
-        }
-      ],
-      "duration_ms": 207078,
-      "name": "Zawi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/1RkQUsBoaeOHx080M1ids8"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "Ziomki W Swetrach",
         "url": "https://open.spotify.com/album/6WSpP7gKBulLS8D8xre938"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 178416,
       "name": "Polregio",
       "url": "https://open.spotify.com/track/4LkVjJ5BJKgknPVR3T5ZhZ"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Zawi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/1CM6cpBFkQXd1vwVYD7sxz"
+      },
+      "artists": [
+        {
+          "name": "Hanka \u0141ubie\u0144ska",
+          "url": "https://open.spotify.com/artist/4AjOhD6PrIv7upuWscLRGI"
+        },
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Zawi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/1RkQUsBoaeOHx080M1ids8"
     },
     {
       "added_at": "2025-05-16 10:59:11",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2025-05-16 10:59:11",
       "album": {
-        "name": "Ka\u0142u\u017ca k\u0142amstw",
-        "url": "https://open.spotify.com/album/0VIroa4cV43OudJZeR0TlT"
-      },
-      "artists": [
-        {
-          "name": "M\u0142ody SMF",
-          "url": "https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC"
-        },
-        {
-          "name": "Own Dialect",
-          "url": "https://open.spotify.com/artist/3fb7LxzJii4WgS7qyEqV3s"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Ka\u0142u\u017ca k\u0142amstw",
-      "url": "https://open.spotify.com/track/2WpEdoz8TkTU8S25s21W3E"
-    },
-    {
-      "added_at": "2025-05-16 10:59:11",
-      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 157714,
       "name": "OA",
       "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
+    },
+    {
+      "added_at": "2025-05-16 10:59:11",
+      "album": {
+        "name": "Ka\u0142u\u017ca k\u0142amstw",
+        "url": "https://open.spotify.com/album/0VIroa4cV43OudJZeR0TlT"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody SMF",
+          "url": "https://open.spotify.com/artist/4gY5AFKNSTiO3uXUKeF2oC"
+        },
+        {
+          "name": "Own Dialect",
+          "url": "https://open.spotify.com/artist/3fb7LxzJii4WgS7qyEqV3s"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Ka\u0142u\u017ca k\u0142amstw",
+      "url": "https://open.spotify.com/track/2WpEdoz8TkTU8S25s21W3E"
     },
     {
       "added_at": "2025-05-16 10:59:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,137 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,177 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 28 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
 | 29 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 30 | [Nwa Baby \- Ashawo Remix](https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy) | 4:17 |
-| 31 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 |
+| 31 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
 | 32 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 |
-| 33 | [Ki Ni Big Deal](https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M) | [Nateo C](https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU) | [U Know My P](https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw) | 4:28 |
+| 33 | [Holla At Your Boy](https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:21 |
 | 34 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
 | 35 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 36 | [Bizzy Body](https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:49 |

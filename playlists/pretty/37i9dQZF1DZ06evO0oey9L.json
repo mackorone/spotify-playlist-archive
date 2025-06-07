@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94053,
+  "num_followers": 94061,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACGWxX+Eo/5V6xKgRF8VvYs",
+  "snapshot_id": "aEDeAAAAAADMfW1soAmKLO6adqN49kGr",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Destapo Un Bote",
-        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180166,
-      "name": "Me Destapo Un Bote",
-      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 197247,
       "name": "WAX",
       "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Destapo Un Bote",
+        "url": "https://open.spotify.com/album/3HvE0DyvODw0JzVCdWdVYF"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180166,
+      "name": "Me Destapo Un Bote",
+      "url": "https://open.spotify.com/track/5sKCVKfm9B7uWpIun0Ftwj"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 148344,
+      "name": "La Fiesta Ya Empezo",
+      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Exceso Me Encanto",
         "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
       },
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Toxico",
+        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 148344,
-      "name": "La Fiesta Ya Empezo",
-      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+      "duration_ms": 192728,
+      "name": "Toxico",
+      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 151690,
       "name": "Gabbana Es El Porte",
       "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxico",
-        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 192728,
-      "name": "Toxico",
-      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 120653,
+      "name": "Diamantes De Esfera",
+      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Una Pantera",
         "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 170492,
       "name": "Como Una Pantera",
       "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 120653,
-      "name": "Diamantes De Esfera",
-      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 138272,
+      "name": "Alex Valencia",
+      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ace of Spades",
         "url": "https://open.spotify.com/album/4gvnBYrlVxacLhUeBfuIqr"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 180000,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/5NAJzQnVtRPmug4PcwiFgm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 138272,
-      "name": "Alex Valencia",
-      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
     },
     {
       "added_at": null,

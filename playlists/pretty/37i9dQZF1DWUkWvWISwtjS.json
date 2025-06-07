@@ -43,22 +43,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -379,6 +379,26 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Algo Mais (Amante) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 187378,
       "name": "Sofazinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Algo Mais (Amante) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 180001,
-      "name": "choque t\u00e9rmico - ao vivo",
-      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "Dona Maria",
         "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "choque t\u00e9rmico - ao vivo",
+      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -539,8 +539,8 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
+        "name": "A Hora \u00c9 Agora (Ao Vivo Em Jurer\u00ea)",
+        "url": "https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN"
       },
       "artists": [
         {
@@ -548,9 +548,25 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 186816,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+      "duration_ms": 191720,
+      "name": "Eu Quero S\u00f3 Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7blWdaLlmXMEh4ej2IPP8N"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -571,22 +587,6 @@
       "duration_ms": 184064,
       "name": "Bruto Memo",
       "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -623,8 +623,8 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "A Hora \u00c9 Agora (Ao Vivo Em Jurer\u00ea)",
-        "url": "https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN"
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
       },
       "artists": [
         {
@@ -632,57 +632,9 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 191720,
-      "name": "Eu Quero S\u00f3 Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7blWdaLlmXMEh4ej2IPP8N"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Start In S\u00e3o Paulo (ao Vivo)",
-        "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
-        }
-      ],
-      "duration_ms": 136176,
-      "name": "Beber Com Emerg\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "No Pelo Em Campo Grande (ao Vivo)",
-        "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 176575,
-      "name": "Namorada Reserva - Ao Vivo",
-      "url": "https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
-      },
-      "artists": [
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+      "duration_ms": 186816,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -703,22 +655,50 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Ao Vivo Em Macei\u00f3",
-        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
+        "name": "Start In S\u00e3o Paulo (ao Vivo)",
+        "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
       "artists": [
         {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
         }
       ],
-      "duration_ms": 279810,
-      "name": "O Que Houve? - Ao Vivo",
-      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
+      "duration_ms": 136176,
+      "name": "Beber Com Emerg\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+      },
+      "artists": [
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "No Pelo Em Campo Grande (ao Vivo)",
+        "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 176575,
+      "name": "Namorada Reserva - Ao Vivo",
+      "url": "https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -739,6 +719,26 @@
       "duration_ms": 180500,
       "name": "Short Jeans - Ao Vivo",
       "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Ao Vivo Em Macei\u00f3",
+        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "O Que Houve? - Ao Vivo",
+      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
-      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
         "name": "Amoreco",
         "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 151262,
       "name": "Amoreco",
       "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
+        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Pronta pra Trair",
+        "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 177144,
+      "name": "Pronta pra Trair",
+      "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Volta Marcada",
         "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 167573,
       "name": "Volta Marcada",
       "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Pronta pra Trair",
-        "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 177144,
-      "name": "Pronta pra Trair",
-      "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
+        "name": "Compartilhando M\u00e1goa",
+        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 170038,
+      "name": "Compartilhando M\u00e1goa",
+      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
+    },
+    {
+      "added_at": "2025-05-30 18:43:30",
+      "album": {
         "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 178216,
       "name": "Surra de Cama",
       "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
-    },
-    {
-      "added_at": "2025-05-30 18:43:30",
-      "album": {
-        "name": "Compartilhando M\u00e1goa",
-        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 170038,
-      "name": "Compartilhando M\u00e1goa",
-      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
     },
     {
       "added_at": "2025-05-30 18:43:30",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2025-05-30 18:43:30",
       "album": {
-        "name": "Casa Amarela",
-        "url": "https://open.spotify.com/album/4Emek9DQiIDPcjlUvmdXUB"
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
       },
       "artists": [
         {
-          "name": "Guilherme & Santiago",
-          "url": "https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         }
       ],
-      "duration_ms": 195853,
-      "name": "Casa Amarela",
-      "url": "https://open.spotify.com/track/4aD18gS9Lbp9XMmXS4qu0J"
+      "duration_ms": 153756,
+      "name": "Segue O Plano - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
     },
     {
       "added_at": "2025-05-30 18:43:30",

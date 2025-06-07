@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-819 songs - 1 day 5 hr 59 min
+820 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [Mercury Retrograde](https://open.spotify.com/track/2dTYNnBPJDkb5RsFozDnGV) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz) | [State of the Art](https://open.spotify.com/album/0CN998CRgRgKRBoZKF1rpE) | 3:16 | 2022-01-06 | 2022-02-05 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-05-20 |  |
 | [METAMORPHOSIS 3](https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [METAMORPHOSIS 3](https://open.spotify.com/album/6mMcdfZJVwHQfVLZocxKfs) | 2:08 | 2023-05-05 | 2023-09-30 |
-| [Mexican Phonk Eki](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Mexican Phonk Eki](https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k) | 1:38 | 2023-07-07 |  |
+| [Mexican Phonk Eki](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Mexican Phonk Eki](https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k) | 1:38 | 2023-07-07 | 2025-06-07 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-20 | 2024-04-19 |
 | [MIDNIGHT](https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG) | 2:02 | 2022-05-20 | 2024-11-09 |
 | [Milky Way](https://open.spotify.com/track/34K4IIR6XAUURjcSyrfTgO) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0), [Luga](https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz), [6 Senz](https://open.spotify.com/artist/147cJWfJ6XKAh9T8ohr7Ts) | [Milky Way](https://open.spotify.com/album/3SA5JQvIztlf2IZshQpsha) | 2:06 | 2021-12-03 | 2022-05-14 |
@@ -626,6 +626,7 @@
 | [RITMO BRUTALISMO](https://open.spotify.com/track/5iPWVa2YCsEyGDPlnYtN7H) | [Xllie!](https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ) | [RITMO BRUTALISMO](https://open.spotify.com/album/0cqTIJzzTPD9d7hnt9qx5a) | 2:16 | 2023-08-25 | 2023-11-07 |
 | [Ritmo Brutalismo](https://open.spotify.com/track/24f8BIfC3iOpKXiOlhrmQK) | [Xllie!](https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ) | [Ritmo Brutalismo](https://open.spotify.com/album/5TLSRYcgV2yXIvbRVRmoNS) | 2:16 | 2023-08-25 | 2023-10-29 |
 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 | 2023-07-14 | 2024-08-31 |
+| [RITMO DE VERAO \- SLOWED](https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [RITMO DE VERAO](https://open.spotify.com/album/6Lpeo3sn3ublWcoL5DCpcc) | 1:39 | 2025-06-06 |  |
 | [RITUAL](https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [RITUAL](https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI) | 1:43 | 2022-11-03 | 2023-03-25 |
 | [ROADKILL](https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [ROADKILL](https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM) | 2:04 | 2022-09-02 | 2022-10-29 |
 | [robot rock](https://open.spotify.com/track/3yhv4I91mB3ykLImccAXXV) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [robot rock](https://open.spotify.com/album/4LsaHLgUewiHLWEzeqgQwN) | 2:33 | 2023-12-01 | 2024-01-21 |

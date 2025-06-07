@@ -12081,6 +12081,32 @@
     },
     {
       "album": {
+        "name": "Requiem for a Riot",
+        "url": "https://open.spotify.com/album/1nqOabFas9FCqKVEaRad52"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        },
+        {
+          "name": "Era Harris",
+          "url": "https://open.spotify.com/artist/0LblmjSaHxJvyBMDCWLr3f"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159204,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/4l5ipa1fcZnPlKWHmRHvoS"
+    },
+    {
+      "album": {
         "name": "New Worlds",
         "url": "https://open.spotify.com/album/6QRMRuL9Bumhv3mholG3iw"
       },

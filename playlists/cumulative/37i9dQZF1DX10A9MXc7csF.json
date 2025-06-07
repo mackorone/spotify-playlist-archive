@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Los Aptos",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Saul Villarreal  & Julio Caesar ",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 225333,
       "name": "ADIOS",
       "url": "https://open.spotify.com/track/5I4iRINR2HdbNYHj7r3Jea"
@@ -1848,6 +1848,24 @@
       "duration_ms": 195311,
       "name": "Aqui Nadie Va Llorar",
       "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
+    },
+    {
+      "album": {
+        "name": "AQU\u00cd",
+        "url": "https://open.spotify.com/album/4aQaxcTUYm7zHtPorhWnKX"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "AQU\u00cd",
+      "url": "https://open.spotify.com/track/21kud6Ye97yEoYGc34Ed1S"
     },
     {
       "album": {
@@ -3439,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "Bye Boy",
+        "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178261,
+      "name": "Bye Boy",
+      "url": "https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT"
+    },
+    {
+      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -4218,6 +4258,24 @@
       "duration_ms": 168253,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH"
+    },
+    {
+      "album": {
+        "name": "CH\u00daPAME",
+        "url": "https://open.spotify.com/album/6OuPkRpsvOOFKskRVj21ti"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "CH\u00daPAME",
+      "url": "https://open.spotify.com/track/7ohPHTA0A3CSMgAVFX7Iph"
     },
     {
       "album": {
@@ -6038,7 +6096,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 213777,
       "name": "DIGITAL",
       "url": "https://open.spotify.com/track/7l0RUthPfeJPEaqmCsXLJ7"
@@ -6060,6 +6118,24 @@
       "duration_ms": 207374,
       "name": "Dime",
       "url": "https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv"
+    },
+    {
+      "album": {
+        "name": "ELEGANSTAR",
+        "url": "https://open.spotify.com/album/5JuYFMarGJ8xCJnBftGmx1"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191526,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/7JnUSNfF5UOeej16Nza77f"
     },
     {
       "album": {
@@ -11248,7 +11324,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 163776,
       "name": "Humo Tranqui",
       "url": "https://open.spotify.com/track/4Qw2oUPDxOSZsJPEqzJSgc"
@@ -13332,7 +13408,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 171391,
       "name": "Lo elegiste a \u00e9l (la renta 2)",
       "url": "https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j"
@@ -14334,6 +14410,28 @@
       "duration_ms": 202112,
       "name": "Mamoncita",
       "url": "https://open.spotify.com/track/15Y3OVsWwsM4Gugw9FzRJm"
+    },
+    {
+      "album": {
+        "name": "Mando 15",
+        "url": "https://open.spotify.com/album/7eLDaLIfb0sjFtY5XWnGG6"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Nivel 5",
+          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "Mando 15",
+      "url": "https://open.spotify.com/track/6jaaK01VdLoJeDOvDLqT0y"
     },
     {
       "album": {
@@ -16196,6 +16294,24 @@
       "duration_ms": 156575,
       "name": "Modo Tranquil\u00f3n",
       "url": "https://open.spotify.com/track/68prGJqyFk5wILH0xNFeD3"
+    },
+    {
+      "album": {
+        "name": "Modo Triste",
+        "url": "https://open.spotify.com/album/1jaq0GaRzABajbYTcvVcUe"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160843,
+      "name": "Modo Triste",
+      "url": "https://open.spotify.com/track/4ys9K9wqfkooHZhXhpl6iX"
     },
     {
       "album": {
@@ -18490,6 +18606,28 @@
       "duration_ms": 156374,
       "name": "PA CONTAR",
       "url": "https://open.spotify.com/track/1sISe1Ec8t61ZjtRC9vC8F"
+    },
+    {
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175656,
+      "name": "Pa M\u00ed",
+      "url": "https://open.spotify.com/track/1SZUu98IR0MQzXwkKTNHk9"
     },
     {
       "album": {
@@ -20804,7 +20942,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 174681,
       "name": "Ranchero",
       "url": "https://open.spotify.com/track/6i2IDQkO9VeLtDsZxjm3vl"
@@ -25138,6 +25276,28 @@
       "duration_ms": 212057,
       "name": "UNA LOKURA",
       "url": "https://open.spotify.com/track/3YEGRP2AvlsfopfqiHkVew"
+    },
+    {
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/35Z9dfX4mK24UwngyN8y7J"
+      },
+      "artists": [
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        },
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196859,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6Ss5LtrqGcXHx6SqRooxnL"
     },
     {
       "album": {

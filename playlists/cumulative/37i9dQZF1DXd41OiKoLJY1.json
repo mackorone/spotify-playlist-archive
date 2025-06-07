@@ -20657,6 +20657,28 @@
     },
     {
       "album": {
+        "name": "Gwop",
+        "url": "https://open.spotify.com/album/2HdxMSqROgkx6nNE3w5cF4"
+      },
+      "artists": [
+        {
+          "name": "Xodah",
+          "url": "https://open.spotify.com/artist/6PZ3nyHP9UVR0NTIYxwIL4"
+        },
+        {
+          "name": "Chello",
+          "url": "https://open.spotify.com/artist/6P7ErNofbvvxHUFkA0dE3a"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Gwop",
+      "url": "https://open.spotify.com/track/3FcU2py89fTfILaVh6cFyv"
+    },
+    {
+      "album": {
         "name": "H-PASS",
         "url": "https://open.spotify.com/album/7tNqTmMziApxDpyBwOiHQx"
       },

@@ -4,24 +4,29 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,503 likes - 15 songs - 52 min 29 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,504 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Creeper](https://open.spotify.com/track/2N7NgNdsEy0605JoSUVQwg) | [heavy wild](https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0) | [Death Dreams](https://open.spotify.com/album/0halqVdErEBsSxrVir07Ab) | 3:16 |
-| 2 | [Me lennettiin kohti aamua](https://open.spotify.com/track/16oUMrsZTOpmKKylMMwT6D) | [Flippipuisto](https://open.spotify.com/artist/3IWc5MkkGRWeLMZercb9Q1) | [Me lennettiin kohti aamua](https://open.spotify.com/album/631JYwJ828LQYMeLuknpyH) | 3:08 |
-| 3 | [The Flow of Time And Age](https://open.spotify.com/track/22XFE3xEbsACGFZXpgERnT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [The Flow of Time And Age](https://open.spotify.com/album/01PogVp1gRZ6VdFsvTTR0u) | 4:43 |
-| 4 | [DERELICT](https://open.spotify.com/track/4qRDcniLINPLyMl73lPQl1) | [IDLEYES](https://open.spotify.com/artist/1Zzx3Sl3sPUVtKW9iHCe1k) | [WHORESHIP](https://open.spotify.com/album/0YjV9073hOIYgxZ7I0hhcr) | 4:15 |
-| 5 | [Ser nånting större](https://open.spotify.com/track/3hVL9uxgsW0hAQbPwFdWno) | [Jeanette Åkerlund](https://open.spotify.com/artist/0DWMclpbqAwwZqNoIkJaqY) | [Ser nånting större](https://open.spotify.com/album/6THDv7PcSZMM46p7lAImdv) | 4:11 |
-| 6 | [We Are Rock'N'Roll](https://open.spotify.com/track/7E7FjKtQua64m2VBwAxAiL) | [COBRA CULT](https://open.spotify.com/artist/77IxDTDqG6nzVeemvWGpjG) | [We Are Rock'N'Roll](https://open.spotify.com/album/1pHcuOnXs4wcH0iOyFv35u) | 3:45 |
-| 7 | [Rampa \(Ramp It Up\)](https://open.spotify.com/track/5EGhHhWJF2l3aBeGyuLtmg) | [Isora](https://open.spotify.com/artist/40EcSPTTFtco37f3Ys9kCH), [Hana Beshie](https://open.spotify.com/artist/0gb8IJ7o9cjg8ufGaSYY1Y) | [LUMINA](https://open.spotify.com/album/6Ud4WOYmJ0ZrUbRBhQnz7w) | 2:47 |
-| 8 | [Waiting for you](https://open.spotify.com/track/6y9INjYLAvk7WpacFJuN39) | [Yeah Oh!](https://open.spotify.com/artist/3aiKvxaLxWXN7uOaA4nxmp) | [Waiting for you](https://open.spotify.com/album/32pgN3w87nxwnEhrUQoVBn) | 2:30 |
-| 9 | [Trälhavet](https://open.spotify.com/track/6iKGWZYH3j9CWwGZWkWhaU) | [Dark Sven](https://open.spotify.com/artist/5rXtti22zmqOaYMCsTgbgv), [Åke Nyke](https://open.spotify.com/artist/25YL9ZHgYeaqN87fAobuK7) | [Vi ville se ett norrsken](https://open.spotify.com/album/5wdjFLazua8d2fMpYUCYvp) | 3:50 |
-| 10 | [Dance To The Rhythm](https://open.spotify.com/track/2bEyquRDBJ9Z8e780q2eXk) | [Chris Ward](https://open.spotify.com/artist/6IEciYFAtFyDFIghn29gTv), [Trishauna](https://open.spotify.com/artist/7zwmREaO4J0MzYXn5sKAvU) | [Dance To The Rhythm](https://open.spotify.com/album/42QC6WdHRJawpFWmobTtAs) | 3:01 |
-| 11 | [Nån sån som du](https://open.spotify.com/track/1OCEjLr548g1KIrRaXCXxf) | [Magnus Almgren](https://open.spotify.com/artist/3iZO3QjCSlfkvP7NufkqX2) | [Nån sån som du](https://open.spotify.com/album/5hv5bMqwYjwjRHAYWnMbzQ) | 3:50 |
-| 12 | [Satisfied](https://open.spotify.com/track/4UGbAqtwPXxpgBiNGozDQr) | [Occupation:Baby](https://open.spotify.com/artist/64fWwXwteuqwLPnNw1q9a4) | [Satisfied](https://open.spotify.com/album/1EzNiNmbrFm05KjhwBxVsn) | 3:18 |
-| 13 | [Underbart är kort](https://open.spotify.com/track/2zi8F6xT6AYbllVgAsQ56Z) | [Josefine Wassler](https://open.spotify.com/artist/5FRDbDNwQ1p1GqXt9QOfUx) | [Till dig](https://open.spotify.com/album/62GcsjM2lUWsDsmLwBYXPf) | 2:42 |
-| 14 | [Låt det va så här i himmelen](https://open.spotify.com/track/6fHzqhPbyX2aaS2cyXJ8U4) | [Markus Ernerot](https://open.spotify.com/artist/0hSSczUq3cqlkWJuqQx2bX) | [Låt det va så här i himmelen](https://open.spotify.com/album/1UEYrlzfaKPw28dQ59FQB5) | 4:13 |
-| 15 | [Happy end](https://open.spotify.com/track/0a0VYQkNOyqF9TM6Bo1nzM) | [Flow Up!](https://open.spotify.com/artist/0xtJPlMJMYlb9IoPdhqrky) | [Happy end](https://open.spotify.com/album/3R4GHZoom4zyV6Njzb7SyH) | 2:53 |
+| 1 | [SETÄSESSARIT](https://open.spotify.com/track/3afi9a26gPHfO4JxeOC5Wl) | [OG Ulla\-Maija](https://open.spotify.com/artist/0OYspJRShx3Yx7QIykOJgq) | [SETÄSESSARIT](https://open.spotify.com/album/4Y2rwUHHE77fHvzXK1iSrl) | 2:23 |
+| 2 | [AKADEMIKER demo v37.mp3](https://open.spotify.com/track/6CG5K577haXKJg0chp9tte) | [Slum](https://open.spotify.com/artist/0mYhKOXwW3Iny2BeFHaEq8) | [AKADEMIKER demo v37.mp3](https://open.spotify.com/album/74wacL5CNRuz8dJB2nfWxh) | 2:47 |
+| 3 | [Costa Del Sol](https://open.spotify.com/track/1GMq0ICq892sKih1Ud8ZWj) | [MD\-Duo](https://open.spotify.com/artist/2rznUoyBFf166RlY0ijnSt) | [Costa Del Sol](https://open.spotify.com/album/2uRvI7qvcUFI7bajFPpMAU) | 3:02 |
+| 4 | [Øygarden \- Akustisk](https://open.spotify.com/track/0scQ9f1IEU7HBf3V0HIahw) | [Martin Engelsen](https://open.spotify.com/artist/0QSv32WoIkGvjPf0ARrJrm), [Sølvi Kobbeltvedt](https://open.spotify.com/artist/7KKZQCRxoZg3LdNNVGOaRR) | [Øygarden \(Akustisk\)](https://open.spotify.com/album/16MuQpF7UCBXExVKxvMbLG) | 3:25 |
+| 5 | [ABUELA!](https://open.spotify.com/track/57hxGL6nE0xmzymbWpilZW) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [ABUELA!](https://open.spotify.com/album/4uRI7KAIJuWO3hdK9Rj7aS) | 2:34 |
+| 6 | [Ever Since](https://open.spotify.com/track/6zJuwtJMkOzqpFSsAPP97c) | [SUNDOWN](https://open.spotify.com/artist/2IbqCQzZK61hhDGusimGum) | [Ever Since](https://open.spotify.com/album/3AoCuUbkNfu0KDRaI11gSZ) | 2:42 |
+| 7 | [Estonian Love](https://open.spotify.com/track/39D4Qx25nB90oAxA5qsPVm) | [Wild Women Of Wongo](https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ) | [Estonian Love](https://open.spotify.com/album/0w68oXCTKDkOPJdCmC2EG4) | 3:31 |
+| 8 | [Vinnare](https://open.spotify.com/track/0GjYIXrLhmaL6EURzCFLFz) | [Mazar](https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF) | [Vinnare](https://open.spotify.com/album/1qIQdXihZpzeHowH6zmQWL) | 2:22 |
+| 9 | [Bury The Misery](https://open.spotify.com/track/6N4SvCkFzUoCnD3BBwDn4f) | [Awaken The Fire](https://open.spotify.com/artist/4k9YxZViR98Bqsi2QbXaAc) | [Bury The Misery](https://open.spotify.com/album/21QJvsb07whtCgnQauLtmc) | 3:47 |
+| 10 | [Breathe](https://open.spotify.com/track/0RQvJXKEmaAQgEYkaXeEwu) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Breathe](https://open.spotify.com/album/0xLtuL3v4tUpFO5S6veipZ) | 3:25 |
+| 11 | [Viekää Mut Kotiin](https://open.spotify.com/track/6XUxSgiHUja8SNMwNiBJAy) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Kauan Aikaa Sitten](https://open.spotify.com/album/4Q7W8ZhfuYWmzOyDWQcDuf) | 3:05 |
+| 12 | [Rennen door de Tijd](https://open.spotify.com/track/6rWcWX6une6PWOSojYl58n) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Rennen door de Tijd](https://open.spotify.com/album/515PYQTLXP7yAimQpNsBby) | 2:55 |
+| 13 | [Still](https://open.spotify.com/track/4O1VzTMeulDA9vlrDDjLzG) | [SÁwol](https://open.spotify.com/artist/1FNB9k4jwdxHepnUSiUO5e) | [Thresholds of the Unseen, Book II: The Unfolding](https://open.spotify.com/album/2dvjXxI5MBb6z0YKWl4uTG) | 5:05 |
+| 14 | [Ice cold beer and a country song](https://open.spotify.com/track/1M7qpl5cwv9ZxjJWawkhIR) | [Hollow Mockingbirds](https://open.spotify.com/artist/61jT92XIntO90AWgpbE8mG) | [Ice cold beer and a country song](https://open.spotify.com/album/1ymuXFy3TBWcEJC7JkudmC) | 2:57 |
+| 15 | [Vago](https://open.spotify.com/track/0WYK1RveRq7QjmIwkNHYqH) | [PLADZ](https://open.spotify.com/artist/2G67H6efWlr7fRlpKm35kH) | [Blocked](https://open.spotify.com/album/6QeQh9MhB0V7k1zvNrPKGU) | 3:08 |
+| 16 | [Fluvial Surge \- Save Your Atoll Remix](https://open.spotify.com/track/5DiuBddlfybMKtL8AbmGaL) | [03SIDIAN](https://open.spotify.com/artist/7JYkm44knsFaB5O8xwekoZ), [Save Your Atoll](https://open.spotify.com/artist/7jvhKoceOAgpwzc2end1Us) | [Mineral Blood](https://open.spotify.com/album/5RvKw0b6g6d7I3a3mOYriE) | 5:50 |
+| 17 | [Heroine](https://open.spotify.com/track/1jmZx6qSToasSWCPo7ISzY) | [ELECTRIC JAGUAR BABY](https://open.spotify.com/artist/0DdLxDzU4qcyr6ImGOwZbH), [Chris Babalis](https://open.spotify.com/artist/65tDZiQ5dwmLCWjIUeU9Z0) | [Heroine](https://open.spotify.com/album/42LdbRkyZToU6x9VgmFNbM) | 4:46 |
+| 18 | [Left Right](https://open.spotify.com/track/4T7f9CPFQxTJes3P0bY3pP) | [Kaplan Dayhill](https://open.spotify.com/artist/5ZolRUt0vZTGkcVsEcWRxT) | [Left Right](https://open.spotify.com/album/1sHbIlq4JzKCTwlmTSNVZP) | 4:17 |
+| 19 | [King of Diamonds](https://open.spotify.com/track/7KDs8pLzc23IT84GveQxj1) | [Tinnitus](https://open.spotify.com/artist/4Voc87RhqtojHzLR3LrNao) | [King of Diamonds](https://open.spotify.com/album/4VViIVTnOwV5yOcjg0GIba) | 5:09 |
+| 20 | [The Hunter](https://open.spotify.com/track/2NnI6KlYrIAWVjlDK0UcR8) | [Witchforce](https://open.spotify.com/artist/6zJIw8RGeBC04nDtvArTCi) | [The Hunter](https://open.spotify.com/album/2YOJesx5bFvIpGh1pWMj46) | 4:46 |
 
-Snapshot ID: `AAAEKh51k/OvkhIxpexf8aSqY5MOfm6N`
+Snapshot ID: `AAAELCLEA0/qZKb977LnPUQq7D8hMFmI`

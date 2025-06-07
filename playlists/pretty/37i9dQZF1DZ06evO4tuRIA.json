@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 96016,
+  "num_followers": 96048,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACcxyzQDsekm9s4g2D3hi4e",
+  "snapshot_id": "aEDeAAAAAAACNHMQDpEP1eWfmZYzAfGt",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ABUNDANCIA",
-        "url": "https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 167977,
-      "name": "ABUNDANCIA",
-      "url": "https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 172746,
       "name": "El Afro (En Vivo)",
       "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ABUNDANCIA",
+        "url": "https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 167977,
+      "name": "ABUNDANCIA",
+      "url": "https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf"
     },
     {
       "added_at": null,
@@ -803,26 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Motivado (feat. Banda La Fantastica)",
-        "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
       "artists": [
         {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Banda La Fantastica",
-          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
         }
       ],
-      "duration_ms": 159486,
-      "name": "Bien Motivado (feat. Banda La Fantastica)",
-      "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
+      "duration_ms": 164790,
+      "name": "De Bajo Perfil",
+      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
     },
     {
       "added_at": null,
@@ -847,22 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+        "name": "Bien Motivado (feat. Banda La Fantastica)",
+        "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Banda La Fantastica",
+          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
         }
       ],
-      "duration_ms": 164790,
-      "name": "De Bajo Perfil",
-      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+      "duration_ms": 159486,
+      "name": "Bien Motivado (feat. Banda La Fantastica)",
+      "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
     },
     {
       "added_at": null,

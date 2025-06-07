@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-228 songs - 15 hr 54 min
+229 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 | 2024-04-19 | 2024-10-28 |
 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2020-11-06 | 2024-01-18 |
 | [Buggin' \- Edit](https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 4:35 | 2020-11-06 | 2025-05-17 |
-| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 |  |
+| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 | 2025-06-07 |
 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 | 2020-11-06 | 2024-02-02 |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2024-01-12 | 2025-04-27 |
 | [Callin'](https://open.spotify.com/track/0oNmrG9mCMH51Gfnwme4nF) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [S\-Man](https://open.spotify.com/artist/3FcrDo2TeEXNjKyafHeQR1) | [The Machine](https://open.spotify.com/album/7gzGEJQwvntO39sNvQiDcZ) | 6:31 | 2020-11-06 | 2022-07-22 |
@@ -58,6 +58,7 @@
 | [Don't Give Up \(On Love\) \- Radio Edit](https://open.spotify.com/track/510dajaNLOHBE2F8ozAdzn) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Don't Give Up \(On Love\) \[Radio Edit\]](https://open.spotify.com/album/0RPdEPXWKThpkqBvyTAkDR) | 3:07 | 2020-11-06 | 2022-07-29 |
 | [Don't Go \- Dusky Remix](https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Ghettos & Gardens Remixes](https://open.spotify.com/album/6nvWsEug3D5U126QJWnu1k) | 6:30 | 2020-11-06 | 2022-07-29 |
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-05-01 |  |
+| [Don't Waste My Time](https://open.spotify.com/track/5UK40iaFFZmn7H5g1g1Lsy) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Don't Waste My Time](https://open.spotify.com/album/1AX14AgJd8hZkMonrAppao) | 2:26 | 2025-05-29 |  |
 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2024-01-26 | 2025-03-10 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2020-11-06 | 2024-04-05 |
 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 | 2024-01-18 |

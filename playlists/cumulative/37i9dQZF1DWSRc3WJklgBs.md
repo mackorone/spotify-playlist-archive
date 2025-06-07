@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,437 songs - 3 day 10 hr 57 min
+1,438 songs - 3 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,7 @@
 | [Ghost \- Lost Kings Remix](https://open.spotify.com/track/4ehErMHPM40f92dks3vb2p) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Room 93: The Remixes](https://open.spotify.com/album/6XMQpJUwiG6KAniW9nziXt) | 3:09 | 2019-08-09\* | 2019-09-14 |
 | [Ghost Voices \- Lane 8 Remix](https://open.spotify.com/track/4ApmPo6H0bH7PExQV25LDh) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Ghost Voices \(Lane 8 Remix\)](https://open.spotify.com/album/1cg42caVtL9vfu5PtKF9Ur) | 5:04 | 2019-08-09\* | 2020-03-29 |
 | [Gimme What I Want](https://open.spotify.com/track/4W35hANv0JfAup7K3TH2lN) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Gimme What I Want](https://open.spotify.com/album/6bxYBo3wjTLUymaUt4OPHS) | 2:47 | 2019-08-09\* | 2020-03-29 |
-| [Give It Time](https://open.spotify.com/track/3zOztmXibeiXkuxVeLg77a) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [A Moment In Time](https://open.spotify.com/album/3dqnY0JWemyIboJQlUafHd) | 3:47 | 2024-10-11 |  |
+| [Give It Time](https://open.spotify.com/track/3zOztmXibeiXkuxVeLg77a) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [A Moment In Time](https://open.spotify.com/album/3dqnY0JWemyIboJQlUafHd) | 3:47 | 2024-10-11 | 2025-06-07 |
 | [Give Me Your Love](https://open.spotify.com/track/31DsZ9tyytV1rNCZ33yG0D) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7) | [Give Me Your Love](https://open.spotify.com/album/6cfQUtHW3tzca3BeQ1Kofu) | 3:22 | 2022-04-01 | 2024-04-10 |
 | [Given Up](https://open.spotify.com/track/3QC3zy7WN5VYdIsYXaU6Jb) | [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [Given Up](https://open.spotify.com/album/3tpV3cPFcQapyScxFcvr5i) | 3:53 | 2019-08-09\* | 2020-03-29 |
 | [Go Easy \- Andrelli Remix](https://open.spotify.com/track/5CcJk7UhQxdBHaTQ6cnDhG) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Go Easy \(Andrelli Remix\)](https://open.spotify.com/album/6bBij89ga7fyohyTIMRlN7) | 3:13 | 2020-06-04 | 2021-09-11 |
@@ -1056,6 +1056,7 @@
 | [Savanna \- Radio Mix](https://open.spotify.com/track/5ohYUhE8TBBROkpbBPSG2J) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Savanna](https://open.spotify.com/album/111MMeKeoUOt17y8WiAGbd) | 3:35 | 2019-08-09\* | 2019-11-23 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-04-29 | 2024-04-10 |
 | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 | 2023-05-01 |  |
+| [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 | 2025-06-06 |  |
 | [Saving My Love](https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Saving My Love](https://open.spotify.com/album/2YHK4d31s4jDsP9cwVeTNt) | 3:29 | 2021-09-25 | 2022-05-14 |
 | [Say It \(feat\. Tove Lo\) \[Illenium Remix\]](https://open.spotify.com/track/1qcyw35R6PiMBYfSSK7gDm) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Say It \(feat\. Tove Lo\) \[Illenium Remix\]](https://open.spotify.com/album/2iLqYd2dBKqvDe6XCymoE4) | 4:27 | 2019-08-09\* | 2019-09-14 |
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-23 | 2025-06-04 |

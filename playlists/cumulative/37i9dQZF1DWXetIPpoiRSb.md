@@ -4,7 +4,7 @@
 
 > pop music will never be low brow ≠ cover: ultra caro
 
-1,798 songs - 3 day 18 hr 12 min
+1,799 songs - 3 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-06-26 | 2021-09-18 |
 | [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-21 | 2025-03-28 |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-10-21 | 2022-12-10 |
+| [C\*NT](https://open.spotify.com/track/32CtGlRQKtPXfHKihVQneO) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [C\*NT](https://open.spotify.com/album/1wyiEfqX1x8KQlHecWTCvh) | 3:23 | 2025-06-05 |  |
 | [Call Me](https://open.spotify.com/track/0SK7aeV7blt3bEoP1zTthK) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Call Me EP](https://open.spotify.com/album/5vfKiDrAoggToiAXLisYnW) | 2:25 | 2020-11-07 | 2021-02-20 |
 | [Call My Name](https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Call My Name](https://open.spotify.com/album/7frSUNEyPlMiLV1wK96NZU) | 3:41 | 2021-08-14 | 2021-10-30 |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-09-18 | 2021-12-18 |

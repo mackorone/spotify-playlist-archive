@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 137624,
+  "num_followers": 137641,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAAAOPOWEL+cHsq3dhvS74Bv9",
+  "snapshot_id": "aEDeAAAAAADFQDvdAQr4o0pfBH5EBOCR",
   "tracks": [
     {
       "added_at": null,
@@ -370,15 +370,11 @@
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Rip Her To Shreds - Remastered 2001",
-      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
+      "duration_ms": 153133,
+      "name": "In The Flesh - Remastered 2001",
+      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
     },
     {
       "added_at": null,
@@ -438,11 +434,15 @@
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        },
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
         }
       ],
-      "duration_ms": 153133,
-      "name": "In The Flesh - Remastered 2001",
-      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
+      "duration_ms": 202826,
+      "name": "Rip Her To Shreds - Remastered 2001",
+      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+      "duration_ms": 174639,
+      "name": "Doom or Destiny",
+      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 174639,
-      "name": "Doom or Destiny",
-      "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,

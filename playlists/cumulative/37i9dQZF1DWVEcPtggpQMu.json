@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz?si=sTYNlMztQc2xwbJ491mn-A\">Dandi Noxx</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=4-y6kClNQsGZtoTCIiUuNw\">MashBeatz</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -12605,6 +12605,32 @@
     },
     {
       "album": {
+        "name": "THE SECRET FREQUENCY",
+        "url": "https://open.spotify.com/album/30f4LWkDnRrxoJ7pt539M4"
+      },
+      "artists": [
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "NOBODY (feat. Nasty C & Usimamane)",
+      "url": "https://open.spotify.com/track/3wv83tW5C9wNszgZZFnNCw"
+    },
+    {
+      "album": {
         "name": "No Skips Deluxe",
         "url": "https://open.spotify.com/album/19ys2UgpRwX4bM5msXdeht"
       },
@@ -16246,6 +16272,28 @@
       "duration_ms": 172398,
       "name": "SODI KNOWS",
       "url": "https://open.spotify.com/track/2B6x5UAz6qcOxIqV3PP1At"
+    },
+    {
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135248,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB"
     },
     {
       "album": {

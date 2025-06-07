@@ -1969,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "Karay Karay",
+        "url": "https://open.spotify.com/album/5tJPMgyfibTiCgaqmXWLlP"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Salman Paras",
+          "url": "https://open.spotify.com/artist/6JC7bSuSttgAd92jKVQcbI"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193603,
+      "name": "Karay Karay",
+      "url": "https://open.spotify.com/track/5fLmMh0GIsSjz858dmmt8x"
+    },
+    {
+      "album": {
         "name": "Kehte Raho",
         "url": "https://open.spotify.com/album/1Xv4yVxbCNZ234TCtyeZzH"
       },

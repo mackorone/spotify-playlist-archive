@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. native james
 
-1,139 songs - 2 day 7 hr 41 min
+1,140 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [House of Wax](https://open.spotify.com/track/7pDb3UfesgJfjsWp8JCJpw) | [DeadWax](https://open.spotify.com/artist/6hITQt23nhrKv9bBWvEirP) | [House of Wax](https://open.spotify.com/album/0OIaDOMbHzsmD63MTLLUrk) | 3:27 | 2025-05-23 |  |
 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 | 2025-03-07 |
 | [HURRICANE](https://open.spotify.com/track/49GAjso5aSfuMXltW7rEBI) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HURRICANE](https://open.spotify.com/album/2RQvJEIegkkUFtkCyapMwT) | 2:39 | 2024-06-06 | 2024-12-13 |
+| [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 | 2025-06-05 |  |
 | [hush your mouth!](https://open.spotify.com/track/3SmWq8EWHI9c0QF0zQ6Oi5) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [vivid memories of dreams i've never had](https://open.spotify.com/album/6fe2bdJm6B9yScnNf8lj5F) | 2:28 | 2024-03-29 | 2024-07-12 |
 | [HYPEBEAST](https://open.spotify.com/track/7Gdo9s4GIeJerZgrZFUsBH) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [HYPEBEAST](https://open.spotify.com/album/2Ta3wnVjB6RBsyFDGJtN1O) | 3:39 | 2023-11-17 | 2024-01-26 |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 | 2023-09-01 |
@@ -610,7 +611,7 @@
 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 | 2023-09-07 | 2024-03-01 |
 | [Labyrinth \- Edit](https://open.spotify.com/track/1fMkGdFXENT9ndRjNr04u0) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Labyrinth](https://open.spotify.com/album/3v7JIKBV8gO8KNXxLqLPL0) | 3:32 | 2022-09-01 | 2022-09-23 |
 | [Lacrimosa](https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Lacrimosa](https://open.spotify.com/album/2rezRedcnS60CY419b5HAR) | 4:17 | 2023-02-17 | 2023-06-16 |
-| [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [Skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 | 2025-05-01 |  |
+| [LANDMiNE](https://open.spotify.com/track/0RzO5E7JWg3t9Z4PmtmEKz) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp), [Lillith](https://open.spotify.com/artist/4FnA6I5jN6hjo8aXvGcwrW) | [LANDMiNE](https://open.spotify.com/album/24Hcjuqesd2VcB73Vb9ACr) | 3:15 | 2025-05-01 |  |
 | [Lapinou](https://open.spotify.com/track/2GSTQtsqF1ISi2FWzTSPqY) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Detrimentors](https://open.spotify.com/album/2oNmy4VbIkoOU30KhgLrVN) | 3:31 | 2025-05-01 | 2025-05-16 |
 | [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-28 | 2022-08-05 |
 | [Last Summer \(I Know What You Did\)](https://open.spotify.com/track/1d2pXU93R3BiiTeZWRl0t4) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [Careless](https://open.spotify.com/album/3SNMIbXUymlzYqWWTp0Egr) | 3:21 | 2023-08-10 | 2023-11-11 |

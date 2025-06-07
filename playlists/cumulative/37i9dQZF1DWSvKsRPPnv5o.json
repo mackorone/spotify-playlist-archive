@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Snoop Dogg",
+  "description": "Holdin' it down for the westside. Cover: EBK Jaaybo",
   "name": "Westside",
   "tracks": [
     {
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "album": {
         "name": "all my hoes",
         "url": "https://open.spotify.com/album/0yypup3UfzoZwa0HF3lrd3"
       },
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 141376,
       "name": "Baby",
       "url": "https://open.spotify.com/track/16XlQ75mVEp4wlfdTvGcnP"
@@ -2160,6 +2178,28 @@
       "duration_ms": 151137,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/4ujUMbeLNce81m8DFLQJOd"
+    },
+    {
+      "album": {
+        "name": "Bakc 2 Bakc (feat. EBK Jaaybo)",
+        "url": "https://open.spotify.com/album/7frn3rZnZqO7hcG3ed0ymp"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        },
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Bakc 2 Bakc (feat. EBK Jaaybo)",
+      "url": "https://open.spotify.com/track/2Xp4O5Cpr0nPfhkoGhKdcV"
     },
     {
       "album": {
@@ -7272,7 +7312,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 139608,
       "name": "Extra",
       "url": "https://open.spotify.com/track/5wFKpUM0CsPW5tcsYe2KOv"
@@ -7326,7 +7366,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 125217,
       "name": "F.M.C",
       "url": "https://open.spotify.com/track/4fXhuXCugkZHJik91VsjJi"
@@ -7414,7 +7454,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 218901,
       "name": "Face Tatts",
       "url": "https://open.spotify.com/track/10BlZRPRFCpTts6DnY5yIc"
@@ -9757,6 +9797,24 @@
     },
     {
       "album": {
+        "name": "Going Ghost",
+        "url": "https://open.spotify.com/album/7pHoF370JYMvRyRf1LTHm1"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210858,
+      "name": "Going Ghost",
+      "url": "https://open.spotify.com/track/4wgR82L889SQURRNs9fQOB"
+    },
+    {
+      "album": {
         "name": "STAY SAFE",
         "url": "https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt"
       },
@@ -10546,7 +10604,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
@@ -12748,7 +12806,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 195213,
       "name": "Just the Way It Iz",
       "url": "https://open.spotify.com/track/3vItapJtdqXNwFpNz0THMz"
@@ -13346,7 +13404,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 210960,
       "name": "Leave Me Alone (ft. Dr. Dre & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4F3KSgun31tWMRP0eI8pnv"
@@ -14356,7 +14414,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 122711,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2pgcojQ2Hn0bhrxJAhGo3X"
@@ -16287,6 +16345,32 @@
     },
     {
       "album": {
+        "name": "WITH ALL THESE EYES",
+        "url": "https://open.spotify.com/album/08Y3jIh8I5NF4LLMYKa6lx"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        },
+        {
+          "name": "1ofurfriends",
+          "url": "https://open.spotify.com/artist/59O2KJX0QTWOSJVbPGLrct"
+        },
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160309,
+      "name": "NEIGHBORHOOD WATCH",
+      "url": "https://open.spotify.com/track/336cCl9GD0whyqshhzhpSG"
+    },
+    {
+      "album": {
         "name": "TWOPOINTFIVE",
         "url": "https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY"
       },
@@ -17284,6 +17368,24 @@
       "duration_ms": 141875,
       "name": "Oh Dear",
       "url": "https://open.spotify.com/track/3yRcWcjTcavCsclobLlx6W"
+    },
+    {
+      "album": {
+        "name": "I'm Just A Girl",
+        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152330,
+      "name": "Ok",
+      "url": "https://open.spotify.com/track/45GmLSDiRRbz9WZhlw7ZV8"
     },
     {
       "album": {
@@ -18700,7 +18802,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 122730,
       "name": "Play Over You",
       "url": "https://open.spotify.com/track/7Mbvcddc02QSOy1TjtQAE1"
@@ -19398,6 +19500,32 @@
       "duration_ms": 181440,
       "name": "Rackz got m\u00eb (feat. Gunna)",
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
+    },
+    {
+      "album": {
+        "name": "Ramen",
+        "url": "https://open.spotify.com/album/399N0mU6VE8XD813flt9ED"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Joe Moses",
+          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+        },
+        {
+          "name": "Nice",
+          "url": "https://open.spotify.com/artist/11X4lcw7F1Ej1PfL1XkvPc"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152597,
+      "name": "Ramen",
+      "url": "https://open.spotify.com/track/09Lc6NUGCTJ4ZhH8a2fmFT"
     },
     {
       "album": {
@@ -22157,6 +22285,24 @@
     },
     {
       "album": {
+        "name": "Stick Up",
+        "url": "https://open.spotify.com/album/4xgzvXXMVNgz9VSaomSVTa"
+      },
+      "artists": [
+        {
+          "name": "Drexthejoint",
+          "url": "https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143613,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/3gB6giw6EyJ1thcB0H2ksZ"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -24310,6 +24456,28 @@
       "duration_ms": 255875,
       "name": "Too Many Goats (feat. Rick Ross, Nas & Kevin Cossom)",
       "url": "https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/4BH9HVBkiLDccalFGviYm2"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152291,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/5qSi7lvjqNhdf8UHrY4rih"
     },
     {
       "album": {

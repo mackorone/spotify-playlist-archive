@@ -4,7 +4,7 @@
 
 > Only the BIGGEST Hardstyle bangers 💥
 
-896 songs - 2 day 2 hr 39 min
+897 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Free](https://open.spotify.com/track/6PXebyVnGBY8OQWU1ZpfBf) | [Rebourne](https://open.spotify.com/artist/7ikySCCJo3shAEZsoKEtVK) | [Free](https://open.spotify.com/album/0qszR6R4fUTReIYRr8SQ0f) | 2:32 | 2022-03-24 | 2022-04-21 |
 | [Free \(feat\. Starsplash\)](https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Starsplash](https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz) | [Free \(feat\. Starsplash\)](https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf) | 2:30 | 2024-03-07 |  |
 | [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2023-01-12 | 2023-05-14 |
+| [FTS \- Sub Zero Project Rework](https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [FTS \(Sub Zero Project Rework\)](https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg) | 3:23 | 2025-06-06 |  |
 | [FUTS \- Fuck Up The Speakers](https://open.spotify.com/track/0lb7jsjOwUPEtb6uaGDfLN) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [FUTS \(Fuck Up The Speakers\)](https://open.spotify.com/album/0m2G7Wr6gUg2j1eu9ckYnM) | 3:41 | 2021-12-16 | 2022-11-13 |
 | [FYAH](https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [FYAH](https://open.spotify.com/album/3uhqc4NKHlfFXjC0SvrI39) | 3:15 | 2021-12-16 | 2023-01-08 |
 | [G.L.Y.](https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [G.L.Y.](https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe) | 3:33 | 2024-10-10 |  |
@@ -328,7 +329,7 @@
 | [Hard Beat](https://open.spotify.com/track/7Gs5hS0rQsdE5GVjovT5rm) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Hard Beat](https://open.spotify.com/album/6JdGln5CLBPWHGgelscMt0) | 3:08 | 2024-07-19 |  |
 | [Hard Is My Style](https://open.spotify.com/track/1uKbIwqNe56S20iDTjAhQa) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G) | [Hard Is My Style](https://open.spotify.com/album/4I9efb95bj52e3fgNWd6y1) | 2:39 | 2022-03-24 | 2022-04-21 |
 | [Hardcore Girl \- Earsquaker Remix Edit](https://open.spotify.com/track/1qnljcdGqfl8YV9S0cETgm) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Earsquaker](https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT) | [Hardcore Girl \(Earsquaker Remix\)](https://open.spotify.com/album/23pNNFif8IX9EvZplBTcaF) | 2:30 | 2021-12-16 | 2022-10-07 |
-| [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-02-08 |  |
+| [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-02-08 | 2025-06-07 |
 | [Harder Generation](https://open.spotify.com/track/6iLMS7BoubufyLfSf2PUpy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Harder Generation](https://open.spotify.com/album/0RuAiwFc8pPxBqxMuqGAFf) | 3:39 | 2021-12-16 | 2023-04-21 |
 | [Harder State Of Mind](https://open.spotify.com/track/3QeEf7TMugwZkmn0hPmXio) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Harder State Of Mind](https://open.spotify.com/album/1YdgxbHjJ6A7UmYOEqlHJ2) | 3:56 | 2021-12-16 | 2024-11-09 |
 | [Hardstyle Baby](https://open.spotify.com/track/6coQYeFGsosbb6onPEHF2O) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Sik\-Wit\-It](https://open.spotify.com/artist/0bGzCTGusiViWT1R0QZLS6) | [Hardstyle Baby](https://open.spotify.com/album/2rOPdvZ2HYbltoxEROt1eb) | 3:50 | 2021-12-16 | 2022-12-17 |

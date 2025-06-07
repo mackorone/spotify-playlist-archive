@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
+    },
+    {
+      "album": {
         "name": "Perfume (Ao Vivo)",
         "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
       },

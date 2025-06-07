@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,300 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,306 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Weg uit Nederland](https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Weg uit Nederland](https://open.spotify.com/album/4OjNZnxk3IANfpvbjMQiz1) | 3:52 |
-| 2 | [Kaartenhuis](https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Kaartenhuis](https://open.spotify.com/album/34TIrIc7Hxk0nkK5qEMesa) | 3:55 |
-| 3 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
-| 4 | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/5OiG2BpIKuSxbJ53hznAXO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/7JNbi2drC5WH6HvINEqboL) | 3:31 |
-| 5 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
-| 6 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
+| 2 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
+| 3 | [Kaartenhuis](https://open.spotify.com/track/1xrvttihsSQmU1qpUY48XJ) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Kaartenhuis](https://open.spotify.com/album/34TIrIc7Hxk0nkK5qEMesa) | 3:55 |
+| 4 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
+| 5 | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/5OiG2BpIKuSxbJ53hznAXO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/7JNbi2drC5WH6HvINEqboL) | 3:31 |
+| 6 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
 | 7 | [Als de avond valt](https://open.spotify.com/track/7mzg7oMmhuCLZCe8q0Qsr8) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 3:41 |
 | 8 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
 | 9 | [Wat als](https://open.spotify.com/track/1jyiIEznDTr5rVwI5uXlGR) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Wat als](https://open.spotify.com/album/2IakNQk8chNHCx15tEEAPN) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Wonderkind](https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Wonderkind](https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5) | 3:27 |
 | 70 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 
-Snapshot ID: `aEIThgAAAADUQQC697tgt1wEXxFyFtK0`
+Snapshot ID: `aEKDNgAAAABWHvq/QPaPWTUP4c6MPuaR`

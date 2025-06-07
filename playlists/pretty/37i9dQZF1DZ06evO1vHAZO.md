@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,345 likes - 43 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,346 likes - 43 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 42 | [Turn Up The Sun](https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:59 |
 | 43 | [Who Feels Love?](https://open.spotify.com/track/7b39sBdskwLKVwNpC37gRo) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:44 |
 
-Snapshot ID: `aD+MgAAAAACacqYDzU+tC23GFGoG4FUq`
+Snapshot ID: `aEDeAAAAAAD0HG38HgwfL1j3mGPURgID`

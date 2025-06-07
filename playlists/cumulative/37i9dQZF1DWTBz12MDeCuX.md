@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN, $OHO BANI
 
-2,716 songs - 5 day 7 hr 8 min
+2,718 songs - 5 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-14 | 2022-10-21 |
 | [California Glow](https://open.spotify.com/track/5coiygbl1xGLz1DnVGzvw9) | [Lyno Nine8](https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh) | [California Glow](https://open.spotify.com/album/0tR7dA9xawWevxnAWzaX2x) | 2:52 | 2023-05-18 | 2023-08-25 |
 | [Call](https://open.spotify.com/track/50aAZPbkB0yhfMQptxa8Dv) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [Call](https://open.spotify.com/album/47McqFdHcA7UpY3p2mxjjy) | 2:38 | 2022-08-08 | 2022-08-12 |
-| [Call Me](https://open.spotify.com/track/2JRM49IbbQ0CAcFoTi2rLM) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Call Me](https://open.spotify.com/album/4urWBYrDSzRPBJ5tCRMoHU) | 2:54 | 2025-04-03 |  |
+| [Call Me](https://open.spotify.com/track/2JRM49IbbQ0CAcFoTi2rLM) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Call Me](https://open.spotify.com/album/4urWBYrDSzRPBJ5tCRMoHU) | 2:54 | 2025-04-03 | 2025-06-07 |
 | [Can't Sleep](https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Can't Sleep](https://open.spotify.com/album/7ocoPpbZ6ekA6c6ybzWVDj) | 3:01 | 2022-09-22 | 2023-01-27 |
 | [CANADA \(w/ jnhygs\)](https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \(w/ jnhygs\)](https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th) | 1:50 | 2024-04-18 | 2024-05-03 |
 | [Candy](https://open.spotify.com/track/4de1X6v99U7tfOXrNUCTbi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:10 | 2023-12-21 | 2024-01-12 |
@@ -1598,6 +1598,7 @@
 | [Ms\. Jackson](https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Ms\. Jackson](https://open.spotify.com/album/54ehmIjPv8SskzrJrNBGln) | 2:27 | 2023-08-24 | 2023-11-17 |
 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-03 | 2025-03-21 |
 | [mund zu mund](https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [mund zu mund](https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c) | 1:41 | 2024-11-14 | 2024-11-29 |
+| [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-06-09 | 2022-12-02 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-04 | 2024-02-09 |
 | [Musiala](https://open.spotify.com/track/2hgqfeXf4q9STI1iqEyWQT) | [Baron](https://open.spotify.com/artist/0U6t1GxrhOhD5vSHhe2JqE), [XAVER](https://open.spotify.com/artist/2XGaD0VuieQxr4zvfjDzmC), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Musiala](https://open.spotify.com/album/3Ya3X2G2qOlYxpqNfkJWIM) | 2:40 | 2023-09-14 | 2023-10-13 |
@@ -1630,6 +1631,7 @@
 | [müde](https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [müde](https://open.spotify.com/album/4MAkTfejQZEuVORff0WeYF) | 3:25 | 2022-07-21 | 2022-08-26 |
 | [MÜNCHNER STR.](https://open.spotify.com/track/3PBJgXZm0rFkycauEIE4ph) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [MÜNCHNER STR.](https://open.spotify.com/album/5xJckM22Vin7IOtXfQ7yfQ) | 2:21 | 2024-11-28 | 2025-01-24 |
 | [MÜTTER](https://open.spotify.com/track/6Ng0CIhBR7SndfW0LWYYOK) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Pintendari](https://open.spotify.com/artist/66Kv6hQepRROlkoN8nnpd4), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [MÜTTER](https://open.spotify.com/album/3C5SoJifuWhxVk4brEncKe) | 2:06 | 2024-12-12 | 2025-01-25 |
+| [Na Und](https://open.spotify.com/track/7Gu7rsUl0raesONlJIckyV) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz) | [Na Und](https://open.spotify.com/album/4K6OhUxxptMBusRbwfwfJx) | 2:41 | 2025-06-06 |  |
 | [nach 2 jahren](https://open.spotify.com/track/3PUQIrzjV7rUPQw1sNAZvQ) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [nach 2 jahren](https://open.spotify.com/album/6AnQwTHag3PNRjy4W0BRc8) | 2:51 | 2023-05-04 | 2023-07-27 |
 | [NACH 3 CUPS](https://open.spotify.com/track/5qcwweUKXf3FAlByeLZkLE) | [Dennis Dies Das](https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx), [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [NACH 3 CUPS](https://open.spotify.com/album/6AUM1BvK2aLcbkMnTfdmYz) | 2:06 | 2024-07-26 | 2024-09-10 |
 | [nachmittagsverkehr](https://open.spotify.com/track/3hZ8CYjHDRhWOB8HiP699x) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [nachmittagsverkehr](https://open.spotify.com/album/6PbSf0u1cnUA52Nttpsc9M) | 2:37 | 2025-05-29 |  |

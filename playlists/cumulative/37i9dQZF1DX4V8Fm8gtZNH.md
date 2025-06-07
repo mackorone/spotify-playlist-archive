@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-328 songs - 19 hr 25 min
+332 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,14 @@
 | [2HONEST feat\. SAINt JHN](https://open.spotify.com/track/0iHGKZiXJ5Mqq14MJ9mjxg) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [V TAPE](https://open.spotify.com/album/73nAZ5xJR0DDzUXKUZNusz) | 3:57 | 2024-05-31 |  |
 | [99 and a Half Won't Do](https://open.spotify.com/track/2Gzz5Uhm83siaEQbXs4ehd) | [The Como Mamas](https://open.spotify.com/artist/3xZA5DzsWQLrDQFaPAXwTy) | [Move Upstairs](https://open.spotify.com/album/1uDhl3PNbjMxTqiM7rcXwV) | 2:24 | 2023-10-18 |  |
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2023-10-18 |  |
+| [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 | 2025-06-06 |  |
 | [Across the Tracks](https://open.spotify.com/track/1fIIgQ0J8JQEWSXTZwDruK) | [Psychedelic Soul Crew](https://open.spotify.com/artist/1W9oqhomWQ8N3ywoVnU0Mj) | [Soul, Funk, & Be Free](https://open.spotify.com/album/265zhQAh7TUUeoInu1pD5m) | 3:34 | 2023-10-18 |  |
 | [AL 2 Final Now](https://open.spotify.com/track/3fXp6F2Zq1WENE88Xzz7U9) | [Gavin Maestro](https://open.spotify.com/artist/5eEW06gmEMtphtMZtOcnj2) | [AL 2 Final Now](https://open.spotify.com/album/3ab1wuCiLHF16khzv6VZQw) | 2:49 | 2023-10-18 |  |
 | [All I Need \- Intro](https://open.spotify.com/track/796AitRBFybQo1Fighy7yd) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Fantasy](https://open.spotify.com/album/4lBRxkADy8ER4b54cQZCYw) | 1:26 | 2023-10-18 |  |
 | [All Over Again](https://open.spotify.com/track/3WYF6pDZvnRA878smwNuoy) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f), [Roy Genius](https://open.spotify.com/artist/02sBr1wHWWzsigeUOFZuRX) | [All Over Again](https://open.spotify.com/album/2bJHDLJjNReMkpF7kE9PzJ) | 3:31 | 2023-10-18 |  |
 | [All We Got \(feat\. Kanye West & Chicago Children's Choir\)](https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:23 | 2023-10-18 |  |
 | [Am I a Good Man](https://open.spotify.com/track/1uUitmrrG3Z9RpT5g6RUlk) | [Them Two](https://open.spotify.com/artist/30yc7uS58qGpzBNc3fPpi0) | [Am I a Good Man b/w Love Has Taken Wings](https://open.spotify.com/album/136FnLDYv4eroSb5vgIPrT) | 3:09 | 2023-10-18 |  |
+| [Back Burner](https://open.spotify.com/track/6QeJFGr6dXIykO24UmAAeS) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Songs About Us](https://open.spotify.com/album/5vHbxFqZfAjvpyezS2jR4H) | 2:49 | 2025-06-06 |  |
 | [Back to Me](https://open.spotify.com/track/4s41fhUIeatzAYlstRCxNd) | [Will Jordan](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) | [Back to Me](https://open.spotify.com/album/5MvFSIVZ2U5H6TbpsFFrWm) | 3:44 | 2023-10-18 |  |
 | [Bag Up](https://open.spotify.com/track/09byku50cegoKBqWdSvwDs) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Master Plan Inc](https://open.spotify.com/album/7tMPrjuAhmepGmaqVxNw7G) | 2:51 | 2023-10-18 |  |
 | [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 4:51 | 2023-10-18 |  |
@@ -55,6 +57,7 @@
 | [Can I Be Near You?](https://open.spotify.com/track/69J6wvvfuGfRKQNvYMKfcX) | [Makio](https://open.spotify.com/artist/4cMBhdaVMud6lGSB8irD8w) | [MADE, Vol 24: Do Not Disturb](https://open.spotify.com/album/4Dx3GTejd4hIXx85y9EFC0) | 2:43 | 2023-10-18 |  |
 | [Can You Do It for Me?](https://open.spotify.com/track/70QhXL1osJ7lRfIqZ1Doux) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:58 | 2023-10-18 |  |
 | [Can't Find Love](https://open.spotify.com/track/3O3fVm3G3qYd2MEfYlBDXG) | [Betty & Charles](https://open.spotify.com/artist/6goAT7gQtIGM5siKyvd0mK) | [Southern Soul Duets](https://open.spotify.com/album/2mQ5NNJ89Uz7Q60conPbk4) | 2:56 | 2023-10-18 |  |
+| [Can't Get Enough](https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Between Friends](https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J) | 3:49 | 2025-06-06 |  |
 | [Can't Let Go](https://open.spotify.com/track/32bWLGxldlOHrpt91eKiyU) | [Psychedelic Soul Crew](https://open.spotify.com/artist/1W9oqhomWQ8N3ywoVnU0Mj) | [Soul, Funk, & Be Free](https://open.spotify.com/album/265zhQAh7TUUeoInu1pD5m) | 3:13 | 2023-10-18 |  |
 | [Can't Win For Losing \(feat\. 2KBaby\)](https://open.spotify.com/track/4gmC5USrVGq53V2iQApLO2) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [C3](https://open.spotify.com/album/0x1BgsKX3jBtjat6HApyl6) | 3:57 | 2023-10-18 |  |
 | [Catch Me](https://open.spotify.com/track/6y5pK7qsc1kSUBwdFQHzJd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:57 | 2023-10-18 |  |
@@ -84,6 +87,7 @@
 | [Devil Is Fine](https://open.spotify.com/track/2CaZCVH2Z79ABFcsHzUU6y) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/album/5Oc87gybQZkVeqogIFXzMd) | 3:12 | 2024-06-28 |  |
 | [Die Tonight](https://open.spotify.com/track/3BA0FVFUZxDzR0IGjVeoaV) | [Durand the Rapper](https://open.spotify.com/artist/7C87roQyV9v0lowFTVVBM8), [Jazzfeezy](https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi), [Calico North](https://open.spotify.com/artist/7ycU0pz4QxdIqM4u8occsY) | [Back In The Day EP](https://open.spotify.com/album/709jkdD61NvPQ3ODr7R2Wq) | 1:55 | 2024-06-28 |  |
 | [Disrespectful](https://open.spotify.com/track/0mUP2phCdsDKpaCBAFXdjJ) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Disrespectful](https://open.spotify.com/album/10OyKCytoxiCc1lFb6LW7D) | 3:22 | 2023-10-18 |  |
+| [DISRESPECTFULLY](https://open.spotify.com/track/5PPk2waTDK1Cwyj3PQxDEa) | [Kvng Moses](https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2), [Jazzfeezy](https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi), [Cxmeesen](https://open.spotify.com/artist/55vk0CW8nBGuaIkIsyOfuw) | [DISRESPECTFULLY](https://open.spotify.com/album/14bi3dRJOBfJqHBiRYVWBJ) | 2:17 | 2025-06-06 |  |
 | [Do It Nasty](https://open.spotify.com/track/3AMS0l5pA3IBGWrgDILSYl) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [VEDO](https://open.spotify.com/album/2bIFtqMOh5jjfmqUO7DDDR) | 3:10 | 2023-10-18 |  |
 | [Do Me](https://open.spotify.com/track/4mUJL20NhYONRrzeTbSt1W) | [Moe Cheez](https://open.spotify.com/artist/13CdgzehABExrvXecjzA9z) | [Do Me](https://open.spotify.com/album/6H2mG37RbcVg7IZxOMMX4G) | 3:17 | 2023-10-18 |  |
 | [Doin it Again \(As Heard in the Chi\)](https://open.spotify.com/track/2RpXSLDQMtB5P9pO1oONYC) | [Royce](https://open.spotify.com/artist/1eNOuUkpb8Cg0kgMtRRs0H) | [Doin It Again \(As Heard in The Chi\)](https://open.spotify.com/album/5GWKwVAf2OGzoYfC5B3DSA) | 2:50 | 2023-10-18 |  |

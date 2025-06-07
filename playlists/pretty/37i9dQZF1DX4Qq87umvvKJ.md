@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 
 > Underneath their cool, unbothered exterior, this character is an enigma to be unraveled.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,693 likes - 41 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,723 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 | 40 | [c r a z y](https://open.spotify.com/track/3o86gmLtoG3jE9sFgVu4nn) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 3:13 |
 | 41 | [MOUNTAIN D](https://open.spotify.com/track/00qVXZrq0j1Gk6T3MvpOgH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [Dos Atomos](https://open.spotify.com/album/3VWzxswPZ8RBDuVCcHqBO2) | 3:57 |
 
-Snapshot ID: `Z5oznAAAAADmIMs+IFLPl1tVHK2PU/oc`
+Snapshot ID: `Z5oznAAAAADDwdN0E6pYLFAM+kzZtRMd`

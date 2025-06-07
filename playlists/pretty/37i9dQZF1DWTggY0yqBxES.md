@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,071 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,052 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [EYESPY](https://open.spotify.com/track/3kCO8X3pUk8Z4RWbTY5j8M) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Cut Your Teeth](https://open.spotify.com/album/74w14FHHz8At0YgvQL4aAF) | 1:44 |
 | 100 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 
-Snapshot ID: `aDktZgAAAADrW9lutsU3MMBRjp/y7EtZ`
+Snapshot ID: `aDktZgAAAAAFTWikfneWtH4oBZ44wCRV`

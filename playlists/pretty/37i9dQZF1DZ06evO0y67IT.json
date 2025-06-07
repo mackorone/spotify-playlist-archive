@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAADsF31p0SyBUw/JNXWoeRCo",
+  "snapshot_id": "aEDeAAAAAACmvNt5Ww9iEkNsPZzWdly2",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Bring You Back",
-      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 191585,
       "name": "The Rain Just Follows Me",
       "url": "https://open.spotify.com/track/5I4ATfw1W2dvK3d9Kam4El"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 152346,
       "name": "The Girl That Destroyed Me",
       "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
     },
     {
       "added_at": null,

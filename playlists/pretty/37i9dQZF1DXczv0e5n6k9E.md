@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,366 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,381 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 6 | [FRATELLO MIO](https://open.spotify.com/track/7817fzEUYcEwxjWkmbSNd3) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [FRATELLO MIO](https://open.spotify.com/album/0Pyb1OeTGo71B2aKlAWYE8) | 2:40 |
 | 7 | [Do Or Die](https://open.spotify.com/track/095VyfEHgTs1haFo8MOmUl) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Do Or Die](https://open.spotify.com/album/3ewGPSyvNZHU9kJ7AlFOPH) | 2:38 |
 | 8 | [KAKO](https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [KAKO](https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe) | 3:06 |
-| 9 | [Kata Gramma](https://open.spotify.com/track/6lPSfw96tFXUX8fIGvtgXa) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Anser](https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8) | [Kata Gramma](https://open.spotify.com/album/5xnT4rn6J9uQY1WaPq7AxG) | 2:36 |
+| 9 | [Kata Gramma](https://open.spotify.com/track/6lPSfw96tFXUX8fIGvtgXa) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Anser](https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX) | [Kata Gramma](https://open.spotify.com/album/5xnT4rn6J9uQY1WaPq7AxG) | 2:36 |
 | 10 | [BARS ARE BACK](https://open.spotify.com/track/2S4GtshD15cdkk8I1ATdvr) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [BARS ARE BACK](https://open.spotify.com/album/0PUR4yyQSOtWW3drzdowMB) | 3:00 |
 | 11 | [Psy Attack](https://open.spotify.com/track/78aDFml285X4qbd4brg02o) | [TAFF](https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J), [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [Electro God 2](https://open.spotify.com/album/2gHdqPfTwn04sla9aTQE8k) | 3:33 |
 | 12 | [NARCOTRAFICANTE](https://open.spotify.com/track/4vpn2IGV4Eb3249OJ5X3dH) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [M3NTRA](https://open.spotify.com/artist/2PGUfaiMdCRUBN4h0hcVcn) | [NARCOTRAFICANTE](https://open.spotify.com/album/5ll2b0AmYBnCkjWmvAFAg7) | 2:31 |

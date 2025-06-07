@@ -1,12 +1,12 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: Stef Bos",
-  "num_followers": 33300,
+  "num_followers": 33306,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIThgAAAADUQQC697tgt1wEXxFyFtK0",
+  "snapshot_id": "aEKDNgAAAABWHvq/QPaPWTUP4c6MPuaR",
   "tracks": [
     {
       "added_at": "2025-06-05 22:00:38",
@@ -23,6 +23,22 @@
       "duration_ms": 232403,
       "name": "Weg uit Nederland",
       "url": "https://open.spotify.com/track/28UygHbdYKz1IJwzt1MfEc"
+    },
+    {
+      "added_at": "2025-06-05 22:00:38",
+      "album": {
+        "name": "Platonisch",
+        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "duration_ms": 182929,
+      "name": "Platonisch",
+      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2025-06-05 22:00:38",
@@ -91,22 +107,6 @@
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
-    },
-    {
-      "added_at": "2025-06-05 22:00:38",
-      "album": {
-        "name": "Platonisch",
-        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "Platonisch",
-      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2025-06-05 22:00:38",

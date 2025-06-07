@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: SenSey'
+> Du Congo, au monde\. 🌍 Photo: Tonton Naza
 
-595 songs - 1 day 10 hr 4 min
+597 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [ALWAYS](https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [ALWAYS](https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe) | 2:52 | 2024-04-05 | 2024-05-11 |
 | [Amani Bombe](https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk) | [Huguette Tolinga](https://open.spotify.com/artist/13gEoV3xYprWdVPCSznG1O) | [Amani Bombe](https://open.spotify.com/album/7mrSqIQMuLxX6OQmYaT7kL) | 3:27 | 2022-07-29 | 2022-11-26 |
 | [Amapiupiu](https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Amapiupiu](https://open.spotify.com/album/3ZNOD4OfYMFGXbuNqTwfOk) | 3:09 | 2024-09-20 |  |
-| [AMOUR](https://open.spotify.com/track/5P3iwS6z4dUVc6dlk24ret) | [Parfaite Massa](https://open.spotify.com/artist/7mu7zb3jWeeTImlmKW6ZSa) | [AMOUR](https://open.spotify.com/album/31TVhDC1cn54IUxfc6DJFs) | 3:26 | 2025-05-16 |  |
+| [AMOUR](https://open.spotify.com/track/5P3iwS6z4dUVc6dlk24ret) | [Parfaite Massa](https://open.spotify.com/artist/7mu7zb3jWeeTImlmKW6ZSa) | [AMOUR](https://open.spotify.com/album/31TVhDC1cn54IUxfc6DJFs) | 3:26 | 2025-05-16 | 2025-06-07 |
 | [Animation FR](https://open.spotify.com/track/5e7VKePa6T6zsBLmW5gtb3) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Animation FR](https://open.spotify.com/album/6jgXMoDr51yRbmfZJWKKHa) | 2:21 | 2025-05-09 |  |
 | [ANTIDOTE](https://open.spotify.com/track/3t8cRI6x5jScNQvilkDbxe) | [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb) | [ANTIDOTE](https://open.spotify.com/album/5J8cYNlz6oP2tiHKtWEmtB) | 3:16 | 2025-02-28 | 2025-05-24 |
 | [Appétit](https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Appétit](https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52) | 2:53 | 2024-05-10 | 2024-12-14 |
@@ -99,6 +99,7 @@
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 | 2022-10-15 |
 | [Bébé à moi](https://open.spotify.com/track/3gLPLk6G3Rl4jP3qWWPyBw) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Bébé à moi](https://open.spotify.com/album/6NeXUvrureLMwbaZCz8ckF) | 2:48 | 2025-02-14 | 2025-05-24 |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-06-30 | 2024-07-19 |
+| [C'est incroyable](https://open.spotify.com/track/4DWzd96wVSDnV0OShkB7Y6) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [C'est incroyable](https://open.spotify.com/album/2Szye4IrWrvlQXDfdKy4Xh) | 2:23 | 2025-06-06 |  |
 | [C'EST MA VIE](https://open.spotify.com/track/4B2MFDkxTyCV3ek5hBIfZd) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [C'EST MA VIE](https://open.spotify.com/album/3gY9b5ikga7dt1mS5OfhA2) | 3:08 | 2023-08-25 | 2023-10-06 |
 | [CA BIBI](https://open.spotify.com/track/67ywbAuzindWhDYkoBEK37) | [Meydo](https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [CA BIBI](https://open.spotify.com/album/7EUahfqTQLBZ3AdvBwjD7k) | 2:41 | 2024-09-27 | 2024-10-26 |
 | [Cadeau](https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Cadeau](https://open.spotify.com/album/55mAmiJ6Bcfv7ewTwZuGy3) | 2:06 | 2024-12-13 | 2025-02-08 |
@@ -360,6 +361,7 @@
 | [Mobondo](https://open.spotify.com/track/7dnLO6lSRNvdbrXJjFZMBH) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mobondo](https://open.spotify.com/album/1LPtx6mmIcJUH2uTUVLwIu) | 4:05 | 2024-12-20 | 2025-05-03 |
 | [Mobulu te](https://open.spotify.com/track/5qd0QJrlKaoGyi4BWXx3Sa) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT) | [Mobulu te](https://open.spotify.com/album/5R3lpXwUrTOTZ3WX2Zx5ZL) | 3:46 | 2023-02-24 | 2023-03-25 |
 | [Momie](https://open.spotify.com/track/4WB6gXdcGCoHog2SzZFlcs) | [CDG](https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL), [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Momie](https://open.spotify.com/album/4wVtvpZ1p7XVFLHYJwm8wi) | 2:45 | 2024-08-23 | 2024-12-14 |
+| [Mon Amour](https://open.spotify.com/track/7AebhPeS3aGC4OesngC5WK) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx) | [Mon Amour](https://open.spotify.com/album/3HaKNCMHhIqthKSrftGwqG) | 3:13 | 2025-06-06 |  |
 | [Mon bonheur](https://open.spotify.com/track/7FdHNzHJKCmNlmGZS9owvx) | [Cindy le Cœur](https://open.spotify.com/artist/79pJ6eff5enOPGahcr9PKL), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Mon bonheur](https://open.spotify.com/album/10mo1JVParjtGIAL9pM5p1) | 5:48 | 2024-01-05 | 2024-04-05 |
 | [Mon doudou](https://open.spotify.com/track/4LQhEWxaUSigESJetoNx2E) | [Ewing sima](https://open.spotify.com/artist/4Nc9sa3ZUT4b8Cp4YQKkjj) | [Mon doudou](https://open.spotify.com/album/4jokcX7kQNiaUmr09KH6nH) | 3:09 | 2022-06-30 | 2022-08-06 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-02-28 |  |
@@ -487,7 +489,7 @@
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 | 2023-09-30 |
 | [Sala Sala](https://open.spotify.com/track/4ds8dnIqgWtzuxrnFrkS7q) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Sala Sala](https://open.spotify.com/album/60M7cgeuKTmU3u9jMxRkAW) | 4:24 | 2023-02-10 | 2023-03-18 |
 | [SAMU KANI](https://open.spotify.com/track/4G9qKwAEHXctjKlyTOMpZj) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [BIG MAN](https://open.spotify.com/album/6c0EWZUJUXYI6OgdteIOyu) | 2:34 | 2024-10-25 |  |
-| [Samukaya \(feat\. Mosty\)](https://open.spotify.com/track/0E2Vr9povqsD8PbDbP4ugD) | [Jeunes Premiers 242](https://open.spotify.com/artist/52XKKAm1Dz5uQ9lIspNV58), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Samukaya \(feat\. Mosty\)](https://open.spotify.com/album/6wZw8vL4WhKxe4wYxzGutU) | 3:37 | 2025-05-16 |  |
+| [Samukaya \(feat\. Mosty\)](https://open.spotify.com/track/0E2Vr9povqsD8PbDbP4ugD) | [Jeunes Premiers 242](https://open.spotify.com/artist/52XKKAm1Dz5uQ9lIspNV58), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Samukaya \(feat\. Mosty\)](https://open.spotify.com/album/6wZw8vL4WhKxe4wYxzGutU) | 3:37 | 2025-05-16 | 2025-06-07 |
 | [SAN GOKU](https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 2:52 | 2024-09-13 | 2025-02-15 |
 | [SANGOTE](https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [SANGOTE](https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67) | 2:13 | 2025-05-23 |  |
 | [Sans nouvelle](https://open.spotify.com/track/1wlksYa0f0F5IXEt4DOXHC) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Sans nouvelle](https://open.spotify.com/album/6B5ks4O0TDE0LP8PBBilhM) | 2:53 | 2023-08-04 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,076 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,126 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 | 59 | [Amigos Nada Más](https://open.spotify.com/track/1tx4b6Gvx5lWSasa3gqwQ3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Como Te Voy A Olvidar \(Baile Total\)](https://open.spotify.com/album/6RD2FWkcey4k8aOu7k7DzV) | 3:30 |
 | 60 | [Tu mirada en mi](https://open.spotify.com/track/2KktXDl8ImxzmhF2dkhDA2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Mundos Opuestos](https://open.spotify.com/album/3wEMYca7zqRh3KCTDXPJcl) | 3:42 |
 
-Snapshot ID: `ZsgXFAAAAAB9KuSb91gkJ0oaVWNYSx48`
+Snapshot ID: `AAAAAMggOj4AXtiVyv9+rfIBjDZdcdF5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYDzQuH58z2X.md) - [plain]
 
 > Enjoy the NCT DREAM Berlin concert LIVE SET including the voices of members on stage! \(NCT DREAM 멤버들의 무대의 목소리가 포함된 베를린 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,750 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,746 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,771 songs - 5 day 0 hr 43 min
+1,772 songs - 5 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1101,7 +1101,7 @@
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2020-05-18 | 2022-10-13 |
 | [No Captain](https://open.spotify.com/track/7KKzbd8nN8M51mOzoNlH3k) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [Little by Little](https://open.spotify.com/album/6snYAeR3hklBu7LpvyQ3LR) | 5:16 | 2020-02-29\* | 2020-06-12 |
 | [No Dancers](https://open.spotify.com/track/6NH78lyZkS05PotKqg0ZKw) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [No Dancers](https://open.spotify.com/album/2bgJFYkyf6MNQaZaNwOHWX) | 5:47 | 2020-03-16 | 2021-03-06 |
-| [No Ending \- Nils Hoffmann Remix](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [No Ending \(Nils Hoffmann Remix\)](https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs) | 4:19 | 2024-04-19 |  |
+| [No Ending \- Nils Hoffmann Remix](https://open.spotify.com/track/0on4Nj6eERwrMj7wivFewL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [No Ending \(Nils Hoffmann Remix\)](https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs) | 4:19 | 2024-04-19 | 2025-06-07 |
 | [No Fun](https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [No Fun](https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht) | 6:51 | 2022-06-10 | 2024-03-02 |
 | [No Matter \(Instrumental\)](https://open.spotify.com/track/6NwqX3wkHLgs5j112emHIx) | [Constant Z](https://open.spotify.com/artist/7ybgN2kaYz8EFna0bEDCNf) | [Instrumental\-Z Pt.1](https://open.spotify.com/album/18sUdOeiNPCWsvFKR9HkgA) | 3:12 | 2020-03-25 | 2020-07-18 |
 | [No Order](https://open.spotify.com/track/1fOVpI5kgMGi3m1RJQyJJi) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Running After](https://open.spotify.com/album/1atiiuLx1TxzbLurvNAEO8) | 5:44 | 2020-05-18 | 2021-01-23 |
@@ -1494,6 +1494,7 @@
 | [Sunset](https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv) | [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz), [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E) | [Sunset](https://open.spotify.com/album/7BbXUY8gAHmyZJsVSXfhWR) | 3:19 | 2020-05-18 | 2020-07-03 |
 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 | 2020-05-18 | 2020-07-03 |
 | [Sunshine](https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Sunshine](https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc) | 4:27 | 2024-05-10 | 2024-10-10 |
+| [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 | 2025-06-06 |  |
 | [surface](https://open.spotify.com/track/7GTtEE6EgRb7yI0BEGKZfS) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 6:02 | 2020-05-18 | 2020-07-03 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2023-09-09 |
 | [Survive](https://open.spotify.com/track/4SF6dFWZbsFcXUWdsIbvVb) | [Tavi Castro](https://open.spotify.com/artist/2Zvn8gcaucDuMsjgw9o7SY) | [Survive](https://open.spotify.com/album/3r0vt6cglwblpadR2LZ6SY) | 3:20 | 2020-05-22 | 2020-07-03 |

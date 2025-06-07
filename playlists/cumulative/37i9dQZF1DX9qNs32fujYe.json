@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 388035,
       "name": "Catastrophist",
       "url": "https://open.spotify.com/track/32pOmdexX8M7me2PdINJYb"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 239266,
       "name": "Cradle To The Grave",
       "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
@@ -5982,7 +5982,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 270454,
       "name": "Foregone, Pt. 2",
       "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
@@ -7562,6 +7562,24 @@
       "duration_ms": 392600,
       "name": "Holy Wars...The Punishment Due - Remastered",
       "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
+      "album": {
+        "name": "Hordes of Khan",
+        "url": "https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Hordes of Khan",
+      "url": "https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE"
     },
     {
       "album": {
@@ -15283,6 +15301,24 @@
     },
     {
       "album": {
+        "name": "Steelbound",
+        "url": "https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266899,
+      "name": "Steelbound",
+      "url": "https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo"
+    },
+    {
+      "album": {
         "name": "Live in Moscow",
         "url": "https://open.spotify.com/album/0vHmDgU1qV6VFFGv8ixnkU"
       },
@@ -15514,7 +15550,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU"
@@ -15882,7 +15918,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 294000,
       "name": "Templars",
       "url": "https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj"
@@ -18472,7 +18508,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 260424,
       "name": "Warriors Of The Sea",
       "url": "https://open.spotify.com/track/4v43w0RfWBs2dPUAHaiTf7"

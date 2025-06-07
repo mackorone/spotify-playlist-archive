@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-782 songs - 1 day 22 hr 52 min
+784 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-12-17 |  |
 | [Falling Apart](https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:15 | 2023-10-06 | 2024-04-19 |
 | [Falling Apart](https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:15 | 2021-12-17 | 2023-11-11 |
-| [Falling for You](https://open.spotify.com/track/4IrpjWSS9rLUdIjrg8b4Qi) | [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Springside](https://open.spotify.com/album/5HeDsu4d1wLNzL4iJ3yXwt) | 4:11 | 2021-12-17 |  |
+| [Falling for You](https://open.spotify.com/track/4IrpjWSS9rLUdIjrg8b4Qi) | [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Springside](https://open.spotify.com/album/5HeDsu4d1wLNzL4iJ3yXwt) | 4:11 | 2021-12-17 | 2025-06-07 |
 | [Falling in Love](https://open.spotify.com/track/2VQ86zc6pRjhvZFCs3QGKP) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Falling in Love](https://open.spotify.com/album/5UcEl0EyV0MfNJsJAQLKru) | 3:24 | 2021-12-17 |  |
 | [Famous](https://open.spotify.com/track/3qbToOWJKKc0HtruELjlE1) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Iridesce / Famous](https://open.spotify.com/album/5nioohlHYXy7BwGbX4hfpg) | 3:53 | 2021-12-17 |  |
 | [Famous](https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Famous](https://open.spotify.com/album/66jxEpRg72cH9574G9L49e) | 3:42 | 2022-01-24 | 2022-04-20 |
@@ -372,6 +372,7 @@
 | [In the Blue](https://open.spotify.com/track/3nisTgf6BkJfGhcTtUU6ri) | [The Saint Johns](https://open.spotify.com/artist/3tdY20WqCriinEyudhu6r4) | [In the Blue](https://open.spotify.com/album/7CjDTGiN3rvs3OVjH5eFmL) | 4:06 | 2021-12-17 | 2022-04-19 |
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-12-17 |  |
 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 | 2021-12-17 |  |
+| [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-06 |  |
 | [Indefinite](https://open.spotify.com/track/2joghEwCC0IPKPJ030x6BL) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea](https://open.spotify.com/album/1xbEwdz1jUSqezQWjmsYJo) | 3:52 | 2021-12-17 | 2022-04-28 |
 | [Indexical reminder of a morning well spent](https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:43 | 2023-07-04 |  |
 | [Innkeepers](https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 4:08 | 2022-01-24 | 2022-07-29 |
@@ -678,6 +679,7 @@
 | [The Heart of Life](https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:18 | 2021-12-17 |  |
 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 3:53 | 2021-12-17 | 2022-07-29 |
 | [The Less I Knew](https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/1KRR7OrY7bBmwEKpcJMT7o) | 4:34 | 2022-07-15 | 2022-07-20 |
+| [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-06-06 |  |
 | [The Lonely Persistence of Time](https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Lonely Persistence of Time](https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d) | 4:20 | 2022-01-24 | 2022-04-19 |
 | [The Loudest Voice \- Director's Cut](https://open.spotify.com/track/66V3vPoMmWGLyB1Q5vESZy) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [The Loudest Voice \(Director's Cut\)](https://open.spotify.com/album/5Bw9GX92FDs1ZdyujrZWSr) | 4:20 | 2021-12-17 | 2022-07-08 |
 | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/track/4rEAtHXza0kdANkTLUwXM1) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/album/7zmo9jWL7G4xj6oSLXRq0v) | 2:58 | 2021-12-17 | 2022-11-13 |
@@ -721,7 +723,7 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
 | [Twenty Something](https://open.spotify.com/track/62DKDpn34ACcv4HarAzF8p) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Twenty Something](https://open.spotify.com/album/0P4bD3SFm6300Za4ABk8fs) | 3:41 | 2021-12-17 | 2022-07-29 |
 | [Unconditional](https://open.spotify.com/track/2SSwlNE1JKhLZAjtKjxg6O) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [For My Father](https://open.spotify.com/album/2hSfGDpXs6fs1Bj3VxCRhA) | 3:23 | 2022-01-24 | 2024-12-29 |
-| [Under The Sun](https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 2:49 | 2021-12-17 |  |
+| [Under The Sun](https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 2:49 | 2021-12-17 | 2025-06-07 |
 | [Under The Sun \- Acoustic](https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:10 | 2021-12-17 |  |
 | [Understand It](https://open.spotify.com/track/0OECTTAYRP8UBQLynDLiIV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Understand It](https://open.spotify.com/album/0yKIxCKukG70cZYEbJWla6) | 3:40 | 2021-12-17 | 2022-04-20 |
 | [Unlike Anything](https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 2:46 | 2025-03-21 |  |

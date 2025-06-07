@@ -4,7 +4,7 @@
 
 > Bien Argento 📸 Trueno
 
-380 songs - 19 hr 2 min
+382 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [CADA VEZ QUE](https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [CADA VEZ QUE](https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR) | 2:31 | 2024-04-12 | 2025-05-07 |
 | [Callar Lo Que Siento](https://open.spotify.com/track/5xFuu6Io7zyxiNPLdmYe0X) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd) | [Callar Lo Que Siento](https://open.spotify.com/album/0g4wmnw7flK30K2KyLAn07) | 2:38 | 2021-11-26 | 2022-03-12 |
 | [Calíope](https://open.spotify.com/track/2u3YOmhxySREhOQtg9poq6) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Calíope](https://open.spotify.com/album/0KqRhL817hMvB3KyKaPRs8) | 3:28 | 2024-10-18 | 2025-05-07 |
+| [Cambiaron Las Cosas](https://open.spotify.com/track/3rBGk2iShKhDnWdyDO7hFK) | [Sin Futuro Mafia](https://open.spotify.com/artist/5R0hPD0TwLNLBWUyO7Y3hj), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Alvso](https://open.spotify.com/artist/5kNCvXZufkVxoFzx4l9EtW) | [Sin Futuro Mafia](https://open.spotify.com/album/2jBofPmg0HORzb1b4kqfuN) | 3:08 | 2025-06-06 |  |
 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 | 2021-11-26 |  |
 | [Caos](https://open.spotify.com/track/1aFTMdBgBx9uYeE8Kf0aC4) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/0WwbpuXVItyWA8l2Km6MBZ) | 2:02 | 2023-03-30 | 2024-02-24 |
 | [Caos](https://open.spotify.com/track/1rNHgKTcZ82mJPuoJ0ANsY) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Caos](https://open.spotify.com/album/4hAizxabFq0T6Li3YG7bTX) | 2:02 | 2021-11-26 | 2023-04-07 |
@@ -364,6 +365,7 @@
 | [Traición](https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Traición](https://open.spotify.com/album/1Lir5TBeNDAVUq1mDATIOz) | 3:23 | 2023-04-28 | 2023-10-28 |
 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 | 2023-08-11 | 2025-05-07 |
 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 | 2024-12-13 | 2025-05-07 |
+| [Tu y Yo](https://open.spotify.com/track/1G6yMi0d6yjL9fYV7JpCjx) | [Sin Futuro Mafia](https://open.spotify.com/artist/5R0hPD0TwLNLBWUyO7Y3hj), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Alvso](https://open.spotify.com/artist/5kNCvXZufkVxoFzx4l9EtW) | [Sin Futuro Mafia](https://open.spotify.com/album/2jBofPmg0HORzb1b4kqfuN) | 2:46 | 2025-06-06 |  |
 | [Turro Original](https://open.spotify.com/track/1ZmdOMDKMnnmEzyRUrwjKJ) | [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Turro Original](https://open.spotify.com/album/6PxyH2ldzlbuuXNpgApE5O) | 2:37 | 2025-05-30 |  |
 | [un goat siempre esta busy](https://open.spotify.com/track/5tvYaqxCJsDEYp4wNs5OWs) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 1:47 | 2025-04-25 | 2025-05-07 |
 | [UN MILAGRO](https://open.spotify.com/track/4GVjAkuYa7mTuuBcbZHmcO) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [UN MILAGRO](https://open.spotify.com/album/6Z67ofnD2a457wUBNCobAQ) | 4:40 | 2025-05-16 |  |

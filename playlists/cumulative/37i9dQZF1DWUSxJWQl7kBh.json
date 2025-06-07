@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "De los malos tiempos aprend\u00ed que a la gente nunca la tienes feliz. Grupo Selectivo en portada.",
+  "description": "Y yo que sue\u00f1o con un d\u00eda poder lograr todo lo que imagino \u2728\ud83e\uddff Tombochio en portada.",
   "name": "Corridos Motivadores",
   "tracks": [
     {
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "GAD",
+        "url": "https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/6w60YlYpRUFr0XrZ1bNt9D"
+    },
+    {
+      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 226065,
       "name": "El Poder De La Palabra",
       "url": "https://open.spotify.com/track/1kAYKWWCTLky4bqHQDocTJ"

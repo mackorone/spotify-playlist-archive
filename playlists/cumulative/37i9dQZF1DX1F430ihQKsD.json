@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 329351,
       "name": "Chaque nuit la mort",
       "url": "https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 210285,
       "name": "Clair-obscur",
       "url": "https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT"
@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "eyez on it",
+        "url": "https://open.spotify.com/album/3S1WVZwXqGcbwd7dD9Zcq2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9Li",
+          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "eyez on it",
+      "url": "https://open.spotify.com/track/4nJOtb4Ix6TmfCyfRLdDUO"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2"
       },
@@ -3742,7 +3760,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-07",
       "duration_ms": 174626,
       "name": "G4ME0VER",
       "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
@@ -3800,6 +3818,24 @@
       "duration_ms": 185360,
       "name": "Gazon mouill\u00e9",
       "url": "https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw"
+    },
+    {
+      "album": {
+        "name": "Geai",
+        "url": "https://open.spotify.com/album/474ZWKlidntBQzqt00LBic"
+      },
+      "artists": [
+        {
+          "name": "Nicolet",
+          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156064,
+      "name": "Geai",
+      "url": "https://open.spotify.com/track/0UUGntB09lzOUtaM8C2S5y"
     },
     {
       "album": {
@@ -5720,6 +5756,24 @@
       "duration_ms": 210286,
       "name": "Les Heures",
       "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+    },
+    {
+      "album": {
+        "name": "Les morceaux perdus",
+        "url": "https://open.spotify.com/album/2VVOIdhKuQIovhJb4XxtpV"
+      },
+      "artists": [
+        {
+          "name": "En St\u00e9r\u00e9o",
+          "url": "https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Les morceaux perdus",
+      "url": "https://open.spotify.com/track/4l0t2AKGqSkWCX4yY3aMna"
     },
     {
       "album": {

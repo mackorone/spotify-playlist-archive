@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Thee Sacred Souls
+> A new take on a classic sound\. Cover: Curtis Harding
 
-513 songs - 1 day 6 hr 52 min
+515 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Bridge of Love](https://open.spotify.com/track/4gzjWQHdsN0aLhKK1YDEqY) | [Bobby Harden & The Soulful Saints](https://open.spotify.com/artist/71Gn2qVCqTPof7twyFKasz) | [Bridge of Love](https://open.spotify.com/album/1zPVAfmWW8w5VBYpeewE6S) | 5:15 | 2023-04-07 | 2023-09-09 |
 | [Bring You A Ring](https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Bring You A Ring](https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ) | 3:06 | 2023-09-08 | 2025-05-10 |
 | [Brooklyn to Brooklin](https://open.spotify.com/track/6gn7j9XgdEQgaaJeGm6uTp) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5) | [Brooklyn to Brooklin](https://open.spotify.com/album/78cN2KkuMGa8dlBenxWpeR) | 4:34 | 2022-08-19 | 2023-02-25 |
-| [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 |  |
+| [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 | 2025-06-07 |
 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 | 2021-07-09 | 2023-01-28 |
 | [Call Me](https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Call Me](https://open.spotify.com/album/5NjIbGFj7Wrvbmg3aMHWHO) | 4:13 | 2024-01-12 | 2024-09-21 |
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2021-07-09 | 2023-04-22 |
@@ -81,7 +81,7 @@
 | [Damaged Heart](https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Another Shot Fired](https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC) | 3:10 | 2021-07-09 | 2022-06-26 |
 | [Dance With Me](https://open.spotify.com/track/1lGYIrfy4ulioJGYAjRD0h) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Zero Grace](https://open.spotify.com/album/4loYR62mrFQeCzK5pHoV5l) | 3:48 | 2023-11-17 | 2024-04-19 |
 | [Dance With Me](https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Dance With Me](https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp) | 3:48 | 2023-11-17 |  |
-| [Dancing Away In Tears \- Home Sessions](https://open.spotify.com/track/3idrlWkgtwzi5kcLN16s18) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Dancing Away In Tears b/w Back To Life \(However Do You Want Me\) \[Home Sessions\]](https://open.spotify.com/album/6z1Gm9450assU4gra5Tb9r) | 3:43 | 2023-09-08 |  |
+| [Dancing Away In Tears \- Home Sessions](https://open.spotify.com/track/3idrlWkgtwzi5kcLN16s18) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Dancing Away In Tears b/w Back To Life \(However Do You Want Me\) \[Home Sessions\]](https://open.spotify.com/album/6z1Gm9450assU4gra5Tb9r) | 3:43 | 2023-09-08 | 2025-06-07 |
 | [Dancing Dimensions](https://open.spotify.com/track/4NIS3J8jBhjKzk1joQWTAe) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [Dancing Dimensions](https://open.spotify.com/album/6u2hyLFGZJ8T7n2k81BSCC) | 3:36 | 2022-03-04 | 2023-09-30 |
 | [Dare You Be Mine](https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Dare You Be Mine](https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO) | 3:27 | 2022-12-16 | 2023-02-03 |
 | [Dawn](https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [The Putbacks](https://open.spotify.com/artist/1MFxqj3TBAaTuiEgLnBfsR) | [Dawn](https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR) | 3:52 | 2021-07-09 | 2022-07-24 |
@@ -267,6 +267,7 @@
 | [Love Sick](https://open.spotify.com/track/1Asp0SvN71201WaMcmKAPW) | [Eddy Smith & The 507](https://open.spotify.com/artist/7HoFIF1l1gyI5VdfxJkwh8) | [Love Sick](https://open.spotify.com/album/4Cm4lPDMYJah9ePUBnrkcj) | 3:03 | 2022-10-21 | 2023-01-14 |
 | [Love To Last](https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 2:43 | 2021-11-05 | 2023-01-28 |
 | [Love You Better](https://open.spotify.com/track/5Dmo0uuZSKQPQ7WW9LNbA7) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Love You Better](https://open.spotify.com/album/5yDO2abSpmSiEFQJXj554K) | 3:08 | 2022-04-15 | 2022-07-29 |
+| [Love's Been Good To Me](https://open.spotify.com/track/2g3LMQTgGKvq3Rls1BXZoD) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Love's Been Good To Me](https://open.spotify.com/album/5c48GP3Zw3SYYxItTvBemr) | 5:17 | 2025-06-06 |  |
 | [Love's Graveyard](https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Love's Graveyard](https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj) | 3:05 | 2024-02-14 |  |
 | [Love's Train](https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 5:07 | 2023-09-01 | 2024-04-19 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2024-10-26 |
@@ -465,6 +466,7 @@
 | [Train Wreck](https://open.spotify.com/track/186r8w6faWFUgUeIS1PqcZ) | [The Lady Songbird Jinda](https://open.spotify.com/artist/7bARxuRTtyat6pGGBxQMJ8), [Donnie Ray](https://open.spotify.com/artist/4r3SnXMswiuZZNDD1OzJqv) | [Train Wreck](https://open.spotify.com/album/3BCKshx1X4t3nYFzaG2ItA) | 3:30 | 2023-08-18 | 2023-09-09 |
 | [Trouble](https://open.spotify.com/track/0QrPA1DZnFzbh2sK2Ru6zL) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/1kanCOAOK32Mle4upbv8W0) | 3:39 | 2023-09-01 | 2024-04-19 |
 | [Trouble](https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb) | 3:39 | 2023-07-21 | 2025-02-01 |
+| [True Love Can't Be Blind](https://open.spotify.com/track/13XkT1WvbAFyDvltA9ubt6) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [True Love Can't Be Blind](https://open.spotify.com/album/1ZoseZsIuTqT1bkCZ4EFVE) | 3:22 | 2025-06-06 |  |
 | [Trust](https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Truth & Soul](https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt) | 4:20 | 2022-05-06 | 2024-07-27 |
 | [Tryin' to Get By](https://open.spotify.com/track/5oKR1mBL3cN7iiGFpovuH4) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Capricorn](https://open.spotify.com/album/34kckA5C2zC6ouE5ncMJfI) | 3:19 | 2023-01-27 | 2023-02-04 |
 | [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 | 2022-10-07 | 2023-04-09 |

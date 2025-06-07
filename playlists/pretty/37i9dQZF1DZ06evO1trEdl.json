@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6354,
+  "num_followers": 6356,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD+MgAAAAACmZX7Bw5Ia+1C8MV3bBK1+",
+  "snapshot_id": "aEDeAAAAAACspCJln1msYXB0cQrjLraa",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
+      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "My Simple Heart",
+      "url": "https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -327,42 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "My Simple Heart",
-      "url": "https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
-      "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 169640,
       "name": "You're the Fool",
       "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of The Three Degrees: When Will I See You Again",
-        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "Everybody Gets to Go to the Moon - Live",
-      "url": "https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Dimensions",
         "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 367520,
       "name": "Giving Up, Giving In",
       "url": "https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Three Degrees: When Will I See You Again",
+        "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "Everybody Gets to Go to the Moon - Live",
+      "url": "https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees Live",
-        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 163626,
-      "name": "Free Ride - Live at Bailey's, London, England - 1975",
-      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Roulette Years",
         "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 153560,
       "name": "Contact",
       "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Free Ride - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 196546,
-      "name": "I Do Take You",
-      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
+      "duration_ms": 235693,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 244253,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
     },
     {
       "added_at": null,
@@ -776,25 +760,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "70's Deep Funk",
-        "url": "https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Who Is She and What Is She to You",
-      "url": "https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL"
+      "duration_ms": 196546,
+      "name": "I Do Take You",
+      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
     },
     {
       "added_at": null,
@@ -831,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "70's Deep Funk",
+        "url": "https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Who Is She and What Is She to You",
+      "url": "https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
       },
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 274480,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6BUXiC6FX1ijEQWGf5iQoD"
+      "duration_ms": 189346,
+      "name": "Caught Between Two Fires",
+      "url": "https://open.spotify.com/track/2BmlYNJN4MTjm0VJQFkGpH"
     }
   ],
   "unique_name": "This Is The Three Degrees",

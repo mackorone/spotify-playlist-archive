@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,966 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,996 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 16 | [Sorcière](https://open.spotify.com/track/1piwxmB8YelJmJfXBBiVCb) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a) | [Les Amants Terribles](https://open.spotify.com/album/0iyrJcC2eEKxmSzSonnXUv) | 3:01 |
 | 17 | [Là où j’aimerais être \(Where I Wanna Be\) \- Acoustic](https://open.spotify.com/track/6BwNGgqtEnuVnn4H6WCoRN) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Là où j’aimerais être \(Where I Wanna Be\) \[Acoustic\]](https://open.spotify.com/album/28mqWwNSSEhKQ86r2RDF1L) | 2:54 |
 | 18 | [On verra](https://open.spotify.com/track/1jOdu8jG3RYcQZgDxOTtd0) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [On verra](https://open.spotify.com/album/7oMqz0UnFm3hlyloQlPQJx) | 2:48 |
-| 19 | [5 étoiles](https://open.spotify.com/track/3l5xazk89vOmVCnnw1Zx3n) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [5 étoiles](https://open.spotify.com/album/4Rugw8pUP5n7DWQJ7ouOQa) | 3:21 |
+| 19 | [Cinq Étoiles](https://open.spotify.com/track/3l5xazk89vOmVCnnw1Zx3n) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Cinq Étoiles](https://open.spotify.com/album/4Rugw8pUP5n7DWQJ7ouOQa) | 3:21 |
 | 20 | [21 grammes](https://open.spotify.com/track/2VmU3kVFlvzhVM1YbFNO8v) | [Flo Malley](https://open.spotify.com/artist/30HRLwtkyjmXNwoUe0eDa5) | [21 grammes](https://open.spotify.com/album/1nxvBxZUlw5328QkJfLfKv) | 2:42 |
 | 21 | [Dis\-moi](https://open.spotify.com/track/7noUkZhtjTcybZEbBPIfJQ) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM), [Chloëmoi](https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC) | [Dis\-moi](https://open.spotify.com/album/15ht7VlmShUwfZH2a0Q6Ue) | 3:03 |
 | 22 | [Heureuse](https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5) | [Redzol](https://open.spotify.com/artist/5lZC2NXIJuvgOAGOBonrVE), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Heureuse](https://open.spotify.com/album/0Eij08j7BLHHdOTL9E1Inc) | 2:45 |

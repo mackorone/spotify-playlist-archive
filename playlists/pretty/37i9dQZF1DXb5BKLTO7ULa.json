@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe muziek van Sabrina Carpenter, FLEMMING, Addison Rae,  Little Simz en meer...",
-  "num_followers": 277299,
+  "num_followers": 277659,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvkQAAAAA9xk0ncGos4g11ZOYHkTQG",
+  "snapshot_id": "aELelgAAAACUI2hNeWQWFebQACXFKHl8",
   "tracks": [
     {
       "added_at": "2025-06-06 00:00:17",
@@ -177,7 +177,7 @@
         },
         {
           "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "url": "https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM"
         }
       ],
       "duration_ms": 170895,
@@ -555,6 +555,38 @@
     {
       "added_at": "2025-06-06 00:00:17",
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "added_at": "2025-06-06 00:00:17",
+      "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im"
+    },
+    {
+      "added_at": "2025-06-06 00:00:17",
+      "album": {
         "name": "Ya Coco",
         "url": "https://open.spotify.com/album/6o6nWcY94bUhvraSCV1vOF"
       },
@@ -795,6 +827,22 @@
       "duration_ms": 163203,
       "name": "One Step At a Time",
       "url": "https://open.spotify.com/track/5fxunQcvfuCoxPxR9QMvEf"
+    },
+    {
+      "added_at": "2025-06-06 00:00:17",
+      "album": {
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
     },
     {
       "added_at": "2025-06-06 00:00:17",

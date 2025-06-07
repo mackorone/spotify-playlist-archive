@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-349 songs - 18 hr 27 min
+350 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-01-23 |  |
 | [Machine](https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA) | [YxFF](https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ), [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Machine](https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD) | 2:43 | 2025-01-23 |  |
 | [Magnum Bullets a Capella Cover](https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD) | [Danno GSD](https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN) | [Magnum Bullets a Capella Cover](https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS) | 3:56 | 2023-08-10 |  |
+| [MAK 2](https://open.spotify.com/track/5182eSwZytleUce3d5qbmA) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [MAK 2](https://open.spotify.com/album/0dHHz0rhgonxIFtnXZvMd9) | 2:03 | 2025-06-06 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 |  |
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 |  |

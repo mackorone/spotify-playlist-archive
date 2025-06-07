@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Aaron
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,429 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,622 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |
 | 75 | [Swimming Circles \(edit\)](https://open.spotify.com/track/5VPxrumSn6DiLX2VfJ5Kfj) | [FRISO](https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt) | [Swimming Circles \(edit\)](https://open.spotify.com/album/5w7aQAGOUpRC0pQOLB7OYa) | 3:57 |
 
-Snapshot ID: `aEIThwAAAACEs2MUVoxXcq/ZybX1Nu4e`
+Snapshot ID: `aEIThwAAAACi4MjrAmkdsVjUpua9A9nD`

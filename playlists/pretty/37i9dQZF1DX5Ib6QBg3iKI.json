@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 143554,
+  "num_followers": 143549,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Three Christmas Songs \u2013 An Abbey Road Live To Vinyl Cut",
-        "url": "https://open.spotify.com/album/6fb3shhyfkXN5DlOlXEhcr"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 282536,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Walking in The Air",
         "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 239250,
       "name": "Walking in The Air",
       "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Three Christmas Songs \u2013 An Abbey Road Live To Vinyl Cut",
+        "url": "https://open.spotify.com/album/6fb3shhyfkXN5DlOlXEhcr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 282536,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Man on the Moon",
         "url": "https://open.spotify.com/album/7ChaTXG8VLVpzQnI2tzhJ2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 171078,
       "name": "Man on the Moon",
       "url": "https://open.spotify.com/track/4fIR2Qocg33dhjEVrGWAlj"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Christmastide",
+        "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Christmastide",
+      "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "The One (Christmas Version)",
         "url": "https://open.spotify.com/album/6l3XYPsZaXS9GQUr9RTgpV"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 208853,
       "name": "The One - Christmas Version",
       "url": "https://open.spotify.com/track/1yrybKSmjixau95vLljPyP"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Christmastide",
-        "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Christmastide",
-      "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
     }
   ],
   "unique_name": "Easy Christmas",

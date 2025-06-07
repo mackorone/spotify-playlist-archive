@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Adventure Club, Flight School &amp; Reve.
 
-237 songs - 12 hr 32 min
+239 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-19 | 2024-08-17 |
 | [Forever \(Stay Like This\)](https://open.spotify.com/track/7LlkcnEH8uEXvThRSrHef1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/14qPOIpPCVAcnpKq4TNLr4) | 2:32 | 2024-01-15 | 2024-11-02 |
 | [Forever \(with Kid Cudi\)](https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Forever \(with Kid Cudi\)](https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul) | 4:11 | 2025-04-21 |  |
+| [Freaky Like That](https://open.spotify.com/track/7bDFVicEweylijRmYV3fCf) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 2:21 | 2025-06-06 |  |
 | [Freedom](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Freedom](https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w) | 2:21 | 2024-10-25 |  |
 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 | 2024-09-20 |  |
 | [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 | 2024-04-26 | 2024-12-06 |
@@ -226,6 +227,7 @@
 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/4JR1NSxLF5bSQ68VGjIv9k) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 | 2025-03-14 |  |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-12-08 | 2024-03-16 |
 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 | 2024-12-03 |  |
+| [Waiting on the World](https://open.spotify.com/track/3iP2Rwtbe5zBYSqI4ORAaN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Waiting on the World](https://open.spotify.com/album/1gTzdnIENgVnXUCPd2zaPz) | 3:53 | 2025-06-06 |  |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2024-05-11 |
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-12-08 | 2024-09-21 |
 | [Waterfall](https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Waterfall](https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw) | 2:46 | 2024-05-03 | 2024-08-17 |

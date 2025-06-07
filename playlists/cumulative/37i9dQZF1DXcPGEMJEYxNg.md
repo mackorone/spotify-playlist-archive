@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists:  SNOW WIFE, Chance Emerson and Luna Li.
 
-258 songs - 13 hr 41 min
+260 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Better Than That](https://open.spotify.com/track/38LEW9GivIvjz80cFmuYR3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Better Than That](https://open.spotify.com/album/4YGf3T8dHgwcq3C2IMq6Y8) | 2:35 | 2025-05-01 |  |
 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 | 2023-05-31 |  |
 | [Bing Bong Love Song](https://open.spotify.com/track/4l0wwhuAVPmRS4VZ9wpuQq) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [BUD](https://open.spotify.com/album/3iHi5YiyGr5Q0ExbRWwWy1) | 2:18 | 2023-04-29 | 2024-03-29 |
+| [BITE](https://open.spotify.com/track/7wcLxoDNmNx4WiABHJZrrU) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [BITE](https://open.spotify.com/album/4xKgTA0pfAL8OEvSRSiEoU) | 2:50 | 2025-06-06 |  |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-05-18 | 2022-07-13 |
 | [Blowing Kisses](https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Blowing Kisses](https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F) | 3:38 | 2024-12-18 |  |
 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 | 2023-05-06 | 2023-05-13 |
@@ -88,6 +89,7 @@
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2022-05-18 | 2022-07-13 |
 | [Fly Away](https://open.spotify.com/track/1rSbtRCsVo1713CyRSiM8B) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fly Away](https://open.spotify.com/album/5HLA9CCP5IYE93l7z8n3k2) | 2:54 | 2025-05-01 |  |
 | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/album/5He2R0dw92kc4N9tg4v7zc) | 5:57 | 2023-05-06 | 2023-05-13 |
+| [Freaky Like That](https://open.spotify.com/track/7bDFVicEweylijRmYV3fCf) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 2:21 | 2025-06-06 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-07-12 | 2024-12-19 |
 | [Gimme More \- Spotify Singles](https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Spotify Singles](https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL) | 2:52 | 2023-05-31 |  |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2023-04-29 | 2025-05-02 |

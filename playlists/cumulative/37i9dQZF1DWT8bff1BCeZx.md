@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-491 songs - 1 day 8 hr 59 min
+492 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Controller](https://open.spotify.com/track/6I38Il7uZyXN35rm1aqRri) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak), [Nicole Mawugunzi](https://open.spotify.com/artist/01VymGxQXUJXRfmNnRRcOS) | [Controller](https://open.spotify.com/album/2f8L078klwods1pvFV7MTJ) | 3:12 | 2025-05-30 |  |
 | [Could've Been Worse \- Amapiano Remix](https://open.spotify.com/track/1XLSqQmbo1oAFpWHiJp0B9) | [Shae'\\dy](https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds) | [Could've Been Worse \(Amapiano Remix\)](https://open.spotify.com/album/1WXqpBqjGFsEOapieUSmd4) | 5:02 | 2023-07-07 | 2023-07-14 |
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 | 2024-07-27 |
+| [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 | 2025-06-06 |  |
 | [Cross](https://open.spotify.com/track/1u2BepDrxf9SXp9r9ZBSpk) | [Young Bezzel](https://open.spotify.com/artist/68vLjv4HTWK7D1NZVwbTke), [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI), [O.N.E.](https://open.spotify.com/artist/53EXxMxrCahuzrjzn8G7iR) | [Cross](https://open.spotify.com/album/4Qag1ETTQqPAMLVoUjmtWJ) | 4:29 | 2023-10-20 | 2023-11-14 |
 | [CSOG \(Certified Son Of God\)](https://open.spotify.com/track/2pFzTy71AG4kL2jizsLgjv) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [CSOG \(Certified Son Of God\)](https://open.spotify.com/album/5DHiGpJ3EWO9JNCWiim9ts) | 2:34 | 2025-01-31 | 2025-02-28 |
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-07-14 | 2025-02-28 |

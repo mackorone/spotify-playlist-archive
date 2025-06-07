@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mesa Hira
 
-1,755 songs - 4 day 5 hr 52 min
+1,757 songs - 4 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Hari Itu](https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Hari Itu](https://open.spotify.com/album/52zM9Kzo8pzcXG8LJdt3Mo) | 4:07 | 2024-08-16 | 2024-10-04 |
 | [Harus Bahagia](https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Harus Bahagia](https://open.spotify.com/album/733Hrl429wfieKxjF6Dclk) | 2:48 | 2025-06-05 |  |
 | [Harusnya Tau](https://open.spotify.com/track/6RCmEBkhetG7zZvSRR6dPY) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Harusnya Tau](https://open.spotify.com/album/76zvRdBp8IGzTmSyTzIG2N) | 3:44 | 2024-11-22 | 2024-12-28 |
+| [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-05 |  |
 | [Hati Yang Inginkanmu](https://open.spotify.com/track/2PIWomWNmOLaP8NPROOPfa) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Irwan Simanjuntak](https://open.spotify.com/artist/1oC20EFDaM34fIP4hGQuDN) | [Hati Yang Inginkanmu](https://open.spotify.com/album/7cUZGMx6WIhz2Z0Q8kMLir) | 3:44 | 2025-01-31 | 2025-02-28 |
 | [Haymaker](https://open.spotify.com/track/07qmzofBow9aB4raGOafDz) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Haymaker](https://open.spotify.com/album/53hM1rBhTGK8uY3jdFZGwp) | 2:50 | 2024-06-28 | 2024-07-19 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-09 | 2024-06-14 |
@@ -1653,6 +1654,7 @@
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-02-27 | 2025-03-22 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-05-16 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2024-12-21 |
+| [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-05 |  |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-28 | 2025-01-24 |
 | [Universe](https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [D's WAVE](https://open.spotify.com/album/0mCLRMszIUX4W1JAvOJcN1) | 3:47 | 2025-04-10 | 2025-05-09 |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-24 | 2025-05-02 |

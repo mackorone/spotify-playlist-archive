@@ -1,6 +1,6 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Zafar, Salman Paras",
-  "num_followers": 12909,
+  "num_followers": 12927,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "aEI9rQAAAAAq/NOyvJd+bGIOo0yGxzY/",
   "tracks": [
+    {
+      "added_at": "2025-06-06 01:00:29",
+      "album": {
+        "name": "Karay Karay",
+        "url": "https://open.spotify.com/album/5tJPMgyfibTiCgaqmXWLlP"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Salman Paras",
+          "url": "https://open.spotify.com/artist/6JC7bSuSttgAd92jKVQcbI"
+        }
+      ],
+      "duration_ms": 193603,
+      "name": "Karay Karay",
+      "url": "https://open.spotify.com/track/5fLmMh0GIsSjz858dmmt8x"
+    },
     {
       "added_at": "2025-06-06 01:00:29",
       "album": {

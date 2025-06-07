@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Bring Me The Horizon
 
-195 songs - 13 hr 43 min
+196 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bad Romance](https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate: The CoVeRs eP](https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D) | 4:08 | 2023-02-19 |  |
 | [Battery](https://open.spotify.com/track/346RqFnNMtjaMneUEqrJaI) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Battery](https://open.spotify.com/album/4vF6uJZfRuLoJ4vOyCxVkk) | 5:10 | 2022-05-25 | 2022-07-29 |
 | [Battery](https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:04 | 2022-05-25 | 2022-07-29 |
-| [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 | 2022-05-25 |  |
+| [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 | 2022-05-25 | 2025-06-07 |
 | [Blank Space](https://open.spotify.com/track/2ZiJidFdQ30nVJEP4u44l3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 4:00 | 2023-02-19 |  |
 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 | 2023-02-19 | 2024-04-19 |
 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 | 2023-02-20 | 2023-05-05 |
@@ -191,6 +191,7 @@
 | [Whiplash](https://open.spotify.com/track/43UUkrrS5Dw4ltbgrvudi8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/0pTJUNFD07wV1oFSD8Zflc) | 3:49 | 2022-05-25 | 2022-07-29 |
 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 | 2022-05-25 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 5:04 | 2022-06-13 | 2024-04-19 |
+| [White Flag](https://open.spotify.com/track/1qvCThJRq0KoecbQPLYdkq) | [Antivalent](https://open.spotify.com/artist/3WPUyZkCLYA4VOi7aBebHv) | [White Flag](https://open.spotify.com/album/5bHeT6bjzcGeaUvDZToZLu) | 3:43 | 2025-06-06 |  |
 | [Wicked Game](https://open.spotify.com/track/5XenUjG7cRnTkUe8AVuuMX) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 3:53 | 2024-04-01 |  |
 | [Wicked Game](https://open.spotify.com/track/0evX82L72YwaZIEKw5fEQT) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Lovesongs Vol\. 666](https://open.spotify.com/album/6meTP5bnTECxbCBv8hzD7c) | 3:54 | 2023-06-22 | 2023-11-05 |
 | [Wicked Game](https://open.spotify.com/track/3JBz53sjIaCRRcHY7OI82G) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Lovesongs Vol\. 666 \(Deluxe Versions; Remastered\)](https://open.spotify.com/album/0bopJOCBWUlA23xwJDwrkw) | 3:54 | 2023-08-23 | 2024-04-19 |

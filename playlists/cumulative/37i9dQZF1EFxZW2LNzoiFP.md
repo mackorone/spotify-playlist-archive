@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-266 songs - 15 hr 17 min
+267 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Happy New Year](https://open.spotify.com/track/0TkUwdRLk2cDqFNYZnFdl5) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:08 | 2024-05-01 |  |
 | [have a great day](https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:22 | 2024-05-01 |  |
 | [Hayley](https://open.spotify.com/track/1orYYQ1EhYMfCGVr6p5cGZ) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:40 | 2024-05-01 |  |
+| [Heart of Mine](https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau) | [Still Eye](https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL) | [Heart of Mine](https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg) | 3:06 | 2025-06-06 |  |
 | [Heaven](https://open.spotify.com/track/26EFvel8n1Ky0uba3Ll67H) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:38 | 2024-05-01 |  |
 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 | 2024-12-11 |  |
 | [Hex](https://open.spotify.com/track/4Bq0dDS1Yk1g3KwpbMDtvU) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 5:17 | 2024-05-01 |  |
