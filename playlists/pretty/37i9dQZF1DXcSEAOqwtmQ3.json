@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 53177,
+  "num_followers": 53215,
   "original_name": "Throwback Hits Naija ",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261642,
+      "name": "Holla At Your Boy",
+      "url": "https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
         "name": "Nwa Baby (Ashawo Remix)",
         "url": "https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 257880,
       "name": "Nwa Baby - Ashawo Remix",
       "url": "https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "U Know My P",
-        "url": "https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw"
-      },
-      "artists": [
-        {
-          "name": "Nateo C",
-          "url": "https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Ki Ni Big Deal",
-      "url": "https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -547,18 +547,114 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+        "name": "U Know My P",
+        "url": "https://open.spotify.com/album/2orBFb589p0ZVKmC2qZbTw"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Nateo C",
+          "url": "https://open.spotify.com/artist/2RteiR7Zcg2UOXjNGukqBU"
         }
       ],
-      "duration_ms": 261642,
-      "name": "Holla At Your Boy",
-      "url": "https://open.spotify.com/track/04spFw8MYyF8JtnziscOM7"
+      "duration_ms": 268973,
+      "name": "Ki Ni Big Deal",
+      "url": "https://open.spotify.com/track/4SRzTWAdadrGkSnDujpE1M"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Get Squared",
+        "url": "https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Bizzy Body",
+      "url": "https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Super C Season",
+        "url": "https://open.spotify.com/album/7w9ML6i2GudIqvF6OM3Tfg"
+      },
+      "artists": [
+        {
+          "name": "Naeto C",
+          "url": "https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Ten over Ten",
+      "url": "https://open.spotify.com/track/6Y8oFiPAZ7L0kYzeRV8GSE"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Lasso of Truth",
+        "url": "https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w"
+      },
+      "artists": [
+        {
+          "name": "Omawumi",
+          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
+        }
+      ],
+      "duration_ms": 223137,
+      "name": "If You Ask Me",
+      "url": "https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Roforofo Fight (Edit)",
+        "url": "https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 211256,
+      "name": "Roforofo Fight - Edit",
+      "url": "https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Imagine That",
+      "url": "https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Get Squared",
+        "url": "https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 284613,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -595,34 +691,18 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Get Squared",
-        "url": "https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL"
+        "name": "R & BW",
+        "url": "https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv"
       },
       "artists": [
         {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
         }
       ],
-      "duration_ms": 289080,
-      "name": "Bizzy Body",
-      "url": "https://open.spotify.com/track/78dTPqstG8GigLVkHe5OM4"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "Roforofo Fight (Edit)",
-        "url": "https://open.spotify.com/album/294gpzP3HeeoHAssMTLlyd"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 211256,
-      "name": "Roforofo Fight - Edit",
-      "url": "https://open.spotify.com/track/4JkMvo5aRm2oJLmVklQ6hn"
+      "duration_ms": 247432,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -643,70 +723,6 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Super C Season",
-        "url": "https://open.spotify.com/album/7w9ML6i2GudIqvF6OM3Tfg"
-      },
-      "artists": [
-        {
-          "name": "Naeto C",
-          "url": "https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Ten over Ten",
-      "url": "https://open.spotify.com/track/6Y8oFiPAZ7L0kYzeRV8GSE"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "R & BW",
-        "url": "https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv"
-      },
-      "artists": [
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 247432,
-      "name": "Yes/No",
-      "url": "https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "Get Squared",
-        "url": "https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 284613,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "Lasso of Truth",
-        "url": "https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w"
-      },
-      "artists": [
-        {
-          "name": "Omawumi",
-          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
-        }
-      ],
-      "duration_ms": 223137,
-      "name": "If You Ask Me",
-      "url": "https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
         "name": "Five Days A Week Lover",
         "url": "https://open.spotify.com/album/1rdN7vx7snfJbRIIrGdf37"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 535170,
       "name": "Arabade",
       "url": "https://open.spotify.com/track/3eOJ0hvl3c19W3NdQSZtHt"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 299826,
-      "name": "Imagine That",
-      "url": "https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J"
     },
     {
       "added_at": "2024-09-27 11:02:02",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-09-27 11:02:02",
       "album": {
-        "name": "Sir Victor Uwaifo: Guitar Boy Superstar 1970-76 (Soundway Records)",
-        "url": "https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7"
-      },
-      "artists": [
-        {
-          "name": "Sir Victor Uwaifo",
-          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Dododo - Ekassa 1",
-      "url": "https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C"
-    },
-    {
-      "added_at": "2024-09-27 11:02:02",
-      "album": {
         "name": "C.E.O",
         "url": "https://open.spotify.com/album/7elpucLOwMMx4Nr4Kto9O3"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 235546,
       "name": "Pon Pon Pon",
       "url": "https://open.spotify.com/track/7r5MI82lGS5JcWNedhIBwi"
+    },
+    {
+      "added_at": "2024-09-27 11:02:02",
+      "album": {
+        "name": "Sir Victor Uwaifo: Guitar Boy Superstar 1970-76 (Soundway Records)",
+        "url": "https://open.spotify.com/album/5FCUyTp1uErvfLcj1b1Tj7"
+      },
+      "artists": [
+        {
+          "name": "Sir Victor Uwaifo",
+          "url": "https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Dododo - Ekassa 1",
+      "url": "https://open.spotify.com/track/6bCmlUUb3u8MOSlu9myY1C"
     },
     {
       "added_at": "2024-09-27 11:02:02",

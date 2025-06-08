@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "No Pares De Bailar Con...",
+        "url": "https://open.spotify.com/album/32GtSnkO0D1YziU8TMHU7K"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/0DaHUcy1iLD5aoOjYduqNk"
+    },
+    {
+      "album": {
         "name": "Soy de Carne y Hueso",
         "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 203103,
       "name": "La Guitarra de Lolo",
       "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"

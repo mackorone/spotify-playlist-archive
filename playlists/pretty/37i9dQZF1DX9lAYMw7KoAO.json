@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Christian and Gospel music from across the African continent.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg-lqItJ76m0lw>Lawrence Oyor</a>  and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=HAnDya9QRIGtTDBfG7ORiw>Gaise Baba</a> ",
-  "num_followers": 238302,
+  "num_followers": 238574,
   "original_name": "African Gospel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIv2QAAAAB2Me2fFFVJ2dcT442AzPI5",
+  "snapshot_id": "aEQLqwAAAADCEu4cVkg3ohTWNKN3hAlP",
   "tracks": [
     {
       "added_at": "2025-05-16 00:01:33",
@@ -51,6 +51,26 @@
       "duration_ms": 194571,
       "name": "We will be many",
       "url": "https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN"
+    },
+    {
+      "added_at": "2025-06-07 09:50:12",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Praise Umali",
+          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
     },
     {
       "added_at": "2025-05-09 00:01:36",
@@ -141,24 +161,24 @@
       "url": "https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh"
     },
     {
-      "added_at": "2025-06-06 00:01:29",
+      "added_at": "2025-06-07 09:48:19",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
         },
         {
-          "name": "Praise Umali",
-          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
+      "duration_ms": 198929,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -963,30 +983,6 @@
       "duration_ms": 347903,
       "name": "Uyena - Live",
       "url": "https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm"
-    },
-    {
-      "added_at": "2025-04-29 13:16:03",
-      "album": {
-        "name": "Yahweh (Godiya Gareka)",
-        "url": "https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 574838,
-      "name": "Yahweh (Godiya Gareka)",
-      "url": "https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C"
     }
   ],
   "unique_name": "African Gospel Hits",

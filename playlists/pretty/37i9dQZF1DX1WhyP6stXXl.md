@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,037 likes - 89 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,258 likes - 89 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 39 | [Pick Up](https://open.spotify.com/track/3G1MtAFexVXuE0CTofF0mt) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Pick Up](https://open.spotify.com/album/2vZ6xpMvNGGZFyH4beDkkj) | 3:11 |
 | 40 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 |
 | 41 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
-| 42 | [The World's Greatest Overthinker](https://open.spotify.com/track/3JGWh1Udf8vf0KlGCKh0bo) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn), [Jordan Haller](https://open.spotify.com/artist/4pQMz0SruViBNcmoS3xoNz) | [The World's Greatest Overthinker](https://open.spotify.com/album/5RynNHIBMJriY2X3KI7QtQ) | 3:03 |
+| 42 | [The World's Greatest Overthinker](https://open.spotify.com/track/3JGWh1Udf8vf0KlGCKh0bo) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [The World's Greatest Overthinker](https://open.spotify.com/album/5RynNHIBMJriY2X3KI7QtQ) | 3:03 |
 | 43 | [Underdog](https://open.spotify.com/track/0Jj8nnHsctlKn3AzUsuuVw) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Underdog](https://open.spotify.com/album/1UBONtpt8gca1aWeOgzOma) | 2:48 |
 | 44 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 45 | [OH OK](https://open.spotify.com/track/4EzO3zS74C4M1riJX2UFoy) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [OH OK](https://open.spotify.com/album/45izLLJLKrNwYUS5xRFnwg) | 2:50 |

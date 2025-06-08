@@ -1153,6 +1153,28 @@
     },
     {
       "album": {
+        "name": "As If A Phantom",
+        "url": "https://open.spotify.com/album/7MlHtNNmVzegLkGK7geVJh"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "As If A Phantom",
+      "url": "https://open.spotify.com/track/2Q9b2xSGbf3KxptWbrDSLk"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx"
       },
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 384333,
       "name": "Black Thread, \u1824\u182f\u1820\u182d\u1820\u1828\u182a\u1820\u182d\u1820\u1832\u1824\u1837",
       "url": "https://open.spotify.com/track/3R6CEKuU33PLQz8Sodmv5q"
@@ -3700,6 +3722,28 @@
       "duration_ms": 220740,
       "name": "Fires",
       "url": "https://open.spotify.com/track/70gYrcaIKVDtKkwiDEzMwW"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/4QJJWfZ6RR9HDb7jfXkbAM"
+      },
+      "artists": [
+        {
+          "name": "Purelink",
+          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
+        },
+        {
+          "name": "Angelina Nonaj",
+          "url": "https://open.spotify.com/artist/38YScFLmuyYC1FaMq7JLZ0"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342315,
+      "name": "First Iota",
+      "url": "https://open.spotify.com/track/3AtQVSQIZ6xd1x5q3PRA46"
     },
     {
       "album": {
@@ -6116,7 +6160,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 249413,
       "name": "Open",
       "url": "https://open.spotify.com/track/4JJgSm2ffsfHmXy6E7QWEG"

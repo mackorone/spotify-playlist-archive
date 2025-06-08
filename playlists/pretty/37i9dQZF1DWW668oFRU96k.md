@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,911 likes - 82 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,931 likes - 82 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 81 | [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 |
 | 82 | [Not Alone](https://open.spotify.com/track/6tWyf6iudtMeDk1JsAYvkM) | [The Eastern Man](https://open.spotify.com/artist/4uueHCw3zLXvFHxEWM0fp7), [Trend Company](https://open.spotify.com/artist/0ncF88R4onYqte4xBbJKEq) | [Not Alone](https://open.spotify.com/album/2RrJPc7n2k1evl8L80KdG3) | 3:08 |
 
-Snapshot ID: `aEG/BwAAAAC5j3hBNRIzfN2obojxgWDe`
+Snapshot ID: `aEG/BwAAAAAbTA2+qUGKJ5jsCVvWP8fX`

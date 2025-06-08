@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jun 03:03 UTC.",
-  "num_followers": 94,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jun 13:03 UTC.",
+  "num_followers": 93,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASZZD4+J/DZv5ckvUw06X2GJ5neYi0",
+  "snapshot_id": "AAASaRjfQQIPQdXo7Z+9IAJcA0v+rXLS",
   "tracks": [
     {
       "added_at": "2025-06-06 08:03:04",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
     },
     {
+      "added_at": "2025-06-07 13:03:15",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW"
+    },
+    {
       "added_at": "2025-06-06 08:03:04",
       "album": {
         "name": "many lives",
@@ -319,6 +335,38 @@
       "duration_ms": 181055,
       "name": "many lives",
       "url": "https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk"
+    },
+    {
+      "added_at": "2025-06-07 08:03:22",
+      "album": {
+        "name": "TORTURE GARDEN / MEAT CLOTHING",
+        "url": "https://open.spotify.com/album/5Ve1dzHX8MCtIMlptzl2sL"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 33785,
+      "name": "TORTURE GARDEN / MEAT CLOTHING",
+      "url": "https://open.spotify.com/track/2hJnGzu3OfgCYZxBwlYRK8"
+    },
+    {
+      "added_at": "2025-06-07 08:03:22",
+      "album": {
+        "name": "GAMEBOY",
+        "url": "https://open.spotify.com/album/5z3DTCBy7NvvKrhyDBqrs0"
+      },
+      "artists": [
+        {
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "GAMEBOY",
+      "url": "https://open.spotify.com/track/482o1UADMoxAo0FKzJ5m46"
     },
     {
       "added_at": "2025-06-06 03:03:14",
@@ -771,54 +819,6 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-05-30 13:03:43",
-      "album": {
-        "name": "WITHERED (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/7lx93Gn6xP8a7JqokD92R3"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 182862,
-      "name": "Where Did You Go? - Bonus Track",
-      "url": "https://open.spotify.com/track/0u46KWb38WuOWE0hg2ySov"
-    },
-    {
-      "added_at": "2025-05-30 08:03:50",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
-    },
-    {
-      "added_at": "2025-05-30 08:03:50",
-      "album": {
-        "name": "Diamond Stitching",
-        "url": "https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 149711,
-      "name": "Diamond Stitching",
-      "url": "https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i"
     }
   ],
   "unique_name": "New Singles Now",

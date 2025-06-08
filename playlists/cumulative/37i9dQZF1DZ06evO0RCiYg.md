@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 32 min
+83 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [MUEVELO](https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [MUEVELO](https://open.spotify.com/album/1JviwowNAeoLx0kQJ2A2h4) | 4:14 | 2023-07-28 |  |
 | [My Humps](https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 5:26 | 2023-07-28 |  |
 | [My Humps \- Single Version](https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps](https://open.spotify.com/album/5gYvt08iJYSGmRnBRpXvUZ) | 4:10 | 2023-07-28 |  |
-| [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 | 2023-07-28 |  |
+| [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 | 2023-07-28 | 2025-06-08 |
 | [Party All The Time](https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:43 | 2024-05-25 |  |
 | [Pump It](https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:33 | 2023-07-28 |  |
 | [Pump It \- Travis Barker Remix Version](https://open.spotify.com/track/4ozSTxfmp1qTZ8DzaZtY97) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pump It](https://open.spotify.com/album/1NkUiJ3j8F1BogXijapysS) | 3:36 | 2023-07-28 |  |
@@ -70,6 +70,7 @@
 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 | 2025-05-24 |  |
 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2023-07-28 | 2025-05-24 |
 | [Shake Ya Boom Boom](https://open.spotify.com/track/1gVZRO8RdxbaUuxKNRcFsd) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Shake Ya Boom Boom](https://open.spotify.com/album/7GHotUAxNYMjGew9Wnz5N4) | 3:21 | 2023-07-28 |  |
+| [Shake Your Monkey \- will.i.am Remix](https://open.spotify.com/track/1crgGlkd2PvFMImF1xBIsi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Monkey Business \(20th Anniversary Edition\)](https://open.spotify.com/album/2jCgqL6qRRF8yuQhc21qVQ) | 3:43 | 2025-06-08 |  |
 | [Shut Up](https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:56 | 2023-07-28 |  |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2023-07-28 |  |
 | [Smells Like Funk](https://open.spotify.com/track/69Urq0NuoEZ6RwoaNVn1Pg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 5:04 | 2024-05-19 | 2024-07-23 |

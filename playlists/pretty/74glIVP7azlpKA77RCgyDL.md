@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Daron Malakian and Scars on Broadway.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,933 likes - 137 songs - 8 hr 8 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,934 likes - 137 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

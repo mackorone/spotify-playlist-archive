@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-200 songs - 17 hr 58 min
+201 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 | 2023-04-19 |
 | [Gham Chhedta Hai](https://open.spotify.com/track/5BG5xBHUxHSPv1sFzHB3tF) | [Mousumi Roy](https://open.spotify.com/artist/0vlmWDuZJ7LXD3QfJyJik8) | [Gham Chhedta Hai](https://open.spotify.com/album/7qApiKJqDmDt2I5KpNXtOR) | 6:15 | 2024-04-18 | 2024-08-30 |
 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 | 2024-08-05 |  |
+| [Ghazal Ho Gayi](https://open.spotify.com/track/4ArK0hdp9WvgCzy2lYrAet) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Haider Amaan Haider](https://open.spotify.com/artist/2gtLKmLMW4N7cZXk6FM70e) | [Ghazal Ho Gayi](https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i) | 3:33 | 2025-06-06 |  |
 | [Gulon Mein Rang Bharey](https://open.spotify.com/track/5SRZ2MMFN7WD626usnTOma) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 6:13 | 2024-12-31 |  |
 | [Gulzar Speaks \- Khwab](https://open.spotify.com/track/33IlpTp09vVa3VSTm4A5ol) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 1:03 | 2023-09-14 |  |
 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 | 2023-09-14 |  |
@@ -138,7 +139,7 @@
 | [Na Dil Se Aah](https://open.spotify.com/track/4jbAO1579OcItVVPSGLaxM) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Na Dil Se Aah](https://open.spotify.com/album/2ms0l4kgnRIgXfKpV5QPCN) | 5:15 | 2025-03-25 |  |
 | [Na Kajare Ki Dhar \(Duet Version\) \- With Heart Beats](https://open.spotify.com/track/5Lfsdm1eKTsUxEdqwmbBLb) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Top 20 Hits \(With Heart Beats\)](https://open.spotify.com/album/5kRbMqkJmFYaOmU3Oi9nsL) | 5:08 | 2021-12-01 | 2023-07-01 |
 | [Na Kajare Ki Dhar \(From "Mohra"\)](https://open.spotify.com/track/2D8Cpa8hDGMHygcdrsXfS8) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:24 | 2021-12-01 | 2023-04-06 |
-| [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 | 2024-06-11 |  |
+| [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 | 2024-06-11 | 2025-06-08 |
 | [Naam](https://open.spotify.com/track/1aL1wNSXuYg8iVphuMQDaW) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 5:34 | 2024-02-26 |  |
 | [Nazar Mujhse](https://open.spotify.com/track/2qAHkVmvyhcxgJqKXxnLIz) | [Ahmed Hussain](https://open.spotify.com/artist/2bQv65MFDaU3dRb26fgNr1), [Mohammed Hussain](https://open.spotify.com/artist/2PTznhNEX9D1uSb8ESYrB0) | [The Great Ghazals](https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN) | 7:30 | 2024-02-07 |  |
 | [Nazar Se Nazar](https://open.spotify.com/track/0zCZBOzMGke8HUwQlzKkyS) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Nazar Se Nazar](https://open.spotify.com/album/10TXiDptyrk7s3j3cYfaZU) | 4:55 | 2023-02-22 | 2025-01-01 |

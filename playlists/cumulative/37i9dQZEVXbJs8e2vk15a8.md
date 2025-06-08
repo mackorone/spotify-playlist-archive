@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,069 songs - 6 day 20 hr 40 min
+3,070 songs - 6 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2543,7 +2543,7 @@
 | [Street Poem](https://open.spotify.com/track/5nKGyHcCSlPLwJU79CjdHg) | [Lukessj](https://open.spotify.com/artist/5hhUOAwrpOg88sbcSiiXWv), [Los Reyes Con Los Dioses](https://open.spotify.com/artist/1ULL7q8TOBd2keJp566fHo) | [Street Poem](https://open.spotify.com/album/68TnWymCNurirBvIt1e6ZJ) | 3:22 | 2024-06-30 | 2024-07-13 |
 | [Strip That Down \(feat\. Quavo\)](https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:22 | 2024-10-20 | 2024-10-30 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2024-02-27 | 2024-03-03 |
-| [Style](https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 | 2025-06-06 |  |
+| [Style](https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 | 2025-06-06 | 2025-06-08 |
 | [Stylo](https://open.spotify.com/track/2ti8XhHhc2ficcG2YJMywd) | [byeduardito](https://open.spotify.com/artist/2Opt7rOoRZUD0rujGcGqGL) | [Stylo](https://open.spotify.com/album/4uL329hZhijWNnHJgF8ZbM) | 2:37 | 2024-03-06 | 2024-03-13 |
 | [Su Altura](https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Su Altura](https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs) | 3:01 | 2023-05-02 | 2023-05-10 |
 | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:44 | 2024-12-07 | 2024-12-16 |
@@ -2608,6 +2608,7 @@
 | [Te Amo y Punto](https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Te Amo y Punto](https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK) | 2:45 | 2022-07-23 | 2022-07-27 |
 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 | 2024-05-21 | 2024-06-13 |
 | [Te Besaré](https://open.spotify.com/track/4DbTUmY8x8IBeM9mNABEZQ) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 4:03 | 2023-08-02 | 2023-08-07 |
+| [Te Colaboro \- Remix](https://open.spotify.com/track/0OqrGVB6yyf3Sr7mow7X59) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Te Colaboro \(Remix\)](https://open.spotify.com/album/2Jazbm8VqHsSXpmSipgCON) | 5:21 | 2025-06-07 |  |
 | [Te Comía](https://open.spotify.com/track/6PscyC1oeC9LRxWcw6YqDZ) | [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [Te Comía](https://open.spotify.com/album/1Bc3UR7RDNjIhEY2wKgLSN) | 2:55 | 2023-03-15 | 2023-04-12 |
 | [TE DIRÍA](https://open.spotify.com/track/4sVPdkrHuucA6wDCORJom8) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [FINALMENTE FELIZ](https://open.spotify.com/album/2op0KVtO5LVS6n01nqAqrV) | 2:55 | 2025-04-02 | 2025-04-09 |
 | [TE EXO DE MENOS :\(](https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TE EXO DE MENOS :\(](https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p) | 2:31 | 2023-03-28 | 2023-06-26 |

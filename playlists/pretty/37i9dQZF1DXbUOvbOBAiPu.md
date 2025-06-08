@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Sabrina Carpenter, Red Sebastian, Berre, DYSTINCT and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,000 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,007 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 9 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 |
 | 10 | [too quiet](https://open.spotify.com/track/4gQyPILfGC0BTW1KEsSymG) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [heart\-shaped scars \(deluxe\)](https://open.spotify.com/album/5ByMvcusOHxx2pIjUNCTNP) | 3:31 |
 | 11 | [Bouquet final](https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Bouquet final](https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA) | 3:13 |
-| 12 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:39 |
+| 12 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:38 |
 | 13 | [Mama Maria](https://open.spotify.com/track/114hEVloiFTiAffAsbSwox) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Mama Maria](https://open.spotify.com/album/363XxSoRU849dr3HGjbkR1) | 2:38 |
 | 14 | [OMG! \(From F1® The Movie\)](https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [OMG! \(From F1® The Movie\)](https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP) | 2:32 |
 | 15 | [Oh My Lord](https://open.spotify.com/track/0KdIvpscCOvSG7FmmR4Clg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Oh My Lord](https://open.spotify.com/album/5n1f5e0bY7vt51HW63NOAg) | 2:22 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 17 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
 | 18 | [Parle pas](https://open.spotify.com/track/6Gz9pgo26ic9oS75mOW5bQ) | [Léon](https://open.spotify.com/artist/6QumLHOetejgfV3hRyA1gF) | [Aïe](https://open.spotify.com/album/0luHLFnZOsunibzCLqsr6J) | 2:27 |
 | 19 | [LA JANAZA D'UN FRÈRE](https://open.spotify.com/track/0YgQ1MTVUXVmYzot73I7OX) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [KINTSUGI](https://open.spotify.com/album/48Ug7WapqR8ZQVnGqcjY1m) | 3:01 |
-| 20 | [Fais pas ça](https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Fais pas ça](https://open.spotify.com/album/6KWu4GcK7eotZp9RAgf3GT) | 2:27 |
+| 20 | [Fais pas ça \- Bonus Track](https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Fais pas ça \(Bonus Track\)](https://open.spotify.com/album/6KWu4GcK7eotZp9RAgf3GT) | 2:27 |
 | 21 | [GOÛT AMER](https://open.spotify.com/track/2lMiL956IyDpca2yOA6OZg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [EP AVANT L'ALBUM](https://open.spotify.com/album/636iNFbxVfwRoOssgp3r1z) | 2:14 |
 | 22 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 23 | [Hello](https://open.spotify.com/track/5VsVAPl0STzjrujHPa8jsF) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Hello](https://open.spotify.com/album/0J3A6JS6Nkbgnw0F6MHRTz) | 3:35 |

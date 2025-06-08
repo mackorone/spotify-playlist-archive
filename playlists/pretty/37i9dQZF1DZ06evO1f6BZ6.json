@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 121038,
+  "num_followers": 121052,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAAi1QvEOiWkr88fS9F/NO/s",
+  "snapshot_id": "aEIvgAAAAABTdnSsQkrFkwT5T9QG2gJH",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 173693,
-      "name": "Trailerhood",
-      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
+      "duration_ms": 233106,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 233106,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+      "duration_ms": 173693,
+      "name": "Trailerhood",
+      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 285506,
-      "name": "Cryin' for Me (Wayman's Song)",
-      "url": "https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 224800,
       "name": "If I Was Jesus",
       "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 285506,
+      "name": "Cryin' for Me (Wayman's Song)",
+      "url": "https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X"
     },
     {
       "added_at": null,

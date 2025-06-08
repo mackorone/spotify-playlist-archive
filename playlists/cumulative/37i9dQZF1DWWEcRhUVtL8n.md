@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Indigo De Souza
 
-2,128 songs - 4 day 16 hr 39 min
+2,130 songs - 4 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,7 +1259,7 @@
 | [Mirror](https://open.spotify.com/track/3ojRuwQJsUQz7o9AYbtfUr) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Mirror](https://open.spotify.com/album/0aqHu5PjLZH3jsbY3hkCF8) | 4:05 | 2022-04-08 | 2022-04-17 |
 | [miss andry](https://open.spotify.com/track/4IxRx6byFf1RuXcbNny5qj) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [miss andry](https://open.spotify.com/album/4BeN8xu9ZEPUIPEFVFHuN6) | 4:23 | 2020-10-13\* | 2020-11-10 |
 | [miss me if u want to](https://open.spotify.com/track/5rwDHRNX2ntvlJbcb8xONo) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [miss me if u want to](https://open.spotify.com/album/5JZ2VGDwBYO2sZwZJOk3A0) | 2:37 | 2020-10-13\* | 2020-11-20 |
-| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 |  |
+| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 | 2025-06-08 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-05-07 | 2022-04-09 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-25 | 2022-07-02 |
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-04-21 |
@@ -1545,6 +1545,7 @@
 | [Raw Thoughts](https://open.spotify.com/track/2TDUqZ4rbzppSpt3INJSyi) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Raw Thoughts](https://open.spotify.com/album/0W0H3LEezHb0hsG5mCswzg) | 3:25 | 2021-01-15 | 2021-05-29 |
 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 | 2024-05-03 | 2024-06-29 |
 | [Read My Mind](https://open.spotify.com/track/6k1RWwxJpRgm2lbyxRTmtF) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Read My Mind](https://open.spotify.com/album/33AZnu3azsTdALxhjX2gh2) | 2:58 | 2021-02-24 | 2021-05-27 |
+| [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 | 2025-06-06 |  |
 | [Reality Check Please](https://open.spotify.com/track/6EoXGCeTcvw8vZT9alKAbK) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Reality Check Please](https://open.spotify.com/album/72lxdwJAq3wPbEAosGsfOC) | 3:40 | 2020-11-03 | 2021-05-25 |
 | [Realms](https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Realms](https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu) | 2:50 | 2024-08-09 | 2024-10-05 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-10-05 | 2022-07-11 |
@@ -1658,7 +1659,7 @@
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2022-12-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-09-19 |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-10-11 | 2021-10-14 |
-| [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 |  |
+| [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 | 2025-06-08 |
 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 | 2024-04-19 | 2024-06-08 |
 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2023-07-21 | 2023-09-30 |
 | [sickk](https://open.spotify.com/track/5Zay7XJG5kKZjobCGshwMo) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [sickk](https://open.spotify.com/album/76Rm4JtfarLiNj0BG06Ch3) | 4:05 | 2022-04-01 | 2022-06-10 |
@@ -1940,6 +1941,7 @@
 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 | 2022-08-17 |
 | [Time On](https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Time On](https://open.spotify.com/album/1bIHKulVPftrMQwWKBOte7) | 3:48 | 2022-04-29 | 2022-07-28 |
 | [Time's Up](https://open.spotify.com/track/2d33eD2TZ0JpJSg0D20FS2) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Time's Up](https://open.spotify.com/album/3YruoMPMJ5NAfaEbuTe6QU) | 2:59 | 2025-01-24 | 2025-03-02 |
+| [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 |  |
 | [Timing Is Everything](https://open.spotify.com/track/6rXWcCq3oIWNTt8qHlSYxu) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [Timing Is Everything](https://open.spotify.com/album/6AlECHYk81qX5TIhk2n7Ng) | 3:29 | 2020-10-20 | 2020-10-21 |
 | [Timothée Chalamet](https://open.spotify.com/track/28U31GBUFEbGXQWsqe01XT) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Timothée Chalamet](https://open.spotify.com/album/6wSDBoHDurpwgYfMuJ8riJ) | 3:52 | 2021-02-25 | 2021-03-22 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-23 | 2023-09-30 |

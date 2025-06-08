@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 503948,
+  "num_followers": 504021,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAADrsvJkKr80v1pO6MGAgEP5",
+  "snapshot_id": "aEIvgAAAAAAyrS9u00qO4HgdtfpXvWHD",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Detr\u00e1s de Mi Ventana - Banda",
-      "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chacalosa",
         "url": "https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 216880,
       "name": "La Chacalosa",
       "url": "https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Detr\u00e1s de Mi Ventana - Banda",
+      "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
     },
     {
       "added_at": null,

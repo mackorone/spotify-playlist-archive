@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: Lihim at Salita Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,275 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,279 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-253 songs - 15 hr 21 min
+254 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Paraíba Não É Chicago](https://open.spotify.com/track/1YL6kqPu1Pde4zb5u93x9t) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4) | [A Paraíba Não É Chicago](https://open.spotify.com/album/1g4IpOiQIki2xR1198ntds) | 2:53 | 2022-02-04 | 2022-07-15 |
 | [A parte que falta](https://open.spotify.com/track/0NUu7f2wLfBrdNgiLmyVBz) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz) | [A parte que falta](https://open.spotify.com/album/5LSpRZX5Bm6rQ9ye5ACNra) | 4:46 | 2022-02-04 | 2022-07-23 |
 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 | 2022-03-22 |  |
-| [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 | 2022-02-04 |  |
+| [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 | 2022-02-04 | 2025-06-08 |
 | [Ainda É Tempo pra Ser Feliz](https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 4:16 | 2025-04-04 |  |
 | [Alfazema](https://open.spotify.com/track/7hzIyUaBEYn75POSXlwjuR) | [Rafael Mike](https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Alfazema](https://open.spotify.com/album/37HpuPIwVs7PJ1q6sVPA6R) | 3:21 | 2022-02-04 | 2022-07-28 |
 | [Alma Bonita](https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU) | [Alma Bonita](https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9) | 3:07 | 2022-02-04 | 2022-07-18 |
@@ -73,6 +73,7 @@
 | [CHUVA](https://open.spotify.com/track/5AmJktSakS5ylLbH1eSch0) | [Vitor Santana](https://open.spotify.com/artist/55SGl5TD6wQPQC1vfDiT4h), [Mariana Nunes](https://open.spotify.com/artist/1QncCJuv8b2wtCvB2w6XPm) | [CHUVA](https://open.spotify.com/album/1hOM5AcF4BzqtAVb305nSu) | 3:36 | 2022-03-14 | 2022-07-29 |
 | [Cine Odeon](https://open.spotify.com/track/3dhkyXQt5Uqd46ELRN2YsU) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Cine Odeon](https://open.spotify.com/album/4VlLZDtiIZoXoosJUMCGc8) | 2:30 | 2022-02-04 | 2022-07-28 |
 | [Clima](https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Clima](https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G) | 3:36 | 2023-01-13 | 2023-06-10 |
+| [Coisas do Amor \(Me Chama\)](https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [SAGRADO, Vol 2](https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S) | 3:42 | 2025-06-06 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5ioP40av2BguaCaZnw0D1P) | [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Coisas Que Eu Sei](https://open.spotify.com/album/0IbfNcarhEDFOLz9cTjzft) | 2:27 | 2022-03-14 | 2022-07-04 |
 | [Cores](https://open.spotify.com/track/2HVxpg6Xhfnzzc8vdTQjOu) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Outono](https://open.spotify.com/album/6HxkXsDXFdFcHQ6QKmH8qo) | 3:09 | 2022-02-04 | 2022-07-29 |
 | [Cores](https://open.spotify.com/track/3zSoilgYEL3ORqtuLKUFkq) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Outono](https://open.spotify.com/album/0PkdWfglmXqNY79Xr7oUwQ) | 3:18 | 2022-07-22 | 2022-08-17 |

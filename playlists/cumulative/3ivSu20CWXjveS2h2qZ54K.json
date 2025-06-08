@@ -27165,6 +27165,24 @@
     },
     {
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201462,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl"
+    },
+    {
+      "album": {
         "name": "Fruit Wine",
         "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
       },
@@ -51439,7 +51457,7 @@
     },
     {
       "album": {
-        "name": "Nostalgia",
+        "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/6LL5XadEjLm70ZLwmTd3so"
       },
       "artists": [
@@ -51452,7 +51470,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 295585,
-      "name": "Nostalgia",
+      "name": "NOSTALGIA",
       "url": "https://open.spotify.com/track/3VoAuXntmW1YglwJP2bkEy"
     },
     {

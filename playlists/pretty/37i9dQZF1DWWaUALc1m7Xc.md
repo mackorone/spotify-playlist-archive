@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaUALc1m7Xc.md) - [plain]
 
 > Enjoy the OSTs of Disney+'s original drama "Kiss Sixth Sense" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "키스 식스 센스"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,142 likes - 52 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,145 likes - 52 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaUALc1m7Xc.md) - [plain]
 | 51 | [The Break Up](https://open.spotify.com/track/2JVCySZm031TkzkieEI3PP) | [DEVIN](https://open.spotify.com/artist/0wmplx8PeNouLkbzD2Lc89) | [Kiss Sixth Sense Special \(Original Soundtrack from the Disney+ Original\)](https://open.spotify.com/album/6mXsNAbItdBmcuJyFCtoSe) | 3:35 |
 | 52 | [It's Me, Ghost 2](https://open.spotify.com/track/2veTpnPHX5Im4DEFDUImLO) | [Gaemi](https://open.spotify.com/artist/40yhtwh7I0fHUlcL80rAdp), [박정환](https://open.spotify.com/artist/2OsgcnK3EOP6ASm4RDRqVD), [Shoon](https://open.spotify.com/artist/2WMpfJeOqkbokwd4wyKjSG) | [Kiss Sixth Sense Special \(Original Soundtrack from the Disney+ Original\)](https://open.spotify.com/album/6mXsNAbItdBmcuJyFCtoSe) | 2:56 |
 
-Snapshot ID: `ZIsSwwAAAABo8f7FxQ4Hhfnz6RPoN7BY`
+Snapshot ID: `ZIsSwwAAAADqkZZ97c6/ddzImUVtkYeo`

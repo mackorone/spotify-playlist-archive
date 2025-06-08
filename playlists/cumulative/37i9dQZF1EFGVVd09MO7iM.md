@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-932 songs - 2 day 11 hr 22 min
+933 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2024-02-23 |  |
 | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/track/3eydp9rHJAskzOevEBK267) | [Los Unidades](https://open.spotify.com/artist/6VoRokuki5Bj7BEB2gZ3BF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/album/3rq0C0keP4oYI33YBXB9uk) | 3:34 | 2024-01-29 |  |
 | [Easy Come, Easy Go](https://open.spotify.com/track/26b5F63To5bSp2ttQsiTwk) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Wanderland](https://open.spotify.com/album/0oVfSWG46NWpFt1mpm1TWF) | 3:33 | 2024-06-20 | 2024-06-22 |
-| [Edibles \(feat\. T.I.\)](https://open.spotify.com/track/26ZpMFioXWuHehA1bhU6Zc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 3:21 | 2024-06-20 |  |
+| [Edibles \(feat\. T.I.\)](https://open.spotify.com/track/26ZpMFioXWuHehA1bhU6Zc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 3:21 | 2024-06-20 | 2025-06-08 |
 | [Ego](https://open.spotify.com/track/3mDB1D92HySxK5NrI7vGqf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Ego \(Video Edit\)](https://open.spotify.com/album/5f7K9SRd9EhfBjt7zCqavV) | 3:50 | 2024-01-29 | 2024-02-02 |
 | [Ego](https://open.spotify.com/track/5iaVupGhrGVtwBvmGxxYih) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 3:55 | 2024-01-30 |  |
 | [Ego](https://open.spotify.com/track/6DL5BiRTkVqd7K0BoWtN9c) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 2:48 | 2024-06-20 |  |
@@ -259,6 +259,7 @@
 | [Foot Fungus](https://open.spotify.com/track/3EikYy40GMSp8l5mDV6IQo) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:09 | 2024-01-29 |  |
 | [For Real](https://open.spotify.com/track/3herFeTdj7Zu4RRCgGdIIL) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 3:15 | 2024-10-13 |  |
 | [For The Nasty](https://open.spotify.com/track/0IyltV3K5htAqLH3gtqTru) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The Abstract Dragon](https://open.spotify.com/album/7LDgfc2YwYLF6DhmvvWent) | 3:13 | 2024-06-20 |  |
+| [Forever \(feat\. T\-Pain\)](https://open.spotify.com/track/6uL7XqegqsvKYRPUeRCPAR) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [No Restrictions](https://open.spotify.com/album/6C4WdWT2tIHf1IAATt9cnL) | 2:50 | 2025-06-07 |  |
 | [Freak](https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freak](https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r) | 4:44 | 2024-01-29 |  |
 | [Freak Though](https://open.spotify.com/track/15NKhX4nFexzyivhRJRXcs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 3:43 | 2024-09-12 |  |
 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 | 2024-01-29 |  |

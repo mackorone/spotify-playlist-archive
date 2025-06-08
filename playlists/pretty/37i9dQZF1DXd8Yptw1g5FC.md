@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Yaşlı Amca ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,461 likes - 89 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,476 likes - 89 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 88 | [The Great Divide](https://open.spotify.com/track/68trNHD7Ai7kctjBdtJbOr) | [Cava Grande](https://open.spotify.com/artist/3oz9j5Fx4nYt1iaAuG6Z9J) | [The Great Divide](https://open.spotify.com/album/5Lg0rasHBpNzQZkkxZz0h8) | 4:02 |
 | 89 | [Kelebek](https://open.spotify.com/track/4bJ6jFuiZR4wecUIS3hfXK) | [Ayris](https://open.spotify.com/artist/79OaYBcw0fW7vCdqrYXC1k) | [Kelebek](https://open.spotify.com/album/7EYbFi508uVIKqGf913pRp) | 5:00 |
 
-Snapshot ID: `aEKRFAAAAAC7VGs05jPcj4k2m4ZO+pRo`
+Snapshot ID: `AAAAACpWcWa9UTtAkc86eoaLn7+2YMWe`

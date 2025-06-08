@@ -590,6 +590,6 @@
 | [Young and Free](https://open.spotify.com/track/3YGDAMwevFJ0H1b424V7mX) | [Coulser](https://open.spotify.com/artist/7xwavZDjE0DD8DRtUifePz) | [Young and Free](https://open.spotify.com/album/0Qzc3KCYiCVJRRbZhOYLUS) | 2:02 | 2024-07-11 |  |
 | [Zero 76 \- Original Mix](https://open.spotify.com/track/49QZutJ2Cc6wcjm6elYZYd) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 5:00 | 2022-04-08 |  |
 | [♛ KIŃG\~TRÃSH ♛](https://open.spotify.com/track/4SRelCVgyLdIMCSA3EQdFf) | [BĘÃTFÓØT](https://open.spotify.com/artist/2d9UgZFb4N4JSmq1B3D42P) | [BĘÃTFÓØT](https://open.spotify.com/album/2pG3lRoxIXkkrl1TH63Pob) | 2:35 | 2024-07-11 |  |
-| [⟡ solitude ⟡](https://open.spotify.com/track/0085Y1oLaWiAB94I4iQo8N) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [⟡ solitude ⟡](https://open.spotify.com/album/13zX2as4ggekSgaZEVYEIv) | 1:56 | 2024-07-11 |  |
+| [⟡ solitude ⟡](https://open.spotify.com/track/0085Y1oLaWiAB94I4iQo8N) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [⟡ solitude ⟡](https://open.spotify.com/album/13zX2as4ggekSgaZEVYEIv) | 1:56 | 2024-07-11 |  |
 
 \*This playlist was first scraped on 2022-12-02. Prior content cannot be recovered.

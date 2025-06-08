@@ -4,7 +4,7 @@
 
 > Get revived with some of the best Deep House South Africa has to offer.
 
-293 songs - 1 day 9 hr 49 min
+294 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 | 2023-03-17 | 2023-11-21 |
 | [Abstract Sax](https://open.spotify.com/track/1MNLmucql9YdzsSAT1VoHG) | [Biko King](https://open.spotify.com/artist/4c65PT6IbqRhW1wNLhjbEj), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v) | [Lost in Rhythmic Echoes](https://open.spotify.com/album/2eW9TRzI9KuFK0ndmLNxSp) | 8:20 | 2025-02-21 |  |
 | [Addicted To Sound](https://open.spotify.com/track/0n8mAv9qq4ctyOvyZIdoHA) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Addicted To Sound](https://open.spotify.com/album/51gsn6IiCCZSXMsX6kpBZR) | 8:13 | 2022-09-14 | 2022-10-23 |
+| [Africa Jesus](https://open.spotify.com/track/0ZM9RAwytmwWNNTOSwe47R) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [Africa Jesus](https://open.spotify.com/album/5T2cesMZ2ZMXYSiirQQxtY) | 7:49 | 2025-06-05 |  |
 | [After Midnight](https://open.spotify.com/track/3bgNTFqRP2L3uTSt76MWCP) | [8nine Muzique](https://open.spotify.com/artist/47Htt5Zm9p72oZH0DcItjx) | [After Midnight](https://open.spotify.com/album/4524s7WVTUnjZ6W8AwtjLz) | 7:14 | 2025-05-15 | 2025-05-23 |
 | [Ain't Nobody](https://open.spotify.com/track/6vBzl01bwdVT22CyIBaSjV) | [Khaney](https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY), [Khend](https://open.spotify.com/artist/4bLOe0WZoKy7zshziPcZX1) | [Ain't Nobody](https://open.spotify.com/album/4eAzUQu9BoUiO81G66UH9z) | 3:58 | 2025-02-21 | 2025-02-28 |
 | [All In You](https://open.spotify.com/track/75VD2d6BPTuESBrzRqD6xl) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Kemy Chienda](https://open.spotify.com/artist/21ubOXEDOMELSW2LDxG8HK) | [All In You](https://open.spotify.com/album/0YJOAYBMM8zEhcMNHnGe95) | 8:32 | 2022-09-14 | 2023-03-18 |
@@ -54,7 +55,7 @@
 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 | 2022-09-14 | 2022-11-18 |
 | [Dlali Namba \- Original Mix](https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W) | [BusyExplore](https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99), [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Dlali Number](https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR) | 4:41 | 2024-05-03 | 2025-02-24 |
 | [Do 4 Love](https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j) | [Back 2 Basics](https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9) | 7:19 | 2022-11-10 | 2023-03-18 |
-| [Do You Care](https://open.spotify.com/track/0NX0CN8OVQZQsmxCJnH0f4) | [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Fractured Reflections](https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T) | 6:21 | 2025-03-07 |  |
+| [Do You Care](https://open.spotify.com/track/0NX0CN8OVQZQsmxCJnH0f4) | [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Fractured Reflections](https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T) | 6:21 | 2025-03-07 | 2025-06-08 |
 | [Don't 4get To Call Me](https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [OOO: AFRO](https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx) | 7:46 | 2022-11-10 | 2024-07-19 |
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 | 2022-11-18 |
 | [Drowning \- Vocal Mix](https://open.spotify.com/track/5fzidDEfCi1uYeOVxIiymO) | [KaySoul](https://open.spotify.com/artist/0eCTrYePahyPxq2lIHpzfv), [Sykes](https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA) | [Drowning](https://open.spotify.com/album/06nOt6GBXVFKJEx5aSf9Qw) | 5:15 | 2024-05-16 | 2024-05-23 |

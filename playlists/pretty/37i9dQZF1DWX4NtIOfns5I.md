@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > hiiiii medium build <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,928 likes - 127 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,912 likes - 127 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

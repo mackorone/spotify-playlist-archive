@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,989 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,991 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 | 14 | [A little more \- Instrumental](https://open.spotify.com/track/26iTiFmpxJTEKqZXhIvRit) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
 | 15 | [Love beyond words \- Instrumental](https://open.spotify.com/track/4Ip9YxkOkti0Og4CjZNeqC) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 |
 | 16 | [Prettiest One \- Instrumental](https://open.spotify.com/track/1luZpL2xekj9MxC634K6cp) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 |
-| 17 | [miss you more, I'm sorry \- Instrumental](https://open.spotify.com/track/0GWGxi8mr6tNXKvwCQVq22) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
-| 18 | [My Love \- Instrumental](https://open.spotify.com/track/08rkSTgPYGaAGbjVDSS483) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
+| 17 | [My Love \- Instrumental](https://open.spotify.com/track/08rkSTgPYGaAGbjVDSS483) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
+| 18 | [miss you more, I'm sorry \- Instrumental](https://open.spotify.com/track/0GWGxi8mr6tNXKvwCQVq22) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
 | 19 | [Love Love Love \- Instrumental](https://open.spotify.com/track/0WbkukjmHQ3Y0PClLU1fAP) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Love Love Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6b0RI9sLF9braqpMYCVQwm) | 3:16 |
 | 20 | [Talk to me \- Instrumental](https://open.spotify.com/track/3dE2DqQOl8eOgu1MfjFxnV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Talk to me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC) | 4:17 |
 | 21 | [Your tender heart hurts me \- Instrumental](https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 |

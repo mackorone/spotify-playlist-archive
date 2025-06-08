@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43066,
+  "num_followers": 43068,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAACntSTHzoCDO+tEFmXC5J9O",
+  "snapshot_id": "aEIvgAAAAABhKqZJVe+D/U2QmqBeMLor",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Llegas Tarde",
-        "url": "https://open.spotify.com/album/51vlzBXDLGLc1St5xOc8hr"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 158213,
-      "name": "Siempre Llegas Tarde",
-      "url": "https://open.spotify.com/track/3kn0PVkaeJQ0yxtemQRJ6D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uebe",
         "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 160855,
       "name": "Il tuo profumo",
       "url": "https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Llegas Tarde",
+        "url": "https://open.spotify.com/album/51vlzBXDLGLc1St5xOc8hr"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Siempre Llegas Tarde",
+      "url": "https://open.spotify.com/track/3kn0PVkaeJQ0yxtemQRJ6D"
     },
     {
       "added_at": null,

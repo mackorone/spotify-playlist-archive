@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "Africa Jesus",
+        "url": "https://open.spotify.com/album/5T2cesMZ2ZMXYSiirQQxtY"
+      },
+      "artists": [
+        {
+          "name": "Soulfreakah",
+          "url": "https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469560,
+      "name": "Africa Jesus",
+      "url": "https://open.spotify.com/track/0ZM9RAwytmwWNNTOSwe47R"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/4524s7WVTUnjZ6W8AwtjLz"
       },
@@ -976,7 +998,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 381235,
       "name": "Do You Care",
       "url": "https://open.spotify.com/track/0NX0CN8OVQZQsmxCJnH0f4"

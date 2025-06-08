@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Gateway Worship Español
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,434 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,593 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [La Sangre Del Señor](https://open.spotify.com/track/5l5HJPeA15oPGZJUjuimXG) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Wendy Vides](https://open.spotify.com/artist/4P2wGBgg1JVs58vQf0ziI7) | [La Sangre Del Señor](https://open.spotify.com/album/5GwclwyMpoEw1hznREkcKK) | 3:52 |
 | 100 | [Yeshua](https://open.spotify.com/track/5rkKRSgIXnbSG08vhALLxE) | [Amara Rodes](https://open.spotify.com/artist/41iUVjv0FJlo5wlyhmG7Uq), [Agustin Rodes](https://open.spotify.com/artist/5nVZrbP8yLBMAf2nEt4hQU), [Jony Losada](https://open.spotify.com/artist/7tLRxSmyYKHtaop8PtawRz) | [Yeshua](https://open.spotify.com/album/6J0WDj6gZjFLtCfuK4ZNj9) | 3:41 |
 
-Snapshot ID: `AAAAAK43JdxVG8iWqri2Gd68Ct9tRrZI`
+Snapshot ID: `aELRYgAAAADVYilvRPDitYEFaw9PeXs7`

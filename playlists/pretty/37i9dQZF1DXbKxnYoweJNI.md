@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 雷擎 \(L8ching\) x 阿橘 \(Ahh G\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,817 likes - 124 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,819 likes - 124 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 36 | [遠走](https://open.spotify.com/track/71Jb0XKcxyOP3IxeA1CHEa) | [自言自語 Murmur](https://open.spotify.com/artist/76w4heSMid7m5mj3uvv79L) | [遠走](https://open.spotify.com/album/5KGiVFjYY51Zq64LUi1g1N) | 4:06 |
 | 37 | [贏了 Kiemel](https://open.spotify.com/track/6ZqAwF1R0cVv0DQoqYuKuD) | [AZ李孝祖](https://open.spotify.com/artist/20tREv54XdXoRSTGp6EGRy), [Cheng Hsien Liang](https://open.spotify.com/artist/3Mjwl31EccbEGILKPrwVmS) | [贏了 Kiemel](https://open.spotify.com/album/0cq1Ee7T01XOg985vdEcId) | 4:06 |
 | 38 | [别问我是谁](https://open.spotify.com/track/5VhBv6EMes3zeudZ4LvA4U) | [RAYGUN](https://open.spotify.com/artist/12LPVgxiqKD3Lk14Mu5G6k), [K3LVN](https://open.spotify.com/artist/5aZJHV3bWffuwzPRasWTYe) | [别问我是谁](https://open.spotify.com/album/3lh36qVALxSKbiiWGBGb30) | 3:34 |
-| 39 | [別離開](https://open.spotify.com/track/2k7TZGJ2wGZ7Ad49ec4dFi) | [薛恩](https://open.spotify.com/artist/1t359VOXPqpN2WGB5MBUGJ) | [別離開](https://open.spotify.com/album/1VdViNqYGzZfgmmjZXCJTM) | 2:32 |
+| 39 | [別離開](https://open.spotify.com/track/2k7TZGJ2wGZ7Ad49ec4dFi) | [薛恩Sean](https://open.spotify.com/artist/6v186QGGBB6kC1PGaB6Tv5) | [別離開](https://open.spotify.com/album/1VdViNqYGzZfgmmjZXCJTM) | 2:32 |
 | 40 | [在最空虛又下大雨時寫的歌](https://open.spotify.com/track/0KhumikzIn1AxW3ENVQRZy) | [邢定弘](https://open.spotify.com/artist/0UxkncNH9tBtkKgAP9yOu7) | [在最空虛又下大雨時寫的歌](https://open.spotify.com/album/0HpSGLEfBMSoVsEzgwdrAt) | 4:13 |
 | 41 | [比寂寞更寂寞](https://open.spotify.com/track/3V8BlbC8buCxHJWklH3XTP) | [蘇震洋](https://open.spotify.com/artist/5DItYO8Z3UtWAQee1DxfJD) | [不晚](https://open.spotify.com/album/6kiKPrLMe5l5uBVZuQ1v9S) | 3:55 |
 | 42 | [嘿，好久不見](https://open.spotify.com/track/7jo0sAyXf5wpFthPj2tsIx) | [EighRA紫月光](https://open.spotify.com/artist/2dsOvPG2dOilw7regHPIo1) | [嘿，好久不見](https://open.spotify.com/album/23lHaFWXzTLCXGTPhxCfkn) | 3:47 |

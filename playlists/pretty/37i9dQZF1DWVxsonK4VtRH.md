@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxsonK4VtRH.md) - [plain]
 
 > A dark new chapter begins...Listen to the music from and inspired by Call of Duty, featuring music from Modern Warfare III.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,731 likes - 66 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,828 likes - 66 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxsonK4VtRH.md) - [plain]
 | 65 | [Dirt Off Your Shoulder](https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:05 |
 | 66 | [Slidin](https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:05 |
 
-Snapshot ID: `AAAAAGdVPE7BCTo3v8iyUa0r3Q7vxX/m`
+Snapshot ID: `ZU25DAAAAAC88ufv/O+lFUtat5CtWz+V`

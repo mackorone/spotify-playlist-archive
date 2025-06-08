@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,282 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,280 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 | 14 | [Tessellate \- Acoustic; Live from Spotify Sessions, New York City, NY \[Live From Spotify NYC\]](https://open.spotify.com/track/18SIkbgrzHfxB4aQ0Ig7mZ) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Session](https://open.spotify.com/album/4V02rWRnzkfPqqiicUWxwj) | 3:01 |
 | 15 | [Lightning Bolt \- Live From Spotify London](https://open.spotify.com/track/57viCi5dDuuvIIFwVWWbYC) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Spotify Sessions \(Live From Spotify London\)](https://open.spotify.com/album/0NpsdXBFgkARjG9sV0T8DV) | 2:18 |
 | 16 | [Colours \- Spotify Sessions](https://open.spotify.com/track/1CwCOaxLVECC70M4g0OcwT) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Sessions](https://open.spotify.com/album/5Jn1wIS3KhaUnDHWch4IIY) | 4:28 |
-| 17 | [No Way Down \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/4M0EavawZTth4hjAbIWGkl) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:23 |
+| 17 | [No Way Down \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/4M0EavawZTth4hjAbIWGkl) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:23 |
 | 18 | [R.I.P\. \- Live from Spotify NYC](https://open.spotify.com/track/11jpCy4SWbv1RH4UupAS7H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Sessions](https://open.spotify.com/album/0KjnrN4fvNxmK16v5YHCq6) | 5:02 |
 | 19 | [Jimmy Collins' Wake \- Live From Spotify NYC](https://open.spotify.com/track/7silU7h7etN24Pvohta9jB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Spotify Sessions](https://open.spotify.com/album/514JH4Bhi5G99WShlLw9Ld) | 5:54 |
 | 20 | [Next To Me \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/4Y1ZvAbetcpZsmedL9uhmR) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 3:40 |

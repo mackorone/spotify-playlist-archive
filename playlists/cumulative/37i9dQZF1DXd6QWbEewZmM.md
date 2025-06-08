@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-428 songs - 1 day 0 hr 26 min
+429 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Ilusionado](https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Ilusionado](https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg) | 2:32 | 2023-01-05 | 2023-01-26 |
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-02-04 |  |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-14 |  |
+| [Intro](https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:00 | 2025-02-04 |  |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-06-03 |  |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2022-01-01 |  |
 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 | 2022-09-23 |  |
@@ -181,7 +182,7 @@
 | [Lo Que Hiciste](https://open.spotify.com/track/1NXNgZuLTFadtH8F4fFvQL) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Lo Que Hiciste](https://open.spotify.com/album/6DATyBdgu9uVO0qZLjpBlD) | 3:59 | 2023-05-26 |  |
 | [Loco Enamorado](https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Perdido en el Tiempo](https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua) | 1:56 | 2023-02-24 |  |
 | [Loco y Enamorado](https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Loco y Enamorado](https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5) | 2:06 | 2022-06-03 | 2022-07-19 |
-| [LOKERON X AMOR](https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:11 | 2024-09-03 |  |
+| [LOKERON X AMOR](https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:11 | 2024-09-03 | 2025-06-08 |
 | [Los Cuadros](https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Los Cuadros](https://open.spotify.com/album/6b5eVa9g8jV0J1qWd5xR9U) | 2:33 | 2024-05-17 | 2024-09-04 |
 | [Los Secretos](https://open.spotify.com/track/4EJOpErvTO28XW1SONatmB) | [Bajo Estado](https://open.spotify.com/artist/5fqzVps1JJGe0s962qfiuQ) | [Los Secretos](https://open.spotify.com/album/1nl0d3DqkFynDrU0ia7jJn) | 3:34 | 2022-02-04 | 2022-07-20 |
 | [Lágrimas De Cristal](https://open.spotify.com/track/1nv63vipZ2KlVmeuQaA86h) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Lágrimas De Cristal](https://open.spotify.com/album/0ku2VNZOdOeliB142HKOEJ) | 2:42 | 2022-04-13 | 2022-07-21 |

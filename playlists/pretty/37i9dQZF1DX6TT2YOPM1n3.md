@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,819 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,853 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Laykin](https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Laykin](https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ) | 2:51 |
 | 60 | [Saza](https://open.spotify.com/track/10woFQBx2lLrHTvh8rLBHG) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Saza](https://open.spotify.com/album/0Zybm7phKiGuSripA2hqDd) | 3:07 |
 
-Snapshot ID: `aDbohwAAAADR7abLnqaMY3h741xwUCn2`
+Snapshot ID: `aDbohwAAAACT9WV8opcrBbPB0FoEHPm6`

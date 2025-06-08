@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Kelsea Ballerini
+> Today's top country hits\. Cover: Jordan Davis
 
 894 songs - 2 day 0 hr 23 min
 

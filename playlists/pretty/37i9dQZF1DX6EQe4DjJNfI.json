@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
-  "num_followers": 178501,
+  "num_followers": 178532,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-06-06 21:22:25",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2025-06-06 21:22:25",
-      "album": {
         "name": "De Lua",
         "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 192573,
       "name": "De Lua",
       "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+    },
+    {
+      "added_at": "2025-06-06 21:22:25",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2025-06-06 21:22:25",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-06-06 21:22:25",
       "album": {
+        "name": "ESCOLHAS",
+        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "ESCOLHAS",
+      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
+    },
+    {
+      "added_at": "2025-06-06 21:22:25",
+      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
-    },
-    {
-      "added_at": "2025-06-06 21:22:25",
-      "album": {
-        "name": "ESCOLHAS",
-        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RTICE",
-          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "ESCOLHAS",
-      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
     },
     {
       "added_at": "2025-06-06 21:22:25",
@@ -987,6 +987,30 @@
     {
       "added_at": "2025-06-06 21:22:25",
       "album": {
+        "name": "Desse Meu Mel",
+        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
+      },
+      "artists": [
+        {
+          "name": "BIA DOXUM",
+          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
+        },
+        {
+          "name": "Vibox",
+          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
+        },
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "sexta de manh\u00e3",
+      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+    },
+    {
+      "added_at": "2025-06-06 21:22:25",
+      "album": {
         "name": "Imaturos",
         "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 172826,
       "name": "Lambuza",
       "url": "https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh"
-    },
-    {
-      "added_at": "2025-06-06 21:22:25",
-      "album": {
-        "name": "Desse Meu Mel",
-        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
-      },
-      "artists": [
-        {
-          "name": "BIA DOXUM",
-          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
-        },
-        {
-          "name": "Vibox",
-          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
-        },
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "sexta de manh\u00e3",
-      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
     },
     {
       "added_at": "2025-06-06 21:22:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-06-06 21:22:25",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2025-06-06 21:22:25",
-      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2025-06-06 21:22:25",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2025-06-06 21:22:25",
+      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 194000,
       "name": "Respostas",
       "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2025-06-06 21:22:25",
+      "album": {
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
     },
     {
       "added_at": "2025-06-06 21:22:25",
@@ -1151,22 +1167,6 @@
       "duration_ms": 137000,
       "name": "Me Diz Que C\u00ea Sente",
       "url": "https://open.spotify.com/track/61YXVtkd0EWz6qVkk51zn6"
-    },
-    {
-      "added_at": "2025-06-06 21:22:25",
-      "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
     },
     {
       "added_at": "2025-06-06 21:22:25",

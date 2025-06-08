@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 129904,
+  "num_followers": 129931,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "poquito",
         "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 219681,
       "name": "poquito",
       "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Hoy no tengo nada que hacer",
-        "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
-      },
-      "artists": [
-        {
-          "name": "Ombligo",
-          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
-        },
-        {
-          "name": "La Pena",
-          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
-        }
-      ],
-      "duration_ms": 251856,
-      "name": "Hoy no tengo nada que hacer",
-      "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Hoy no tengo nada que hacer",
+        "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
+      },
+      "artists": [
+        {
+          "name": "Ombligo",
+          "url": "https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y"
+        },
+        {
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
+        }
+      ],
+      "duration_ms": 251856,
+      "name": "Hoy no tengo nada que hacer",
+      "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Arrullito",
-        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
+        "name": "As vidas caladas",
+        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
       "artists": [
         {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         },
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "Caama\u00f1o & Ameixeiras",
+          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
         }
       ],
-      "duration_ms": 228271,
-      "name": "Arrullito",
-      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+      "duration_ms": 212698,
+      "name": "As vidas caladas",
+      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "As vidas caladas",
-        "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
+        "name": "Arrullito",
+        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
       "artists": [
         {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
         },
         {
-          "name": "Caama\u00f1o & Ameixeiras",
-          "url": "https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
         }
       ],
-      "duration_ms": 212698,
-      "name": "As vidas caladas",
-      "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
+      "duration_ms": 228271,
+      "name": "Arrullito",
+      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Verdad Amarga",
-        "url": "https://open.spotify.com/album/49pwd1jZNm46A9cmnW6wJ6"
-      },
-      "artists": [
-        {
-          "name": "Elif Sanchez",
-          "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
-        },
-        {
-          "name": "Rycardo Moreno",
-          "url": "https://open.spotify.com/artist/4SVkLbzIYhXV74QmNUePl3"
-        }
-      ],
-      "duration_ms": 266842,
-      "name": "Verdad Amarga",
-      "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "Todas Las Banderas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 180250,
       "name": "Todas Las Banderas (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Verdad Amarga",
+        "url": "https://open.spotify.com/album/49pwd1jZNm46A9cmnW6wJ6"
+      },
+      "artists": [
+        {
+          "name": "Elif Sanchez",
+          "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
+        },
+        {
+          "name": "Rycardo Moreno",
+          "url": "https://open.spotify.com/artist/4SVkLbzIYhXV74QmNUePl3"
+        }
+      ],
+      "duration_ms": 266842,
+      "name": "Verdad Amarga",
+      "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1627,42 +1627,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "cuchibeats",
-        "url": "https://open.spotify.com/album/6WIjCkDGxe2zo7nqifv8n9"
-      },
-      "artists": [
-        {
-          "name": "Emetres",
-          "url": "https://open.spotify.com/artist/0kyn948FvzvuJ5a2CJkUP3"
-        },
-        {
-          "name": "Emilio Amar\u00fa",
-          "url": "https://open.spotify.com/artist/1j7fXWdC0syQbTDZAQxEW0"
-        }
-      ],
-      "duration_ms": 131546,
-      "name": "campos de algod\u00f3n",
-      "url": "https://open.spotify.com/track/3Z1gB0NGAp4uIPoF3CzLsI"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "Herba de Namorar",
-        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 179324,
-      "name": "Herba de Namorar",
-      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -1683,18 +1647,38 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Me hace feliz, mam\u00e1",
-        "url": "https://open.spotify.com/album/6N4oAFfUTZfta7DXuxtO0L"
+        "name": "Herba de Namorar",
+        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
       },
       "artists": [
         {
-          "name": "Pati P\u00e9rez-Laorga",
-          "url": "https://open.spotify.com/artist/6ICuxuKJfuB1bMHiFrRMVe"
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         }
       ],
-      "duration_ms": 230952,
-      "name": "Me hace feliz, mam\u00e1",
-      "url": "https://open.spotify.com/track/5H7RvxJ5Ivd96gT9VYzTlc"
+      "duration_ms": 179324,
+      "name": "Herba de Namorar",
+      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "cuchibeats",
+        "url": "https://open.spotify.com/album/6WIjCkDGxe2zo7nqifv8n9"
+      },
+      "artists": [
+        {
+          "name": "Emetres",
+          "url": "https://open.spotify.com/artist/0kyn948FvzvuJ5a2CJkUP3"
+        },
+        {
+          "name": "Emilio Amar\u00fa",
+          "url": "https://open.spotify.com/artist/1j7fXWdC0syQbTDZAQxEW0"
+        }
+      ],
+      "duration_ms": 131546,
+      "name": "campos de algod\u00f3n",
+      "url": "https://open.spotify.com/track/3Z1gB0NGAp4uIPoF3CzLsI"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1719,6 +1703,22 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Me hace feliz, mam\u00e1",
+        "url": "https://open.spotify.com/album/6N4oAFfUTZfta7DXuxtO0L"
+      },
+      "artists": [
+        {
+          "name": "Pati P\u00e9rez-Laorga",
+          "url": "https://open.spotify.com/artist/6ICuxuKJfuB1bMHiFrRMVe"
+        }
+      ],
+      "duration_ms": 230952,
+      "name": "Me hace feliz, mam\u00e1",
+      "url": "https://open.spotify.com/track/5H7RvxJ5Ivd96gT9VYzTlc"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "C\u00f3ndor",
-        "url": "https://open.spotify.com/album/4L85zc8uuAPKnCBxJfJ7Lr"
+        "name": "DUE\u00d1O DE TUS NOTICIAS",
+        "url": "https://open.spotify.com/album/2zonbxSHo9ygRLWlskkZBz"
       },
       "artists": [
         {
-          "name": "Jard\u00edn L\u00e1ser",
-          "url": "https://open.spotify.com/artist/6rcAmfGF8SWFmqzZlwGTXz"
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
         }
       ],
-      "duration_ms": 230921,
-      "name": "C\u00f3ndor",
-      "url": "https://open.spotify.com/track/50RP5Exy718OXAQzjzMcVF"
+      "duration_ms": 272517,
+      "name": "DUE\u00d1O DE TUS NOTICIAS",
+      "url": "https://open.spotify.com/track/00f06mo8PDNJAIsYmzKfUT"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1787,18 +1791,18 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+        "name": "C\u00f3ndor",
+        "url": "https://open.spotify.com/album/4L85zc8uuAPKnCBxJfJ7Lr"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Jard\u00edn L\u00e1ser",
+          "url": "https://open.spotify.com/artist/6rcAmfGF8SWFmqzZlwGTXz"
         }
       ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+      "duration_ms": 230921,
+      "name": "C\u00f3ndor",
+      "url": "https://open.spotify.com/track/50RP5Exy718OXAQzjzMcVF"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1823,6 +1827,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
         "name": "Crezco y no lo veo",
         "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 190561,
       "name": "Crezco y no lo veo",
       "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Jantos",
-          "url": "https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI"
-        },
-        {
-          "name": "Laura Chinelli",
-          "url": "https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq"
-        }
-      ],
-      "duration_ms": 292500,
-      "name": "Candor",
-      "url": "https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui"
     }
   ],
   "unique_name": "Cancionistas",

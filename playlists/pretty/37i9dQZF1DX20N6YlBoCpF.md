@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Jakkie Louw, Jay, Taye, Ziané Saaymanen meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,781 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,788 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 4 | [Voete Jeuk](https://open.spotify.com/track/3L2TgLpX3Y9iW1Ltoen06W) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Voete Jeuk](https://open.spotify.com/album/4iOuNfztQDsLDilSnQPhT7) | 3:40 |
 | 5 | [Ek Dare Jou \(Bly Net Lief Vir My\)](https://open.spotify.com/track/3tT7okzI7TYg4rvK9PPinQ) | [Taye](https://open.spotify.com/artist/29ujJsTS1iMJfrTC9yamlr) | [Ek Dare Jou \(Bly Net Lief Vir My\)](https://open.spotify.com/album/4h4q9AFZPJj951pH4fJjvo) | 3:04 |
 | 6 | [Het Jy Iemand](https://open.spotify.com/track/6nxrtUmq5aNJlLef0zwKOP) | [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Het Jy Iemand](https://open.spotify.com/album/0bVTa1xvnoVMRABEvcBPW2) | 2:47 |
-| 7 | [Die Braaibroodjie Reël \- Lazarus King Remix](https://open.spotify.com/track/5kdHIUf56q0OHO1r5AxsAO) | [Ziané Saayman](https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli) | [Die Braaibroodjie Reël \(Lazarus King Remix\)](https://open.spotify.com/album/0IjKer8RADmKNiYASfSNUi) | 2:31 |
+| 7 | [Die Braaibroodjie Reël \- Lazarus King Remix](https://open.spotify.com/track/5kdHIUf56q0OHO1r5AxsAO) | [Ziané Saayman](https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli), [Lazarus King](https://open.spotify.com/artist/1jLTBw9t1VDE1Mk0EuAboN) | [Die Braaibroodjie Reël \(Lazarus King Remix\)](https://open.spotify.com/album/0IjKer8RADmKNiYASfSNUi) | 2:31 |
 | 8 | [Hang Aan Jou Lippe](https://open.spotify.com/track/0IldYj4nBc7OGAwRxnsvXF) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [Hang Aan Jou Lippe](https://open.spotify.com/album/1zQ2HCrBIraog6oB8Jga0z) | 3:32 |
 | 9 | [Rym en Rede](https://open.spotify.com/track/2u6hUst0L3JyL31ImGEm5q) | [SKUILNAAM](https://open.spotify.com/artist/3Y05zkYVLbp7vJ9W94fqFZ) | [Rym en Rede](https://open.spotify.com/album/19vCoeBUPnwECM8hZrjq6s) | 3:20 |
 | 10 | [Tussen Die Wolke](https://open.spotify.com/track/5xlEGpWX52uFRPOB9xn4Ox) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Tussen Die Wolke](https://open.spotify.com/album/59RcmGu0wk1cvgZm0dTPCi) | 3:09 |

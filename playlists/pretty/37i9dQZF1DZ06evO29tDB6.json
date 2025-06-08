@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 141421,
+  "num_followers": 141431,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAACexIZmY1SL8z3706t8yK7F",
+  "snapshot_id": "aEIvgAAAAADI7+5H/pLOYJsvMyFjpBP5",
   "tracks": [
     {
       "added_at": null,
@@ -235,46 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rayito Colombiano y los Grandes Compositores",
-        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        },
-        {
-          "name": "Gerardo Guardia",
-          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Triste Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando t\u00fa no est\u00e1s",
-        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "El muchacho chicho",
-      "url": "https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Canci\u00f3n",
         "url": "https://open.spotify.com/album/4r9CNUedkwlMyy5taK7HN1"
       },
@@ -295,6 +255,46 @@
       "duration_ms": 215866,
       "name": "Triste Canci\u00f3n",
       "url": "https://open.spotify.com/track/0D3BtbSUocYBsqK2UiXzYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "El muchacho chicho",
+      "url": "https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rayito Colombiano y los Grandes Compositores",
+        "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Gerardo Guardia",
+          "url": "https://open.spotify.com/artist/7F6wmzeL2p5MCZalXhuJdt"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
     },
     {
       "added_at": null,

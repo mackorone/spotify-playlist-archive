@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : DYSTINCT x Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,495 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,684 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 5 | [Beluga](https://open.spotify.com/track/4Ni26iRBfj5ATXjY3ICTcv) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Beluga](https://open.spotify.com/album/6pynvrRBHonKOcySil3MOL) | 2:38 |
 | 6 | [LDC](https://open.spotify.com/track/79GsCcSo4Fm4xVwFw7gkgs) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [LDC](https://open.spotify.com/album/0QvUH3eAOC3FCK0xXmlJIN) | 3:01 |
 | 7 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 |
-| 8 | [Fais pas ça](https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Fais pas ça](https://open.spotify.com/album/6KWu4GcK7eotZp9RAgf3GT) | 2:27 |
+| 8 | [Fais pas ça \- Bonus Track](https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Fais pas ça \(Bonus Track\)](https://open.spotify.com/album/6KWu4GcK7eotZp9RAgf3GT) | 2:27 |
 | 9 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 |
 | 10 | [Etat des lieux \- Part 1](https://open.spotify.com/track/60oUKjWNuBEl0X0IaLuVHL) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [ÉTAT DES LIEUX](https://open.spotify.com/album/14kmgUtxkJEi78a7F7TzxW) | 1:56 |
 | 11 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |

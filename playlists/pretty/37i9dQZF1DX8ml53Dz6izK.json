@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "No Pads, No Helmets...Just Balls",
         "url": "https://open.spotify.com/album/3rEl0zv6lbVZiB79uHAQ5y"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 197640,
       "name": "I'd Do Anything",
       "url": "https://open.spotify.com/track/5KCPpfk3qfw2Gd9DRMCq8Y"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "Suicide Season",
-        "url": "https://open.spotify.com/album/6bdSj3D5soQXZqlxSn5ZQr"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 302560,
-      "name": "Chelsea Smile",
-      "url": "https://open.spotify.com/track/2C5jGbR23YLonV7Lton6fV"
     }
   ],
   "unique_name": "CrySpace",

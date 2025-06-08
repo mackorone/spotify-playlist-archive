@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: BOOP!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,581 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,596 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Silver Stars](https://open.spotify.com/track/3phCLghVIsBjIGAfYxNpRz) | [Grant Gustin](https://open.spotify.com/artist/0MXwnhyYMeEfij4dl2YIQ4), [Water for Elephants Company](https://open.spotify.com/artist/5ZY7GkieMNqL6I2NQzpRTO) | [Wild \(From Water For Elephants: Original Broadway Cast Recording\)](https://open.spotify.com/album/6H4qsaBT1wiu3XKquJzjRZ) | 2:35 |
 | 50 | [Masquerade](https://open.spotify.com/track/5FgQYIHI30oIUeJrInyXDq) | [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Justin Craig](https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 3:55 |
 
-Snapshot ID: `AAAAAOEgAcXkJskoE0l4oje+t2cMgQ7v`
+Snapshot ID: `aEJnxgAAAACExRfibLeTu9LadLlghJDW`

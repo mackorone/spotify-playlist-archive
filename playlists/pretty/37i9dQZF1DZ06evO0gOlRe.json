@@ -1,13 +1,29 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 34678,
+  "num_followers": 34686,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAACRqZ19Cv/HCYSYZdWMCNY5",
+  "snapshot_id": "aEIvgAAAAAB3HcTGWiM9TKeRGtj30NZb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
+    },
     {
       "added_at": null,
       "album": {

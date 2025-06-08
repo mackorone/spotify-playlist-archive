@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jun 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jun 13:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -11483,6 +11483,24 @@
     },
     {
       "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW"
+    },
+    {
+      "album": {
         "name": "Open \u266deta v6.1",
         "url": "https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh"
       },
@@ -21254,7 +21272,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 149711,
       "name": "Diamond Stitching",
       "url": "https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i"
@@ -30996,6 +31014,24 @@
       "duration_ms": 97075,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN"
+    },
+    {
+      "album": {
+        "name": "GAMEBOY",
+        "url": "https://open.spotify.com/album/5z3DTCBy7NvvKrhyDBqrs0"
+      },
+      "artists": [
+        {
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "GAMEBOY",
+      "url": "https://open.spotify.com/track/482o1UADMoxAo0FKzJ5m46"
     },
     {
       "album": {
@@ -83699,6 +83735,24 @@
     },
     {
       "album": {
+        "name": "TORTURE GARDEN / MEAT CLOTHING",
+        "url": "https://open.spotify.com/album/5Ve1dzHX8MCtIMlptzl2sL"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33785,
+      "name": "TORTURE GARDEN / MEAT CLOTHING",
+      "url": "https://open.spotify.com/track/2hJnGzu3OfgCYZxBwlYRK8"
+    },
+    {
+      "album": {
         "name": "Total euphoria",
         "url": "https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv"
       },
@@ -89226,7 +89280,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 182862,
       "name": "Where Did You Go? - Bonus Track",
       "url": "https://open.spotify.com/track/0u46KWb38WuOWE0hg2ySov"
@@ -92576,7 +92630,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"

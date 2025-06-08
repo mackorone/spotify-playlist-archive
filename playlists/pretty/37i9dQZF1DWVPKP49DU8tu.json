@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 358692,
+  "num_followers": 358714,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -935,6 +935,26 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
+        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 162992,
+      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
+      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 210772,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
-        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 162992,
-      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
-      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
+        "name": "Sotto una pioggia di parole",
+        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
       },
       "artists": [
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
         }
       ],
-      "duration_ms": 222794,
-      "name": "La musica non c'\u00e8",
-      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
+      "duration_ms": 211360,
+      "name": "Per dimenticare",
+      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Sotto una pioggia di parole",
-        "url": "https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr"
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
       },
       "artists": [
         {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Per dimenticare",
-      "url": "https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct"
+      "duration_ms": 222794,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "Phoenix (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -1251,38 +1267,6 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Phoenix (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
         "name": "Pensare Male (con Elodie)",
         "url": "https://open.spotify.com/album/4K8RcA1mnKbJqOUwdvY1iQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 209347,
       "name": "Pensare Male (con Elodie)",
       "url": "https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "Crepe",
+        "url": "https://open.spotify.com/album/5yoIA4Z5w1bYOKzQE0MStC"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 177809,
+      "name": "Mediterranea",
+      "url": "https://open.spotify.com/track/2Up8QSKRV7WnZxZAQasEUq"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
@@ -1499,26 +1515,6 @@
       "duration_ms": 195657,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "5 Gocce (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1583,6 +1579,26 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "5 Gocce (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/3z0GeNGWyVduziP1cQ0mFN"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
         "name": "Ci pensiamo domani",
         "url": "https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 180184,
       "name": "Ci pensiamo domani",
       "url": "https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
-        "name": "Crepe",
-        "url": "https://open.spotify.com/album/5yoIA4Z5w1bYOKzQE0MStC"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 177809,
-      "name": "Mediterranea",
-      "url": "https://open.spotify.com/track/2Up8QSKRV7WnZxZAQasEUq"
     },
     {
       "added_at": "2025-05-28 13:31:03",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-05-28 13:31:03",
       "album": {
-        "name": "Vivere a colori",
-        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
-      },
-      "artists": [
-        {
-          "name": "Alessandra Amoroso",
-          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Comunque andare",
-      "url": "https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk"
-    },
-    {
-      "added_at": "2025-05-28 13:31:03",
-      "album": {
         "name": "Casa Mia",
         "url": "https://open.spotify.com/album/4xFy5R5epCv3JQj92m7lHJ"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 210541,
       "name": "Casa Mia",
       "url": "https://open.spotify.com/track/4cWrKV5SN7AknqPy4ryBDG"
+    },
+    {
+      "added_at": "2025-05-28 13:31:03",
+      "album": {
+        "name": "Vivere a colori",
+        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Comunque andare",
+      "url": "https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk"
     },
     {
       "added_at": "2025-05-28 13:31:03",

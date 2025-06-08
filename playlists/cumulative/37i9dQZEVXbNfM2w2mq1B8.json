@@ -6548,7 +6548,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 168526,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/2Viuf61ytt4t4dIaIqYQmF"
@@ -15168,7 +15168,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 78492,
       "name": "Interlude : Showtime",
       "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
@@ -18691,6 +18691,24 @@
     },
     {
       "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "album": {
         "name": "Mangava Tut",
         "url": "https://open.spotify.com/album/0cV79ZKtvQg9Vkj4ol3uW4"
       },
@@ -20708,7 +20726,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 179166,
       "name": "Moy Si Merak",
       "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
@@ -37880,7 +37898,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 195348,
       "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
       "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
@@ -38178,7 +38196,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 197560,
       "name": "\u041a\u044a\u0434\u0435 \u0441\u0438 \u0441\u0435\u0433\u0430",
       "url": "https://open.spotify.com/track/67v4GN0tIrfPGosPzSyo2I"
@@ -38414,7 +38432,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 217959,
       "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je"
@@ -39790,7 +39808,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"

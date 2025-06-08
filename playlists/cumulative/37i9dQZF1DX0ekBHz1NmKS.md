@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,894 songs - 4 day 2 hr 19 min
+1,895 songs - 4 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Can We Talk About Me?](https://open.spotify.com/track/144HD6H46Fkqen2mLoU74O) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Can We Talk About Me?](https://open.spotify.com/album/3MG4Q3ipd9raU28ZBxv89f) | 2:44 | 2023-02-01 | 2023-03-31 |
 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-02-21 | 2025-05-30 |
 | [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-27 | 2025-01-10 |
-| [Can't Go Back](https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx) | 2:35 | 2025-05-29 |  |
+| [Can't Go Back](https://open.spotify.com/track/2u5JUUkazRj0CCfYt4uZSO) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/1ru0RHTdao2mgYC8iJ5yBx) | 2:35 | 2025-05-29 | 2025-06-08 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-28 | 2023-10-06 |
 | [Can’t Stay Away](https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Can’t Stay Away](https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5) | 2:59 | 2022-11-04 | 2023-04-14 |
@@ -1071,6 +1071,7 @@
 | [Mer du mer allt](https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Mer du mer allt](https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv) | 2:36 | 2024-08-29 | 2024-10-06 |
 | [Mercedes](https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m) | 2:56 | 2023-04-13 | 2023-10-20 |
 | [Mercy](https://open.spotify.com/track/1JUVicktD1rcUzXlwmkYf4) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Mercy](https://open.spotify.com/album/5bJv5Iay9mu6rrRimESIJ4) | 2:58 | 2024-09-19 | 2024-10-05 |
+| [Meri Jaan](https://open.spotify.com/track/7EOFRODQyV3kqx0zbVKEQG) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Meri Jaan](https://open.spotify.com/album/53pdOr0g9OKj2Ytq5Onfp9) | 2:51 | 2025-06-05 |  |
 | [Mermaid](https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Mermaid](https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3) | 2:59 | 2024-05-23 | 2024-06-21 |
 | [Met her at a party](https://open.spotify.com/track/0yyndWvnE5QBeLFsUA1XRV) | [Ivy Lane](https://open.spotify.com/artist/2NQ0cPoo4XRQAute70oM75) | [Met her at a party](https://open.spotify.com/album/3Kck9oyHAjOZYnfDfCXWEg) | 2:26 | 2024-01-25 | 2024-02-18 |
 | [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 | 2023-01-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sabrina Carpenter, Internet Girl, Nobuhle more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,149 likes - 89 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,182 likes - 89 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Bitter](https://open.spotify.com/track/51fTHmByahDnnBqL1FBhHj) | [Daniel John](https://open.spotify.com/artist/6VGiqiQk4AlwrgjKaozUno) | [Bitter](https://open.spotify.com/album/3LsqZw3WWFtEQmdGopTWwB) | 2:56 |
 | 74 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
 | 75 | [Shona Ngale](https://open.spotify.com/track/4iejRyjVmUxCePm61k2faH) | [Bama Caboom](https://open.spotify.com/artist/5XGk1ZUeOshmtBGKoaPd2W), [Bailey RSA](https://open.spotify.com/artist/2QkOBh67XdbHPuruBuTYGZ), [Iyane Jamdong](https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o) | [Shona Ngale](https://open.spotify.com/album/3a6myEKkQDzrsl5aWQeboG) | 4:31 |
-| 76 | [Eclipse feat\. KayCyy](https://open.spotify.com/track/5WKsFiPjr6AvWVPOdAIkHC) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Eclipse feat\. KayCyy](https://open.spotify.com/album/4CIgWWMXbciXjMKzVUYuAX) | 3:09 |
+| 76 | [Eclipse feat\. KayCyy](https://open.spotify.com/track/5WKsFiPjr6AvWVPOdAIkHC) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Eclipse feat\. KayCyy](https://open.spotify.com/album/4CIgWWMXbciXjMKzVUYuAX) | 3:09 |
 | 77 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 78 | [Okokoko \(feat\. Slimteersa\)](https://open.spotify.com/track/33RDDjzGK8CpyzqJdoLYZp) | [Tsepiso P](https://open.spotify.com/artist/3eBNDfbUzrDcmKkj903sBo), [Slimteersa](https://open.spotify.com/artist/0hjUenqotgabgyUXQ4YW2V) | [Okokoko \(feat\. Slimteersa\)](https://open.spotify.com/album/4ItTI94U3KtcqYPZahNACF) | 4:25 |
 | 79 | [PEACH](https://open.spotify.com/track/0t1o6FokfL4SJxqOXrII6H) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [PEACH](https://open.spotify.com/album/68AYxkr1zZvFbu7HG5PCT6) | 2:54 |
-| 80 | [Die Braaibroodjie Reël \- Lazarus King Remix](https://open.spotify.com/track/5kdHIUf56q0OHO1r5AxsAO) | [Ziané Saayman](https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli) | [Die Braaibroodjie Reël \(Lazarus King Remix\)](https://open.spotify.com/album/0IjKer8RADmKNiYASfSNUi) | 2:31 |
+| 80 | [Die Braaibroodjie Reël \- Lazarus King Remix](https://open.spotify.com/track/5kdHIUf56q0OHO1r5AxsAO) | [Ziané Saayman](https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli), [Lazarus King](https://open.spotify.com/artist/1jLTBw9t1VDE1Mk0EuAboN) | [Die Braaibroodjie Reël \(Lazarus King Remix\)](https://open.spotify.com/album/0IjKer8RADmKNiYASfSNUi) | 2:31 |
 | 81 | [Go On](https://open.spotify.com/track/71x8VSiR7e9PbyvVHminQS) | [Lionayve](https://open.spotify.com/artist/0Y42lpxW6vcAWXG7qX5SGU) | [Mythic Nature](https://open.spotify.com/album/2y2mt7p0jm8keJyvZ49ZHY) | 7:52 |
 | 82 | [Angelina](https://open.spotify.com/track/3X6K30UUkVkctBzlpNCc8h) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Angelina](https://open.spotify.com/album/2UgtcvtqDmK8vhs38cyc2U) | 2:58 |
 | 83 | [Contortions](https://open.spotify.com/track/0R8JxtJA4dyZoTnUYzlDCc) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Contortions](https://open.spotify.com/album/1ZghfOiLASTlCjMdqXUPif) | 3:03 |

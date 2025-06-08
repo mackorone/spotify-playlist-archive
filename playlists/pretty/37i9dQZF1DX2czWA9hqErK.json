@@ -1,6 +1,6 @@
 {
   "description": "Make every day feel like Sunday",
-  "num_followers": 1352515,
+  "num_followers": 1352440,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Hearts Break and People Change",
-        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Hearts Break and People Change",
-      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "The Great Impersonator",
         "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Hearts Break and People Change",
+        "url": "https://open.spotify.com/album/7jcAisouiCZza66ewku13M"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Hearts Break and People Change",
+      "url": "https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Everything Is Peaceful Love",
-        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+        "name": "to be seen",
+        "url": "https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
+      "duration_ms": 203627,
+      "name": "to be seen",
+      "url": "https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "to be seen",
-        "url": "https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ"
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 203627,
-      "name": "to be seen",
-      "url": "https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
-        "name": "guilty",
-        "url": "https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 168703,
-      "name": "guilty",
-      "url": "https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L"
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1199,6 +1183,22 @@
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "guilty",
+        "url": "https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 168703,
+      "name": "guilty",
+      "url": "https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 241531,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 141320,
       "name": "steal my soul",
       "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 241531,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "I Don\u00b4t Feel",
-        "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
-      },
-      "artists": [
-        {
-          "name": "Aggy Ally",
-          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
-        }
-      ],
-      "duration_ms": 208944,
-      "name": "I Don\u00b4t Feel",
-      "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Running Out Of Time",
         "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "I Don\u00b4t Feel",
+        "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
+      },
+      "artists": [
+        {
+          "name": "Aggy Ally",
+          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
+        }
+      ],
+      "duration_ms": 208944,
+      "name": "I Don\u00b4t Feel",
+      "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 169934,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "added_at": "2025-05-22 23:00:12",

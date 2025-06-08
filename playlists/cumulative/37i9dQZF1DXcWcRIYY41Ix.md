@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-834 songs - 2 day 1 hr 36 min
+835 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Canción Con Vos](https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c) | [Alejandro Balbis](https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti) | [Sin Remitente](https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho) | 3:11 | 2021-12-24 | 2023-06-17 |
 | [Canción de boda](https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Los versos sáficos](https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi) | 3:34 | 2023-12-15 | 2024-02-10 |
 | [Canción para morir](https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mansalva](https://open.spotify.com/artist/27LrllSSvBViU6I1Kg7qS5) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 2:02 | 2023-06-16 | 2023-07-01 |
-| [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 |  |
+| [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2023-06-23 | 2025-06-08 |
 | [Canta, miña compañeira](https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Canta, miña compañeira](https://open.spotify.com/album/3oqLUn4jbB7olSampyHXfb) | 3:35 | 2022-10-15 | 2022-11-26 |
 | [Cantaría](https://open.spotify.com/track/20HCtD3crDnUe2Hc4aKPbs) | [Amanda Verdú](https://open.spotify.com/artist/3jL1j1GM43wF52RSNi2KP8) | [Cantaría](https://open.spotify.com/album/6VrDcrxU9nMX9kg0bqv7sh) | 4:00 | 2024-10-25 | 2024-12-04 |
 | [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-05-29 | 2023-06-03 |
@@ -224,6 +224,7 @@
 | [Donde nací](https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Donde nací](https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA) | 3:51 | 2024-12-20 | 2025-02-08 |
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-03-01 | 2024-07-06 |
 | [Dueña](https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Dueña](https://open.spotify.com/album/14m0kKxRlTg54MQWgKoa9y) | 3:15 | 2024-09-24 | 2025-04-25 |
+| [DUEÑO DE TUS NOTICIAS](https://open.spotify.com/track/00f06mo8PDNJAIsYmzKfUT) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [DUEÑO DE TUS NOTICIAS](https://open.spotify.com/album/2zonbxSHo9ygRLWlskkZBz) | 4:32 | 2025-06-06 |  |
 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 | 2023-03-25 | 2023-04-15 |
 | [Día de lluvia en Madrid](https://open.spotify.com/track/39x812j8vdxBQFl0ouhglx) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Día de lluvia en Madrid](https://open.spotify.com/album/450jlpZf9Hg5o0w3EpqVqC) | 3:14 | 2023-03-17 | 2023-04-19 |
 | [Día De Lluvia En Madrid](https://open.spotify.com/track/7BsBS9JSEw2y8KPhMSDDYf) | [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Día De Lluvia En Madrid](https://open.spotify.com/album/4JziU8KvKnc6fnKQKtK3Sx) | 3:14 | 2024-01-19 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "New music from Sabrina Carpenter, Internet Girl, Nobuhle more.",
-  "num_followers": 132149,
+  "num_followers": 132182,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -1504,12 +1504,12 @@
       },
       "artists": [
         {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
           "name": "Johan Lenox",
           "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
         }
       ],
       "duration_ms": 189357,
@@ -1578,6 +1578,10 @@
         {
           "name": "Zian\u00e9 Saayman",
           "url": "https://open.spotify.com/artist/1rnB2sc6wtjTh3gkYZihli"
+        },
+        {
+          "name": "Lazarus King",
+          "url": "https://open.spotify.com/artist/1jLTBw9t1VDE1Mk0EuAboN"
         }
       ],
       "duration_ms": 151520,

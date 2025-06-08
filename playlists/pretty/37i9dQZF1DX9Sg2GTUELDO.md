@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: Mischa Ip
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,970 likes - 500 songs - 1 day 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,971 likes - 500 songs - 1 day 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

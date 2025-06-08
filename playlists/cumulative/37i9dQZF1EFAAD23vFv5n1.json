@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "L'amore \u00e8 tutto",
+        "url": "https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/52KXGLUNnKoFFbV13lezFZ"
+    },
+    {
+      "album": {
         "name": "INTERNET",
         "url": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz"
       },

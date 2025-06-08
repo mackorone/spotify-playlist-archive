@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain]
 
 > We all crave things that aren't good for us\. Listen to music from the HBO Original series The Idol, streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,299 likes - 42 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,314 likes - 42 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JvB1I8cgKT.md) - [plain]
 | 41 | [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 |
 | 42 | [Planisphere Part\. IV](https://open.spotify.com/track/4lsyKsrXk5X6PrpWWsoaZa) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Planisphere](https://open.spotify.com/album/4j8UWYk7Ytc2HqkW7EnUTw) | 4:27 |
 
-Snapshot ID: `ZLbfVwAAAAD2lmQpiGHuYkidL7iFETSF`
+Snapshot ID: `AAAAAJMXdt9vtCR4UuqUf33vUnIVhfVh`

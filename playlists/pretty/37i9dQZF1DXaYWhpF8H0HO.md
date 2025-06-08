@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Dinda Ghania
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,719 likes - 95 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,722 likes - 95 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 11 | [I’LL BE YOUR PAIN](https://open.spotify.com/track/4muyJ5JfkGoc7CPjuYf8y1) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [I’LL BE YOUR PAIN](https://open.spotify.com/album/4dQ6dOXgZjN4B0YaclfOOf) | 3:52 |
 | 12 | [Mi Casa](https://open.spotify.com/track/1Cm96zzGmVAcscwJplOzR6) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Mi Casa](https://open.spotify.com/album/1XhDihQfvAbrZyXcxdAVNQ) | 3:12 |
 | 13 | [Don't Say I Never Loved You \(DSINLY\)](https://open.spotify.com/track/7KmuYmySYyCGXOa7iBgt6t) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Don't Say I Never Loved You \(DSINLY\)](https://open.spotify.com/album/1NwzftYAtUn6yMuJqJ6SYK) | 3:16 |
-| 14 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:33 |
+| 14 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 |
 | 15 | [Is It Love?](https://open.spotify.com/track/31M7Jau1Yoi6ilPLlhrVbQ) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Is It Love?](https://open.spotify.com/album/1kJkNIfeNPT7aBL03sT4L7) | 3:15 |
 | 16 | [Waking Up Together With You \- Live](https://open.spotify.com/track/6J6mlw6HcctswDHkz1hq6r) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip \(Live\)](https://open.spotify.com/album/1Z5jq2dspoyfjtzq1Dm5x0) | 3:36 |
 | 17 | [Some Things Change](https://open.spotify.com/track/1Bf4teWLvVPtZpknMHeaOF) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Awkward Pop Music](https://open.spotify.com/album/70Br2gTCCJoO7hYQfH6Mvt) | 2:18 |

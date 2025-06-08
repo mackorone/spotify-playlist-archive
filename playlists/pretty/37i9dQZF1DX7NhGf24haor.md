@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Wildstylez
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,424 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,470 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 4 | [Here On My Own](https://open.spotify.com/track/1FBy0WgQe7H8rNJVbFulhi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Here On My Own](https://open.spotify.com/album/3wbdWkUXAvDePDv8p1bBzR) | 2:54 |
 | 5 | [Summertime Madness](https://open.spotify.com/track/0N5s2NtgNo7QpePVtYjK9i) | [Broken Element](https://open.spotify.com/artist/6WMONlXvkrTWxC4TcI8qcD), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Summertime Madness](https://open.spotify.com/album/5RpWAFjjsMWSMLVAawiV6k) | 2:43 |
 | 6 | [FTS \- Sub Zero Project Rework](https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [FTS \(Sub Zero Project Rework\)](https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg) | 3:23 |
-| 7 | [Bass Kick](https://open.spotify.com/track/13j4sxihwBe8dB4gymf8WR) | [Revive](https://open.spotify.com/artist/4KAsa231JLza8qRvBWwBeC), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [Bass Kick](https://open.spotify.com/album/7Eae47aT6fZ8kDhwj94NZw) | 3:51 |
+| 7 | [Bass Kick](https://open.spotify.com/track/13j4sxihwBe8dB4gymf8WR) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [Revive](https://open.spotify.com/artist/4KAsa231JLza8qRvBWwBeC) | [Bass Kick](https://open.spotify.com/album/7Eae47aT6fZ8kDhwj94NZw) | 3:51 |
 | 8 | [LEFT \- RIGHT](https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew) | [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [DV8](https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf) | [LEFT \- RIGHT](https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh) | 1:37 |
 | 9 | [Alter Your Mind \(ALT\)](https://open.spotify.com/track/5yRF5ioGaqtLXeGwSARUa9) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO), [MC DL](https://open.spotify.com/artist/44S9ml6dQeSqLHFpHkudWc) | [Alter Your Mind \(ALT\)](https://open.spotify.com/album/1LYgR9r8l0saezoKKSTdcq) | 3:03 |
 | 10 | [The Kingdom](https://open.spotify.com/track/3rv5ILFO1NYZMymrk6962N) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [The Kingdom](https://open.spotify.com/album/2huIIggdRS5Ndv1887BiKq) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Advanced Reborn](https://open.spotify.com/track/1u0Lqo5D56htgLJlyBU5mF) | [Marcel Woods](https://open.spotify.com/artist/03kG9mdI2xdVCLOsFt26GR), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs) | [Advanced Reborn](https://open.spotify.com/album/0NQT06WE5ejbTJolrGf3EG) | 2:33 |
 | 100 | [YAY](https://open.spotify.com/track/4qHFb7Jb8XsgQftQpScAtJ) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [YAY](https://open.spotify.com/album/5Pcd1NBFl1nAJDtSHUMDsg) | 2:57 |
 
-Snapshot ID: `aEMFRQAAAAD3cyYGg4Vrlh/E7nU936Bu`
+Snapshot ID: `aEMFRQAAAABlLW5J6SDomv65EffBaI/b`

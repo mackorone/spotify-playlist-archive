@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Rebeca",
-  "num_followers": 437857,
+  "num_followers": 437835,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
+        "name": "encontro de alma",
+        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "encontro de alma",
+      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
         "name": "Quem \u00c9 Voc\u00ea?",
         "url": "https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 224500,
       "name": "Quem \u00c9 Voc\u00ea?",
       "url": "https://open.spotify.com/track/0fburSFYhNq39QBirzGILU"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
-        "name": "encontro de alma",
-        "url": "https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "encontro de alma",
-      "url": "https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
+        "name": "assim",
+        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
         "name": "S\u00f3 love",
         "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 161934,
       "name": "S\u00f3 love",
       "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
-        "name": "assim",
-        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "sofrer por voc\u00ea",
         "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 174139,
       "name": "sofrer por voc\u00ea",
       "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -879,22 +879,18 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
       },
       "artists": [
         {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -919,34 +915,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
         {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -963,6 +947,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
-        "name": "Meu Corpo Pede",
-        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "Meu corpo pede",
-      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
         "name": "Todos os Futuros",
         "url": "https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 152027,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
+        "name": "Meu Corpo Pede",
+        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Meu corpo pede",
+      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
     },
     {
       "added_at": "2025-05-23 03:00:12",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-05-23 03:00:12",
       "album": {
+        "name": "ME AMAR",
+        "url": "https://open.spotify.com/album/7ISMqKFCsDeVkROA3iDuut"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 169814,
+      "name": "ME AMAR",
+      "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
+    },
+    {
+      "added_at": "2025-05-23 03:00:12",
+      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 151032,
       "name": "LEBLON",
       "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
-    },
-    {
-      "added_at": "2025-05-23 03:00:12",
-      "album": {
-        "name": "ME AMAR",
-        "url": "https://open.spotify.com/album/7ISMqKFCsDeVkROA3iDuut"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 169814,
-      "name": "ME AMAR",
-      "url": "https://open.spotify.com/track/68jiuGIvxLu5yDQmItN5NA"
     },
     {
       "added_at": "2025-05-23 03:00:12",

@@ -1,33 +1,13 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122656,
+  "num_followers": 122681,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAASRYHz+J4WM7qEyNbruUOG",
+  "snapshot_id": "aEIvgAAAAACQ+UPiVK2ma7svHH04ECoO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "BB",
-        "url": "https://open.spotify.com/album/5QGhbXmbJYCRpYBVAg5Nyb"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Yayo",
-          "url": "https://open.spotify.com/artist/1hkeLW0oWDwSTVTiwL2sTA"
-        }
-      ],
-      "duration_ms": 269565,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3kOEFaxi3Ll1BLuiPlnXcG"
-    },
     {
       "added_at": null,
       "album": {
@@ -427,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VNDO",
-        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "VNDO",
-      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mala Fama, Buena Vidha",
         "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
@@ -491,6 +455,22 @@
       "duration_ms": 371162,
       "name": "Liga Malandra 3",
       "url": "https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VNDO",
+        "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "VNDO",
+      "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
     },
     {
       "added_at": null,
@@ -935,30 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oro en la Medalla",
-        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
-      },
-      "artists": [
-        {
-          "name": "Nash",
-          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "AYWA",
-          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Oro en la Medalla",
-      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Misi\u00f3n (Episodio 4)",
         "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
@@ -1007,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Si la muerte pregunta",
-      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mecha Corta",
         "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
       },
@@ -1039,6 +979,46 @@
       "duration_ms": 210645,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oro en la Medalla",
+        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Oro en la Medalla",
+      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
     },
     {
       "added_at": null,
@@ -1067,6 +1047,26 @@
       "duration_ms": 140053,
       "name": "Todo El Barrio",
       "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#LQMQ",
+        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "#LQMQ",
+      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
     }
   ],
   "unique_name": "This Is Dharius",

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
 
-1,248 songs - 3 day 4 hr 34 min
+1,250 songs - 3 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Blood For Blood](https://open.spotify.com/track/6Eswy1mOFIbBOsFrmDoxVE) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [What I'll Leave Behind](https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b) | 2:45 | 2024-10-18 | 2025-05-31 |
 | [Blood For Blood](https://open.spotify.com/track/6K7CKGJS74vxcW8QmyWP2p) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Blood For Blood](https://open.spotify.com/album/0ZLXQ4hfuQxAjxICWDXalb) | 2:45 | 2024-08-12 | 2024-09-01 |
 | [Blood Spiller](https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Blood Spiller](https://open.spotify.com/album/4INTfLLX0IkZALmFceJKuZ) | 4:01 | 2022-04-29 | 2022-06-11 |
+| [Blood Upon The Ashes](https://open.spotify.com/track/6gj0BlbkoBTW4ZVmHCciLd) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Blood Upon The Ashes](https://open.spotify.com/album/24BF7eMmRX9P6ngEmMltZx) | 3:44 | 2025-06-06 |  |
 | [Bloodlust](https://open.spotify.com/track/6T7preBNlVqzcA8NQmVFKl) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Bloodlust](https://open.spotify.com/album/5ePWD5FNq6tUb5DwOPHPMm) | 3:12 | 2025-03-14 | 2025-03-31 |
 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 | 2024-08-25 | 2024-09-21 |
 | [Bloom](https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Bloom](https://open.spotify.com/album/0DhnBougYQz6wzMIyxL52g) | 3:25 | 2024-10-18 | 2025-04-18 |
@@ -262,7 +263,7 @@
 | [Cut Throat](https://open.spotify.com/track/2sICZQ4Ixmet50hroTflc3) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Cut Throat](https://open.spotify.com/album/4NKyOHHQpw04ELBF9w5bur) | 3:07 | 2022-05-20 | 2022-07-23 |
 | [CYBERGIRL](https://open.spotify.com/track/6kImeXtSlXZeRfseKA5XA7) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [CYBERGIRL](https://open.spotify.com/album/60EXw9OWyY7SBXpDPAPIOX) | 3:33 | 2025-01-31 | 2025-05-03 |
 | [Cyberhex](https://open.spotify.com/track/5nYKbDASgvCDV4BLVmuGv4) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Cyberhex](https://open.spotify.com/album/2mWmMlGC2JRcFzHHPGJhNA) | 4:35 | 2022-03-11 | 2022-04-15 |
-| [CYNICAL SAVIOR](https://open.spotify.com/track/3fJAaXihvWxMVa1T2XzNsB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/79c1qw14jN0Xt6BSNNbfVu) | 3:24 | 2025-03-31 |  |
+| [CYNICAL SAVIOR](https://open.spotify.com/track/3fJAaXihvWxMVa1T2XzNsB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/79c1qw14jN0Xt6BSNNbfVu) | 3:24 | 2025-03-31 | 2025-06-08 |
 | [Cynicism](https://open.spotify.com/track/4GjtmSqCG46BgHltXa78PN) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Cynicism](https://open.spotify.com/album/3Ov10cQRZTPb17pXIbygca) | 5:00 | 2021-12-17 | 2022-01-22 |
 | [D.N.R.](https://open.spotify.com/track/4i7VEzLgepdg2J5FTsnqUH) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Will Ramos](https://open.spotify.com/artist/0cKGJiHcOele76iiBqiSMR), [Ricky Hoover](https://open.spotify.com/artist/6BiPtQhhJgcAFyTpQIQm2I) | [D.N.R.](https://open.spotify.com/album/15lkO5OuZ4U90LUnAfYUxW) | 3:32 | 2022-07-13 | 2022-07-23 |
 | [D4MAGE DONE](https://open.spotify.com/track/7BnK1opiLlkxkBQ0TVKRYw) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [D4MAGE DONE](https://open.spotify.com/album/0aLZoFfNBXhbJf7W75grCN) | 3:15 | 2023-11-27 | 2024-02-10 |
@@ -561,6 +562,7 @@
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-04-01 | 2022-07-23 |
 | [Hush](https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Welcome Home](https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu) | 3:37 | 2022-01-21 | 2022-03-18 |
 | [Hymn Of Decay](https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Hymn Of Decay](https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K) | 4:52 | 2024-05-10 | 2024-06-17 |
+| [I Am A Cursed One](https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED \(The Complete Edition\)](https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE) | 3:21 | 2025-06-06 |  |
 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 | 2025-01-31 |  |
 | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd) | 3:14 | 2025-03-14 |  |
 | [I Found The Dark Side of Heaven](https://open.spotify.com/track/2gOT76GIAA7tnrxgunCAZk) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [I Found The Dark Side of Heaven](https://open.spotify.com/album/3cSwaFQiAYI734DB88Bfni) | 3:57 | 2023-05-05 | 2024-02-10 |
@@ -984,7 +986,7 @@
 | [Sol Absentia](https://open.spotify.com/track/048bNBLjuitoM1LUbuoquz) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA \(Deluxe\)](https://open.spotify.com/album/76qhDcjWn2hw3Ig0NtX189) | 4:03 | 2022-03-18 | 2022-05-21 |
 | [Solace and Serenity](https://open.spotify.com/track/54a1FNgetgOdZEsD6PlO6s) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [E](https://open.spotify.com/album/7FXcpxnTHupS7uwEc8S5uC) | 4:37 | 2022-07-13 | 2022-07-15 |
 | [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 | 2025-01-17 | 2025-03-31 |
-| [Solace in Suffer](https://open.spotify.com/track/0q1Mg3WITHYJNWzqrmMPp1) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Back From Hell](https://open.spotify.com/album/2kImUPrlzk6KlccyOhlXAt) | 3:45 | 2025-04-25 |  |
+| [Solace in Suffer](https://open.spotify.com/track/0q1Mg3WITHYJNWzqrmMPp1) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Back From Hell](https://open.spotify.com/album/2kImUPrlzk6KlccyOhlXAt) | 3:45 | 2025-04-25 | 2025-06-08 |
 | [SOMEONE ELSE](https://open.spotify.com/track/71yPnlKcVhY98DayZdUFYH) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [SOMEONE ELSE](https://open.spotify.com/album/77UuardHSldSzZApqo95tt) | 3:26 | 2022-01-21 | 2022-04-29 |
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-06-04 | 2024-12-19 |
 | [Something In The Way](https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Something In The Way](https://open.spotify.com/album/1ZyprDf0216EbtcBS48cjz) | 3:39 | 2025-03-31 | 2025-04-26 |

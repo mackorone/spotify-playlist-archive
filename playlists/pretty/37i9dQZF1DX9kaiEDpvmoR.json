@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93391,
+  "num_followers": 93394,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Sweethearts",
         "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 283480,
       "name": "Sweethearts",
       "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "While you got me",
         "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
-      },
-      "artists": [
-        {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        }
-      ],
-      "duration_ms": 324360,
-      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 221560,
       "name": "Lake Geneva",
       "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -819,6 +803,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Men bara om min \u00e4lskade v\u00e4ntar",
         "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
       },
@@ -831,54 +831,6 @@
       "duration_ms": 213774,
       "name": "Men bara om min \u00e4lskade v\u00e4ntar",
       "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Den jag aldrig kunde va",
-        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "Den jag aldrig kunde va",
-      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Alphabet City Songs (Lost and Found Album)",
-        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "East River Park Song",
-      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Solens alla \u00e4nglar",
-        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Solens alla \u00e4nglar",
-      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -903,6 +855,54 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Den jag aldrig kunde va",
+        "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "Den jag aldrig kunde va",
+      "url": "https://open.spotify.com/track/5epuLjfS7X2LM5c0bGcBjJ"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Solens alla \u00e4nglar",
+        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Solens alla \u00e4nglar",
+      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Alphabet City Songs (Lost and Found Album)",
+        "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "East River Park Song",
+      "url": "https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Fyllda Av Sommar",
         "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 204287,
       "name": "Fyllda Av Sommar",
       "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "\u00c4lskade v\u00e4n",
+        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "duration_ms": 199336,
+      "name": "\u00c4lskade v\u00e4n",
+      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -951,22 +967,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "\u00c4lskade v\u00e4n",
-        "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        }
-      ],
-      "duration_ms": 199336,
-      "name": "\u00c4lskade v\u00e4n",
-      "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "What I'm Running From",
         "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
+        "name": "BRA",
+        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
       },
       "artists": [
         {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
         }
       ],
-      "duration_ms": 192148,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
+      "duration_ms": 163005,
+      "name": "BRA",
+      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "BRA",
-        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
       "artists": [
         {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
         }
       ],
-      "duration_ms": 163005,
-      "name": "BRA",
-      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
+      "duration_ms": 192148,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1047,6 +1047,30 @@
       "duration_ms": 174400,
       "name": "It's a love cult!",
       "url": "https://open.spotify.com/track/0Dd8kzlLm9vYXCsWb0esp6"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Til the music starts again",
+        "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
+      },
+      "artists": [
+        {
+          "name": "Banna Sona Band",
+          "url": "https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL"
+        },
+        {
+          "name": "Frida \u00d6hrn",
+          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Kalle Moraeus",
+          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Til the music starts again",
+      "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1079,30 +1103,6 @@
       "duration_ms": 206800,
       "name": "Just idag \u00e4r jag stark",
       "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Til the music starts again",
-        "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
-      },
-      "artists": [
-        {
-          "name": "Banna Sona Band",
-          "url": "https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL"
-        },
-        {
-          "name": "Frida \u00d6hrn",
-          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
-        },
-        {
-          "name": "Kalle Moraeus",
-          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "Til the music starts again",
-      "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
-        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
+        "name": "Du l\u00e4ngtar bort",
+        "url": "https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        },
+        {
+          "name": "Kristin Amparo",
+          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Han lever (Himmelsf\u00e4rden)",
-      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
+      "duration_ms": 273287,
+      "name": "Du l\u00e4ngtar bort",
+      "url": "https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1235,26 +1239,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Du l\u00e4ngtar bort",
-        "url": "https://open.spotify.com/album/6QNGCI3PqSDORrueoaC5wK"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        },
-        {
-          "name": "Kristin Amparo",
-          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
-        }
-      ],
-      "duration_ms": 273287,
-      "name": "Du l\u00e4ngtar bort",
-      "url": "https://open.spotify.com/track/7wHzj6EPkLK8GasG0NVFe0"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "It\u2019s Time",
         "url": "https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG"
       },
@@ -1267,6 +1251,38 @@
       "duration_ms": 226738,
       "name": "It\u2019s Time",
       "url": "https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Via Dolorosa, Maria Magdalenas k\u00e4rlek",
+        "url": "https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Han lever (Himmelsf\u00e4rden)",
+      "url": "https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Dance Cry Laugh Smile",
+        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1287,26 +1303,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
-        "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
+        "name": "\u00c4rligt misstag",
+        "url": "https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU"
       },
       "artists": [
         {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        },
-        {
-          "name": "Johnny Logan",
-          "url": "https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc"
-        },
-        {
-          "name": "\u00c5sa Jinder",
-          "url": "https://open.spotify.com/artist/0WIJklwnefNN9A2XeHqTxG"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 246761,
-      "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
-      "url": "https://open.spotify.com/track/2UpJkYhDzt8HQk6i6Z77w8"
+      "duration_ms": 149750,
+      "name": "\u00c4rligt misstag",
+      "url": "https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1335,18 +1343,26 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "\u00c4rligt misstag",
-        "url": "https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU"
+        "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
+        "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        },
+        {
+          "name": "Johnny Logan",
+          "url": "https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc"
+        },
+        {
+          "name": "\u00c5sa Jinder",
+          "url": "https://open.spotify.com/artist/0WIJklwnefNN9A2XeHqTxG"
         }
       ],
-      "duration_ms": 149750,
-      "name": "\u00c4rligt misstag",
-      "url": "https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs"
+      "duration_ms": 246761,
+      "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
+      "url": "https://open.spotify.com/track/2UpJkYhDzt8HQk6i6Z77w8"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "All I See Is You",
-        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "A Sinner's Life",
         "url": "https://open.spotify.com/album/5Nifo1lIWSMahJWQWbTZjQ"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 187137,
       "name": "A Sinner's Life",
       "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "All I See Is You",
+        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1491,22 +1507,6 @@
       "duration_ms": 272980,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Sommar",
-        "url": "https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu"
-      },
-      "artists": [
-        {
-          "name": "Staffan Hellstrand",
-          "url": "https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "Mitt i min stad",
-      "url": "https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn"
     },
     {
       "added_at": "2025-06-05 22:00:40",

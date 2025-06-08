@@ -1,6 +1,6 @@
 {
   "description": "aziahdifksahiqhk / foto: Ed Sheeran",
-  "num_followers": 605567,
+  "num_followers": 605501,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-05-23 20:26:31",
       "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
+    },
+    {
+      "added_at": "2025-05-23 20:26:31",
+      "album": {
         "name": "Music For People Who Believe In Love",
         "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 214735,
       "name": "What We Are (with Lu\u00edsa Sonza)",
       "url": "https://open.spotify.com/track/6Z59PmHDQDJxjo5UnXky6n"
-    },
-    {
-      "added_at": "2025-05-23 20:26:31",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2025-05-23 20:26:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-05-23 20:26:31",
       "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 144424,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
-    },
-    {
-      "added_at": "2025-05-23 20:26:31",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 253057,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
+    },
+    {
+      "added_at": "2025-05-23 20:26:31",
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 144424,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
     },
     {
       "added_at": "2025-05-23 20:26:31",

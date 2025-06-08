@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuScfAxLGSt.md) - [plain]
 
 > Enjoy music from "Free!"! /水泳と青春と絆の物語「Free!」の世界をプレイリストで。©おおじこうじ・京都アニメーション／岩鳶高校水泳部
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,272 likes - 105 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,283 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuScfAxLGSt.md) - [plain]
 | 104 | [The final stroke](https://open.spotify.com/track/0cVHoUjuKju3gZbHXFosCN) | [Tatsuya Kato](https://open.spotify.com/artist/3yCSsowbFp3FCOTwmC1Gah) | ["Free!\-the Final Stroke\-" the second volume Original Soundtrack: Never Ending Blue](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 6:32 |
 | 105 | [What's your next target?](https://open.spotify.com/track/2tpBo2mhJJwiSLupCDqbAw) | [Tatsuya Kato](https://open.spotify.com/artist/3yCSsowbFp3FCOTwmC1Gah) | ["Free!\-the Final Stroke\-" the second volume Original Soundtrack: Never Ending Blue](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:49 |
 
-Snapshot ID: `ZIxVaQAAAADzp85tz9ZONALFRloZsNvZ`
+Snapshot ID: `AAAAAMzCr5WZk5mee7SeuOS0U79RH3iM`

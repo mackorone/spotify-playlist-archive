@@ -4,7 +4,7 @@
 
 > Your frequency for today's pop tracks, via South Africa\. Cover: <a href="https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=mCWOw4cDT7icuc\_WzKbQDw">Sabrina Carpenter</a>
 
-471 songs - 1 day 1 hr 20 min
+473 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cigarettes](https://open.spotify.com/track/3RU8NyQwkwPIw4L3kR7I4a) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Cigarettes](https://open.spotify.com/album/4IjxbjGFR6SfCW46ZgQVdk) | 2:29 | 2024-08-23 | 2024-10-19 |
 | [Cinematic](https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Cinematic](https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG) | 3:16 | 2025-05-15 |  |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2025-03-20 | 2025-03-28 |
-| [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 | 2025-04-10 |  |
+| [Citrus](https://open.spotify.com/track/45bXXyFCZPrRDIdhjaQUHU) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Citrus](https://open.spotify.com/album/35wtAN1hExKJFtW18MUpIX) | 3:07 | 2025-04-10 | 2025-06-08 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-07-11 | 2024-11-08 |
 | [Cocaine Kisses](https://open.spotify.com/track/2eIvCJ0Fe47ihAq8FQy6cd) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Cocaine Kisses](https://open.spotify.com/album/0Rt3EXbUHOvhD26EnoYwEo) | 3:13 | 2024-11-21 | 2024-11-29 |
 | [come over](https://open.spotify.com/track/23G0Q5CFkkilmq70XRBKZe) | [Zoë Cupido](https://open.spotify.com/artist/06QBpd9kLcrz7NHPYr3UkA) | [come over](https://open.spotify.com/album/1o5oIJttHdJyqvaZKS5myh) | 2:24 | 2025-05-01 | 2025-05-31 |
@@ -175,6 +175,7 @@
 | [Hand Me Downs](https://open.spotify.com/track/2urVnZNYyycyyMBDgLZb3o) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Hand Me Downs](https://open.spotify.com/album/3FhTSTkgDYt2x6dwbGazkm) | 2:23 | 2025-05-15 | 2025-06-07 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 | 2025-03-12 |
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-11-15 | 2024-11-22 |
+| [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 | 2025-06-06 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2025-03-20 | 2025-04-04 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-04-30 |
 | [Hey, Soul Sister](https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hey, Soul Sister](https://open.spotify.com/album/5lTCUyQrKcSmcw5ULkt75O) | 3:36 | 2025-04-10 | 2025-04-18 |
@@ -414,7 +415,7 @@
 | [Through the Windowsill](https://open.spotify.com/track/6bWgljsieAr0YhZtKrqLzq) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Through the Windowsill](https://open.spotify.com/album/59KdqWni3CiDMMpnUQB00e) | 3:04 | 2024-07-11 | 2024-07-19 |
 | [Throwing Your French Fries](https://open.spotify.com/track/3B4dHpRyntyuG78GIyDXip) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Pink Hell](https://open.spotify.com/album/55rL0l4dFnyycESlhE91NW) | 2:56 | 2025-04-10 | 2025-04-18 |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2025-03-20 | 2025-03-28 |
-| [Till the Sun Comes Up](https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Till the Sun Comes Up](https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9) | 3:43 | 2025-05-22 |  |
+| [Till the Sun Comes Up](https://open.spotify.com/track/3PE4TOJQ5NlP21Xc1Ptqig) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Till the Sun Comes Up](https://open.spotify.com/album/1P4kytlTj9436utfvnQ9c9) | 3:43 | 2025-05-22 | 2025-06-08 |
 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-03-11 | 2025-03-14 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 |  |
 | [Too Much To Say](https://open.spotify.com/track/6Odxbe9wixPpSlCnOyh5Ow) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Too Much To Say](https://open.spotify.com/album/0OVwfFpOM8J5CgRJr7XVaL) | 2:53 | 2024-11-21 | 2025-01-24 |
@@ -423,6 +424,7 @@
 | [Top Of Mind](https://open.spotify.com/track/5eqUfcX1d5e6Tg1H6ZgUl3) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Top Of Mind](https://open.spotify.com/album/3JnKDT4jFI8yl5hC2CsUw1) | 2:35 | 2025-01-30 | 2025-03-14 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-11-07 | 2025-03-14 |
 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2024-11-28 | 2025-01-31 |
+| [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-06 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2024-07-12 |
 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 | 2025-03-20 | 2025-05-30 |
 | [Try Your Luck](https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 2:43 | 2025-05-22 |  |

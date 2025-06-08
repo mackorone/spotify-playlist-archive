@@ -4,7 +4,7 @@
 
 > Det er fredag! Ny musik fra MORTEN og Nik & Jay, Bette og mange flere 👀
 
-5,820 songs - 12 day 12 hr 28 min
+5,820 songs - 12 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [Casablanca](https://open.spotify.com/track/6EKnz3jbTmF3JTxdzv9vLR) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Casablanca](https://open.spotify.com/album/1YUWHlk9KMshoyuUisiS36) | 2:18 | 2024-11-28 | 2024-12-06 |
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-04-24 | 2025-05-02 |
 | [Casanova](https://open.spotify.com/track/3YuOIXG0guZ6Xcx2RK78tX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Casanova](https://open.spotify.com/album/46H3sr9vLFyblAat0j3HTW) | 3:09 | 2024-08-01 | 2024-08-09 |
-| [Cash Out](https://open.spotify.com/track/1VZnv0F4z84RGtA8gC2xM2) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Alene I Verden](https://open.spotify.com/album/0bIGBegMuy631r4JQJ14VW) | 3:19 | 2025-06-05 |  |
+| [Cash Out](https://open.spotify.com/track/1VZnv0F4z84RGtA8gC2xM2) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Alene I Verden](https://open.spotify.com/album/0bIGBegMuy631r4JQJ14VW) | 2:43 | 2025-06-05 |  |
 | [Casual Sex](https://open.spotify.com/track/38BvdsnJVJ7uEeZLG3gmm6) | [Oliver Cubilla](https://open.spotify.com/artist/3WMuLLWLmJ4IEXdzFHWg8X) | [Casual Sex](https://open.spotify.com/album/0KUZfqBKE4docRHeYf4ZPw) | 2:51 | 2025-01-30 | 2025-02-07 |
 | [Casual Weeknd](https://open.spotify.com/track/0Y21CcOTYfJAcdJdo5tbPA) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Casual Weeknd](https://open.spotify.com/album/3OfA5IKvyEfAqo6U5TVq6Z) | 2:16 | 2025-05-29 | 2025-06-06 |
 | [Catch Fire](https://open.spotify.com/track/0ZXdhjDOM6LPrmUjUlRYJi) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Catch Fire](https://open.spotify.com/album/6VPisLb36V8VxxQhs0RyDH) | 1:59 | 2024-10-31 | 2024-11-08 |

@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-19",
+      "date_removed": null,
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
@@ -3870,6 +3870,10 @@
         {
           "name": "The Shins",
           "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
         }
       ],
       "date_added": "2023-04-17",

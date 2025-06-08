@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 33038,
+  "num_followers": 33068,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAABDa9wn7zdxZ4OJmm2F9pC+",
+  "snapshot_id": "aEIvgAAAAABknNJUfPq427w/FMoN/LbM",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escorpion",
-        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Qu\u00e9 Bonito Amor",
-      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
+      "duration_ms": 150706,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150706,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
+      "duration_ms": 158306,
+      "name": "Qu\u00e9 Bonito Amor",
+      "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "El Zancudito",
-      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 136226,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153861,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
+      "duration_ms": 156706,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+      "duration_ms": 153861,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/6nHrWozXC34srv6OaCjihS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "Hambriento Como Lobo",
-      "url": "https://open.spotify.com/track/6r49n2ZMvRHE7ybe4ZT9lX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158157,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/6nHrWozXC34srv6OaCjihS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "Hambriento Como Lobo",
+      "url": "https://open.spotify.com/track/6r49n2ZMvRHE7ybe4ZT9lX"
     },
     {
       "added_at": null,

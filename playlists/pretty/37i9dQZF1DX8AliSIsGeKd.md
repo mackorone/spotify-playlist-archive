@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Wave Wave, Rafael Cerato
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,397 likes - 90 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,541 likes - 90 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Pancake](https://open.spotify.com/track/2GtBMEHWU2vPc0sd0S9Nmv) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Pancake](https://open.spotify.com/album/7klfrfUQU2vmnPtf0jpqf5) | 3:47 |
 | 90 | [Down To The Underground](https://open.spotify.com/track/1RwwF8LtefRML2XrXlO26W) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Down To The Underground](https://open.spotify.com/album/1ecl8UVj3ShYLEIpv86Es3) | 2:52 |
 
-Snapshot ID: `aEITngAAAAABKWwHtyF5MZomHUpR1pFg`
+Snapshot ID: `aEITngAAAABZ09ytW5F1h7LJeFql1I1d`

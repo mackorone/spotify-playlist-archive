@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14322,
+  "num_followers": 14320,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKXQOOWbNb1RpsH7xailj8pQxmpydA",
+  "snapshot_id": "AAAKXgyI1W689aag1boSO1urbj5ba3g2",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -2759,6 +2759,30 @@
       "duration_ms": 149959,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0"
+    },
+    {
+      "added_at": "2025-06-07 23:02:52",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/4lfTQlhIe89eQJlIF2yhE7"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Erire",
+          "url": "https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj"
+        }
+      ],
+      "duration_ms": 194409,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/0PPi1m29PJixaV00zIngDc"
     }
   ],
   "unique_name": "Ultra Club Hits",

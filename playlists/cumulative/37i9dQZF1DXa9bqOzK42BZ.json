@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Amefanya Mungu",
+        "url": "https://open.spotify.com/album/7KIPjJxXSJj7e7JS0E338l"
+      },
+      "artists": [
+        {
+          "name": "Wapendwa Muziki",
+          "url": "https://open.spotify.com/artist/0oQZ4CZl0ae17o8Ql7xlhK"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Amefanya Mungu",
+      "url": "https://open.spotify.com/track/4vrGrDdrckpQCZ3PvVM2jn"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/3aw2pwC0ISCLLNiXDhULFe"
       },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 227351,
       "name": "Tabasamu",
       "url": "https://open.spotify.com/track/5WmaLicBL3JgFTacMphY4K"

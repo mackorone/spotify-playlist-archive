@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ JIVEBOMB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,817 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,855 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Positions of Power](https://open.spotify.com/track/1xT9m6qJL4FbuoiNMB3Au5) | [Skullpresser](https://open.spotify.com/artist/074HajIHsqL6ax3y72BtN9) | [Positions of Power](https://open.spotify.com/album/4IbPhWqkRy3E5fCr1saj1H) | 1:40 |
 | 100 | [Useless](https://open.spotify.com/track/4GMoHZN5FNKvkGTu6Zj2Vn) | [The Chain](https://open.spotify.com/artist/6SsQ6BE9yimzChcbNxY29U) | [Useless](https://open.spotify.com/album/0kr8smucpCjp8zrZXsqV37) | 1:46 |
 
-Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`
+Snapshot ID: `Z+9ZZAAAAAAOWTlr2+8aEJ9gRhn17fo1`

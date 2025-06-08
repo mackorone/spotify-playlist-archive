@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-648 songs - 2 day 1 hr 24 min
+650 songs - 2 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Deadnight Warrior](https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Deadnight Warrior](https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK) | 2:53 | 2023-03-24 | 2023-04-15 |
 | [Death Turns a Blind Eye](https://open.spotify.com/track/1rMyi6rRj9eN3Fd2pGxWo3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i) | [Death Turns a Blind Eye](https://open.spotify.com/album/4MAKiNZ83l1aNAXfdgrXDA) | 5:32 | 2021-06-19 | 2021-10-23 |
 | [Decayer](https://open.spotify.com/track/6BZFeisu2l3kkVm2C2hYzK) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 4:46 | 2022-07-13 | 2022-07-23 |
-| [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 | 2024-07-26 |  |
+| [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 | 2024-07-26 | 2025-06-08 |
 | [Deliver Us From Evil](https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Deliver Us From Evil](https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO) | 5:21 | 2021-12-04 | 2022-06-18 |
 | [Delusion](https://open.spotify.com/track/6A6aJxfbI3FxwZLZpGYkpV) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Delusion](https://open.spotify.com/album/1zDi3Uv4ss4Hm8qjPzDivj) | 3:04 | 2021-10-09 | 2022-05-14 |
 | [Demons Are A Girl's Best Friend](https://open.spotify.com/track/12frB4w7ukdn1hzfBiWRjq) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Demons Are A Girl's Best Friend](https://open.spotify.com/album/6SFftjmYjvGAvRa2k8WHWC) | 3:37 | 2021-06-11 | 2021-06-25 |
@@ -305,6 +305,7 @@
 | [Lempo](https://open.spotify.com/track/3WzAw4smXmAsSyXVEE09Qb) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Noita](https://open.spotify.com/album/0VjxxvMfRb10KB92WYbgqN) | 5:35 | 2020-11-29\* | 2021-09-04 |
 | [Let the Fire Rain](https://open.spotify.com/track/4e1sizUvzt4tOquIcEmDpm) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Let the Fire Rain](https://open.spotify.com/album/7IUt3b9v6otoNjqG6WdLbc) | 4:35 | 2021-02-19 | 2021-12-04 |
 | [Leväluhta](https://open.spotify.com/track/7K5ySzyv9GGJcfNCt5SECJ) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Leväluhta](https://open.spotify.com/album/1zdumiD4KGbWRRyE3SPPeL) | 3:49 | 2020-11-29\* | 2021-02-12 |
+| [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 | 2025-06-06 |  |
 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 | 2023-01-06 |  |
 | [Lightcrawler](https://open.spotify.com/track/3c75Oqo0wHwivF3Op9CJtu) | [Nothgard](https://open.spotify.com/artist/1PAbtuWk6jScTI9ImsDC8C) | [Lightcrawler](https://open.spotify.com/album/1YIZ5WjiSSJ9unh5JXWgYj) | 4:28 | 2020-11-29\* | 2021-10-16 |
 | [Like a Willow Without Tears](https://open.spotify.com/track/68zrSmYQY9SgU17yHuIH4v) | [Metalwings](https://open.spotify.com/artist/3VBzzOmjwLUcUaxT7JxVGF) | [A Whole New Land](https://open.spotify.com/album/2R9QHxmFsEkH82ObGasqsk) | 5:39 | 2021-06-11 | 2022-02-11 |
@@ -479,6 +480,7 @@
 | [Shelter](https://open.spotify.com/track/5cK7Q9uzI4onZE7zVhQnw7) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Oscillate](https://open.spotify.com/album/1nsHYACVLo93RusBYHmPXV) | 6:55 | 2022-07-13 | 2022-07-30 |
 | [Sidewinder](https://open.spotify.com/track/4Yvh6BVDGa48HbT0soGqmy) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Sidewinder](https://open.spotify.com/album/0oXXszGRrHIh2a86NNgMJ4) | 4:17 | 2021-05-21 | 2021-06-25 |
 | [Signals \- Instrumental](https://open.spotify.com/track/2DQeD4Y1LDOtKgE0jWqezB) | [Interlinked](https://open.spotify.com/artist/5dogEJKbOwyTKNa2WSc8j4) | [Signals \(Instrumental\)](https://open.spotify.com/album/4oKgbfG317J939zpkccwiS) | 3:52 | 2022-07-13 | 2022-07-17 |
+| [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 | 2025-06-06 |  |
 | [Silverseal](https://open.spotify.com/track/421kSDSrylQ3AtZAyLE9Of) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Silverseal](https://open.spotify.com/album/2byJce3B4vOCdlu6Nt88a6) | 3:39 | 2020-11-29\* | 2021-05-21 |
 | [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 | 2025-05-16 |  |
 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 | 2024-06-24 |  |
@@ -523,7 +525,7 @@
 | [The Abyss](https://open.spotify.com/track/5AoWP6n2TXmb1ZpZ5Rvy9K) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr) | [The Abyss](https://open.spotify.com/album/5UP5HLrwS7znF3jvgUzZpq) | 3:40 | 2022-07-13 | 2022-07-30 |
 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 | 2024-06-24 |  |
 | [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 | 2022-02-11 | 2025-05-10 |
-| [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 | 2021-12-11 |  |
+| [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 | 2021-12-11 | 2025-06-08 |
 | [The Call of the Mountains](https://open.spotify.com/track/5P22hTnPNDK7LbAD6k7syp) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT), [Masha Scream](https://open.spotify.com/artist/0rKNwdazSGDxEvTaNNxu6X) | [The Call of the Mountains & Ambiramus in Russian](https://open.spotify.com/album/0ifBPqJ1ol8j1H0G8cjZPa) | 4:14 | 2020-11-29\* | 2021-07-10 |
 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 | 2024-02-23 |  |
 | [The Crown and the Ring](https://open.spotify.com/track/1HtsvQYdss4JESyNjLwK0N) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Crown and the Ring](https://open.spotify.com/album/2QGVSOtuG50JyTMa9EUQss) | 5:17 | 2021-08-14 | 2022-04-09 |

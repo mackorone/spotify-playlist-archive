@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31589,
+  "num_followers": 31585,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAABb76DNRgZ44iE+vszDchGp",
+  "snapshot_id": "aEIvgAAAAABqMbw/u9GTlvL3HIoExJMV",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Meses Tarde (Ptm)",
-        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 214557,
-      "name": "50 Meses Tarde (Ptm)",
-      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo de Gigantes",
         "url": "https://open.spotify.com/album/3clfNcjfrCsU8cD0Uvv5ol"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 157066,
       "name": "Polvo de Gigantes",
       "url": "https://open.spotify.com/track/3SiGPL00m2bqQ7HCchTL0F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 Meses Tarde (Ptm)",
+        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "50 Meses Tarde (Ptm)",
+      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mujer Perfecta",
-        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
-      },
-      "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "La Mujer Perfecta",
-      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminando en Fuego",
         "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 245600,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/2EZeX3b1nCIVyOd215dIhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Pedacito de Ti",
-        "url": "https://open.spotify.com/album/0CiSex1YY0FmwkzZBsrQNy"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Un Pedacito de Ti",
-      "url": "https://open.spotify.com/track/1j8JC06xzRbmlDsXXjKDLw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecho Para Ti",
         "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200706,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Pedacito de Ti",
+        "url": "https://open.spotify.com/album/0CiSex1YY0FmwkzZBsrQNy"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Un Pedacito de Ti",
+      "url": "https://open.spotify.com/track/1j8JC06xzRbmlDsXXjKDLw"
     },
     {
       "added_at": null,

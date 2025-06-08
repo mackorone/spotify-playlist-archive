@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,838 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,918 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/5rJJnYeAeIsb0T4FkiaUvX) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/5IMR5hthbd22t2Dv7vMr04) | 3:34 |
 | 85 | [My Sex](https://open.spotify.com/track/4F797Kz0zqZiMxNcRdO8R2) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox! \(Remastered & Expanded\)](https://open.spotify.com/album/3ela6V5X5cG9e4HM3ox04x) | 3:02 |
 
-Snapshot ID: `ZltH3gAAAAALDWOQuzTxYea3FNwMOD/K`
+Snapshot ID: `AAAAAJXYdF1yve+3f7Rp5KGZsU7g4JxS`

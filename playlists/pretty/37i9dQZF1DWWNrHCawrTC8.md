@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 
 > revisit one of hip\-hop's most of exciting eras
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,225 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,340 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 | 74 | [Letter To My Son](https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi) | [Don Trip](https://open.spotify.com/artist/0W6Vi3JrMz1BtEOUqG2mcG), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Letter To My Son](https://open.spotify.com/album/1tJwDeOUpDGZ1KiUVemFJT) | 4:00 |
 | 75 | [Fat Raps](https://open.spotify.com/track/6xNjKjNStlwVHP7igLq89T) | [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [Fat Raps](https://open.spotify.com/album/4Bz4kWLs20sEIPOQmO0c3J) | 3:20 |
 
-Snapshot ID: `Z4VgfAAAAAAesjwesHSV7MrNHWiBVe35`
+Snapshot ID: `AAAAAFtOHX1lhxbZbXer2ixttkRn1G1w`

@@ -4,7 +4,7 @@
 
 > All new Contemporary Christian songs on the rise! Cover: Ben Fuller
 
-583 songs - 1 day 12 hr 15 min
+584 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [I Trust You](https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [I Trust You](https://open.spotify.com/album/56nxYWU99mGNr0nSlOQhzR) | 4:17 | 2025-04-04 |  |
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-05-27 | 2022-10-30 |
 | [I Won’t Lose Heart](https://open.spotify.com/track/3eoIVgXqN3rjKIOX8oYlg3) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [I Won’t Lose Heart](https://open.spotify.com/album/3KlWAcAvrsF6yyLfOUBG3Y) | 3:11 | 2025-04-18 | 2025-05-03 |
-| [I'm Gonna Let It Go \- Acoustic](https://open.spotify.com/track/3aoGfI1YdOdcHzO39dCFgT) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [I'm Gonna Let It Go \(Acoustic\)](https://open.spotify.com/album/4np1I5QM4USihziWv8PoH5) | 3:26 | 2025-06-06 |  |
+| [I'm Gonna Let It Go \- Acoustic](https://open.spotify.com/track/3aoGfI1YdOdcHzO39dCFgT) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [I'm Gonna Let It Go \(Acoustic\)](https://open.spotify.com/album/4np1I5QM4USihziWv8PoH5) | 3:26 | 2025-06-06 | 2025-06-08 |
 | [I'm Open](https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [I'm Open](https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM) | 3:34 | 2022-05-27 | 2022-10-30 |
 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-29 | 2024-06-08 |
 | [I've Got A Story \(feat\. Tori Kelly\)](https://open.spotify.com/track/36eSZRHIYEE1zFN3aAjjAN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:23 | 2025-04-04 |  |
@@ -569,6 +569,7 @@
 | [Wholeheartedly](https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL) | [Wholeheartedly](https://open.spotify.com/album/7fLxkmNRG2RX4g3XCI6FqD) | 4:00 | 2025-02-07 | 2025-05-01 |
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-05-27 | 2024-06-08 |
 | [Wild Faith](https://open.spotify.com/track/0mjwvSKLLVxaGj0dq6mcZ1) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Wild Faith](https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T) | 4:24 | 2024-06-07 | 2024-08-10 |
+| [WILD!](https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah) | [Chris Ekiss](https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty) | [WILD!](https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD) | 3:30 | 2025-06-07 |  |
 | [Wings](https://open.spotify.com/track/4oVD2MGCXFOJ2fPdaqP7fY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wings](https://open.spotify.com/album/70bnPMZVFC1J1QOKqnhB8z) | 2:55 | 2024-10-11 | 2025-03-15 |
 | [with me](https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [with me](https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG) | 2:01 | 2024-10-11 | 2025-02-08 |
 | [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 | 2022-10-29 | 2024-06-08 |

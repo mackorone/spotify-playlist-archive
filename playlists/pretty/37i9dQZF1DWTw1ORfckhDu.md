@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa ibe ja Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,049 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,055 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [MO MONEY](https://open.spotify.com/track/23i0xkaMkfWJFZKtU8KDLu) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MO MONEY](https://open.spotify.com/album/30WEad7hUqdDBbl7A8ZEfB) | 1:53 |
 | 50 | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/track/18smYx5xWfZdgHJFSGoOLd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/album/06IN12ns5sDGdWZktzJF31) | 2:41 |
 
-Snapshot ID: `aEIFjwAAAAAC9/jQCrIlJTh0/b0pBZNu`
+Snapshot ID: `AAAAAOtyIqhEmS3MQfj960H6Gp6Acr2x`

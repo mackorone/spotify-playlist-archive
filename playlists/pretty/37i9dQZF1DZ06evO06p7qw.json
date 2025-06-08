@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 178356,
+  "num_followers": 178416,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAA4GyhhaNA8xdbyTn0p8Toj",
+  "snapshot_id": "aEIvgAAAAAClq3vY+6gZmm/gRG8RGi+e",
   "tracks": [
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerpo y Alma",
-        "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
       },
       "artists": [
-        {
-          "name": "Beatriz Luengo",
-          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Cadillac (feat. Manuel Medrano)",
-      "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
+      "duration_ms": 303990,
+      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
     },
     {
       "added_at": null,
@@ -863,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+        "name": "Cuerpo y Alma",
+        "url": "https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9"
       },
       "artists": [
+        {
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 303990,
-      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
+      "duration_ms": 207733,
+      "name": "Cadillac (feat. Manuel Medrano)",
+      "url": "https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI"
     },
     {
       "added_at": null,

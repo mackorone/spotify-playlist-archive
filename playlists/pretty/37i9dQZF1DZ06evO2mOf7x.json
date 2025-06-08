@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46090,
+  "num_followers": 46100,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAABspbkmfEKWP/I8IFecGQOs",
+  "snapshot_id": "aEIvgAAAAABepvzYhnUGXOC099PvRmNM",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor y Veneno",
+        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Amor y Veneno",
+      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Caminos de la Vida",
         "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
       },
@@ -907,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor y Veneno",
-        "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
+        "name": "Bienvenida La Vida",
+        "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
       },
       "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 209732,
-      "name": "Amor y Veneno",
-      "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+      "duration_ms": 234208,
+      "name": "Amor Perfecto",
+      "url": "https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo"
     },
     {
       "added_at": null,
@@ -955,26 +975,6 @@
       "duration_ms": 215906,
       "name": "Yo Ya No Estoy",
       "url": "https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bienvenida La Vida",
-        "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 234208,
-      "name": "Amor Perfecto",
-      "url": "https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo"
     },
     {
       "added_at": null,

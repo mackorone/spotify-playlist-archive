@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAA8ya0K41HFo54jym0ZYyiv",
+  "snapshot_id": "aEIvgAAAAADTYAw8HXqObR0EnzuTfJ4s",
   "tracks": [
     {
       "added_at": null,
@@ -287,54 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
-        "url": "https://open.spotify.com/album/5WckkHkSVlDEpMdf0KtNr9"
+        "name": "Amor Yo Te Perd\u00ed La Fe",
+        "url": "https://open.spotify.com/album/2IWmVsTMYnI3EhFEuEmhzw"
       },
       "artists": [
         {
-          "name": "Tony Succar",
-          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
-        },
-        {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        },
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Ezio Oliva",
-          "url": "https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln"
-        },
-        {
-          "name": "Lucho Quequezana",
-          "url": "https://open.spotify.com/artist/26602pmPYeVz6KXGldVTEu"
-        },
-        {
-          "name": "Sonia Morales",
-          "url": "https://open.spotify.com/artist/6fWtb6DzqSMMDSxRAUiFFb"
-        },
-        {
-          "name": "Bartola",
-          "url": "https://open.spotify.com/artist/1XbwufcjNzo4kSHBDcBpd6"
-        },
-        {
-          "name": "Christian Yaip\u00e9n",
-          "url": "https://open.spotify.com/artist/5Hcw0zvINciBD0LZv13oNL"
-        },
-        {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
-        },
-        {
-          "name": "Guillermo Bussinger",
-          "url": "https://open.spotify.com/artist/6RikhFPOTZtU9sDL55VQn3"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Cuando Pienses en Volver - Versi\u00f3n Cumbia- Salsa",
-      "url": "https://open.spotify.com/track/2eeLReh5i1YWCkp5zUfQrW"
+      "duration_ms": 173266,
+      "name": "Amor Yo Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0w73EI2Te3GGbPSZgG93Uc"
     },
     {
       "added_at": null,
@@ -387,18 +351,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Yo Te Perd\u00ed La Fe",
-        "url": "https://open.spotify.com/album/2IWmVsTMYnI3EhFEuEmhzw"
+        "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
+        "url": "https://open.spotify.com/album/5WckkHkSVlDEpMdf0KtNr9"
       },
       "artists": [
         {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        },
+        {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Ezio Oliva",
+          "url": "https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln"
+        },
+        {
+          "name": "Lucho Quequezana",
+          "url": "https://open.spotify.com/artist/26602pmPYeVz6KXGldVTEu"
+        },
+        {
+          "name": "Sonia Morales",
+          "url": "https://open.spotify.com/artist/6fWtb6DzqSMMDSxRAUiFFb"
+        },
+        {
+          "name": "Bartola",
+          "url": "https://open.spotify.com/artist/1XbwufcjNzo4kSHBDcBpd6"
+        },
+        {
+          "name": "Christian Yaip\u00e9n",
+          "url": "https://open.spotify.com/artist/5Hcw0zvINciBD0LZv13oNL"
+        },
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        },
+        {
+          "name": "Guillermo Bussinger",
+          "url": "https://open.spotify.com/artist/6RikhFPOTZtU9sDL55VQn3"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Amor Yo Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0w73EI2Te3GGbPSZgG93Uc"
+      "duration_ms": 252133,
+      "name": "Cuando Pienses en Volver - Versi\u00f3n Cumbia- Salsa",
+      "url": "https://open.spotify.com/track/2eeLReh5i1YWCkp5zUfQrW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,281 songs - 9 day 20 hr 57 min
+4,282 songs - 9 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1424,6 +1424,7 @@
 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 | 2024-05-31 | 2024-06-12 |
 | [Fronteo](https://open.spotify.com/track/1FgRqvDgKIo3ydufApAkFw) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Fronteo](https://open.spotify.com/album/0TwtIIAK6t3GDjxgs1NSLW) | 2:15 | 2025-05-23 | 2025-05-31 |
 | [Frozen](https://open.spotify.com/track/77QG3r1epNDDdjRkt9sGSQ) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Frozen](https://open.spotify.com/album/6x7gJMo32x5117b9xm9Cco) | 2:19 | 2025-04-18 | 2025-04-26 |
+| [Frozen](https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Frozen](https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV) | 3:21 | 2025-06-07 |  |
 | [Fruit Wine](https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Fruit Wine](https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF) | 2:51 | 2024-05-09 | 2024-05-18 |
 | [FRÁGIL](https://open.spotify.com/track/6TvOXCMKPROhyP4IR4Pdsu) | [DENNA](https://open.spotify.com/artist/0giXcUshXQbUZmiKFMlHEs) | [FRÁGIL](https://open.spotify.com/album/38CaaQVbitX78QDZJoqupA) | 3:06 | 2024-11-22 | 2024-11-30 |
 | [Frágil](https://open.spotify.com/track/1RrWMMf7PUeVwHfHPf8Sz8) | [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Presto y con Toda la Fuerza](https://open.spotify.com/album/64kT7gO2TXr4Mzgg255ZoY) | 2:06 | 2025-04-25 | 2025-05-10 |
@@ -2683,7 +2684,7 @@
 | [NOS DESCONOXIMOS](https://open.spotify.com/track/27CpmKxBYrVMveaWeClewo) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [NOS DESCONOXIMOS](https://open.spotify.com/album/3it9L6RJ2kxLUYfirPAB5Z) | 2:48 | 2025-02-28 | 2025-03-08 |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-02-07 | 2025-02-15 |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-20 | 2024-09-28 |
-| [Nostalgia](https://open.spotify.com/track/3VoAuXntmW1YglwJP2bkEy) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Nostalgia](https://open.spotify.com/album/6LL5XadEjLm70ZLwmTd3so) | 4:55 | 2025-06-06 |  |
+| [NOSTALGIA](https://open.spotify.com/track/3VoAuXntmW1YglwJP2bkEy) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [NOSTALGIA](https://open.spotify.com/album/6LL5XadEjLm70ZLwmTd3so) | 4:55 | 2025-06-06 |  |
 | [Not A Game \- feat\. Lucy Rose](https://open.spotify.com/track/4txfgFG1DgnRWB9Q5tXOuA) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Aquarius III](https://open.spotify.com/album/2Sgg02H2euJ1x6eZAysstY) | 2:19 | 2025-01-17 | 2025-01-25 |
 | [Not a Pretty Girl](https://open.spotify.com/track/7oL7jAZkNyolF1H15Fhlm1) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Not a Pretty Girl](https://open.spotify.com/album/1ccSKPr6kaNtnJkYPiwMRh) | 1:45 | 2025-03-28 | 2025-04-05 |
 | [NOT ANYMORE](https://open.spotify.com/track/7tkO4J0p51gZj3XeTLARVt) | [chinachinachina](https://open.spotify.com/artist/3vI709gEiM2AodC16Zp13p) | [NOT ANYMORE](https://open.spotify.com/album/4ajPVzhqX4R0LZwIctcOVe) | 2:47 | 2025-02-20 | 2025-02-28 |

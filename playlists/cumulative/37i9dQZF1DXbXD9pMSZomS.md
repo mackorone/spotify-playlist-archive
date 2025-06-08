@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-274 songs - 21 hr 55 min
+275 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Chord and Triton Drums](https://open.spotify.com/track/2fu6wSvPd2WNzWsARFMkHU) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Unreleased Trax Volume 2](https://open.spotify.com/album/7r7n7NBNx6aWbgQM6xdXVo) | 5:48 | 2023-02-28 | 2023-03-10 |
 | [Citrus](https://open.spotify.com/track/4g10sqEm8v6qbe3LSb8wtK) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Beats & Pieces](https://open.spotify.com/album/4Gw6m1hSwHNKu08Jj6xpCy) | 2:09 | 2025-04-11 | 2025-05-31 |
 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 | 2021-12-17 |  |
-| [Creekside](https://open.spotify.com/track/1wBu1kU1EYl7UP0OVH5K19) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [Creekside](https://open.spotify.com/album/1hQDgeZYNZ1VhzmUsCwIvr) | 2:42 | 2021-12-17 |  |
+| [Creekside](https://open.spotify.com/track/1wBu1kU1EYl7UP0OVH5K19) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [Creekside](https://open.spotify.com/album/1hQDgeZYNZ1VhzmUsCwIvr) | 2:42 | 2021-12-17 | 2025-06-08 |
 | [Cut 02 \- Delfonic 2020 Edit](https://open.spotify.com/track/3fEHO0kO6MQ0jDjiAIneZZ) | [Martin Georgi](https://open.spotify.com/artist/5HF1T8gzwh7wBfRu3slUYt), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Early Cuts 2008 \- 13 \(Extended Version\)](https://open.spotify.com/album/2SrfDomjaFJRUUS4ngZJJs) | 5:32 | 2021-12-17 | 2022-07-29 |
 | [Dancid](https://open.spotify.com/track/3uYrqb0IVjQ5o5OEvZ14Io) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Emotional Feelings](https://open.spotify.com/album/3ylVd2KjzabJQIeLj9r3J2) | 5:29 | 2024-10-01 | 2024-11-18 |
 | [Dawn](https://open.spotify.com/track/3NN6YXqfnhqrzyTM2idZdo) | [Fluxion](https://open.spotify.com/artist/5Y3oDPCnbx1hf4MWLvK2Tf) | [Perspectives](https://open.spotify.com/album/5bugZyXwq0v41GiNEboN5S) | 6:19 | 2021-12-17 | 2022-07-10 |
@@ -268,6 +268,7 @@
 | [Ultra](https://open.spotify.com/track/2H3d9MtmDpR4EYh2DlPC3F) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Frag Maddin](https://open.spotify.com/artist/2DdlbTRvIhQMBO6iHHBZHO) | [My Name Is the Two, Some People Call Me the Funk](https://open.spotify.com/album/1cyVOcnCIvdQjTc2oLPy6Z) | 4:09 | 2023-01-27 | 2023-02-04 |
 | [Undergrowth](https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Undergrowth](https://open.spotify.com/album/2orPEElJwKWjmr4DPEhdjB) | 2:53 | 2021-12-17 | 2022-05-22 |
 | [Useful](https://open.spotify.com/track/2UXPd6q6LN9oYSagng8tR5) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [Useful](https://open.spotify.com/album/7EfwWRHKY93vqZGp3UsZJ9) | 5:23 | 2022-03-25 | 2022-04-20 |
+| [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 | 2025-05-30 |  |
 | [Vibrant Air](https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Sessions 2](https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP) | 4:11 | 2022-10-21 | 2024-04-19 |
 | [Vibrant Air](https://open.spotify.com/track/7ons5HsFQUnWu2x7dXNZAa) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x), [Rick Flair](https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m) | [Vibrant Air](https://open.spotify.com/album/7L6AoK0MZ3JMMLgKskMmsq) | 4:11 | 2022-06-02 | 2022-11-20 |
 | [Voyagers](https://open.spotify.com/track/31wIzUj1Uw1olBO9Vlh0Tz) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Voyagers](https://open.spotify.com/album/1Q9GNC2hEY8nEbKCnRkRyR) | 2:52 | 2021-12-17 | 2022-07-29 |

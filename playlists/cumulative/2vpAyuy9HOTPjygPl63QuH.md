@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,242 songs - 5 day 6 hr 42 min
+2,243 songs - 5 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-06-11 |
 | [Lucy](https://open.spotify.com/track/1t5euhALA9RpirKDxU9ud5) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv), [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Lucy](https://open.spotify.com/album/51UpUvAvvREf3E5us3Zlta) | 3:11 | 2024-06-21 | 2024-07-13 |
 | [Lullaby](https://open.spotify.com/track/4zalizeajaM4COAsb04Ihh) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Lullaby](https://open.spotify.com/album/5a6dggnsI1SEbenUoqZtFO) | 2:47 | 2023-10-13 | 2023-10-28 |
+| [Lunar](https://open.spotify.com/track/0nrQxqGbbPVmBu4WAetg3R) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Lunar](https://open.spotify.com/album/5EdPiKRP9HGklPbX5mcwND) | 4:12 | 2025-06-07 |  |
 | [Luv U](https://open.spotify.com/track/6VzBbDQFQD4YrdxppnTFoU) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO) | [Luv U](https://open.spotify.com/album/5WBCq4QKa4peXD8ukBidjd) | 2:37 | 2024-03-29 | 2024-05-02 |
 | [Ma Boogie](https://open.spotify.com/track/1A8o1LjyYO4uRXhfH1O0lF) | [Ryan Gould](https://open.spotify.com/artist/3ayPqf1bGwbpj4WUw0BKVt) | [Ma Boogie](https://open.spotify.com/album/0uKvspx1QMjWriiIsiWBxX) | 3:39 | 2022-04-29 | 2022-05-14 |
 | [Ma Face](https://open.spotify.com/track/5ZcMllqKkC7lvlk71gdQOv) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Ma Face](https://open.spotify.com/album/1Be1DPZvfZDrmXFJcirAf8) | 2:56 | 2025-01-17 | 2025-03-01 |

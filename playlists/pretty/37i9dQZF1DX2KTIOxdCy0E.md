@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,435 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,528 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 51 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 |
 | 52 | [Sure Feels Good](https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Sure Feels Good](https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt) | 4:17 |
 
-Snapshot ID: `Zwb1gQAAAACHFqEAD+lgccUughoikR8h`
+Snapshot ID: `Zwb1gQAAAABjKvUT+o+zsS+ts9S7mGyk`

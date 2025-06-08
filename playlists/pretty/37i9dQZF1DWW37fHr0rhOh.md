@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Karen Peck & New River
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,419 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,423 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 49 | [Count Your Blessings \(Instead of Sheep\)](https://open.spotify.com/track/02A8Nfnd6Th0CvjaI8wxRk) | [The Martins](https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB) | [Count Your Blessings \(Instead of Sheep\)](https://open.spotify.com/album/5KDyvyijeOS40UGel2yfSf) | 3:22 |
 | 50 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 |
 
-Snapshot ID: `AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl`
+Snapshot ID: `aCeNyQAAAACmuhGPpndJOO6lOHRe3a0z`

@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19401,
+  "num_followers": 19407,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAADcWFmxWuVbxySzW6/E/Gwg",
+  "snapshot_id": "aEIvgAAAAAB51Y2ehIe6E6AZQ47xbjhr",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomioka (with Flo Milli) [Remix]",
-        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
-      },
-      "artists": [
-        {
-          "name": "Jay Eazy",
-          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137532,
-      "name": "Tomioka (with Flo Milli) - Remix",
-      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ATLANTA",
         "url": "https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 105360,
       "name": "oncam",
       "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomioka (with Flo Milli) [Remix]",
+        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
+      },
+      "artists": [
+        {
+          "name": "Jay Eazy",
+          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137532,
+      "name": "Tomioka (with Flo Milli) - Remix",
+      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
     },
     {
       "added_at": null,

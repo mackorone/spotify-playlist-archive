@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,298 likes - 51 songs - 2 hr 40 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 12,308 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 49 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
 | 50 | [Nine](https://open.spotify.com/track/40ke3SW7c7wKWes88tDy31) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [Nine EP](https://open.spotify.com/album/7GIpF4tVU2wNPfTJodCeNW) | 3:50 |
 | 51 | [Magnetic \(with Tomike\)](https://open.spotify.com/track/5EylWPZIChpm3yGjstNAnU) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Magnetic \(with Tomike\)](https://open.spotify.com/album/2Hg7lIHQVvvweJZv5u3Nmv) | 2:47 |
+| 52 | [Lunar](https://open.spotify.com/track/0nrQxqGbbPVmBu4WAetg3R) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Lunar](https://open.spotify.com/album/5EdPiKRP9HGklPbX5mcwND) | 4:12 |
 
-Snapshot ID: `AAAmLpcoDCTq+GcvghQk6w+TDgWGVSec`
+Snapshot ID: `AAAmL1eg1r50oOY+GTaHDfCnnFJPA316`

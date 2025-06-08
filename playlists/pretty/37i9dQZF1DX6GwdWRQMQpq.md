@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,242,128 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,242,442 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Pull Yo Skirt Up](https://open.spotify.com/track/3kfXKXtCTjeIcKE4ZKfcjt) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Pull Yo Skirt Up](https://open.spotify.com/album/0c3rY7M7jxoFaP2fVvTK9P) | 1:49 |
 | 50 | [Needa Gangsta](https://open.spotify.com/track/08CQDDOc3NifKyLa3hUSDI) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Needa Gangsta](https://open.spotify.com/album/4lSuzseuY8VL3JKc7j8ZKJ) | 3:12 |
 
-Snapshot ID: `aEJn3AAAAAB2H03pyaPnxmrPoA+aHNJm`
+Snapshot ID: `AAAAADEsKh6HkX6DrueAsIa5965LpVd4`

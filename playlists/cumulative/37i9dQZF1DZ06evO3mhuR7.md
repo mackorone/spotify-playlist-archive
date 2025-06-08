@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-163 songs - 18 hr 40 min
+164 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Lunik \- Komplott E.P\. Version](https://open.spotify.com/track/2RATJBb47KfFF3urC4NKh4) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:24 | 2024-12-01 | 2024-12-06 |
 | [Majestic](https://open.spotify.com/track/2DbkEPpdeNhGQJaYfiSDWp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 11:06 | 2022-05-29 | 2025-05-31 |
 | [Man in the Moon](https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:04 | 2022-05-30 | 2022-10-13 |
+| [Masterblaster \- Edit](https://open.spotify.com/track/7hTEedqHW0ft1lA7xzSXcK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Masterblaster \(Edit\)](https://open.spotify.com/album/1j5zc0Hw8MVIOLFWjoXm9t) | 3:51 | 2025-06-08 |  |
 | [Mermaids](https://open.spotify.com/track/4JsiRi34NYuzrxIUtDSCJu) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 1:48 | 2023-06-30 |  |
 | [Mermaids](https://open.spotify.com/track/5AlFvNIcCgMQz0iux2zyVk) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Mermaids](https://open.spotify.com/album/6ukjrEXIdCzo1V6lYg0Y5Y) | 1:48 | 2023-05-13 | 2023-07-01 |
 | [Metallic Side \(feat\. David Gilmour\) \- Stereo Version](https://open.spotify.com/track/1ogszJGyiYSlrVGpHtoNMm) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres \(feat\. David Gilmour\)](https://open.spotify.com/album/6cefhJmt3jwGwcLIcsyEVq) | 28:41 | 2022-06-24 | 2022-11-14 |
@@ -137,7 +138,7 @@
 | [Shape Shifters \(In Two Parts\) \- Coffee & Ghost Train Mix](https://open.spotify.com/track/44aGofylvEmsS6oFMDhG3d) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 10:51 | 2022-05-30 | 2022-10-09 |
 | [Siren 33 \(Orphee Mirror\)](https://open.spotify.com/track/4KM94c8EBLbggsN37T7gfp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:48 | 2022-05-29 |  |
 | [Slug Dub](https://open.spotify.com/track/1RlgZGAimtqGzNDLEZk6fG) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 15:49 | 2022-06-19 | 2022-09-22 |
-| [Snowbow](https://open.spotify.com/track/1m0yMCnjSoopWGtHqtP3nz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Okie Dokie It's The Orb On Kompakt](https://open.spotify.com/album/2QiAgv19sSQOyBRD4VMXco) | 2:16 | 2024-09-22 |  |
+| [Snowbow](https://open.spotify.com/track/1m0yMCnjSoopWGtHqtP3nz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Okie Dokie It's The Orb On Kompakt](https://open.spotify.com/album/2QiAgv19sSQOyBRD4VMXco) | 2:16 | 2024-09-22 | 2025-06-08 |
 | [Soulman](https://open.spotify.com/track/1RaWh6yydQyNMVjxhUwSWV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 6:02 | 2022-06-07 | 2023-01-13 |
 | [Spanish Castles In Space](https://open.spotify.com/track/7IHvMrVey9pw6dmhup02Qq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 15:06 | 2022-05-29 | 2025-01-07 |
 | [Spheres Side \- Stereo Version](https://open.spotify.com/track/4B18MaOudRkiTmaGO3pTN3) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres](https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7) | 20:08 | 2022-05-29 | 2023-11-11 |

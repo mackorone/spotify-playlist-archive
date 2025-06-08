@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Lisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,547 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,557 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Free Hand](https://open.spotify.com/track/0ZCUDdxZ0vM5UEx2BceRQc) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Good Life \(Deluxe\)](https://open.spotify.com/album/2fSqu9b5nYPSERzZbp7hPS) | 3:03 |
 | 100 | [Faux](https://open.spotify.com/track/1PrhvvNGasll8r4NDH5rzN) | [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy) | [Faux](https://open.spotify.com/album/1QaRGkqdl8CPxnfbUpqCCH) | 1:58 |
 
-Snapshot ID: `aEGi+wAAAADzTg24AuzlicDH94BRD6kI`
+Snapshot ID: `AAAAAKiF4sQAx/OkQ3cprZih3o5UoeW8`

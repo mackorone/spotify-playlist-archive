@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con Becarios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,967 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,969 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Juventud Eterna](https://open.spotify.com/track/0TIr0hZx8DeANFOGVsnrlN) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [La Casa Encendida](https://open.spotify.com/album/1GgQe1fcWKl93WIfKyMa3p) | 2:52 |
 | 2 | [DIOS ME PREGUNTÓ](https://open.spotify.com/track/5WZamhL0hbwunw1up9Q34C) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [DIOS ME PREGUNTÓ](https://open.spotify.com/album/2sdTJBNXv9IeFxT2pZjMFd) | 2:13 |
 | 3 | [NO TE GUSTA TU NOVIO](https://open.spotify.com/track/6XchVrV0KME0cRx01HwtdP) | [ULTIMA CENA](https://open.spotify.com/artist/4DKHm76RsJkIOPvXN3d1VW) | [NO TE GUSTA TU NOVIO](https://open.spotify.com/album/6jddgGKVHwfEJmX8oucU2W) | 1:46 |
-| 4 | [Resort En Vorkutá](https://open.spotify.com/track/4nW3hs9doNd9k1UfPvaMD5) | [Polémico Chinaski](https://open.spotify.com/artist/4mRhRhWh7yRoUln5jBEWDk) | [Degeneración Pulp](https://open.spotify.com/album/1ycxL8VBOAuyiIkfVAzyez) | 2:41 |
+| 4 | [Resort en Vorkutá](https://open.spotify.com/track/4nW3hs9doNd9k1UfPvaMD5) | [Polémico Chinaski](https://open.spotify.com/artist/4mRhRhWh7yRoUln5jBEWDk) | [Degeneración Pulp](https://open.spotify.com/album/1ycxL8VBOAuyiIkfVAzyez) | 2:41 |
 | 5 | [Qué culpa tengo yo](https://open.spotify.com/track/4rpnCI0k03YTtvN3LWEMMj) | [Por las Noches](https://open.spotify.com/artist/5x79Dk748Q92oEQ95BE6pl) | [Qué culpa tengo yo](https://open.spotify.com/album/2tk4R899LvkghTqQZbX3ny) | 2:58 |
 | 6 | [Reina de mis males](https://open.spotify.com/track/52zHswTCEornNfxCumHiEU) | [JUVENTUDE](https://open.spotify.com/artist/5OCKp8oCaWmsqkc7lfRDJC) | [Reina de mis males](https://open.spotify.com/album/5YR8sbRHU1I9tD4CEJW3dj) | 2:07 |
 | 7 | [Lesbian Garros](https://open.spotify.com/track/3xW7zApfPMvHYumqN4ByoC) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y) | [Lesbian Garros](https://open.spotify.com/album/6MV0VmAcdoK0tSG7AUTnbU) | 3:23 |

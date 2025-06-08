@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 132133,
+  "num_followers": 132171,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Subimos de Rango",
+        "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        }
+      ],
+      "duration_ms": 266091,
+      "name": "Subimos de Rango",
+      "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Ele Uve (Remix)",
         "url": "https://open.spotify.com/album/73mz0bzy97uQ0jC01pMp0A"
       },
@@ -1223,30 +1247,6 @@
       "duration_ms": 229840,
       "name": "Ele Uve - Remix",
       "url": "https://open.spotify.com/track/6n43lawNZSsPHiCostJj9N"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Subimos de Rango",
-        "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        }
-      ],
-      "duration_ms": 266091,
-      "name": "Subimos de Rango",
-      "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1351,34 +1351,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Mi Cubana Remix",
-        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 342558,
-      "name": "Mi Cubana - Remix",
-      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Real G's",
         "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
       },
@@ -1411,6 +1383,34 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Mi Cubana Remix",
+        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 342558,
+      "name": "Mi Cubana - Remix",
+      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "EL OG WEEK",
         "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 233520,
       "name": "Superaci\u00f3n",
       "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1467,6 +1447,26 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1527,6 +1527,34 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Como Soy II",
+        "url": "https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 341069,
+      "name": "Como Soy II",
+      "url": "https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Sigo Fresh (Remix)",
         "url": "https://open.spotify.com/album/2wqXRIXMzKipo603C9C2ft"
       },
@@ -1555,34 +1583,6 @@
       "duration_ms": 274920,
       "name": "Sigo Fresh - Remix",
       "url": "https://open.spotify.com/track/0OMftKSWh56NBTbatl2ZIv"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Como Soy II",
-        "url": "https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 341069,
-      "name": "Como Soy II",
-      "url": "https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1987,22 +1987,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
       },
       "artists": [
         {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2031,22 +2031,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2024-08-19 19:01:43",

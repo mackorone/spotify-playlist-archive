@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3g8aGJncXBA.md) - [plain]
 
 > Enjoy the PLAVE fan concert LIVE SET including the voices of them on stage! \(플레이브의 무대 멘트와 목소리가 포함된 팬 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,032 likes - 18 songs - 59 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 9,046 likes - 18 songs - 59 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3g8aGJncXBA.md) - [plain]
 | 17 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
 | 18 | [Pixel world](https://open.spotify.com/track/0TU3HvHsqJyKVBP8eFIUFQ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:05 |
 
-Snapshot ID: `Zxs5WwAAAAAhUpEhu/LTLRiJtbemUzib`
+Snapshot ID: `Zxs5WwAAAAArvXHQJeQBtoap+QWeZ7pE`

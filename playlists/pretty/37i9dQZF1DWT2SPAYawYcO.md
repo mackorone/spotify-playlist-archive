@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Addison Rae, Sabrina Carpenter, The Kid Laroi, Ocean Alley + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,046 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,067 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 99 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 |
 | 100 | [Other Kid](https://open.spotify.com/track/1W3Wa4fUmOhR6pOu84L336) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Other Kid](https://open.spotify.com/album/5nqOM82hcnnkHiaZGQ1vrA) | 3:11 |
 
-Snapshot ID: `aELD9AAAAADB3qzuOTzu/CU0qOzWvmWG`
+Snapshot ID: `aELD9AAAAAB3kajrxtqldBBllLUyTCHj`

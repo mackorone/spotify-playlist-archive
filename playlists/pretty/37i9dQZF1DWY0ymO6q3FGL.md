@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 
 > All your favorite Minecraft tracks in one essential playlist – with music from every game, remixes, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,160 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,540 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 | 49 | [Sprouting](https://open.spotify.com/track/6e0mcJbNVTUF4tro4fiPxH) | [Shauny Jang](https://open.spotify.com/artist/1malzFcs5qWAzJz96PSflk), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Earth \(Original Game Soundtrack\)](https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU) | 2:27 |
 | 50 | [Mojam](https://open.spotify.com/track/1tw82dRYOooJGOfKH2nIVO) | [Peter Hont](https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Dungeons: Echoing Void \(Original Game Soundtrack\)](https://open.spotify.com/album/05hVxgNhAkWnlEc8u1JqvG) | 1:40 |
 
-Snapshot ID: `AAAAACxpKaJJDNRBf4a/uXv79LC1SHQd`
+Snapshot ID: `ZuRTcAAAAAA5j0dclBKdwdT0UswhNC+l`

@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 210059,
+  "num_followers": 210080,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAAfXYUsv3yQrTx1tH3mA0sT",
+  "snapshot_id": "aEIvgAAAAAB9eOl8dOx9XOwhV6zZED4L",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 226568,
-      "name": "NO VOY A ODIARTE",
-      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
+      "duration_ms": 189375,
+      "name": "No Dudes de Ti",
+      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
       "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 189375,
-      "name": "No Dudes de Ti",
-      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
+      "duration_ms": 226568,
+      "name": "NO VOY A ODIARTE",
+      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
     },
     {
       "added_at": null,

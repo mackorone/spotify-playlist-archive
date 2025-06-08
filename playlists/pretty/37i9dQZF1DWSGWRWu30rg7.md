@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Vanessa Zee
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,128 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,179 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 23 | [blink](https://open.spotify.com/track/6o3T8kFESS80zxTKDdyiGd) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [blink](https://open.spotify.com/album/6pNW8tHqgSdymA56BVKtwr) | 4:05 |
 | 24 | [Tiba Tiba Bilang Sayang](https://open.spotify.com/track/5bVFlEq0XAKKmwumXhkAw5) | [Jaz Rowe](https://open.spotify.com/artist/5OawJtVhHaAxoXkotlKpbI) | [Tiba Tiba Bilang Sayang](https://open.spotify.com/album/0lFUEfC27O79dWVuI7EYhV) | 3:13 |
 | 25 | [Sang Penghibur](https://open.spotify.com/track/4F7vhGQW7lmo0nJMwsGtUn) | [Lilo Lilo](https://open.spotify.com/artist/5J4yLOPnPFVaA39zyawZIo) | [Sang Penghibur](https://open.spotify.com/album/2v0mg32tbj4kCTSqTMXA1J) | 3:29 |
-| 26 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:33 |
+| 26 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 |
 | 27 | [Hangat Pagi](https://open.spotify.com/track/33eolCLZuVtd5mOfclzr4P) | [satya cipta](https://open.spotify.com/artist/0IfixXWsolH6bujaspDj6X) | [Hangat Pagi](https://open.spotify.com/album/13EmsWraZYeIhdyrXWEkGA) | 3:06 |
 | 28 | [Perjalanan](https://open.spotify.com/track/4jNo7jID8sYDUtAyEgZD5P) | [Jinggana](https://open.spotify.com/artist/52yIIc3M4Zrj0ibgPJ6nTB) | [Perjalanan](https://open.spotify.com/album/2AzVyEpS1LnhnkbNXizgxd) | 3:47 |
 | 29 | [4y](https://open.spotify.com/track/1Feg5lJzff576c9yI5rjxM) | [Redho](https://open.spotify.com/artist/6kbSGabmXuDJmYjWPaJqtL) | [4y](https://open.spotify.com/album/4X8Vdu2kf9S4F9syucHxIT) | 3:44 |

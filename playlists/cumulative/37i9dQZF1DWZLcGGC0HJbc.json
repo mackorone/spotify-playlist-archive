@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282559,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD"
+    },
+    {
+      "album": {
         "name": "At The Doorstep",
         "url": "https://open.spotify.com/album/6OQOHKIJt0CZ7KB90i3or7"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 229146,
       "name": "Changing",
       "url": "https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 183088,
       "name": "In My House",
       "url": "https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3"
@@ -2638,6 +2656,24 @@
       "duration_ms": 238786,
       "name": "Too Fast",
       "url": "https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk"
+    },
+    {
+      "album": {
+        "name": "Toy Heart",
+        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Toy Heart",
+      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     },
     {
       "album": {

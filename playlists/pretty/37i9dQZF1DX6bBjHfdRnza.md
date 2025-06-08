@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Collect 200\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,120 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,179 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 22 | [Bass Go Boom](https://open.spotify.com/track/3vrxHzxEs2ncS6jX9g9XVg) | [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ) | [Bass Go Boom](https://open.spotify.com/album/0MpprW3oy6Mkf4FECwg3Zi) | 5:32 |
 | 23 | [Beachfront Avenue \- Radio Edit](https://open.spotify.com/track/0rmmK4ZwBTzFoBc3Nzod05) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [Beachfront Avenue EP](https://open.spotify.com/album/2duV8faGujoAbW9zEUDqRa) | 3:54 |
 | 24 | [Move On](https://open.spotify.com/track/3ISffiYxJz6urIUMsQRj16) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs), [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Shattered Glow](https://open.spotify.com/album/5i6Maq9HVoppmjgooRL7HQ) | 2:59 |
-| 25 | [sealight](https://open.spotify.com/track/0RBuMInsBUvxIirprg2U7Q) | [fia](https://open.spotify.com/artist/2bKRwnFRyCdBzsUmHxUSFf) | [sealight](https://open.spotify.com/album/69cGptVLSKNpEItcueuETQ) | 3:49 |
+| 25 | [sealight](https://open.spotify.com/track/0RBuMInsBUvxIirprg2U7Q) | [fia](https://open.spotify.com/artist/2bKRwnFRyCdBzsUmHxUSFf) | [sealight](https://open.spotify.com/album/69cGptVLSKNpEItcueuETQ) | 3:51 |
 | 26 | [I Won't Hurt Anymore](https://open.spotify.com/track/5VUnXIbEAp8eg3qIuc8yui) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [I Wish I Could Fly](https://open.spotify.com/album/4e6yoPylOAs5Nt8lL1goMU) | 2:48 |
 | 27 | [in the city](https://open.spotify.com/track/2lxxRy7IAA1wwMTqXJIFx9) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao), [Hey Baby](https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU) | [legitimate dj behaviour](https://open.spotify.com/album/6DDSY0wf9AfisUw79jKTiz) | 2:38 |
 | 28 | [CTRL](https://open.spotify.com/track/1AeLU5LEklFdXuYBksYbeO) | [Arundel](https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA) | [CTRL](https://open.spotify.com/album/3uK5x2GAUGmdH045d96hHu) | 3:22 |

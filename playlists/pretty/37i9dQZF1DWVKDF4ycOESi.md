@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bresh, Tananai, Sabrina Carpenter, Rhove, Baby Gang, Ed Sheeran, Levante, Emma Nolde e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,756 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,810 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

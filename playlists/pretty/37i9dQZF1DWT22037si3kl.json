@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Senndy, Alee",
-  "num_followers": 147050,
+  "num_followers": 147063,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,30 @@
     {
       "added_at": "2025-06-06 03:33:25",
       "album": {
+        "name": "CHTC?",
+        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "PIR\u00c2MIDE",
+      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
+    },
+    {
+      "added_at": "2025-06-06 03:33:25",
+      "album": {
         "name": "Morrer De Amor",
         "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
       },
@@ -287,30 +311,6 @@
       "duration_ms": 243471,
       "name": "Morrer De Amor",
       "url": "https://open.spotify.com/track/6dRr2YljG54MTLMyGZc1Q0"
-    },
-    {
-      "added_at": "2025-06-06 03:33:25",
-      "album": {
-        "name": "CHTC?",
-        "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
-      },
-      "artists": [
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "PIR\u00c2MIDE",
-      "url": "https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6"
     },
     {
       "added_at": "2025-06-06 03:33:25",
@@ -619,26 +619,18 @@
     {
       "added_at": "2025-06-06 03:33:25",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+        "name": "Eu Meto Bronca",
+        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
       },
       "artists": [
         {
           "name": "Emit\u00ea \u00danico",
           "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Liam Fenti",
-          "url": "https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX"
         }
       ],
-      "duration_ms": 183414,
-      "name": "Hostil",
-      "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
+      "duration_ms": 157714,
+      "name": "Eu Meto Bronca",
+      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
     },
     {
       "added_at": "2025-06-06 03:33:25",
@@ -759,18 +751,26 @@
     {
       "added_at": "2025-06-06 03:33:25",
       "album": {
-        "name": "Eu Meto Bronca",
-        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
       "artists": [
         {
           "name": "Emit\u00ea \u00danico",
           "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Liam Fenti",
+          "url": "https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Eu Meto Bronca",
-      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
+      "duration_ms": 183414,
+      "name": "Hostil",
+      "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
     },
     {
       "added_at": "2025-06-06 03:33:25",

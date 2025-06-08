@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Esteman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,377 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,373 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 48 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 49 | [Number One Girl](https://open.spotify.com/track/1UByYvpTpvueuqVgnTnZX3) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Number One Girl](https://open.spotify.com/album/5wioteha5XfZxmE2Vhz3Gh) | 3:38 |
 
-Snapshot ID: `aEDeHQAAAABdmB40auIV61XAt9CXq2ra`
+Snapshot ID: `AAAAALBizNzh441UWG7kSZnVTfBjqV0m`

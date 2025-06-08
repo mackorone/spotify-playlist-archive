@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 La Nueva Escuela, Guaynaa, Valen, Frijo & URI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,849 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,873 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 99 | [Te Has Perdido Quien Soy](https://open.spotify.com/track/2RzZmSIeul0c2vIdgIf0qO) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Te Has Perdido Quien Soy](https://open.spotify.com/album/2iOW0mdseNDIkuJet2CwQZ) | 2:46 |
 | 100 | [Mi Linda Mamita](https://open.spotify.com/track/4DbPKh5nzLE3OIUJ8XJdPC) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mi Linda Mamita](https://open.spotify.com/album/1ZnhPpz8GMHCWhtCAU2i3A) | 3:47 |
 
-Snapshot ID: `AAAAAKNTrLwwrgQV7ziA66wI2oyW1d/c`
+Snapshot ID: `aEMMUQAAAADMTCsvbrdy3mbCtrLvVx7Y`

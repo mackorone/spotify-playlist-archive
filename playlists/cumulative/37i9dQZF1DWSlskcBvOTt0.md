@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-938 songs - 3 day 8 hr 5 min
+939 songs - 3 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK) | 7:15 | 2023-07-14 | 2023-11-05 |
 | [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Colorblind \(WhoMadeWho Remix\)](https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon) | 7:15 | 2023-02-10 | 2023-07-14 |
 | [Compromise](https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Compromise](https://open.spotify.com/album/6tV5ImdhGjwuNnj4GhHrSd) | 3:31 | 2025-01-17 | 2025-05-25 |
-| [Comusa](https://open.spotify.com/track/5sTVsPrvIi96swhRzkSXfH) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [DvirNuns](https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n) | [Comusa](https://open.spotify.com/album/3f022QWDplc7zkzlM1bMmF) | 3:42 | 2025-04-25 |  |
+| [Comusa](https://open.spotify.com/track/5sTVsPrvIi96swhRzkSXfH) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [DvirNuns](https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n) | [Comusa](https://open.spotify.com/album/3f022QWDplc7zkzlM1bMmF) | 3:42 | 2025-04-25 | 2025-06-08 |
 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 | 2021-12-13 | 2022-04-23 |
 | [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 | 2024-03-29 | 2025-03-01 |
 | [Cosa Buena](https://open.spotify.com/track/1hNBZ1OZj0qnzqNFZJbavC) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Cosa Buena](https://open.spotify.com/album/51rZ7BO22Mh1S3wDL4jrDr) | 6:16 | 2021-05-18 | 2022-04-21 |
@@ -907,6 +907,7 @@
 | [Warrior](https://open.spotify.com/track/4MxV7MwM5eUBwRW9PCcabQ) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [PRYDA 15 VOL I](https://open.spotify.com/album/2MSprf6584peQvdVMWAEMt) | 8:23 | 2021-04-21 | 2022-04-21 |
 | [Warrior Dance](https://open.spotify.com/track/5ksVu18bAda5YJ0Rq6kjz4) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jojo Abot](https://open.spotify.com/artist/7yR9zhQxEi9sc3vJxS2YG5) | [Warrior Dance](https://open.spotify.com/album/5cQboNPGY7gR5ztTn39pop) | 4:14 | 2025-02-28 | 2025-04-05 |
 | [WASSER \- Kotiēr Remix](https://open.spotify.com/track/7MJw7fF5sLfQFot1HhJVC6) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [WASSER \(Kotiēr Remix\)](https://open.spotify.com/album/2qXRFONJS6HobiaSQ7D0Z9) | 6:30 | 2024-11-08 | 2025-03-22 |
+| [Waste Away](https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Waste Away](https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm) | 3:46 | 2025-06-06 |  |
 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:37 | 2025-03-07 | 2025-05-24 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-10-13 |
 | [Waves of the Soul](https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5) | 3:32 | 2022-07-01 | 2023-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: pami
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,202 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,208 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ลืมเวลา](https://open.spotify.com/track/0QsbfyvjQPPm7v8fnsBp1I) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [ลืมเวลา](https://open.spotify.com/album/66Mn6IwTmEsmOsQLV33N4P) | 3:42 |
 | 50 | [Promises](https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Promises](https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC) | 3:03 |
 
-Snapshot ID: `aD8nvwAAAABuENmcFRqehDqxCbfOhgOS`
+Snapshot ID: `AAAAAGpB0rin0YPTV+lcw/WQGL3m2XI7`

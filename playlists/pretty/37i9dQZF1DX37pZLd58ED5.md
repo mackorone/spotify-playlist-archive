@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,845 likes - 96 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,877 likes - 96 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

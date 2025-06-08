@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,329 songs - 3 day 16 hr 47 min
+2,331 songs - 3 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2022-04-15 | 2022-09-17 |
 | [Buzz](https://open.spotify.com/track/6OYZJdCCyKO4QWx6aKzFmp) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [Buzz](https://open.spotify.com/album/1KWOSd5beQnwGJsw3FdRmh) | 1:56 | 2023-04-20 |  |
 | [by the book](https://open.spotify.com/track/2HO4rPSFnE2FCggOcZUDtq) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [by the book](https://open.spotify.com/album/6lYaUUZThMYNybUokR9IAJ) | 2:33 | 2022-04-15 | 2023-03-02 |
+| [by the fireplace](https://open.spotify.com/track/1PbFELwPRHh7RNOyWX1qTe) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [by the fireplace](https://open.spotify.com/album/5V32FKLnq7s2RMmvc7iwws) | 2:29 | 2025-06-05 |  |
 | [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-05-04 | 2022-07-08 |
 | [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2023-04-11 | 2023-12-08 |
 | [Bypass](https://open.spotify.com/track/2pbJqRWuDlzvKX6IbsFH1I) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Bypass](https://open.spotify.com/album/7ybr6nw32PQYcLny6vXjh6) | 1:50 | 2022-06-03 | 2024-05-14 |
@@ -754,7 +755,7 @@
 | [Free](https://open.spotify.com/track/2fI7xNA7dEskW6fGjq623B) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Free](https://open.spotify.com/album/5eDB2lujlCVEe0v1wxZQYN) | 2:48 | 2022-12-16 |  |
 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 | 2022-04-15 | 2023-03-02 |
 | [Free Yourself](https://open.spotify.com/track/71yIgNO9WFWYHxGkN4U7Qn) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Free Yourself](https://open.spotify.com/album/6fdg8NXRp9Rh4FmmcCjneS) | 2:47 | 2023-01-06 |  |
-| [freedom](https://open.spotify.com/track/0oqdwvUItKH2OQmMCwkLwi) | [dnvn.beats](https://open.spotify.com/artist/6a7nfnO8b7WiXvVR5IkN7X), [Shy Guy](https://open.spotify.com/artist/6Tk0J5qQfwLDEMK8gT8EHy) | [freedom](https://open.spotify.com/album/6Sl0jaO3B4YmEn7JECmIVo) | 3:04 | 2025-06-05 |  |
+| [freedom](https://open.spotify.com/track/0oqdwvUItKH2OQmMCwkLwi) | [dnvn.beats](https://open.spotify.com/artist/6a7nfnO8b7WiXvVR5IkN7X), [Shy Guy](https://open.spotify.com/artist/6Tk0J5qQfwLDEMK8gT8EHy) | [freedom](https://open.spotify.com/album/6Sl0jaO3B4YmEn7JECmIVo) | 3:04 | 2025-06-05 | 2025-06-08 |
 | [French Escapades](https://open.spotify.com/track/6yGVHmS3665TnIpbt4WAgP) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [French Escapades](https://open.spotify.com/album/3SO50KzwRDHY10QArqU9fX) | 2:21 | 2024-01-19 | 2024-07-13 |
 | [Frequencies](https://open.spotify.com/track/0A11UBR4MR27eUYZxhqTlW) | [les marais](https://open.spotify.com/artist/5kPiI5sB5mBDOcbFyoEUng) | [Frequencies](https://open.spotify.com/album/0BXSPoKppxpUJmHO7HIdRc) | 1:52 | 2025-05-16 |  |
 | [Fresh 6.8?](https://open.spotify.com/track/3ZMCgSjeIggizyg3820sFy) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Fresh 6.8?](https://open.spotify.com/album/3Me8pah3c60IidZI0R2EFs) | 2:02 | 2023-01-13 | 2023-11-25 |
@@ -950,7 +951,7 @@
 | [I Do](https://open.spotify.com/track/2wJrTlyqgJFj7RsoswJHIF) | [Nikachu](https://open.spotify.com/artist/5ehbC9QZVDRJcaEwmgGVfb) | [I Do](https://open.spotify.com/album/3SI68TzqPo4OwaVgMSjpJp) | 2:20 | 2023-11-17 | 2024-07-13 |
 | [I fly by](https://open.spotify.com/track/3RiD3K4dx0dcWafH0kZboB) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [I fly by](https://open.spotify.com/album/3Slu8hAHhie7QTdReKjuXe) | 2:08 | 2022-04-15 | 2023-03-02 |
 | [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 | 2025-02-28 |
-| [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 |  |
+| [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 | 2025-06-08 |
 | [i n d i c a](https://open.spotify.com/track/1isvJir39qBjocCTYt7KI8) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [kiwi juice](https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst) | 3:12 | 2023-02-06 |  |
 | [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 |  |
 | [i'm fine](https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [i'm fine](https://open.spotify.com/album/4mFPvD3XNMun4srlJw6nzU) | 2:13 | 2022-07-08 | 2022-12-03 |
@@ -1374,7 +1375,7 @@
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |
 | [Netflix & Chill](https://open.spotify.com/track/656DFwGAl0zFjAXrD0pJk9) | [Tama](https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ) | [Netflix & Chill](https://open.spotify.com/album/7cSId6VBwFqGsLKtIoQtqv) | 2:21 | 2024-04-26 |  |
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
-| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 | 2025-05-28 |
+| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 |  |
 | [Never Lose Faith](https://open.spotify.com/track/3RhSYVKTzcD0sqPrR5WDmL) | [Breaking Squash](https://open.spotify.com/artist/3A89ddsAlu95MTpiTIFD0D) | [Never Lose Faith](https://open.spotify.com/album/4Z6UfTS1lAs95aKQqVtVsI) | 2:24 | 2025-02-27 | 2025-04-05 |
 | [new cans](https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [new cans](https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL) | 2:14 | 2023-12-22 | 2025-06-03 |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
@@ -1389,7 +1390,7 @@
 | [Next Chapter](https://open.spotify.com/track/1iPLQ6VARP7lFaE45ezw3W) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Next Chapter](https://open.spotify.com/album/6P1Rhjg3KWMHTXPXzj9qtS) | 1:36 | 2022-04-15 | 2022-05-27 |
 | [Nice & Slow](https://open.spotify.com/track/248PhgimKf2fadl85Jpahp) | [Abel Cainstro](https://open.spotify.com/artist/5CPBSgpTzpVWoLHc5sCLgk) | [Nice & Slow](https://open.spotify.com/album/2qjuhm2zAbotesLj3pOK49) | 2:05 | 2022-11-25 |  |
 | [night city](https://open.spotify.com/track/1RO0sm3VABg6Ja3t7UJcei) | [Swoozy](https://open.spotify.com/artist/5sP6S7dFC7D2jWt7ydbGJn), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [night city](https://open.spotify.com/album/0SzITavOb9PcsUkrsGRiHx) | 2:04 | 2022-10-28 | 2023-02-07 |
-| [Night Plaza](https://open.spotify.com/track/6cklYW4juuMoXZZWU6cOoy) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Night Plaza](https://open.spotify.com/album/3TqppnyK6XOuYHuTdDFj2E) | 2:00 | 2025-04-04 |  |
+| [Night Plaza](https://open.spotify.com/track/6cklYW4juuMoXZZWU6cOoy) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Night Plaza](https://open.spotify.com/album/3TqppnyK6XOuYHuTdDFj2E) | 2:00 | 2025-04-04 | 2025-06-08 |
 | [Night Stroll](https://open.spotify.com/track/1Ucx9ID568FuqWfxNt7f7E) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Rooftop Sessions](https://open.spotify.com/album/1k9R00w206ngLhFw5NblFV) | 2:50 | 2022-04-15 | 2022-04-22 |
 | [Night Train](https://open.spotify.com/track/2OHdkHHa8iBtfT6iRLjAjU) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Night Train](https://open.spotify.com/album/31o0LoRRR4Z8Rxuet9zvDA) | 1:44 | 2023-04-20 | 2024-09-16 |
 | [Night With You](https://open.spotify.com/track/4SF52wX2daxB1fMYoPoo78) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Night With You](https://open.spotify.com/album/2IBrWBqOYfZgcmw9roJWkZ) | 2:10 | 2022-08-12 | 2022-12-17 |
@@ -1726,6 +1727,7 @@
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-17 |  |
 | [Sandy Feels](https://open.spotify.com/track/4gBuDTT5zCALOr2zJJFTaA) | [Stan Morgley](https://open.spotify.com/artist/0eH6vvgXNKhsU7d862ZArZ) | [Sandy Feels](https://open.spotify.com/album/6xBm6nNdFvYwnO6DXSoowt) | 2:18 | 2022-07-08 |  |
 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 | 2022-04-15 | 2022-09-02 |
+| [sapling](https://open.spotify.com/track/0Gp8go8pW1t6pn6WoqbJ5x) | [softflow](https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP) | [sapling](https://open.spotify.com/album/6IepP2u4bLykmqYgvhAZnY) | 2:13 | 2025-06-05 |  |
 | [Satin Soul](https://open.spotify.com/track/2ArzG3wZ8AtiTyAZ4ErUyV) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Satin Soul](https://open.spotify.com/album/7v6SSUmG30r1AkvgOZiky9) | 2:34 | 2024-09-06 |  |
 | [Saturn Eyes](https://open.spotify.com/track/0PfODaB3CjyqGeUue5Zysv) | [Ana Luiz](https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl) | [Saturn Eyes](https://open.spotify.com/album/29hkNPWZgrDg0cviTMVpkS) | 1:55 | 2022-04-15 | 2022-09-02 |
 | [saveme.](https://open.spotify.com/track/1WydprqiHcF4Xl7IdQoOzt) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [saveme.](https://open.spotify.com/album/1n1L0umSUyAcAUaJJlXDpx) | 1:51 | 2024-08-30 |  |

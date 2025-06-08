@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1217242,
+  "num_followers": 1216836,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Adaptations",
         "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 229626,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/53ppopomnHhYNNftYvyImu"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 193936,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 240171,
       "name": "Walk Above the City (feat. MARO)",
       "url": "https://open.spotify.com/track/3uLEIzMTFpsxYGHD7QiPYy"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Famous Men",
-        "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
-      },
-      "artists": [
-        {
-          "name": "Magnolian",
-          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "The Bride & The Bachelor",
-      "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
     }
   ],
   "unique_name": "Evening Acoustic",

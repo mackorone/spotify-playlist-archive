@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Diss Gacha, Baby Gang, Rhove, MV Killa, Bresh, Lazza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,369 likes - 132 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,390 likes - 132 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 49 | [Trust the Process](https://open.spotify.com/track/6YPGf5LEtOkc9aQR4AGn3j) | [Kesmo](https://open.spotify.com/artist/15vyrhjk0eHarj2cDK3wXo) | [Trust the Process](https://open.spotify.com/album/24sfEHrQrLP77JNLUml5vI) | 2:33 |
 | 50 | [Vera Merda Slime](https://open.spotify.com/track/4qsUTpup2amHCBUrAh42sx) | [DNA](https://open.spotify.com/artist/1JPyCKNhVlkvXwtWKrTxea) | [Vera Merda Slime](https://open.spotify.com/album/7G8HX90tyWu6AT1yGXY234) | 2:03 |
 | 51 | [Voce](https://open.spotify.com/track/0TMCiNRoOc6IfdCwhmZAq2) | [Nikaleo](https://open.spotify.com/artist/2Rl2kIv6tGX4F59MT8DOQQ), [Tecà](https://open.spotify.com/artist/0Z8UIr3sv6lb4odjDxZnmu), [FUSO](https://open.spotify.com/artist/4a7HtLHgxgDWltNvKS9KYD), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Esa AKA El Presidente](https://open.spotify.com/artist/2ayDAohfVYxjRF0aPNAoum) | [Voce](https://open.spotify.com/album/02CjX6ZHXe3lrDInP070Gk) | 3:31 |
-| 52 | [LA STRADA VEDE TUTTO \- O.V.](https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [LA STRADA VEDE TUTTO \(O.V.\)](https://open.spotify.com/album/0KOTWP0aOolTPPLoDZFavL) | 4:38 |
+| 52 | [RISCHIO IL CULO \- O.V.](https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [RISCHIO IL CULO \(O.V.\)](https://open.spotify.com/album/0KOTWP0aOolTPPLoDZFavL) | 1:48 |
 | 53 | [J Come J](https://open.spotify.com/track/4HHuzj05FAFrhcujU59ofp) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [ANDROGINO](https://open.spotify.com/album/6AJBVUoOUZ4aZwUx4X1Mq9) | 1:52 |
 | 54 | [PEZZIDINEVECOMEPEZZID'OVATTA](https://open.spotify.com/track/4t4C7oNDMC7wwwjxfD1SkC) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [PEZZIDINEVECOMEPEZZID'OVATTA](https://open.spotify.com/album/30A30T84eStaxge76oEfyh) | 2:16 |
 | 55 | [ISA](https://open.spotify.com/track/0lIQTuch8ZntSU0xpBP7fR) | [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm) | [ISA](https://open.spotify.com/album/45a0AEEERN0e6dwPJ43MBj) | 2:00 |

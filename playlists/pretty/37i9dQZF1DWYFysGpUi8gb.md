@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > underground and experimental\. greetings from shame.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,996 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,988 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 100 | [Wood Knot](https://open.spotify.com/track/1RDm9ypgsDjqPz57CtLc1t) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:21 |
 | 101 | [Building Roads](https://open.spotify.com/track/4xjZOMTWj9ZsfZKaxCxlaD) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Building Roads](https://open.spotify.com/album/7itUe0aCfugwV54Y7MgobA) | 4:12 |
 
-Snapshot ID: `aELUagAAAAAROIsRnUQxOhdV8ulxT36N`
+Snapshot ID: `aELUagAAAAAX6LpG/n2gv0u1Y5a2uzvD`

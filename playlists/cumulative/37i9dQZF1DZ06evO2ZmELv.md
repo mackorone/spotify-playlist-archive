@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 2 min
+76 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ni Valia La Pena](https://open.spotify.com/track/3iStjGhTRKO6cW1RNgL5fe) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu), [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [Ni Valia La Pena](https://open.spotify.com/album/6YjRQJcRNWb7S0yUOqt0qc) | 4:00 | 2025-01-12 |  |
 | [No Lo Hice Bien \- En Vivo](https://open.spotify.com/track/0hQGltiywFTqXxi8SPyodj) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:11 | 2023-03-10 |  |
 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2023-03-10 |  |
+| [No Vale la Pena](https://open.spotify.com/track/42EeFwlmhyUbowZjQr4yx2) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Vale la Pena](https://open.spotify.com/album/0agPGyxGa9wjgX0WshJTIm) | 2:47 | 2025-06-08 |  |
 | [No Volveré \- Versión Banda En Vivo](https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:22 | 2023-03-10 |  |
 | [NOS VALE MADRE](https://open.spotify.com/track/7bcD0xvqzdOWB7KNd0xfCe) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [NOS VALE MADRE](https://open.spotify.com/album/43NoqcA11wC5ZDw61N43Sc) | 2:54 | 2024-06-13 |  |
 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Nunca Voy A Olvidarte](https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV) | 3:05 | 2025-04-26 |  |

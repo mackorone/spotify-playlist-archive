@@ -1,29 +1,13 @@
 {
   "description": "This is Sleep Token. The essential tracks, all in one playlist.",
-  "num_followers": 354749,
+  "num_followers": 354927,
   "original_name": "This Is Sleep Token",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAADXpSxF2CM+ktyKLIboEdKm",
+  "snapshot_id": "aEIvgAAAAABhDuPJ5GOX+65QC9YnbSJH",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 268369,
-      "name": "Even In Arcadia",
-      "url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo"
-    },
     {
       "added_at": null,
       "album": {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 290110,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
+      "duration_ms": 268369,
+      "name": "Even In Arcadia",
+      "url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo"
     },
     {
       "added_at": null,
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 466463,
-      "name": "Look To Windward",
-      "url": "https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm"
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
     },
     {
       "added_at": null,
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 264836,
-      "name": "Damocles",
-      "url": "https://open.spotify.com/track/3enIFKYJKSVyjXVzmup28I"
+      "duration_ms": 466463,
+      "name": "Look To Windward",
+      "url": "https://open.spotify.com/track/4Lojbtk7XNMdSKRHSFbdkm"
     },
     {
       "added_at": null,
@@ -395,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 336840,
-      "name": "Nazareth",
-      "url": "https://open.spotify.com/track/2S53xe3CB5RgDELKeU97g0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 303506,
       "name": "The Night Does Not Belong To God",
       "url": "https://open.spotify.com/track/4f93GSR5GQfvwPWdPwMZlD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 336840,
+      "name": "Nazareth",
+      "url": "https://open.spotify.com/track/2S53xe3CB5RgDELKeU97g0"
     },
     {
       "added_at": null,
@@ -463,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 317093,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sundowning",
         "url": "https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86"
       },
@@ -491,6 +459,22 @@
       "duration_ms": 321706,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2S4q08im3SvocGZulxj2cP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 317093,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT"
     },
     {
       "added_at": null,
@@ -527,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 413666,
-      "name": "Calcutta",
-      "url": "https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Ya",
         "url": "https://open.spotify.com/album/1UcJBnDdk4djRCrh1Rvaaq"
       },
@@ -555,6 +523,22 @@
       "duration_ms": 188000,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/3DxDNZNMA2H9hnWeblvRgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 413666,
+      "name": "Calcutta",
+      "url": "https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E"
     },
     {
       "added_at": null,

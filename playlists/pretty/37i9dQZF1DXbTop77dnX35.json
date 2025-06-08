@@ -1,6 +1,6 @@
 {
   "description": "New Music from BNXN, Young Jonn, Simi and more ",
-  "num_followers": 124414,
+  "num_followers": 124566,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -636,12 +636,12 @@
       },
       "artists": [
         {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
           "name": "Johan Lenox",
           "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
         }
       ],
       "duration_ms": 189357,

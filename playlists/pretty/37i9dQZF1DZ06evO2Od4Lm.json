@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 126483,
+  "num_followers": 126505,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAD1OwJEDSvomk+Fmdz7g3vJ",
+  "snapshot_id": "aEIvgAAAAADRXyLBSlbp+eB498PPL3Gq",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "Size Too Small",
-      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 254053,
       "name": "All the Trees of the Field Will Clap Their Hands",
       "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Size Too Small",
+      "url": "https://open.spotify.com/track/1XGvfHwPS6ze5drjk3fX7y"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 136186,
-      "name": "We Won't Need Legs To Stand",
-      "url": "https://open.spotify.com/track/447cvPxyRThQdy0W9w4kkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Gift",
         "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 134404,
       "name": "City of Roses",
       "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 136186,
+      "name": "We Won't Need Legs To Stand",
+      "url": "https://open.spotify.com/track/447cvPxyRThQdy0W9w4kkN"
     },
     {
       "added_at": null,

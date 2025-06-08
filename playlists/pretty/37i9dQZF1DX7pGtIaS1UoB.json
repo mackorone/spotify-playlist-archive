@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 98913,
+  "num_followers": 98929,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,30 @@
       "duration_ms": 236616,
       "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
       "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
+        "url": "https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm"
+      },
+      "artists": [
+        {
+          "name": "Tr33",
+          "url": "https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN"
+        },
+        {
+          "name": "Seluu",
+          "url": "https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
+      "url": "https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -55,30 +79,6 @@
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
-        "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
-        "url": "https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm"
-      },
-      "artists": [
-        {
-          "name": "Tr33",
-          "url": "https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN"
-        },
-        {
-          "name": "Seluu",
-          "url": "https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u4f60\u77e5\u9053\u4f60\u6bd4\u665a\u971e\u597d\u770b\u55ce",
-      "url": "https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag"
-      },
-      "artists": [
-        {
-          "name": "\u6591\u6069Ben",
-          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
-        }
-      ],
-      "duration_ms": 162762,
-      "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u5fc3\u52a8\u51b3\u5b9a",
         "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 203331,
       "name": "\u5fc3\u52a8\u51b3\u5b9a",
       "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "duration_ms": 162762,
+      "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
-      },
-      "artists": [
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u9019\u6a23\u5c31\u5f88\u597d",
         "url": "https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 206896,
       "name": "\u9019\u6a23\u5c31\u5f88\u597d",
       "url": "https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
         "url": "https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 182150,
       "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "Take Off - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
-      },
-      "artists": [
-        {
-          "name": "WayV",
-          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Let me love u",
-      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u50cf\u662f\u4e2d\u4e86\u4f60\u7684\u6bd2",
         "url": "https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 174905,
       "name": "\u50cf\u662f\u4e2d\u4e86\u4f60\u7684\u6bd2",
       "url": "https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "Take Off - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Let me love u",
+      "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u84dd\u8272\u604b\u4eba",
-        "url": "https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w"
-      },
-      "artists": [
-        {
-          "name": "\u9648\u9ed8\u4e4b",
-          "url": "https://open.spotify.com/artist/64nI5pSqRJfBxDaJ5GRoy3"
-        }
-      ],
-      "duration_ms": 170299,
-      "name": "\u84dd\u8272\u604b\u4eba",
-      "url": "https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u5fc3\u52d5\u62cd\u62cd",
         "url": "https://open.spotify.com/album/3nOVvGkBF4wO5eBAFEscl7"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 186122,
       "name": "\u5fc3\u52d5\u62cd\u62cd",
       "url": "https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u84dd\u8272\u604b\u4eba",
+        "url": "https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w"
+      },
+      "artists": [
+        {
+          "name": "\u9648\u9ed8\u4e4b",
+          "url": "https://open.spotify.com/artist/64nI5pSqRJfBxDaJ5GRoy3"
+        }
+      ],
+      "duration_ms": 170299,
+      "name": "\u84dd\u8272\u604b\u4eba",
+      "url": "https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 208711,
-      "name": "\u76f8\u898b\u4e0d\u6068\u665a",
-      "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "Luv U No Reason (L.U.N.R) [feat. J.Tim]",
         "url": "https://open.spotify.com/album/1CIPn9IfUB8IGGFBc42cGk"
       },
@@ -1287,18 +1271,38 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u9047\u4e0a\u611b",
-        "url": "https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ"
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
       },
       "artists": [
         {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
         }
       ],
-      "duration_ms": 231426,
-      "name": "\u9047\u4e0a\u611b",
-      "url": "https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt"
+      "duration_ms": 208711,
+      "name": "\u76f8\u898b\u4e0d\u6068\u665a",
+      "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u6eab\u6cc9",
+        "url": "https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u5d69",
+          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+        },
+        {
+          "name": "\u5289\u7f8e\u9e9f",
+          "url": "https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "\u6eab\u6cc9",
+      "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

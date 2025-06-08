@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-387 songs - 22 hr 19 min
+388 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-10-04 |
 | [Back To The Sea](https://open.spotify.com/track/3xmuxebLOqRf9AsIy5QaRq) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Back To The Sea](https://open.spotify.com/album/6i7fu0R1ZzqIIeSDkx4N5B) | 3:13 | 2025-04-10 | 2025-06-06 |
+| [Back To You](https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Dance Cry Laugh Smile](https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD) | 2:42 | 2025-06-05 |  |
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2024-10-10 | 2025-04-25 |
 | [Badass High School Band](https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Badass High School Band](https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4) | 3:54 | 2025-01-02 | 2025-05-16 |
 | [Balladen om Joe Hill](https://open.spotify.com/track/17fA4aBflCSjovdCUPMvG7) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Balladen om Joe Hill](https://open.spotify.com/album/2H8Yypx0nDNWLYnRZhNdig) | 3:16 | 2025-04-24 | 2025-06-06 |
@@ -236,7 +237,7 @@
 | [Midsummer Day](https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz) | [Max Niclasson](https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ), [Lila Arora Niclasson](https://open.spotify.com/artist/1Ba7x99Wc4Kr5H48wKop8w) | [Midsummer Day](https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD) | 2:36 | 2024-06-27 | 2024-09-06 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-27 |
 | [Min far](https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Min far](https://open.spotify.com/album/6vdmOcvEwbtCjPdNjxFgqp) | 3:28 | 2025-01-02 | 2025-03-02 |
-| [Mitt i min stad](https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Sommar](https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu) | 2:22 | 2025-04-24 |  |
+| [Mitt i min stad](https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Sommar](https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu) | 2:22 | 2025-04-24 | 2025-06-08 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
 | [Möt mig i Gamla Stan \(Swing Version\)](https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Se mig bara för den jag är](https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh) | 3:06 | 2024-06-27 | 2024-08-23 |

@@ -387,6 +387,6 @@
 | [yellow person](https://open.spotify.com/track/0C2WqWeeWaka4kq3HymbeS) | [remi](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm) | [yellow person](https://open.spotify.com/album/60cvxedpx3NxbhUS3YahQU) | 3:27 | 2025-01-30 | 2025-05-02 |
 | [You Were The Moonlight](https://open.spotify.com/track/43xdAmUc5olyh2c3yxOJEX) | [Wijayakusuma](https://open.spotify.com/artist/5KgRQdSlhcqrxKOREfyIIN) | [You Were The Moonlight](https://open.spotify.com/album/0Cn62bXtlfePVAnq5Il7ao) | 2:05 | 2025-01-17 | 2025-03-14 |
 | [You're So Cold \(Like My House\)](https://open.spotify.com/track/5lZ4w2PUb6K6JGQM4tIGzK) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [You're So Cold \(Like My House\)](https://open.spotify.com/album/5gSu5GEKdHMb8csHxbz6v8) | 2:56 | 2024-06-27 | 2024-09-06 |
-| [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:33 | 2025-05-29 |  |
+| [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 | 2025-05-29 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

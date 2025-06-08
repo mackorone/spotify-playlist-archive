@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina, con Yarea en portada.",
-  "num_followers": 291003,
+  "num_followers": 290957,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJ95AAAAAA37DHv9ZGotCnzrf3X6+59",
+  "snapshot_id": "AAAAAEND1SoHHvPPaOuXo1oiXgk3YJpN",
   "tracks": [
     {
       "added_at": "2025-06-06 05:34:28",
@@ -507,6 +507,26 @@
       "duration_ms": 223965,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/70b5OhFo87LAMGndZxkFtN"
+    },
+    {
+      "added_at": "2025-06-07 09:12:12",
+      "album": {
+        "name": "Adi\u00f3s, hola",
+        "url": "https://open.spotify.com/album/0W4Lcl5JzVXX1fDPaxaWaM"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3rtel",
+          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+        },
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 132303,
+      "name": "Adi\u00f3s, hola",
+      "url": "https://open.spotify.com/track/3wAeje1UyjEE9dHNlvULk2"
     },
     {
       "added_at": "2025-06-06 05:34:28",
@@ -1027,22 +1047,6 @@
       "duration_ms": 138164,
       "name": "El Uniforme",
       "url": "https://open.spotify.com/track/1EspptpHIR5ZZvxxwXJecA"
-    },
-    {
-      "added_at": "2025-05-30 03:00:11",
-      "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 116390,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq"
     }
   ],
   "unique_name": "Novedades Indie",

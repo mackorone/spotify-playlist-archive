@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536660,
+  "num_followers": 536651,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Georges Brassens chante les chansons po\u00e9tiques (et souvent gaillardes) N\u00b01",
-        "url": "https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "La mauvaise r\u00e9putation",
-      "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Dave",
         "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 180200,
       "name": "Du c\u00f4te de chez Swann",
       "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Georges Brassens chante les chansons po\u00e9tiques (et souvent gaillardes) N\u00b01",
+        "url": "https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "La mauvaise r\u00e9putation",
+      "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
-        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Les amoureux des bancs publics",
-      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "La Montagne",
         "url": "https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 184813,
       "name": "La montagne",
       "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "France Gall CD Story",
         "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 153480,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Georges Brassens Gold",
-        "url": "https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Les copains d'abord",
-      "url": "https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+        "name": "Georges Brassens Gold",
+        "url": "https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW"
       },
       "artists": [
         {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
         }
       ],
-      "duration_ms": 134973,
-      "name": "Santiano",
-      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
+      "duration_ms": 241626,
+      "name": "Les copains d'abord",
+      "url": "https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -987,6 +987,22 @@
       "duration_ms": 245533,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Santiano",
+      "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
-      },
-      "artists": [
-        {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "C\u00e9line",
-      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 253013,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
     },
     {
       "added_at": "2024-07-25 13:22:22",

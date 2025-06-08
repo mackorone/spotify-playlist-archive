@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-305 songs - 15 hr 46 min
+306 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2021-08-20 | 2024-04-19 |
 | [Mine \[Le Boeuf Remix\]](https://open.spotify.com/track/4QLmoDYp0RQ3lTHbAVAuyZ) | [Mark Mendy](https://open.spotify.com/artist/7AgS2ycsLUG0NPTY1AAboT), [Paolo Lewis](https://open.spotify.com/artist/6Aj65uTKUdcJUGTAdwTz6K), [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH) | [Mine \[Remixes\]](https://open.spotify.com/album/3H94YRs1OYRuDcv3MoIiJi) | 2:28 | 2021-08-20 | 2022-07-25 |
 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 | 2025-03-18 |  |
-| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2025-03-18 |  |
+| [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2025-03-18 | 2025-06-08 |
 | [More Than I Can Say](https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB) | 2:33 | 2021-08-20 | 2024-04-19 |
 | [More Than I Can Say](https://open.spotify.com/track/7HjAWHKa7PURoZFHgjOA5O) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/79vdDwERqObqv5rU1Io08H) | 2:33 | 2021-08-20 | 2022-11-16 |
 | [More Than OK \(with Clara Mae\)](https://open.spotify.com/track/3vhBXJkEQPcHeVWYtvaLDA) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [More Than OK \(with Clara Mae\)](https://open.spotify.com/album/2PcTy35CZm4eoIaaYxlGwI) | 2:36 | 2021-08-20 | 2022-02-07 |
@@ -268,6 +268,7 @@
 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII) | [Winati](https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [Sweet Dreams \(are Made of This\)](https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B) | 2:56 | 2021-08-20 | 2025-01-13 |
 | [Take Your Love](https://open.spotify.com/track/1Cxlad9pX88iFic9SjlqBt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Take Your Love](https://open.spotify.com/album/2dDHWQTArZvr2QkP2njn7d) | 3:33 | 2021-08-20 | 2022-07-28 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2025-03-18 |  |
+| [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 | 2025-03-18 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-03-18 |  |
 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 | 2021-08-20 | 2025-03-19 |
 | [The Chancer \- Svidden Remix](https://open.spotify.com/track/69h0fvryrGvY6WPWuFIs3X) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Under the Surface](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) | 3:26 | 2021-08-20 | 2022-05-25 |

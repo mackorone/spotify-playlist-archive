@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-358 songs - 19 hr 53 min
+359 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-05-03 | 2022-07-29 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2024-06-22 |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
-| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 |  |
+| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 | 2025-06-08 |
 | [Arisa](https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 2:40 | 2024-07-02 |  |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 | 2024-11-16 |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
@@ -314,6 +314,7 @@
 | [Torii Road](https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Legends of the Past](https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3) | 2:08 | 2024-07-02 |  |
 | [Torimichi](https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs) | [Coddneck](https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw) | [Torimichi](https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV) | 4:41 | 2024-07-02 |  |
 | [Trippin' Time](https://open.spotify.com/track/2XCVJTZ9wyEb1YXr3Ir8cv) | [AshRock](https://open.spotify.com/artist/08AdANE6bANzhwZ5LB6KN8) | [Kenzasburg](https://open.spotify.com/album/3cXTLtoW54LGPtDk3Ylw07) | 3:44 | 2022-05-03 | 2022-07-28 |
+| [Tsunagari](https://open.spotify.com/track/7p2OkGvpSOvzMfJECWu5NA) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd), [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Tsunagari](https://open.spotify.com/album/0aFOlo0qGQ572Vwd0i0Iot) | 3:20 | 2025-05-23 |  |
 | [Tui and La](https://open.spotify.com/track/2ZCul1JdESVkNO8uAQwEYQ) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Temple Tales](https://open.spotify.com/album/5EbQRFu2JlmLql9Gy05MUr) | 2:33 | 2024-07-02 | 2024-10-11 |
 | [Turu\-Ima](https://open.spotify.com/track/0jBtrAzvFc1vnLI4rGtYvd) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Turu\-Ima](https://open.spotify.com/album/4uMh3lacLXG9av3GFkGM09) | 1:57 | 2024-07-02 |  |
 | [Umbrella](https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ) | [Tsunenori](https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh) | [FANTASTIC JOURNEY](https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N) | 3:24 | 2025-05-23 |  |

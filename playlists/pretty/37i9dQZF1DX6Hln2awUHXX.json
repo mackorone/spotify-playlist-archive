@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 106489,
+  "num_followers": 106502,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -812,6 +812,30 @@
       "added_at": "2022-06-28 08:58:25",
       "album": {
         "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
+      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/13hP609seD6wlWLhKz3qxM"
       },
       "artists": [
@@ -839,30 +863,6 @@
       "duration_ms": 383706,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?...Der M\u00e4nner Sippe sa\u00df hier\"",
       "url": "https://open.spotify.com/track/5BDIQEtnvYf4A2VJvt3TP7"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Walk\u00fcre",
-        "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "Die Walk\u00fcre: Act II, Scene I, \"Deiner ew\u2019gen Gattin\" (Fricka)",
-      "url": "https://open.spotify.com/track/74BUb8MznOM8EvmdA4GjVM"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1086,46 +1086,6 @@
         {
           "name": "Wolfgang Sawallisch",
           "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Chor der Bayerischen Staatsoper",
-          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
-        },
-        {
-          "name": "Cornelia Kallisch",
-          "url": "https://open.spotify.com/artist/3wZsZF3NmiMeCqPfPImm8R"
-        },
-        {
-          "name": "Deon Van Der Walt",
-          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
-      "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
         }
       ],
       "duration_ms": 345840,
@@ -1152,21 +1112,25 @@
           "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
         },
         {
-          "name": "Ben Heppner",
-          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
         },
         {
           "name": "Chor der Bayerischen Staatsoper",
           "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
         },
         {
+          "name": "Cornelia Kallisch",
+          "url": "https://open.spotify.com/artist/3wZsZF3NmiMeCqPfPImm8R"
+        },
+        {
           "name": "Deon Van Der Walt",
           "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
         }
       ],
-      "duration_ms": 435106,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 1: \"Der Meister T\u00f6n' und Weisen\" - \"Damit, Herr Ritter\" (David, Walther, Chor)",
-      "url": "https://open.spotify.com/track/3Ok9NLhvrbvWouDJxDcc1t"
+      "duration_ms": 238106,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
+      "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1203,6 +1167,42 @@
       "duration_ms": 394093,
       "name": "Lohengrin, Act III Scene 3: In fernem Land \"Grail Narration\"",
       "url": "https://open.spotify.com/track/1HERfJC2zM3qCBvFZ7WwGw"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper",
+          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
+        },
+        {
+          "name": "Deon Van Der Walt",
+          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
+        }
+      ],
+      "duration_ms": 435106,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 1: \"Der Meister T\u00f6n' und Weisen\" - \"Damit, Herr Ritter\" (David, Walther, Chor)",
+      "url": "https://open.spotify.com/track/3Ok9NLhvrbvWouDJxDcc1t"
     },
     {
       "added_at": "2022-06-28 08:58:25",

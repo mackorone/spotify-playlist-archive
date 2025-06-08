@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: SEYSEY x BOLEMVN
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,483 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,666 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [I Feel So Bad](https://open.spotify.com/track/0qNgxeW3EHbX5XjkBS4Dlh) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [I Feel So Bad](https://open.spotify.com/album/1lWVSmqMzZ7ADV8vMfVDXK) | 2:00 |
 | 50 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 |
 
-Snapshot ID: `aEIThgAAAAAiSmn1F+6NNwIG4i9VtUTI`
+Snapshot ID: `AAAAAAbaolRWmpxNECDar/vUdUzEIDmk`

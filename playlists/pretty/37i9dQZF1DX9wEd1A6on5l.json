@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 91982,
+  "num_followers": 92076,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 152544,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
         "name": "Police",
         "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 152544,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -543,34 +543,22 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
       "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
-      },
-      "artists": [
+        },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 142758,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -591,6 +579,22 @@
       "duration_ms": 166363,
       "name": "Follow Her (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/1n75T4YcMVF247pHqT678d"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -635,22 +639,18 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
-        "name": "Awuke",
-        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
+        "name": "Be There Still",
+        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
       },
       "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
-        "name": "Babcock",
-        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 143476,
-      "name": "Babcock",
-      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
         "name": "Money Moves",
         "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 163633,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
+        "name": "Babcock",
+        "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 143476,
+      "name": "Babcock",
+      "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
         "name": "Viva Lavida",
         "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
-        "name": "Mukutu",
-        "url": "https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 155164,
-      "name": "Mukutu",
-      "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
         "name": "FOR YOU",
         "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
+        "name": "Mukutu",
+        "url": "https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 155164,
+      "name": "Mukutu",
+      "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
+        "name": "Ladida",
+        "url": "https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 131307,
+      "name": "Ladida",
+      "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
         "name": "Forex Boys",
         "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
       },
@@ -1287,30 +1303,6 @@
       "duration_ms": 137000,
       "name": "Forex Boys",
       "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tolibian",
-          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 128741,
-      "name": "RAMADAN KAREEM (with Tolibian & Boj)",
-      "url": "https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -1335,18 +1327,26 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
-        "name": "Ladida",
-        "url": "https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ"
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
       },
       "artists": [
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tolibian",
+          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 131307,
-      "name": "Ladida",
-      "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
+      "duration_ms": 128741,
+      "name": "RAMADAN KAREEM (with Tolibian & Boj)",
+      "url": "https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw"
     },
     {
       "added_at": "2025-06-06 10:37:15",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-06-06 10:37:15",
       "album": {
-        "name": "OFA: Deluxe Edition",
-        "url": "https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 161351,
-      "name": "DOINGZ",
-      "url": "https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8"
-    },
-    {
-      "added_at": "2025-06-06 10:37:15",
-      "album": {
         "name": "Composure (feat. ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 165517,
       "name": "Composure (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV"
+    },
+    {
+      "added_at": "2025-06-06 10:37:15",
+      "album": {
+        "name": "OFA: Deluxe Edition",
+        "url": "https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 161351,
+      "name": "DOINGZ",
+      "url": "https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8"
     },
     {
       "added_at": "2025-06-06 10:37:15",

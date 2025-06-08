@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Chefin
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,379 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,450 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Contando na Minha](https://open.spotify.com/track/7E3Yl950GR5DvQiAH6AJlN) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Estrela do Blocko !](https://open.spotify.com/album/5NduXW5kkie5ZrLJBO3OF0) | 2:09 |
 | 75 | [A$HP On The Radar Freestyle](https://open.spotify.com/track/3HG1O4JAqZeQSih4IA6qTs) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [A$HP On The Radar Freestyle](https://open.spotify.com/album/2RmktTN9U63N3t6pGF4tPg) | 2:05 |
 
-Snapshot ID: `AAAAAD9/lcEeXk5Id8vnPGrZD91WOWK8`
+Snapshot ID: `aEJZpgAAAABwqCg3XFPMwe5W3mujYuSB`

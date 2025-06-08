@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 310547,
+  "num_followers": 311027,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-06-05 22:01:45",
       "album": {
-        "name": "Versatchy (It's Versace!)",
-        "url": "https://open.spotify.com/album/5DJPbV62i2U38eyaFo85Q5"
-      },
-      "artists": [
-        {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        },
-        {
-          "name": "Tanzer",
-          "url": "https://open.spotify.com/artist/3LvYRSpWitDvh2e2MraYaU"
-        }
-      ],
-      "duration_ms": 162457,
-      "name": "Versatchy (It's Versace!)",
-      "url": "https://open.spotify.com/track/388tWOesTmshRi7z189NTz"
-    },
-    {
-      "added_at": "2025-06-05 22:01:45",
-      "album": {
         "name": "Tac..!",
         "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2025-06-05 22:01:45",
+      "album": {
+        "name": "Versatchy (It's Versace!)",
+        "url": "https://open.spotify.com/album/5DJPbV62i2U38eyaFo85Q5"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Tanzer",
+          "url": "https://open.spotify.com/artist/3LvYRSpWitDvh2e2MraYaU"
+        }
+      ],
+      "duration_ms": 162457,
+      "name": "Versatchy (It's Versace!)",
+      "url": "https://open.spotify.com/track/388tWOesTmshRi7z189NTz"
     },
     {
       "added_at": "2025-06-05 22:01:45",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-06-05 22:01:45",
       "album": {
-        "name": "Pazzo Italiano",
-        "url": "https://open.spotify.com/album/7G0egW1pCmKnpwRT9MZ81F"
-      },
-      "artists": [
-        {
-          "name": "Tamati",
-          "url": "https://open.spotify.com/artist/5N4Hr2udzNz82WhOJmyIDU"
-        }
-      ],
-      "duration_ms": 302068,
-      "name": "Sentimento Universale",
-      "url": "https://open.spotify.com/track/5Lzr2D8OagZ5Oy6JxoQ8PK"
-    },
-    {
-      "added_at": "2025-06-05 22:01:45",
-      "album": {
         "name": "Sciura Milanese",
         "url": "https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+    },
+    {
+      "added_at": "2025-06-05 22:01:45",
+      "album": {
+        "name": "Pazzo Italiano",
+        "url": "https://open.spotify.com/album/7G0egW1pCmKnpwRT9MZ81F"
+      },
+      "artists": [
+        {
+          "name": "Tamati",
+          "url": "https://open.spotify.com/artist/5N4Hr2udzNz82WhOJmyIDU"
+        }
+      ],
+      "duration_ms": 302068,
+      "name": "Sentimento Universale",
+      "url": "https://open.spotify.com/track/5Lzr2D8OagZ5Oy6JxoQ8PK"
     },
     {
       "added_at": "2025-06-05 22:01:45",

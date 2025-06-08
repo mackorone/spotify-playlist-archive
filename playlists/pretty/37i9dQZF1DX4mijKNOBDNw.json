@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 59536,
+  "num_followers": 59537,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "No Estamos Solas (Tema Central de la Serie \"La Jaur\u00eda\")",
         "url": "https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 173508,
       "name": "No Estamos Solas - Tema Central de la Serie \"La Jaur\u00eda\"",
       "url": "https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Mi Fuerza Es Tuya",
-        "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
-      },
-      "artists": [
-        {
-          "name": "Thelma Fardin",
-          "url": "https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 245441,
-      "name": "Mi Fuerza Es Tuya",
-      "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Hermanas",
         "url": "https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 246000,
       "name": "Hermanas",
       "url": "https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Mi Fuerza Es Tuya",
+        "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
+      },
+      "artists": [
+        {
+          "name": "Thelma Fardin",
+          "url": "https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 245441,
+      "name": "Mi Fuerza Es Tuya",
+      "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -903,18 +903,26 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "La Manada",
-        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
       },
       "artists": [
         {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+          "name": "AKACATS",
+          "url": "https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X"
+        },
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
         }
       ],
-      "duration_ms": 164507,
-      "name": "La Manada",
-      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
+      "duration_ms": 206649,
+      "name": "Lucha",
+      "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -943,26 +951,18 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
+        "name": "La Manada",
+        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
       },
       "artists": [
         {
-          "name": "AKACATS",
-          "url": "https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X"
-        },
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 206649,
-      "name": "Lucha",
-      "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
+      "duration_ms": 164507,
+      "name": "La Manada",
+      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/1rbgnjnxu4tHWNdf2OuArH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Peralta",
+          "url": "https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId"
+        },
+        {
+          "name": "Fabi\u00e1n Hidalgo",
+          "url": "https://open.spotify.com/artist/2ZylpF6ChLnfAkQHINmf8r"
+        }
+      ],
+      "duration_ms": 271315,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/60y8hKEZjCMchod0EcEnN7"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Aqu\u00ed Seguimos 2020",
         "url": "https://open.spotify.com/album/62d6vTic3lLfCvt4HVEDYF"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 270498,
       "name": "Aqu\u00ed Seguimos 2020",
       "url": "https://open.spotify.com/track/3IdyNey4zJRrCLrRDmhZBc"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/1rbgnjnxu4tHWNdf2OuArH"
-      },
-      "artists": [
-        {
-          "name": "Valentina Peralta",
-          "url": "https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId"
-        },
-        {
-          "name": "Fabi\u00e1n Hidalgo",
-          "url": "https://open.spotify.com/artist/2ZylpF6ChLnfAkQHINmf8r"
-        }
-      ],
-      "duration_ms": 271315,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/60y8hKEZjCMchod0EcEnN7"
     },
     {
       "added_at": "2024-07-23 21:39:12",

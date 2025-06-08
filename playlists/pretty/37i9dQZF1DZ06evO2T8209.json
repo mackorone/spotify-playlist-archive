@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 711600,
+  "num_followers": 711697,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAC7ZDE1TNz7qR4ZaO47rtdW",
+  "snapshot_id": "aEIvgAAAAABfuutvhhfLT7gE6JT+Z47M",
   "tracks": [
     {
       "added_at": null,
@@ -838,11 +838,19 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 138312,
-      "name": "LUMBERJACK",
-      "url": "https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe"
+      "duration_ms": 146419,
+      "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
     },
     {
       "added_at": null,
@@ -918,19 +926,11 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 146419,
-      "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
-      "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
+      "duration_ms": 138312,
+      "name": "LUMBERJACK",
+      "url": "https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe"
     },
     {
       "added_at": null,

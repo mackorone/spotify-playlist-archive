@@ -4725,7 +4725,7 @@
 | [Your Way Is Super Cool](https://open.spotify.com/track/2NlCD1JuKSzwQ2WJmmV0E8) | [Hyndia](https://open.spotify.com/artist/6rz8KB9pctNbwzJVvRb4sK) | [Your Way Is Super Cool](https://open.spotify.com/album/5rglv2WNX3jZV0pqme3Dlj) | 3:15 | 2023-06-15 | 2023-06-30 |
 | [Yours](https://open.spotify.com/track/7fP6Xk4Z2XEQChUUNzqnK5) | [Safira](https://open.spotify.com/artist/1TTCdhup2hG2qknM9QkVeG) | [Yours](https://open.spotify.com/album/3QQ5yItihjkz9FPOOLg8te) | 3:10 | 2023-01-20 | 2023-02-10 |
 | [Yours](https://open.spotify.com/track/1DmZW4bNRPqi7HGzUDOVym) | [Waldi Kyzo](https://open.spotify.com/artist/4znBC67Mci043Ana2BospW) | [Yours](https://open.spotify.com/album/2v1VjA3LpvJGlrDmJoaxPL) | 3:27 | 2023-08-31 | 2023-09-20 |
-| [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:33 | 2025-05-30 |  |
+| [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 | 2025-05-30 |  |
 | [Zeppelin](https://open.spotify.com/track/6NU2UgkLCHtU7t5YRbCMeC) | [Langitjiwa](https://open.spotify.com/artist/3DxPjyuEJayd24Xy0yiBP2) | [Zeppelin](https://open.spotify.com/album/5VGyX4pp9SgQyMmHHruqWx) | 4:27 | 2024-09-13 | 2024-10-12 |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

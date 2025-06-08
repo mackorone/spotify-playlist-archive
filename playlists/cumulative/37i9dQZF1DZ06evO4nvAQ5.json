@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199516,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
+    },
+    {
+      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -416,7 +434,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 194731,
       "name": "Feelings (with J Boog & Gyptian)",
       "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"

@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-406 songs - 20 hr 58 min
+407 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-10-13 |  |
 | [Drink, Drank, Dancefloor \- Lexa'S Peak Mix](https://open.spotify.com/track/4Snp6mqDCUzPJfnKxdC3AW) | [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI) | [Drink, Drank, Dancefloor \(Lexa'S Peak Mix\)](https://open.spotify.com/album/2fgVuOyGchBrKXrsz4hyrC) | 5:16 | 2025-02-03 |  |
 | [Drip](https://open.spotify.com/track/0dfNT0PN07Ea7EU7lpoedL) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Drip](https://open.spotify.com/album/4M1hKTiZyAn6fA169Fr8MB) | 3:27 | 2025-03-07 |  |
+| [Dusk Till Dawn](https://open.spotify.com/track/0PPi1m29PJixaV00zIngDc) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Erire](https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj) | [Dusk Till Dawn](https://open.spotify.com/album/4lfTQlhIe89eQJlIF2yhE7) | 3:14 | 2025-06-07 |  |
 | [EASE MY MIND](https://open.spotify.com/track/2RwGziqLwMsSTE6tZdckEh) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [EASE MY MIND](https://open.spotify.com/album/2Gp2L1uGCTT7f7x3wYKuUc) | 2:53 | 2024-04-26 |  |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-07-28 | 2024-08-03 |
 | [Echo](https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Echo](https://open.spotify.com/album/3oVQAqfrzIg4S5pF74au4x) | 2:14 | 2023-08-17 | 2024-05-01 |

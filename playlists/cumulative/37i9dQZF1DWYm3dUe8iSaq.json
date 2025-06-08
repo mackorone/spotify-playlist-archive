@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Drug Dealer",
+        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "Drug Dealer",
+      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
+    },
+    {
+      "album": {
         "name": "Easily",
         "url": "https://open.spotify.com/album/0i5INz3vtaN57kNLYj4gg2"
       },
@@ -3625,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Copper Changes Color",
+        "url": "https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252666,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
+    },
+    {
+      "album": {
         "name": "Minute Of Your Love",
         "url": "https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1"
       },
@@ -4140,7 +4176,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 209000,
       "name": "One Last Song",
       "url": "https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR"
@@ -4642,7 +4678,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 122673,
       "name": "Running Song",
       "url": "https://open.spotify.com/track/3LxL9cmwhDT36cjwDKZ1SC"

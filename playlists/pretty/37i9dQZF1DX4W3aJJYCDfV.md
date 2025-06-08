@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter, Ed Sheeran, Little Simz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,446 likes - 118 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,566 likes - 118 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 117 | [Last Time](https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Last Time](https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj) | 3:05 |
 | 118 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 |
 
-Snapshot ID: `aEIvkgAAAAA/0k+0OOL5p16TGAMjJUZJ`
+Snapshot ID: `aESqDwAAAABeYWU5aKVnGugdUYz32enr`

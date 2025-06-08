@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,953 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,199 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW) | 3:32 |
 | 50 | [Main Dhoondne Ko Zamaane Mein](https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heartless](https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X) | 4:22 |
 
-Snapshot ID: `aDf6NAAAAAD5SVJKYkQ7bL/zOkontQkT`
+Snapshot ID: `AAAAAMQbOaCXnQ0ovLewTWFAJj1y8+83`

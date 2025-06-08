@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Oscar Maydon, Ozuna, Kapo, ELENA ROSE and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,225 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,287 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 7 | [+ Perra + Bitch](https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:18 |
 | 8 | [YUNOGUARA \- Bonus Track](https://open.spotify.com/track/0bI3FYUqolu9UO7hkeq72p) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 2:26 |
 | 9 | [Diamonds](https://open.spotify.com/track/16XAN9gpC9SRqurufHuOtG) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Diamonds](https://open.spotify.com/album/3eXcGyDMSAQVmguugUuaqV) | 2:24 |
-| 10 | [Nostalgia](https://open.spotify.com/track/3VoAuXntmW1YglwJP2bkEy) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Nostalgia](https://open.spotify.com/album/6LL5XadEjLm70ZLwmTd3so) | 4:55 |
+| 10 | [NOSTALGIA](https://open.spotify.com/track/3VoAuXntmW1YglwJP2bkEy) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [NOSTALGIA](https://open.spotify.com/album/6LL5XadEjLm70ZLwmTd3so) | 4:55 |
 | 11 | [Mujer Maravilla](https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Mujer Maravilla](https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN) | 2:27 |
 | 12 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
 | 13 | [100pol35](https://open.spotify.com/track/17720TgdxMGIBuu11ymavE) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [100pol35](https://open.spotify.com/album/3nyHRWsU5NM4ncoJeoxrFY) | 3:29 |

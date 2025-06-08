@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 100757,
+  "num_followers": 100789,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
+        "name": "Suavemente...Los Exitos",
+        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
+    },
+    {
+      "added_at": "2025-05-30 05:03:05",
+      "album": {
         "name": "Tequila Con Cerveza",
         "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 143000,
       "name": "Tequila Con Cerveza",
       "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
-    },
-    {
-      "added_at": "2025-05-30 05:03:05",
-      "album": {
-        "name": "Suavemente...Los Exitos",
-        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI"
     },
     {
       "added_at": "2025-05-30 05:03:05",

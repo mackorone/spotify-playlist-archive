@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,259 likes - 50 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,266 likes - 50 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 10 | [Raga: Pahari](https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s) | [Shujaat Khan](https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0) | [Sweet Melodies](https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ) | 8:14 |
 | 11 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 |
 | 12 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |
-| 13 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 |
-| 14 | [Megh](https://open.spotify.com/track/3lRuxLVLB1nk60BzxhWegW) | [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl), [Anubrata Chatterjee](https://open.spotify.com/artist/1MLZspgw3JzCsQg8R8zEf4), [Indrajit Indro Dey](https://open.spotify.com/artist/2tVkkTDeui1w14sm3q6C3O) | [The Megh Project](https://open.spotify.com/album/1I6WVjNt53hFy2k1y8s8Qx) | 3:40 |
+| 13 | [Megh](https://open.spotify.com/track/3lRuxLVLB1nk60BzxhWegW) | [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl), [Anubrata Chatterjee](https://open.spotify.com/artist/1MLZspgw3JzCsQg8R8zEf4), [Indrajit Indro Dey](https://open.spotify.com/artist/2tVkkTDeui1w14sm3q6C3O) | [The Megh Project](https://open.spotify.com/album/1I6WVjNt53hFy2k1y8s8Qx) | 3:40 |
+| 14 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 |
 | 15 | [The Beauty of Sangat \(feat\. Pt\. Shivkumar Sharma\)](https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 16:40 |
 | 16 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |
 | 17 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: TobyMac",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Tenth Avenue North",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -592,6 +592,24 @@
       "duration_ms": 175142,
       "name": "Authority (In The Name Of Jesus)",
       "url": "https://open.spotify.com/track/7mwGxVzcNze72t7F2Om5dh"
+    },
+    {
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/4840kTeOAUjcZTWuzKPCMr"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0VCKzgBHVbEex7guaat0gq"
     },
     {
       "album": {
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 238336,
       "name": "Dare You To Move",
       "url": "https://open.spotify.com/track/5ACfoDwpvwGiq6z1SEZlFp"
@@ -1576,6 +1594,24 @@
       "duration_ms": 218533,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ"
+    },
+    {
+      "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/6hz2shRyNC1PanglDzTcdz"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219142,
+      "name": "Desperate - Studio Session",
+      "url": "https://open.spotify.com/track/5pUGIHoH0EPJhBgZDSWWo0"
     },
     {
       "album": {
@@ -1965,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Favorite Parts",
+        "url": "https://open.spotify.com/album/60uAVGNMj6X7Ct6LX2YyPR"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "Favorite Parts",
+      "url": "https://open.spotify.com/track/2DKVZg39ZTVZq54RPyKJo8"
+    },
+    {
+      "album": {
         "name": "Fear Has No Place",
         "url": "https://open.spotify.com/album/7euDT3ieX9gq8cEOZjvZcw"
       },
@@ -2189,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Worldwide Revival (Deluxe)",
+        "url": "https://open.spotify.com/album/4qX1fOhXBomSPnb1BfsvLP"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223629,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/0k6tb2OphQjr3i2Fc96rts"
+    },
+    {
+      "album": {
         "name": "Free At Last",
         "url": "https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG"
       },
@@ -2348,6 +2420,28 @@
       "duration_ms": 147988,
       "name": "FUNNY",
       "url": "https://open.spotify.com/track/5dUEw9YLflCgGZ7Nqaq36F"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me (feat. Zach Williams)",
+        "url": "https://open.spotify.com/album/5cWfdqq6E688gmDTSWgHXP"
+      },
+      "artists": [
+        {
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Get Behind Me (feat. Zach Williams)",
+      "url": "https://open.spotify.com/track/1TQoteChnevdwvlnOzYmDB"
     },
     {
       "album": {
@@ -3782,7 +3876,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
@@ -4034,7 +4128,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 191779,
       "name": "How Many Times (oh how You love me)",
       "url": "https://open.spotify.com/track/5dc0HWu0cc0voNz32RSiR1"
@@ -4492,7 +4586,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 206500,
       "name": "I'm Gonna Let It Go - Acoustic",
       "url": "https://open.spotify.com/track/3aoGfI1YdOdcHzO39dCFgT"
@@ -4818,7 +4912,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 292666,
       "name": "It's all in your hands.",
       "url": "https://open.spotify.com/track/74Zpl141MODeMJAmBvm9oD"
@@ -5136,7 +5230,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 182128,
       "name": "Kind To Myself",
       "url": "https://open.spotify.com/track/51OOS7PnlhHOgkl6vJZbBL"
@@ -5422,7 +5516,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 256058,
       "name": "Live Like That",
       "url": "https://open.spotify.com/track/6BPvhntQLwxuxJxmbdSKKB"
@@ -6756,7 +6850,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 215965,
       "name": "ONE REASON (feat. Tauren Wells)",
       "url": "https://open.spotify.com/track/0mxcCI6jndyz6rXpjTVgCg"
@@ -7281,6 +7375,28 @@
     },
     {
       "album": {
+        "name": "The Richest Man In The World",
+        "url": "https://open.spotify.com/album/4OMvP4sa3TdgGzgLJ1eMtH"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        },
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179448,
+      "name": "Praying For Me",
+      "url": "https://open.spotify.com/track/1O3wCERQXjC8b6HO2aYXiA"
+    },
+    {
+      "album": {
         "name": "Prepare The Way",
         "url": "https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ"
       },
@@ -7350,7 +7466,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 212876,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/64xTDRWYWyhfcx0rZexbhO"
@@ -7697,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "Learning to Trust",
+        "url": "https://open.spotify.com/album/6ixFqtUflfTrFoOLOt6DQH"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237451,
+      "name": "Running with You in the Dark",
+      "url": "https://open.spotify.com/track/0G3VRMNpInROdMyGAabE0t"
+    },
+    {
+      "album": {
         "name": "Runs Deep",
         "url": "https://open.spotify.com/album/4smwHvbi6U0NAV4QhTwmiD"
       },
@@ -7921,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0krZJCkuOSX8IrsFrpF5bc"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211671,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1zsjtGlGT7eRufHmx7l5Hg"
+    },
+    {
+      "album": {
         "name": "SHOUT IT DOWN",
         "url": "https://open.spotify.com/album/2ErBak2iJlBGMNbi8SqMZR"
       },
@@ -7958,7 +8110,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 181646,
       "name": "Since Jesus",
       "url": "https://open.spotify.com/track/65QRRHctNDru7cMg80Jxd5"
@@ -8176,6 +8328,28 @@
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+    },
+    {
+      "album": {
+        "name": "Life Is A Highway: Refueled Duets",
+        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/3tDo6YZzIZlc5gRy31lvJD"
     },
     {
       "album": {
@@ -8749,6 +8923,24 @@
     },
     {
       "album": {
+        "name": "The 99",
+        "url": "https://open.spotify.com/album/196zJEu1OoZnGzt4kzNarI"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198162,
+      "name": "The 99",
+      "url": "https://open.spotify.com/track/6PVcP3bIE0oM6miXUzsO4n"
+    },
+    {
+      "album": {
         "name": "I LOVE JESUS",
         "url": "https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe"
       },
@@ -8760,7 +8952,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 201106,
       "name": "The 99",
       "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
@@ -9798,6 +9990,24 @@
       "duration_ms": 285264,
       "name": "WALK ON WATER",
       "url": "https://open.spotify.com/track/5WbNxzVhvR4efwcUXB2goL"
+    },
+    {
+      "album": {
+        "name": "Walk Through Fire",
+        "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
     },
     {
       "album": {

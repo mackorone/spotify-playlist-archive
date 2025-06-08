@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Big Warm Bed
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,699 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,704 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 89 | [Friday On My Mind](https://open.spotify.com/track/3GiGhA6VUi9xPXGUWg1Jds) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Friday On My Mind](https://open.spotify.com/album/0OfxgAV6PQcDKaxLwScMU6) | 2:34 |
 | 90 | [All the Trees](https://open.spotify.com/track/5x8gGBlNMsrcUG8KVFaRPn) | [Charlie Forrest](https://open.spotify.com/artist/1Ud7iEoxRjeEZmpMe5YMYb) | [All the Trees](https://open.spotify.com/album/6PkktmdPNBr4zAbRnLz26u) | 3:04 |
 | 91 | [Run](https://open.spotify.com/track/0a8vnp5Q2UUXzoKvXZ4poN) | [Libby](https://open.spotify.com/artist/1RILUcAHfRWLligq9zTdF0) | [Run](https://open.spotify.com/album/44M9lOyoZhot1Ij0TKVPAK) | 2:50 |
-| 92 | [She makes me feel alive](https://open.spotify.com/track/4av41qe54ExuhONqXBljpm) | [VENTURA](https://open.spotify.com/artist/5d1LWJphB4Dar4Y5njKXNy) | [She makes me feel alive](https://open.spotify.com/album/7C2l8Xij9khPS8cbJJKuM9) | 4:46 |
+| 92 | [She Makes Me Feel Alive](https://open.spotify.com/track/4av41qe54ExuhONqXBljpm) | [VENTURA](https://open.spotify.com/artist/5d1LWJphB4Dar4Y5njKXNy) | [She Makes Me Feel Alive](https://open.spotify.com/album/7C2l8Xij9khPS8cbJJKuM9) | 4:46 |
 | 93 | [The Pencil](https://open.spotify.com/track/0PhgjfjfaaVteJMW4Q7STQ) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [The Pencil](https://open.spotify.com/album/3c1L0TkioqWhP85wGHQc4D) | 4:39 |
 | 94 | [NINGUÉM](https://open.spotify.com/track/17NjH86iAjIaRdu5krJOdG) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [NINGUÉM](https://open.spotify.com/album/5ouIm6IlwjH3FfFI9UMplw) | 3:20 |
 | 95 | [Hold Me](https://open.spotify.com/track/6kQTpC90D6CV6T1kV6IpUj) | [POSE](https://open.spotify.com/artist/7FNECFTI7rxrHu5pFmGoPI) | [Hold Me](https://open.spotify.com/album/6tcGMeIaSYLdxwMah4SkEy) | 2:18 |

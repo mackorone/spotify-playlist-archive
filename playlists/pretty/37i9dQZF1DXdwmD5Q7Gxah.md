@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,383 likes - 148 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,373 likes - 148 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

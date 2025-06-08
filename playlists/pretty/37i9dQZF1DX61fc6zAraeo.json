@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 103239,
+  "num_followers": 103261,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -739,30 +739,6 @@
     {
       "added_at": "2025-05-22 14:11:07",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/3pxCU10ON1fpHhrtzpmGHl"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 127280,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC"
-    },
-    {
-      "added_at": "2025-05-22 14:11:07",
-      "album": {
         "name": "I WANT YOUR LOVE",
         "url": "https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 122008,
       "name": "I WANT YOUR LOVE",
       "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
+    },
+    {
+      "added_at": "2025-05-22 14:11:07",
+      "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/3pxCU10ON1fpHhrtzpmGHl"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 127280,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC"
     },
     {
       "added_at": "2025-05-22 14:11:07",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-05-22 14:11:07",
       "album": {
-        "name": "Good Lie",
-        "url": "https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Good Lie",
-      "url": "https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl"
-    },
-    {
-      "added_at": "2025-05-22 14:11:07",
-      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 198620,
       "name": "California (feat. CLOVES)",
       "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
+    },
+    {
+      "added_at": "2025-05-22 14:11:07",
+      "album": {
+        "name": "Good Lie",
+        "url": "https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Good Lie",
+      "url": "https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl"
     },
     {
       "added_at": "2025-05-22 14:11:07",

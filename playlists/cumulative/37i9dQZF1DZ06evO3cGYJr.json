@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 212093,
       "name": "A Finale",
       "url": "https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 205565,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0fpFJTVpRiFHPuTukQnsWk"
@@ -594,6 +594,28 @@
     {
       "album": {
         "name": "falling into place (the cat's out!)",
+        "url": "https://open.spotify.com/album/64i9yGucn6fgikh9NMHC8m"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        },
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186390,
+      "name": "falling into place (the cat's out!)",
+      "url": "https://open.spotify.com/track/5BcemKiPUE9hCukT9GqVCm"
+    },
+    {
+      "album": {
+        "name": "falling into place (the cat's out!)",
         "url": "https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9"
       },
       "artists": [
@@ -608,7 +630,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 186390,
       "name": "falling into place (the cat's out!)",
       "url": "https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO"
@@ -1230,7 +1252,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 73846,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/68Gp6rEh4esguX6AMMN7VU"
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 236870,
       "name": "Temporary Forever",
       "url": "https://open.spotify.com/track/4wr5A8NEiMN2ZjFXD7ZxUh"

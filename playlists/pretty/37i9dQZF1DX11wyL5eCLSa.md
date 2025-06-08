@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Camilo Séptimo en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,945 likes - 101 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,963 likes - 101 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

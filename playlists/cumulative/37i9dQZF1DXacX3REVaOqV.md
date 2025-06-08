@@ -4,7 +4,7 @@
 
 > The best in house music
 
-623 songs - 1 day 17 hr 17 min
+624 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dance With Me](https://open.spotify.com/track/4VTXPam5iSsousoozny2f5) | [Sebastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Dance With Me](https://open.spotify.com/album/0Qf51p3LfsxWGlxzvLd6eT) | 2:11 | 2024-11-12 | 2024-11-23 |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-03-14 | 2024-08-30 |
 | [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-29 |  |
+| [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 | 2025-06-05 |  |
 | [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 | 2024-11-22 | 2025-04-30 |
 | [Dancing Queen](https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB) | 2:54 | 2022-07-28 | 2024-03-01 |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2022-04-14 | 2022-07-29 |
@@ -310,7 +311,7 @@
 | [Keep Me On The Dancefloor](https://open.spotify.com/track/3v8AhfiTziiMe3YgwrEmV9) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/2lehhdJMvhIzZX8tPwWERk) | 2:27 | 2024-10-03 |  |
 | [Kickin' You Out](https://open.spotify.com/track/0iO3MK16dW2cpeTJ1SNaua) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Kickin' You Out](https://open.spotify.com/album/5GPqNUIQJbCfjCPNaV5V42) | 2:35 | 2024-10-24 | 2025-03-21 |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-08-29 |  |
-| [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-08-30 |  |
+| [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 | 2024-08-30 | 2025-06-08 |
 | [La Vida](https://open.spotify.com/track/1gW6EOhbHSn6nFug3zpyHK) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [La Vida](https://open.spotify.com/album/0wu9h1BxsSopqw244jO0U4) | 2:41 | 2022-04-14 | 2022-07-29 |
 | [Lady Love](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh) | 2:54 | 2023-08-17 | 2024-09-13 |
 | [Las Avispas](https://open.spotify.com/track/5hWtMK64O73MxJbyDUn4wU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Brøder](https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR), [Spijker](https://open.spotify.com/artist/6mT5oP27IaBtmiSC1bXcU2) | [Las Avispas](https://open.spotify.com/album/7cVDH7qpKepctlU6vKYEe1) | 2:09 | 2025-06-05 |  |

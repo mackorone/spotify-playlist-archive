@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Anjelia Dom
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,799 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 6 | [Jawab Aku](https://open.spotify.com/track/4uAzEeTdzl7vYcLvua55oc) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Jawab Aku](https://open.spotify.com/album/0cYjH0dc1T885wVjQgFimg) | 3:45 |
 | 7 | [Second Chance](https://open.spotify.com/track/6f12obh4QrOW62klTGnr9t) | [Murry Monolite](https://open.spotify.com/artist/4J4ZBGKe41WRtpjggHKKn1) | [WAY BACK \(SINGLE\)](https://open.spotify.com/album/0Im0d1yicUliXkWY30rw5w) | 2:34 |
 | 8 | [Dekat](https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Dekat](https://open.spotify.com/album/15hJ6liZuJPpbWw3BrpqfC) | 4:27 |
-| 9 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:33 |
+| 9 | [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 |
 | 10 | [Siratan](https://open.spotify.com/track/2TNQiEVrgQhwj3akf8nPhz) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/4VXfamSWSkK2CTv6hUPImL) | 3:45 |
 | 11 | [hush](https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [hush](https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa) | 4:34 |
 | 12 | [All of Our Friends](https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow) | [Melisa Lestira](https://open.spotify.com/artist/5TAIXdOUxvx8CK65DG00KV) | [All of Our Friends](https://open.spotify.com/album/50ZCoF9liqAOOS5Q41Sdhc) | 4:17 |

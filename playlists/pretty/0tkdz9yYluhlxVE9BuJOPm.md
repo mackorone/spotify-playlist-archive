@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0tkdz9yYluhlxVE9BuJOPm.md) - [plain]
 
 > A collection of live, exclusive performances from the most exciting artists in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373 likes - 397 songs - 1 day 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372 likes - 397 songs - 1 day 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,9 +205,9 @@ pretty - [cumulative](/playlists/cumulative/0tkdz9yYluhlxVE9BuJOPm.md) - [plain]
 | 195 | [R.I.P\. \- Live from Spotify NYC](https://open.spotify.com/track/11jpCy4SWbv1RH4UupAS7H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Sessions](https://open.spotify.com/album/0KjnrN4fvNxmK16v5YHCq6) | 5:02 |
 | 196 | [Roc The Life \- Live from Spotify NYC](https://open.spotify.com/track/71MbnGezW2U8RgaHnkjWDX) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Sessions](https://open.spotify.com/album/0KjnrN4fvNxmK16v5YHCq6) | 5:33 |
 | 197 | [How We Do \(Party\) \- Live from Spotify NYC](https://open.spotify.com/track/0gw9t8io80CCz8XuH440PC) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Sessions](https://open.spotify.com/album/0KjnrN4fvNxmK16v5YHCq6) | 4:41 |
-| 198 | [No Way Down \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/4M0EavawZTth4hjAbIWGkl) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:23 |
-| 199 | [Know Your Onion \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/2F950w5JasEsPPHfspO5yn) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 2:32 |
-| 200 | [Death Cream \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/0u12qLu0hXGHSRbPSfck5q) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:06 |
+| 198 | [No Way Down \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/4M0EavawZTth4hjAbIWGkl) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:23 |
+| 199 | [Know Your Onion \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/2F950w5JasEsPPHfspO5yn) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 2:32 |
+| 200 | [Death Cream \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/0u12qLu0hXGHSRbPSfck5q) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Spotify Sessions](https://open.spotify.com/album/5aeSTpjqwuarRBM1zPCbOY) | 3:06 |
 | 201 | [Intro \- Live from Spotify NYC](https://open.spotify.com/track/4agu2AlyYXW7R77xQmxkiM) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Spotify Sessions](https://open.spotify.com/album/2JCEJTU8Yqnhyk8yQxe2zZ) | 0:57 |
 | 202 | [Closer \- Live from Spotify NYC](https://open.spotify.com/track/6ZXtRdkcQkaok9iT5DFiFT) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Spotify Sessions](https://open.spotify.com/album/2JCEJTU8Yqnhyk8yQxe2zZ) | 4:13 |
 | 203 | [Back in Your Head \- Live from Spotify NYC](https://open.spotify.com/track/4r2A37fgAq8jNt6Ibpgj8k) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Spotify Sessions](https://open.spotify.com/album/2JCEJTU8Yqnhyk8yQxe2zZ) | 3:58 |

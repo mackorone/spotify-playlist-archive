@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,909 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,905 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 42 | [Techno](https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Techno](https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j) | 3:15 |
 | 43 | [Ty Wiesz](https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [Ty Wiesz](https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU) | 2:49 |
 | 44 | [Nie obiecam](https://open.spotify.com/track/6oWYMN1M7M97LTvlRkWfVv) | [Małach](https://open.spotify.com/artist/1s4U0KH826DemEVZgc4Iuu), [Rufuz](https://open.spotify.com/artist/0rYYnTxFACR9nj0pwBpD9n), [Bonson](https://open.spotify.com/artist/2kJ63OVxHAPMMu0AfKa22d), [Małach/Rufuz](https://open.spotify.com/artist/78Rgi3QpIvPGecr69F0D64) | [MATERIAŁ](https://open.spotify.com/album/4xCUeIAuaKwPm3FtbsZBYa) | 3:31 |
-| 45 | [ZBUNTOWANI](https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB) | [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2) | [ZBUNTOWANI](https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q) | 2:58 |
-| 46 | [PRAWDZIWY RAP](https://open.spotify.com/track/68pcoiYGtCx734UpqUhSmo) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [POLONN](https://open.spotify.com/album/42favTg7kBCV9RK0W7Xa0f) | 2:54 |
+| 45 | [PRAWDZIWY RAP](https://open.spotify.com/track/68pcoiYGtCx734UpqUhSmo) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [POLONN](https://open.spotify.com/album/42favTg7kBCV9RK0W7Xa0f) | 2:54 |
+| 46 | [ZBUNTOWANI](https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB) | [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2) | [ZBUNTOWANI](https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q) | 2:58 |
 | 47 | [DresKot](https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [DresKot](https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD) | 2:59 |
 | 48 | [HUTA \(gasną światła\)](https://open.spotify.com/track/0LvnOg56hsjISUvWuq1xMa) | [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN) | [RYK](https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH) | 2:07 |
 | 49 | [Wszystkoholik](https://open.spotify.com/track/0I0DpAq8dp1D7pK2ayI5sZ) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK) | [S.I.M.P](https://open.spotify.com/album/4uWRoauI8CergH5xsXTrgN) | 2:12 |

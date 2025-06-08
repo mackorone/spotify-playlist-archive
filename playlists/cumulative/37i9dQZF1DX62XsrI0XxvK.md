@@ -127,6 +127,6 @@
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-10-03 | 2025-05-02 |
 | [Will U?](https://open.spotify.com/track/37NHeXSJ86rPJoseHnR91V) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Will U?](https://open.spotify.com/album/7yW3BRzqcGO0yvSeKA6876) | 3:26 | 2024-10-03 |  |
 | [Wish You Alright](https://open.spotify.com/track/75lkpEnY3p0FzoLWBUz8K4) | [Chertapraja](https://open.spotify.com/artist/0vx1EzezTVTf0TytIqBEcc), [Sekardust](https://open.spotify.com/artist/29BLaYNcWCRhEuOz1oa5XV) | [Wish You Alright](https://open.spotify.com/album/2XkU05zpkBfdWC47Y9201h) | 4:12 | 2024-10-10 | 2025-05-02 |
-| [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:33 | 2025-05-29 |  |
+| [Yours Forever](https://open.spotify.com/track/12aiiQWeylbUIePzqvm8FQ) | [Thaviella](https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK) | [Yours Forever](https://open.spotify.com/album/16cJ62SvIJHVWJyCZKnZIM) | 3:29 | 2025-05-29 |  |
 
 \*This playlist was first scraped on 2025-04-26. Prior content cannot be recovered.

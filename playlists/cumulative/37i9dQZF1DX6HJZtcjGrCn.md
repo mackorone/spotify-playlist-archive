@@ -4,7 +4,7 @@
 
 > ☀️O teu verão alternativo chegou☀️\. Foto: Capital da Bulgária
 
-290 songs - 17 hr 1 min
+291 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Parece Pouco](https://open.spotify.com/track/5KA1V80qHwba5lZUXthwaa) | [Luca Argel](https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt), [Pri Azevedo](https://open.spotify.com/artist/72PykpqsbT3XmUwPSpDg1u) | [Visita](https://open.spotify.com/album/63Xv1eNicvBdtlhGKuOFDU) | 2:53 | 2024-10-17 | 2024-11-22 |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-11-15 |  |
 | [Pessoas Normais](https://open.spotify.com/track/2OaMeEcbgRmC4gc2w70Dy0) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Pessoas Normais](https://open.spotify.com/album/6HYOMwyb8R4F5ylccBafRU) | 3:00 | 2025-02-28 | 2025-03-28 |
-| [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-21 |  |
+| [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-21 | 2025-06-08 |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-06-20 | 2024-08-04 |
 | [Porque Não Danças](https://open.spotify.com/track/3MwPeBmUfcyjDDCaiKBTrN) | [Filipe Karlsson](https://open.spotify.com/artist/0Yh7cLzoB86bDiq6fAXfB6) | [Porque Não Danças](https://open.spotify.com/album/7bVfNTAe23mCwvvNYxOTqj) | 2:39 | 2024-06-20 | 2024-10-04 |
 | [Primavera](https://open.spotify.com/track/38a6BwqDanayW8iISyM4a3) | [Cassete Pirata](https://open.spotify.com/artist/2VQ14XaMYiXOr7lLePbZrf) | [A Família](https://open.spotify.com/album/0IFYHsfU1eP7rNAGIAmzhM) | 4:39 | 2024-06-20 | 2024-07-05 |
@@ -261,6 +261,7 @@
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 | 2025-01-02 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 |  |
 | [The Juggler](https://open.spotify.com/track/6XQ7yNZogbyocwk3VOuTrK) | [Sara Cruz](https://open.spotify.com/artist/0MKeDWrI54fdwBtvdtc19A) | [Fourteen Forty\-Five](https://open.spotify.com/album/7bB3QRooFFLUhUSQSB4D1t) | 2:54 | 2024-10-17 | 2024-11-15 |
+| [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-06-05 |  |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-06-20 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-11-14 |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-25 | 2024-08-16 |

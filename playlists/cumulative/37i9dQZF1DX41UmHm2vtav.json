@@ -1769,6 +1769,36 @@
     },
     {
       "album": {
+        "name": "Fantas\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/0jYsQ1eNMJ9SdFFLAqROoV"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        },
+        {
+          "name": "Filipe Guerra",
+          "url": "https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206622,
+      "name": "Fantas\u00eda - Remix",
+      "url": "https://open.spotify.com/track/5ajjp3s7TCIs8dyAG4zzAy"
+    },
+    {
+      "album": {
         "name": "Farol (Leo Minas. Remix)",
         "url": "https://open.spotify.com/album/1JAlx0iDQ3DlgqoDnLomZi"
       },
@@ -2456,7 +2486,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"

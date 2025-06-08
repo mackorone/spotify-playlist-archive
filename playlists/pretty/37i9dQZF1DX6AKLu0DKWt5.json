@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7368,
+  "num_followers": 7370,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Ripley (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt"
-      },
-      "artists": [
-        {
-          "name": "Jeff Russo",
-          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "The Talented Mr. Ripley - FIN",
-      "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Monsters: The Lyle and Erik Menendez Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 207753,
       "name": "Hum",
       "url": "https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Ripley (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "The Talented Mr. Ripley - FIN",
+      "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Beetlejuice Beetlejuice (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "MacArthur Park - Single Version",
-      "url": "https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 150506,
       "name": "No Use",
       "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Beetlejuice Beetlejuice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "MacArthur Park - Single Version",
+      "url": "https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg"
     },
     {
       "added_at": "2024-12-20 14:00:08",

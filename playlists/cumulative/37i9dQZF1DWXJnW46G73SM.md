@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: نبيل
 
-1,479 songs - 3 day 10 hr 39 min
+1,480 songs - 3 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1314,6 +1314,7 @@
 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 | 2024-02-13 | 2024-04-12 |
 | [كل يوم](https://open.spotify.com/track/4cxYXG7znzZfIhXN7ssM37) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [كل يوم](https://open.spotify.com/album/4IgEmKihh3Bd7jbA7Cg2qh) | 3:56 | 2024-07-11 | 2024-09-06 |
 | [كل يوم](https://open.spotify.com/track/6QqKLWS2sKSCWEAbK6vXpk) | [Ahmed Mashal](https://open.spotify.com/artist/5fKTVxUJTVu6uYin0ppPdf) | [كل يوم](https://open.spotify.com/album/6jpR5g3cI24zKNIGBl2TyA) | 3:18 | 2024-10-18 | 2024-12-06 |
+| [كلام فارغ](https://open.spotify.com/track/7nZync4cVWk7qP44aVpYy3) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [كلام فارغ](https://open.spotify.com/album/2t69m3YMhYT9girpfbWf3L) | 4:34 | 2025-06-07 |  |
 | [كلام كبار](https://open.spotify.com/track/3hOPWTX0f8Slj25cBdsZTG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd), [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [كلام كبار](https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn) | 4:36 | 2023-02-09 | 2023-03-28 |
 | [كلمة رجوعنا](https://open.spotify.com/track/57rNoEZbQ4KT8kyfrTLunG) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كلمة رجوعنا](https://open.spotify.com/album/4DoX4XWbfVh88LRRXqqtGL) | 4:20 | 2024-01-02 | 2024-02-08 |
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |

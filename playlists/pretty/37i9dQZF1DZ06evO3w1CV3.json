@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 29118,
+  "num_followers": 29123,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAABJC7a0gLghaxnpbh3+kqeE",
+  "snapshot_id": "aEIvgAAAAAA8tmOA86+Nco42f6Barb2k",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Influence EP",
-        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Mother May I Sleep With Danger?",
-      "url": "https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yah / Element (Medley)",
         "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 176374,
       "name": "Yah / Element - Medley",
       "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Influence EP",
+        "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Mother May I Sleep With Danger?",
+      "url": "https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7"
     },
     {
       "added_at": null,
@@ -243,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perception EP",
-        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
       },
       "artists": [
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 202474,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
     },
     {
       "added_at": null,
@@ -275,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pass the Salt (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
       },
       "artists": [
         {
           "name": "Joy Crookes",
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 167010,
-      "name": "Pass the Salt (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
+      "duration_ms": 202474,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
     },
     {
       "added_at": null,

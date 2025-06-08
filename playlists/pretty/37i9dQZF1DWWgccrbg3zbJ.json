@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 444381,
+  "num_followers": 444849,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh"
+        "name": "Jobim, Vinicius, Baden, Menescal, Lyra... (54 Songs)",
+        "url": "https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt"
       },
       "artists": [
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Mi\u00facha",
+          "url": "https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk"
+      "duration_ms": 168226,
+      "name": "Pela luz dos olhos teus",
+      "url": "https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Tom Jobim E Amigos",
-        "url": "https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh"
       },
       "artists": [
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 212400,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
+      "duration_ms": 174133,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk"
     },
     {
       "added_at": "2024-07-08 08:03:54",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
-        "name": "Jobim, Vinicius, Baden, Menescal, Lyra... (54 Songs)",
-        "url": "https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Mi\u00facha",
-          "url": "https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "Pela luz dos olhos teus",
-      "url": "https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
         "name": "20 Grandes Sucessos De Joao Gilberto",
         "url": "https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 184826,
       "name": "Sorriu Para Mim",
       "url": "https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
+        "name": "Tom Jobim E Amigos",
+        "url": "https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
     }
   ],
   "unique_name": "Bossa Nova Classics",

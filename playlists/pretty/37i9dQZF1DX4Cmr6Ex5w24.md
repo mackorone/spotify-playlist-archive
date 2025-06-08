@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,452 likes - 75 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,509 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 72 | [Mettuppodu Mettuppodu](https://open.spotify.com/track/01iiqDKJPQpfCOgG4rfjid) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:15 |
 | 73 | [Kannai Kattikkollathae](https://open.spotify.com/track/4ND4dDfxFWOZx5PXo0bU85) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:01 |
 | 74 | [Roja Roja](https://open.spotify.com/track/6QleOhmbHLwcyB0vOm1uwb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:47 |
-| 75 | [Enna Vilai](https://open.spotify.com/track/1Fg7iPvC0uugUZAjKfN3Wz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:55 |
+| 75 | [Minnalea En Vazhvin](https://open.spotify.com/track/6078vTOfNPOHZDuyzzsMLx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:36 |
 
 Snapshot ID: `aCxMywAAAADD6/XT3GhJwXGBx6mDCuY4`

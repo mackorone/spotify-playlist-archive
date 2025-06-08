@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 118000,
       "name": "Final Cut",
       "url": "https://open.spotify.com/track/6GR7dWU8WAa4wzrN8gcWma"
@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 129767,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/6MO5Vy9rYdsfPCgHCkm2RP"
@@ -5324,7 +5324,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 120000,
       "name": "lemon tree",
       "url": "https://open.spotify.com/track/71qHrRlWDAN4SJFPPEaUAK"
@@ -10350,6 +10350,28 @@
       "duration_ms": 164819,
       "name": "Time 4 Time",
       "url": "https://open.spotify.com/track/4exkfJ2JVCz6cFjXQixprk"
+    },
+    {
+      "album": {
+        "name": "Toucanet / Motmot",
+        "url": "https://open.spotify.com/album/1VaEcs3hAVbmfBbwFCLxfK"
+      },
+      "artists": [
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115443,
+      "name": "Toucanet",
+      "url": "https://open.spotify.com/track/5B8HcOF0JaoHhddYEUCABv"
     },
     {
       "album": {

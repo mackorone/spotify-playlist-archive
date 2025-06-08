@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Pastor Mike Jr\.  & Adia
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,251 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,279 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 7 | [Heal](https://open.spotify.com/track/7F8PxTQf6eTnpSKuZ7IDZU) | [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Heal](https://open.spotify.com/album/3zQvObWa6jN6OwN99lKdsl) | 3:23 |
 | 8 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
 | 9 | [Look What The Lord Has Done](https://open.spotify.com/track/7yAr0K8t6qFOtZvv60iVwP) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Julius Witherspoon](https://open.spotify.com/artist/0vhV8fCwarjXV8IHPkLzQ8), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG) | [Look What The Lord Has Done](https://open.spotify.com/album/0ewWy84htulhvWX4R26Nd7) | 6:28 |
-| 10 | [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 |
-| 11 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 |
-| 12 | [We Win](https://open.spotify.com/track/1ENo7Lyl1O1wqrHS0HtyTj) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Vincent Bohanan](https://open.spotify.com/artist/6Ku6p0A13GQdfSomanEsZC) | [Global Love Alive \(London\)](https://open.spotify.com/album/4CstkyKXOLtLN8OvomnIGD) | 6:25 |
-| 13 | [Lifted Up \- Live](https://open.spotify.com/track/7fVl4R61pmsQwBtSHfQ3EO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Tamela Hairston](https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX) | [Lifted Up](https://open.spotify.com/album/7cyDxBXDrR7SSPRpyRpK2x) | 7:59 |
-| 14 | [Don't Faint](https://open.spotify.com/track/703wwvUGt17zuc5NkGrkLr) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Don't Faint](https://open.spotify.com/album/5SgVeNlYiHyRsS7AbT0C8U) | 3:56 |
-| 15 | [Consuming Fire \- Live](https://open.spotify.com/track/6886N2t0b4BdrsqwE63D1B) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Consuming Fire \(Live\)](https://open.spotify.com/album/4lYeeV4Ggrm0gaQmnuuKgo) | 1:44 |
+| 10 | [The Anthem](https://open.spotify.com/track/6n8BLjTyNj0ud8VKqET8wk) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Promises: The Best Of Todd Dulaney](https://open.spotify.com/album/7KOjEuxSEV9Gfp1AcrnIRP) | 2:00 |
+| 11 | [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 |
+| 12 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 |
+| 13 | [We Win](https://open.spotify.com/track/1ENo7Lyl1O1wqrHS0HtyTj) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Vincent Bohanan](https://open.spotify.com/artist/6Ku6p0A13GQdfSomanEsZC) | [Global Love Alive \(London\)](https://open.spotify.com/album/4CstkyKXOLtLN8OvomnIGD) | 6:25 |
+| 14 | [Lifted Up \- Live](https://open.spotify.com/track/7fVl4R61pmsQwBtSHfQ3EO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Tamela Hairston](https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX) | [Lifted Up](https://open.spotify.com/album/7cyDxBXDrR7SSPRpyRpK2x) | 7:59 |
+| 15 | [Don't Faint](https://open.spotify.com/track/703wwvUGt17zuc5NkGrkLr) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Don't Faint](https://open.spotify.com/album/5SgVeNlYiHyRsS7AbT0C8U) | 3:56 |
 | 16 | [Rain](https://open.spotify.com/track/09ltlFkyREif6QKiKXJDvW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rain](https://open.spotify.com/album/3Oa1Fsz90HH7dZgxPQ5qGZ) | 5:15 |
 | 17 | [Blessings](https://open.spotify.com/track/01lwQQFxFuxOe2UToQBrwE) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Sunny Days](https://open.spotify.com/album/5FTFl9FxKsvNGzvPGHWbtC) | 3:58 |
 | 18 | [Hold Me Up](https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Give It More Time](https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Do It Anyway](https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Do It Anyway](https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx) | 2:57 |
 | 100 | [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 |
 
-Snapshot ID: `aELPagAAAABRmEhPPhpmikPhVCgqDvIh`
+Snapshot ID: `aETBdgAAAAAk88L8EzaulQeyHnb0BQhT`

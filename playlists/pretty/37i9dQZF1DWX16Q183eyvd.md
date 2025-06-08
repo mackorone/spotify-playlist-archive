@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,817 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,961 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Have a Great Time!](https://open.spotify.com/track/6FsBFQkORCWcEf2K4mA0e0) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Have a Great Time!](https://open.spotify.com/album/5JtJBZJCk5qgkbQNCoHtwV) | 2:27 |
+| 1 | [Have a Great Time!](https://open.spotify.com/track/6FsBFQkORCWcEf2K4mA0e0) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Kymberly Stewart](https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f) | [Have a Great Time!](https://open.spotify.com/album/5JtJBZJCk5qgkbQNCoHtwV) | 2:27 |
 | 2 | [Number 1 Fan](https://open.spotify.com/track/7g4nkY0DO585W0yauxcHBX) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Harmony](https://open.spotify.com/album/0PQ19dPwxTPuv4FGxCk8kP) | 4:27 |
 | 3 | [Hot Cross Buns](https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Hot Cross Buns](https://open.spotify.com/album/1MeEOMlu2f1LznNyIU4QtC) | 2:19 |
 | 4 | [Clean Hands](https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Let's Learn](https://open.spotify.com/album/6QQ6JXOnrIfLWdbCVkO1Mk) | 2:09 |

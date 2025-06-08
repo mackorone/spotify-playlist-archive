@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 85722,
+  "num_followers": 85754,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1195,18 +1211,22 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+        "name": "Animosity (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
       },
       "artists": [
         {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+          "name": "Abyss X",
+          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+      "duration_ms": 486760,
+      "name": "Animosity - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1239,26 +1259,6 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
-        "name": "Animosity (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
-      },
-      "artists": [
-        {
-          "name": "Abyss X",
-          "url": "https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 486760,
-      "name": "Animosity - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Delicate Limbs (feat. serpentwithfeet)",
-        "url": "https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr"
-      },
-      "artists": [
-        {
-          "name": "Virgil Abloh",
-          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Delicate Limbs (feat. serpentwithfeet)",
-      "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "XTASIS CARNAL",
         "url": "https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 231875,
       "name": "XTASIS CARNAL",
       "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "Delicate Limbs (feat. serpentwithfeet)",
+        "url": "https://open.spotify.com/album/1mTzdzueGqQj6MiGCN5bkr"
+      },
+      "artists": [
+        {
+          "name": "Virgil Abloh",
+          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Delicate Limbs (feat. serpentwithfeet)",
+      "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Jam Fam (Chanel Show Version)",
-        "url": "https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        }
-      ],
-      "duration_ms": 209555,
-      "name": "Jam Fam - Chanel Show Version",
-      "url": "https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "Fuck",
         "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 174677,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "Jam Fam (Chanel Show Version)",
+        "url": "https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        }
+      ],
+      "duration_ms": 209555,
+      "name": "Jam Fam - Chanel Show Version",
+      "url": "https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Eatin' Good",
-        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
-      },
-      "artists": [
-        {
-          "name": "Woodcamp",
-          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "Eatin' Good",
-      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "Shhh",
         "url": "https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 238222,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "Time Warps",
+        "url": "https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE"
+      },
+      "artists": [
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        }
+      ],
+      "duration_ms": 997568,
+      "name": "Time Stands Still",
+      "url": "https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
+        "name": "Eatin' Good",
+        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
+      },
+      "artists": [
+        {
+          "name": "Woodcamp",
+          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Eatin' Good",
+      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
         "name": "Never Sleep #1",
         "url": "https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 293200,
       "name": "Never Sleep",
       "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
-        "name": "Time Warps",
-        "url": "https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE"
-      },
-      "artists": [
-        {
-          "name": "Richie Hawtin",
-          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
-        }
-      ],
-      "duration_ms": 997568,
-      "name": "Time Stands Still",
-      "url": "https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
-        "url": "https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Sanchez",
-          "url": "https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9"
-        }
-      ],
-      "duration_ms": 82200,
-      "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
-      "url": "https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv"
-    },
-    {
-      "added_at": "2025-04-25 05:00:30",
-      "album": {
         "name": "1 Bump",
         "url": "https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 193800,
       "name": "1 Bump",
       "url": "https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8"
+    },
+    {
+      "added_at": "2025-04-25 05:00:30",
+      "album": {
+        "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
+        "url": "https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Sanchez",
+          "url": "https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9"
+        }
+      ],
+      "duration_ms": 82200,
+      "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
+      "url": "https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Love Letters Remix Edition",
-        "url": "https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu"
+        "name": "Cataclysmic",
+        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
       },
       "artists": [
         {
-          "name": "Loco Dice",
-          "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P"
-        },
-        {
-          "name": "Virgil Abloh",
-          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
+          "name": "Jordan Gill",
+          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
         }
       ],
-      "duration_ms": 389748,
-      "name": "We're Alive - Virgil Abloh Remix",
-      "url": "https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5"
+      "duration_ms": 491652,
+      "name": "White Lights",
+      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
     },
     {
       "added_at": "2025-04-25 05:00:30",
@@ -1711,18 +1707,22 @@
     {
       "added_at": "2025-04-25 05:00:30",
       "album": {
-        "name": "Cataclysmic",
-        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
+        "name": "Love Letters Remix Edition",
+        "url": "https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu"
       },
       "artists": [
         {
-          "name": "Jordan Gill",
-          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
+          "name": "Loco Dice",
+          "url": "https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P"
+        },
+        {
+          "name": "Virgil Abloh",
+          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
         }
       ],
-      "duration_ms": 491652,
-      "name": "White Lights",
-      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
+      "duration_ms": 389748,
+      "name": "We're Alive - Virgil Abloh Remix",
+      "url": "https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5"
     },
     {
       "added_at": "2025-04-25 05:00:30",

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 172055,
+  "num_followers": 172112,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-04-29 15:09:38",
       "album": {
+        "name": "Le Vagabond",
+        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
+    },
+    {
+      "added_at": "2025-04-29 15:09:38",
+      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
-    },
-    {
-      "added_at": "2025-04-29 15:09:38",
-      "album": {
-        "name": "Le Vagabond",
-        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
     },
     {
       "added_at": "2025-04-29 15:09:38",

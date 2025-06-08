@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina, con Yarea en portada.
 
-6,117 songs - 14 day 0 hr 49 min
+6,118 songs - 14 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [20 HORAS](https://open.spotify.com/track/1yKlhtqjDZx5nBT2PAQScU) | [Aura Blum](https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq) | [MOMENTOS](https://open.spotify.com/album/5vU2CTnPSwI5RppivRvWFR) | 2:53 | 2024-08-30 | 2024-09-07 |
 | [20 horas](https://open.spotify.com/track/6PhS9YTUFE4s86jrXBPVXE) | [Pony Pool Club](https://open.spotify.com/artist/3KEsnWcjOOK78VvncOyj2s) | [20 horas](https://open.spotify.com/album/5MDqr44U2aL0TaNM1dka1O) | 3:24 | 2025-04-25 | 2025-05-03 |
 | [200 Mph](https://open.spotify.com/track/6BvLzzz4ODMhfYtZY2BQR9) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Traducciones](https://open.spotify.com/album/0aPvz0rCmRVUUWgPu11uem) | 2:13 | 2022-07-08 | 2022-07-16 |
-| [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:56 | 2025-05-30 |  |
+| [2016](https://open.spotify.com/track/5sbZTCchgVQfxDMwMOtwcq) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [2016](https://open.spotify.com/album/531QfnEmKNv2z1LXVEUghN) | 1:56 | 2025-05-30 | 2025-06-08 |
 | [21 DE ENERo](https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [21 DE ENERo](https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE) | 2:54 | 2024-08-02 | 2024-08-17 |
 | [22](https://open.spotify.com/track/0zjIosLy6aZgKiDQF4d6OS) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Carzé](https://open.spotify.com/artist/11Phvl6lzQFQJ2OcSXloHv) | [22](https://open.spotify.com/album/30EdiRmCfYk5BDf9ouNA6r) | 2:56 | 2022-07-29 | 2022-08-13 |
 | [22:22](https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [En qué pienso cuando lloro](https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI) | 3:21 | 2023-10-13 | 2023-10-21 |
@@ -199,6 +199,7 @@
 | [Adiós](https://open.spotify.com/track/1c6XOzej5UPdKrfOvb2V0j) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Adiós](https://open.spotify.com/album/6E5gd0iEKhHyXWhrHfwIYd) | 2:58 | 2024-02-23 | 2024-03-02 |
 | [Adiós \- Te Quiero \| Un Año Después \- Sesión En Vivo](https://open.spotify.com/track/0xvRjy4XJTCfvo4eAcAEyG) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Te Quiero \| Un Año Después \(Sesión en Vivo\)](https://open.spotify.com/album/5UOI1pEF5CgAVtZUpvLH8N) | 4:01 | 2024-05-10 | 2024-05-18 |
 | [Adiós Elisa](https://open.spotify.com/track/0sRlqD0dQOx00v9oU3lAVw) | [Calequi](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Adiós Elisa](https://open.spotify.com/album/6CXmXvstlJkMVHp6Wr5hll) | 3:01 | 2022-12-05 | 2022-12-17 |
+| [Adiós, hola](https://open.spotify.com/track/3wAeje1UyjEE9dHNlvULk2) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Adiós, hola](https://open.spotify.com/album/0W4Lcl5JzVXX1fDPaxaWaM) | 2:12 | 2025-06-07 |  |
 | [Admiración](https://open.spotify.com/track/1u2ynu6W6dTlHXUdTdrwzV) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Admiración](https://open.spotify.com/album/2Q9k7iuX832oPOLUorm0Bl) | 3:27 | 2023-06-16 | 2023-06-24 |
 | [Adolescer](https://open.spotify.com/track/5CDvD0HVdQibxeuQwAVWaq) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Adolescer](https://open.spotify.com/album/1J1ByOgpro06hpyYdrB0hv) | 3:14 | 2024-06-28 | 2024-07-13 |
 | [ADR](https://open.spotify.com/track/0cpxA2Xfk48ZXUoxJRgiZz) | [Burdeos](https://open.spotify.com/artist/7cr0BoLNRJqGuloE0R8E4G) | [Cuando No Puedes Dormir](https://open.spotify.com/album/6w6dSg5rK6LJ3BumtbdcSa) | 3:38 | 2024-05-17 | 2024-05-25 |

@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "City Walks at 4am",
+        "url": "https://open.spotify.com/album/57i8K8SOoIaEeEfeDBKtKC"
+      },
+      "artists": [
+        {
+          "name": "BKLYN SoundScapes",
+          "url": "https://open.spotify.com/artist/3MMMx0i7Oy2aJgML2Y8cMP"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114970,
+      "name": "City Walks at 4am",
+      "url": "https://open.spotify.com/track/3QNjS4n8aWfE8zCH3cGpLR"
+    },
+    {
+      "album": {
         "name": "clear my mind",
         "url": "https://open.spotify.com/album/77b3Tv4gmHGz7kMOZQmaH4"
       },
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 120000,
       "name": "da vinci",
       "url": "https://open.spotify.com/track/2pt9YJfOzgDrmAbwkv9Fak"
@@ -4480,6 +4498,24 @@
       "duration_ms": 144750,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp"
+    },
+    {
+      "album": {
+        "name": "Enchanted lights",
+        "url": "https://open.spotify.com/album/1Szqrq0Hq27WERZib7cRo7"
+      },
+      "artists": [
+        {
+          "name": "rosetta's stone",
+          "url": "https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Enchanted lights",
+      "url": "https://open.spotify.com/track/50VmJsAU9f3q2WGnUCWVek"
     },
     {
       "album": {
@@ -6334,7 +6370,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 106666,
       "name": "Grooves",
       "url": "https://open.spotify.com/track/2a1kr1fmEAUKphT2cLxGeF"
@@ -9852,7 +9888,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 65581,
       "name": "Midnight Distortions",
       "url": "https://open.spotify.com/track/2nzFbnBMtwhpdSxIpIKjzr"
@@ -11512,7 +11548,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 146379,
       "name": "only you",
       "url": "https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl"
@@ -12400,7 +12436,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 151578,
       "name": "play-doh",
       "url": "https://open.spotify.com/track/17NNZJQvS7WSwKLixBWnXF"
@@ -14160,7 +14196,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 144740,
       "name": "Serene",
       "url": "https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz"
@@ -15110,7 +15146,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 136941,
       "name": "something",
       "url": "https://open.spotify.com/track/3gZES4CVI9MVvp5ShamfxT"
@@ -16728,7 +16764,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-08",
       "duration_ms": 120604,
       "name": "temporary approved",
       "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"

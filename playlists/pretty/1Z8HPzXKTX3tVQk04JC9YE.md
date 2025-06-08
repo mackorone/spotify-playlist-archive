@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Z8HPzXKTX3tVQk04JC9YE.md) - [plain]
 
 > All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 28,407 likes - 52 songs - 3 hr 17 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 28,405 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

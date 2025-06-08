@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring beaux 🍑
 
-270 songs - 14 hr 42 min
+271 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bigger Person](https://open.spotify.com/track/0KoMv3zKj8HhnZvTWaGrRg) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [Bigger Person](https://open.spotify.com/album/1tuk25ivCCkoGhF4T6yhjp) | 2:39 | 2025-05-15 | 2025-05-23 |
 | [Blind](https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Blind](https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq) | 3:00 | 2025-01-24 | 2025-04-13 |
 | [Blonde](https://open.spotify.com/track/7Ln3mdryazFwsIsFHc8WBd) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [I Thought We'd Live Here Forever](https://open.spotify.com/album/5xq3VxjI2Y0hx6mZy89Jkk) | 3:29 | 2025-06-05 |  |
+| [Body](https://open.spotify.com/track/62OHtOJ5DQ9CY8EG5Utf6q) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Body](https://open.spotify.com/album/0WTA23C5XPieRgHe9y9s5K) | 2:49 | 2025-06-05 |  |
 | [body to you](https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:35 | 2025-02-14 | 2025-06-06 |
 | [Bonnie & Clyde](https://open.spotify.com/track/0hBzNwcC1tQynw8fj7nPaj) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [Bonnie & Clyde](https://open.spotify.com/album/7E5ORNlK5vQSY6lpUe1OiD) | 3:37 | 2025-04-12 | 2025-05-18 |
 | [borderline](https://open.spotify.com/track/3cfG7BZUKJuHjXZTpfsjNK) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [borderline](https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT) | 3:25 | 2025-04-12 | 2025-06-03 |
@@ -116,7 +117,7 @@
 | [Gut Punch Love](https://open.spotify.com/track/1qzgtjh0waCwTb1sW9tVQn) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Gut Punch Love](https://open.spotify.com/album/1bkhDhgBqTsNI6rrwGNWZT) | 2:59 | 2024-09-20 | 2025-01-24 |
 | [Hanging by a Thread](https://open.spotify.com/track/6tqJEmnftUdjrHnKqAmWKl) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [Hanging by a Thread](https://open.spotify.com/album/0M5JMvMRDll4Xm9mjMmnJM) | 3:13 | 2025-05-08 |  |
 | [Happier](https://open.spotify.com/track/2K7joY7tfceQ5GRhibXpN2) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Happier](https://open.spotify.com/album/38bpIfVbUtqyWLZPtNf5jY) | 2:47 | 2025-05-01 |  |
-| [Happiness is Love](https://open.spotify.com/track/2SN6DCP1clDviUCjDNMyIn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 2:05 | 2025-06-05 |  |
+| [Happiness is Love](https://open.spotify.com/track/2SN6DCP1clDviUCjDNMyIn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 2:05 | 2025-06-05 | 2025-06-08 |
 | [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 | 2024-06-14 | 2025-01-24 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-20 | 2025-01-24 |
 | [Heart Attack Police](https://open.spotify.com/track/6dWjVOrilqPiFcK2OfBC1o) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Heart Attack Police](https://open.spotify.com/album/5GjrSdkpaaz29CZCowwdsD) | 2:56 | 2025-04-12 |  |

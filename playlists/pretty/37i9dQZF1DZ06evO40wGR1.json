@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 37105,
+  "num_followers": 37132,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEDeAAAAAAC8h9JAxu6lAiJu/C++jWIP",
+  "snapshot_id": "aEIvgAAAAADFNJ/8ZYsISqcYoxv6Zg/v",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5qhTvBl63Blw114264HUbn"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "No Todo Es Oro",
-      "url": "https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 252029,
       "name": "Mandar una Flor - Remastered 2000",
       "url": "https://open.spotify.com/track/768gdK0kUekavH5CCqie9o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5qhTvBl63Blw114264HUbn"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "No Todo Es Oro",
+      "url": "https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Young Jonn, Simi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,414 likes - 61 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,566 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 29 | [Greedy II](https://open.spotify.com/track/16qHxW4UhoKXEejaBqdg55) | [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP) | [Greedy II](https://open.spotify.com/album/45yj8NsVIO1DOAYKZMa14P) | 2:51 |
 | 30 | [DW3](https://open.spotify.com/track/4Maw6qGUGSwM1n8FfQGnpd) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [DW3](https://open.spotify.com/album/2or8EzRDVxdMC3UeS8EjU0) | 4:41 |
 | 31 | [Holy](https://open.spotify.com/track/7kxBKnoM5dmT31Botow0Iw) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Holy](https://open.spotify.com/album/1ygjpr8vCqrXTmIwOeMbbY) | 2:26 |
-| 32 | [Eclipse feat\. KayCyy](https://open.spotify.com/track/5WKsFiPjr6AvWVPOdAIkHC) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Eclipse feat\. KayCyy](https://open.spotify.com/album/4CIgWWMXbciXjMKzVUYuAX) | 3:09 |
+| 32 | [Eclipse feat\. KayCyy](https://open.spotify.com/track/5WKsFiPjr6AvWVPOdAIkHC) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Eclipse feat\. KayCyy](https://open.spotify.com/album/4CIgWWMXbciXjMKzVUYuAX) | 3:09 |
 | 33 | [Learn To Love](https://open.spotify.com/track/4oHlUmKHMqr5beyfxlHXVW) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 4:16 |
 | 34 | [Better](https://open.spotify.com/track/5kqwLnzKJhEryR4pyrvePd) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Better](https://open.spotify.com/album/1GKzTwyQUQ5typXnZbFJuX) | 3:10 |
 | 35 | [Cana](https://open.spotify.com/track/21k8xomcRp4CHN1djGj2kx) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [Cana](https://open.spotify.com/album/0vAEU78l2pz1agaI4Gz1Wb) | 2:31 |
