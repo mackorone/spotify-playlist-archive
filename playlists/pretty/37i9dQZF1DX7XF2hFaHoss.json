@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 153411,
+  "num_followers": 153416,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 232827,
-      "name": "Crooked Tree",
-      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
     },
     {
       "added_at": "2025-05-02 17:53:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 228500,
       "name": "Portland",
       "url": "https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2025-05-02 17:53:50",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
-        "name": "Navy Blue Sheet Blues",
-        "url": "https://open.spotify.com/album/2m2T96Sgp64fTm9ajo6VCH"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 86191,
-      "name": "Navy Blue Sheet Blues",
-      "url": "https://open.spotify.com/track/4pPpcOXCS9xCX950BZhb9z"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
         "name": "While I Was Asleep",
         "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
+        "name": "Navy Blue Sheet Blues",
+        "url": "https://open.spotify.com/album/2m2T96Sgp64fTm9ajo6VCH"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "duration_ms": 86191,
+      "name": "Navy Blue Sheet Blues",
+      "url": "https://open.spotify.com/track/4pPpcOXCS9xCX950BZhb9z"
     },
     {
       "added_at": "2025-05-02 17:53:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-05-02 17:53:50",
       "album": {
-        "name": "A Country Dance",
-        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
-      },
-      "artists": [
-        {
-          "name": "Joanna Sternberg",
-          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "A Country Dance",
-      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
-    },
-    {
-      "added_at": "2025-05-02 17:53:50",
-      "album": {
         "name": "Cost of the Cold b/w Here and Whole",
         "url": "https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 230817,
       "name": "Cost of the Cold",
       "url": "https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z"
+    },
+    {
+      "added_at": "2025-05-02 17:53:50",
+      "album": {
+        "name": "A Country Dance",
+        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "A Country Dance",
+      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
     },
     {
       "added_at": "2025-05-02 17:53:50",

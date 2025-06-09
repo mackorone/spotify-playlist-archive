@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Deliric",
-  "num_followers": 21209,
+  "num_followers": 21218,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-06-05 21:00:25",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2025-06-05 21:00:25",
+      "album": {
         "name": "Erupt",
         "url": "https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 216383,
       "name": "Trebuie s\u0103 vorbim",
       "url": "https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf"
-    },
-    {
-      "added_at": "2025-06-05 21:00:25",
-      "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     },
     {
       "added_at": "2025-06-05 21:00:25",
@@ -751,42 +751,6 @@
     {
       "added_at": "2025-06-05 21:00:25",
       "album": {
-        "name": "BANII",
-        "url": "https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ"
-      },
-      "artists": [
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "BANII",
-      "url": "https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX"
-    },
-    {
-      "added_at": "2025-06-05 21:00:25",
-      "album": {
-        "name": "Triton",
-        "url": "https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "Rheda",
-          "url": "https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Triton",
-      "url": "https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp"
-    },
-    {
-      "added_at": "2025-06-05 21:00:25",
-      "album": {
         "name": "Shot",
         "url": "https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE"
       },
@@ -815,6 +779,26 @@
     {
       "added_at": "2025-06-05 21:00:25",
       "album": {
+        "name": "Triton",
+        "url": "https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Rheda",
+          "url": "https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Triton",
+      "url": "https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp"
+    },
+    {
+      "added_at": "2025-06-05 21:00:25",
+      "album": {
         "name": "Femei \u00een Parlament",
         "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-06-05 21:00:25",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+        "name": "BANII",
+        "url": "https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ"
       },
       "artists": [
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
         }
       ],
-      "duration_ms": 173437,
-      "name": "Sper Ca Esti Bine",
-      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
+      "duration_ms": 120000,
+      "name": "BANII",
+      "url": "https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX"
     },
     {
       "added_at": "2025-06-05 21:00:25",
@@ -859,6 +843,22 @@
       "duration_ms": 196000,
       "name": "Ochii",
       "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
+    },
+    {
+      "added_at": "2025-06-05 21:00:25",
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Sper Ca Esti Bine",
+      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
     },
     {
       "added_at": "2025-06-05 21:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,001 likes - 158 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,161 likes - 158 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 157 | [Satnam](https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z) | [Nathaniel Keys](https://open.spotify.com/artist/1hwg5trEAbDiMWVaV0jhpq) | [Satnam](https://open.spotify.com/album/4MZPC36fdwtJlnvFdI5H64) | 2:14 |
 | 158 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
 
-Snapshot ID: `aEAdyQAAAAAdzWxfC4/aQ+yTHW9+nHUH`
+Snapshot ID: `AAAAADEqsj3GLD/vhGErQf8pRY3qniMp`

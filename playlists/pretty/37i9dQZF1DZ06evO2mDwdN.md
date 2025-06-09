@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,577 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,582 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 35 | [Don't Give Me Up](https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Don't Give Me Up](https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR) | 4:56 |
 | 36 | [Reaching For The World](https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:26 |
 | 37 | [All Night Love](https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 5:56 |
-| 38 | [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 |
-| 39 | [Hope We Can Be Together Soon / All Night Long \- Live Medley](https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 10:04 |
+| 38 | [Hope We Can Be Together Soon / All Night Long \- Live Medley](https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 10:04 |
+| 39 | [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 |
 | 40 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 |
 | 41 | [Your Love Is Taking Me On A Journey](https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 5:52 |
 | 42 | [Prayin'](https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Blue Album](https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY) | 6:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 47 | [If You Don't Know Christ by Now](https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [If You Don't Know Christ by Now](https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y) | 4:35 |
 | 48 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
 | 49 | [If You're Looking For Somebody To Love](https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 4:46 |
-| 50 | [My Hero](https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:41 |
+| 50 | [The Retribution Blues](https://open.spotify.com/track/02OKedr8l69kXLmhJDllTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:27 |
 
-Snapshot ID: `aEIvgAAAAAArQ8ZVrPpEHUCWLJRIkePN`
+Snapshot ID: `aEOBAAAAAACcLKYYCAZgkol8Zakw8e8H`

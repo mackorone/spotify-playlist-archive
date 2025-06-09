@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "More Me Than Ever",
+        "url": "https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "More Me Than Ever",
+      "url": "https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9"
+    },
+    {
+      "album": {
         "name": "Travis Garland",
         "url": "https://open.spotify.com/album/1VuIx4XMmSs1hGZk2uCzvO"
       },

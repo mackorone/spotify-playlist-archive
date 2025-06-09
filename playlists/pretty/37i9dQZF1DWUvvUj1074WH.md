@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > "Si mi delito es rockear, me declaro culpable mi amor" frases que Jay de la Cueva sí dijo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,173 likes - 23 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,150 likes - 23 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 22 | [Angello](https://open.spotify.com/track/3z88wrjzZHPiso1r21tkNC) | [Microchips](https://open.spotify.com/artist/65xcGfu75ewcdUoBf2HlS8) | [Niños Eléctricos](https://open.spotify.com/album/1xb48bUmHzt2Ie1q73PXat) | 3:12 |
 | 23 | [Boomerang](https://open.spotify.com/track/1NYrBbV335S5W6vh6r3wzx) | [Microchips](https://open.spotify.com/artist/65xcGfu75ewcdUoBf2HlS8) | [Niños Eléctricos](https://open.spotify.com/album/1xb48bUmHzt2Ie1q73PXat) | 3:11 |
 
-Snapshot ID: `Z+bDewAAAACoQcL15QTcX2gQwEigiD3O`
+Snapshot ID: `AAAAAAcwBHv5VZHVf5tv19UL34KYigpp`

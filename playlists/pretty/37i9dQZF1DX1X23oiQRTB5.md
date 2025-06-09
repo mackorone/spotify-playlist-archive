@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Nono La Grinta au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,967 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,265 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 40 | [Boîte noire](https://open.spotify.com/track/4JWfNhdM9tl2i7W866sS8x) | [Boîte noire](https://open.spotify.com/artist/1oFhTipr8Uv7k0NZsD4K91), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Boîte noire](https://open.spotify.com/album/7lFMxjgBEjILjtxBYLpiiT) | 2:12 |
 
-Snapshot ID: `AAAAADGVJHJFKG8TzIXJId1A/mC4v9PD`
+Snapshot ID: `aEIThQAAAAD1XXBnJYxC247opCoK2Hnq`

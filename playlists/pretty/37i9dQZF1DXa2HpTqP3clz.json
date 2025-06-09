@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 166167,
+  "num_followers": 166193,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 236401,
       "name": "How Long Gone (with The Earls of Leicester)",
       "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Mountain Banjo",
-      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 196677,
       "name": "Castilleja",
       "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
-      },
-      "artists": [
-        {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 149346,
       "name": "Squareneck Soul",
       "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+      },
+      "artists": [
+        {
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Work Song (I Can Still Sing)",
-        "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Lindsay Lou",
-          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "Work Song (I Can Still Sing)",
-      "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Into the Wild",
         "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 254316,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Work Song (I Can Still Sing)",
+        "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "Work Song (I Can Still Sing)",
+      "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Looking Past the Pain (The Cowboy Song)",
-        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 237905,
-      "name": "Looking Past the Pain (The Cowboy Song)",
-      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 214306,
       "name": "Last Road Going Home",
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Aced",
-        "url": "https://open.spotify.com/album/4qHFmnKRkNV3jOtLnd2gsa"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Aced",
-      "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "As the Crow Flies",
         "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 206373,
       "name": "The Banker",
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Aced",
+        "url": "https://open.spotify.com/album/4qHFmnKRkNV3jOtLnd2gsa"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Aced",
+      "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Far Away With You",
         "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 237529,
       "name": "Toe The Line",
       "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2025-06-06 04:00:14",

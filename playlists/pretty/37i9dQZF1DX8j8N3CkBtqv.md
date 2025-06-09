@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Vismay Patel, Iqlipse Nova and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,200 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,233 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 33 | [Har Subah](https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Har Subah](https://open.spotify.com/album/2mImRcaAfhmUtNa0RuY46B) | 3:39 |
 | 34 | [Tera Zikr](https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Tera Zikr](https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv) | 4:07 |
 | 35 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
-| 36 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
-| 37 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 |
+| 36 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 |
+| 37 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
 | 38 | [Dil Ki Sada](https://open.spotify.com/track/41iqI5PyUzXt6gpU4C3OKY) | [Prady J](https://open.spotify.com/artist/0Z7xTlsSbRQzaCTISzk8jJ) | [Dil Ki Sada](https://open.spotify.com/album/0JP7dZnlGJuAHWTht7rEof) | 4:07 |
 | 39 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
 | 40 | [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 43 | [Jaane Bhi Do Na \- City Sessions \- Side A](https://open.spotify.com/track/1KmgWSrEji4H7iR0uLJJ2K) | [Airport](https://open.spotify.com/artist/7yg81HsqsHmS23O8eoCkbA), [Arijit Datta](https://open.spotify.com/artist/2jTgcbhkElI05eLyI2AWgV), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [City Sessions](https://open.spotify.com/album/2KyLU4s7vHWS55nVMKwuE9) | 5:12 |
 | 44 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 |
 | 45 | [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 |
-| 46 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 |
-| 47 | [Soz e Dil](https://open.spotify.com/track/2HsLavkCiRviSxOx57d7UR) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Soz e Dil](https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp) | 6:12 |
-| 48 | [Raza](https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Elahi](https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy) | 3:45 |
-| 49 | [Sab Bhul Jate Hai](https://open.spotify.com/track/0jQ4wzZDRpqvksx9kDJbXK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Sab Bhul Jate Hai](https://open.spotify.com/album/5vqrEscldfuOzHcKSVgt3F) | 3:08 |
-| 50 | [Jab Mila Tu](https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W) | [Arya Salvi](https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF) | [Jab Mila Tu](https://open.spotify.com/album/5H76HdKdMHZKElVD6k3bHU) | 2:38 |
+| 46 | [Soz e Dil](https://open.spotify.com/track/2HsLavkCiRviSxOx57d7UR) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Soz e Dil](https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp) | 6:12 |
+| 47 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 |
+| 48 | [Sab Bhul Jate Hai](https://open.spotify.com/track/0jQ4wzZDRpqvksx9kDJbXK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Sab Bhul Jate Hai](https://open.spotify.com/album/5vqrEscldfuOzHcKSVgt3F) | 3:08 |
+| 49 | [Raza](https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Elahi](https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy) | 3:45 |
+| 50 | [Ek Martaba Phir](https://open.spotify.com/track/17xdCJ7oawMWo84d9oxztl) | [Ananya Sharma](https://open.spotify.com/artist/1IsobZFDttKe4y2jQXDyvd), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Ek Martaba Phir](https://open.spotify.com/album/6NUuU4Euu64fPd9nK7MJig) | 3:45 |
 
 Snapshot ID: `aEKFqQAAAABiAUFU9VRGFjQgjoo3prJ9`

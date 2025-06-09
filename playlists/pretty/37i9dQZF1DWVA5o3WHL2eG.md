@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,910 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,930 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 19 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |
 | 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
-| 21 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
-| 22 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
+| 21 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
+| 22 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
 | 23 | [blauäugig](https://open.spotify.com/track/1x9Nayn5si8O2ijcz7lfQe) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:34 |
 | 24 | [\#billieeilish](https://open.spotify.com/track/1PLNecx91vPpSxVjPI9JTC) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [\#billieeilish](https://open.spotify.com/album/6yZxnZCrzE14iX4C1n1gAr) | 1:45 |
-| 25 | [gegengift](https://open.spotify.com/track/37wSsrdZXwlBAkWdKR25Gn) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [gegengift](https://open.spotify.com/album/5neEPGUpUctNlt9xVO5rug) | 2:36 |
-| 26 | [Schlalalafen](https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schlalalafen](https://open.spotify.com/album/6ZpQhN9Ej76gOrUu1j8aO5) | 2:52 |
+| 25 | [Schlalalafen](https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schlalalafen](https://open.spotify.com/album/6ZpQhN9Ej76gOrUu1j8aO5) | 2:52 |
+| 26 | [gegengift](https://open.spotify.com/track/37wSsrdZXwlBAkWdKR25Gn) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [gegengift](https://open.spotify.com/album/5neEPGUpUctNlt9xVO5rug) | 2:36 |
 | 27 | [Vom anderen Stern](https://open.spotify.com/track/3UGJn5ow0N4ilWF2Rj9hbS) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Vom anderen Stern](https://open.spotify.com/album/1NRBe8R8bRHejd698nE1bd) | 3:19 |
 | 28 | [unser lied](https://open.spotify.com/track/0a2gvL98YB0h8RWA6hRW8v) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [unser lied](https://open.spotify.com/album/0xAE78zodQkxrX3YvR82nc) | 2:23 |
 | 29 | [Deja Vu](https://open.spotify.com/track/36WVLNjvMUk2ZXDFQP54i0) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Deja Vu](https://open.spotify.com/album/3qxBxy4Yg6CsEx7SRL467L) | 2:24 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [Dark Circus](https://open.spotify.com/track/47cUzqM7rbKDEO0yzUv09h) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Dark Circus](https://open.spotify.com/album/4qV8ICYfScGe9HhIflz4VQ) | 5:39 |
 | 43 | [FiiRE](https://open.spotify.com/track/3cBXkCnguNwiOkzZbheOvk) | [MADANii](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f) | [BiiLINGUAL](https://open.spotify.com/album/3pEd1BiDvPjSjFSWff5z7t) | 3:36 |
 | 44 | [This Time](https://open.spotify.com/track/4r4VfrGShdNq1uf0lHBWoC) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [This Time](https://open.spotify.com/album/2afefi75vyKcOS52Ht520I) | 3:13 |
-| 45 | [Water Your Plants!](https://open.spotify.com/track/1DKc3IfxmLdSuTFU5gZp34) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Water Your Plants!](https://open.spotify.com/album/0NX7nE3wc8Ujw4O4nboZv3) | 2:58 |
-| 46 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
+| 45 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
+| 46 | [Water Your Plants!](https://open.spotify.com/track/1DKc3IfxmLdSuTFU5gZp34) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Water Your Plants!](https://open.spotify.com/album/0NX7nE3wc8Ujw4O4nboZv3) | 2:58 |
 | 47 | [Boys Club](https://open.spotify.com/track/1BOx5dccNvhnv0udC3QAye) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Boys Club](https://open.spotify.com/album/08QXYglCJqvNFPrfYyCyth) | 3:10 |
 | 48 | [Herbst](https://open.spotify.com/track/6w0OvLIbLYyduR2rbhyihi) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Lonely Hearts Club](https://open.spotify.com/album/4cdlmbig8FesnkktsYU8N8) | 2:49 |
 | 49 | [aufribbeln](https://open.spotify.com/track/2DbX3oaPunzAeNpnBWz5Qy) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [aufribbeln](https://open.spotify.com/album/7MtrWPMStCEDdBknw1pfze) | 3:28 |

@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 12 min
+86 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,14 @@
 | [1DK \- VIP](https://open.spotify.com/track/7yfSOtlbjbS2FYLu8oELVD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [1DK \(VIP\)](https://open.spotify.com/album/7EpNxupjnO9Dl9kFF7PSm8) | 3:00 | 2024-12-14 | 2025-01-15 |
 | [A Finale](https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:32 | 2025-01-14 | 2025-06-08 |
 | [Alright](https://open.spotify.com/track/5YIVy6HdCamdQkzTPhRrQj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:06 | 2024-12-14 |  |
-| [An Introduction](https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:54 | 2024-12-14 | 2025-05-29 |
+| [An Introduction](https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:54 | 2024-12-14 |  |
 | [better than i was](https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [better than i was](https://open.spotify.com/album/35FKhwMBDOty1ocIqwfU1y) | 3:24 | 2024-12-25 |  |
 | [better than i was](https://open.spotify.com/track/4A29Y0CK8aaFRKrVXRqVxg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:24 | 2025-01-19 | 2025-02-03 |
 | [bewildered](https://open.spotify.com/track/20cfcU6zgYlTmnZIaCt9y4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [bewildered](https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT) | 2:52 | 2024-12-14 |  |
 | [Break my brain](https://open.spotify.com/track/5Q1uk3w1MaVfb6zvvkL2L5) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:58 | 2025-04-04 | 2025-05-25 |
 | [break my brain \(for science\)](https://open.spotify.com/track/1lEyzwdUO7phPaC8gMdCOZ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [break my brain \(for science\)](https://open.spotify.com/album/7HvzNVA3Q8YcBmxFL61iSj) | 1:25 | 2024-12-14 |  |
-| [BREATHE](https://open.spotify.com/track/2oLM1BNSlLBcNbGUgezNvh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 4:56 | 2024-12-14 |  |
+| [BREATHE](https://open.spotify.com/track/1OwctdSAK19GSLfpsz9eir) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 4:56 | 2025-06-09 |  |
+| [BREATHE](https://open.spotify.com/track/2oLM1BNSlLBcNbGUgezNvh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 4:56 | 2024-12-14 | 2025-06-09 |
 | [can't](https://open.spotify.com/track/043q2mHs10VHctg7zt6tzR) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y) | 1:54 | 2025-05-31 |  |
 | [can't](https://open.spotify.com/track/5PQIEV6eXziigyccoYpz0U) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 1:54 | 2024-12-14 | 2025-05-31 |
 | [Choker](https://open.spotify.com/track/51LrY0DllvahLhlbiqqaO1) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:53 | 2025-06-06 |  |
@@ -74,9 +75,10 @@
 | [Racing](https://open.spotify.com/track/6TkXn1xvss49UOIWT5MTRG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [ALTERED FUTURE: HALCYON PT.I](https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg) | 3:39 | 2024-12-14 | 2025-01-07 |
 | [Ramblings of the Lost Man \- 2021 Version](https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:05 | 2025-01-06 | 2025-06-03 |
 | [Re:Start \- 2021 Version](https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:26 | 2024-12-14 |  |
-| [Rewind](https://open.spotify.com/track/68Gp6rEh4esguX6AMMN7VU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:13 | 2024-12-14 |  |
+| [Rewind](https://open.spotify.com/track/68Gp6rEh4esguX6AMMN7VU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:13 | 2024-12-14 | 2025-06-09 |
 | [secrets \- natural accent version](https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-14 |  |
-| [Secrets\_album\_ver.wav!](https://open.spotify.com/track/2nfBvGCsdZbIHdnQhSPNMZ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:36 | 2025-03-23 |  |
+| [Secrets\_album\_ver.wav!](https://open.spotify.com/track/2nfBvGCsdZbIHdnQhSPNMZ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:36 | 2025-03-23 | 2025-06-09 |
+| [Secrets\_album\_ver.wav!](https://open.spotify.com/track/6r3WYwbRitpY1OrBUYTKZy) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:36 | 2025-06-09 |  |
 | [So long \(waiting 4 this\)](https://open.spotify.com/track/3TjtBqwPubJxR2NmXSPJUD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [So long \(waiting 4 this\)](https://open.spotify.com/album/04IwqTy1euUxr2XGKlu53Z) | 2:36 | 2024-12-14 |  |
 | [Square \- 2021 Version](https://open.spotify.com/track/6RLolhTFuwRYW1erhineq5) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:31 | 2024-12-14 |  |
 | [Stay true](https://open.spotify.com/track/5R9Pt8Phy3yaTeEsfzS4GA) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 4:08 | 2025-03-23 |  |

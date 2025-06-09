@@ -4,7 +4,7 @@
 
 > 
 
-864 songs - 1 day 20 hr 7 min
+865 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Gucci Grocery Bag](https://open.spotify.com/track/02vvwHxBoZtnNDQFFE64NQ) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:55 | 2023-07-06 |  |
 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 | 2024-12-13 |  |
 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2022-12-09 |  |
+| [HAPPY](https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [DONDA 2](https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci) | 3:31 | 2025-06-08 |  |
 | [Hard \(feat\. Tay\-K and BlocBoy JB\)](https://open.spotify.com/track/32OkBQinMWqa7ZydEkHqVi) | [No Jumper](https://open.spotify.com/artist/0umhtjpC8x3Dg7UXDNUzmX), [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Hard \(feat\. Tay\-K and BlocBoy JB\)](https://open.spotify.com/album/0IqjdcSceJWEctw8arvZLx) | 2:18 | 2022-06-01 |  |
 | [Hard To Choose One](https://open.spotify.com/track/66z5CuZkqkb18VhFTRwbZk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:13 | 2023-08-18 |  |
 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 | 2023-10-14 |  |

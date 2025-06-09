@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,550 likes - 42 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,598 likes - 42 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 41 | [Andante spianato et Grande polonaise brillante, Op\. 22: Andante spianato\. Tranquillo](https://open.spotify.com/track/06sDDrEwEG9ewXmV5fkETR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: Polonaises; Andante spianato;Minor Works](https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm) | 4:56 |
 | 42 | [Mazurka in F Minor, Op\. Posth\. 68: No\. 4 Andantino](https://open.spotify.com/track/4bN6MHbUqqFS7tG5clItYc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Late Works, Opp\. 59\-64](https://open.spotify.com/album/6Wzf1byg16zWinXnxldir8) | 2:00 |
 
-Snapshot ID: `Z3az2QAAAADn5XJo1eK61veWam/CHQm6`
+Snapshot ID: `AAAAAJxUBCpAQoVcVrGz5m7Ca4jD4q/m`

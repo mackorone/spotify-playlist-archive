@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Check out all of these artists and more performing live in Nashville at the CMA Fest 2025! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,676 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,684 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 35 | [Tough People](https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Tough People](https://open.spotify.com/album/6lyQYMu3krcoLPaCJbQ35V) | 3:59 |
 | 36 | [Burns Like Her](https://open.spotify.com/track/0QoxvhXI5ldn8oCRWi97hz) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:53 |
 | 37 | [Don't Mind If I Do](https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:38 |
-| 38 | [Need To](https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Need To](https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06) | 3:09 |
+| 38 | [Need To](https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Need To](https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06) | 3:10 |
 | 39 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 40 | [Forever From Here](https://open.spotify.com/track/1qCspRLzpWePNJEIKUZ6YJ) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Forever From Here](https://open.spotify.com/album/3bgpX6oclIJ3IqR4mnCyUP) | 3:15 |
 | 41 | [Hello Whiskey](https://open.spotify.com/track/1AmFn4FpzmRluuIHfPkHZd) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Sad Songs for the Soul](https://open.spotify.com/album/4VU4XCA8IwDF9JVXEbIeQi) | 4:22 |

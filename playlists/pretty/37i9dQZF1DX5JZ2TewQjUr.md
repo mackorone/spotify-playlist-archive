@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 王和平
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,224 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,226 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 38 | [五月的天空](https://open.spotify.com/track/126sVSmiOqMTyCdjj5iAC6) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy), [Vicky宣宣](https://open.spotify.com/artist/3wa6yoLKx9zqQR7WmkSyCN) | [五月的天空](https://open.spotify.com/album/1Z8BKI46tkQQmGOVVvwIRI) | 3:34 |
 | 39 | [SUGAR](https://open.spotify.com/track/0J4RbRf1v4uj51KWeZH6EF) | [ARIA CAMPBELL](https://open.spotify.com/artist/6DNsfDvMBzCICnbcrKsC2S) | [SUGAR](https://open.spotify.com/album/2hCChbyGsIaKnJ3yP5H9VN) | 2:15 |
 | 40 | [Last Day \(feat\. J Jelly\)](https://open.spotify.com/track/6lQLnEkJBFl9hazkoUyTN3) | [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [Last Day \(feat\. J Jelly\)](https://open.spotify.com/album/4aXaXWh27nEM55kq8Q2bRG) | 2:55 |
-| 41 | [後起之秀](https://open.spotify.com/track/2sU9mqsWjUD00yv8fy4WkQ) | [Heimydear/ZAIN](https://open.spotify.com/artist/5CpftEEbXAVyF1wEHSnNjr) | [後起之秀](https://open.spotify.com/album/0S1YvcwaZaqFrlhimGHNTI) | 2:46 |
+| 41 | [後起之秀](https://open.spotify.com/track/2sU9mqsWjUD00yv8fy4WkQ) | [Heimydear](https://open.spotify.com/artist/4GHDJYlvvJUGfEDkkhTnxZ), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [後起之秀](https://open.spotify.com/album/0S1YvcwaZaqFrlhimGHNTI) | 2:46 |
 | 42 | [死亡芭比粉](https://open.spotify.com/track/0nz0QsDNlOIbvxJZEdqh6I) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [死亡芭比粉](https://open.spotify.com/album/2jWevYUjqbPgdx0ZONAkId) | 3:25 |
 | 43 | [thinkin about you](https://open.spotify.com/track/5PTebRG9klL5KU2eHf9f8c) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [thinkin about you](https://open.spotify.com/album/6qxuCkj2abDmL4KWh0F7gh) | 2:56 |
 | 44 | [no expectation](https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [no expectation](https://open.spotify.com/album/00HmmKxUfcIIk6aQL5i07S) | 4:06 |

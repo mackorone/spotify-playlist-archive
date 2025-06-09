@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18152,
+  "num_followers": 18160,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAABaOM/pe2Y+9WHc+Q6BupI+",
+  "snapshot_id": "aEOBAAAAAAAP7x3HndskG3z7lfALKtta",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fast Hits EP",
-        "url": "https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Booty Bounce (Radio Edit)",
         "url": "https://open.spotify.com/album/0wIucx9FODLGqEkHXLEOut"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 197173,
       "name": "Booty Bounce - Radio Edit",
       "url": "https://open.spotify.com/track/1O77wG0zZxhjhdr7nw0srF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fast Hits EP",
+        "url": "https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Shotcaller",
+      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Row The Body (feat. French Montana)",
         "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 237500,
       "name": "Row The Body (feat. French Montana)",
       "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Shotcaller",
-      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
     },
     {
       "added_at": null,
@@ -607,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rokstarr",
-        "url": "https://open.spotify.com/album/159jpldDCgsgH6KGgjy63c"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
       },
       "artists": [
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/7kXgRawfg4ESH4Iwyn80lR"
+      "duration_ms": 145290,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
+        "name": "Rokstarr",
+        "url": "https://open.spotify.com/album/159jpldDCgsgH6KGgjy63c"
       },
       "artists": [
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Wonder Stereo",
-          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
         }
       ],
-      "duration_ms": 145290,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
+      "duration_ms": 212480,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/7kXgRawfg4ESH4Iwyn80lR"
     },
     {
       "added_at": null,

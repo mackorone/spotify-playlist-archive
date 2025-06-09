@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAHLmSwOQNU0JcZJPKW+QZ4tFOQGezt",
+  "snapshot_id": "AAAHMTNMaracK9dnFqLlUsf8qgsqRjDt",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -120949,22 +120949,6 @@
       "url": "https://open.spotify.com/track/3O6ws4QSNk0qbcd6QxDkc9"
     },
     {
-      "added_at": "2025-04-20 08:20:33",
-      "album": {
-        "name": "\uc131\uc2dc\uacbd \ub77c\uc774\ube0c \uc568\ubc94 - \uac00\ud654\uc804",
-        "url": "https://open.spotify.com/album/2IjIcHqIPXrUJXDjI3PVOr"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "\ub0b4\uac8c \uc624\ub294 \uae38",
-      "url": "https://open.spotify.com/track/0RKScpfW0pefoMDgcorKJt"
-    },
-    {
       "added_at": "2025-04-20 08:20:38",
       "album": {
         "name": "It's Me",
@@ -129599,6 +129583,54 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2025-06-08 05:00:30",
+      "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 258342,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2025-06-08 06:35:04",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     }
   ],
   "unique_name": "Purge",

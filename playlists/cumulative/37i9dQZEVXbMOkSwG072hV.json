@@ -8872,7 +8872,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 217160,
       "name": "Better Than Revenge",
       "url": "https://open.spotify.com/track/1By2VQkUN0Frd8mKNV5NYC"
@@ -29438,7 +29438,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 88005,
       "name": "Here - Hoodtrap",
       "url": "https://open.spotify.com/track/6T2XoL18yqa6lU4SQxtU2q"
@@ -29814,7 +29814,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -64314,6 +64314,24 @@
       "duration_ms": 114573,
       "name": "S\u00e3o Jo\u00e3o Chegou",
       "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Jo\u00e3o de Todos os Tempos",
+        "url": "https://open.spotify.com/album/4Rdtn2IBG6z0V0HrodkI8u"
+      },
+      "artists": [
+        {
+          "name": "Mastruz Com Leite",
+          "url": "https://open.spotify.com/artist/6cAXmjYOHC2R7jLrs96KTZ"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265931,
+      "name": "S\u00e3o Jo\u00e3o de Todos os Tempos",
+      "url": "https://open.spotify.com/track/0BcyZXMFVbLiu6UHoUMkTy"
     },
     {
       "album": {

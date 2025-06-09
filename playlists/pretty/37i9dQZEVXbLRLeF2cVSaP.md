@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,832 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,835 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 37 | [Я тебя люблю](https://open.spotify.com/track/1FAKK1hn0mSI78r3x695pn) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:58 |
 | 38 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
 | 39 | [2 лимузина](https://open.spotify.com/track/2t09oTrG0c2IvUC6J8Mvif) | [Napylniik](https://open.spotify.com/artist/0kqj6O4x1fL9juUtGuKBwx) | [2 лимузина](https://open.spotify.com/album/2fqdjDfiyCUYUGG6BaoD6E) | 1:55 |
-| 40 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
+| 40 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 41 | [Плохая Сука](https://open.spotify.com/track/7GQY5kKP1uZGWSvZ5tOxsN) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [Плохая Сука](https://open.spotify.com/album/2sSIkoQkYLtmMZYxrUGPRe) | 2:08 |
 | 42 | [Стань](https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:08 |
 | 43 | [гладиатор/рыцарь](https://open.spotify.com/track/3nNKws5aNnTa3tgQOIS5Sk) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3) | [glory of heartbroken](https://open.spotify.com/album/4QmiLoejMWqz0UEATY8GXc) | 1:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 47 | [NAME](https://open.spotify.com/track/0GGAbLItGQQ0ebKUISsAHW) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw), [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [735](https://open.spotify.com/album/49pB2UYcKbELlIfjMPAJ2t) | 2:48 |
 | 48 | [Четверг 4\-го](https://open.spotify.com/track/1lCUPsBvSzcPvNgyrl5qUJ) | [Pika](https://open.spotify.com/artist/4QwXKmGPo7GsU3N8LJykki) | [Kilativ](https://open.spotify.com/album/3I0WJ2r0FNYbwXnRXqRmow) | 3:02 |
 | 49 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
-| 50 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
+| 50 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 
-Snapshot ID: `L9ev0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9kBUAAAAAAAAAAAAAAAAAAAAAAAAGVu`

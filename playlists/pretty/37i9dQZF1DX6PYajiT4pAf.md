@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Bad Gyal, Ozuna, Saiko, Ed Sheeran, Sabrina Carpenter, Kapo y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,937 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,017 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

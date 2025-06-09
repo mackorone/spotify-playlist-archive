@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: Esteman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,373 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,387 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 20 | [Control](https://open.spotify.com/track/2GXT5unTnuzQ7wYAm28Y4s) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Control](https://open.spotify.com/album/5BL10vhOovuT7w7HzgxCH1) | 2:18 |
 | 21 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |
 | 22 | [MNM \(feat\. MYDRAMA & VTR\)](https://open.spotify.com/track/1ryU8bcGlofoUfnF5QQU0a) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [MNM \(feat\. MYDRAMA & VTR\)](https://open.spotify.com/album/2J0TJZJXxs4HgaHbZfDi9h) | 2:27 |
-| 23 | [Grito 2.0](https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito 2.0](https://open.spotify.com/album/26AuLXCoMlC6mXe9DP4U8C) | 3:01 |
+| 23 | [Grito 2.0](https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito 2.0](https://open.spotify.com/album/26AuLXCoMlC6mXe9DP4U8C) | 3:01 |
 | 24 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
 | 25 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
 | 26 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 48 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 49 | [Number One Girl](https://open.spotify.com/track/1UByYvpTpvueuqVgnTnZX3) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Number One Girl](https://open.spotify.com/album/5wioteha5XfZxmE2Vhz3Gh) | 3:38 |
 
-Snapshot ID: `AAAAALBizNzh441UWG7kSZnVTfBjqV0m`
+Snapshot ID: `aEDeHQAAAABdmB40auIV61XAt9CXq2ra`

@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-666 songs - 1 day 19 hr 5 min
+667 songs - 1 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Mask Ov Lies](https://open.spotify.com/track/6cg4PHVSKcZ2f2qTjU2wPF) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Mask Ov Lies](https://open.spotify.com/album/6kizf3u1vHU8iMzpim5NAI) | 5:12 | 2021-12-17 | 2022-07-27 |
 | [Mechanical Chaos](https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Mechanical Chaos](https://open.spotify.com/album/1c1o969p0fOBkTcea31737) | 3:50 | 2025-06-06 |  |
 | [Mercury](https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Mercury](https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b) | 2:03 | 2024-03-29 |  |
+| [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 | 2025-06-06 |  |
 | [Mindless Omnipotent Master](https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Empyrean](https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb) | 4:38 | 2022-09-09 |  |
 | [Mirrors](https://open.spotify.com/track/3a5xdf1nPYi8l0FsWBUtKz) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Mirrors](https://open.spotify.com/album/4h6GP84d0vn4JHFn9Dwb6V) | 4:22 | 2021-12-17 | 2022-07-29 |
 | [Mirrors](https://open.spotify.com/track/4mPAEFa14pYmlT9GDrAXoM) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9) | 4:22 | 2023-02-24 | 2023-04-29 |
@@ -412,7 +413,7 @@
 | [Negative](https://open.spotify.com/track/1vi8pShtw3HtwCfC6TnjLY) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Fractured](https://open.spotify.com/album/1GLmxzF8g5p0fcdAatGq5Y) | 4:20 | 2021-12-17 | 2022-02-09 |
 | [Nemesis](https://open.spotify.com/track/3u4fdUGjzrXsfZfZS2j00k) | [Venom Prison](https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f) | [Nemesis](https://open.spotify.com/album/4MK1OoQYfTvV7IO0n7tubP) | 4:12 | 2022-01-14 | 2022-07-26 |
 | [Neuro](https://open.spotify.com/track/5bOmleKvMS956pVl9uBLaI) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Neuro](https://open.spotify.com/album/6YlSznx44NDU19Gyehrjq6) | 3:54 | 2021-12-31 | 2022-05-29 |
-| [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-08 |  |
+| [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-08 | 2025-06-09 |
 | [New Gods](https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:01 | 2022-07-08 | 2023-08-03 |
 | [New Gods](https://open.spotify.com/track/70TLs0LJ6hG2m7lq21kqdV) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/4RKvBFRoBD45oZ9z1VyKyU) | 3:01 | 2021-12-17 | 2022-07-28 |
 | [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-04-22 |  |

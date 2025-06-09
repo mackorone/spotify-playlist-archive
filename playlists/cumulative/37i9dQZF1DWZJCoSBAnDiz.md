@@ -2,15 +2,16 @@
 
 ### [Broadway Ballads ](https://open.spotify.com/playlist/37i9dQZF1DWZJCoSBAnDiz)
 
-> Love & longing from Broadway's best & brightest\. Cover: Joy Woods in The Notebook on Broadway
+> Love & longing from Broadway's best & brightest\. Cover: Nicole Scherzinger in Sunset Boulevard
 
-50 songs - 3 hr 13 min
+51 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Agony](https://open.spotify.com/track/0r1VEzAB1Uy6Yl4nRa2J6k) | [Robert Westenberg](https://open.spotify.com/artist/7GNllfQvWaMDqOfxL6Bdd2), [Chuck Wagner](https://open.spotify.com/artist/0Zw3OqqJEqB8WZYm2X0X7p), [Original Broadway Cast of Into the Woods](https://open.spotify.com/artist/0mhipi6hB5gPpMW9vDGtyn) | [Into the Woods \(Original Broadway Cast Recording\)](https://open.spotify.com/album/728ZIip1mzws5PJrxbQo4T) | 2:27 | 2024-06-14 |  |
+| [Agony](https://open.spotify.com/track/0r1VEzAB1Uy6Yl4nRa2J6k) | [Robert Westenberg](https://open.spotify.com/artist/7GNllfQvWaMDqOfxL6Bdd2), [Chuck Wagner](https://open.spotify.com/artist/0Zw3OqqJEqB8WZYm2X0X7p), [Original Broadway Cast of Into the Woods](https://open.spotify.com/artist/0mhipi6hB5gPpMW9vDGtyn) | [Into the Woods \(Original Broadway Cast Recording\)](https://open.spotify.com/album/728ZIip1mzws5PJrxbQo4T) | 2:27 | 2024-06-14 | 2025-06-09 |
 | [All I Ask Of You](https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Steve Barton](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 4:14 | 2024-06-14 |  |
 | [And I Am Telling You I'm Not Going \- Original Broadway Cast/1982](https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 4:04 | 2024-06-14 |  |
+| [As If We Never Said Goodbye](https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [SUNSET BLVD: The Album](https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45) | 6:00 | 2025-06-09 |  |
 | [As Long as He Needs Me](https://open.spotify.com/track/6cgydoQlsmQ1WfvhGW7YTh) | [Oliver! \- 1994 London Palladium Cast](https://open.spotify.com/artist/6bddrBOH8cDVW8CEqoh2il) | [Oliver! \(1994 London Palladium Cast Recording\)](https://open.spotify.com/album/0qW93rTnHMa7MOojUjOKIB) | 3:16 | 2024-06-14 |  |
 | [Bright v1](https://open.spotify.com/track/61vhDgPyA4PvSRjUv12ixQ) | [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9), [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 2:08 | 2024-06-14 |  |
 | [Bring Him Home](https://open.spotify.com/track/5JZNwoZsUfmxslDNt43DxK) | [Colm Wilkinson](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) | [Les Misérables \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) | 3:17 | 2024-06-14 |  |

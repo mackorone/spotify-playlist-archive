@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Zippy Ogar
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,218 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,290 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 13 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/72hx2ajymKhQbSZV6WX25L) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/4serXMy5Q5Mpu7C8bj9e80) | 2:46 |
 | 14 | [Opener](https://open.spotify.com/track/30Mb1itXAG1HGfQrwF5guj) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei), [Dj.Frodo](https://open.spotify.com/artist/2JPfhjtR4ZrfpcFgEszZmg) | [Opener](https://open.spotify.com/album/2IGbXpOhDw7OfUFvxydtv1) | 2:24 |
 | 15 | [CHA CHA](https://open.spotify.com/track/7Lz3Eidz8YjBbK7GHNIn3o) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [NAPISZ JAK BĘDZIESZ](https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe) | 2:30 |
-| 16 | [NIE BĘDĘ ZA NIC PRZEPRASZAĆ](https://open.spotify.com/track/4HbBiXuK7AMo4M8M9Nnlj1) | [slowez](https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt) | [NIE BĘDĘ ZA NIC PRZEPRASZAĆ](https://open.spotify.com/album/1BFxG7PJ0ysDn4HAzYwP3f) | 3:01 |
+| 16 | [NIE BĘDĘ ZA NIC PRZEPRASZAĆ](https://open.spotify.com/track/4HbBiXuK7AMo4M8M9Nnlj1) | [slowez](https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt), [1olliee](https://open.spotify.com/artist/1cALcXOUf7ReA4usmKJTev), [Cavz](https://open.spotify.com/artist/5rSWB5AViTyb6NA65betlb) | [NIE BĘDĘ ZA NIC PRZEPRASZAĆ](https://open.spotify.com/album/1BFxG7PJ0ysDn4HAzYwP3f) | 3:01 |
 | 17 | [Kontrakt](https://open.spotify.com/track/2aI9zHEDXkuragQEYS4Kle) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [Kontrakt](https://open.spotify.com/album/0327I9YUA9xXzmN8crr4W4) | 2:36 |
 | 18 | [BUZZCUT](https://open.spotify.com/track/6ZQ1zCbS0ZxjzG3x4wtm32) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [BUZZCUT](https://open.spotify.com/album/4DS2t50xdmaGLdAnfgKAjq) | 2:22 |
 | 19 | [Ups znów](https://open.spotify.com/track/4fS5wTH5jFdQxGuBcbaCeF) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [Ups znów](https://open.spotify.com/album/4b5pF06iLVVCKrZ8mZQvjM) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con 'Nadar de noche' en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,856 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,864 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Ordinario](https://open.spotify.com/track/1mHPr6RWF04GQSd1xmCgje) | [Aldana](https://open.spotify.com/artist/38EK2pAElpxCuJCpmBeUqD), [Meliere](https://open.spotify.com/artist/5qRuv5PafVvDYN20G5bH69) | [Ordinario](https://open.spotify.com/album/2v5q9hkG22B5AoNLlQl1q2) | 3:51 |
 | 50 | [Cristo Roto](https://open.spotify.com/track/1P1IAbbWzMGvOOWHOQTQid) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Salva](https://open.spotify.com/album/7uLIXNbdBKcYBxdxNKHO8A) | 6:46 |
 
-Snapshot ID: `AAAAAFZCuuCnQIjsIxAXJiiRNfj9JsKZ`
+Snapshot ID: `aEJZvAAAAAAnFq5wBzSREmcmmQ/uCVo9`

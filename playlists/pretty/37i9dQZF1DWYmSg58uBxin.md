@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,322 likes - 140 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,343 likes - 140 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

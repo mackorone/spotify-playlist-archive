@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Killswitch Engage
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,572 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,643 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [Wastage](https://open.spotify.com/track/0hwFyJV4O77RHNJUT0Romq) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Wastage](https://open.spotify.com/album/6jhEnMBgvJS47DKDn6c9aI) | 2:47 |
 | 100 | [GYUTTO!! \- From THE FIRST TAKE](https://open.spotify.com/track/4m6ICIXv4snaxTHKxHABn1) | [ASTERISM](https://open.spotify.com/artist/65T5OWkp6XPHZzurwEaBl6), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [GYUTTO!! \- From THE FIRST TAKE](https://open.spotify.com/album/0Pac613IG64KSZypOpFVNT) | 4:07 |
 
-Snapshot ID: `AAAAAGr9g2zr70kAm5Wdqb2Al1NvOlXo`
+Snapshot ID: `aEJn1AAAAAB/CZ9YK1aNylAL3I/9347M`

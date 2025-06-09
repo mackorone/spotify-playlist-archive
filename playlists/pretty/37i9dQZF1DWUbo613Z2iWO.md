@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Josh Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,488 likes - 175 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,503 likes - 175 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 174 | [Us](https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:02 |
 | 175 | [Pick Me Up](https://open.spotify.com/track/3nZ59MwXaecUYaGNG4WJQg) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE), [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pick Me Up](https://open.spotify.com/album/2khaN3vR0pSYpusPLjDGh4) | 2:50 |
 
-Snapshot ID: `aEKHjAAAAACozmrxxW8vqbH2hWDeumyz`
+Snapshot ID: `aEKHjAAAAACFpB9Ocj5b/p9n+svSG7cn`

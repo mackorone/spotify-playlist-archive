@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,070 songs - 6 day 20 hr 46 min
+3,071 songs - 6 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1383,7 +1383,7 @@
 | [LA DEL SAXO](https://open.spotify.com/track/6GnPLzlV0Gvgb5tF4xCkWp) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [FRÍO](https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3) | 3:29 | 2022-08-06 | 2022-08-17 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-20 | 2024-03-02 |
 | [La Dosis](https://open.spotify.com/track/3aheavLvOLThLhNvbLTBkw) | [Yagazaky](https://open.spotify.com/artist/22KJHdvyvzuJzfMjlrwcVo), [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl) | [La Dosis](https://open.spotify.com/album/7vpMPjeGfdlJMCXNqhgwpg) | 3:32 | 2023-12-12 | 2023-12-24 |
-| [LA FAVORITA](https://open.spotify.com/track/1RxCl3AaF0HtNiEbpRklpA) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [BUENOS VALORES MALOS MODALES](https://open.spotify.com/album/6tUILrPjOM4zx0TCK8xwwY) | 2:40 | 2025-06-03 |  |
+| [LA FAVORITA](https://open.spotify.com/track/1RxCl3AaF0HtNiEbpRklpA) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [BUENOS VALORES MALOS MODALES](https://open.spotify.com/album/6tUILrPjOM4zx0TCK8xwwY) | 2:40 | 2025-06-03 | 2025-06-09 |
 | [La Fiesta](https://open.spotify.com/track/2o6pi3nx1UAYxuBccabCMQ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:21 | 2023-05-04 | 2023-06-07 |
 | [La Fuerza Del Amor](https://open.spotify.com/track/1Je8yiBHeNpsGfAaVcluhI) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Todo El Amor](https://open.spotify.com/album/3K3pNRZGFoW9T0iMuQOw3n) | 5:00 | 2025-02-28 | 2025-03-06 |
 | [La Guaracha Consentida](https://open.spotify.com/track/75UfTqxolLfpayQ6cmlJ8P) | [Dj Dreams](https://open.spotify.com/artist/75tZTXwdv1TCNAg05x69nf), [Dj Yaso](https://open.spotify.com/artist/1GKxZXAb2KO6IYcy68T6bY) | [La Guaracha Consentida](https://open.spotify.com/album/6zgwe5NtdFS9ojOWcJGHYu) | 1:59 | 2023-09-19 | 2024-09-28 |
@@ -1647,6 +1647,7 @@
 | [Me Pasa \(Piscis\)](https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [Me Pasa \(Piscis\)](https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs) | 3:21 | 2025-02-18 | 2025-03-03 |
 | [Me Pongo Bonito](https://open.spotify.com/track/37jQuEDDTQDaxlgaKbGU2u) | [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [Me Pongo Bonito](https://open.spotify.com/album/5h93YjhE1yPWMwpBvwwSqW) | 2:30 | 2024-07-02 | 2024-07-06 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-31 | 2022-08-14 |
+| [Me Recordarás](https://open.spotify.com/track/5QXE209rpUlVD9VXOSm2ro) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U), [Kevinciito\_LKLF](https://open.spotify.com/artist/50342eKxZM5dD0H15zJdQV) | [Me Recordarás](https://open.spotify.com/album/4ZB45B8BwvvlLUPnwMdeWy) | 3:13 | 2025-06-08 |  |
 | [Me Siento un Star](https://open.spotify.com/track/15tfhbahVkbAX0haRR9bcn) | [samp filtra](https://open.spotify.com/artist/78N17JZ4NPjyCNHPDfKT0g), [Galee Galee](https://open.spotify.com/artist/3UXUsOJ0kFR4RpyMrbtUx9) | [El Rey](https://open.spotify.com/album/007kYppVVv2YyKoaoD8Erb) | 4:08 | 2024-02-20 | 2024-02-28 |
 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 | 2025-04-24 | 2025-04-29 |
 | [Me Veo Rico](https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Me Veo Rico](https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G) | 2:44 | 2023-06-20 | 2023-07-21 |

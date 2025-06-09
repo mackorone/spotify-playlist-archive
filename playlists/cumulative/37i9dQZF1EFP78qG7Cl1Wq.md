@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-257 songs - 13 hr 34 min
+258 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Mic Jack \[Feat\. Adam Levine, Sleepy Brown, Scar\]](https://open.spotify.com/track/4gQUCM9if4d2o081C90gEd) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D) | [BOOMIVERSE](https://open.spotify.com/album/2TT65TRU0tfy3wC8MhsX3F) | 3:22 | 2024-06-14 |  |
 | [Money](https://open.spotify.com/track/2w3FZNLTxn91MqTc52VGgX) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs), [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1) | [Money](https://open.spotify.com/album/51aEjGuZ1s5o9dgiJBAiWT) | 2:18 | 2024-06-14 |  |
 | [Mood](https://open.spotify.com/track/7sYqaQ8AlDtOay9KcjEYql) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 4:03 | 2024-06-14 |  |
+| [More Me Than Ever](https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [More Me Than Ever](https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY) | 2:21 | 2025-06-08 |  |
 | [Motel Pool](https://open.spotify.com/track/1bugOw4v7eoE6MqHp3mvJj) | [Travis Garland](https://open.spotify.com/artist/5tpWDRL3doEgCZdVn4FsNN) | [Travis Garland](https://open.spotify.com/album/1VuIx4XMmSs1hGZk2uCzvO) | 4:38 | 2024-06-14 |  |
 | [Mother Nature](https://open.spotify.com/track/0Cyp9kufRZOCwvcTLLIuWq) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:11 | 2024-06-14 |  |
 | [My Everything](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 2:48 | 2024-06-14 |  |

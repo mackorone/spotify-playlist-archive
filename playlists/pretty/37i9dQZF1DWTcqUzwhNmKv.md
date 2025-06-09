@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Volbeat are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576,974 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,083 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 |
 | 2 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
-| 3 | [Waiting on the Reaper](https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Helldorado](https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj) | 4:01 |
-| 4 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
-| 5 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
-| 6 | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF) | 3:06 |
-| 7 | [Russian Grizzly In America](https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Russian Grizzly In America](https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj) | 4:14 |
+| 3 | [Russian Grizzly In America](https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Russian Grizzly In America](https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj) | 4:14 |
+| 4 | [Waiting on the Reaper](https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Helldorado](https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj) | 4:01 |
+| 5 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
+| 6 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
+| 7 | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF) | 3:06 |
 | 8 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 |
 | 9 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 |
 | 10 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 |
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 15 | [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 |
 | 16 | [God Fearing Man](https://open.spotify.com/track/2Uq8o3398JlRbWdpvObYii) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Return of The Black](https://open.spotify.com/album/5WxVgcugX1HZj8ARMfGnmK) | 5:19 |
 | 17 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
-| 18 | [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 |
-| 19 | [Confounder](https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Confounder](https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5) | 4:21 |
-| 20 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |
-| 21 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
-| 22 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 |
-| 23 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 |
-| 24 | [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 |
+| 18 | [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 |
+| 19 | [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 |
+| 20 | [Confounder](https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Confounder](https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5) | 4:21 |
+| 21 | [I Need More Than This](https://open.spotify.com/track/7FuMZziPlSqJciQkOJOUil) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [I Need More Than This](https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp) | 4:24 |
+| 22 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
+| 23 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 |
+| 24 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 |
 | 25 | [Blackhole](https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:20 |
 | 26 | [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 |
 | 27 | [Silence Isn't Helping Us](https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Will You Haunt Me, With That Same Patience](https://open.spotify.com/album/1OESBdYYfEHfTbhsNKLpXD) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd) | 3:14 |
 | 80 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 |
 
-Snapshot ID: `aEJn0QAAAAC6p7U01i7ZQ/ACi5xf7l1k`
+Snapshot ID: `aEWIZQAAAACzQ3etVpR36hXhlESGLo8x`

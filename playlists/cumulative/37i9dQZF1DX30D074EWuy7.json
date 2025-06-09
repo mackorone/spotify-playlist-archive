@@ -7227,6 +7227,40 @@
     },
     {
       "album": {
+        "name": "Rushin'",
+        "url": "https://open.spotify.com/album/4MMwzcfiGiwNwocLjnsEER"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Cisi",
+          "url": "https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn"
+        },
+        {
+          "name": "Jorge Rossy",
+          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
+        },
+        {
+          "name": "Dado Moroni",
+          "url": "https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz"
+        },
+        {
+          "name": "Nicolas Thys",
+          "url": "https://open.spotify.com/artist/43yDWnmm57aoKDYV1PQV6I"
+        },
+        {
+          "name": "Cesare Mecca",
+          "url": "https://open.spotify.com/artist/2n1QP75kbCOoxl1gPi8cs3"
+        }
+      ],
+      "date_added": "2025-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290428,
+      "name": "My Groove Your Moove",
+      "url": "https://open.spotify.com/track/5jkYLolY6EqsKTyQ3S64p0"
+    },
+    {
+      "album": {
         "name": "My Songbook",
         "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
       },
@@ -9622,7 +9656,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 281466,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"

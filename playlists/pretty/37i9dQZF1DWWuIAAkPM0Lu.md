@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra MORTEN og Nik & Jay, Bette og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,661 likes - 103 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,667 likes - 103 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 96 | [Kys kys kys](https://open.spotify.com/track/2ZeS8dr6GN7T5EaCWWacmz) | [danmarksfinestedaniel](https://open.spotify.com/artist/5xyX0eyxG4tq1vjdrvCSaR) | [Kys kys kys](https://open.spotify.com/album/29PyknB6Be5eDEjcf2s3lN) | 2:47 |
 | 97 | [hurt](https://open.spotify.com/track/2HZfAWiLvODATrlWAbW0lT) | [Agnes Hartwich](https://open.spotify.com/artist/5dannHlHirCopWH6vT2DpX) | [SIDE B: Unplugged](https://open.spotify.com/album/1Fq5FkAbCxjh3OnP9XEJEE) | 3:27 |
 | 98 | [Dean Street](https://open.spotify.com/track/4r0l1Qjbkp95SEhZNencw7) | [GIMI](https://open.spotify.com/artist/3sz22vqNRCMttxXN3lczz3) | [Dean Street](https://open.spotify.com/album/6RnxtJp5LAP0Xbcw8kSlWt) | 2:56 |
-| 99 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 99 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 100 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 |
 | 101 | [Poppin'/Lifestyle](https://open.spotify.com/track/3uVsY9IYVLwrY2QS32veBG) | [GLEN](https://open.spotify.com/artist/7GVNs9XYQV9rUsHkKU5PrY), [askenb6](https://open.spotify.com/artist/0He6qWDJAmV1oz09Lh2Vak) | [Poppin'/Lifestyle](https://open.spotify.com/album/4MGZeLT0rjbTHtsJ4MU2Wi) | 3:35 |
 | 102 | [The Explorer](https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [The Explorer](https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9) | 2:54 |

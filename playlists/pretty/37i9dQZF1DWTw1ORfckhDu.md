@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa ibe ja Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,055 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,071 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ikilapsi](https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [ikilapsi](https://open.spotify.com/album/6tUuGvszWmqvErCRgLKAiG) | 3:15 |
-| 2 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
-| 3 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
+| 2 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 |
+| 3 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 |
 | 4 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
 | 5 | [Iconic](https://open.spotify.com/track/1w6TIY2vLkpGI9pXwfIfAd) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie Issues](https://open.spotify.com/album/63dzT5CQsbVPk3uHgudT5z) | 1:58 |
 | 6 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [MO MONEY](https://open.spotify.com/track/23i0xkaMkfWJFZKtU8KDLu) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MO MONEY](https://open.spotify.com/album/30WEad7hUqdDBbl7A8ZEfB) | 1:53 |
 | 50 | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/track/18smYx5xWfZdgHJFSGoOLd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/album/06IN12ns5sDGdWZktzJF31) | 2:41 |
 
-Snapshot ID: `AAAAAOtyIqhEmS3MQfj960H6Gp6Acr2x`
+Snapshot ID: `aEWHhgAAAAC8yc1+LYypN6X+UiMNGAGu`

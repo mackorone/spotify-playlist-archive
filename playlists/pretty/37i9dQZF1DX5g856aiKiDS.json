@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 507759,
+  "num_followers": 507797,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-06-02 05:23:58",
       "album": {
-        "name": "I MET PEEJAY",
-        "url": "https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "1-4-3",
-      "url": "https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K"
-    },
-    {
-      "added_at": "2025-06-02 05:23:58",
-      "album": {
         "name": "Amusement Park",
         "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2025-06-02 05:23:58",
+      "album": {
+        "name": "I MET PEEJAY",
+        "url": "https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "1-4-3",
+      "url": "https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K"
     },
     {
       "added_at": "2025-06-02 05:23:58",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-06-02 05:23:58",
       "album": {
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2025-06-02 05:23:58",
+      "album": {
         "name": "Can I Love?",
         "url": "https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
-    },
-    {
-      "added_at": "2025-06-02 05:23:58",
-      "album": {
-        "name": "Nerdy Love",
-        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Nerdy Love",
-      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
     },
     {
       "added_at": "2025-06-02 05:23:58",
@@ -527,18 +527,22 @@
     {
       "added_at": "2025-06-02 05:23:58",
       "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+        "name": "SoulMate (feat. IU)",
+        "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+      "duration_ms": 219390,
+      "name": "SoulMate (feat. IU)",
+      "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
     },
     {
       "added_at": "2025-06-02 05:23:58",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-06-02 05:23:58",
       "album": {
-        "name": "SoulMate (feat. IU)",
-        "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 219390,
-      "name": "SoulMate (feat. IU)",
-      "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2025-06-02 05:23:58",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-06-02 05:23:58",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
-    },
-    {
-      "added_at": "2025-06-02 05:23:58",
-      "album": {
         "name": "Like a Fool",
         "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184565,
       "name": "Hope You're Doing Well",
       "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
+    },
+    {
+      "added_at": "2025-06-02 05:23:58",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
     },
     {
       "added_at": "2025-06-02 05:23:58",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-06-02 05:23:58",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
-    },
-    {
-      "added_at": "2025-06-02 05:23:58",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2025-06-02 05:23:58",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2025-06-02 05:23:58",

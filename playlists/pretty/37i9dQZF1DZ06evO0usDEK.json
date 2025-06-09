@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48590,
+  "num_followers": 48589,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAACkI/+akyR2qG0VRwIzQNte",
+  "snapshot_id": "aEOBAAAAAABgRNIg7a02z7ZI9pU6gRji",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+        "name": "Set the Night to Music",
+        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
+      "duration_ms": 301946,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las"
     },
     {
       "added_at": null,
@@ -435,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set the Night to Music",
-        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
         }
       ],
-      "duration_ms": 301946,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las"
+      "duration_ms": 319893,
+      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "'Till the Morning Comes",
+      "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 243466,
       "name": "You're Lookin' Like Love To Me",
       "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "'Till the Morning Comes",
-      "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "And so It Goes",
+      "url": "https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 271640,
       "name": "Can We Find Love Again",
       "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "And so It Goes",
-      "url": "https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set the Night to Music",
+        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299573,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 279920,
       "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set the Night to Music",
-        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299573,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta",
+        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 602306,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 243666,
       "name": "I Just Came Here To Dance",
       "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roberta",
-        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 602306,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
     },
     {
       "added_at": null,
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 222906,
-      "name": "Conversation Love",
-      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
+      "duration_ms": 295840,
+      "name": "I'm the Girl",
+      "url": "https://open.spotify.com/track/09qgbK845V0zWKwXmhviR5"
     }
   ],
   "unique_name": "This Is Roberta Flack",

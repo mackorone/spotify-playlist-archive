@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Airing Your Dirty Laundry with Daphne Berry is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,429 likes - 10 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428 likes - 10 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -7265,6 +7265,32 @@
     },
     {
       "album": {
+        "name": "MEXICO OSCURO",
+        "url": "https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ"
+      },
+      "artists": [
+        {
+          "name": "DEATHMASK",
+          "url": "https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0"
+        },
+        {
+          "name": "Immortal Disfigurement",
+          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266240,
+      "name": "MEXICO OSCURO",
+      "url": "https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O"
+    },
+    {
+      "album": {
         "name": "Empyrean",
         "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
       },
@@ -7620,7 +7646,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 109200,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ"
+      },
+      "artists": [
+        {
+          "name": "Streets of Laredo",
+          "url": "https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "99.9%",
+      "url": "https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW"
+    },
+    {
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 223440,
       "name": "I Shouldn't Go Anywhere",
       "url": "https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM"

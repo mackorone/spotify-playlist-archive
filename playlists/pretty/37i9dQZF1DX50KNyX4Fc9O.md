@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,944 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,969 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 37 | [KEROSENE](https://open.spotify.com/track/4SoZZbGEHm7jgFlnaOS33D) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [KEROSENE](https://open.spotify.com/album/1zaezJch1bSTZei7uHtCjW) | 3:24 |
 | 38 | [Pick Up](https://open.spotify.com/track/3G1MtAFexVXuE0CTofF0mt) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Pick Up](https://open.spotify.com/album/2vZ6xpMvNGGZFyH4beDkkj) | 3:11 |
 | 39 | [Walk](https://open.spotify.com/track/35zaTORnMc0IqYbgOAeZGN) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Walk](https://open.spotify.com/album/7aoFAfqHjoHj8SyKR8lJEQ) | 3:45 |
-| 40 | [Echo](https://open.spotify.com/track/6mY0aTHgjIIhVYVwzcbUC0) | [Talia Perese](https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c), [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Echo](https://open.spotify.com/album/0N2VsTUlY4qAI7Dyiqsn5Q) | 2:48 |
+| 40 | [Echo](https://open.spotify.com/track/6mY0aTHgjIIhVYVwzcbUC0) | [Talia Perese](https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c), [EDYONTHEBEAT](https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC) | [Echo](https://open.spotify.com/album/0N2VsTUlY4qAI7Dyiqsn5Q) | 2:48 |
 | 41 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
 | 42 | [California Boys](https://open.spotify.com/track/5Xg1TU91VVKi3jDh1xHbIu) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [California Boys](https://open.spotify.com/album/1AAwuJanuPh8bN6OaybBIx) | 2:56 |
 | 43 | [Water Under The Bridge](https://open.spotify.com/track/2bII2VIUZ1jI2MvBoDzfKZ) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love \(Deluxe\)](https://open.spotify.com/album/4yo87qxXaDkzncFiujO60E) | 2:13 |

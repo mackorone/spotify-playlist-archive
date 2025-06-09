@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Brother To Me",
+        "url": "https://open.spotify.com/album/732aJBhwQemaxmpTbtRyIh"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Brother To Me",
+      "url": "https://open.spotify.com/track/7F7izD36Rolp8KOgGXG1mu"
+    },
+    {
+      "album": {
         "name": "Brutally",
         "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
       },
@@ -3762,7 +3784,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 323857,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"

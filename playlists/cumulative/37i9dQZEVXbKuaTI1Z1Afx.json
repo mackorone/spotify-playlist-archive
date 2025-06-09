@@ -8441,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "BIRDS",
+      "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -33578,6 +33596,24 @@
     {
       "album": {
         "name": "Im So ATL (Regular + Sped Up)",
+        "url": "https://open.spotify.com/album/36P5DKJzL8RGh68oyq1AXa"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124782,
+      "name": "Im So ATL",
+      "url": "https://open.spotify.com/track/2ODivhVk9tveHHXlmKD5QC"
+    },
+    {
+      "album": {
+        "name": "Im So ATL (Regular + Sped Up)",
         "url": "https://open.spotify.com/album/22aJ7R9eHs7KdVr98wqgRf"
       },
       "artists": [
@@ -33588,7 +33624,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 124782,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/3kRX4GbhjK2lrgRE6G2Fjh"
@@ -41692,6 +41728,24 @@
     {
       "album": {
         "name": "Makeup",
+        "url": "https://open.spotify.com/album/0iJjpNqjN7Ha0SoFFBBmSL"
+      },
+      "artists": [
+        {
+          "name": "The Bends",
+          "url": "https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/0QcFXTu9pidTznJ2LAm9EV"
+    },
+    {
+      "album": {
+        "name": "Makeup",
         "url": "https://open.spotify.com/album/0M4C80GGpXefAmgu5P6hHc"
       },
       "artists": [
@@ -41702,7 +41756,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 238533,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/6byukcmVQRSNHaC10OmP2J"
@@ -63812,7 +63866,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 246761,
       "name": "Summer Sweat",
       "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
@@ -70906,10 +70960,28 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 222910,
       "name": "Two Cents",
       "url": "https://open.spotify.com/track/294di95mwmwmUBnOMF77aN"
+    },
+    {
+      "album": {
+        "name": "Two Cents",
+        "url": "https://open.spotify.com/album/4JgkbEh8QJnwrSNcxjUmzB"
+      },
+      "artists": [
+        {
+          "name": "Alumni Cloud",
+          "url": "https://open.spotify.com/artist/0CMLhpz46GdjoSIM9QKkgj"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222910,
+      "name": "Two Cents",
+      "url": "https://open.spotify.com/track/5O0CfpM0kYfc5knv5V1xlH"
     },
     {
       "album": {

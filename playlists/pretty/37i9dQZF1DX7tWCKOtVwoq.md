@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tWCKOtVwoq.md) - [plain]
 
 > Music from "Solo Leveling"! ©Solo Leveling Animation Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,290 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,355 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 2 | [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 |
-| 3 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 |
+| 3 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 |
 | 4 | [REVIVƎЯ](https://open.spotify.com/track/67x1DxMJvnHdHzOQ9E3AS7) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [REVIVƎЯ](https://open.spotify.com/album/3WVpSguducGqscoPiHsvYO) | 3:11 |
 | 5 | [H∅WL](https://open.spotify.com/track/62VDazmckQkZcrVvwW1syL) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Season2 \-Arise from the Shadow\- Original Soundtrack](https://open.spotify.com/album/1RiSRSE9wGtGUxPaH9LZ5X) | 2:47 |
 | 6 | [【LiSA×Hiroyuki SAWANO】『ReawakeR \(feat\. Felix of Stray Kids\)』Special Talk](https://open.spotify.com/episode/2ctEZsmdCZH1psMfd6LyLl) | [LiSA's Podcast](https://open.spotify.com/show/7gouDykZ9S35L1D6Q90cDa) | [LiSA's Podcast](https://open.spotify.com/album/7gouDykZ9S35L1D6Q90cDa) | 21:32 |

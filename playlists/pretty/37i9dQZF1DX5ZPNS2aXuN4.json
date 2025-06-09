@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 22911,
+  "num_followers": 22919,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 2",
-        "url": "https://open.spotify.com/album/4Hwqv5sAkqJU8I6lxZ2mtQ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 117533,
-      "name": "Suite, BB 70, Sz. 62 (Op. 14): 3. Allegro molto",
-      "url": "https://open.spotify.com/track/3QDLS7aBeRYRBqVZ09FKAY"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Violin Concertos Nos 1 & 2",
         "url": "https://open.spotify.com/album/3YZxpl68tpbSn5lEhD3y0u"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 730813,
       "name": "Bart\u00f3k: Violin Concerto No. 1, Sz. 36: II. Allegro giocoso",
       "url": "https://open.spotify.com/track/2YXhapXWvp0v3yXcNzfrSZ"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Works for Solo Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4Hwqv5sAkqJU8I6lxZ2mtQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 117533,
+      "name": "Suite, BB 70, Sz. 62 (Op. 14): 3. Allegro molto",
+      "url": "https://open.spotify.com/track/3QDLS7aBeRYRBqVZ09FKAY"
     },
     {
       "added_at": "2022-07-01 04:02:00",

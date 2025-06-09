@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 7778,
+  "num_followers": 7780,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAABfJGekjq9ihLOkINuUfB3D",
+  "snapshot_id": "aEOBAAAAAAC6M7K+wP9kQPvmwORSXIWg",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 146688,
-      "name": "Mejor Que Tu Ex",
-      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Era Mia",
         "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
       },
@@ -667,22 +651,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colocado",
-        "url": "https://open.spotify.com/album/5EDNghKzvrcI1W3bAOkQz6"
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Designo",
-          "url": "https://open.spotify.com/artist/0ihNncV73wCFrQrC651WFh"
         }
       ],
-      "duration_ms": 177450,
-      "name": "Colocado",
-      "url": "https://open.spotify.com/track/0zen90CusEWQdCEJeYfD2e"
+      "duration_ms": 146688,
+      "name": "Mejor Que Tu Ex",
+      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+        "name": "Colocado",
+        "url": "https://open.spotify.com/album/5EDNghKzvrcI1W3bAOkQz6"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Designo",
+          "url": "https://open.spotify.com/artist/0ihNncV73wCFrQrC651WFh"
         }
       ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+      "duration_ms": 177450,
+      "name": "Colocado",
+      "url": "https://open.spotify.com/track/0zen90CusEWQdCEJeYfD2e"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
-      },
-      "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue Mi Culpa",
         "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 132857,
       "name": "Tesec",
       "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 233250,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 156000,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/4g3twQI9tA1J3e5AL964a1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "added_at": null,

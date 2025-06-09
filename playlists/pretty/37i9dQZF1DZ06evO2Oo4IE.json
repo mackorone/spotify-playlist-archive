@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 185667,
+  "num_followers": 185686,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAACtn1S1Kg/pFNS1Hht7TJFJ",
+  "snapshot_id": "aEOBAAAAAAC6C8JnXw5TH+xiv0tAMmnF",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joplin In Concert",
+        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 345800,
+      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
+      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takes To The Sky (Live 1968)",
         "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 77618,
       "name": "Tuning & Talk, Pt.2 - Live",
       "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Steve Mann: Alive And Pickin'",
-        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
-      },
-      "artists": [
-        {
-          "name": "Steve Mann",
-          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 187413,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joplin In Concert",
-        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+        "name": "Steve Mann: Alive And Pickin'",
+        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
       },
       "artists": [
         {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+          "name": "Steve Mann",
+          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 345800,
-      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
-      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+      "duration_ms": 187413,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
     },
     {
       "added_at": null,

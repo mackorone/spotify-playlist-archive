@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63257,
+  "num_followers": 63267,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Bernalejo",
@@ -387,6 +371,22 @@
       "duration_ms": 264000,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -651,22 +651,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
-        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+        "name": "Semillas De Copinol",
+        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
       "artists": [
         {
-          "name": "Dannah Garay",
-          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
+          "name": "Juanjo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
         },
         {
-          "name": "Oscar Stagnaro",
-          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+          "name": "Xuc Tr\u00edo",
+          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Deb\u00ed Llorar",
-      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+      "duration_ms": 352952,
+      "name": "En Cualquier Momento",
+      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -687,22 +687,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
+        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
       "artists": [
         {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
+          "name": "Dannah Garay",
+          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
         },
         {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+          "name": "Oscar Stagnaro",
+          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
         }
       ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+      "duration_ms": 217840,
+      "name": "Deb\u00ed Llorar",
+      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -719,6 +719,22 @@
       "duration_ms": 285746,
       "name": "Ana's Song",
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -743,18 +759,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+        "name": "Nuevas Relaciones: Atardecer",
+        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
       "artists": [
         {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+          "name": "Freddy Marichal",
+          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
+        },
+        {
+          "name": "Nuevas Relaciones, Las",
+          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
         }
       ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+      "duration_ms": 370586,
+      "name": "La vida tiene que seguir, amor",
+      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -779,26 +799,6 @@
       "duration_ms": 404666,
       "name": "Las Pulgas Freeway",
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Nuevas Relaciones: Atardecer",
-        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
-      },
-      "artists": [
-        {
-          "name": "Freddy Marichal",
-          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
-        },
-        {
-          "name": "Nuevas Relaciones, Las",
-          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
-        }
-      ],
-      "duration_ms": 370586,
-      "name": "La vida tiene que seguir, amor",
-      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
     },
     {
       "added_at": "2021-07-28 16:44:28",

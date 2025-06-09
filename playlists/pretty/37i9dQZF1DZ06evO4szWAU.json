@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 82109,
+  "num_followers": 82116,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAACfkg+VTgU+IrsaVJssNeLt",
+  "snapshot_id": "aEOBAAAAAACLz5mFThmIpHiuMx0yQCnn",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Durando...",
-        "url": "https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ"
-      },
-      "artists": [
-        {
-          "name": "Amilcar Boscan",
-          "url": "https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 254930,
-      "name": "Los Olores Del Amor",
-      "url": "https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Durando...",
+        "url": "https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ"
+      },
+      "artists": [
+        {
+          "name": "Amilcar Boscan",
+          "url": "https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 254930,
+      "name": "Los Olores Del Amor",
+      "url": "https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 446400,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 420666,
       "name": "Tibur\u00f3n",
       "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 173646,
+  "num_followers": 173671,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "Groove it",
-        "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "\u30ca\u30a4\u30c8\u30b0\u30eb\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "\u66d6\u6627\u306aBEACH",
         "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 159000,
       "name": "\u66d6\u6627\u306aBEACH",
       "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Groove it",
+        "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "\u30ca\u30a4\u30c8\u30b0\u30eb\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "Fuwa Fuwa",
-        "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
+        "name": "SEPTEMBER",
+        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
       },
       "artists": [
         {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+          "name": "Hiroji Miyamoto",
+          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
         }
       ],
-      "duration_ms": 206566,
-      "name": "Fuwa Fuwa",
-      "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
+      "duration_ms": 275560,
+      "name": "SEPTEMBER",
+      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "SEPTEMBER",
-        "url": "https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn"
+        "name": "Fuwa Fuwa",
+        "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
       },
       "artists": [
         {
-          "name": "Hiroji Miyamoto",
-          "url": "https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT"
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
         }
       ],
-      "duration_ms": 275560,
-      "name": "SEPTEMBER",
-      "url": "https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1"
+      "duration_ms": 206566,
+      "name": "Fuwa Fuwa",
+      "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
+      },
+      "artists": [
+        {
+          "name": "Funkindustry",
+          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
+        },
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "duration_ms": 254929,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
         "name": "Black or White?",
         "url": "https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 225680,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
-      },
-      "artists": [
-        {
-          "name": "Funkindustry",
-          "url": "https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX"
-        },
-        {
-          "name": "Natsu Summer",
-          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
-        }
-      ],
-      "duration_ms": 254929,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1343,6 +1343,22 @@
       "duration_ms": 181046,
       "name": "Better",
       "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "RIDE ON TIME",
+        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        }
+      ],
+      "duration_ms": 244752,
+      "name": "RIDE ON TIME",
+      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1391,22 +1407,6 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "RIDE ON TIME",
-        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "RIDE ON TIME",
-      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1467,86 +1467,6 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
-      },
-      "artists": [
-        {
-          "name": "sucola",
-          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
-      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2025-05-27 15:00:06",
-      "album": {
         "name": "SPECTRUM - Night Tempo presents The Showa Groove",
         "url": "https://open.spotify.com/album/0WH8xgSC0iLQiFvmxb0NAU"
       },
@@ -1567,18 +1487,82 @@
     {
       "added_at": "2025-05-27 15:00:06",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
       "artists": [
         {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 227951,
-      "name": "READY",
-      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
+      },
+      "artists": [
+        {
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "duration_ms": 207014,
+      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
     },
     {
       "added_at": "2025-05-27 15:00:06",
@@ -1603,6 +1587,22 @@
       "duration_ms": 240000,
       "name": "\u9c57\u7c89(Butterfly Scales)",
       "url": "https://open.spotify.com/track/6vnt0yk7gOXJ8Y6mM6msMf"
+    },
+    {
+      "added_at": "2025-05-27 15:00:06",
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
     },
     {
       "added_at": "2025-05-27 15:00:06",

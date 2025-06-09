@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-154 songs - 9 hr 9 min
+155 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Love me or Leave me](https://open.spotify.com/track/7F9HWeJf4BTUzpj3B0CQKT) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:42 | 2020-05-12 |  |
 | [LOVE PARADE](https://open.spotify.com/track/3cppKGBLYhmYU9r5APbIwa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:43 | 2021-07-09 | 2024-04-19 |
 | [LOVE PARADE](https://open.spotify.com/track/6nklsJnZ6OimouWLm80Xuc) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:43 | 2021-07-09 |  |
+| [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-06-09 |  |
 | [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-22 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-08 |  |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-02 |  |

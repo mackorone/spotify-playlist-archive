@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 100898,
+  "num_followers": 100950,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "When The Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 267146,
+      "name": "All Eyes on You",
+      "url": "https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Flume",
         "url": "https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 209376,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/2PmFrijdjAP3vG8EuWfD1X"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "When The Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 267146,
-      "name": "All Eyes on You",
-      "url": "https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY"
     },
     {
       "added_at": "2025-03-14 12:16:12",

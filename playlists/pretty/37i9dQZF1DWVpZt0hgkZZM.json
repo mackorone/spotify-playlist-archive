@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 40144,
+  "num_followers": 40163,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Grandes de la Cumbia Tropical",
         "url": "https://open.spotify.com/album/2ZEAVJtun9RCZ3DycbhfpC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 212952,
       "name": "Mar de Emociones",
       "url": "https://open.spotify.com/track/4BtevpklR8k9J0iu9A4PHJ"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 231890,
+      "name": "Entre Rejas",
+      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 249746,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 231890,
-      "name": "Entre Rejas",
-      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Natusha & Kondor Band",
         "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 227333,
       "name": "El la Enga\u00f1\u00f3",
       "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Nemus del Pac\u00edfico",
-        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
-      },
-      "artists": [
-        {
-          "name": "Los Nemus Del Pacifico",
-          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "El Debilitao",
-      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de la Sonora Cordobesa",
         "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 160606,
       "name": "Bocachico Sinuano",
       "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Nemus del Pac\u00edfico",
+        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
+      },
+      "artists": [
+        {
+          "name": "Los Nemus Del Pacifico",
+          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "El Debilitao",
+      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Wilson Saoko",
+          "url": "https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED"
         }
       ],
-      "duration_ms": 295879,
-      "name": "Bebiendo y Llorando",
-      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
+      "duration_ms": 301720,
+      "name": "Los Charcos",
+      "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
       },
       "artists": [
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Wilson Saoko",
-          "url": "https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 301720,
-      "name": "Los Charcos",
-      "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
+      "duration_ms": 295879,
+      "name": "Bebiendo y Llorando",
+      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1575,22 +1575,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
-        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
       "artists": [
         {
-          "name": "Chico Cervantes Y Su Banda",
-          "url": "https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
         },
         {
-          "name": "Pacho Tob\u00edo y Chico",
-          "url": "https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 342959,
-      "name": "Qui\u00e9reme, Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
+      "duration_ms": 242346,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
+        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
       "artists": [
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+          "name": "Chico Cervantes Y Su Banda",
+          "url": "https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8"
         },
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+          "name": "Pacho Tob\u00edo y Chico",
+          "url": "https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm"
         }
       ],
-      "duration_ms": 242346,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
+      "duration_ms": 342959,
+      "name": "Qui\u00e9reme, Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
     },
     {
       "added_at": "2024-07-12 23:11:55",

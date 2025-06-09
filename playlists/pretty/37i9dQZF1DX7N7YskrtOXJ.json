@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 112411,
+  "num_followers": 112457,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z8ICJQAAAADT9xe9NejmqJDno3RXK/6z",
   "tracks": [
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "20 A\u00f1os No Es Nada Todavia Estoy Vivo",
         "url": "https://open.spotify.com/album/1PYPLjyXVGDaKXTUQXyuiG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 219977,
       "name": "Despu\u00e9s de Ti",
       "url": "https://open.spotify.com/track/0GqJGNy4DJi0RVJOwLqunp"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Somos los Mejores... Y Que Sigan Participando",
         "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 176587,
       "name": "Donde Estas Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4fpg7DjOeH0fXx7gpVe426"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Somos los Mejores... Y Que Sigan Participando",
         "url": "https://open.spotify.com/album/1rOgK22crGW0pZRvZyNoQG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 189727,
       "name": "Podria Ser Amado",
       "url": "https://open.spotify.com/track/6HSxhRSUCUZr5s9LQtxWT6"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Plato \u00danico Bailable",
         "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 187546,
       "name": "Yo Me Enamore",
       "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Muero De Fr\u00edo",
-      "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Muero De Fr\u00edo",
+      "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 175694,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Moral Distra\u00edda",
         "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 154846,
       "name": "Maracuy\u00e1 Con Mango",
       "url": "https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 175694,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Qui\u00e9reme",
         "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 175160,
       "name": "Nada que Ver",
       "url": "https://open.spotify.com/track/5IHJttldHzPyoUCi9ptfep"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "EL Gil De Tu Ex",
-      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
         "name": "Onda Tropical",
         "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 154226,
       "name": "El Casorio",
       "url": "https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "EL Gil De Tu Ex",
+      "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
     },
     {
       "added_at": "2025-01-17 12:58:12",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-01-17 12:58:12",
       "album": {
+        "name": "Onda Tropical",
+        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 143640,
+      "name": "Ni Que Estuviera Loco",
+      "url": "https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG"
+    },
+    {
+      "added_at": "2025-01-17 12:58:12",
+      "album": {
         "name": "Sigue La Cumbia",
         "url": "https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 166586,
       "name": "Sigue La Cumbia",
       "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
-    },
-    {
-      "added_at": "2025-01-17 12:58:12",
-      "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
-      },
-      "artists": [
-        {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
-        }
-      ],
-      "duration_ms": 143640,
-      "name": "Ni Que Estuviera Loco",
-      "url": "https://open.spotify.com/track/4l4uqVLKzGt7icoCj8ycZG"
     },
     {
       "added_at": "2025-01-17 12:58:12",

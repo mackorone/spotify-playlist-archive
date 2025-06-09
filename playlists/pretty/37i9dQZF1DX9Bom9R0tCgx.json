@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 421188,
+  "num_followers": 421343,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-05-29 22:00:29",
       "album": {
+        "name": "Bel Mercy (Techno)",
+        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
+      },
+      "artists": [
+        {
+          "name": "Paayne",
+          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Bel Mercy - Techno",
+      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
+    },
+    {
+      "added_at": "2025-05-29 22:00:29",
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2025-05-29 22:00:29",
       "album": {
-        "name": "Bel Mercy (Techno)",
-        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
       },
       "artists": [
         {
-          "name": "Paayne",
-          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
         }
       ],
-      "duration_ms": 112500,
-      "name": "Bel Mercy - Techno",
-      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "added_at": "2025-05-29 22:00:29",
@@ -1227,18 +1243,22 @@
     {
       "added_at": "2025-05-29 22:00:29",
       "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+        "name": "Fire To The Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
       },
       "artists": [
         {
-          "name": "Gregor McMurray",
-          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
         }
       ],
-      "duration_ms": 182000,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+      "duration_ms": 144935,
+      "name": "Fire To The Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
     },
     {
       "added_at": "2025-05-29 22:00:29",
@@ -1263,26 +1283,6 @@
       "duration_ms": 125843,
       "name": "Limitless - Arcando Remix",
       "url": "https://open.spotify.com/track/6p4Kp6ZpzuuIhoJIsvQXzU"
-    },
-    {
-      "added_at": "2025-05-29 22:00:29",
-      "album": {
-        "name": "Fire To The Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Fire To The Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
     },
     {
       "added_at": "2025-05-29 22:00:29",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2025-05-29 22:00:29",
       "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Milan Gavris",
+          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
+        }
+      ],
+      "duration_ms": 116433,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
+    },
+    {
+      "added_at": "2025-05-29 22:00:29",
+      "album": {
         "name": "My Beat Goes",
         "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 152400,
       "name": "Stumblin' In (Sonny Wern Remix)",
       "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
-    },
-    {
-      "added_at": "2025-05-29 22:00:29",
-      "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        },
-        {
-          "name": "Milan Gavris",
-          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
-        }
-      ],
-      "duration_ms": 116433,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
     },
     {
       "added_at": "2025-05-29 22:00:29",
@@ -1659,30 +1659,6 @@
     {
       "added_at": "2025-05-29 22:00:29",
       "album": {
-        "name": "Club Bizarre",
-        "url": "https://open.spotify.com/album/6mX3Ral7TlNHfAe7a1dfpP"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Alex Christensen",
-          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Club Bizarre",
-      "url": "https://open.spotify.com/track/1viS9a70ZuJSeXMqafkBEC"
-    },
-    {
-      "added_at": "2025-05-29 22:00:29",
-      "album": {
         "name": "My Mama Dropped LSD in the 90's",
         "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
@@ -1703,6 +1679,30 @@
       "duration_ms": 176817,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
+    },
+    {
+      "added_at": "2025-05-29 22:00:29",
+      "album": {
+        "name": "Club Bizarre",
+        "url": "https://open.spotify.com/album/6mX3Ral7TlNHfAe7a1dfpP"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Club Bizarre",
+      "url": "https://open.spotify.com/track/1viS9a70ZuJSeXMqafkBEC"
     },
     {
       "added_at": "2025-05-29 22:00:29",
@@ -2011,30 +2011,6 @@
     {
       "added_at": "2025-05-29 22:00:29",
       "album": {
-        "name": "Hypnotic (feat. Kyozo)",
-        "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        },
-        {
-          "name": "Kyozo",
-          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
-        }
-      ],
-      "duration_ms": 249461,
-      "name": "Hypnotic (feat. Kyozo)",
-      "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
-    },
-    {
-      "added_at": "2025-05-29 22:00:29",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
       },
@@ -2055,6 +2031,30 @@
       "duration_ms": 168124,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+    },
+    {
+      "added_at": "2025-05-29 22:00:29",
+      "album": {
+        "name": "Hypnotic (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "duration_ms": 249461,
+      "name": "Hypnotic (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
     },
     {
       "added_at": "2025-05-29 22:00:29",

@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: YUVI & BADWOR7H
 
-380 songs - 19 hr 52 min
+381 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Засинаю перша](https://open.spotify.com/track/5Vuo5Irn3JzftTZkADcOCI) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Засинаю перша](https://open.spotify.com/album/4BumJN5T1QfIxuSjhQBpg1) | 3:00 | 2024-07-26 | 2024-08-24 |
 | [зачарував](https://open.spotify.com/track/3gGneWtwWtJO1eoX7bTaDo) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [зачарував](https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3) | 2:20 | 2025-04-24 |  |
 | [Земля](https://open.spotify.com/track/6gYpS809CZImTMCcOseUZa) | [Село Близнюків](https://open.spotify.com/artist/4LJ22l3ZLbWlu94VInorcK) | [Земля](https://open.spotify.com/album/3E0ZEYk0ycG6OqYGIKNBcf) | 3:10 | 2025-01-24 | 2025-03-04 |
+| [Зерно](https://open.spotify.com/track/7JohrgOFgLwGJPSThHvO53) | [Anastasia Lykhosherstova](https://open.spotify.com/artist/7DR77p5Mq3gQpSbZDT9jQM) | [Зерно](https://open.spotify.com/album/7sCq2zor54iLCFdwuZIWd8) | 2:35 | 2025-06-06 |  |
 | [Зламалось](https://open.spotify.com/track/3ZfLh92AhRBJb9LryDHiqM) | [Кімната Гретхен](https://open.spotify.com/artist/6E4ZDtPGWri8DKXekjg4Gv) | [Зламалось](https://open.spotify.com/album/7CNzfZYXhcq5Qd0kpcNuAX) | 4:02 | 2024-10-18 | 2024-11-08 |
 | [Злови мене](https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Вояж](https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr) | 2:16 | 2024-10-18 | 2025-04-12 |
 | [злі і закохані \- Герда з дробовиком](https://open.spotify.com/track/41xrwd38Im5vA7nz0IwLT5) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [ЛЮ](https://open.spotify.com/album/458PL0d9XD0ytrxlZWgNIV) | 4:07 | 2025-03-03 | 2025-04-12 |
@@ -259,7 +260,7 @@
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 | 2025-01-03 |
 | [Поряд](https://open.spotify.com/track/3qXd5OCgwndMG0fJyxnvMK) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/5dyrxOBHgL8t1XwHmkMv8z) | 2:38 | 2024-06-27 | 2024-07-12 |
 | [Потяги](https://open.spotify.com/track/1P9KzYbAHBAkSfwC2inwvH) | [hurtom](https://open.spotify.com/artist/710r16a4G15MXXAASqIqTf) | [Потяги](https://open.spotify.com/album/4WCXMdsKOdIuuVOFxrdPf6) | 2:36 | 2025-06-06 |  |
-| [Прекрасний світ](https://open.spotify.com/track/5sQRsXx7qDTWoHAi6vHhJW) | [Leleka i Paporot](https://open.spotify.com/artist/452SnJVAxr0a1MLjRIpbaV) | [Прекрасний світ](https://open.spotify.com/album/0pf5GnB78QBFxl1jZTBnpn) | 4:07 | 2025-03-03 |  |
+| [Прекрасний світ](https://open.spotify.com/track/5sQRsXx7qDTWoHAi6vHhJW) | [Leleka i Paporot](https://open.spotify.com/artist/452SnJVAxr0a1MLjRIpbaV) | [Прекрасний світ](https://open.spotify.com/album/0pf5GnB78QBFxl1jZTBnpn) | 4:07 | 2025-03-03 | 2025-06-09 |
 | [Прийду Вночі](https://open.spotify.com/track/67wPFjMjh7ZFNLb9wigvXd) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Прийду Вночі](https://open.spotify.com/album/1hMBPUO5sCiQgkWXTWygo3) | 2:57 | 2025-05-30 | 2025-06-07 |
 | [Прилинь](https://open.spotify.com/track/0v2u6wL3yYe0LFyUT3V6xN) | [haterappers](https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N) | [Прилинь](https://open.spotify.com/album/1QAKc2WTQbLrbap6zlJyCU) | 2:36 | 2024-07-12 | 2024-08-18 |
 | [Примітивний](https://open.spotify.com/track/0SiCtqnViaabYPeEJxcjox) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Примітивний](https://open.spotify.com/album/4UWUsjM3sloiM6OPfhuLcq) | 3:13 | 2025-01-02 | 2025-03-18 |

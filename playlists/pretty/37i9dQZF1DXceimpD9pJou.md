@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Priscilla Bueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,298 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,329 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Simple \- Piano Version](https://open.spotify.com/track/3byU0lzPiEmhwr0PHEieHG) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [SELAH \(Piano Version\)](https://open.spotify.com/album/2n7PSp4X6WSxteeBbWGhbT) | 2:47 |
 | 100 | [Siempre Serás Mi Niño](https://open.spotify.com/track/6j3oyflIOVyY2TTv80nrWW) | [azarah](https://open.spotify.com/artist/6EBN7TtKRhnrq9UuwCG5Nt) | [Siempre Serás Mi Niño](https://open.spotify.com/album/2ksnbUjD7pSmTWPdxPWi6X) | 3:39 |
 
-Snapshot ID: `aELL0AAAAABVlSHZU2KjbE+ACOauUUBZ`
+Snapshot ID: `aELL0AAAAACgL+ZJpE8bIzeobnPxdASA`

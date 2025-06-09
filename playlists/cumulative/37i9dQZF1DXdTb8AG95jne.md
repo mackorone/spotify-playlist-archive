@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ZIN CHOI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-961 songs - 2 day 10 hr 36 min
+962 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,7 @@
 | [How To Go On](https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [How To Go On](https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP) | 3:37 | 2024-05-16 | 2024-06-20 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2025-06-09 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2024-11-07 |
 | [Hug me tight](https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Hug me tight](https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi) | 3:00 | 2025-01-22 | 2025-04-11 |
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
@@ -607,6 +607,7 @@
 | [Paradise](https://open.spotify.com/track/0ZzJjFumxMbb2T1f6KA0np) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Paradise](https://open.spotify.com/album/6xOGLpPsVSAkNAM8GYjl6Q) | 3:57 | 2021-12-12 | 2022-06-19 |
 | [Parallel Lines \(Parallel\)](https://open.spotify.com/track/5vowZu66SSMjdN3oGbYCJ3) | [BOY.D](https://open.spotify.com/artist/2pX5CBngRO41WQHHimZ7sf) | [Parallel Lines \(Parallel\)](https://open.spotify.com/album/3VvrRLoPYLGtZIRReUsKhT) | 4:09 | 2022-03-31 | 2022-04-19 |
 | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/track/5Os2F2MbUv9eJcb7jxHmFD) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 4:04 | 2022-03-31 | 2022-04-16 |
+| [PARKING LOT ANTHEM](https://open.spotify.com/track/2u8wDmQ30E0RR0nJmQyOAR) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [PARKING LOT ANTHEM](https://open.spotify.com/album/1WdUs4m4u2Je5laO8r3IdL) | 2:45 | 2025-06-09 |  |
 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 | 2024-04-23 | 2024-11-07 |
 | [pasta24](https://open.spotify.com/track/58ely9t3v6EMpw1xILJ8C9) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:57 | 2025-01-30 | 2025-04-11 |
 | [Peach](https://open.spotify.com/track/2ercDPV3NHgYJP7ayN0O14) | [gonamjun](https://open.spotify.com/artist/7eIZPLvyKwliDbQUeQjjA8), [Kuki](https://open.spotify.com/artist/5h5Z954kIRQW9GLOzuycrT) | [Peach](https://open.spotify.com/album/1JWMKEY6ZXT7QjRQ3WyNwx) | 2:43 | 2024-12-19 | 2025-03-05 |

@@ -2285,6 +2285,32 @@
     },
     {
       "album": {
+        "name": "Aje (feat. Tayc)",
+        "url": "https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Aje (feat. Tayc)",
+      "url": "https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq"
+    },
+    {
+      "album": {
         "name": "AKRAPO 7",
         "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
       },
@@ -56722,7 +56748,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 169842,
       "name": "Tant qu'on est toi et moi",
       "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"

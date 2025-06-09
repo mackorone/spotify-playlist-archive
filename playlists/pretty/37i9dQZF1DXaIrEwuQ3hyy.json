@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1069417,
+  "num_followers": 1069428,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Girl at the Station (feat. Jeremy Passion)",
-        "url": "https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Jeremy Passion",
-          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
-        }
-      ],
-      "duration_ms": 145136,
-      "name": "Girl at the Station",
-      "url": "https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Sunshine After Rain",
         "url": "https://open.spotify.com/album/5hIgHXGkIP3DKqUoL2i9YF"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 147497,
       "name": "Sunshine After Rain",
       "url": "https://open.spotify.com/track/7Cz7380pHAT02HQGSeeibY"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Girl at the Station (feat. Jeremy Passion)",
+        "url": "https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Jeremy Passion",
+          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
+        }
+      ],
+      "duration_ms": 145136,
+      "name": "Girl at the Station",
+      "url": "https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Small Changes",
         "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+      },
+      "artists": [
+        {
+          "name": "BEACHPEOPLE",
+          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
-      },
-      "artists": [
-        {
-          "name": "BEACHPEOPLE",
-          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
-        }
-      ],
-      "duration_ms": 164477,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Tokyo Lift (5am)",
-        "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 144741,
-      "name": "Tokyo Lift (5am)",
-      "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Oceanside",
         "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 167826,
       "name": "Oceanside",
       "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Tokyo Lift (5am)",
+        "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 144741,
+      "name": "Tokyo Lift (5am)",
+      "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "Ocean Girl",
+        "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
+      },
+      "artists": [
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "Ocean Girl",
+      "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "Big People Music",
         "url": "https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Ocean Girl",
-        "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
-      },
-      "artists": [
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
-        }
-      ],
-      "duration_ms": 250625,
-      "name": "Ocean Girl",
-      "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Damn the Wild Air, Pt. 01",
-        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 169771,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
-      },
-      "artists": [
-        {
-          "name": "JISKA",
-          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH"
+      },
+      "artists": [
+        {
+          "name": "JISKA",
+          "url": "https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
     },
     {
       "added_at": "2025-06-02 12:19:12",

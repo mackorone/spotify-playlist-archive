@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa LINDA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,176 likes - 82 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,177 likes - 82 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

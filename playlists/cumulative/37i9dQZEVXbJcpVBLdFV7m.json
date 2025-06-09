@@ -5754,7 +5754,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -8050,6 +8050,28 @@
     {
       "album": {
         "name": "Figa",
+        "url": "https://open.spotify.com/album/0R5fV1h8N8mup3EprH1IE9"
+      },
+      "artists": [
+        {
+          "name": "Trinix Remix",
+          "url": "https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99130,
+      "name": "Figa",
+      "url": "https://open.spotify.com/track/4acZFxefEvWVnrchaNFpX1"
+    },
+    {
+      "album": {
+        "name": "Figa",
         "url": "https://open.spotify.com/album/2NUtJMkU0yjDwHsQOhYPGX"
       },
       "artists": [
@@ -9376,6 +9398,24 @@
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+    },
+    {
+      "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1hyxD3HtzCTIUUAZl26f4b"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211408,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/2QenFYgqiJnSXUznQw1jfb"
     },
     {
       "album": {
@@ -13542,7 +13582,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 222000,
       "name": "Lumi\u00e8re",
       "url": "https://open.spotify.com/track/1A1XuDIYZxSKrQ6mzkWwAT"
@@ -24724,7 +24764,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 260320,
       "name": "Turn Heads",
       "url": "https://open.spotify.com/track/7uVg9fXqAPpRo7kdoYLKjA"
@@ -24858,10 +24898,28 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 222910,
       "name": "Two Cents",
       "url": "https://open.spotify.com/track/294di95mwmwmUBnOMF77aN"
+    },
+    {
+      "album": {
+        "name": "Two Cents",
+        "url": "https://open.spotify.com/album/4JgkbEh8QJnwrSNcxjUmzB"
+      },
+      "artists": [
+        {
+          "name": "Alumni Cloud",
+          "url": "https://open.spotify.com/artist/0CMLhpz46GdjoSIM9QKkgj"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222910,
+      "name": "Two Cents",
+      "url": "https://open.spotify.com/track/5O0CfpM0kYfc5knv5V1xlH"
     },
     {
       "album": {
@@ -26246,7 +26304,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
@@ -26930,7 +26988,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
@@ -29190,7 +29248,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 192972,
       "name": "\u041a\u043e\u043a\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/7qr5mzv5mvJjgeNorhxcEm"

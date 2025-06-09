@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: Lihim at Salita Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,279 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,300 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 15 | [Baby Wsp?](https://open.spotify.com/track/4SptPeotoPyg4mnMOdHkJB) | [Aji](https://open.spotify.com/artist/5Vpc0YVefocAmPxT2nfb2U), [Jthekidd](https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b) | [Baby Wsp?](https://open.spotify.com/album/2z47j04Ed3VOUapX6CPRsc) | 3:48 |
 | 16 | [Sa 'King Pagbabalik](https://open.spotify.com/track/14B4cxJPRPMwVgx9wQROma) | [BAN](https://open.spotify.com/artist/2J78r4XhdPlWQlJ6CTm5CF) | [Sa 'King Pagbabalik](https://open.spotify.com/album/4CytPsrKQ86FhtGsde9RbH) | 4:13 |
 | 17 | [UNHOELY](https://open.spotify.com/track/6K73s3NCDcwerT7LeC4u2c) | [KAM](https://open.spotify.com/artist/3xg0pJxAHg2lehnFpiTMaQ), [sko](https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw), [NVRMNDGELO](https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7) | [UNHOELY](https://open.spotify.com/album/5JWXEYhAYhSFGY1IZsMGTK) | 4:18 |
-| 18 | [BAHAY MONG PRESKO](https://open.spotify.com/track/20iVjMCVuNgsu6KavW3OXq) | [NVRMNDGELO](https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7) | [BAHAY MONG PRESKO](https://open.spotify.com/album/7sQSEkP78N1NEJuFfmZqWS) | 2:59 |
+| 18 | [BAHAY MONG PRESKO](https://open.spotify.com/track/20iVjMCVuNgsu6KavW3OXq) | [NVRMNDGELO](https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7), [GH TOWN](https://open.spotify.com/artist/7tUPClqZMA17LvAUV6EC0j) | [BAHAY MONG PRESKO](https://open.spotify.com/album/7sQSEkP78N1NEJuFfmZqWS) | 2:59 |
 | 19 | [ill\-advised](https://open.spotify.com/track/4Vm6nejgSR0dTkXxP8plda) | [Solenza](https://open.spotify.com/artist/56eEaGoCoJ5h5LRkzIkpEZ) | [ill\-advised](https://open.spotify.com/album/0cG8oZArVsLxDfNMTMTeim) | 2:57 |
 | 20 | [100 Times](https://open.spotify.com/track/2JJQ9thiqUYlqShXcU48yF) | [Franzo](https://open.spotify.com/artist/7nUm5zg7Iwcf16KblumRbE), [Marinel](https://open.spotify.com/artist/5LVm97gJuL8CXIUKEOQTfE) | [100 Times](https://open.spotify.com/album/44EtcIS8z6P6FgZ8FYS1GN) | 3:19 |
 | 21 | [she will be loved](https://open.spotify.com/track/0C5n1xsKLpru3NsD25fxTF) | [Jazelle](https://open.spotify.com/artist/2Oycm3x2LtBE3aB0fIg4H6), [Keisha Q](https://open.spotify.com/artist/3xum7uD7voRHmm7W06Cj4h) | [she will be loved](https://open.spotify.com/album/6b3XNhGGrg5jqO97b5c3Tw) | 3:04 |

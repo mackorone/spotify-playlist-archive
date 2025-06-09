@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117845,
+  "num_followers": 117878,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAABPkWS7+OaNrdYC3mvEvzTO",
+  "snapshot_id": "aEOBAAAAAAB0wlVSiXjOqGKUatZy6P6C",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida Louca",
+        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Vida Louca",
+      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 194823,
       "name": "Mundo Covarde",
       "url": "https://open.spotify.com/track/1m9gl7AQLRKDoAJnmbjTAF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida Louca",
-        "url": "https://open.spotify.com/album/3qaeGIuXmO4lNgGgerapPc"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Vida Louca",
-      "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
     },
     {
       "added_at": null,
@@ -507,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desabafo",
+        "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        },
+        {
+          "name": "Neytxn",
+          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Desabafo",
+      "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -559,38 +591,6 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/7pnqm6UEb7SzpDxb53wULT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desabafo",
-        "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Neytxn",
-          "url": "https://open.spotify.com/artist/7L1wqmAtk7pQwj2xtPWIbq"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Desabafo",
-      "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Voando Alto",
+        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 137430,
+      "name": "To Voando Alto",
+      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cara do Crime 5 (Passe Caro)",
         "url": "https://open.spotify.com/album/7MjlHPxAnAQI7gCisjPnGl"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 548467,
       "name": "A Cara do Crime 5 (Passe Caro)",
       "url": "https://open.spotify.com/track/7kxnXTGYQZj31IUiWRFefq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Voando Alto",
-        "url": "https://open.spotify.com/album/24So9sRe5T0wzkHbjPeqUZ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 137430,
-      "name": "To Voando Alto",
-      "url": "https://open.spotify.com/track/7HLU2aJTAQfSIgJ2dMASsP"
     },
     {
       "added_at": null,
@@ -1283,30 +1283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Chamado",
-        "url": "https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "O Chamado",
-      "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
       },
@@ -1335,6 +1311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Chamado",
+        "url": "https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "O Chamado",
+      "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigo na F\u00e9 do Pai",
         "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
       },
@@ -1359,30 +1359,6 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
-        "url": "https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Alex da Baixada",
-          "url": "https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm"
-        }
-      ],
-      "duration_ms": 155611,
-      "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
-      "url": "https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb"
     },
     {
       "added_at": null,
@@ -1427,6 +1403,30 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
+        "url": "https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Alex da Baixada",
+          "url": "https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm"
+        }
+      ],
+      "duration_ms": 155611,
+      "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
+      "url": "https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb"
     },
     {
       "added_at": null,

@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Dear Nobody",
+        "url": "https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239142,
+      "name": "Flaw",
+      "url": "https://open.spotify.com/track/6wfxihjz9G3OJxnZEwztXZ"
+    },
+    {
+      "album": {
         "name": "DAESUNG Special Single",
         "url": "https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe"
       },
@@ -746,6 +764,28 @@
       "duration_ms": 247063,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/23F5idO5E81O3VatxedjQM"
+    },
+    {
+      "album": {
+        "name": "Head Home (feat. maji)",
+        "url": "https://open.spotify.com/album/5hAKePRiwmEBytaaQIduYK"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "maji",
+          "url": "https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200073,
+      "name": "Head Home (feat. maji)",
+      "url": "https://open.spotify.com/track/3qhuW4DFXNxOpwmSwCobkU"
     },
     {
       "album": {
@@ -1182,7 +1222,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 167349,
       "name": "My Dream Diary",
       "url": "https://open.spotify.com/track/2icvzqD90QIXFvXNg6WjFg"
@@ -1330,7 +1370,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 234160,
       "name": "See the Light",
       "url": "https://open.spotify.com/track/0MwjlsVm79p4Ze5wt4SMn2"
@@ -1432,6 +1472,24 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "album": {
+        "name": "Still Shining",
+        "url": "https://open.spotify.com/album/2MQUz680oWTbJb6dr53l31"
+      },
+      "artists": [
+        {
+          "name": "Hoons",
+          "url": "https://open.spotify.com/artist/3X2dokSZmyl37QiosBQ6cR"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Still Shining",
+      "url": "https://open.spotify.com/track/1uW0OxPue6GHcDrYhhLQws"
     },
     {
       "album": {
@@ -1760,7 +1818,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 240009,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU"

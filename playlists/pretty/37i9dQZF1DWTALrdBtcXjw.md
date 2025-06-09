@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,170 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,161 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 121 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 |
 | 122 | [Prelude to a Kiss](https://open.spotify.com/track/5rnQpqWZ1KKJynn5INNh4Y) | [Jeb Patton](https://open.spotify.com/artist/0wYKpSqMDbPDpq2wVxqNgj) | [Preludes](https://open.spotify.com/album/5HZ0VaFyCKZsJgU3ab82T4) | 7:48 |
 
-Snapshot ID: `Z/4m2gAAAAAHrtUVUCQt7JJ8f12gFROo`
+Snapshot ID: `AAAAAHaBMw8I7R/Zap0iI3DpcsHSigJx`

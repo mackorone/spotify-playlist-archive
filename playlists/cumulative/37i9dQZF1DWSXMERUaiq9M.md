@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-499 songs - 1 day 7 hr 24 min
+500 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2024-12-20 |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-03-10 | 2024-05-28 |
 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 | 2025-01-25 |
-| [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 | 2025-04-17 |  |
+| [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 | 2025-04-17 | 2025-06-09 |
 | [Bam Oida](https://open.spotify.com/track/2oNEsIYiF665XUC0fOtYYA) | [Dj Schinkensuppe](https://open.spotify.com/artist/5HgSrauRrOxaH1tIt91d6i) | [Bam Oida](https://open.spotify.com/album/3zSrvihyiWgjQKVoGkSWMz) | 2:28 | 2024-07-04 | 2024-07-27 |
 | [Bananas](https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Bananas](https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT) | 3:11 | 2023-04-27 | 2023-05-06 |
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-06 |  |
@@ -103,6 +103,7 @@
 | [Devotion \- Show Me Love 2023 Techno Mix \- Radio Edit](https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Devotion](https://open.spotify.com/album/5eYUa4zesuZMPPTK25IRdb) | 3:50 | 2024-01-29 | 2024-05-20 |
 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 | 2025-03-03 |  |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-10 | 2025-05-23 |
+| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 |  |
 | [Dikke Beat](https://open.spotify.com/track/1C5mmdbWD5ksvTU0gHPfao) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Dikke Beat](https://open.spotify.com/album/5IDtEkSGRVQX358ShCkQHQ) | 5:00 | 2024-10-17 | 2025-01-07 |
 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 | 2023-10-03 |
 | [Dive](https://open.spotify.com/track/67OCwctI95C8WU6ejoLbt8) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Dive](https://open.spotify.com/album/2An7MFk09i75gWJ1ctzQ8N) | 3:29 | 2025-05-22 | 2025-05-30 |

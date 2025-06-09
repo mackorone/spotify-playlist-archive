@@ -7264,7 +7264,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 158012,
       "name": "CONNECTED",
       "url": "https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N"
@@ -10056,7 +10056,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -10074,7 +10074,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -10390,7 +10390,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 164803,
       "name": "ex's and oh's",
       "url": "https://open.spotify.com/track/17ATAXLS8LOA4O5vtBzn1R"
@@ -33216,10 +33216,28 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 222910,
       "name": "Two Cents",
       "url": "https://open.spotify.com/track/294di95mwmwmUBnOMF77aN"
+    },
+    {
+      "album": {
+        "name": "Two Cents",
+        "url": "https://open.spotify.com/album/4JgkbEh8QJnwrSNcxjUmzB"
+      },
+      "artists": [
+        {
+          "name": "Alumni Cloud",
+          "url": "https://open.spotify.com/artist/0CMLhpz46GdjoSIM9QKkgj"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222910,
+      "name": "Two Cents",
+      "url": "https://open.spotify.com/track/5O0CfpM0kYfc5knv5V1xlH"
     },
     {
       "album": {
@@ -36150,6 +36168,24 @@
     {
       "album": {
         "name": "Yippee Ki Yay (YKY)",
+        "url": "https://open.spotify.com/album/0iBcAdfoeRRuJ1h0fUPLnJ"
+      },
+      "artists": [
+        {
+          "name": "Joseph David-Jones",
+          "url": "https://open.spotify.com/artist/18w3bUUpBU42O633E8g0dW"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227635,
+      "name": "Yippee Ki Yay (YKY)",
+      "url": "https://open.spotify.com/track/0zMC8gjb7AUmt8MFJEbPnj"
+    },
+    {
+      "album": {
+        "name": "Yippee Ki Yay (YKY)",
         "url": "https://open.spotify.com/album/27lRfIsNRneNiy5VUHU9Gv"
       },
       "artists": [
@@ -36160,7 +36196,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 227635,
       "name": "Yippee Ki Yay (YKY)",
       "url": "https://open.spotify.com/track/1Ujn4jVq8vrVHmZkduFBUo"

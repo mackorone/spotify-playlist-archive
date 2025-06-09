@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > The best of hip\-hop this year, handpicked by Spotify Canada editors\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,906 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,884 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 49 | [Problems Over Peace](https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Problems Over Peace](https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w) | 2:38 |
 | 50 | [Maktub](https://open.spotify.com/track/5TtFmWqvNyf8PzYZWd8zmQ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [96 Miles From Bethlehem](https://open.spotify.com/album/5HsenIoBRibaDNJr1g5ekb) | 3:28 |
 
-Snapshot ID: `Z1H1xQAAAADuPx5KRH5qdZH0ig9vk9I8`
+Snapshot ID: `AAAAAOJL//gJ2rfEvLE/G4wmu9TJiCtK`

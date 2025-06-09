@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-747 songs - 1 day 12 hr 23 min
+748 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2024-12-17 |  |
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 | 2025-01-19 |
 | [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 | 2025-03-05 |  |
-| [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
+| [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 | 2025-06-09 |
 | [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 |  |
 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 | 2024-12-13 |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 |  |
@@ -635,6 +635,7 @@
 | [Soñando contigo](https://open.spotify.com/track/1i08QuMuJk5RPROZkCkt8k) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Soñando contigo](https://open.spotify.com/album/1Ht1ElfGVwAe4CUmCKKCoa) | 3:19 | 2023-03-23 | 2024-02-09 |
 | [Soon](https://open.spotify.com/track/59s8YAJpSLUMRGzys8B7K4) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Soon](https://open.spotify.com/album/043sNASGtzNFLsGkbzhYQu) | 2:42 | 2024-07-09 | 2025-05-15 |
 | [Soothing Clouds](https://open.spotify.com/track/5rL5AzqG58aU1R0t0zY0Ox) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Soothing Clouds](https://open.spotify.com/album/2hoQyCzvAM14tksVwAcMcf) | 2:25 | 2023-03-23 | 2024-03-21 |
+| [Soothing Rain](https://open.spotify.com/track/0DUTTZ2PEFToJk76nWlsKE) | [Don Becker](https://open.spotify.com/artist/1KHri1Eg72dh283p9K7jLQ) | [Soothing Rain](https://open.spotify.com/album/5dxS8SwE8acnXAQz4CQpGC) | 2:18 | 2025-06-03 |  |
 | [Space Time](https://open.spotify.com/track/0YVdFZrT5wVUwSVM0AbleK) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Space Time](https://open.spotify.com/album/2WGPJT3FrXeqHGQPlaHpYk) | 2:23 | 2023-03-23 | 2024-02-09 |
 | [Sparkle](https://open.spotify.com/track/3a14Ywse8vF62KNc7zI4wW) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Sparkle](https://open.spotify.com/album/3N2aAxQUp9v82RGS2NzMRu) | 1:55 | 2023-03-23 | 2023-07-29 |
 | [Spherical](https://open.spotify.com/track/3MQfkUkcA1jnEkPkUiKz97) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Spherical](https://open.spotify.com/album/0dWpbhQ9zv1XzWGeJV7OZT) | 4:11 | 2023-03-23 | 2024-04-06 |

@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Avril Lavigne & Simple Plan
 
-498 songs - 1 day 0 hr 53 min
+499 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cursive](https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL) | 2:55 | 2022-11-10 | 2024-04-19 |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-10-21 | 2025-02-22 |
 | [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 | 2023-06-20 | 2024-02-06 |
+| [dayz gone](https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [dayz gone / black lodge breakfast burrito \(limited time only\)](https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS) | 3:11 | 2025-05-15 |  |
 | [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 | 2022-02-21 | 2023-02-01 |
 | [Deadbeat](https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Armageddon](https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw) | 2:42 | 2021-12-20 | 2023-04-01 |
 | [Deadbeat](https://open.spotify.com/track/7tBc50inQBPc21MrBlzL2l) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Deadbeat](https://open.spotify.com/album/5my9BzaBmcqxLAqHMvTVIB) | 2:42 | 2021-12-20 | 2022-01-15 |
@@ -486,7 +487,7 @@
 | [We Hang On](https://open.spotify.com/track/2iGQhAy6rwa3rtmKA7bz5F) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Early November](https://open.spotify.com/album/5jLRNurqAdESrTqVPBSD95) | 3:29 | 2024-06-14 | 2024-07-31 |
 | [WE'RE NOT STRANGERS](https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [WE'RE NOT STRANGERS](https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z) | 2:18 | 2021-12-20 | 2023-02-10 |
 | [WEIRDOS](https://open.spotify.com/track/7ausP2XEvLZwycxAoiu2BB) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [STUFF FROM MY BRAIN](https://open.spotify.com/album/6bp0uG3VH0S2x7z9WyAruw) | 3:29 | 2021-12-20 | 2022-06-15 |
-| [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 | 2025-02-21 |  |
+| [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 | 2025-02-21 | 2025-06-09 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-22 | 2025-05-16 |
 | [What's Up?](https://open.spotify.com/track/1rCQdw3dnvVexJwu1c7EAL) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [What's Up?](https://open.spotify.com/album/471qHpHrvs92sYyQgPHLYz) | 2:21 | 2021-12-20 | 2023-04-01 |
 | [When I'm Dead](https://open.spotify.com/track/1Zpe97i8SK2dPGA0yaJsIm) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [When I'm Dead](https://open.spotify.com/album/4u99JawFy9aht4HCD6FKak) | 3:04 | 2025-02-21 | 2025-05-16 |

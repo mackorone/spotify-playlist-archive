@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Anti Social](https://open.spotify.com/track/5NnsGOzEqQJSZ4LYRHoa3c) | [Darkø](https://open.spotify.com/artist/6vgktpKMCokt4q3SmRxLWB) | [Anti Social](https://open.spotify.com/album/44R1VoIXRVjG6LAXoFwDNn) | 2:01 |
 | 30 | [Severance](https://open.spotify.com/track/4oJgwqOuG0v1TIp4d6J5CM) | [Harsh Symmetry](https://open.spotify.com/artist/2iw3bPHWeP872IeCAk2JmR) | [Display Model](https://open.spotify.com/album/2S66X8ZmzNl40z1NEeSHsD) | 4:11 |
 
-Snapshot ID: `aD0hwAAAAADA3hr7BVvg9zBPVy8uC/ze`
+Snapshot ID: `aD0hwAAAAADQr6M6jGwAGkwEEDnOE1WT`

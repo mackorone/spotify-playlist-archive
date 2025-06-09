@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vincent Vallières
 
-3,337 songs - 7 day 8 hr 42 min
+3,338 songs - 7 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Airbag](https://open.spotify.com/track/3y4tm1BSZMlg8YfwIQh8qU) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Airbag](https://open.spotify.com/album/28ceNLJVzA6XsEgJv9RxfU) | 1:55 | 2022-09-09 | 2022-09-24 |
 | [Airbag](https://open.spotify.com/track/1rKci6yiF4rb4zrDlt5JEH) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Airbag](https://open.spotify.com/album/176ozys6mXiCvXfefvglGp) | 3:22 | 2022-05-13 | 2022-05-28 |
 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 | 2023-07-07 | 2023-07-15 |
+| [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 | 2025-06-06 |  |
 | [AKRAPO 7](https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AKRAPO 7](https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X) | 3:09 | 2023-10-27 | 2024-01-27 |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-06-16 | 2023-08-26 |
 | [Albert](https://open.spotify.com/track/5LkQYLJcKnlDKUBXctdZcP) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Albert](https://open.spotify.com/album/12CFpojTsPlE4oHt4ETJf5) | 2:52 | 2022-03-04 | 2022-03-18 |
@@ -2917,7 +2918,7 @@
 | [TANNANCE](https://open.spotify.com/track/2p74T4FWsclCtwapawzKns) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml) | [438](https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2) | 4:00 | 2023-12-01 | 2023-12-16 |
 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-27 | 2023-12-10 |
 | [Tant pis](https://open.spotify.com/track/6EhRIJXwQGvRDKj2clUB7W) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Tant pis](https://open.spotify.com/album/09JkdiPaoHgon6JOvFEan7) | 3:54 | 2024-07-19 | 2024-07-27 |
-| [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-05-09 |  |
+| [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-05-09 | 2025-06-09 |
 | [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 | 2023-01-20 | 2023-01-28 |
 | [Tard dans la nuit](https://open.spotify.com/track/7CgZYRP3lA6S28F3plJ2bf) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV) | [Tard dans la nuit](https://open.spotify.com/album/7jyeKRMIuT2413hbziPZur) | 2:07 | 2024-08-16 | 2024-08-24 |
 | [TARD LA NUIT](https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [DZ D’AMERIQUE](https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi) | 3:36 | 2024-06-28 | 2024-07-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,028 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,040 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Money Habits \(Bonus\)](https://open.spotify.com/track/60NQKbC7Lq1C6DOPAEpCCP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli: The Don](https://open.spotify.com/album/3gVuAqu4B6xxcXK8S5Mn3H) | 3:01 |
 | 50 | [SSIV.](https://open.spotify.com/track/2n6V9req7vDdQHdClGk88H) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SSIV.](https://open.spotify.com/album/5SeN9pzWfgSLZ8yELGRpSg) | 3:39 |
 
-Snapshot ID: `aEJt2wAAAAA/GjJkv1PSk5VynbZvq7yX`
+Snapshot ID: `AAAAAGJaXZM2DEaI+lWOrgGD7k8WPAm0`

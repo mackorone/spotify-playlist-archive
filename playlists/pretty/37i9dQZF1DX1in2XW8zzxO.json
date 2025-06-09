@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 86562,
+  "num_followers": 86595,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,34 @@
     {
       "added_at": "2025-05-30 01:36:08",
       "album": {
+        "name": "Makhelwane",
+        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Dalom Kids",
+          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
+        }
+      ],
+      "duration_ms": 328096,
+      "name": "Keneilwe (feat. Dalom Kids)",
+      "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
+    },
+    {
+      "added_at": "2025-05-30 01:36:08",
+      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -475,58 +503,6 @@
     {
       "added_at": "2025-05-30 01:36:08",
       "album": {
-        "name": "Makhelwane",
-        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
-      },
-      "artists": [
-        {
-          "name": "Wanitwa Mos",
-          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Dalom Kids",
-          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
-        }
-      ],
-      "duration_ms": 328096,
-      "name": "Keneilwe (feat. Dalom Kids)",
-      "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
-    },
-    {
-      "added_at": "2025-05-30 01:36:08",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        },
-        {
-          "name": "Sbuda Maleather",
-          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
-        }
-      ],
-      "duration_ms": 326048,
-      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
-      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
-    },
-    {
-      "added_at": "2025-05-30 01:36:08",
-      "album": {
         "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 350309,
       "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
+    },
+    {
+      "added_at": "2025-05-30 01:36:08",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
     },
     {
       "added_at": "2025-05-30 01:36:08",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-05-30 01:36:08",
       "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "added_at": "2025-05-30 01:36:08",
+      "album": {
         "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2025-05-30 01:36:08",
-      "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
       "added_at": "2025-05-30 01:36:08",
@@ -731,6 +731,38 @@
     {
       "added_at": "2025-05-30 01:36:08",
       "album": {
+        "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
+        "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
+      "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
+    },
+    {
+      "added_at": "2025-05-30 01:36:08",
+      "album": {
         "name": "Skuta Baba (Remix Pack)",
         "url": "https://open.spotify.com/album/05xMiDYYKjQ6jt8AYgyCGr"
       },
@@ -767,62 +799,6 @@
     {
       "added_at": "2025-05-30 01:36:08",
       "album": {
-        "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
-        "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
-      },
-      "artists": [
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
-      "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
-    },
-    {
-      "added_at": "2025-05-30 01:36:08",
-      "album": {
-        "name": "Mr Big Flexa",
-        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
-      },
-      "artists": [
-        {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
-        },
-        {
-          "name": "Ma Gang Official",
-          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
-        }
-      ],
-      "duration_ms": 250671,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
-    },
-    {
-      "added_at": "2025-05-30 01:36:08",
-      "album": {
         "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
         "url": "https://open.spotify.com/album/4uhLS9XeHi0EaziNMv8VHP"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 347148,
       "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
       "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
+    },
+    {
+      "added_at": "2025-05-30 01:36:08",
+      "album": {
+        "name": "Mr Big Flexa",
+        "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        }
+      ],
+      "duration_ms": 250671,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
     },
     {
       "added_at": "2025-05-30 01:36:08",
@@ -1299,30 +1299,18 @@
     {
       "added_at": "2025-05-30 01:36:08",
       "album": {
-        "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
-        "url": "https://open.spotify.com/album/6nGmHmof2Zhm9WL36saQN9"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch"
       },
       "artists": [
         {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Sfarzo Rtee",
-          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
-        },
-        {
-          "name": "Wonder Flawz",
-          "url": "https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702"
-        },
-        {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
         }
       ],
-      "duration_ms": 382334,
-      "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
-      "url": "https://open.spotify.com/track/1yoomI2efiMQCmAHr2LjWx"
+      "duration_ms": 358938,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/64uHIutDM1LeKX12mONusv"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

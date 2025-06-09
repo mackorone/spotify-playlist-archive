@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,653 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,760 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 78 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 2:42 |
 | 79 | [Patrullon](https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg) | [Patrullon](https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP) | 2:38 |
 
-Snapshot ID: `aEMlxQAAAAC2/1J/O9dSH/FjPSq9uKIJ`
+Snapshot ID: `AAAAAFrStAoy5cudp7w04g8SCsqv1hMF`

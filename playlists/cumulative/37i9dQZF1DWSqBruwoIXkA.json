@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Can't Fit In His Shoes",
+        "url": "https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu"
+      },
+      "artists": [
+        {
+          "name": "Juno James",
+          "url": "https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195365,
+      "name": "Can't Fit In His Shoes",
+      "url": "https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT"
+    },
+    {
+      "album": {
         "name": "(the angry part)",
         "url": "https://open.spotify.com/album/7gxbIv1uPNjNf93OYaeLPG"
       },
@@ -9232,7 +9250,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"

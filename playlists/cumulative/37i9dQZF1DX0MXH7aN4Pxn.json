@@ -8855,6 +8855,28 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "Louise Marshall",
+          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
+        }
+      ],
+      "date_added": "2025-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj"
       },
@@ -11166,7 +11188,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 174500,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"

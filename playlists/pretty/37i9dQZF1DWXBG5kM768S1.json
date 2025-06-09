@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 78977,
+  "num_followers": 78992,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
         "name": "De Beste",
         "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
     },
     {
       "added_at": "2025-04-10 22:00:11",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
         "name": "Kom ut kom fram",
         "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 226760,
       "name": "Lilla vackra Anna",
       "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2025-04-10 22:00:11",
@@ -835,18 +835,26 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Heile veien ned",
-        "url": "https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE"
+        "name": "Eg Glemmer Deg Aldri",
+        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
       },
       "artists": [
         {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Aslag Haugen",
+          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 264693,
-      "name": "Heile veien ned",
-      "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
+      "duration_ms": 178116,
+      "name": "Eg glemmer deg aldri",
+      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
     }
   ],
   "unique_name": "Norske viser",

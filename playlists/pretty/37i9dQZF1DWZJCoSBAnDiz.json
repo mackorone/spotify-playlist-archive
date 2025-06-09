@@ -1,13 +1,33 @@
 {
-  "description": "Love & longing from Broadway's best & brightest. Cover: Joy Woods in The Notebook on Broadway",
-  "num_followers": 43050,
+  "description": "Love & longing from Broadway's best & brightest. Cover: Nicole Scherzinger in Sunset Boulevard",
+  "num_followers": 43069,
   "original_name": "Broadway Ballads ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmyqdAAAAAAsVagLKPVyeArlLoGJhKa7",
+  "snapshot_id": "aEZABgAAAABy7l88XJYe1U+klcnlc7Xn",
   "tracks": [
+    {
+      "added_at": "2025-06-09 01:59:34",
+      "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "duration_ms": 360400,
+      "name": "As If We Never Said Goodbye",
+      "url": "https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF"
+    },
     {
       "added_at": "2024-06-14 20:39:16",
       "album": {
@@ -991,30 +1011,6 @@
       "duration_ms": 240400,
       "name": "Who I'd Be",
       "url": "https://open.spotify.com/track/05vReyxhvuE564kb2Jnmux"
-    },
-    {
-      "added_at": "2024-06-14 20:39:16",
-      "album": {
-        "name": "Into the Woods (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/728ZIip1mzws5PJrxbQo4T"
-      },
-      "artists": [
-        {
-          "name": "Robert Westenberg",
-          "url": "https://open.spotify.com/artist/7GNllfQvWaMDqOfxL6Bdd2"
-        },
-        {
-          "name": "Chuck Wagner",
-          "url": "https://open.spotify.com/artist/0Zw3OqqJEqB8WZYm2X0X7p"
-        },
-        {
-          "name": "Original Broadway Cast of Into the Woods",
-          "url": "https://open.spotify.com/artist/0mhipi6hB5gPpMW9vDGtyn"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/0r1VEzAB1Uy6Yl4nRa2J6k"
     },
     {
       "added_at": "2024-06-14 20:39:16",

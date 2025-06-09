@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vincent Vallières
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,043 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,047 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 24 | [LDC](https://open.spotify.com/track/79GsCcSo4Fm4xVwFw7gkgs) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [LDC](https://open.spotify.com/album/0QvUH3eAOC3FCK0xXmlJIN) | 3:01 |
 | 25 | [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 |
 | 26 | [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 |
-| 27 | [La Pluie](https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 3:55 |
-| 28 | [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 |
+| 27 | [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 |
+| 28 | [La Pluie](https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 3:55 |
 | 29 | [ON FAIT LES CHOSES](https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 3:15 |
 | 30 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 |
 | 31 | [On va](https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [On va](https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW) | 2:24 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 41 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 |
 | 42 | [LA MEILLEURE](https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [LA MEILLEURE](https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS) | 2:09 |
 | 43 | [Insensé](https://open.spotify.com/track/1doknjXvcjJZMWVepbMFgV) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Insensé](https://open.spotify.com/album/0FBPNEXIWNHywPOjV2jw6e) | 2:04 |
-| 44 | [Manuel de vengeance](https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Manuel de vengeance](https://open.spotify.com/album/0CstqUPEk3lz1HgHvSz6p3) | 1:50 |
-| 45 | [Bêtise](https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Bêtise](https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y) | 2:45 |
-| 46 | [WANTA](https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [WANTA](https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo) | 2:46 |
-| 47 | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO) | 2:58 |
-| 48 | [Mon cœur tu es fou](https://open.spotify.com/track/0rrmZkGTNVPUq7pOd5ICda) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Mon cœur tu es fou](https://open.spotify.com/album/5qU9InICLOovCb2CavVsuJ) | 3:23 |
-| 49 | [Maudit Land](https://open.spotify.com/track/2OURBuruAMDG2v9RwFSt9Q) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Maudit Land](https://open.spotify.com/album/1aLNXiQ1ntSQP8Jn8nZx22) | 1:51 |
-| 50 | [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 |
+| 44 | [Bêtise](https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Bêtise](https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y) | 2:45 |
+| 45 | [Manuel de vengeance](https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Manuel de vengeance](https://open.spotify.com/album/0CstqUPEk3lz1HgHvSz6p3) | 1:50 |
+| 46 | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO) | 2:58 |
+| 47 | [WANTA](https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [WANTA](https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo) | 2:46 |
+| 48 | [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 |
+| 49 | [Mon cœur tu es fou](https://open.spotify.com/track/0rrmZkGTNVPUq7pOd5ICda) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Mon cœur tu es fou](https://open.spotify.com/album/5qU9InICLOovCb2CavVsuJ) | 3:23 |
+| 50 | [Maudit Land](https://open.spotify.com/track/2OURBuruAMDG2v9RwFSt9Q) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Maudit Land](https://open.spotify.com/album/1aLNXiQ1ntSQP8Jn8nZx22) | 1:51 |
 
 Snapshot ID: `aEJn4gAAAADEjZFaFQhxs79a5NIIqjx5`

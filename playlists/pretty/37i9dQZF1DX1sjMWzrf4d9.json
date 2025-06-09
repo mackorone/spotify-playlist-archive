@@ -791,6 +791,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "All Hands on Deck",
+      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "All Hands on Deck",
-      "url": "https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Throw A Fit",
+        "url": "https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 158757,
+      "name": "Throw A Fit",
+      "url": "https://open.spotify.com/track/7D8aQaRzoi9Qzz5yerVK5b"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 201520,
       "name": "honda (feat. pa salieu)",
       "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Throw A Fit",
-        "url": "https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 158757,
-      "name": "Throw A Fit",
-      "url": "https://open.spotify.com/track/7D8aQaRzoi9Qzz5yerVK5b"
     }
   ],
   "unique_name": "Ziwe's Taste ",

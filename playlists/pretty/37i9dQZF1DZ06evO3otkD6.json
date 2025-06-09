@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 78200,
+  "num_followers": 78253,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAABFhFsRAlG5pyLKePAAxNdv",
+  "snapshot_id": "aEOBAAAAAAClrrwAXQmAS+riO9AtpW17",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "Egoista",
+      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -439,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+        "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+        "url": "https://open.spotify.com/album/2bybT6eYlVyATbKkp7DF5Z"
       },
       "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
         }
       ],
-      "duration_ms": 204146,
-      "name": "Egoista",
-      "url": "https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE"
+      "duration_ms": 147804,
+      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+      "url": "https://open.spotify.com/track/00Ff62DUnnKp5NICapdAVz"
     },
     {
       "added_at": null,
@@ -499,26 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Me Minti\u00f3, Mentiras, Mentiras",
-        "url": "https://open.spotify.com/album/2bybT6eYlVyATbKkp7DF5Z"
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
       "artists": [
         {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
         }
       ],
-      "duration_ms": 147804,
-      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
-      "url": "https://open.spotify.com/track/00Ff62DUnnKp5NICapdAVz"
+      "duration_ms": 202088,
+      "name": "Cursi De +",
+      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
     },
     {
       "added_at": null,
@@ -651,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184430,
+      "name": "Aries",
+      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Voy a Esperar (feat. Belinda)",
         "url": "https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5"
       },
@@ -687,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 202088,
-      "name": "Cursi De +",
-      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -715,6 +731,26 @@
       "duration_ms": 208533,
       "name": "Lo Siento (I'm Sorry)",
       "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Never Not Love You",
+      "url": "https://open.spotify.com/track/713xAF1q5XjxPi012W7JHL"
     },
     {
       "added_at": null,
@@ -755,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184430,
-      "name": "Aries",
-      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -783,6 +803,26 @@
       "duration_ms": 204666,
       "name": "Ni Freud Ni Tu Mama",
       "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 210784,
+      "name": "Rayo Mcqueen",
+      "url": "https://open.spotify.com/track/38yDWRo776wd5OUnD2ELRN"
     },
     {
       "added_at": null,
@@ -823,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Never Not Love You",
-      "url": "https://open.spotify.com/track/713xAF1q5XjxPi012W7JHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -855,6 +875,26 @@
       "duration_ms": 184000,
       "name": "Vivir - Any Better",
       "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 185936,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL"
     },
     {
       "added_at": null,
@@ -899,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 210784,
-      "name": "Rayo Mcqueen",
-      "url": "https://open.spotify.com/track/38yDWRo776wd5OUnD2ELRN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bugatti",
         "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
       },
@@ -931,6 +951,26 @@
       "duration_ms": 165209,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 164930,
+      "name": "Wet Dreams",
+      "url": "https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa"
     },
     {
       "added_at": null,
@@ -1043,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 164930,
-      "name": "Wet Dreams",
-      "url": "https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -1075,6 +1095,26 @@
       "duration_ms": 180640,
       "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
       "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 164649,
+      "name": "Ll\u00f3rame Un R\u00edo",
+      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
     },
     {
       "added_at": null,
@@ -1119,46 +1159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 185936,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 164649,
-      "name": "Ll\u00f3rame Un R\u00edo",
-      "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -1175,26 +1175,6 @@
       "duration_ms": 246506,
       "name": "Amigas Cheetahs",
       "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Que Amor",
-        "url": "https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX"
-      },
-      "artists": [
-        {
-          "name": "Il Volo",
-          "url": "https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 245053,
-      "name": "Constantemente M\u00eda",
-      "url": "https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg"
     }
   ],
   "unique_name": "This Is Belinda",

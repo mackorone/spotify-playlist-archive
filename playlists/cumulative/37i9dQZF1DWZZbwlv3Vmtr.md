@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,037 songs - 1 day 16 hr 10 min
+1,038 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [city lights](https://open.spotify.com/track/40wyi0mBN9iJWvdYUnYbUI) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [city lights](https://open.spotify.com/album/09BvRWVWRBNQ471rGLMXeE) | 2:36 | 2022-12-09 | 2023-10-20 |
 | [City Lights](https://open.spotify.com/track/6MyvaNGQdY1j36y7yRWpUn) | [Ghostrifter Official](https://open.spotify.com/artist/1mIePRs1ixMW0gTaTSbX2p) | [City Lights](https://open.spotify.com/album/6v2B9nnoNASOyxxM9RW339) | 2:36 | 2022-07-22 | 2023-01-20 |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2022-04-15 | 2022-05-20 |
-| [City Walks at 4am](https://open.spotify.com/track/3QNjS4n8aWfE8zCH3cGpLR) | [BKLYN SoundScapes](https://open.spotify.com/artist/3MMMx0i7Oy2aJgML2Y8cMP) | [City Walks at 4am](https://open.spotify.com/album/57i8K8SOoIaEeEfeDBKtKC) | 1:54 | 2025-06-07 |  |
+| [City Walks at 4am](https://open.spotify.com/track/3QNjS4n8aWfE8zCH3cGpLR) | [BKLYN SoundScapes](https://open.spotify.com/artist/3MMMx0i7Oy2aJgML2Y8cMP) | [City Walks at 4am](https://open.spotify.com/album/57i8K8SOoIaEeEfeDBKtKC) | 1:54 | 2025-06-07 | 2025-06-09 |
 | [clear my mind](https://open.spotify.com/track/7rP9HuRgLcz174Kvh3RDwS) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [clear my mind](https://open.spotify.com/album/77b3Tv4gmHGz7kMOZQmaH4) | 2:20 | 2024-10-25 | 2024-12-11 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-08 |  |
 | [Close is best](https://open.spotify.com/track/773YRWgu38if25XiHHabJK) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Close is best](https://open.spotify.com/album/3hUO3QzIhu4Xc9O4WjYXBJ) | 2:15 | 2022-04-15 |  |
@@ -980,6 +980,7 @@
 | [Venice](https://open.spotify.com/track/4tpMjdHty6KbluPBnBCWYt) | [Peaches & Boo](https://open.spotify.com/artist/0jts2tk2AOzVPENYEBK4TT) | [Venice](https://open.spotify.com/album/7zTZ6XYCdb1kGutJ5xIhnD) | 1:58 | 2022-04-15 | 2022-05-20 |
 | [Venus](https://open.spotify.com/track/4jtUWffZ6zgLm7nahgk726) | [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Venus](https://open.spotify.com/album/6Z81FdusVPo4Oa9BlTIjh0) | 2:13 | 2022-07-29 | 2022-08-12 |
 | [Virtual Garden](https://open.spotify.com/track/0Ud98dzrNyQXdrb1yUOftZ) | [Michael Danny](https://open.spotify.com/artist/5lpdJ3wNP63XGxuoa7HkMS) | [Virtual Garden](https://open.spotify.com/album/4cIcymcs6ZMb9K1RxBvjee) | 2:01 | 2022-04-15 | 2022-05-20 |
+| [Visions](https://open.spotify.com/track/1JX3hWwJnK0bav5lKcfXaF) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Visions](https://open.spotify.com/album/2lWnDgntsIW0bkdF6DJ4cT) | 1:52 | 2025-06-07 |  |
 | [Voicemail](https://open.spotify.com/track/5Fsf112EoSCtWLyyJQ6dMz) | [Rhino Beats](https://open.spotify.com/artist/2wpj4fwPIhFXe1uX307PNK) | [Voicemail](https://open.spotify.com/album/64C054NfCwbAP4Z62kKXYd) | 1:51 | 2022-09-02 | 2024-03-12 |
 | [volaplano](https://open.spotify.com/track/3BUng8CnQavbNL9uDbUe4M) | [Atiø](https://open.spotify.com/artist/5KNCtLgN5682p529MZ2N3n) | [volaplano](https://open.spotify.com/album/1glAViCRZ1n24UHHQ7Lk6t) | 1:47 | 2022-07-08 | 2022-12-10 |
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-15 |  |

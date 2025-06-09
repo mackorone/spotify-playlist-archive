@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-350 songs - 18 hr 29 min
+351 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [telephone](https://open.spotify.com/track/14lMI3AfvtQVvJoOvmb9tZ) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [can opener's notebook: fish whisperer](https://open.spotify.com/album/7F81VnxiHp0jDJtQLcsZWo) | 2:55 | 2024-11-29 |  |
 | [Temporary](https://open.spotify.com/track/2XEPsPmhOxYxzUgvMUxZIM) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Temporary](https://open.spotify.com/album/2gRCgkj2i609uNzHEtj5bn) | 3:00 | 2024-03-06 |  |
 | [Tension](https://open.spotify.com/track/3j6EwWAqg0e0tit4zCV03D) | [SubCorv](https://open.spotify.com/artist/4bgP9dOf4yyE1fehFa4UaJ), [Tygre](https://open.spotify.com/artist/4we0HjU8pyJbI5IE3BHLIP) | [Le Vide](https://open.spotify.com/album/6Z7X2WHdRhSq4Qq2OXCY8I) | 4:07 | 2024-04-08 |  |
+| [tether](https://open.spotify.com/track/4mSyDYm6dYl5Qx6rNUIp2r) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [tether](https://open.spotify.com/album/5VDFtcYSBVLuuyF126Nh92) | 1:46 | 2025-06-08 |  |
 | [That Spark](https://open.spotify.com/track/124urhdKEhZ6Fm3yft6SE8) | [Eris Soundworks](https://open.spotify.com/artist/5X1SwenxpH0EvoxYsQZNxz), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Visitor](https://open.spotify.com/album/4VOMEobaVteSEzw688Bkkj) | 5:05 | 2024-03-06 |  |
 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 | 2023-11-17 |  |
 | [THE FLIES \- REMIX](https://open.spotify.com/track/19HjBefvsg5MYOTULhFxvX) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:20 | 2024-07-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84248,
+  "num_followers": 84257,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAACvsKnrm32lp+NFJscXVrJc",
+  "snapshot_id": "aEOBAAAAAAA9NRpVZ61CVGVFNnh5Njz/",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
       },
       "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
+      "duration_ms": 182213,
+      "name": "Sin Ti (feat. Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy"
     },
     {
       "added_at": null,
@@ -351,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triolog\u00eda",
-        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
       "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 182213,
-      "name": "Sin Ti (feat. Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy"
+      "duration_ms": 185000,
+      "name": "Procuro Olvidarte",
+      "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
     },
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
       "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 259144,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
+      "duration_ms": 220329,
+      "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
+      "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando a una Leyenda (En Vivo)",
-        "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
       "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 220329,
-      "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
-      "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
+      "duration_ms": 259144,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 176440,
       "name": "El Nido (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extrav\u00edate",
         "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 262933,
       "name": "Mi nombre",
       "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
     },
     {
       "added_at": null,

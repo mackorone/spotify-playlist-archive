@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,425 likes - 90 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,529 likes - 90 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 65 | [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 |
 | 66 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |
 | 67 | [E’tazalt El Gharam](https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [E'tazalt El Gharam](https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17) | 7:47 |
-| 68 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |
-| 69 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
-| 70 | [Asmar](https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw) | 5:33 |
-| 71 | [Dallouni Aleinein Elsoud](https://open.spotify.com/track/648tWeC59QuL1vwoWtTTGm) | [Georgette Sayegh](https://open.spotify.com/artist/1GwinA1uq3G9r8PNK9MoRy), [Marwan Mahfouz](https://open.spotify.com/artist/2oTuOTcu9ZCyR0K1ZFSRWI), [Joseph Sakr](https://open.spotify.com/artist/7GJ3Zxnvvtmnno2ATdCHO1), [La Troupe Bkinaya Jal El Dib](https://open.spotify.com/artist/1GdQqVdCfTnvKbHt4KgFXS) | [Sahriye](https://open.spotify.com/album/57TP1NWHiwPT0Ml4SbY9xJ) | 2:43 |
+| 68 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
+| 69 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |
+| 70 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |
+| 71 | [Asmar](https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw) | 5:33 |
 | 72 | [Amm Yess'alouni Aleyk](https://open.spotify.com/track/1IzvSfblwi7EJuIjQbGXvL) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Khodni Habibi](https://open.spotify.com/album/1uZKkPLUIu7hIQcQqp8Ihp) | 5:57 |
-| 73 | [Dek Bwab Al Nas](https://open.spotify.com/track/3njXUpp9fsdLQAjlgnFVhP) | [Hiyam Younes](https://open.spotify.com/artist/6WLXiJExdzLOoQgLaPZef2) | [Best Sellers of Voix de L'Orient](https://open.spotify.com/album/7afqb4oFLTU3TOI8gptNYe) | 4:32 |
-| 74 | [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 |
-| 75 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |
+| 73 | [Dallouni Aleinein Elsoud](https://open.spotify.com/track/648tWeC59QuL1vwoWtTTGm) | [Georgette Sayegh](https://open.spotify.com/artist/1GwinA1uq3G9r8PNK9MoRy), [Marwan Mahfouz](https://open.spotify.com/artist/2oTuOTcu9ZCyR0K1ZFSRWI), [Joseph Sakr](https://open.spotify.com/artist/7GJ3Zxnvvtmnno2ATdCHO1), [La Troupe Bkinaya Jal El Dib](https://open.spotify.com/artist/1GdQqVdCfTnvKbHt4KgFXS) | [Sahriye](https://open.spotify.com/album/57TP1NWHiwPT0Ml4SbY9xJ) | 2:43 |
+| 74 | [Dek Bwab Al Nas](https://open.spotify.com/track/3njXUpp9fsdLQAjlgnFVhP) | [Hiyam Younes](https://open.spotify.com/artist/6WLXiJExdzLOoQgLaPZef2) | [Best Sellers of Voix de L'Orient](https://open.spotify.com/album/7afqb4oFLTU3TOI8gptNYe) | 4:32 |
+| 75 | [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 |
 | 76 | [Bent Al Oumara](https://open.spotify.com/track/4RkXYEi2q9WsyYx2FUi9uZ) | [Nohad Tarabay](https://open.spotify.com/artist/3WR9ydcykzQPGV8pCQh8vd) | [The Very Best of Nohad Tarabay](https://open.spotify.com/album/5aLqR6cMRhz8K5CQQlgrct) | 7:21 |
 | 77 | [Matrahak Bi Albi](https://open.spotify.com/track/7KfvkyDGuIDvHIByxDR656) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 5:03 |
 | 78 | [El Atlal](https://open.spotify.com/track/7rZPVMXSYn63KC2Fco2vr6) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 39:54 |

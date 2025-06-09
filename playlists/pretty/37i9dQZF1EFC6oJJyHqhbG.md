@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 18 | [Dumb Blonde \(feat\. Nicki Minaj\)](https://open.spotify.com/track/1Spmq0UazGU6ovMIlGldZX) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:34 |
 | 19 | [Vacation](https://open.spotify.com/track/326ICMkp2gWSYcJdba9s7d) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Vacation](https://open.spotify.com/album/1CPu7lwOIp84AQyBtQvbpg) | 3:37 |
 | 20 | [San Francisco](https://open.spotify.com/track/0IzF2RW5WoYTFXcnLtxfjX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 4:19 |
-| 21 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 |
-| 22 | [Up All Night](https://open.spotify.com/track/5U3qK5UVDDn8ir0ktbK11Q) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:10 |
+| 21 | [Up All Night](https://open.spotify.com/track/5U3qK5UVDDn8ir0ktbK11Q) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:10 |
+| 22 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 |
 | 23 | [Wish U Were Here \- Acoustic](https://open.spotify.com/track/4812NLW48dCoABairmUF0p) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise \(Expanded\)](https://open.spotify.com/album/66SngXhMQwIwDa6MDOjNzQ) | 3:36 |
 | 24 | [Heart Wants What It Wants](https://open.spotify.com/track/5iaa3eXgzedzQckwFNtIrl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:02 |
 | 25 | [I Don't Care](https://open.spotify.com/track/1YPJ4wKWLIsAZ6kjkat1zu) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human](https://open.spotify.com/album/56iR72s0hZmMwKNC884wAy) | 4:00 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 138 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 | 139 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 
-Snapshot ID: `AbziFAAAAADK6k5cMRdSDj2iERyvScs2`
+Snapshot ID: `AbzntAAAAABwNLZBFpqGdvvpghKTW3N5`

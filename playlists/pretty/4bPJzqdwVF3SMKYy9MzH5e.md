@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,143 songs - 4 day 18 hr 55 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,144 songs - 4 day 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2151,5 +2151,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2141 | [Manijas](https://open.spotify.com/track/6bMFQO0shjWyrAVe1I2Nsw) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 3:25 |
 | 2142 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 |
 | 2143 | [You Know You Like It](https://open.spotify.com/track/57kR5SniQIbsbVoIjjOUDa) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [You Know You Like It](https://open.spotify.com/album/6mQGo1a9mXHNUSJYwXi9Wd) | 4:07 |
+| 2144 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 |
 
-Snapshot ID: `AAAEPWY9c9/f7xlrVlZgPsyjv0qJey6G`
+Snapshot ID: `AAAEPpc11gwiYLH9jI9/cb4foTt5LHaU`

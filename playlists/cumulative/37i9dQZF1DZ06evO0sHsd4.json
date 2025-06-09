@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Los Tiempos Cambian",
+        "url": "https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP"
+      },
+      "artists": [
+        {
+          "name": "Los Beltran",
+          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186983,
+      "name": "Escuela 4 Letras",
+      "url": "https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ"
+    },
+    {
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },

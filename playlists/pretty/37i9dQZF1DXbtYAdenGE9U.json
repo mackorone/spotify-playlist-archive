@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 681896,
+  "num_followers": 682214,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 215480,
       "name": "Happiness Happening - Lange Remix",
       "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Armada Collected: Aly & Fila",
-        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
-      },
-      "artists": [
-        {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Jwaydan",
-          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
-        }
-      ],
-      "duration_ms": 226673,
-      "name": "We Control The Sunlight",
-      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Carte Blanche (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 204396,
       "name": "Carte Blanche - FM Edit",
       "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Armada Collected: Aly & Fila",
+        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
+      },
+      "artists": [
+        {
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Jwaydan",
+          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
+        }
+      ],
+      "duration_ms": 226673,
+      "name": "We Control The Sunlight",
+      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
     },
     {
       "added_at": "2024-07-23 09:55:55",

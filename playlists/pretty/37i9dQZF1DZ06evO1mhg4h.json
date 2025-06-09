@@ -1,12 +1,12 @@
 {
   "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 31756,
+  "num_followers": 31782,
   "original_name": "This Is kessoku band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAAB2O16dRz+Rei5+6vZ/iWZ3",
+  "snapshot_id": "aEOBAAAAAADw9ETtFFufmzAvtmfPt+vH",
   "tracks": [
     {
       "added_at": null,
@@ -84,25 +84,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 258173,
-      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089",
-      "url": "https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Re:\u7d50\u675f\u30d0\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "\u50d5\u3068\u4e09\u539f\u8272",
-      "url": "https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7"
+      "duration_ms": 228960,
+      "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
+      "url": "https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb"
     },
     {
       "added_at": null,
@@ -119,6 +103,22 @@
       "duration_ms": 198706,
       "name": "UNITE",
       "url": "https://open.spotify.com/track/1alnCCvoaTx5r0IhqXU3Ru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Re:\u7d50\u675f\u30d0\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "\u50d5\u3068\u4e09\u539f\u8272",
+      "url": "https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7"
     },
     {
       "added_at": null,
@@ -148,25 +148,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 228960,
-      "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
-      "url": "https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
-        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
-      "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
+      "duration_ms": 258173,
+      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089",
+      "url": "https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI"
     },
     {
       "added_at": null,
@@ -183,6 +167,22 @@
       "duration_ms": 273400,
       "name": "\u60d1\u3046\u661f",
       "url": "https://open.spotify.com/track/4iWnWYDtg7ITUoNh6OjJUz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
+        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
+      "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
     },
     {
       "added_at": null,

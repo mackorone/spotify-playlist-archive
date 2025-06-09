@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Kes",
-  "num_followers": 229481,
+  "num_followers": 229531,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
+        "name": "Fast Wine",
+        "url": "https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Fast Wine",
+      "url": "https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
         "name": "Bicycle Ride (Soca Remix)",
         "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
       },
@@ -151,6 +167,22 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
+        "name": "Big Links Riddim",
+        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+      },
+      "artists": [
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Good Spirits",
+      "url": "https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -171,38 +203,6 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "Big Links Riddim",
-        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
-      },
-      "artists": [
-        {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Good Spirits",
-      "url": "https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "Fast Wine",
-        "url": "https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Fast Wine",
-      "url": "https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -475,30 +475,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Black Keys Riddim",
-        "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        },
-        {
-          "name": "Jus Jay King",
-          "url": "https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V"
-        },
-        {
-          "name": "Nelieux",
-          "url": "https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge"
-        }
-      ],
-      "duration_ms": 137330,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "Hard Fete",
         "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 238153,
       "name": "Workout",
       "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Black Keys Riddim",
+        "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        },
+        {
+          "name": "Jus Jay King",
+          "url": "https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V"
+        },
+        {
+          "name": "Nelieux",
+          "url": "https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge"
+        }
+      ],
+      "duration_ms": 137330,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -659,6 +643,42 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -699,42 +719,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Tack Back",
-        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        }
-      ],
-      "duration_ms": 198671,
-      "name": "Tack Back",
-      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
         "name": "Born Wit It (Bumpa Riddim)",
         "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+        "name": "Spirit Of Carnival Project",
+        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+      "duration_ms": 184273,
+      "name": "Mental Day",
+      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -835,38 +835,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "Spirit Of Carnival Project",
-        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Mental Day",
-      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "No Behavior Shell Down",
         "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
       },
@@ -883,22 +851,34 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Alien Head Riddim",
-        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
       "artists": [
         {
-          "name": "V'ghn",
-          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Explore",
-      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -923,22 +903,22 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Soca Start",
-        "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
+        "name": "Alien Head Riddim",
+        "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
       "artists": [
         {
-          "name": "IQ",
-          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
         },
         {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
         }
       ],
-      "duration_ms": 141296,
-      "name": "Soca Start",
-      "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
+      "duration_ms": 145500,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/177934bysEv1ssIn65AAJy"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -955,6 +935,26 @@
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Soca Start",
+        "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 141296,
+      "name": "Soca Start",
+      "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "DAP (Drink and Party)",
         "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 169142,
       "name": "DAP (Drink and Party)",
       "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1331,38 +1347,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Allez",
-        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "Allez",
-      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "Dingolay",
         "url": "https://open.spotify.com/album/1iavPUafWYJWcstenET7ex"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 207034,
       "name": "Dingolay",
       "url": "https://open.spotify.com/track/4v3Av8xmWJyn0JLBX29h2k"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/2dUwESZPtRxC0lLE9Xk2Ax"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 218932,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6BWzQZyTtpnOQZ3XEUVRnP"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Vitamin D",
-        "url": "https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Vitamin D",
-      "url": "https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Hot and Groovy",
-        "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
+        "name": "Vitamin D",
+        "url": "https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK"
       },
       "artists": [
         {
-          "name": "Militant",
-          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
         }
       ],
-      "duration_ms": 282567,
-      "name": "Hot and Groovy",
-      "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
+      "duration_ms": 170769,
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
+        "name": "Hot and Groovy",
+        "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
       },
       "artists": [
         {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+          "name": "Militant",
+          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
         }
       ],
-      "duration_ms": 276131,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
+      "duration_ms": 282567,
+      "name": "Hot and Groovy",
+      "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1515,6 +1499,42 @@
       "duration_ms": 233116,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Same 24 Riddim",
+        "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
+      },
+      "artists": [
+        {
+          "name": "muddy",
+          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
+        },
+        {
+          "name": "Xpert Productions",
+          "url": "https://open.spotify.com/artist/52O8pzIdLGt62WYa44LRXg"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Payroll",
+      "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1551,42 +1571,6 @@
       "duration_ms": 177741,
       "name": "Mechanic",
       "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "Same 24 Riddim",
-        "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
-      },
-      "artists": [
-        {
-          "name": "muddy",
-          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
-        },
-        {
-          "name": "Xpert Productions",
-          "url": "https://open.spotify.com/artist/52O8pzIdLGt62WYa44LRXg"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Payroll",
-      "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
-      },
-      "artists": [
-        {
-          "name": "Militant",
-          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
-        }
-      ],
-      "duration_ms": 256210,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
     },
     {
       "added_at": "2025-06-05 23:00:07",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG"
+      },
+      "artists": [
+        {
+          "name": "Militant",
+          "url": "https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj"
+        }
+      ],
+      "duration_ms": 256210,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-06-05 23:00:07",
       "album": {
-        "name": "Soca Party",
-        "url": "https://open.spotify.com/album/6HOtL6CQH6Sc4yt0VjSp7g"
-      },
-      "artists": [
-        {
-          "name": "Jimmy October",
-          "url": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
-        },
-        {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Soca Party",
-      "url": "https://open.spotify.com/track/5Uyr4ZI83Brfl6c0c5C1SV"
-    },
-    {
-      "added_at": "2025-06-05 23:00:07",
-      "album": {
         "name": "Ou Dou",
         "url": "https://open.spotify.com/album/0eyr7aKHXVnThe3r8pZD9k"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 160966,
       "name": "Ou Dou",
       "url": "https://open.spotify.com/track/0hx2SCwOW2EdYduP1UhMsO"
+    },
+    {
+      "added_at": "2025-06-05 23:00:07",
+      "album": {
+        "name": "Soca Party",
+        "url": "https://open.spotify.com/album/6HOtL6CQH6Sc4yt0VjSp7g"
+      },
+      "artists": [
+        {
+          "name": "Jimmy October",
+          "url": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Soca Party",
+      "url": "https://open.spotify.com/track/5Uyr4ZI83Brfl6c0c5C1SV"
     },
     {
       "added_at": "2025-06-05 23:00:07",

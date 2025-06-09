@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
@@ -10076,7 +10076,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 383400,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
@@ -12220,7 +12220,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -13084,7 +13084,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 145788,
       "name": "I Got A New One",
       "url": "https://open.spotify.com/track/6Xl0Nn4PXWkF6lKTbjBCNb"
@@ -15662,7 +15662,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 129860,
       "name": "Lasso",
       "url": "https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9"
@@ -17640,6 +17640,24 @@
     {
       "album": {
         "name": "Makeup",
+        "url": "https://open.spotify.com/album/0iJjpNqjN7Ha0SoFFBBmSL"
+      },
+      "artists": [
+        {
+          "name": "The Bends",
+          "url": "https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/0QcFXTu9pidTznJ2LAm9EV"
+    },
+    {
+      "album": {
+        "name": "Makeup",
         "url": "https://open.spotify.com/album/0M4C80GGpXefAmgu5P6hHc"
       },
       "artists": [
@@ -17650,7 +17668,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 238533,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/6byukcmVQRSNHaC10OmP2J"
@@ -18646,6 +18664,32 @@
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM BAIL\u00c3O",
+        "url": "https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ"
+      },
+      "artists": [
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        },
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103727,
+      "name": "MONTAGEM BAIL\u00c3O",
+      "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
     },
     {
       "album": {
@@ -23384,6 +23428,36 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
+      },
+      "artists": [
+        {
+          "name": "Jack O\u2019Connell",
+          "url": "https://open.spotify.com/artist/6ie3h33ZMgR9je06RHA1Sb"
+        },
+        {
+          "name": "Brian Dunphy",
+          "url": "https://open.spotify.com/artist/4K4z9PMf7UYeDXRhe4WCOG"
+        },
+        {
+          "name": "Darren Holden",
+          "url": "https://open.spotify.com/artist/7aUPvtQ8NgxCYKU50BA0qL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218986,
+      "name": "Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/1esmJ8t2PRbYt2yMx2aSEW"
     },
     {
       "album": {
@@ -29337,6 +29411,24 @@
     },
     {
       "album": {
+        "name": "Tunes Since '89",
+        "url": "https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La"
+      },
+      "artists": [
+        {
+          "name": "KING BOOO!",
+          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220164,
+      "name": "Tunes Since '89",
+      "url": "https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y"
+    },
+    {
+      "album": {
         "name": "Our World, Our Way",
         "url": "https://open.spotify.com/album/695bXsHhv9RSU517drUU6w"
       },
@@ -29450,10 +29542,28 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 222910,
       "name": "Two Cents",
       "url": "https://open.spotify.com/track/294di95mwmwmUBnOMF77aN"
+    },
+    {
+      "album": {
+        "name": "Two Cents",
+        "url": "https://open.spotify.com/album/4JgkbEh8QJnwrSNcxjUmzB"
+      },
+      "artists": [
+        {
+          "name": "Alumni Cloud",
+          "url": "https://open.spotify.com/artist/0CMLhpz46GdjoSIM9QKkgj"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222910,
+      "name": "Two Cents",
+      "url": "https://open.spotify.com/track/5O0CfpM0kYfc5knv5V1xlH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2531,
+  "num_followers": 2536,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Yes I Know My Way (Live - Sanremo 2025)",
-        "url": "https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI"
-      },
-      "artists": [
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Yes I Know My Way (Live - Sanremo 2025)",
-      "url": "https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Quando (feat. Neri Per Caso)",
         "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 201730,
       "name": "Quando (feat. Neri Per Caso)",
       "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Yes I Know My Way (Live - Sanremo 2025)",
+        "url": "https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Yes I Know My Way (Live - Sanremo 2025)",
+      "url": "https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7"
     },
     {
       "added_at": "2025-03-03 09:30:09",

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vincent Valli\u00e8res",
-  "num_followers": 45043,
+  "num_followers": 45047,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-06-06 04:00:34",
       "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 235666,
       "name": "La Pluie",
       "url": "https://open.spotify.com/track/6iHRvE6NMx3cAuJMNnsfo5"
-    },
-    {
-      "added_at": "2025-06-06 04:00:34",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
     },
     {
       "added_at": "2025-06-06 04:00:34",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-06 04:00:34",
       "album": {
-        "name": "Manuel de vengeance",
-        "url": "https://open.spotify.com/album/0CstqUPEk3lz1HgHvSz6p3"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 110413,
-      "name": "Manuel de vengeance",
-      "url": "https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh"
-    },
-    {
-      "added_at": "2025-06-06 04:00:34",
-      "album": {
         "name": "B\u00eatise",
         "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-06-06 04:00:34",
       "album": {
-        "name": "WANTA",
-        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+        "name": "Manuel de vengeance",
+        "url": "https://open.spotify.com/album/0CstqUPEk3lz1HgHvSz6p3"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
-      "duration_ms": 166153,
-      "name": "WANTA",
-      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
+      "duration_ms": 110413,
+      "name": "Manuel de vengeance",
+      "url": "https://open.spotify.com/track/3oxycEp5wpp5O0l6Q4gROh"
     },
     {
       "added_at": "2025-06-06 04:00:34",
@@ -887,6 +871,46 @@
       "duration_ms": 178632,
       "name": "Try Try Try - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "WANTA",
+        "url": "https://open.spotify.com/album/2DFOHurgO6DZOMKGL64aUo"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "WANTA",
+      "url": "https://open.spotify.com/track/4o5T3A2O4k9bF6CMOr7DaN"
+    },
+    {
+      "added_at": "2025-06-06 04:00:34",
+      "album": {
+        "name": "Aje (feat. Tayc)",
+        "url": "https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Aje (feat. Tayc)",
+      "url": "https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq"
     },
     {
       "added_at": "2025-06-06 04:00:34",
@@ -919,22 +943,6 @@
       "duration_ms": 111693,
       "name": "Maudit Land",
       "url": "https://open.spotify.com/track/2OURBuruAMDG2v9RwFSt9Q"
-    },
-    {
-      "added_at": "2025-06-06 04:00:34",
-      "album": {
-        "name": "Tant qu'on est toi et moi",
-        "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Tant qu'on est toi et moi",
-      "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

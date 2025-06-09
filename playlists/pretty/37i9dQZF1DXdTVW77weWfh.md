@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVW77weWfh.md) - [plain]
 
 > Explore the softer side of Beethoven with this selection of calming favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,297 likes - 81 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,315 likes - 81 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

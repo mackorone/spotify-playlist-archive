@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Wayne, GloRilla and Lil Yachty.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,081,930 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,079,871 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [The Bell](https://open.spotify.com/track/3p1wCo1LLu41XK83rHO4K8) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [The Bell](https://open.spotify.com/album/5XV8k6l2wiRruhyE9eEVvk) | 2:44 |
 | 50 | [WRK](https://open.spotify.com/track/5HA7el8fgIjpdfE4oMfMdY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [WRK](https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu) | 3:14 |
 
-Snapshot ID: `aEJuJwAAAAD2myX47rcIaZ4EiiUq/vB7`
+Snapshot ID: `AAAAAMZhJ9wwzrN1D72vT8BVb4WEU2+9`

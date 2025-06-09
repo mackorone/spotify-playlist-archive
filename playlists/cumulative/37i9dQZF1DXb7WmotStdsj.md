@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-228 songs - 18 hr 29 min
+229 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Chakam Ya Taalam](https://open.spotify.com/track/4GppSn1kSIMZVSB8nmuvKB) | [Dj Badro](https://open.spotify.com/artist/6zLeYvpaV3RNnhg9nEbwky), [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Chakam Ya Taalam](https://open.spotify.com/album/7ef8QEfqZIPdRAzBVerIBn) | 1:47 | 2024-03-16 | 2024-04-19 |
 | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/track/7os0JnhRfMpRnq8nxmSUPN) | [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/album/6lsOMMzoq17CjREiQrJ4CR) | 4:35 | 2022-09-20 | 2022-12-01 |
 | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG) | [Dz Prod](https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf) | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS) | 3:13 | 2023-03-10 |  |
-| [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 | 2023-02-20 |  |
+| [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 | 2023-02-20 | 2025-06-09 |
 | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/track/4o9jA37PQmofMORu7TIlbm) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/album/0wrUX9IkbsTbyoCZOvA4Q7) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 | 2023-01-26 |
 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 | 2023-01-04 |
@@ -174,6 +174,7 @@
 | [Raki Dalmetni](https://open.spotify.com/track/5ZneftpoYQtDYac23jXLQA) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Raki Dalmetni](https://open.spotify.com/album/5Wse1dL3VSYfQTnB9Z4dkq) | 4:57 | 2022-09-20 | 2023-05-26 |
 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 |  |
 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 | 2025-02-26 |
+| [Rani out](https://open.spotify.com/track/1teqXEof0gFqC8tye8xOc6) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Rani out](https://open.spotify.com/album/0lPxOlFubIMhcCK4CTEBiy) | 4:32 | 2025-06-08 |  |
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 | 2024-09-02 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 | 2025-02-08 |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |

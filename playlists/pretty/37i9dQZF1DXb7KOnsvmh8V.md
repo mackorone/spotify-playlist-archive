@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,017 likes - 103 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,971 likes - 103 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 102 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
 | 103 | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/track/17ZarY8dLJmPrn21tVirZw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/6k1wuuV7p5ZNYvZzknYn7y) | 3:34 |
 
-Snapshot ID: `AAAAAKa4sEQJRMDM/5Fm+6U0OOUebkDM`
+Snapshot ID: `Z2UscAAAAADOGDjmq6V8hR3zVGwhraUi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,398 likes - 136 songs - 7 hr 1 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,404 likes - 136 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

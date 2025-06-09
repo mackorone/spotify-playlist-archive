@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-923 songs - 2 day 6 hr 51 min
+924 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2022-10-07 | 2024-04-19 |
 | [Loud Places](https://open.spotify.com/track/3v5GwZZovzKkoP1Ykvo9IA) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/0JvnQNMxBPhsPmCUPqjyXx) | 4:43 | 2021-03-14 | 2022-04-15 |
 | [Love Between...](https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 | 2023-03-10 | 2023-04-15 |
-| [Love Is Blind](https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:51 | 2024-06-17 |  |
+| [Love Is Blind](https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:51 | 2024-06-17 | 2025-06-09 |
 | [Love Is Letting Go](https://open.spotify.com/track/1TSpVBAwIqnKLE0cZa8mJd) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Meet the Parents](https://open.spotify.com/album/6SOfYDrFaMhdZ8eEDWZxBQ) | 3:08 | 2021-07-19 | 2022-07-28 |
 | [Love Song](https://open.spotify.com/track/4YtJXdV21LXGwQbl5rl70W) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/1EBxcHGOGKDTg3E1ceGLBO) | 3:45 | 2021-08-27 | 2022-07-29 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-16 | 2025-01-23 |
@@ -549,6 +549,7 @@
 | [Miami Baby](https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:53 | 2023-09-29 | 2024-04-19 |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2020-10-16 | 2022-07-29 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-06 |  |
+| [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 | 2025-06-06 |  |
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2025-01-17 |  |
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-10-05\* | 2022-06-01 |
 | [Momma, I've Got a Feeling \- Joey Pecoraro Remix](https://open.spotify.com/track/3MzuvokLBSrQlW06YPBy3D) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE), [Joey Pecoraro](https://open.spotify.com/artist/7xCobP8qDlYdUyYow7Ji38) | [Momma, I've Got a Feeling \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5vJx9C9A0Z6Epc6DBI7gRV) | 3:24 | 2020-10-05\* | 2020-10-06 |

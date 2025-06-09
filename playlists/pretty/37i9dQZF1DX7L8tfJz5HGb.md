@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,487 likes - 108 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,485 likes - 108 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 107 | [Okey Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
 | 108 | [Boys And Girls](https://open.spotify.com/track/2vefaHJYN4zKolfWa48BwV) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Boys and Girls](https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e) | 3:20 |
 
-Snapshot ID: `AAAAANz/9Q4RYlc3HNCStB3JlkaPcD+9`
+Snapshot ID: `ZJk1qQAAAABlkH2ZvQYTzDXUHZAbyl09`

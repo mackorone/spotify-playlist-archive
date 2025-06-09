@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 6546,
+  "num_followers": 6549,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 204664,
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -439,18 +439,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 265366,
-      "name": "Rent Money",
-      "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -471,22 +475,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+      "duration_ms": 265366,
+      "name": "Rent Money",
+      "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 196037,
-      "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
-      "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Usain Bolt Presents: Olympe Ros\u00e9 Riddim",
         "url": "https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk"
       },
@@ -783,6 +759,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 196037,
+      "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
+      "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Usain Bolt Presents: Immortal Riddim, Vol. 2",
         "url": "https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y"
       },
@@ -795,6 +795,26 @@
       "duration_ms": 156525,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Usain Bolt Presents: Clockwork Riddim",
+        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
+      },
+      "artists": [
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        },
+        {
+          "name": "Nj",
+          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -851,26 +871,6 @@
       "duration_ms": 166699,
       "name": "Crocodile Teeth",
       "url": "https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Usain Bolt Presents: Clockwork Riddim",
-        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
-      },
-      "artists": [
-        {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
-        },
-        {
-          "name": "Nj",
-          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
     },
     {
       "added_at": "2022-10-01 16:00:00",

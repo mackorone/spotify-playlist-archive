@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter, Ed Sheeran, Little Simz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,566 likes - 118 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,620 likes - 118 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

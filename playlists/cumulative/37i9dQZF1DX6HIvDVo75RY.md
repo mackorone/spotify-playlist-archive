@@ -2,7 +2,7 @@
 
 ### [Spotify House at CMA Fest 2025](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> It's Day 3 of Spotify House at Ole Red on Broadway! And we've got a couple more surprises up our sleeves...
+> Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
 425 songs - 23 hr 7 min
 
@@ -249,7 +249,7 @@
 | [Narcissist](https://open.spotify.com/track/3LLezpquftwn7QI1rYIovM) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Narcissist](https://open.spotify.com/album/0HZiTcB82OPdvbJ2Hny6bK) | 2:34 | 2023-05-23 | 2024-05-24 |
 | [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 | 2022-05-26 | 2023-05-24 |
 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 | 2024-06-10 | 2025-05-22 |
-| [Need To](https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Need To](https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06) | 3:09 | 2025-05-21 |  |
+| [Need To](https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Need To](https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06) | 3:10 | 2025-05-21 |  |
 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 | 2023-05-23 | 2024-05-24 |
 | [Never Comin' Home](https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Comin' Home](https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8) | 3:14 | 2022-05-26 | 2023-05-24 |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 | 2022-05-26 | 2023-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2025 BABYMONSTER 1st WORLD TOUR 'HELLO MONSTERS' IN JAPAN』 セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,046 likes - 16 songs - 44 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 33,034 likes - 16 songs - 44 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

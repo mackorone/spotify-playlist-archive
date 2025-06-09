@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes ✨  Cover: Kybba
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,265 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,307 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm HIM](https://open.spotify.com/track/3VYD9o3gXFsF26Z3eeYnau) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [I'm HIM](https://open.spotify.com/album/7DF0OGoaxXdKLZ0w23GdFJ) | 2:29 |
 | 2 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
-| 3 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 3 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 4 | [SYSTEM](https://open.spotify.com/track/76EO39QHagaGXC7oLROXqH) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [SYSTEM](https://open.spotify.com/album/4XQ4y21RchMtmmkuSrXpsu) | 1:41 |
 | 5 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 |
 | 6 | [Walibi](https://open.spotify.com/track/1GvW7lE2MOYerCvSeHkchG) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Steven Bergwijn](https://open.spotify.com/artist/4hIP6wtjjIZcGFFyDD2zw4), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Eigenwijs \(Deluxe\)](https://open.spotify.com/album/0bjgewTsmIS8VOUdD7PXEO) | 2:32 |

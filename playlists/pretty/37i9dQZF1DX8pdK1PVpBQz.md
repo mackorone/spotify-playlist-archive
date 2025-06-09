@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: IJALE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,981 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,986 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Worse for Wear](https://open.spotify.com/track/5Lo4Wsifk4SDKRJ6gPtgcQ) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Worse for Wear](https://open.spotify.com/album/7C7MKS3ogNHGJyeQjmljKy) | 2:49 |
 | 100 | [Jenga](https://open.spotify.com/track/3iSE04lxPgO8ULJXvAWrq5) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Jenga](https://open.spotify.com/album/4bzFN4D29WM1ZxJzWdVa8g) | 2:59 |
 
-Snapshot ID: `aD+xygAAAACFtICEmLR/DgtFQG91r54c`
+Snapshot ID: `aD+xygAAAAAoEP13Odkp9dAASHGetryv`

@@ -16999,6 +16999,28 @@
     },
     {
       "album": {
+        "name": "I Like Me Better",
+        "url": "https://open.spotify.com/album/09lMOlJexNMjS2r7Wzu0GV"
+      },
+      "artists": [
+        {
+          "name": "Phil Phauler",
+          "url": "https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143448,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0PEg8tH697BYVgfkxIEWUa"
+    },
+    {
+      "album": {
         "name": "BACK 2 RAVE",
         "url": "https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc"
       },
@@ -23666,7 +23688,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 207910,
       "name": "mamaididit",
       "url": "https://open.spotify.com/track/1bE7Xr3y4C817TAWunZlFm"
@@ -23702,7 +23724,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -31362,7 +31384,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -32048,7 +32070,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 149118,
       "name": "Pre v\u00e1s hr\u00e1m",
       "url": "https://open.spotify.com/track/5pltfpIVFmQdLbb1H20HeD"
@@ -35684,7 +35706,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -43312,7 +43334,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 175172,
       "name": "Val\u010d\u00edk",
       "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"
@@ -44560,7 +44582,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 190402,
       "name": "V\u0161etko, \u010do ma tr\u00e1pi",
       "url": "https://open.spotify.com/track/4UJUfa5cAqXXNyJ921hyxf"

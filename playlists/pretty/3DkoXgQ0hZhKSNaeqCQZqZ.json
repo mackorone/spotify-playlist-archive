@@ -1,13 +1,29 @@
 {
   "description": "All songs made for furs, by furs.  Check top 25 @ spotify.furrest.net",
-  "num_followers": 589,
+  "num_followers": 590,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADm0593+dPBUG+7xzuukELkunM6t1N",
+  "snapshot_id": "AAADnHx27RWS7lotgjlUlJLhmnD7UPHr",
   "tracks": [
+    {
+      "added_at": "2025-06-08 04:12:06",
+      "album": {
+        "name": "tether",
+        "url": "https://open.spotify.com/album/5VDFtcYSBVLuuyF126Nh92"
+      },
+      "artists": [
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "duration_ms": 106986,
+      "name": "tether",
+      "url": "https://open.spotify.com/track/4mSyDYm6dYl5Qx6rNUIp2r"
+    },
     {
       "added_at": "2025-06-06 05:57:11",
       "album": {

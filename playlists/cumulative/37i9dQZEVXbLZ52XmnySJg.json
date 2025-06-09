@@ -1928,6 +1928,24 @@
     {
       "album": {
         "name": "Sicario",
+        "url": "https://open.spotify.com/album/2JpU8VtlJR0XFkkLeHjNzl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/0fAPcsD7qrEAfO2EH0ce4V"
+    },
+    {
+      "album": {
+        "name": "Sicario",
         "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
       },
       "artists": [
@@ -8524,7 +8542,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 217894,
       "name": "Husn",
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
@@ -13466,7 +13484,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 231575,
       "name": "Maiyya Mainu",
       "url": "https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE"
@@ -15992,7 +16010,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 226941,
       "name": "Nazm Nazm",
       "url": "https://open.spotify.com/track/1tCduDqB3J8r90FAxprLzO"
@@ -17512,7 +17530,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 298771,
       "name": "Pehli Dafa",
       "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
@@ -18628,7 +18646,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -19621,6 +19639,24 @@
     },
     {
       "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
       },
@@ -20554,7 +20590,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 155161,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
@@ -23008,7 +23044,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 341933,
       "name": "Tu Jaane Na",
       "url": "https://open.spotify.com/track/5vGiuYFSGekGLgbxhV1rD5"
@@ -24010,7 +24046,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 253833,
       "name": "Uyi Amma - From \"Azaad\"",
       "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp"
@@ -24858,7 +24894,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
@@ -25314,6 +25350,28 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
+    },
+    {
+      "album": {
+        "name": "The Arijit Singh Collection",
+        "url": "https://open.spotify.com/album/1QOwvBk3LNWAaEvARxPDNd"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Zaalima",
+      "url": "https://open.spotify.com/track/4MU4Kfkd9EnkArK2ocQyqK"
     },
     {
       "album": {

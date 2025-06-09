@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. La Adictiva en portada.",
-  "num_followers": 1039846,
+  "num_followers": 1039945,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 156680,
       "name": "Deja",
       "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
-        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 240624,
-      "name": "La Historia (En Vivo)",
-      "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
       },
@@ -771,18 +751,22 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+      "duration_ms": 240624,
+      "name": "La Historia (En Vivo)",
+      "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -803,6 +787,22 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Mi Buen Amante",
-      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -851,6 +835,22 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Mi Buen Amante",
+      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 159581,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 224166,
       "name": "Muchachita De Ojos Tristes - En Vivo",
       "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Te Aconsejo",
-        "url": "https://open.spotify.com/album/3963jxlECr36MmiUkzEw7z"
-      },
-      "artists": [
-        {
-          "name": "Julio Haro",
-          "url": "https://open.spotify.com/artist/4Yq2F6FJ7b6RLuQBbFOTPO"
-        }
-      ],
-      "duration_ms": 184697,
-      "name": "Te Aconsejo",
-      "url": "https://open.spotify.com/track/2dGV65KkLCVro4MS60vGEo"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 234416,
       "name": "El Vaso Derrama - En Vivo",
       "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "Te Aconsejo",
+        "url": "https://open.spotify.com/album/3963jxlECr36MmiUkzEw7z"
+      },
+      "artists": [
+        {
+          "name": "Julio Haro",
+          "url": "https://open.spotify.com/artist/4Yq2F6FJ7b6RLuQBbFOTPO"
+        }
+      ],
+      "duration_ms": 184697,
+      "name": "Te Aconsejo",
+      "url": "https://open.spotify.com/track/2dGV65KkLCVro4MS60vGEo"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Entre Golpes y Besos - En Vivo",
+      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
         "name": "Nadie Como T\u00fa",
         "url": "https://open.spotify.com/album/1E96ajg4gmUDbxbYGR6pBW"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 197426,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/4rLtVsNQOzEgJkjeTU2Nda"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Entre Golpes y Besos - En Vivo",
-      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
-      },
-      "artists": [
-        {
-          "name": "Los Reales Del Rio",
-          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
-        }
-      ],
-      "duration_ms": 188471,
-      "name": "365",
-      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
         "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 203816,
       "name": "Amorcito Mio",
       "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "duration_ms": 188471,
+      "name": "365",
+      "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
     },
     {
       "added_at": "2025-03-21 06:00:32",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-03-21 06:00:32",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/4OAhS55Tzp3M936vF9xkga"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/417X6wL1dS22GIqC84qaKD"
-    },
-    {
-      "added_at": "2025-03-21 06:00:32",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 163230,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl"
+    },
+    {
+      "added_at": "2025-03-21 06:00:32",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/4OAhS55Tzp3M936vF9xkga"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/417X6wL1dS22GIqC84qaKD"
     },
     {
       "added_at": "2025-03-21 06:00:32",

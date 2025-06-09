@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 |
 | 30 | [Ellinia \(Missing You\)](https://open.spotify.com/track/6Xln2IlSrsY0S47XQPI3ko) | [soulrez](https://open.spotify.com/artist/3y9Sh2RtQKrH4MiIOwOl5X) | [Lofi MapleStory, vol 2](https://open.spotify.com/album/0BKIlQ4YzKAsAXcpqK9NJB) | 3:11 |
 
-Snapshot ID: `aD0hwAAAAADo/hzGJp693J0q0wXRkyKE`
+Snapshot ID: `aD0hwAAAAACXrU+4NMiWNdJfAjVhlLZj`

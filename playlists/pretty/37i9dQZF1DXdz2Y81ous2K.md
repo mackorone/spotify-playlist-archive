@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 
 > The iconic anime composer shares his favorite tracks and musical inspirations ahead of the 2025 Anime Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,071 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,095 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 |
-| 2 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 |
+| 2 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 |
 | 3 | [REVIVƎЯ](https://open.spotify.com/track/67x1DxMJvnHdHzOQ9E3AS7) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [REVIVƎЯ](https://open.spotify.com/album/3WVpSguducGqscoPiHsvYO) | 3:11 |
 | 4 | [DARK ARIA <LV2>](https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEveL](https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M) | 2:22 |
 | 5 | [Avid](https://open.spotify.com/track/2OTteXok3ToILDN62hoV21) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [V](https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA) | 4:09 |

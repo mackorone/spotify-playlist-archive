@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels, featuring Bruno Romano\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,681 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,679 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 48 | [COMPLEJO](https://open.spotify.com/track/5a9Ptai9hH3MQtZXdynPrs) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [COMPLEJO](https://open.spotify.com/album/20hKwkGp6S5T1gW9mQrj8b) | 3:00 |
 | 49 | [Dando Vueltas](https://open.spotify.com/track/2Srk8jVfZ127B9M3xSFueE) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0), [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [Dando Vueltas](https://open.spotify.com/album/6ggzEqaDwakWrfmb6z4PcK) | 2:57 |
 
-Snapshot ID: `aDjOBwAAAAA5MymQogVr0X45obnVpk1z`
+Snapshot ID: `aDjOBwAAAADz1tboQTe45yprX3beVkvJ`

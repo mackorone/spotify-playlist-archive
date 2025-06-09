@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Anjelia Dom
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,799 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,802 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

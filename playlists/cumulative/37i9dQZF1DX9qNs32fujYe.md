@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,077 songs - 3 day 6 hr 32 min
+1,079 songs - 3 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-21 | 2022-11-21 |
 | [Astorolus \- the Great Octopus](https://open.spotify.com/track/7v6DwMJy1kPV874CfuN1mY) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Astorolus \- the Great Octopus](https://open.spotify.com/album/4XrIy3GrY9wdXMgiBEmj37) | 6:42 | 2022-01-14 | 2022-06-27 |
 | [At the End of the Rainbow](https://open.spotify.com/track/1dPLUFDn4ZnmCQRslS6vMm) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [At the End of the Rainbow](https://open.spotify.com/album/3JYX12KjroniwQ9KN9ChAw) | 3:21 | 2021-12-17 | 2022-07-28 |
-| [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 |  |
+| [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 | 2025-06-09 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2022-03-22 | 2022-04-02 |
 | [Back to the Rhythm](https://open.spotify.com/track/6AhyAj8E1JyYcY3VR3K7M2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Back to the Rhythm](https://open.spotify.com/album/6JsuY2qnJQd0QPRiCar8K0) | 4:11 | 2022-04-08 | 2022-07-29 |
 | [Back With A Bang](https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Back With A Bang](https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N) | 3:33 | 2024-07-05 | 2024-08-15 |
@@ -495,10 +495,12 @@
 | [Killed to Death by Piracy](https://open.spotify.com/track/6GGFETmD8LcH7zQpHhj8wm) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Killed to Death by Piracy](https://open.spotify.com/album/1k5h8H7z1qLlmA0zmi6qhU) | 3:19 | 2025-05-23 |  |
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2022-08-19 | 2023-04-22 |
 | [King Of The Kings](https://open.spotify.com/track/58Jv0IEayRVpeeSMilqdvD) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [King Of The Kings](https://open.spotify.com/album/2iCtJGkOgqbMGQg9qHuT0M) | 4:43 | 2022-07-08 | 2022-07-16 |
+| [King of the Sun \(feat\. Jesper Binzer & D\-A\-D\)](https://open.spotify.com/track/0TLSfenoA0Nf1e2zXGRx2g) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp), [Jesper Binzer](https://open.spotify.com/artist/5wjWVkOivGXpuprKis1UCL), [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [King of the Sun \(feat\. Jesper Binzer & D\-A\-D\)](https://open.spotify.com/album/1Hgqt3SFzveLt4AJm9nMYM) | 4:09 | 2025-06-06 |  |
 | [Kingdom Of Skulls](https://open.spotify.com/track/6nwDhOap0GXnuQR84vyNtF) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Kingdom Of Skulls](https://open.spotify.com/album/1zeFcFOdigqqYMl6KUDl13) | 3:45 | 2024-11-04 | 2024-12-04 |
 | [Kings & Queens](https://open.spotify.com/track/1QwYnABTbwD6ahOwDrzO6T) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 3:02 | 2022-07-08 | 2022-08-20 |
 | [Kings & Queens](https://open.spotify.com/track/5q9odCy98qQpGOifzN5bd4) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Kings & Queens](https://open.spotify.com/album/4GTkQiW0rIDDIQYazg0SYR) | 3:02 | 2021-12-17 | 2022-07-22 |
 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 | 2022-08-19 |  |
+| [Kings of Ragnarök](https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Kings of Ragnarök](https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw) | 3:54 | 2025-06-06 |  |
 | [Kiss of Death](https://open.spotify.com/track/4jpfnPGV4WE882Y8oJKcOF) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Kiss of Death](https://open.spotify.com/album/1CfsSbvIOWm3w0D6CPuUJp) | 3:26 | 2021-12-17 | 2022-04-21 |
 | [Knives](https://open.spotify.com/track/0A04MG489D3uGPYpNcjniU) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/76DreJ7TNtULuyeVoPC9rw) | 4:16 | 2023-05-26 | 2024-04-19 |
 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-07-13 | 2023-04-15 |
@@ -599,7 +601,7 @@
 | [Nanna's Fate](https://open.spotify.com/track/36XLmStMavCHsJzfzyWYRt) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Nanna's Fate](https://open.spotify.com/album/4vn0doSOq7GLSeOgiEzsST) | 4:46 | 2024-08-23 | 2025-04-26 |
 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-05-05 | 2024-07-13 |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2023-02-11 |
-| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 |  |
+| [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 | 2025-06-09 |
 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2024-03-08 | 2025-02-15 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2025-02-01 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |

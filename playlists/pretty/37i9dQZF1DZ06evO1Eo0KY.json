@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 607,
+  "num_followers": 608,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAAB1BpF2E4icW0qtqJg13IT3",
+  "snapshot_id": "aEOBAAAAAAAPtq5HpAwHgutokJynNSKg",
   "tracks": [
     {
       "added_at": null,
@@ -927,6 +927,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peaches and Herb (Remix)",
+        "url": "https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph"
+      },
+      "artists": [
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Peaches and Herb - Remix",
+      "url": "https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -943,26 +967,6 @@
       "duration_ms": 69608,
       "name": "Midsommar",
       "url": "https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music Hypnotizes",
-        "url": "https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ"
-      },
-      "artists": [
-        {
-          "name": "Jimmie D",
-          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 193448,
-      "name": "Dead Cat Bounce",
-      "url": "https://open.spotify.com/track/0fHTRoWVTWxhMgVDR9WPiv"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516031,
+  "num_followers": 1516034,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -591,42 +591,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Onde A Gente Chegou",
-        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "Onde A Gente Chegou",
-      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Vai Embora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf"
       },
@@ -647,6 +611,42 @@
       "duration_ms": 227415,
       "name": "N\u00e3o Vai Embora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Onde A Gente Chegou",
+        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "Onde A Gente Chegou",
+      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 238374,
       "name": "Mande um Sinal - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cartas e Versos",
-        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 199814,
-      "name": "Cartas e Versos",
-      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Energia Surreal (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 177481,
       "name": "Energia Surreal - Ac\u00fastica",
       "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cartas e Versos",
+        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 199814,
+      "name": "Cartas e Versos",
+      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Outra Vida",
-        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "Outra Vida",
-      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Outra Vida",
+        "url": "https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "Outra Vida",
+      "url": "https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0"
     },
     {
       "added_at": "2024-08-02 18:37:00",

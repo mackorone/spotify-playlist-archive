@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 13 min
+97 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Hawaii Rain](https://open.spotify.com/track/3cLCDa6FtQID2X6G7ISIYW) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Hawaii Rain](https://open.spotify.com/album/028OOPjw8p6WpNHj4bhuvq) | 4:06 | 2024-01-29 | 2024-04-19 |
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2024-01-29 |  |
 | [Hemiola Blues](https://open.spotify.com/track/3M90vG6FtT6Fw72Jx9HJSK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nashville Sessions](https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o) | 1:23 | 2024-01-29 | 2024-03-10 |
-| [Hi'ilawe](https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 2:30 | 2024-01-29 |  |
+| [Hi'ilawe](https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 2:30 | 2024-01-29 | 2025-06-09 |
 | [Honu's Dream](https://open.spotify.com/track/3R3FlqlIt3vp2X2NzS1xZl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kohala](https://open.spotify.com/artist/019N8MmzjydRlDJ8dtxPU8) | [Putumayo Kids Presents Instrumental Dreamland](https://open.spotify.com/album/1WxMaglwkL1nkq0MfO88jC) | 2:43 | 2024-01-29 |  |
 | [Hope in the Ashes](https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Hope in the Ashes](https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr) | 2:34 | 2024-08-03 |  |
 | [Hotel California \(Duet with Jake Shimabukuro\)](https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [HandPicked](https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn) | 8:05 | 2024-01-29 |  |
@@ -81,6 +81,7 @@
 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 | 2024-01-29 | 2024-11-01 |
 | [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 | 2024-01-29 |  |
 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 | 2024-06-18 | 2025-01-27 |
+| [エンジェル](https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:04 | 2025-06-09 |  |
 | [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2024-01-29 |  |
 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 | 2024-01-29 |  |
 | [ゴーイング・トゥ・カリフォルニア](https://open.spotify.com/track/0emHVNucvPkBSiFLyEaCHk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:07 | 2025-04-14 | 2025-04-15 |

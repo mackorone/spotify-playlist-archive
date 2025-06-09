@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,012 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,015 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 79 | [The Flow](https://open.spotify.com/track/4jmBDEQoGwcJeQSocJrmsk) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Floating Flow EP](https://open.spotify.com/album/3eEWeVWxgnvaoNZngFRHkd) | 2:49 |
 | 80 | [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 |
 
-Snapshot ID: `aB4YhgAAAACWDL0HS2DHHEli7ojyFUeL`
+Snapshot ID: `aB4YhgAAAAAvN+6daYnfWQ+c7l+2BpJK`

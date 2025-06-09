@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Rebeca
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,835 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,826 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 11 | [Pode Sair / Pode Ficar](https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR) | [Math Basso](https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Pode Sair / Pode Ficar](https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS) | 2:53 |
 | 12 | [Depois de mim \(Mercúrio\)](https://open.spotify.com/track/4wbl73h2AHzKTrnxDoAgeP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Depois de mim \(Mercúrio\)](https://open.spotify.com/album/12M32MKX2ZiYO0gThn1Wfd) | 3:02 |
 | 13 | [Mais Raro](https://open.spotify.com/track/7xHRnZUMxAVzYLuOx1iKqU) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Mais Raro](https://open.spotify.com/album/6oG9RhsfDXqYdE5Ise33JF) | 3:00 |
-| 14 | [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 |
-| 15 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
+| 14 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
+| 15 | [Viver de Carinho](https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Viver de Carinho](https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm) | 2:28 |
 | 16 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
 | 17 | [Baila Comigo](https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Baila Comigo](https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H) | 3:06 |
 | 18 | [ROSA](https://open.spotify.com/track/1ZIYj2bbQCvLb1FO0tl2Kl) | [Marina Gold](https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI) | [ANEMOIA](https://open.spotify.com/album/5xXxPSB5I7IFVP98ve55eE) | 3:32 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 51 | [Desperdício](https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Todas as Saudades](https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH) | 2:53 |
 | 52 | [KINTSUGI](https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [KINTSUGI](https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t) | 4:17 |
 | 53 | [acende essa ponta](https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre o Nada e o Infinito](https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H) | 2:55 |
-| 54 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |
-| 55 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
+| 54 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
+| 55 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |
 | 56 | [Prece](https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Prece](https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2) | 3:47 |
 | 57 | [sinto saudade](https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [sinto saudade](https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk) | 2:30 |
 | 58 | [Jaqueta](https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Jaqueta](https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB) | 2:16 |
 | 59 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 |
-| 60 | [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 |
-| 61 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
+| 60 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
+| 61 | [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 |
 | 62 | [Nosso Carnaval](https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6) | [Brandão](https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U) | [Nosso Carnaval](https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK) | 2:45 |
 | 63 | [Voltei](https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Voltei](https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM) | 2:09 |
 | 64 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 |

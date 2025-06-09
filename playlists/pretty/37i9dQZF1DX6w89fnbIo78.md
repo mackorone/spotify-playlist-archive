@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6w89fnbIo78.md) - [plain]
 
 > Rage with the machines\. Listen to the music from The Electric State, streaming now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,422 likes - 12 songs - 45 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,441 likes - 12 songs - 45 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

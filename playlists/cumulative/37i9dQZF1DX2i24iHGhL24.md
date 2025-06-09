@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-443 songs - 1 day 1 hr 32 min
+444 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Daylight](https://open.spotify.com/track/5EWbjEQCRhU1l3zvEYucig) | [Shaun Reynolds](https://open.spotify.com/artist/6kIgB5cLdAQ1ctIgs9lrkS) | [Daylight](https://open.spotify.com/album/37lI8YxLStfcha86BI7Gec) | 3:57 | 2021-12-24 | 2022-04-16 |
 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2022-07-08 | 2023-10-17 |
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2022-03-25 | 2022-12-30 |
-| [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 | 2022-03-25 |  |
+| [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 | 2022-03-25 | 2025-06-09 |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/0OTkauhBKvLKa7r1Kue0bz) | 2:59 | 2021-12-17 | 2022-04-16 |
 | [Digital Love](https://open.spotify.com/track/4zOyh7D39nvmacly6Wj0FT) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Digital Love](https://open.spotify.com/album/1Alro4P8exTMmn1skh1xO1) | 3:26 | 2021-12-17 | 2022-05-02 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-12-29 |  |
@@ -163,6 +163,7 @@
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2021-12-17 |  |
 | [Flowers](https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Flowers](https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF) | 2:45 | 2023-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
+| [Frozen](https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Frozen](https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV) | 3:21 | 2025-06-08 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-12-17 |  |
 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-05-20 |  |
 | [gives you hell](https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [gives you hell](https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS) | 3:28 | 2022-09-19 | 2022-12-30 |

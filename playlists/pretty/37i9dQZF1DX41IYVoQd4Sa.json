@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05ea\u05e8 \u05e8\u05d3\u05d0",
-  "num_followers": 32046,
+  "num_followers": 32048,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-06-05 21:00:23",
       "album": {
-        "name": "\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05df",
-        "url": "https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X"
-      },
-      "artists": [
-        {
-          "name": "Safe Space Sessions",
-          "url": "https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg"
-        },
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 279375,
-      "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
-      "url": "https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic"
-    },
-    {
-      "added_at": "2025-06-05 21:00:23",
-      "album": {
         "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
         "url": "https://open.spotify.com/album/52Y7nq83AIKf2FRcEA1UtP"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 180160,
       "name": "\u05d6\u05d4 \u05d1\u05d3\u05d9\u05d5\u05e7 \u05de\u05d4 \u05e9\u05d0\u05ea\u05d4 \u05d0\u05d5\u05d4\u05d1",
       "url": "https://open.spotify.com/track/624p69UNCr0GZZUMsXEz1m"
+    },
+    {
+      "added_at": "2025-06-05 21:00:23",
+      "album": {
+        "name": "\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05df",
+        "url": "https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X"
+      },
+      "artists": [
+        {
+          "name": "Safe Space Sessions",
+          "url": "https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg"
+        },
+        {
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+        }
+      ],
+      "duration_ms": 279375,
+      "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic"
     },
     {
       "added_at": "2025-06-05 21:00:23",
@@ -759,18 +759,22 @@
     {
       "added_at": "2025-06-05 21:00:23",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
       },
       "artists": [
         {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "Zulat Choir",
+          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
+      "duration_ms": 326979,
+      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
     },
     {
       "added_at": "2025-06-05 21:00:23",
@@ -791,22 +795,18 @@
     {
       "added_at": "2025-06-05 21:00:23",
       "album": {
-        "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
       },
       "artists": [
         {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "Zulat Choir",
-          "url": "https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7"
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
         }
       ],
-      "duration_ms": 326979,
-      "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-06-05 21:00:23",

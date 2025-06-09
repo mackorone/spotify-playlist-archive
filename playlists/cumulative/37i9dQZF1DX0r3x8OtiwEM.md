@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-702 songs - 2 day 19 hr 55 min
+703 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Atlantic Beam](https://open.spotify.com/track/1xdZHgjDVHoHpT5EyhzHqK) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Dear Future Self EP](https://open.spotify.com/album/3PYqaXXZZs1WdQO3ALCLZJ) | 7:20 | 2020-02-15 | 2021-05-21 |
 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2020-06-12 | 2021-05-28 |
 | [Aura](https://open.spotify.com/track/7FzeLI7bUVnnPMNS6muS4y) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Aura](https://open.spotify.com/album/69qmZ8AMIeJMnVOwsXuiop) | 5:22 | 2021-10-09 | 2022-07-23 |
+| [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 | 2025-06-06 |  |
 | [Avalanche \- Joachim Pastor Remix](https://open.spotify.com/track/1SFWabVeCbM9cD7Gb2qBNo) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Avalanche \(Joachim Pastor Remix\)](https://open.spotify.com/album/0cBb1B74E6KJrfwCvmVxfU) | 6:53 | 2021-05-09 | 2022-07-28 |
 | [Avalon](https://open.spotify.com/track/2gExUhy2b4KYPjkgZnCm0q) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Avalon](https://open.spotify.com/album/7DMnPnaIG9N3IpUK4RXlfg) | 4:26 | 2021-06-25 | 2021-06-26 |
 | [Awake](https://open.spotify.com/track/1CORvfu9nzmwexzWLsCK5S) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf), [Jaden Raxel](https://open.spotify.com/artist/4D2Bvkpg8HKd75UrjX2KpK), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Awake](https://open.spotify.com/album/3K4EB0TNDOKxeChoCb7rLn) | 7:02 | 2021-03-06 | 2022-07-29 |
@@ -463,7 +464,7 @@
 | [Pictures In My Head \- Matthias Schuell Remix](https://open.spotify.com/track/2kXiVa8vQ0xPDDTQ93TvqR) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Matthias Schuell](https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk) | [Pictures In My Head](https://open.spotify.com/album/78BT5wuemTAnYjFb4xMrR3) | 6:57 | 2019-08-06\* | 2020-06-11 |
 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/5ZIcOUUEP2IaQG2ayxjLkH) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/4JFCApp2LJi4CEe1m7rPd2) | 6:47 | 2021-09-12 | 2022-11-09 |
 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 | 2022-11-14 | 2024-04-19 |
-| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 |  |
+| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 | 2025-06-09 |
 | [Polarprojektion](https://open.spotify.com/track/5H5vxvuhguYLnH1hwsc1j0) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Space Techno](https://open.spotify.com/album/4Mt2mVk8HQfvc9P8Z6VNl4) | 6:17 | 2019-12-14 | 2020-06-12 |
 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 | 2020-01-16 | 2020-07-18 |
 | [Portal](https://open.spotify.com/track/4Z1FN3padWsSOrvisQWlKj) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Portal](https://open.spotify.com/album/30sRKwQaX8DwjJqybgCviM) | 7:51 | 2021-03-20 | 2021-06-18 |

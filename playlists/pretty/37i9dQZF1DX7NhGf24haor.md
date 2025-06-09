@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Wildstylez
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,470 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,502 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Advanced Reborn](https://open.spotify.com/track/1u0Lqo5D56htgLJlyBU5mF) | [Marcel Woods](https://open.spotify.com/artist/03kG9mdI2xdVCLOsFt26GR), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs) | [Advanced Reborn](https://open.spotify.com/album/0NQT06WE5ejbTJolrGf3EG) | 2:33 |
 | 100 | [YAY](https://open.spotify.com/track/4qHFb7Jb8XsgQftQpScAtJ) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [YAY](https://open.spotify.com/album/5Pcd1NBFl1nAJDtSHUMDsg) | 2:57 |
 
-Snapshot ID: `aEMFRQAAAABlLW5J6SDomv65EffBaI/b`
+Snapshot ID: `aEMFRQAAAAD3cyYGg4Vrlh/E7nU936Bu`

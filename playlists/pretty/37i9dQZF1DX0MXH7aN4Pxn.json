@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 750298,
+  "num_followers": 750170,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
-        "name": "NOW IT'S GONE",
-        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 143184,
-      "name": "NOW IT'S GONE",
-      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "Angel of Mine",
         "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 162741,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Don\u2019t Forget My Love",
-        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don\u2019t Forget My Love",
-      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 202648,
       "name": "Life",
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "Don\u2019t Forget My Love",
+        "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don\u2019t Forget My Love",
+      "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Dance With U",
-        "url": "https://open.spotify.com/album/1HAp0pFi7vI0aIsG996Vo9"
-      },
-      "artists": [
-        {
-          "name": "NewEra",
-          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
-        }
-      ],
-      "duration_ms": 118095,
-      "name": "Dance With U",
-      "url": "https://open.spotify.com/track/738jDvFSN21q5Y54TgiFoR"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 192428,
       "name": "I See Colors",
       "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "Dance With U",
+        "url": "https://open.spotify.com/album/1HAp0pFi7vI0aIsG996Vo9"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "duration_ms": 118095,
+      "name": "Dance With U",
+      "url": "https://open.spotify.com/track/738jDvFSN21q5Y54TgiFoR"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn"
-      },
-      "artists": [
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        },
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "Feel My Needs",
         "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 150000,
       "name": "Feel My Needs",
       "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1955,18 +1955,22 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
       "artists": [
         {
-          "name": "Joe Hunt",
-          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "Louise Marshall",
+          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
         }
       ],
-      "duration_ms": 174500,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
+      "duration_ms": 166875,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
     }
   ],
   "unique_name": "PARTY MODE",

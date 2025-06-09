@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAABnEEoRwvEvWwSfMlPR8dA+",
+  "snapshot_id": "aEOBAAAAAAAzXIW1+zKpvPv1ic2ENBVN",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Was The Same",
-        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
       },
       "artists": [
         {
@@ -314,7 +314,39 @@
       ],
       "duration_ms": 322160,
       "name": "From Time",
-      "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
+      "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "W.A.Y.S.",
+      "url": "https://open.spotify.com/track/7jjKsW39O1i8hKF31ShpV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "2 seconds - Bonus",
+      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
     },
     {
       "added_at": null,
@@ -339,38 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "2 seconds - Bonus",
-      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "W.A.Y.S.",
-      "url": "https://open.spotify.com/track/7jjKsW39O1i8hKF31ShpV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Because the Internet",
         "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 207066,
       "name": "I. Pink Toes",
       "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 268973,
+      "name": "Spotless Mind",
+      "url": "https://open.spotify.com/track/5Xe4fAuhqxQRSjTWNZLSqJ"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Spotless Mind",
-      "url": "https://open.spotify.com/track/5Xe4fAuhqxQRSjTWNZLSqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -467,6 +467,30 @@
       "duration_ms": 222600,
       "name": "On The Way (feat. Mila J)",
       "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Namiko",
+          "url": "https://open.spotify.com/artist/3ntfxXBlYkRROc8NZ2D5ko"
+        },
+        {
+          "name": "Miyagi",
+          "url": "https://open.spotify.com/artist/1D1twK512TGf3AzN2ez2ED"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/60W9P4zX25XPbbC5IMCoH9"
     },
     {
       "added_at": null,
@@ -511,30 +535,6 @@
       "duration_ms": 270546,
       "name": "Never Call Me",
       "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souled Out (Deluxe)",
-        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Namiko",
-          "url": "https://open.spotify.com/artist/3ntfxXBlYkRROc8NZ2D5ko"
-        },
-        {
-          "name": "Miyagi",
-          "url": "https://open.spotify.com/artist/1D1twK512TGf3AzN2ez2ED"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/60W9P4zX25XPbbC5IMCoH9"
     },
     {
       "added_at": null,

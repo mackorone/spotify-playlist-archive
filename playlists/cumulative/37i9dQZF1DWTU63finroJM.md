@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: MEOVV.
 
-2,011 songs - 4 day 12 hr 44 min
+2,012 songs - 4 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,7 @@
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2022-08-02 |
 | [Girl on the Run](https://open.spotify.com/track/0vs3aUZFrub43yKs0lXUoV) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Girl on the Run](https://open.spotify.com/album/10sVj48b0wtFRrLY0rY40t) | 3:19 | 2025-04-18 |  |
 | [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-06-28 | 2025-01-11 |
-| [Girls](https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Girls](https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG) | 3:13 | 2025-02-14 |  |
+| [Girls](https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Girls](https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG) | 3:13 | 2025-02-14 | 2025-06-09 |
 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-02-09 | 2024-05-20 |
 | [Gist](https://open.spotify.com/track/2hgBaouS3Vg6fg70GCBMAQ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Gist](https://open.spotify.com/album/5kvBQ9BN4PwSd2mAQtdPTT) | 3:25 | 2024-04-26 | 2024-06-09 |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-03-24 | 2023-01-21 |
@@ -1687,6 +1687,7 @@
 | [Up](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 | 2022-03-31 | 2022-04-03 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-26 | 2024-08-17 |
 | [Used To You](https://open.spotify.com/track/6KM82El2PfI0w8OY0qbx7I) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Used To You](https://open.spotify.com/album/4xgJNGM8n5W7uAYED2Rln1) | 2:24 | 2025-02-21 |  |
+| [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 | 2025-04-04 |  |
 | [Uña Con Diamante](https://open.spotify.com/track/2Yx2yin4iQDGUdQhpWA0WO) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Uña Con Diamante](https://open.spotify.com/album/4WTZmwhpj9oBVlzTIr2zBF) | 2:27 | 2022-03-24 | 2022-12-15 |
 | [Vacation](https://open.spotify.com/track/1jKeX1vqO02gCogrnj3THz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD) | 3:01 | 2023-01-20 | 2023-10-06 |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-06-23 | 2023-05-09 |

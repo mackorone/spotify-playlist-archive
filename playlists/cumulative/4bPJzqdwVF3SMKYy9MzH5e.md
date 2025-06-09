@@ -4,7 +4,7 @@
 
 > 
 
-2,164 songs - 4 day 20 hr 17 min
+2,165 songs - 4 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 | 2021-08-24 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-08-28 |  |
 | [2012\_NoSekai](https://open.spotify.com/track/69XMn0nw3zBnU8DsflK1mo) | [Starcatcher](https://open.spotify.com/artist/7DaEbrXZus2RbkmXGtxhjT) | [2012\_NoSekai](https://open.spotify.com/album/07nkoN1P5IBUr7bQleUurv) | 2:45 | 2024-06-18 |  |
+| [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 | 2025-06-08 |  |
 | [212](https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 3:24 | 2024-03-27 |  |
 | [21st Century Schizoid Man \[Bonus Track\] \- Radio Version](https://open.spotify.com/track/0VM37qX3DRencowoNChrPB) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 6:41 | 2021-08-05 |  |
 | [223's \(feat\. 9lokknine\)](https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm) | [223's \(feat\. 9lokknine\)](https://open.spotify.com/album/7cekEHNPgpKwVd9kJE9G8F) | 2:56 | 2021-08-05 |  |

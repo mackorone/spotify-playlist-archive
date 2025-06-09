@@ -6119,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "tether",
+        "url": "https://open.spotify.com/album/5VDFtcYSBVLuuyF126Nh92"
+      },
+      "artists": [
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106986,
+      "name": "tether",
+      "url": "https://open.spotify.com/track/4mSyDYm6dYl5Qx6rNUIp2r"
+    },
+    {
+      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/4VOMEobaVteSEzw688Bkkj"
       },

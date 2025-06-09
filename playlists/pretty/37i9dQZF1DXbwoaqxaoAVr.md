@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,825 likes - 73 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,969 likes - 73 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 72 | [Make Love](https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good](https://open.spotify.com/album/1PuBipBX8qqeUN3FOPIexs) | 5:35 |
 | 73 | [I Wonder](https://open.spotify.com/track/5ZCNcQRCQfqdE9gAJir3Hg) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [I Wonder](https://open.spotify.com/album/7yHdGR9ZJLR7Gm56tWdKh8) | 2:39 |
 
-Snapshot ID: `Zob8HgAAAAANCBCGvdDmMiFpN0N4fvHN`
+Snapshot ID: `AAAAAJtcFJY3PDzDvBoCxcZ9ewM0CeBk`

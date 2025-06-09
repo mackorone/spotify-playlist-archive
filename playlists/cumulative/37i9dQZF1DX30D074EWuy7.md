@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Studio Murena
 
-526 songs - 1 day 15 hr 34 min
+527 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Musica e fumo \(featuring Colle Der Fomento\)](https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn) | [Loop Therapy](https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Opera prima \(Including Ice One Remix\)](https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf) | 4:38 | 2022-11-02 |  |
 | [My Abstract Monkey](https://open.spotify.com/track/151H6RkyTGT8Ly2rXqk9hI) | [Daykoda](https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0), [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [PHYSIS](https://open.spotify.com/album/54jguMfvEG7k8XuZaJR43E) | 3:23 | 2022-11-02 | 2024-12-20 |
 | [My Body](https://open.spotify.com/track/6ndP9sjhs1awZ59nMrXDXI) | [Camilla Battaglia](https://open.spotify.com/artist/66m979A4TBptWl1DwqOH2w) | [Càlór](https://open.spotify.com/album/3R9YdoKxZvgzH7nWw3znuD) | 6:02 | 2023-09-17 | 2023-12-06 |
+| [My Groove Your Moove](https://open.spotify.com/track/5jkYLolY6EqsKTyQ3S64p0) | [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Nicolas Thys](https://open.spotify.com/artist/43yDWnmm57aoKDYV1PQV6I), [Cesare Mecca](https://open.spotify.com/artist/2n1QP75kbCOoxl1gPi8cs3) | [Rushin'](https://open.spotify.com/album/4MMwzcfiGiwNwocLjnsEER) | 4:50 | 2025-05-16 |  |
 | [My Heart in a Song](https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Simona Severini](https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l) | [My Songbook](https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E) | 5:40 | 2022-09-30 | 2025-05-09 |
 | [My Way](https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Chansons](https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9) | 5:11 | 2022-09-30 |  |
 | [Na Minha Casa Mais Uma Vez](https://open.spotify.com/track/48uyu04YowGIg4uXb4k8qq) | [Francesca Corrias](https://open.spotify.com/artist/5CVqFDtjtfBpFIvtBIX4Kf) | [Songshine](https://open.spotify.com/album/0IElVERB2Ht5dsxhkOEeYO) | 5:57 | 2023-01-30 | 2023-06-05 |
@@ -447,7 +448,7 @@
 | [Southern Dub](https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Domenico Candellori](https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:05 | 2022-11-02 |  |
 | [Spears of Leaves](https://open.spotify.com/track/0fMtkZWxfjmmIalaAfeUM0) | [Karu](https://open.spotify.com/artist/68L2UQmHpBNsUkWBUn2iRv) | [Spears of Leaves](https://open.spotify.com/album/4ZM5RWTu7VvQDc3FV9wSK8) | 3:12 | 2022-11-02 | 2022-12-06 |
 | [Spinning](https://open.spotify.com/track/7cf0I8kyqpeQJvCdhGXwZn) | [Flavio Boltro](https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw), [BBB Trio](https://open.spotify.com/artist/00Emct6hk2HVR0oTaxqCoi) | [Spinning](https://open.spotify.com/album/2snzNi9mvkwypn7AegWBRZ) | 4:08 | 2023-06-04 | 2023-09-18 |
-| [Spiral](https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc) | [Nādt Orchestra](https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT) | [Dualism](https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ) | 4:41 | 2025-05-08 |  |
+| [Spiral](https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc) | [Nādt Orchestra](https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT) | [Dualism](https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ) | 4:41 | 2025-05-08 | 2025-06-09 |
 | [Stan Lee \- Alternate Version](https://open.spotify.com/track/1tv82hvJ88GOseKWEYsW3L) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Post Momentum](https://open.spotify.com/album/3xMxVoRW5cUMzZKdffnINk) | 3:23 | 2022-11-02 | 2022-12-06 |
 | [Stand Stan](https://open.spotify.com/track/3bbYpaMHAbtWkvA7ecrvOU) | [Ghost Horse](https://open.spotify.com/artist/4kbMP6FE0uIGKflO5L50rG) | [Il Bene Comune](https://open.spotify.com/album/2UZrG3aDXy8lgRybaqwsZd) | 3:23 | 2023-09-17 | 2023-12-06 |
 | [stanza](https://open.spotify.com/track/43EQlmYkZTt3PGEsfaE4V4) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/1I83D4utfYfkxSliMBVfe0) | 5:25 | 2023-09-17 | 2023-12-06 |

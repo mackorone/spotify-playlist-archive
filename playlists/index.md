@@ -7891,7 +7891,7 @@
 - [anime music](/playlists/pretty/7xI2SkQayAGvhVFg2rXsCj.md)
 - [anna x coffee shop](/playlists/pretty/37i9dQZF1DX0RExasEAf6p.md)
 - [anti pop](/playlists/pretty/37i9dQZF1DWWqNV5cS50j6.md)
-- [at random recs](/playlists/pretty/4bpwNqqnXy03LKurD9wRpw.md)
+- [at random music](/playlists/pretty/4bpwNqqnXy03LKurD9wRpw.md)
 - [awitado](/playlists/pretty/37i9dQZF1DX5ft2KOkJpRg.md)
 - [bLog rAp](/playlists/pretty/37i9dQZF1DWWNrHCawrTC8.md)
 - [badass](/playlists/pretty/37i9dQZF1DX2I7Ykltk83m.md)

@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "7G",
+        "url": "https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116142,
+      "name": "2021",
+      "url": "https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W"
+    },
+    {
+      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
       },

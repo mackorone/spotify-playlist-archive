@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: e4444e
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,954 likes - 110 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,977 likes - 110 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 109 | [Strange Behavior](https://open.spotify.com/track/4xPaHbPvlsoSMJ4Jkza4HI) | [Katy Pinke](https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ) | [Strange Behavior](https://open.spotify.com/album/6n3gz199sI0bhvGxENj5oN) | 3:31 |
 | 110 | [Total Cinema](https://open.spotify.com/track/0OFqFEKhYqLqEu8ZDznYHS) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Total Cinema](https://open.spotify.com/album/1la1Wzv7lZsEqau1fZ0RhE) | 3:48 |
 
-Snapshot ID: `AAAAAA3MUdWL32q5FrLymIkdrA6N4hk/`
+Snapshot ID: `aD/EzgAAAAAKfkoea016H5Y1edqZKHrD`

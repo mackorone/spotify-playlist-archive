@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38531,
+  "num_followers": 38532,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Concerto, 6 Lyric Pieces - Liszt: Piano Concerto No. 2",
-        "url": "https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Grieg: Lyric Pieces, Book 8, Op. 65: No. 1, From Early Years",
-      "url": "https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 151320,
       "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
       "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Concerto, 6 Lyric Pieces - Liszt: Piano Concerto No. 2",
+        "url": "https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Grieg: Lyric Pieces, Book 8, Op. 65: No. 1, From Early Years",
+      "url": "https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 324026,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
-      "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
+      "duration_ms": 604400,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
+      "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 604400,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
-      "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
+      "duration_ms": 324026,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
+      "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
     },
     {
       "added_at": "2022-09-30 04:01:00",

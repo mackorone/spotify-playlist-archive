@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 206433,
       "name": "224",
       "url": "https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 180000,
       "name": "Duch",
       "url": "https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER"
@@ -5753,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "ostatni raz",
+        "url": "https://open.spotify.com/album/5yupWsAkBkqaHmc2Rvv0QW"
+      },
+      "artists": [
+        {
+          "name": "Maks \u0141api\u0144ski",
+          "url": "https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152774,
+      "name": "ostatni raz",
+      "url": "https://open.spotify.com/track/28tl2k7Oa2qN6KcwPVb6FW"
+    },
+    {
+      "album": {
         "name": "Ostatnia piosenka o Tobie",
         "url": "https://open.spotify.com/album/0JyoNvP2toqt8hWKfuYcaX"
       },
@@ -9014,6 +9032,28 @@
       "duration_ms": 279925,
       "name": "\u0106ma",
       "url": "https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX"
+    },
+    {
+      "album": {
+        "name": "\u010cyrvone Nebo",
+        "url": "https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb"
+      },
+      "artists": [
+        {
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "\u010cyrvone Nebo",
+      "url": "https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v"
     },
     {
       "album": {

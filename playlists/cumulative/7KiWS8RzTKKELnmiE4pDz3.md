@@ -4,7 +4,7 @@
 
 > 
 
-1,048 songs - 2 day 4 hr 20 min
+1,050 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -927,6 +927,7 @@
 | [The Remorse!](https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 3:03 | 2023-01-20 | 2023-08-20 |
 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 | 2025-04-10 |  |
 | [The world is yours](https://open.spotify.com/track/6NL85on1jpM2VuXR23Ix1P) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 1:20 | 2022-10-18 | 2023-05-09 |
+| [THE zone\~](https://open.spotify.com/track/2alpVcC9RxRWS1eSMGeAAP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 4:09 | 2025-06-08 |  |
 | [Therapy](https://open.spotify.com/track/1GrnyQe1SFOb1T5vb5T54q) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 4:08 | 2025-01-29 |  |
 | [this is all too familiar ive seen this in a dream](https://open.spotify.com/track/5rW6ZGwODB5YiI0RnecJz9) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [this is all too familiar ive seen this in a dream](https://open.spotify.com/album/5I1Je50iwcuXRi2w8yrl2y) | 2:13 | 2022-12-01 | 2023-05-09 |
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-25 | 2025-05-21 |
@@ -937,6 +938,7 @@
 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-10-03 | 2024-03-05 |
 | [Till the A M](https://open.spotify.com/track/3Bu1iBXJ5berdiHAY6CPiP) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Dedication](https://open.spotify.com/album/3yCR9McIWtVq4LwJSITQSc) | 2:33 | 2023-01-07 | 2023-05-09 |
 | [Time Flow](https://open.spotify.com/track/0bkoFNRkTWZiUP35ZwgnPz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:58 | 2022-12-23 | 2023-05-09 |
+| [Tin Man](https://open.spotify.com/track/4uTTd2SlalZoG0zVgI63kH) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 3:29 | 2025-06-08 |  |
 | [To Be Honest](https://open.spotify.com/track/2OmElPC8H23YsekF58fSbm) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:39 | 2024-05-19 | 2024-11-06 |
 | [To Feel The Fire \- Alternate Gospel Version](https://open.spotify.com/track/2VMugoXue6h5emvnNlI9j6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Additional Singles & Rarities](https://open.spotify.com/album/0tprlYfYw9Y1fjq5SUFEQp) | 3:41 | 2025-05-01 |  |
 | [tokoyoto](https://open.spotify.com/track/28akW28raGpnoNwTuAHLRH) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [XO](https://open.spotify.com/album/4gQa9eWUzWe6XRYekLxfyD) | 2:10 | 2023-02-09 | 2023-12-14 |

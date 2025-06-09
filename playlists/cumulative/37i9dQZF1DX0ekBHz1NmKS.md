@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,895 songs - 4 day 2 hr 22 min
+1,897 songs - 4 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [Lillebror \(No Love\)](https://open.spotify.com/track/4GyAVQXFrYcs2AdLOu4M8D) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg), [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Lillebror \(No Love\)](https://open.spotify.com/album/4eR1sJYxOgNFJ4Id0IyPAw) | 3:20 | 2023-10-19 | 2023-10-27 |
 | [Lilly](https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 3:10 | 2024-01-04 | 2024-03-08 |
 | [Lily Of The Valley](https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn) | [Elin Lanto](https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT) | [Lily Of The Valley](https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY) | 3:09 | 2024-06-20 | 2024-08-30 |
+| [Lita På Mig](https://open.spotify.com/track/2uuViiYFLJb3hviFhFjggc) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [HEAT](https://open.spotify.com/album/2PIhAjW8jYH5GzneRLJ1wE) | 2:35 | 2025-06-05 |  |
 | [Liten&Lost](https://open.spotify.com/track/2K1p3thq7V9KerKSuOHAdI) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Liten&Lost](https://open.spotify.com/album/7hyYLHFyCVJrkLx8113hWo) | 3:37 | 2021-12-16 | 2022-03-11 |
 | [Little Altar Boy](https://open.spotify.com/track/74AhnhfhchemLDYfwENatT) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Little Altar Boy](https://open.spotify.com/album/7uOEgIEagT5lOYG5CUMeKx) | 3:40 | 2024-04-04 | 2024-05-10 |
 | [Little Brother](https://open.spotify.com/track/6Il1nJedTQoCPleS3hHRHQ) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Little Brother](https://open.spotify.com/album/5NDsuJO5IKsAeHEsAGxAfE) | 2:16 | 2022-05-26 | 2022-07-28 |
@@ -1227,7 +1228,7 @@
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-14 | 2024-01-19 |
 | [On My Way](https://open.spotify.com/track/1UYnuxsScsS2INJyb55HgT) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [On My Way](https://open.spotify.com/album/5EZYTYYPCY0rfxkC53M0pn) | 2:38 | 2024-11-21 | 2025-02-02 |
 | [On the line](https://open.spotify.com/track/5HghTFSHeik29SrM2i48f5) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [On the line](https://open.spotify.com/album/7rzMWjREqgIPLFbgFJclWO) | 3:16 | 2024-02-08 | 2024-04-02 |
-| [Once In A While](https://open.spotify.com/track/2xbmTi62KcY75WLK5AAJOB) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Once In A While](https://open.spotify.com/album/7BRJJiHj0QY7tJdUmf5vIn) | 2:47 | 2025-03-14 |  |
+| [Once In A While](https://open.spotify.com/track/2xbmTi62KcY75WLK5AAJOB) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Once In A While](https://open.spotify.com/album/7BRJJiHj0QY7tJdUmf5vIn) | 2:47 | 2025-03-14 | 2025-06-09 |
 | [Once in a While \[smile\]](https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Once in a While \[smile\]](https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s) | 2:59 | 2022-09-08 | 2023-01-07 |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-04-07 | 2022-07-27 |
 | [One Of Us](https://open.spotify.com/track/3c0uWc9wFRPeHjDKkYy4zz) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [One Of Us](https://open.spotify.com/album/6nhRB6c39feuGdqh9aLH9N) | 2:28 | 2024-01-25 | 2024-02-23 |
@@ -1416,6 +1417,7 @@
 | [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 | 2022-10-27 | 2023-01-06 |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-05 | 2022-07-29 |
 | [Showdown](https://open.spotify.com/track/1sY71Tu4tLAMNHejetl4TH) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Showdown](https://open.spotify.com/album/1mFMjBJE2pkcKVVbMmT9mS) | 3:20 | 2024-05-09 | 2024-06-07 |
+| [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 | 2025-06-05 |  |
 | [Siktar Högre](https://open.spotify.com/track/356GcC7IEcfEa9LA7xgb8b) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [Siktar Högre](https://open.spotify.com/album/2ZJxTJWYUgMJohqZ9FYu0u) | 3:15 | 2025-05-16 |  |
 | [Silhouettes](https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8) | [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Silhouettes](https://open.spotify.com/album/2mpr7yVbCCHDX3lGEeAYb1) | 3:20 | 2024-01-25 | 2024-02-27 |
 | [Siljans strand](https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Siljans strand / Midsommarvisa](https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw) | 3:46 | 2024-06-20 | 2024-08-23 |
@@ -1447,7 +1449,7 @@
 | [Slutet av dagen](https://open.spotify.com/track/3BwAqx9Bm9W9PQROjHQ07Z) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Slutet av dagen](https://open.spotify.com/album/7b7qdKJlsMRhIibvs7Zo0Q) | 3:28 | 2022-09-01 | 2022-10-03 |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-05-30 | 2024-06-28 |
 | [Släpp mig](https://open.spotify.com/track/2EZmE6pdwIhsOEJKS3nUFI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Släpp mig](https://open.spotify.com/album/74bF6o1WKlI2ZkWwOCY7Gx) | 2:36 | 2022-03-10 | 2022-05-12 |
-| [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 |  |
+| [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 | 2025-06-09 |
 | [SLÅR](https://open.spotify.com/track/7E3w18uY1JjvJGBowcz4bU) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [SLÅR](https://open.spotify.com/album/6YmJBPayCJHX0eoXqjkcKY) | 2:32 | 2024-01-18 | 2024-02-23 |
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 | 2025-04-18 |

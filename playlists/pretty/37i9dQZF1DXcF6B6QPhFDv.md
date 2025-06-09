@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,496,953 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,495,562 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Lost In Time](https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t) | 2:52 |
 | 75 | [SMOKE BREAK](https://open.spotify.com/track/5jOXjkSWyN5QZdZE5hg0xP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 1:53 |
 
-Snapshot ID: `AAAAAAByBNYd23dXXvLwqUtB2HkV7HR4`
+Snapshot ID: `aEJnyQAAAABzTu3kTJ9QCeE5eQH9VyNa`

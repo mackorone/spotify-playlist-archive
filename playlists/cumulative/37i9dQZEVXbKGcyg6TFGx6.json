@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -7091,6 +7091,24 @@
     },
     {
       "album": {
+        "name": "Body Baby",
+        "url": "https://open.spotify.com/album/4OZYK6XwNJrk9vWKHI7SuO"
+      },
+      "artists": [
+        {
+          "name": "T Brixson",
+          "url": "https://open.spotify.com/artist/4SMGp7dxZWd7ZjmC8JNfyW"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209001,
+      "name": "Body Baby",
+      "url": "https://open.spotify.com/track/3s6gMU57rjvjB8qfIY6qqM"
+    },
+    {
+      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
@@ -7376,7 +7394,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 145023,
       "name": "BOTTEGA",
       "url": "https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP"
@@ -9842,7 +9860,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -15767,6 +15785,24 @@
     },
     {
       "album": {
+        "name": "Mte:match the Energy",
+        "url": "https://open.spotify.com/album/6FAXqgryswgJKifq8Xo4do"
+      },
+      "artists": [
+        {
+          "name": "P.h.b dah Theza",
+          "url": "https://open.spotify.com/artist/54YNPeMoPuiBWd8QFuM34h"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84218,
+      "name": "Escalated",
+      "url": "https://open.spotify.com/track/7tN7jfu2Uezp0ZV0k7N8h1"
+    },
+    {
+      "album": {
         "name": "Escapism. (Sped Up)",
         "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
       },
@@ -15880,7 +15916,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -15898,7 +15934,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -19392,6 +19428,24 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "album": {
+        "name": "A Glance At The Ghost",
+        "url": "https://open.spotify.com/album/0bBw14Z684aQiWE5Upl5Jn"
+      },
+      "artists": [
+        {
+          "name": "Stefano Cilio",
+          "url": "https://open.spotify.com/artist/47xoaIx5kSY8Cn607qXt4N"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3C2DWQVcHsgqy7rf04TyGM"
     },
     {
       "album": {
@@ -28170,7 +28224,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -29744,7 +29798,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -32028,7 +32082,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 171537,
       "name": "Mood",
       "url": "https://open.spotify.com/track/58rVY9wmIYBOzdLXygVs6i"
@@ -35637,6 +35691,24 @@
     },
     {
       "album": {
+        "name": "Original Goat Love",
+        "url": "https://open.spotify.com/album/1Iuh6cuqqGcncZheo88Szk"
+      },
+      "artists": [
+        {
+          "name": "Original Gagicx",
+          "url": "https://open.spotify.com/artist/42N8PSIOOVIR1nnyQToQC3"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204033,
+      "name": "Original Goat Love",
+      "url": "https://open.spotify.com/track/2wZoHbywuPIxc3t5xOtcHR"
+    },
+    {
+      "album": {
         "name": "Osawese (Thank God)",
         "url": "https://open.spotify.com/album/3JWLHBj6Si76UmazS80udU"
       },
@@ -36142,7 +36214,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 215813,
       "name": "Pa Pa Paw",
       "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
@@ -40307,6 +40379,32 @@
     },
     {
       "album": {
+        "name": "Rodeio na Favela",
+        "url": "https://open.spotify.com/album/3Deb4vV8hz0DBztCr3OVVh"
+      },
+      "artists": [
+        {
+          "name": "Bianca Fraz\u00e3o",
+          "url": "https://open.spotify.com/artist/3mEutqfgeoiH9eH7TG85dx"
+        },
+        {
+          "name": "Love Music",
+          "url": "https://open.spotify.com/artist/3p3EROVccD6gHe8yvEzLBt"
+        },
+        {
+          "name": "Petter Ferraz",
+          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Rodeio na Favela",
+      "url": "https://open.spotify.com/track/7lTLlIZxIYwHao4huf9xfQ"
+    },
+    {
+      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -41290,7 +41388,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -41894,6 +41992,24 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
+        "name": "Secessioni",
+        "url": "https://open.spotify.com/album/7oGZI95jAzpuXGHFFzYlLo"
+      },
+      "artists": [
+        {
+          "name": "Neuf Voix",
+          "url": "https://open.spotify.com/artist/7xaerPYuaAsV3KUOACpsKp"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1296000,
+      "name": "Secessioni, Pt. 3",
+      "url": "https://open.spotify.com/track/4EDcPKzrdD6vQ4zBXk1flA"
     },
     {
       "album": {
@@ -50582,7 +50698,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -51036,7 +51152,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -53382,6 +53498,24 @@
       "duration_ms": 174450,
       "name": "Wiedaa",
       "url": "https://open.spotify.com/track/0bTdbKXc2F72JgVxvpK3Gi"
+    },
+    {
+      "album": {
+        "name": "Wild Nights",
+        "url": "https://open.spotify.com/album/13YnOQZe47clhBUcNBAsa7"
+      },
+      "artists": [
+        {
+          "name": "Eyes Of The Tigers",
+          "url": "https://open.spotify.com/artist/4PNba4OOskwn9JBLvPesgJ"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Wild Nights",
+      "url": "https://open.spotify.com/track/3jjzNDEf1IW0jvoKGtiglO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lCCLlbjeRN.md) - [plain]
 
 > Canciones y cuentos de tus clásicos favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,705 likes - 59 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,738 likes - 59 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The hottest 50 tracks in Algeria\. Cover: Soolking, GIMS
 
-258 songs - 15 hr 25 min
+259 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Maniche mchoqué](https://open.spotify.com/track/4zz2mlE7nVpblI9JnoG9Gr) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Maniche mchoqué](https://open.spotify.com/album/0n2FzHUEbviZB21GiQHvKo) | 5:22 | 2023-06-09 | 2024-07-19 |
 | [Manimane](https://open.spotify.com/track/6cVOmhvrfTFGw6h8bEU3Rl) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Manimane](https://open.spotify.com/album/7D3aSf7ErYyKl2OOkBCLI9) | 3:09 | 2022-02-07 | 2023-02-03 |
 | [Marsilia](https://open.spotify.com/track/35hzpvo3JS4NbOMpvC9vAN) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Marsilia](https://open.spotify.com/album/077lukkBWt0j9J7PfZRM0p) | 2:49 | 2021-12-09 | 2023-04-06 |
+| [Match retard](https://open.spotify.com/track/5b9cobjlCZRwq8KFlv7qqC) | [Hakim Liberta](https://open.spotify.com/artist/3vj3OWhgejcWjemt7nnYAp) | [Match retard](https://open.spotify.com/album/3tZAoGEk3SO8DdVvOkv0pX) | 4:43 | 2025-06-08 |  |
 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 | 2021-12-09 | 2023-07-19 |
 | [Mazalna](https://open.spotify.com/track/2sDK5bXfWaIpJdYdQJwXJK) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/2Y2EHx5dXgd1UEWn2xP8EQ) | 3:22 | 2023-01-13 | 2023-02-03 |
 | [Mazalna](https://open.spotify.com/track/4QPdk05lc3sm8yDgKuIKI3) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Wail TK](https://open.spotify.com/artist/5D78FFjYhggANtY0i28S8a) | [Mazalna](https://open.spotify.com/album/7s17EGV44M0Iqg69rvp0Gz) | 3:22 | 2022-09-04 | 2023-01-18 |
@@ -260,7 +261,7 @@
 | [خانو الامانة](https://open.spotify.com/track/5dljMPVyN4wzDiIa20IMzd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [خانو الامانة](https://open.spotify.com/album/25Q5U0yO0Rxti9G6SO50l7) | 4:11 | 2023-08-14 | 2023-08-19 |
 | [درجة درجة](https://open.spotify.com/track/4NNRo1LtV9ndhNbCFohprQ) | [Fares LÜNN](https://open.spotify.com/artist/0LsY50DXw2einabxwLuMKe) | [درجة درجة](https://open.spotify.com/album/7igRk3HV35Tnx4HKg6Hkot) | 3:12 | 2024-02-28 | 2024-07-19 |
 | [راني متوحشها](https://open.spotify.com/track/5eKSdvnmJ37bmmx6Fc0roG) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [راني متوحشها](https://open.spotify.com/album/2SOLAAC856WVMRVBI8RGzD) | 4:38 | 2023-02-24 | 2023-03-21 |
-| [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-02-12 |  |
+| [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-02-12 | 2025-06-09 |
 | [عمي صالح](https://open.spotify.com/track/2WS40EKnfgsLAO7iTtDkCi) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [عمي صالح](https://open.spotify.com/album/5bAfcA4BaWRBTU8kTqYBKv) | 4:24 | 2023-08-14 | 2024-03-05 |
 | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/track/2H0aSCHi9R2UR3XmQwML3W) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [قالو عليها طاطة شابة ماشي خلاطة](https://open.spotify.com/album/13nS0hTGyJMzeKhO5WCsdl) | 5:18 | 2024-06-04 | 2024-07-05 |
 | [لحلال جمعنا](https://open.spotify.com/track/2kP8PzbINPBc5gYKqpJcJQ) | [Zineb Aouidad](https://open.spotify.com/artist/78Qw8xXeN0GKy3jhoY6Pi5), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [لحلال جمعنا](https://open.spotify.com/album/4Th8gswTYR772wTyyOrmWZ) | 3:48 | 2023-02-21 | 2023-03-04 |

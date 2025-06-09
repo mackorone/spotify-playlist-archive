@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Jun 13:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Jun 08:03 UTC.
 
-4,901 songs - 11 day 8 hr 40 min
+4,902 songs - 11 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2291,7 +2291,7 @@
 | [Just Getting By, Pt\. 2](https://open.spotify.com/track/1UgGL75FJDEWMowAzILMOx) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Just Getting By, Pt\. 2](https://open.spotify.com/album/0d8HioxkuWiYfF2Fma9JoA) | 2:13 | 2024-07-12 | 2024-07-14 |
 | [just have PATIENCE](https://open.spotify.com/track/1idt9jqgfTMir2gRfVi6mg) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [just have PATIENCE](https://open.spotify.com/album/6JRMa3tSweP6kdYTeKN9mK) | 2:23 | 2025-06-03 | 2025-06-07 |
 | [Just How It Goes](https://open.spotify.com/track/7ERaWfzZyBrZzsCQxz60TB) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Just How It Goes](https://open.spotify.com/album/2Wjh2ei6fCItklUFsC5xcQ) | 5:13 | 2025-01-03 | 2025-01-17 |
-| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-30 |  |
+| [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-30 | 2025-06-09 |
 | [Just Like That](https://open.spotify.com/track/7lkty9PPa9DyezSj5aVI3T) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Just Like That](https://open.spotify.com/album/7Ix18Y6dOfDbCHl5pstpQ2) | 2:35 | 2024-10-10 | 2024-10-12 |
 | [Just My Imagination](https://open.spotify.com/track/0368lOMuZpoGPc2EslRoF5) | [Who's Who](https://open.spotify.com/artist/2tDdw93ry3nkCCLe6IsBm3), [Christopher Saint](https://open.spotify.com/artist/2AEUF7hpBuvR53wIJXhXk2) | [Just My Imagination](https://open.spotify.com/album/2L7cQcindSr0wakTO7RSAA) | 3:23 | 2024-10-01 | 2024-10-04 |
 | [just not sure](https://open.spotify.com/track/66GoQ5s67RsxaZPeLbYdoV) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [just not sure](https://open.spotify.com/album/4BRMTaQJ1sXM2YsZbqdWAH) | 2:50 | 2024-06-14 | 2024-06-19 |
@@ -4375,6 +4375,7 @@
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-21 | 2025-03-29 |
 | [Touch](https://open.spotify.com/track/4Pp3kJlRptlJzgAul4Upc5) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Touch](https://open.spotify.com/album/7uu47RjPPfgfuPaMy31gEn) | 2:48 | 2024-12-17 | 2024-12-21 |
 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 | 2024-07-11 | 2024-07-13 |
+| [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-08 |  |
 | [Touchdown](https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Touchdown](https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2) | 2:32 | 2024-12-06 | 2024-12-13 |
 | [Tough \- Channel Tres Remix](https://open.spotify.com/track/3oBkOHVnI63U8e1ZiLnJ7r) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tough \(Channel Tres Remix\)](https://open.spotify.com/album/2vJu4551iNpu7oXJ6ymLi0) | 3:08 | 2024-10-04 | 2024-10-10 |
 | [Tough \- Gravagerz Remix](https://open.spotify.com/track/3HvnYVNNNJ1YC4zRNi1Aox) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Tough \(Gravagerz Remix\)](https://open.spotify.com/album/1zjrW4OHJjGmCPfA8VSLx6) | 3:39 | 2024-10-11 | 2024-10-17 |

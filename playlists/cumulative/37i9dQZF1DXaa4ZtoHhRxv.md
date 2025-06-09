@@ -2,9 +2,9 @@
 
 ### [Country Club](https://open.spotify.com/playlist/37i9dQZF1DXaa4ZtoHhRxv)
 
-> Keep the Spotify House party going on the Country Club Rooftop, hosted by Country Night!
+> Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Kane Brown and Marshmello
 
-221 songs - 11 hr 47 min
+222 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Match For My Memory \- Fired Up](https://open.spotify.com/track/0SuNsEC7A6fZBORw4b7tOd) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory \(Fired Up\)](https://open.spotify.com/album/4XAmbiaoCMwjJVZKcnNCPf) | 3:04 | 2023-07-28 | 2025-06-01 |
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2021-12-10 |  |
 | [Memory \- GOLDHOUSE x Mokita Remix](https://open.spotify.com/track/4XZ8YGsNIF4UqE324Mbgfg) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Memory Remixes](https://open.spotify.com/album/3JUtKvXn5NWDyCeEyaHlMK) | 2:57 | 2023-06-09 | 2025-06-01 |
-| [Miles On It \- Joel Corry Remix](https://open.spotify.com/track/7tHLE2wLCjN7oqIQOQMSqR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Miles On It \(Remixes\)](https://open.spotify.com/album/1TrDDvVmpvWzLqAcXJyqI5) | 2:29 | 2024-08-23 |  |
+| [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2025-06-09 |  |
+| [Miles On It \- Joel Corry Remix](https://open.spotify.com/track/7tHLE2wLCjN7oqIQOQMSqR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Miles On It \(Remixes\)](https://open.spotify.com/album/1TrDDvVmpvWzLqAcXJyqI5) | 2:29 | 2024-08-23 | 2025-06-09 |
 | [Miss Me More \- Cutmore & Wilson Remix](https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Miss Me More \(Remixes\)](https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS) | 3:02 | 2021-12-10 |  |
 | [Missing You](https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Missing You \(feat\. Nate Smith\)](https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh) | 3:07 | 2024-01-12 |  |
 | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC) | 3:07 | 2023-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Fran C, Julianno Sosa & L\-Gante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,222 likes - 130 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,207 likes - 130 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

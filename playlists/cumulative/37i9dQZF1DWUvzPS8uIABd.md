@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Ellinoora.
 
-591 songs - 1 day 5 hr 35 min
+592 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [bändipaita](https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [bändipaita](https://open.spotify.com/album/59qcRtqY5mkcUdlPqqGBAC) | 2:46 | 2025-01-26 | 2025-04-04 |
 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 | 2024-08-09 | 2024-10-11 |
 | [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 | 2024-10-18 |
+| [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/track/20K4ACwbRhAQAsY07m96Ca) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/album/37GedKbVaIqIkF5LDJf7oq) | 1:55 | 2025-06-08 |  |
 | [Cocktail](https://open.spotify.com/track/64PFfjxVkMnJtGd3WMZ1v7) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Mun vuosi](https://open.spotify.com/album/7fTdqVRml2FU5x6z9y8hGl) | 2:43 | 2025-03-20 | 2025-04-11 |
 | [Corazon \(feat\. Neo\)](https://open.spotify.com/track/31edJBPQJPtk1zDTWMZLU9) | [Henriguez](https://open.spotify.com/artist/2tdief92DCo0dq3uz28kSE), [Neo](https://open.spotify.com/artist/41kvT8ol7IQdZKnzfGPtR1) | [Corazon \(feat\. Neo\)](https://open.spotify.com/album/0RuVIwOJCWsdbaIu1uPTrj) | 3:08 | 2024-07-11 | 2024-08-02 |
 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 | 2024-10-10 | 2024-11-08 |

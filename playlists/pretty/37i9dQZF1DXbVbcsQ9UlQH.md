@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVbcsQ9UlQH.md) - [plain]
 
 > Music from "BLUE GIANT THE MOVIE"\. <a href="https://bluegiant\-movie.jp/">映画「BLUE GIANT」</a>の楽曲を1つのプレイリストで。©2023 BGP ©2013 S.I, S
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,597 likes - 34 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,610 likes - 34 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVbcsQ9UlQH.md) - [plain]
 | 33 | [Low Flame](https://open.spotify.com/track/52BuEmAi6KpkeLVGEkZaR1) | [Sonny Stitt Quartet](https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H), [Don Patterson](https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO) | [Low Flame \(Hd Remastered\)](https://open.spotify.com/album/5TCj5eEfhom5CN9LuDkCF1) | 4:59 |
 | 34 | [Mosaic \- 2005 Remaster](https://open.spotify.com/track/7fX1jZuluhiOhVx5HKzIBA) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Mosaic \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco) | 8:13 |
 
-Snapshot ID: `AAAAAL2+fRj3dE+uIJVSt+OUPk+wcroK`
+Snapshot ID: `ZsNB0AAAAACEMiIlpdJaBzkDpPhUIvZP`

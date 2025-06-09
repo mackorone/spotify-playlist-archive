@@ -2489,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
+    },
+    {
+      "album": {
         "name": "Hole In My Heart (with Livingston)",
         "url": "https://open.spotify.com/album/0RM6bfBqNc2f12fLS7iiPM"
       },
@@ -3576,7 +3598,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 185720,
       "name": "Mash Up",
       "url": "https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb"
@@ -4070,6 +4092,32 @@
       "duration_ms": 190680,
       "name": "New Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
+    },
+    {
+      "album": {
+        "name": "New Phone",
+        "url": "https://open.spotify.com/album/27mdSfyu1Xx8jI2QXO6mdJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Sugarush",
+          "url": "https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX"
+        },
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "Hotel Rubio",
+          "url": "https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207273,
+      "name": "New Phone",
+      "url": "https://open.spotify.com/track/5dBHUnIinhOcuhIp6dXbRM"
     },
     {
       "album": {
@@ -4730,7 +4778,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 186576,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"

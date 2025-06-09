@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "dayz gone / black lodge breakfast burrito (limited time only)",
+        "url": "https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS"
+      },
+      "artists": [
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "dayz gone",
+      "url": "https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ"
+    },
+    {
+      "album": {
         "name": "DEAD ASTRONAUT",
         "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
       },
@@ -9076,7 +9094,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 144705,
       "name": "Welcome To My Life",
       "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"

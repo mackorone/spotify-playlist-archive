@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 332541,
+  "num_followers": 332490,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "12 Horas",
-        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "12 Horas",
-      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Saudade N\u00edvel Hard",
         "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "12 Horas",
+        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "12 Horas",
+      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "\u00c0 Vontade",
+        "url": "https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 130420,
+      "name": "Safadezinha",
+      "url": "https://open.spotify.com/track/2eZ7emue8wqYu3wslMWlcJ"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Deixe-Me Ir (Kiko Franco e Woak Remix)",
         "url": "https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU"
       },
@@ -1291,26 +1307,6 @@
       "duration_ms": 154417,
       "name": "Qualidade De Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Contatinho (feat. Luan Santana)",
-        "url": "https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za"
-      },
-      "artists": [
-        {
-          "name": "Nego do Borel",
-          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Contatinho (feat. Luan Santana)",
-      "url": "https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT"
     }
   ],
   "unique_name": "Festa na Piscina",

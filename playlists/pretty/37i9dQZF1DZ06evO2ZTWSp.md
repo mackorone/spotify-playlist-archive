@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,122 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,100 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 48 | [Basement Queens](https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Basement Queens](https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV) | 3:03 |
 | 49 | [Sleepdrone/Superposition](https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS) | [P.O.S](https://open.spotify.com/artist/4sH7SLGP6BLOYDtcP6Lm47), [Hard\_R](https://open.spotify.com/artist/0FnRDFBAHFbthcoIt3jjoD), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Astronautalis](https://open.spotify.com/artist/6PWRJs1FosHp8Cqx0Nmswj), [Kathleen Hannah](https://open.spotify.com/artist/7ds3Am5RY3oD5H3674BINv), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Eric Mayson](https://open.spotify.com/artist/0QlLoZNKC35p4rWMyo3sEk), [Lydia Liza](https://open.spotify.com/artist/69APTdcqAgiLyRm7kqvRCX), [Nicholas L\. Perez](https://open.spotify.com/artist/1y1QBVelGjWim8xAsRtQIr) | [Chill, dummy](https://open.spotify.com/album/1Jlt2mp0aew89zqL1S6l86) | 8:48 |
 
-Snapshot ID: `aEIvgAAAAAD7jtzhiccS3xlbcYlxndxV`
+Snapshot ID: `aEOBAAAAAAAtX/Nd+z6DjAZLOQxX4Oa4`

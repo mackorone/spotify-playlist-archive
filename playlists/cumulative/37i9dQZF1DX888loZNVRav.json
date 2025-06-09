@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Love at its most dramatic. Cover: Boop! The Musical.",
+  "description": "Love at its most dramatic. Cover: Maybe Happy Ending",
   "name": "Broadway in Love!",
   "tracks": [
     {
@@ -2107,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        },
+        {
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "The Rainy Day We Met (from Maybe Happy Ending) - Original Broadway Cast Recording",
+      "url": "https://open.spotify.com/track/2unUEpRfYNVGj0L3JPaOw1"
+    },
+    {
+      "album": {
         "name": "Lerner & Loewe's Brigadoon (New York City Center 2017 Cast Recording)",
         "url": "https://open.spotify.com/album/66HWaOQZ6pKa2q5ghPrekF"
       },
@@ -2118,7 +2140,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 197442,
       "name": "There But For You Go I",
       "url": "https://open.spotify.com/track/76dzL9ttiT2nlbtkYzRimJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: PAWWS\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,716 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,747 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 3 | [if i had a wish...](https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS) | [Sloane Monroe](https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ) | [if i had a wish...](https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw) | 2:47 |
 | 4 | [Fallinoutoflove](https://open.spotify.com/track/7j3IY8pacb71agFoOR71et) | [Jelly](https://open.spotify.com/artist/7zPnnhWEDgPkdQseDonPII) | [Fallinoutoflove](https://open.spotify.com/album/4Nlsnk1BHOmS5I7vde272J) | 3:24 |
 | 5 | [After the Fact](https://open.spotify.com/track/62eY7NxeO2pjWLchkqqdtL) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [After the Fact](https://open.spotify.com/album/6EvzRn0Y2h4ZJswOUuZrpK) | 3:28 |
-| 6 | [Echo](https://open.spotify.com/track/6mY0aTHgjIIhVYVwzcbUC0) | [Talia Perese](https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c), [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Echo](https://open.spotify.com/album/0N2VsTUlY4qAI7Dyiqsn5Q) | 2:48 |
+| 6 | [Echo](https://open.spotify.com/track/6mY0aTHgjIIhVYVwzcbUC0) | [Talia Perese](https://open.spotify.com/artist/6Gp5ElBOlUi6ibQplIZc5c), [EDYONTHEBEAT](https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC) | [Echo](https://open.spotify.com/album/0N2VsTUlY4qAI7Dyiqsn5Q) | 2:48 |
 | 7 | [Thunder](https://open.spotify.com/track/2Yyb780z1hYYngedfG3yXy) | [Audrey McGraw](https://open.spotify.com/artist/0PkYl0yro1VsA8BGGkAVPS) | [Thunder](https://open.spotify.com/album/0ie82BteCZLD5vuvsx3mSb) | 3:49 |
 | 8 | [Lightning In The Room](https://open.spotify.com/track/38aathPfphyLQpAPOs2bD8) | [Alexis Jae](https://open.spotify.com/artist/52I7Ci9JGLBGwv821YNqSF) | [Lightning In The Room](https://open.spotify.com/album/6kxLvaMc7MfyitVUOAKsAP) | 2:30 |
 | 9 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 |

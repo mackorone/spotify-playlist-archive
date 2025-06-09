@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 36394,
+  "num_followers": 36410,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "24h In A Disco",
-        "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "24h In A Disco",
-      "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 260000,
       "name": "Swim",
       "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "24h In A Disco",
+        "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "24h In A Disco",
+      "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+        "name": "Sunshine Is Coming",
+        "url": "https://open.spotify.com/album/2ftCxHAs5kEFCzgkLUMpFV"
       },
       "artists": [
         {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
         }
       ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+      "duration_ms": 246360,
+      "name": "Sunshine Is Coming",
+      "url": "https://open.spotify.com/track/4vW0tD7iei8EGVq98BjZ2T"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -1115,18 +1131,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Sunshine Is Coming",
-        "url": "https://open.spotify.com/album/2ftCxHAs5kEFCzgkLUMpFV"
+        "name": "I Have a Love (Overmono Remix)",
+        "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
       },
       "artists": [
         {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+          "name": "For Those I Love",
+          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 246360,
-      "name": "Sunshine Is Coming",
-      "url": "https://open.spotify.com/track/4vW0tD7iei8EGVq98BjZ2T"
+      "duration_ms": 366149,
+      "name": "I Have a Love (Overmono Remix)",
+      "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -1147,26 +1167,6 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "I Have a Love (Overmono Remix)",
-        "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
-      },
-      "artists": [
-        {
-          "name": "For Those I Love",
-          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 366149,
-      "name": "I Have a Love (Overmono Remix)",
-      "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
     },
     {
       "added_at": "2025-05-29 23:00:11",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
-        "name": "Lying In The Sand",
-        "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
-      },
-      "artists": [
-        {
-          "name": "Bubble Love",
-          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
-        },
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 199968,
-      "name": "Lying In The Sand",
-      "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
+        "name": "Lying In The Sand",
+        "url": "https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A"
+      },
+      "artists": [
+        {
+          "name": "Bubble Love",
+          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+        },
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 199968,
+      "name": "Lying In The Sand",
+      "url": "https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo"
     },
     {
       "added_at": "2025-05-29 23:00:11",

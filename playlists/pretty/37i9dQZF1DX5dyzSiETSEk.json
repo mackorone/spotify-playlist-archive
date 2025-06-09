@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 586608,
+  "num_followers": 586591,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-01-21 16:16:18",
       "album": {
-        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "...Baby One More Time (from Kung Fu Panda 4)",
-      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
-    },
-    {
-      "added_at": "2025-01-21 16:16:18",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 156493,
       "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
+    },
+    {
+      "added_at": "2025-01-21 16:16:18",
+      "album": {
+        "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
     },
     {
       "added_at": "2025-01-21 16:16:18",

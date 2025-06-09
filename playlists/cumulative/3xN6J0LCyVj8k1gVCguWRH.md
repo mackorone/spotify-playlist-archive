@@ -2,9 +2,9 @@
 
 ### [Obama’s Summer Playlist 2025](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> What&\#x27;s gonna be the song of the Summer 2025!?
+> What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,002 songs - 11 day 16 hr 7 min
+5,005 songs - 11 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [El Negro Sabroso \(Banda\)](https://open.spotify.com/track/3DFsxiMt0LbVIS77ZFdgUC) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [El Negro Sabroso \(Banda\)](https://open.spotify.com/album/6fR2B2cNt2L5DF8bBpv9Fz) | 3:55 | 2024-01-20 | 2024-02-01 |
 | [El Sol \(2023\) \- Radio](https://open.spotify.com/track/3k9FBJbqq8IIjqIhJxBgWZ) | [Words Four Two](https://open.spotify.com/artist/0CHEpj8dNLqZhqIjblJAm4) | [El Sol \(2023\)](https://open.spotify.com/album/4HkAc02xRdkGKzrIp4KhvA) | 4:20 | 2024-01-13 | 2024-01-20 |
 | [El Sol \(2023\) \- Radio Edit](https://open.spotify.com/track/7oqSO59ztt1sg3qtxchW7o) | [Words Four Two](https://open.spotify.com/artist/0CHEpj8dNLqZhqIjblJAm4), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [El Sol \(2023\) \[Radio Edit\]](https://open.spotify.com/album/29VVBLOjYmMNvL0sd498pu) | 4:27 | 2024-01-12 | 2024-01-20 |
+| [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-06-08 |  |
 | [Electric](https://open.spotify.com/track/0J2G98TiyPPuC0WiIEWpKN) | [The Vindys](https://open.spotify.com/artist/5UIONAEjkE2S9XFc1lENyo) | [Electric](https://open.spotify.com/album/5ysXgG4d2Sw52VAIYOrJnT) | 4:32 | 2025-04-12 | 2025-04-24 |
 | [Electrify Tdot](https://open.spotify.com/track/12UxQAWGo9DtIghAifJTSm) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Electrify Tdot](https://open.spotify.com/album/2hOtsN3YH4YyNOXImXZpmE) | 3:25 | 2025-04-09 | 2025-04-20 |
 | [Electrify Tdot \- Remix](https://open.spotify.com/track/6vnRWFgpHBq4Ka28e2DwI1) | [Arianna Tsar Valentine](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV), [MC Papa Bear](https://open.spotify.com/artist/7DMB67g6YNBJIoiBVepMy2) | [Electrify Tdot](https://open.spotify.com/album/3uYYZaj48u3jkL7ITzvFrp) | 3:37 | 2022-12-30 | 2023-01-21 |
@@ -1581,6 +1582,7 @@
 | [FREE \(Radio Edit\)](https://open.spotify.com/track/5t8muucoml6Y5oQoCA2gvl) | [Risa Kumon](https://open.spotify.com/artist/2vpmfKv5wAGVr8KCsLxnNO) | [FREE \(Radio Edit\)](https://open.spotify.com/album/6rx7UmUqwDn42ROxV2PaXI) | 4:26 | 2023-06-09 | 2023-06-30 |
 | [Free Annie](https://open.spotify.com/track/5wAQWx54RkKqtfNAIveqS4) | [The Tralala](https://open.spotify.com/artist/7091SfBujSoinDuHBVGyHQ) | [Free Annie](https://open.spotify.com/album/4uVYCtdo9kFSLclZdidbS3) | 4:40 | 2025-06-02 |  |
 | [Free Bird](https://open.spotify.com/track/6ohZJm6vyUwfqD7btyXq8T) | [Tukei](https://open.spotify.com/artist/5dSg4m1es4pzxJGVB9b9r0) | [About a Girl](https://open.spotify.com/album/36xBEgKZ6mrDYJZ27i4Ogs) | 2:49 | 2023-07-24 | 2023-08-20 |
+| [Free Fall](https://open.spotify.com/track/2TTwEgHKYqrSacYI9DDcvM) | [Louie Rubio](https://open.spotify.com/artist/3vl3HfodbBg1UY2FYVMbGU) | [Free Fall](https://open.spotify.com/album/0Sae7ZBhXQG4dUUekMqviR) | 3:16 | 2025-06-08 |  |
 | [Free Fallin'](https://open.spotify.com/track/3lGlni5Gdr5iyRSIdWC7b7) | [Silk & Bloom](https://open.spotify.com/artist/56OYEJPaUapEZ5pxocqR9O) | [Free Fallin'](https://open.spotify.com/album/0cqmmBlh0pWcB5tthVZI2f) | 2:51 | 2024-09-28 | 2024-10-10 |
 | [Freedom](https://open.spotify.com/track/4S4QeGP0866I9oVyCyUMXa) | [AIS](https://open.spotify.com/artist/2R7laIbwkvPPud2g6Ia9Uz) | [Freedom](https://open.spotify.com/album/2qg46upRNBqRdQPicGbrBK) | 4:17 | 2021-11-27 | 2021-12-12 |
 | [Freedom](https://open.spotify.com/track/2SUT0HAX6tfo0Vk8tYfBYG) | [B.A.D.A.](https://open.spotify.com/artist/5DRgp80WYkhaRnALRKlWRz), [Rayon Nelson](https://open.spotify.com/artist/31vrrmY4Ouk1Y9RdZy8r3a) | [Freedom](https://open.spotify.com/album/4HghTbSIMUCQXIjQ93qmKM) | 4:30 | 2020-06-29 | 2020-07-13 |
@@ -2507,6 +2509,7 @@
 | [Like Me](https://open.spotify.com/track/4JlRXVckYnpG3BZqqH9vFA) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Like Me](https://open.spotify.com/album/0EfDPslgOoF6Vf8RMkm8qr) | 2:55 | 2021-03-14 | 2021-03-27 |
 | [Like Never Before](https://open.spotify.com/track/1HhzE4IHpOoMk2wefo2ImO) | [Nathan O'Regan](https://open.spotify.com/artist/3b9QQ0yTuxGScPRz2liMk8) | [Like Never Before](https://open.spotify.com/album/5qi1GepfZN4ObSvWSMikfF) | 3:25 | 2023-06-30 | 2023-07-22 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-25 | 2024-07-12 |
+| [like that.](https://open.spotify.com/track/7zITJGEGCiMaQhDPo6GOQE) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [like that.](https://open.spotify.com/album/3cdYjMujFiBbJTltcu9vuH) | 2:18 | 2025-06-08 |  |
 | [Like This](https://open.spotify.com/track/3PJtf2ksDvoXDbC0wSD5TL) | [Ladibree](https://open.spotify.com/artist/20FSvWC5lIkCoHhgwlENls) | [Like This](https://open.spotify.com/album/50rTVirU65Wo35x0pWUdu2) | 2:49 | 2022-09-02 | 2022-09-18 |
 | [like we're an indie movie](https://open.spotify.com/track/22FgiWoUpBS1gdSikE7TLa) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [like we're an indie movie](https://open.spotify.com/album/3LQV5S9PwcnBKe8veDhCbP) | 3:37 | 2021-11-11 | 2021-12-05 |
 | [Like Wine](https://open.spotify.com/track/0SJwUCWvHPqhGphKOfAMG5) | [Aris James](https://open.spotify.com/artist/0Q2bXEEKo1VJ7RFGfKDPhw) | [Like Wine](https://open.spotify.com/album/7mJwqrcFKMjbss7zcl0RO5) | 2:15 | 2022-09-23 | 2022-10-09 |

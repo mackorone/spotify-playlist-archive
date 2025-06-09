@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,378 likes - 115 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,580 likes - 115 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

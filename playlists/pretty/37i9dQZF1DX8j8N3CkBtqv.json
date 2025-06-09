@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Vismay Patel, Iqlipse Nova and other exciting artists.\n",
-  "num_followers": 86200,
+  "num_followers": 86233,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-06-06 06:07:37",
       "album": {
-        "name": "Seelan Ki Khushboo",
-        "url": "https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f"
-      },
-      "artists": [
-        {
-          "name": "Mansa Jimmy",
-          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
-        }
-      ],
-      "duration_ms": 212460,
-      "name": "Seelan Ki Khushboo",
-      "url": "https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG"
-    },
-    {
-      "added_at": "2025-06-06 06:07:37",
-      "album": {
         "name": "Tujhi Mein",
         "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 185000,
       "name": "Tujhi Mein",
       "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
+    },
+    {
+      "added_at": "2025-06-06 06:07:37",
+      "album": {
+        "name": "Seelan Ki Khushboo",
+        "url": "https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f"
+      },
+      "artists": [
+        {
+          "name": "Mansa Jimmy",
+          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+        }
+      ],
+      "duration_ms": 212460,
+      "name": "Seelan Ki Khushboo",
+      "url": "https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG"
     },
     {
       "added_at": "2025-06-06 06:07:37",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-06-06 06:07:37",
       "album": {
-        "name": "Kab Aur Kaise",
-        "url": "https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU"
-      },
-      "artists": [
-        {
-          "name": "Bombay the Artist",
-          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Kab Aur Kaise",
-      "url": "https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO"
-    },
-    {
-      "added_at": "2025-06-06 06:07:37",
-      "album": {
         "name": "Soz e Dil",
         "url": "https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2025-06-06 06:07:37",
       "album": {
-        "name": "Elahi",
-        "url": "https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy"
+        "name": "Kab Aur Kaise",
+        "url": "https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU"
       },
       "artists": [
         {
-          "name": "Salman Elahi",
-          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
         }
       ],
-      "duration_ms": 225283,
-      "name": "Raza",
-      "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
+      "duration_ms": 154105,
+      "name": "Kab Aur Kaise",
+      "url": "https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO"
     },
     {
       "added_at": "2025-06-06 06:07:37",
@@ -951,18 +935,42 @@
     {
       "added_at": "2025-06-06 06:07:37",
       "album": {
-        "name": "Jab Mila Tu",
-        "url": "https://open.spotify.com/album/5H76HdKdMHZKElVD6k3bHU"
+        "name": "Elahi",
+        "url": "https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy"
       },
       "artists": [
         {
-          "name": "Arya Salvi",
-          "url": "https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF"
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
         }
       ],
-      "duration_ms": 158483,
-      "name": "Jab Mila Tu",
-      "url": "https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W"
+      "duration_ms": 225283,
+      "name": "Raza",
+      "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
+    },
+    {
+      "added_at": "2025-06-06 06:07:37",
+      "album": {
+        "name": "Ek Martaba Phir",
+        "url": "https://open.spotify.com/album/6NUuU4Euu64fPd9nK7MJig"
+      },
+      "artists": [
+        {
+          "name": "Ananya Sharma",
+          "url": "https://open.spotify.com/artist/1IsobZFDttKe4y2jQXDyvd"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Ek Martaba Phir",
+      "url": "https://open.spotify.com/track/17xdCJ7oawMWo84d9oxztl"
     }
   ],
   "unique_name": "Naya Indiestan",

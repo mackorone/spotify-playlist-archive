@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1080249,
+  "num_followers": 1079859,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Momma Song",
-        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Momma Song",
-      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "This Song",
         "url": "https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "CUNTISSIMO",
         "url": "https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 240963,
       "name": "CUNTISSIMO",
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Just Us (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172877,
-      "name": "Just Us (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -811,6 +791,26 @@
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 156463,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Still Bad",
         "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
       },
@@ -1075,42 +1111,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "I'll Be Waiting",
-        "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 156463,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "FUFN (Fuck You For Now)",
+        "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "FUFN (Fuck You For Now)",
+      "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Mind Reader (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "FUFN (Fuck You For Now)",
-        "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "FUFN (Fuck You For Now)",
-      "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Relationships",
         "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "i guess u never really cared about me",
-        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 191150,
-      "name": "i guess u never really cared about me",
-      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -1223,6 +1207,38 @@
       "duration_ms": 167096,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 228449,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "i guess u never really cared about me",
+        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "i guess u never really cared about me",
+      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 228449,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 207661,
       "name": "Truth",
       "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Running/Planning",
+        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Running/Planning",
+      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "The Reaper",
         "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 241060,
       "name": "Olive Tree",
       "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Running/Planning",
-        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Running/Planning",
-      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Arcade (Spotify Singles)",
         "url": "https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 159143,
       "name": "Arcade (Spotify Singles)",
       "url": "https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-05-29 22:00:25",

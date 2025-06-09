@@ -1,15 +1,183 @@
 {
-  "description": "Keep the Spotify House party going on the Country Club Rooftop, hosted by Country Night!",
-  "num_followers": 25990,
+  "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Kane Brown and Marshmello\n",
+  "num_followers": 26042,
   "original_name": "Country Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJnyAAAAAAoa+ZiXxtvUsbxdlvfxGf7",
+  "snapshot_id": "aEYvywAAAAAh0eiKuRhFsdgVk4vwmUSt",
   "tracks": [
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Not At This Party (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171488,
+      "name": "Not At This Party - David Guetta Remix",
+      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "We Got History (VAVO & DLAY Remix)",
+        "url": "https://open.spotify.com/album/6EbhpXJqHHXHWO63AI9Q18"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "DLAY",
+          "url": "https://open.spotify.com/artist/6DkYYBzjkkFZeVJqvZFHLT"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "We Got History - VAVO & DLAY Remix",
+      "url": "https://open.spotify.com/track/5wzVRwT7LAUmafyhGLoUL7"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "New York at Night (Remix)",
+        "url": "https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 184784,
+      "name": "New York at Night - Remix",
+      "url": "https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        },
+        {
+          "name": "Seth Ennis",
+          "url": "https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2"
+        }
+      ],
+      "duration_ms": 186961,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "More Than Yesterday (feat. Russell Dickerson)",
+        "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 187661,
+      "name": "More Than Yesterday (feat. Russell Dickerson)",
+      "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Soul (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Soul (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "HONKY TONK BADONKADONK",
         "url": "https://open.spotify.com/album/1OzaeXfWl2R0ncz727BPQs"
@@ -33,7 +201,151 @@
       "url": "https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Forget Tonight (ft. Tyler Hubbard)",
+        "url": "https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Forget Tonight (ft. Tyler Hubbard)",
+      "url": "https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Happen To Me (Steve Aoki Remix)",
+        "url": "https://open.spotify.com/album/4y7lBv98C4OxEKataIujzf"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 168940,
+      "name": "Happen To Me - Steve Aoki Remix",
+      "url": "https://open.spotify.com/track/1M1fmid4SE8wtqdmmH6l9e"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Diamonds (Cash Cash Remix)",
+        "url": "https://open.spotify.com/album/3iyYMP6fNOHsYpVKDr026R"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        },
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 179620,
+      "name": "Diamonds - Cash Cash Remix",
+      "url": "https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Dance With Your Ghost",
+        "url": "https://open.spotify.com/album/7miqyX59wl1dG7wthxtN3g"
+      },
+      "artists": [
+        {
+          "name": "ZEVY",
+          "url": "https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk"
+        },
+        {
+          "name": "Ferris",
+          "url": "https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Dance With Your Ghost",
+      "url": "https://open.spotify.com/track/2LKTBOPA0yNjmAfMjBw0is"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Bullet",
+        "url": "https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 155135,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Singles You Up (Ryan Riback Remix)",
+        "url": "https://open.spotify.com/album/6BdsIEdziglvxn10fmjsVf"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "duration_ms": 198624,
+      "name": "Singles You Up - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
+      "album": {
+        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
+        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        }
+      ],
+      "duration_ms": 176670,
+      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
+      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
+    },
+    {
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Be Like That (Remixes) - EP",
         "url": "https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3"
@@ -61,299 +373,7 @@
       "url": "https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Not At This Party (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171488,
-      "name": "Not At This Party - David Guetta Remix",
-      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "First Rodeo",
-        "url": "https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz"
-      },
-      "artists": [
-        {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        },
-        {
-          "name": "Filmore",
-          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
-        },
-        {
-          "name": "Seth Ennis",
-          "url": "https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2"
-        }
-      ],
-      "duration_ms": 186961,
-      "name": "First Rodeo",
-      "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Hot Honey",
-        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Hot Honey",
-      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "We Got History (VAVO & DLAY Remix)",
-        "url": "https://open.spotify.com/album/6EbhpXJqHHXHWO63AI9Q18"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "VAVO",
-          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
-        },
-        {
-          "name": "DLAY",
-          "url": "https://open.spotify.com/artist/6DkYYBzjkkFZeVJqvZFHLT"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "We Got History - VAVO & DLAY Remix",
-      "url": "https://open.spotify.com/track/5wzVRwT7LAUmafyhGLoUL7"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "New York at Night (Remix)",
-        "url": "https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 184784,
-      "name": "New York at Night - Remix",
-      "url": "https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "More Than Yesterday (feat. Russell Dickerson)",
-        "url": "https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 187661,
-      "name": "More Than Yesterday (feat. Russell Dickerson)",
-      "url": "https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Soul (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Soul (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/32d8sQk2Q6zttnj80nBFMM"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Forget Tonight (ft. Tyler Hubbard)",
-        "url": "https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 165826,
-      "name": "Forget Tonight (ft. Tyler Hubbard)",
-      "url": "https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Happen To Me (Steve Aoki Remix)",
-        "url": "https://open.spotify.com/album/4y7lBv98C4OxEKataIujzf"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 168940,
-      "name": "Happen To Me - Steve Aoki Remix",
-      "url": "https://open.spotify.com/track/1M1fmid4SE8wtqdmmH6l9e"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Diamonds (Cash Cash Remix)",
-        "url": "https://open.spotify.com/album/3iyYMP6fNOHsYpVKDr026R"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        },
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 179620,
-      "name": "Diamonds - Cash Cash Remix",
-      "url": "https://open.spotify.com/track/2ByP6u4dKJSTmHziCVDteF"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Dance With Your Ghost",
-        "url": "https://open.spotify.com/album/7miqyX59wl1dG7wthxtN3g"
-      },
-      "artists": [
-        {
-          "name": "ZEVY",
-          "url": "https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk"
-        },
-        {
-          "name": "Ferris",
-          "url": "https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Dance With Your Ghost",
-      "url": "https://open.spotify.com/track/2LKTBOPA0yNjmAfMjBw0is"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Bullet",
-        "url": "https://open.spotify.com/album/0a1lEYsMG9IW3U0hv4k6aJ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "VAVO",
-          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 155135,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Singles You Up (Ryan Riback Remix)",
-        "url": "https://open.spotify.com/album/6BdsIEdziglvxn10fmjsVf"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Ryan Riback",
-          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
-        }
-      ],
-      "duration_ms": 198624,
-      "name": "Singles You Up - Ryan Riback Remix",
-      "url": "https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
-        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        },
-        {
-          "name": "Distant Matter",
-          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
-        }
-      ],
-      "duration_ms": 176670,
-      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
-      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Wildflowers and Wild Horses (Remix)",
         "url": "https://open.spotify.com/album/7LSlBPrtlUU7Ip0keE5emb"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/40WlYQ6Vv0cwmJi4lVQARo"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Country Club",
         "url": "https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/2wJ9pb5Aj7v7yWUnLftFUt"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Good Times Go By Too Fast (VAVO Remix)",
         "url": "https://open.spotify.com/album/4GseD2hGQBDjfjh4naxdc3"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/7e5i1t1bzZxUQckJrDbFi5"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "When It Rains It Pours",
         "url": "https://open.spotify.com/album/1AWyoDW2cHPNx50Hs6uHpC"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/3hKjUWneThtWscAoDLwvfT"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "World on Fire (VAVO Remix)",
         "url": "https://open.spotify.com/album/55hKzA1ahojcAZL1ukmRmB"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/7uzhzMMLvN8GKb0JhBs1uc"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Beautiful Drug (feat. Avicii) [Remix]",
         "url": "https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/0By7GAIixApdMFPiNtfeck"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Missing You (feat. Nate Smith)",
         "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Something We Can Dance To",
         "url": "https://open.spotify.com/album/4bPVuBubfJc35rNwrSZQ7v"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Got No Choice (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3OoVO3D4GIw36Fz0r7azfl"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/0MWV88QURJzWteCK2glxOZ"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Whiskey On You (MOTi Remix)",
         "url": "https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Beautiful As U",
         "url": "https://open.spotify.com/album/6Fk59eEH89ibSBUWiOq6zL"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/0U9u17dJx9paokliaszAEr"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "One Of Them Girls (VAVO Remix)",
         "url": "https://open.spotify.com/album/0F9eRfVQYGuj2XuEObJU3w"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/0CjLazxB3sgVj5tLOj2hKR"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Lil Bit",
         "url": "https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Can't Stop Us Now",
         "url": "https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Drink to That All Night (Remix) (feat. Pitbull)",
         "url": "https://open.spotify.com/album/4YwfobtqcePOPYwcgiH0YA"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/7CwboxAi6CvMcWrDfbxttR"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Dark Horse (Attom Remix)",
         "url": "https://open.spotify.com/album/5USn3Wjh3KsfuTlomPQnNg"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/1NZAaaimzWonDpqcK0Ls88"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "I Can Feel It (VAVO Remix)",
         "url": "https://open.spotify.com/album/1Wm3T2shJsILJjd5S3G6nN"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/1lvILjcPM1uxURvBLZzucr"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Big Machine Dance Party",
         "url": "https://open.spotify.com/album/7gGlDoGV5Oc1PGT92fu7cM"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/2IQIp6AvSm7OJ3y2yp8use"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "High Horse",
         "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "You Got It (Ryan Riback Remix)",
         "url": "https://open.spotify.com/album/1DsmQZl8jJrNAoJq12RzHj"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Tequila Does (Remix)",
         "url": "https://open.spotify.com/album/34IfaAv6R5zmpjLQhzlwIh"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/5OAR2NIvwDJ5QAmrJYgGv5"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "This Town's Been Too Good To Us (VAVO Remix)",
         "url": "https://open.spotify.com/album/15NlctqXysjYS5fFGACncz"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
@@ -917,7 +937,7 @@
       "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Take It From Me (Brandon Day Remix)",
         "url": "https://open.spotify.com/album/0C3VwaIpGqxhc7A45tHYwg"
@@ -937,7 +957,7 @@
       "url": "https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
@@ -957,7 +977,7 @@
       "url": "https://open.spotify.com/track/29Zod043iIX27WBv0duEDn"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Drunk (And I Don't Wanna Go Home) (feat. Miranda Lambert) [GOLDHOUSE Remix]",
         "url": "https://open.spotify.com/album/1UjKISyQt7lYXMkTo7dyJg"
@@ -981,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3waUCQw6FzbImpXAQ282Zm"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Drunk Me (R3HAB Remix)",
         "url": "https://open.spotify.com/album/33Fyd6by0ZBwbrvRYv2iSQ"
@@ -1001,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "High Horse Remix",
         "url": "https://open.spotify.com/album/1BJXLKb7OD5fnx330csFDB"
@@ -1021,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4veyQyv5k8leAa2MCfDbND"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Hold You Tonight (with Chris Lane)",
         "url": "https://open.spotify.com/album/3jpi8V1xyAiNNiheqa6Rl5"
@@ -1041,7 +1061,7 @@
       "url": "https://open.spotify.com/track/58jecLK0epwMLr9cy5vFUy"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
@@ -1061,7 +1081,7 @@
       "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -1081,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
@@ -1101,7 +1121,7 @@
       "url": "https://open.spotify.com/track/1onjgmM6vHbILFbQLg8gFV"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Love Story (Taylor's Version) [Elvira Remix]",
         "url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA"
@@ -1121,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Heartland",
         "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
@@ -1141,7 +1161,7 @@
       "url": "https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
@@ -1161,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Every Little Thing (Ruffian Remix)",
         "url": "https://open.spotify.com/album/1IKCSGDR1Mhdk9YP1LzeqT"
@@ -1181,7 +1201,7 @@
       "url": "https://open.spotify.com/track/1uPdgOpPVUSoQLvm26XMTC"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
@@ -1201,7 +1221,7 @@
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Fancy Like (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98"
@@ -1221,7 +1241,7 @@
       "url": "https://open.spotify.com/track/1YW8olrB29icos92vsWPvd"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Do Si Do",
         "url": "https://open.spotify.com/album/5ztLxyZw32EKfv0Kw5ZLRj"
@@ -1241,7 +1261,7 @@
       "url": "https://open.spotify.com/track/4vAvloma2hNHnD2M9vLSH0"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
@@ -1261,7 +1281,7 @@
       "url": "https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
@@ -1277,7 +1297,7 @@
       "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
@@ -1297,7 +1317,7 @@
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
@@ -1317,7 +1337,7 @@
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Can't Say No",
         "url": "https://open.spotify.com/album/0Ow1ORYMZy58bqZppQ4lz9"
@@ -1333,7 +1353,7 @@
       "url": "https://open.spotify.com/track/5ExV88XemAoke7Yf2y9814"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "This Is How We Roll (Remix)",
         "url": "https://open.spotify.com/album/6hitymDgEcBKf8riAVOsiZ"
@@ -1357,7 +1377,7 @@
       "url": "https://open.spotify.com/track/3Hs4ytyLFzB2HKk2ZSohko"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Come On Over (International Version)",
         "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
@@ -1373,7 +1393,7 @@
       "url": "https://open.spotify.com/track/6q9orQ8lTnKFqBhxRB0bY5"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
@@ -1397,7 +1417,7 @@
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Cowboy Killer",
         "url": "https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf"
@@ -1417,31 +1437,7 @@
       "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
-      "album": {
-        "name": "Miles On It (Remixes)",
-        "url": "https://open.spotify.com/album/1TrDDvVmpvWzLqAcXJyqI5"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 149594,
-      "name": "Miles On It - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/7tHLE2wLCjN7oqIQOQMSqR"
-    },
-    {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "The Champion",
         "url": "https://open.spotify.com/album/46muKAiFbLEkonRNRpTuEH"
@@ -1461,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
@@ -1481,7 +1477,7 @@
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "The Git Up (feat. Ciara) [Remix]",
         "url": "https://open.spotify.com/album/3wRyrZCXZxuj45KThDqe4O"
@@ -1501,7 +1497,7 @@
       "url": "https://open.spotify.com/track/5PPk5WM8vpJ7VOR9gUrMFH"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Dirt On My Boots (Remix)",
         "url": "https://open.spotify.com/album/1LqxKSLjw1BiTPS036wg8S"
@@ -1521,7 +1517,7 @@
       "url": "https://open.spotify.com/track/3S86G5H2vQbmaOGIg0UXKr"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Trackhouse (Daytona 500 Edition)",
         "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
@@ -1541,7 +1537,7 @@
       "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Dirt Road Anthem (Remix) [feat. Ludacris]",
         "url": "https://open.spotify.com/album/0VLksQeRExDkOfVsmTXtBk"
@@ -1561,7 +1557,7 @@
       "url": "https://open.spotify.com/track/4s3Z1svzMAu8OwmhWLUWHw"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "A Bar Song (Tipsy) [Remix]",
         "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
@@ -1581,7 +1577,7 @@
       "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Miss Me More (Remixes)",
         "url": "https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS"
@@ -1605,7 +1601,7 @@
       "url": "https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
@@ -1625,7 +1621,7 @@
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "BRELAND EP",
         "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
@@ -1645,7 +1641,7 @@
       "url": "https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Feels Right (I Love It)",
         "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
@@ -1665,7 +1661,7 @@
       "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "The Night The Lights Went Out In Georgia (Eric Kupper Remix)",
         "url": "https://open.spotify.com/album/26KZhHTqgLBdOQ80UrCewv"
@@ -1685,7 +1681,7 @@
       "url": "https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Jolene (Destructo Remix)",
         "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
@@ -1705,7 +1701,7 @@
       "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "BRELAND EP",
         "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
@@ -1721,7 +1717,7 @@
       "url": "https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh"
     },
     {
-      "added_at": "2025-06-06 04:00:07",
+      "added_at": "2025-06-09 00:50:19",
       "album": {
         "name": "Tequila (The Remixes)",
         "url": "https://open.spotify.com/album/0mbXdG2oPnAa1FY1H5EpxZ"

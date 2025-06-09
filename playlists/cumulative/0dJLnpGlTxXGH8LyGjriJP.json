@@ -6583,6 +6583,32 @@
     },
     {
       "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211408,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
+    },
+    {
+      "album": {
         "name": "Hard (feat. Tay-K and BlocBoy JB)",
         "url": "https://open.spotify.com/album/0IqjdcSceJWEctw8arvZLx"
       },

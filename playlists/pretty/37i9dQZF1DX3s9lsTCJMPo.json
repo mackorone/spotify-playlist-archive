@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 127122,
+  "num_followers": 127157,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca758 Vol. 3",
+        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 205187,
+      "name": "Your Body Working",
+      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 197293,
       "name": "Breathless (feat. Blaxx)",
       "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca758 Vol. 3",
-        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 205187,
-      "name": "Your Body Working",
-      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Girls Gone Wild",
-      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 438600,
       "name": "Doh Wine",
       "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
     },
     {
       "added_at": "2024-08-06 01:00:53",

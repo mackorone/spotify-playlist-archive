@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 
 > to: the love of my life
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,140 likes - 84 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,146 likes - 84 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 | 83 | [Come Over \- Cover](https://open.spotify.com/track/2cKtwmy8OkbzY6XCw7yrS1) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Come Over \(Cover\)](https://open.spotify.com/album/0SWYauVLyKNN6TOhIXxBCg) | 2:22 |
 | 84 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 |
 
-Snapshot ID: `Z6+WGgAAAAAx96MpxC5XeXlKhGvP6nDd`
+Snapshot ID: `Z6+WGgAAAACz68F6joBDrFb2N1ZpRQM/`

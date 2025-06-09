@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 115660,
+  "num_followers": 115680,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAABBRj9aJCEUFHcLOR9r0gHH",
+  "snapshot_id": "aEOBAAAAAAAFG+Lo3of1vrQpch48btF/",
   "tracks": [
     {
       "added_at": null,
@@ -34,15 +34,11 @@
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 302720,
-      "name": "Underneath It All",
-      "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
     },
     {
       "added_at": null,
@@ -102,11 +98,15 @@
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
+      "duration_ms": 302720,
+      "name": "Underneath It All",
+      "url": "https://open.spotify.com/track/6fR6Z0Vc1K6yQWNUIKjAIR"
     },
     {
       "added_at": null,

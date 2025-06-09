@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors.",
-  "num_followers": 17031,
+  "num_followers": 17121,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 244810,
-      "name": "Heaven is a Home\u2026",
-      "url": "https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "Nice To Each Other",
         "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 244810,
+      "name": "Heaven is a Home\u2026",
+      "url": "https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "LOOK OUT FOR ME",
-      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "X-Rated",
         "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "SISTA WIVES (from the Short Film \"Red Clay\")",
-        "url": "https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng"
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 149960,
-      "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
-      "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -395,6 +375,26 @@
       "duration_ms": 212647,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "SISTA WIVES (from the Short Film \"Red Clay\")",
+        "url": "https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 149960,
+      "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
+      "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
     },
     {
       "added_at": "2025-06-04 18:47:12",

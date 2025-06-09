@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,257 likes - 238 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,269 likes - 238 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

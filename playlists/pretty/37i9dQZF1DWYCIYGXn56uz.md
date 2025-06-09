@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,343 likes - 110 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,345 likes - 110 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

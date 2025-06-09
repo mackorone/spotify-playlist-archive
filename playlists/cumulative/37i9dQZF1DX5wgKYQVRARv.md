@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-801 songs - 2 day 20 hr 42 min
+802 songs - 2 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Hidden Window](https://open.spotify.com/track/4RPDDNZ5fk0RgeppdEYwTR) | [Be'lakor](https://open.spotify.com/artist/7qUcsMCdIHrs2LOZlmciQp) | [Hidden Window](https://open.spotify.com/album/5SxMs83K4lloEcYeAUTThH) | 8:24 | 2021-12-17 | 2022-07-29 |
 | [Hideous](https://open.spotify.com/track/5tqhz6V5vVrEitYkTGqAGa) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Hideous](https://open.spotify.com/album/4qftklc0DH2DWxanvoXSNG) | 4:14 | 2021-12-17 | 2022-07-29 |
 | [Hideous](https://open.spotify.com/track/7aJcCmELuZ3Tqd19oVQD7n) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Culling Culture](https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U) | 4:14 | 2022-07-08 | 2023-01-21 |
+| [High Tide](https://open.spotify.com/track/1vrU3ajM7wLj6xn3sU2pZ2) | [Oceans in Silhouette](https://open.spotify.com/artist/184qTniKJjNEoRlAoMh6jJ), [LEXX](https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd) | [High Tide](https://open.spotify.com/album/3d19RGahm9z8RlBVzBejYZ) | 3:58 | 2025-06-06 |  |
 | [Hollow](https://open.spotify.com/track/2QlBlV967zy7AoA4DZoydi) | [RVNT](https://open.spotify.com/artist/22KUYijKLi9NjqQvslLNAK) | [Hollow](https://open.spotify.com/album/2YDrqbtoNRZPdtWSA7wa38) | 3:48 | 2022-07-13 | 2024-04-19 |
 | [holywater](https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [holywater](https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt) | 2:44 | 2022-07-13 | 2025-02-08 |
 | [Horizon](https://open.spotify.com/track/5Q2fWH0ETUQbknAcsS0Fs2) | [Split Iris](https://open.spotify.com/artist/08QfTWpB2d2tGtVA8Ldhru) | [Horizon](https://open.spotify.com/album/0pnQopvhAs8WJdQBn5WHEt) | 6:52 | 2022-01-07 | 2022-07-22 |
@@ -554,7 +555,7 @@
 | [SACRiFiCE](https://open.spotify.com/track/4LGOYMMj4ksSVaR28vX7zq) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/4azxoq5UXg4huDqHWo9SL1) | 3:30 | 2022-07-13 | 2025-02-08 |
 | [Sagittarius](https://open.spotify.com/track/0oDw63zv1ProfvH1HgfPvG) | [One Hundred Thousand](https://open.spotify.com/artist/26PZG9fA2GSpDe8o2UR2Bt) | [Sagittarius](https://open.spotify.com/album/63hiVr5grtpEehl3FUnZib) | 5:51 | 2021-12-17 | 2021-12-29 |
 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 | 2025-01-10 | 2025-02-08 |
-| [Samsara](https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Samsara](https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP) | 4:40 | 2022-07-13 |  |
+| [Samsara](https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Samsara](https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP) | 4:40 | 2022-07-13 | 2025-06-09 |
 | [Sanctuary](https://open.spotify.com/track/5z2VqUUekX3IHIjOcy3uZm) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Sanctuary](https://open.spotify.com/album/79e13Ukx164Q9L5pq7TXFZ) | 4:23 | 2021-12-31 | 2022-07-25 |
 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 | 2022-01-07 | 2024-11-23 |
 | [Satellites](https://open.spotify.com/track/15pzQR7FbH7S6zz6QpKDlH) | [Exist Immortal](https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV) | [Satellites](https://open.spotify.com/album/42h0bhfThdZaoLSIBKW5c0) | 3:58 | 2021-12-17 | 2022-05-12 |

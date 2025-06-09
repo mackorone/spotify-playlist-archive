@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Paloma Morphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,408 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,426 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Miguel](https://open.spotify.com/track/3TMewqIJrTRNXCnDbN8gmW) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Miguel](https://open.spotify.com/album/3JhJXzDLUmLih2prJA38hD) | 2:43 |
 | 50 | [Solo Tú](https://open.spotify.com/track/3miNzZTCBg3xXqPKLSv7hH) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Solo Tú](https://open.spotify.com/album/5dLoXu1pxPsDYQxqVsnht0) | 2:59 |
 
-Snapshot ID: `aEJn3gAAAADL/LP+i9xgU65Okq/tBpCj`
+Snapshot ID: `AAAAALtGmZh1LS1wGTDUdStrb8G1BmUf`

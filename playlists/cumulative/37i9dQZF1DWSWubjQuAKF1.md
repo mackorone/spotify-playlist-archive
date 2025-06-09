@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: bartek turski
 
-478 songs - 23 hr 9 min
+480 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [+2 złamane serca](https://open.spotify.com/track/2boUivVVmvd58WLBUYmrru) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [+2 złamane serca](https://open.spotify.com/album/4fBcQOqgdE9n0SCvGhNKff) | 2:53 | 2024-11-21 | 2025-01-24 |
 | [2/10](https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [2/10](https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6) | 3:50 | 2024-06-28 | 2024-07-05 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-23 | 2025-04-18 |
-| [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 | 2025-04-17 |  |
+| [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 | 2025-04-17 | 2025-06-09 |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-06-28 | 2024-07-12 |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-03 | 2025-05-02 |
 | [5 słów](https://open.spotify.com/track/7BB6IZYUviTF04aZjkwuKo) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [5 słów](https://open.spotify.com/album/1zHmrrqXUQoXKvg1PNRNbw) | 2:20 | 2025-04-17 | 2025-05-05 |
@@ -113,7 +113,7 @@
 | [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 | 2025-01-24 |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
-| [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 | 2025-04-03 |  |
+| [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 | 2025-04-03 | 2025-06-09 |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-11-08 |
 | [Działasz na mnie jak](https://open.spotify.com/track/7humurIbO0Dwd790y0SQ4b) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [Działasz na mnie jak](https://open.spotify.com/album/4DVzebGjBJ6lZEAI93927m) | 2:09 | 2025-02-13 | 2025-02-28 |
 | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv) | 2:39 | 2024-10-11 | 2025-01-24 |
@@ -310,6 +310,7 @@
 | [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-28 | 2024-09-14 |
 | [Ostatni raz](https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Ostatni raz](https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF) | 2:31 | 2024-08-30 | 2025-01-24 |
 | [Ostatni Raz](https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Ostatni Raz](https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ) | 2:57 | 2025-04-03 | 2025-05-23 |
+| [ostatni raz](https://open.spotify.com/track/28tl2k7Oa2qN6KcwPVb6FW) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [ostatni raz](https://open.spotify.com/album/5yupWsAkBkqaHmc2Rvv0QW) | 2:32 | 2025-06-05 |  |
 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/17ZkGa33xEBbsWpgSqRNLM) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/0JyoNvP2toqt8hWKfuYcaX) | 2:55 | 2024-11-07 | 2025-01-24 |
 | [OSTRZEGALI CIE PRZED RAPERAMI](https://open.spotify.com/track/3DgAsWzkxpMQWHZR8Dmzxp) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [saburrakap](https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm) | [OSTRZEGALI CIE PRZED RAPERAMI](https://open.spotify.com/album/3hNiY3MJc2gsFTlxvvkiWY) | 2:08 | 2025-04-10 | 2025-04-18 |
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-23 | 2025-01-31 |
@@ -482,6 +483,7 @@
 | [ZORZE POLARNE](https://open.spotify.com/track/4JNdDbvLlsAWhrMGYiqIFW) | [młody podago](https://open.spotify.com/artist/36a1D1m5xIlco1bKlirhZX) | [ZORZE POLARNE](https://open.spotify.com/album/0PB5Z0hgBToVQMK60MenFE) | 2:34 | 2024-06-28 | 2024-07-12 |
 | [Zostaniesz na zawsze?](https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL) | [MDOPE](https://open.spotify.com/artist/6Z7uS8MOrEyM04JjnBf3R9) | [Zostaniesz na zawsze?](https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV) | 2:54 | 2024-08-30 | 2025-01-24 |
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-23 | 2025-03-14 |
+| [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 | 2025-06-05 |  |
 | [Łez](https://open.spotify.com/track/3XwbXBdDfmpjlwpyuTPzv3) | [Effy](https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2) | [Łez](https://open.spotify.com/album/5ei7THv6SDlyGburhlR8Qf) | 2:37 | 2025-03-20 | 2025-04-18 |
 | [ŻART!?](https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [ŻART!?](https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH) | 2:51 | 2024-09-13 | 2025-01-24 |
 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 | 2024-11-22 |

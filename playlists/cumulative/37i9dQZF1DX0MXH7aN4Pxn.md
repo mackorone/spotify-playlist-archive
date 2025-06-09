@@ -4,7 +4,7 @@
 
 > 
 
-572 songs - 1 day 5 hr 19 min
+573 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Pressure](https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Pressure](https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW) | 3:48 | 2022-04-15 | 2022-07-22 |
 | [Pretty Baby](https://open.spotify.com/track/4EJI2XGViSQp6WscLKgYDD) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Rockefeller](https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9) | [Pretty Baby](https://open.spotify.com/album/3z2v8LSyrSGvCc8vOSLNCi) | 2:53 | 2022-04-15 | 2022-07-29 |
 | [Promises](https://open.spotify.com/track/0TxWa5CQaY9bWticr0P5lM) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Promises](https://open.spotify.com/album/7gnNa0dD6tAmNKgFlBnNHz) | 3:11 | 2022-04-15 | 2022-05-27 |
+| [Promises](https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Louise Marshall](https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4) | [Promises](https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V) | 2:46 | 2025-05-28 |  |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2022-04-15 | 2022-07-06 |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-06-20 | 2023-09-08 |
 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 | 2022-06-20 | 2023-11-10 |
@@ -527,7 +528,7 @@
 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 | 2022-04-15 | 2022-07-07 |
 | [Under The Sun \(with Alok\)](https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Under The Sun \(with Alok\)](https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I) | 2:45 | 2024-06-21 |  |
 | [Unfoolish \(You Must Be Used To Me Crying\)](https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU) | [Unfoolish \(You Must Be Used To Me Crying\)](https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53) | 2:13 | 2022-06-20 | 2024-05-17 |
-| [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 | 2024-09-19 |  |
+| [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 | 2024-09-19 | 2025-06-09 |
 | [Uprising \(I Can't Wait\)](https://open.spotify.com/track/0Ow75iuTpOVLNZ2lDfZK7C) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Uprising \(I Can't Wait\)](https://open.spotify.com/album/6en5NZTSsNc5fTMtrKI6OV) | 2:33 | 2022-04-15 | 2022-07-25 |
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2024-02-23 | 2025-03-15 |
 | [Visions](https://open.spotify.com/track/2u1yvW3lL5tflC0isyIFKF) | [Pablo Bravas](https://open.spotify.com/artist/792OYnsrG3nrC4HDDSEwpq) | [Visions](https://open.spotify.com/album/5wS7R350UnBLfgxYkmlPH6) | 3:06 | 2022-04-15 | 2022-07-28 |

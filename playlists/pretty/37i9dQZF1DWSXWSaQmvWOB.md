@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Curtis Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,939 likes - 106 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,982 likes - 106 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 105 | [Butterflies & Benefits](https://open.spotify.com/track/4DPVHcS064sB0nFEnV0gRa) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Butterflies & Benefits / 4 Letters](https://open.spotify.com/album/5HV0fcZEkyvVOujO7LoiVZ) | 2:51 |
 | 106 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
 
-Snapshot ID: `aELsSwAAAACEteUTjeGEMapT/PNEs5Bg`
+Snapshot ID: `aELsSwAAAACJdf4ICkpskFiXHHEAeG57`

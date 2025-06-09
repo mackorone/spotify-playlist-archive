@@ -3033,6 +3033,32 @@
     },
     {
       "album": {
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "BOMBASTIK<3",
+      "url": "https://open.spotify.com/track/2Kx9AfJPaJib9DwAdDYdB9"
+    },
+    {
+      "album": {
         "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
         "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
       },
@@ -5226,7 +5252,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 192689,
       "name": "Cosas Sencillas",
       "url": "https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE"
@@ -6718,7 +6744,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -15726,7 +15752,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 210000,
       "name": "MENOS EL CORA",
       "url": "https://open.spotify.com/track/52XPchHAfaOGPSV3IdAPzb"
@@ -18842,7 +18868,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 196065,
       "name": "Otros Planes",
       "url": "https://open.spotify.com/track/3YnNJdbJwgJbIY52RqWPVn"
@@ -21526,7 +21552,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"

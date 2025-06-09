@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
-  "num_followers": 298114,
+  "num_followers": 298106,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "donde van los perros",
         "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 154376,
       "name": "un tiro",
       "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Cuando el Circo Llega al Pueblo",
-        "url": "https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 197138,
-      "name": "Cuando el Circo Llega al Pueblo",
-      "url": "https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "Cuando el Circo Llega al Pueblo",
+        "url": "https://open.spotify.com/album/7ud3wKbpM4EqfL182mm1sL"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 197138,
+      "name": "Cuando el Circo Llega al Pueblo",
+      "url": "https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "Escombros",
         "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
-      },
-      "artists": [
-        {
-          "name": "Ultraligera",
-          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
-        }
-      ],
-      "duration_ms": 233751,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "Un Minuto Con Vos",
         "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 245467,
       "name": "Un Minuto Con Vos",
       "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "duration_ms": 233751,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Imit\u00e1ndote",
-        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 174123,
-      "name": "Imit\u00e1ndote",
-      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
         "name": "El Show Debe Continuar",
         "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "F\u00fatbol Rock",
-        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
+        "name": "Imit\u00e1ndote",
+        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 253600,
-      "name": "F\u00fatbol Rock",
-      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
+      "duration_ms": 174123,
+      "name": "Imit\u00e1ndote",
+      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1131,6 +1111,26 @@
       "duration_ms": 256986,
       "name": "Ya No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
+        "name": "F\u00fatbol Rock",
+        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "F\u00fatbol Rock",
+      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
     },
     {
       "added_at": "2025-05-30 04:00:28",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
+        "name": "Noches Largas (feat. Bruses)",
+        "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 189586,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+      "duration_ms": 293866,
+      "name": "Noches Largas (feat. Bruses)",
+      "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
     }
   ],
   "unique_name": "Rock Total",

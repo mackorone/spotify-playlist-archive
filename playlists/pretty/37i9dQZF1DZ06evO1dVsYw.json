@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 576777,
+  "num_followers": 576792,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIvgAAAAADtWYqC2u/APmp1dXAZPdSf",
+  "snapshot_id": "aEOBAAAAAACqQBchGLU0q1xpLlETlM18",
   "tracks": [
     {
       "added_at": null,
@@ -182,11 +182,15 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 159902,
-      "name": "Voc\u00ea Me Deve",
-      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
+      "duration_ms": 76087,
+      "name": "Cores & Valores",
+      "url": "https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ CIA",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 76087,
-      "name": "Cores & Valores",
-      "url": "https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq"
+      "duration_ms": 159902,
+      "name": "Voc\u00ea Me Deve",
+      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 54338,
-      "name": "Eu Te Disse",
-      "url": "https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2"
+      "duration_ms": 67429,
+      "name": "Somos o Que Somos",
+      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 67429,
-      "name": "Somos o Que Somos",
-      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
+      "duration_ms": 54338,
+      "name": "Eu Te Disse",
+      "url": "https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2"
     },
     {
       "added_at": null,

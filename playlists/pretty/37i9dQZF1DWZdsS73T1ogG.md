@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kris R., Hades66, Almighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,193 likes - 158 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,192 likes - 158 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 157 | [La Nueva Religión](https://open.spotify.com/track/5eT32HM36tUYkA8EGsLBbu) | [cybernene](https://open.spotify.com/artist/0frxUwUJIHPXGWZh4bSdYZ), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA), [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v) | [La Nueva Religión](https://open.spotify.com/album/6qUp1mAy85BTvIHdpeaxXg) | 2:25 |
 | 158 | [Rosas](https://open.spotify.com/track/1biS1S1fGITOc1eYBi8t1x) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [Rosas](https://open.spotify.com/album/1RtS4i8Diy3bY26ir0GNrA) | 2:25 |
 
-Snapshot ID: `aENX/AAAAABbC7HHsKta65Lymp3LcLi3`
+Snapshot ID: `aENX/AAAAACi7XjEkF527O8z9HLaxCDd`

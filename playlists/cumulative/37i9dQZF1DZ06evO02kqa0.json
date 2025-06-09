@@ -707,6 +707,36 @@
     },
     {
       "album": {
+        "name": "Maria Callas: Rossini and Donizetti Arias",
+        "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "La figlia del reggimento (1997 - Remaster): Convien partir (Act I)",
+      "url": "https://open.spotify.com/track/2W2hq778KQvcSfpf77eUev"
+    },
+    {
+      "album": {
         "name": "Callas, Maria: Liebeslieder",
         "url": "https://open.spotify.com/album/2rRQVTUpYbphzlaJqUHQx1"
       },
@@ -2126,7 +2156,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 151760,
       "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
       "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"

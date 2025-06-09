@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Aitana en portada.",
-  "num_followers": 35397,
+  "num_followers": 35414,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "Ciudad Amurallada",
         "url": "https://open.spotify.com/album/35zUzylSXNgPJmllVbw6sS"
       },
@@ -623,38 +639,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "Quito",
-        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Quito",
-      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Qu\u00e9 Bien Se Te Ve",
         "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 151747,
       "name": "Qu\u00e9 Bien Se Te Ve",
       "url": "https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Quito",
+        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Quito",
+      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Cuando Te Dejan De Querer",
-        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Cuando Te Dejan De Querer",
-      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Cuando Te Dejan De Querer",
+        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Cuando Te Dejan De Querer",
+      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "\u00bfPor qu\u00e9 no ser amigos?",
-        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Ah\u00ed Est\u00e1s",
         "url": "https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "\u00bfPor qu\u00e9 no ser amigos?",
+        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Por no bailar contigo",
-        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
+        "name": "Contradicci\u00f3n",
+        "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
       "artists": [
         {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
         }
       ],
-      "duration_ms": 188515,
-      "name": "Por no bailar contigo",
-      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
+      "duration_ms": 296613,
+      "name": "Contradicci\u00f3n",
+      "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Contradicci\u00f3n",
-        "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Rigoberta Bandini",
-          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
         }
       ],
-      "duration_ms": 296613,
-      "name": "Contradicci\u00f3n",
-      "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
+        "name": "Pensamientos Intrusivos",
+        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 182841,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6JLLvMvfLjbYl8uoFfxP9B"
+      "duration_ms": 163239,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
     }
   ],
   "unique_name": "Pop Rock Latino",

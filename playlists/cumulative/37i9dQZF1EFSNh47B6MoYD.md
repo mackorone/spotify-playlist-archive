@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 10 hr 31 min
+172 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [No Olvides Recordarme](https://open.spotify.com/track/0bfFHScm3WUO97HTZesaRd) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero](https://open.spotify.com/album/3Ab8HPH5pTgPNjdFOHeTze) | 3:53 | 2023-03-09 |  |
 | [No Se Vale](https://open.spotify.com/track/2DosHRGldnfvuXFoQYrSXV) | [Nell Valenti](https://open.spotify.com/artist/1VKyQ95e14RhR9pkuko3CA) | [Simple](https://open.spotify.com/album/6XYsyIvn46HTqX3JI92HJI) | 3:18 | 2023-03-09 |  |
 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 | 2023-03-09 |  |
+| [No Soy Un Santo](https://open.spotify.com/track/4DxzM4ylCJTj9te1jWIPdG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:57 | 2025-06-08 |  |
 | [Nota 10](https://open.spotify.com/track/3MOu40is7Omfmhkx5zh8Kj) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [EP Z4](https://open.spotify.com/album/3U7lCBWkbwjZhP5UQRm0Vn) | 2:16 | 2023-03-09 |  |
 | [Nube Pasajera \[Nuvem Passageira \(Tão Leve\)\]](https://open.spotify.com/track/0hCqaYcCtkCuncNv868W2j) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:49 | 2023-03-09 |  |
 | [Panamá Mia](https://open.spotify.com/track/17UBnqRCNrqXRLtQizeRAL) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:34 | 2023-03-09 |  |

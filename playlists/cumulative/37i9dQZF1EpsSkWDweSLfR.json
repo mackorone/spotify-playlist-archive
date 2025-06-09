@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "BOY CRAZY.",
+        "url": "https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148619,
+      "name": "BOY CRAZY.",
+      "url": "https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n"
+    },
+    {
+      "album": {
         "name": "BOY CRAZY. (ONLY FIRE SMASH REMIX.)",
         "url": "https://open.spotify.com/album/3koj3KGSIVs7dLLT4xkKsy"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 148619,
       "name": "BOY CRAZY.",
       "url": "https://open.spotify.com/track/69uHbgug9TolmHto7hPYOY"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -1706,6 +1724,32 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv"
+    },
+    {
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Forward From Trini (feat. Skillibeng & Skeng)",
+      "url": "https://open.spotify.com/track/0llFq02Nqzra7ZRfSjBxan"
     },
     {
       "album": {
@@ -2280,7 +2324,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 244586,
       "name": "I Almost Do (Taylor's Version)",
       "url": "https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB"
@@ -2562,7 +2606,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
@@ -2674,6 +2718,24 @@
       "duration_ms": 214320,
       "name": "King Of My Heart",
       "url": "https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH"
+    },
+    {
+      "album": {
+        "name": "Kiss Kiss Goodbye",
+        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
+      },
+      "artists": [
+        {
+          "name": "ADONXS",
+          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
+        }
+      ],
+      "date_added": "2025-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176668,
+      "name": "Kiss Kiss Goodbye",
+      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
     },
     {
       "album": {
@@ -3384,7 +3446,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 158586,
       "name": "MONOPOLY (with Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P"
@@ -3420,7 +3482,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3YfHR9NFs5dJP82s5Y0dum"
@@ -4052,7 +4114,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-09",
       "duration_ms": 185940,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"

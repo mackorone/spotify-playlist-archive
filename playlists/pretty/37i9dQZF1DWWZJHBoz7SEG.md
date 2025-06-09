@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Que la temporada se de lluvia pero de canciones chidas en compañía de ARIA BELA
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,586 likes - 67 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,675 likes - 67 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

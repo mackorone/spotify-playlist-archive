@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUi1KTUXbniF.md) - [plain]
 
 > The best of anime, honored\. Listen to the music behind previous Anime Award winners, from 2017\-2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,703 likes - 76 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,773 likes - 76 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUi1KTUXbniF.md) - [plain]
 | 75 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 76 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 |
 
-Snapshot ID: `Z+GPnQAAAABCuBK5uliNIKZBhJEE4R9P`
+Snapshot ID: `Z+GPnQAAAADIJwg6FaCV6DuWMP4nzCyv`

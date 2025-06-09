@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,099 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,056 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Julia's War](https://open.spotify.com/track/3BMOWnSBFfWK6iI215a7sl) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Julia's War](https://open.spotify.com/album/1in6Xa6DMOG9Q9X4P3DeJp) | 3:03 |
 | 80 | [Entertainer](https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Safe](https://open.spotify.com/album/3642b765vQWRQXzDyoPItp) | 3:23 |
 
-Snapshot ID: `AAAAALhIyrRF5/DKBHF4fTxnyn3uk6ZH`
+Snapshot ID: `aEIhdgAAAADOnveUTFgfnJcn7hkqNpj1`
