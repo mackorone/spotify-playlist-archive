@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10937,
+  "num_followers": 10941,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACiNo/e33uqIGt95PrI0w53",
+  "snapshot_id": "aETSgAAAAABQNEYDlxF4ATbGJlpsiUUu",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 369640,
-      "name": "Ashes (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 369640,
+      "name": "Ashes (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Benjamin Walker",
-          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
-        }
-      ],
-      "duration_ms": 198872,
-      "name": "Golden Leaves (feat. Benjamin Walker)",
-      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -559,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Benjamin Walker",
+          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Lullaby of the Giants",
-      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+      "duration_ms": 198872,
+      "name": "Golden Leaves (feat. Benjamin Walker)",
+      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
     },
     {
       "added_at": null,
@@ -587,6 +571,42 @@
       "duration_ms": 197640,
       "name": "Theme from Black Sails",
       "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "The Echo and the River",
+      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
       "duration_ms": 139988,
       "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
       "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Brown",
-          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "The Echo and the River",
-      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "The New Fraser's Ridge",
+      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 190186,
       "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
       "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "The New Fraser's Ridge",
-      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -771,6 +755,46 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Richard Rankin",
+          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+        },
+        {
+          "name": "Sophie Skelton",
+          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+        }
+      ],
+      "duration_ms": 105106,
+      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
+      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
     },
     {
       "added_at": null,
@@ -803,30 +827,6 @@
       "duration_ms": 224760,
       "name": "Echoes of an Old Life",
       "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Richard Rankin",
-          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
-        },
-        {
-          "name": "Sophie Skelton",
-          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
-        }
-      ],
-      "duration_ms": 105106,
-      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
-      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
     },
     {
       "added_at": null,

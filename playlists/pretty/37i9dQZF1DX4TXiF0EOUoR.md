@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,021 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,067 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 47 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
 | 48 | [Chilito Piquín](https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:31 |
 | 49 | [Popurri De Sones Barbaro .\. Son Del Toro / Huitzuqueño / Los Colorados / Las Guacayas](https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 |
-| 50 | [El Olotito](https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G) | [Banda Yurirense](https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4) | [En Vivo...Desde Guanajuato Vol\. 2](https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U) | 2:03 |
-| 51 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
+| 50 | [A Quién No Le Gusta Eso](https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Con Sangre Ranchera](https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4) | 2:16 |
+| 51 | [El Olotito](https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G) | [Banda Yurirense](https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4) | [En Vivo...Desde Guanajuato Vol\. 2](https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U) | 2:03 |
 | 52 | [Sangoloteadito](https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ) | [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Homenaje a un Grande](https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1) | 2:47 |
 | 53 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
 | 54 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
-| 55 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
-| 56 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
+| 55 | [Popurri Sones: Maria Chuchena / Ya Llegué ya Estoy Aquí / Era de Madrugada / Juan Colorado](https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [Una Vez Más](https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe) | 4:20 |
+| 56 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 | 57 | [Oye Traicionera](https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [La Trayectoria! \(De Arturo Camarillo\)](https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir) | 2:44 |
 | 58 | [Los Colorados \(feat\. Banda los Escamilla\)](https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80), [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:47 |
 | 59 | [Arriba Pichataro](https://open.spotify.com/track/4qgZRDRozAvoTiDtvj0qJe) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,779 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,834 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Youngstown](https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 3:52 |
 | 50 | [Wrecking Ball](https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wrecking Ball](https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM) | 5:47 |
 
-Snapshot ID: `aEOBAAAAAADwcGZI34bUEwy6KAs47aLg`
+Snapshot ID: `aETSgAAAAAD0/73rULAahpU7BZ0RdfAW`

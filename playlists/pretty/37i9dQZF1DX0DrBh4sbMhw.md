@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > ang lalim
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,894 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,939 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 4 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 5 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
 | 6 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 7 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
-| 8 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 7 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 8 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 9 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 10 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
 | 11 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |

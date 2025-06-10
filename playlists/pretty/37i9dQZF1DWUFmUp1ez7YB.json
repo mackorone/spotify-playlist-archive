@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. ",
-  "num_followers": 867380,
+  "num_followers": 867768,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Men in Salsa",
-        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Men in Salsa",
+        "url": "https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Vale La Pena (It's Worth It)",
-        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
-      },
-      "artists": [
-        {
-          "name": "La Caro Band",
-          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Amor De Etiqueta",
-      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Vale La Pena (It's Worth It)",
+        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
+      },
+      "artists": [
+        {
+          "name": "La Caro Band",
+          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Amor De Etiqueta",
+      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "14 Ca\u00f1onazos Bailables 2001",
-        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Charanga Moderna",
         "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "14 Ca\u00f1onazos Bailables 2001",
+        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
     },
     {
       "added_at": "2024-06-21 20:58:37",

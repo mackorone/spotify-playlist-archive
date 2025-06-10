@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata \u2728",
-  "num_followers": 332181,
+  "num_followers": 332176,
   "original_name": "Operazione Buonumore",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Look Who's Laughing Now",
-        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Look Who's Laughing Now",
-      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
     },
     {
       "added_at": "2025-05-09 08:11:46",

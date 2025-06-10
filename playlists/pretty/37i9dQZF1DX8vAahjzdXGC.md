@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Sabrina Carpenter, Ed Sheeran, Addison Rae, hingga Mawar de Jongh
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,357 likes - 87 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,391 likes - 87 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 3 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
 | 4 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 |
 | 5 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 |
-| 6 | [Arah Cinta Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Cinta Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
+| 6 | [Arah Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
 | 7 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 |
 | 8 | [Sendirian](https://open.spotify.com/track/1ByCMSi6E4TF8mQn8YdB4R) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Sendirian](https://open.spotify.com/album/1ieXKHJt8uZvcOSZ4hX6oE) | 2:35 |
 | 9 | [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 54 | [DADDY](https://open.spotify.com/track/1GBttialfhJqQKBeleUApL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DADDY](https://open.spotify.com/album/0yERVxWsLb8nZxH2zipHRs) | 2:02 |
 | 55 | [Adore You](https://open.spotify.com/track/1F7m10RKlI7ddbkJtAEnNs) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Adore You](https://open.spotify.com/album/6BbHN6wg5U9BbwYMYdINLk) | 2:54 |
 | 56 | [PAST MISTAKES](https://open.spotify.com/track/2N9Zf42PKiNx1pcZEsnadd) | [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [AGAIN](https://open.spotify.com/album/6FPLfO0fYB3dITCZCLIu7w) | 2:50 |
-| 57 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 57 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 58 | [velvet sunsets](https://open.spotify.com/track/08mSxxh6tQydW7nYICEp4R) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [velvet sunsets](https://open.spotify.com/album/1tSTvdGtPgTOsUlDRrOMsY) | 3:24 |
 | 59 | [Selfish](https://open.spotify.com/track/30YISPDrtL9xKLbDRFUkzd) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Selfish](https://open.spotify.com/album/0isgsltrKdElJbFS6Fj1LF) | 3:03 |
 | 60 | [LIE LIE \(FEAT\. GIRIBOY\)](https://open.spotify.com/track/05myRLCO0MGKql3Xwv4Sqb) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [LIE LIE \(FEAT\. GIRIBOY\)](https://open.spotify.com/album/3GULQ9i3UOxHDAGUEhrbM2) | 3:06 |

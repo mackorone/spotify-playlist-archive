@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Absence of you",
+        "url": "https://open.spotify.com/album/6yaOdUq8wwCwFwz3UuH7SC"
+      },
+      "artists": [
+        {
+          "name": "HYUN JI",
+          "url": "https://open.spotify.com/artist/7GE6yEpYcaLM3nRJ2P4MXR"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260958,
+      "name": "Absence of you",
+      "url": "https://open.spotify.com/track/4z19PamUI2UEEwvNJ2gAqP"
+    },
+    {
+      "album": {
         "name": "Air Con \uc5d0\uc5b4\ucee8",
         "url": "https://open.spotify.com/album/5Qq7LWvoUnJYjuy3Zyg0C8"
       },
@@ -1333,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb"
+      },
+      "artists": [
+        {
+          "name": "iseo",
+          "url": "https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181087,
+      "name": "home town",
+      "url": "https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB"
+    },
+    {
+      "album": {
         "name": "STORY#20",
         "url": "https://open.spotify.com/album/5uelqrTP8JFBoweWwPY4tv"
       },
@@ -1944,10 +1980,28 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 124000,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/0bwvqUG1qgp1DDZBh0aTiL"
+    },
+    {
+      "album": {
+        "name": "melody of LOVE",
+        "url": "https://open.spotify.com/album/0ckTN1RbF46tC87PLSM4vh"
+      },
+      "artists": [
+        {
+          "name": "Jang Pill Soon",
+          "url": "https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254505,
+      "name": "melody of LOVE",
+      "url": "https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm"
     },
     {
       "album": {
@@ -3844,7 +3898,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 166265,
       "name": "\ub0ae\uc7a0 (feat. \ucd5c\uc2b9\uc544) (prod. Jung Hum)",
       "url": "https://open.spotify.com/track/7fFvQaxIFh8sQbaXdIuINY"
@@ -3934,7 +3988,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 180638,
       "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
       "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"

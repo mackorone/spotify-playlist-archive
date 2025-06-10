@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 266299,
+  "num_followers": 266417,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-06-05 09:35:02",
       "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
+    },
+    {
+      "added_at": "2025-06-05 09:35:02",
+      "album": {
         "name": "Canneto",
         "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 114500,
       "name": "Canneto",
       "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
-    },
-    {
-      "added_at": "2025-06-05 09:35:02",
-      "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2025-06-05 09:35:02",

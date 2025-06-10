@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,237 likes - 90 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,403 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 8 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 |
 | 9 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 10 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 |
-| 11 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
-| 12 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
+| 11 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
+| 12 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
 | 13 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
 | 14 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 15 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 18 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 19 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 20 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
-| 21 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
-| 22 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
+| 21 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
+| 22 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
 | 23 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
 | 24 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 25 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 86 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
 | 87 | [I Want Out](https://open.spotify.com/track/5VZwMq6yaFb04PCTfdNY3K) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. II \(Expanded Edition\)](https://open.spotify.com/album/0C00ibrtAGw59osJUg5qOO) | 4:40 |
 | 88 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 |
-| 89 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
-| 90 | [Killing Me Slowly](https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:57 |
+| 89 | [Killing Me Slowly](https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:57 |
+| 90 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
 
 Snapshot ID: `Z5EW6wAAAADJ/JbblVwXlwrrqlXyuQvc`

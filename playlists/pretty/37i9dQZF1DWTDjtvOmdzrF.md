@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,169 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,232 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 39 | [Asmalibrasi](https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Asmalibrasi](https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw) | 4:14 |
 | 40 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 |
 | 41 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
-| 42 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 |
+| 42 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 |
 | 43 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
 | 44 | [I Just Couldn't Save You Tonight \- Story of Kale \- Original Motion Picture Soundtrack](https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Aurélie](https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH) | [I Just Couldn't Save You Tonight \(Story of Kale \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom) | 3:39 |
 | 45 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 |
@@ -70,17 +70,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 60 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 |
 | 61 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
 | 62 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
-| 63 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
+| 63 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
 | 64 | [I Still Love You](https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:46 |
-| 65 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
+| 65 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
 | 66 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 |
 | 67 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
-| 68 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
-| 69 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
-| 70 | [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
+| 68 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
+| 69 | [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
+| 70 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
 | 71 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
-| 72 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
-| 73 | [Bimbang](https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 3:38 |
+| 72 | [Bimbang](https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 3:38 |
+| 73 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 | 74 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |
 | 75 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
 

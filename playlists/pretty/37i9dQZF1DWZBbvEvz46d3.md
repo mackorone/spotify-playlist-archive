@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,208 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,211 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 46 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
 | 47 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
 | 48 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [KONTRAST](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
-| 49 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
-| 50 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 |
-| 51 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
+| 49 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
+| 50 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
+| 51 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 |
 | 52 | [Miłość miłość](https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Złoto](https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW) | 3:45 |
 | 53 | [Na Chwile](https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Z calych sil](https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj) | 3:49 |
 | 54 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 59 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 60 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
 | 61 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
-| 62 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |
-| 63 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
+| 62 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
+| 63 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |
 | 64 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
 | 65 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róże Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 66 | [Bezdroża \(feat\. Mateusz Ziółko\)](https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS), [Mateusz Ziółko](https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO) | [Tamta dziewczyna](https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN) | 3:42 |

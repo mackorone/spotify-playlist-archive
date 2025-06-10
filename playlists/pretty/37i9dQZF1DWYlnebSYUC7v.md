@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlnebSYUC7v.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:1fRv9jiRIN7zAOSpOfRP73">GEL's<a/> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,594 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,595 likes - 30 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

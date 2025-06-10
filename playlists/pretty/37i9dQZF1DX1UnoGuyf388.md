@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,011 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,019 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

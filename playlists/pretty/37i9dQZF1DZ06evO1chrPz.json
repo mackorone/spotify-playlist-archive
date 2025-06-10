@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 204497,
+  "num_followers": 204504,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAB87lh3uTHAVttO+aacnREy",
+  "snapshot_id": "aETSgAAAAAD8UOo3Obvm4DvVRp8TRbwK",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tend (Live)",
-        "url": "https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX"
-      },
-      "artists": [
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 409414,
-      "name": "Tend - Live",
-      "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -519,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "Tend (Live)",
+        "url": "https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         },
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
-      "duration_ms": 412048,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
+      "duration_ms": 409414,
+      "name": "Tend - Live",
+      "url": "https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 292226,
       "name": "Only Jesus (Instrumental)",
       "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 412048,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 374554,
-      "name": "Dancing on the Waves",
-      "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No One Like The Lord (Live)",
         "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
       },
@@ -631,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 374554,
+      "name": "Dancing on the Waves",
+      "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Want Jesus (Live)",
         "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
@@ -647,46 +647,6 @@
       "duration_ms": 369923,
       "name": "I Want Jesus - Live",
       "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 339041,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
     },
     {
       "added_at": null,
@@ -731,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -771,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
       },
       "artists": [
         {
@@ -780,13 +720,33 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 318115,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -811,6 +771,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 339041,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 318115,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/59vLGHrpzwcwyPbQBG0KZy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -827,6 +827,26 @@
       "duration_ms": 339870,
       "name": "Pieces (Live)",
       "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 526890,
+      "name": "Champion (Live)",
+      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
     },
     {
       "added_at": null,
@@ -867,26 +887,6 @@
       "duration_ms": 293377,
       "name": "Tend",
       "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 526890,
-      "name": "Champion (Live)",
-      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
     },
     {
       "added_at": null,

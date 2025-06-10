@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: MARINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,565 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,529 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [zombie](https://open.spotify.com/track/4jQoYnMDZjOo7TG8WGblMk) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [this doesn't feel like healing](https://open.spotify.com/album/2QxUiTjXvUI8s57sIhFKKj) | 3:15 |
 | 100 | [Paralyzed](https://open.spotify.com/track/5daukHTha42iYpSjSKD3yA) | [Dallas Rodin](https://open.spotify.com/artist/2FE2eCphvCG692DX58OOmw) | [Paralyzed](https://open.spotify.com/album/4lWtdgloy9tjX4ZflBElaa) | 2:45 |
 
-Snapshot ID: `aEJn2QAAAABvr7e4bLuFPNjvhP1aK4qp`
+Snapshot ID: `aEJn2QAAAABMPE+sABm5FVvoJDtskW1u`

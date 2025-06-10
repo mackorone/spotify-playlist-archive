@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,655 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,666 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 22 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
 | 23 | [太陽雨](https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [郁心](https://open.spotify.com/artist/09QyyZF4pquXH58c52YUtp) | [太陽雨](https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u) | 3:36 |
 | 24 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
-| 25 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
+| 25 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 26 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
-| 27 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
-| 28 | [是有你的四季](https://open.spotify.com/track/6Nwn4969rP8bci92ElXoTh) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [是有你的四季](https://open.spotify.com/album/7jhiOIE4tkZxsWNIZgWBCZ) | 3:16 |
-| 29 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
+| 27 | [茧Jian](https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP) | [茧Jian](https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313) | 3:19 |
+| 28 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 |
+| 29 | [是有你的四季](https://open.spotify.com/track/6Nwn4969rP8bci92ElXoTh) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [是有你的四季](https://open.spotify.com/album/7jhiOIE4tkZxsWNIZgWBCZ) | 3:16 |
 | 30 | [infinity 永遠永遠](https://open.spotify.com/track/7LAp8srCLbQdUOpP9w8T2Z) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [黃偉晉](https://open.spotify.com/artist/1LfGS4Ko1gqgvZ8f1hAG7D) | [infinity 永遠永遠](https://open.spotify.com/album/7Lhga1KzTYFXOwQ65wUHfP) | 3:18 |
 | 31 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 32 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 42 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
 | 43 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 44 | [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 |
-| 45 | [無姓同名 \- 劇集《星空下的黑潮島嶼》主題曲 \(華語版\)](https://open.spotify.com/track/79eFc987DIrPd3ML2lLcFD) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [無姓同名 \[劇集《星空下的黑潮島嶼》主題曲 \(華語版\)\]](https://open.spotify.com/album/4EDOvEU9vieFRN6vfqExf0) | 3:34 |
-| 46 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 |
-| 47 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
+| 45 | [習慣後就別說痛了](https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [習慣後就別說痛了](https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl) | 3:52 |
+| 46 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
+| 47 | [無姓同名 \- 劇集《星空下的黑潮島嶼》主題曲 \(華語版\)](https://open.spotify.com/track/79eFc987DIrPd3ML2lLcFD) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [無姓同名 \[劇集《星空下的黑潮島嶼》主題曲 \(華語版\)\]](https://open.spotify.com/album/4EDOvEU9vieFRN6vfqExf0) | 3:34 |
 | 48 | [一起浪費時光的安全感](https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [一起浪費時光的安全感](https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS) | 3:28 |
 | 49 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
 | 50 | [我這個人 \- 《我沒有談的那場戀愛》電影宣傳主題曲](https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我這個人 \(《我沒有談的那場戀愛》電影宣傳主題曲\)](https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep) | 4:50 |

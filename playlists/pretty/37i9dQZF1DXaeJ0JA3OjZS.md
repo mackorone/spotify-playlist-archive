@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,817 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,948 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 44 | [El Texano y el Machete](https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:19 |
 | 45 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
 | 46 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |
-| 47 | [El Caballo Y El Carro](https://open.spotify.com/track/3oFr64S7iJyZ8khHAwXW0P) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [El Caballo Y El Carro](https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e) | 2:29 |
+| 47 | [El Caballo Robado](https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [El Caballo Robado](https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi) | 3:32 |
 | 48 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 |
 | 49 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
-| 50 | [El Caballo Robado](https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [El Caballo Robado](https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi) | 3:32 |
+| 50 | [El Caballo Y El Carro](https://open.spotify.com/track/3oFr64S7iJyZ8khHAwXW0P) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [El Caballo Y El Carro](https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e) | 2:29 |
 | 51 | [Mi Potrillo](https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw) | [Banda Alta Potencia](https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2) | [Mi Potrillo](https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT) | 3:30 |
 | 52 | [Caballos de la Cordada](https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Puente Roto](https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF) | 2:40 |
 | 53 | [Corrido Del Payaso](https://open.spotify.com/track/71aFPlBP9HDFfppHCBv7bL) | [Serapio Ramirez](https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW) | [Corrido Del Payaso](https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i) | 3:26 |

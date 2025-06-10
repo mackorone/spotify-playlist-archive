@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,285 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,307 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 39 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 |
 | 40 | [Gigolò \(feat\. Sfera Ebbasta & Capo Plaza\)](https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:44 |
 | 41 | [BIKINI \(feat\. Guè\)](https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 1:59 |
-| 42 | [VRP](https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:28 |
-| 43 | [Rimango free \(feat\. Tony Effe\)](https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:38 |
+| 42 | [Rimango free \(feat\. Tony Effe\)](https://open.spotify.com/track/6wLIy4qWNlG3RN3jhMDaky) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:38 |
+| 43 | [VRP](https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:28 |
 | 44 | [Codeine \(feat\. ANNA\)](https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:10 |
 | 45 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 |
 | 46 | [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |

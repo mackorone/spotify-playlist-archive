@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: DERBY
 
-3,285 songs - 7 day 13 hr 37 min
+3,286 songs - 7 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1599,6 +1599,7 @@
 | [La nuit](https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [La nuit](https://open.spotify.com/album/5FGyf0eRWDMEQ22dxUKwVP) | 3:41 | 2022-06-08 | 2022-06-30 |
 | [Laced](https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Laced](https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr) | 3:21 | 2024-01-10 | 2024-02-08 |
 | [Lago Maggiore](https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Nordic Machine](https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI) | 2:58 | 2025-05-14 |  |
+| [Lala](https://open.spotify.com/track/0PCB6i5MHdB94K3gEFvn2Q) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Lala](https://open.spotify.com/album/18MOovkpxIHWOSMB37PGKf) | 2:28 | 2025-06-09 |  |
 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 | 2024-10-23 | 2024-12-05 |
 | [LaSenza](https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6) | [Jordel](https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h) | [LaSenza](https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc) | 2:10 | 2023-05-10 | 2023-06-15 |
 | [Last Cigarette](https://open.spotify.com/track/03VLqh2sl2rktfvXn3BxnF) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [Last Cigarette](https://open.spotify.com/album/2D1DsRRMYLKw1xirfx0Upn) | 3:04 | 2024-07-17 | 2024-08-08 |

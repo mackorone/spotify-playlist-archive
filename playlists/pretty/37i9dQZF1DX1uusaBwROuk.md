@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,145 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,135 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 3 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 4 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 5 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 |
-| 6 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
+| 6 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 7 | [What A Shame](https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:57 |
-| 8 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 8 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
 | 9 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 10 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 11 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |

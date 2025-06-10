@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,169 likes - 32 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,175 likes - 32 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 20 | [DONT WANT IT](https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:10 |
 | 21 | [RIGHT THERE!](https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [RIGHT THERE!](https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso) | 3:18 |
 | 22 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
-| 23 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 |
+| 23 | [BIG DUMMY!](https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:05 |
 | 24 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 |
-| 25 | [BIG DUMMY!](https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:05 |
+| 25 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 |
 | 26 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
-| 27 | [SWISH](https://open.spotify.com/track/3yFGk28PqlcjYu7dxA2fTY) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SWISH](https://open.spotify.com/album/0yIBwiuxmH7yAtIYBZFGbS) | 3:41 |
-| 28 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
-| 29 | [DREAMBOY](https://open.spotify.com/track/2UNrGCSaMhtIY22gaiQuGm) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:35 |
+| 27 | [DREAMBOY](https://open.spotify.com/track/2UNrGCSaMhtIY22gaiQuGm) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:35 |
+| 28 | [SWISH](https://open.spotify.com/track/3yFGk28PqlcjYu7dxA2fTY) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SWISH](https://open.spotify.com/album/0yIBwiuxmH7yAtIYBZFGbS) | 3:41 |
+| 29 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
 | 30 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 |
 | 31 | [Kick It](https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:21 |
 | 32 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/3WuWoY8tx0ySmCd5ErgEiF) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:31 |
 
-Snapshot ID: `aEOBAAAAAAA0/JbLJZ8uuBSj+VBF3hIw`
+Snapshot ID: `aETSgAAAAABAxc+b4El5RsbIrR/uEKnf`

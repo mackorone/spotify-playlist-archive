@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 925200,
+  "num_followers": 925407,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2025-05-27 19:02:51",
       "album": {
-        "name": "COM MEDO!",
-        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        }
-      ],
-      "duration_ms": 69736,
-      "name": "COM MEDO!",
-      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
-    },
-    {
-      "added_at": "2025-05-27 19:02:51",
-      "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 185245,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
+    },
+    {
+      "added_at": "2025-05-27 19:02:51",
+      "album": {
+        "name": "COM MEDO!",
+        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "duration_ms": 69736,
+      "name": "COM MEDO!",
+      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
     },
     {
       "added_at": "2025-05-27 19:02:51",
@@ -767,18 +767,26 @@
     {
       "added_at": "2025-05-27 19:02:51",
       "album": {
-        "name": "MONTAGEM TOMADA",
-        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
+        "name": "CORRUP\u00c7\u00c3O FUNK",
+        "url": "https://open.spotify.com/album/1Pp1ulBgbbDiKTr2LgPiZa"
       },
       "artists": [
         {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+          "name": "zxnc.",
+          "url": "https://open.spotify.com/artist/0z9ZCh4EXDX3iXuw7QGiLp"
+        },
+        {
+          "name": "DARKANASE",
+          "url": "https://open.spotify.com/artist/3FUCRB0hJhe9BrXW1yonDh"
+        },
+        {
+          "name": "NTPV",
+          "url": "https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ"
         }
       ],
-      "duration_ms": 71392,
-      "name": "MONTAGEM TOMADA",
-      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
+      "duration_ms": 134526,
+      "name": "CORRUP\u00c7\u00c3O FUNK",
+      "url": "https://open.spotify.com/track/1t1Ko5fJw2Pbd7C65nUKbO"
     }
   ],
   "unique_name": "gymcore",

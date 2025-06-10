@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,956 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,955 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 22 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 |
 | 23 | [Deus no Controle](https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:51 |
 | 24 | [A Alma Abatida \- Ao Vivo](https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Palavra Tocada](https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo) | [A Alma Abatida \(Ao Vivo\)](https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ) | 4:36 |
-| 25 | [Vou Glorificar](https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:44 |
+| 25 | [Bondade de Deus \(Goodness of God\) \- Ao Vivo](https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Bondade de Deus \(Goodness of God\) \[Ao Vivo\]](https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy) | 5:29 |
 | 26 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
-| 27 | [Bondade de Deus \(Goodness of God\) \- Ao Vivo](https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Bondade de Deus \(Goodness of God\) \[Ao Vivo\]](https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy) | 5:29 |
+| 27 | [Vou Glorificar](https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:44 |
 | 28 | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH) | 5:06 |
 | 29 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
 | 30 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [O Nome Santo de Jesus / Jesus \(Ao Vivo\)](https://open.spotify.com/track/2mqBuUEOPI9dq3jkhPJbvk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Nome Santo de Jesus / Jesus \(Ao Vivo\)](https://open.spotify.com/album/44SugMMq21GWWpPkgP7c60) | 5:30 |
 | 50 | [Tu És Bom \(Em Todo o Tempo\)](https://open.spotify.com/track/6Aj8jLNU5ZY699OxF21e6S) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Tu És Bom \(Em Todo o Tempo\)](https://open.spotify.com/album/4hzusKWfCutuWPYLS118Lt) | 5:52 |
 
-Snapshot ID: `aEOBAAAAAAAgX5xtrX3rh9VtKd6+08Z9`
+Snapshot ID: `aETSgAAAAAA88jDjtbWoPkH8l+0cexCc`

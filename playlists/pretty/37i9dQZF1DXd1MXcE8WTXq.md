@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 
 > Throwing it back with these summer classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,628 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,155 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 | 21 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 22 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 23 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 24 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
-| 25 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
+| 24 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
+| 25 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 26 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
 | 27 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 28 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:21 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 | 40 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
 | 41 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 42 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
-| 43 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 |
-| 44 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
+| 43 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
+| 44 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 |
 | 45 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 |
 | 46 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
 | 47 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |

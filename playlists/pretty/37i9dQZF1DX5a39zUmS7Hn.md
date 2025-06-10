@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,318 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,435 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 14 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 |
 | 15 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
 | 16 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 |
-| 17 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
-| 18 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
+| 17 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
+| 18 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
 | 19 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 |
 | 20 | [Slide Away](https://open.spotify.com/track/2iDM76B3zHr6khKkiX4vUr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U) | 6:32 |
 | 21 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 |
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 25 | [You're Still The One](https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:32 |
 | 26 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 27 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 |
-| 28 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
-| 29 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
+| 28 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 |
+| 29 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 30 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 | 31 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 32 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
-| 33 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
-| 34 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 33 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
+| 34 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 | 35 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 |
 | 36 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 |
 | 37 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 75 | [Little By Little](https://open.spotify.com/track/45AQ5zbSJ0j1nM9daSWeq8) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:52 |
 | 76 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 |
 | 77 | [Rocket](https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Rocket](https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB) | 2:46 |
-| 78 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
-| 79 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
+| 78 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
+| 79 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
 | 80 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
 
 Snapshot ID: `aDCFSAAAAACMkGJALguQODSD/XX0FNMC`

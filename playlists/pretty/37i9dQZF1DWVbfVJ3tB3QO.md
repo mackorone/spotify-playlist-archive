@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,529 likes - 79 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,548 likes - 79 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 78 | [The Faun enters the New Age](https://open.spotify.com/track/0bB2ppfeVZEZJOHKYaXqLS) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [Midnight Magic](https://open.spotify.com/album/0Q4wxYt0XEQivBsu6dTwjE) | 3:13 |
 | 79 | [Space Fruit Vineyard \- Gabe Gurnsey Remix](https://open.spotify.com/track/1DPHnMXpnwaTgne4oLkcry) | [Japanese Television](https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW), [Gabe Gurnsey](https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu) | [Space Fruit Vineyard \(Remixed\)](https://open.spotify.com/album/3XY21xmQRlD0p1df67OSPl) | 3:40 |
 
-Snapshot ID: `Z23uIgAAAADEohkpPf2lUfBEXMp53nHl`
+Snapshot ID: `Z23uIgAAAAA9xSgzT1z8YqdtGneqtL4P`

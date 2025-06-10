@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,680 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,681 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

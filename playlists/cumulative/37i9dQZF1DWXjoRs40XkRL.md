@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-372 songs - 1 day 10 hr 54 min
+373 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 | 2023-10-06 | 2025-03-09 |
 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 | 2022-05-17 | 2023-03-23 |
 | [Ambwa Ki Dariyon Pe](https://open.spotify.com/track/5dQ806Bsw67JKwv26QotBc) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Ambwa Ki Dariyon Pe](https://open.spotify.com/album/5IamEGy2JfRTxBJ0KOnDF6) | 4:28 | 2024-07-17 | 2024-08-23 |
-| [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 | 2025-01-06 |  |
+| [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 | 2025-01-06 | 2025-06-10 |
 | [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2022-05-17 | 2024-01-11 |
 | [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
 | [Ayo Re Piya](https://open.spotify.com/track/0cLgJkzeDuo6odNPMpGCvx) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Ayo Re Piya](https://open.spotify.com/album/5GIlIfucq3g5gjnhUMoKBS) | 3:50 | 2024-05-28 | 2025-01-07 |
@@ -334,6 +334,7 @@
 | [Salone Saajna](https://open.spotify.com/track/5tTcuW58yh5FNVgbUGgpvr) | [Khushboo Jain](https://open.spotify.com/artist/2M8ZZEQdxPXHTee5xxkC3M) | [Salone Saajna](https://open.spotify.com/album/77iGFlDH9Te6CuiMGeY6Qe) | 3:39 | 2025-02-24 | 2025-03-17 |
 | [Samjha Toh Kar](https://open.spotify.com/track/6iaaxYDkrIT1wmNkCkiue8) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Samjha Toh Kar](https://open.spotify.com/album/0JcvVumxHj4S3QPuK9mAIg) | 4:02 | 2023-03-20 | 2024-08-19 |
 | [Samjha Toh Kar](https://open.spotify.com/track/2UJGpJz5if0Qt4ZoWedOlF) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Aalok Shrivastav](https://open.spotify.com/artist/41R59MbdpXbvt7Dp8Z9S7c) | [Samjha Toh Kar](https://open.spotify.com/album/02ygQ6Lz199rzGqOc2tRHE) | 4:02 | 2024-02-07 | 2024-04-19 |
+| [Sanson Ki Maala](https://open.spotify.com/track/616NQu01E3j5cLkVQZiIbn) | [Pooja Gaitonde](https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW), [Cosmic Yatra](https://open.spotify.com/artist/1jEXnJtMrL5J5pW0Fo94x8) | [Sanson Ki Maala](https://open.spotify.com/album/1pQakTT9T8WMWsA0gaQQRX) | 3:23 | 2025-06-06 |  |
 | [Savare Aai Jaiyo](https://open.spotify.com/track/1XsInKRQXqV1gY1n98iwuk) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/3ACdaHL57xN3Raw94p20J0) | 3:22 | 2023-03-09 | 2024-01-03 |
 | [Savare Aai Jaiyo](https://open.spotify.com/track/3cOcnWHVHSsuWcnTI1TU1j) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/2YCuEMNmv4wSIUHdLdYg9B) | 3:22 | 2023-12-15 | 2024-02-27 |
 | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/track/5u7aZdRS6KBP8vdRhd8etB) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/album/0ZaSyTUqD655XTCvaU8Ejs) | 2:45 | 2023-01-10 | 2023-09-06 |

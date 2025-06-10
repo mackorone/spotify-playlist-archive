@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,787 likes - 65 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,876 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 | 64 | [Eve, Psyche & the Bluebeard’s wife \(feat\. UPSAHL\)](https://open.spotify.com/track/2KsiPmkW27MalI0SqC64eI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Eve, Psyche & the Bluebeard’s wife \(feat\. UPSAHL\)](https://open.spotify.com/album/3Nu8JF8Jxcn4hVm5wrL7SB) | 3:06 |
 | 65 | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) | 3:06 |
 
-Snapshot ID: `aCNCfgAAAADW0sVE6fWsBlEfXHBznHBX`
+Snapshot ID: `aCNCfgAAAAANH0G99gp6Ws3uzqTOEgUt`

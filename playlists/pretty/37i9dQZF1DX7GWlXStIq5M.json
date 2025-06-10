@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: HODARI",
-  "num_followers": 371382,
+  "num_followers": 371371,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "Falo Demais",
-        "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 171951,
-      "name": "Falo Demais",
-      "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "Megalomania",
         "url": "https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 159637,
       "name": "Pelo Avesso",
       "url": "https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "Falo Demais",
+        "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 171951,
+      "name": "Falo Demais",
+      "url": "https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "POR QUE VOC\u00ca FOI EMBORA?",
-        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
-      },
-      "artists": [
-        {
-          "name": "Nanasai",
-          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
-        }
-      ],
-      "duration_ms": 219567,
-      "name": "POR QUE VOC\u00ca FOI EMBORA?",
-      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "na minha mente",
         "url": "https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 132571,
       "name": "na minha mente",
       "url": "https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "POR QUE VOC\u00ca FOI EMBORA?",
+        "url": "https://open.spotify.com/album/0FZtyjxOUzRaGfIQoWaFMr"
+      },
+      "artists": [
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        }
+      ],
+      "duration_ms": 219567,
+      "name": "POR QUE VOC\u00ca FOI EMBORA?",
+      "url": "https://open.spotify.com/track/5ZWbAgMbFbhApQlHVZOFMy"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "BAILA",
-        "url": "https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO"
-      },
-      "artists": [
-        {
-          "name": "Giovanna",
-          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
-        },
-        {
-          "name": "Chiara",
-          "url": "https://open.spotify.com/artist/1Yx4WtuPLiaCilNXYavaAe"
-        }
-      ],
-      "duration_ms": 191241,
-      "name": "BAILA",
-      "url": "https://open.spotify.com/track/4cAiOVTFCvEzzlxKNXbzWu"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "Vis\u00f5es",
         "url": "https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 159117,
       "name": "Vis\u00f5es",
       "url": "https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "BAILA",
+        "url": "https://open.spotify.com/album/5KwNkyLuja4FqqrQ9M8chO"
+      },
+      "artists": [
+        {
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
+        },
+        {
+          "name": "Chiara",
+          "url": "https://open.spotify.com/artist/1Yx4WtuPLiaCilNXYavaAe"
+        }
+      ],
+      "duration_ms": 191241,
+      "name": "BAILA",
+      "url": "https://open.spotify.com/track/4cAiOVTFCvEzzlxKNXbzWu"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh"
+      },
+      "artists": [
+        {
+          "name": "Carol Juno",
+          "url": "https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "Raro Veneno",
         "url": "https://open.spotify.com/album/18Nne0ZS8Jbml04xfPMOOY"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 178909,
       "name": "Raro Veneno",
       "url": "https://open.spotify.com/track/3p9bcUtb4FLdnKQnF0Elos"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "Favorito",
-        "url": "https://open.spotify.com/album/39j4rGhnwQVVKAvoJ8twQh"
-      },
-      "artists": [
-        {
-          "name": "Carol Juno",
-          "url": "https://open.spotify.com/artist/0ZzpPeTJVwnXQxopS34zSB"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/4JJL1d9aXoFQHFWyn6CpAH"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
-        "name": "c\u00edtrico",
-        "url": "https://open.spotify.com/album/76jsaicEyFkyxjjzl4XQIt"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        }
-      ],
-      "duration_ms": 158649,
-      "name": "caos gostoso",
-      "url": "https://open.spotify.com/track/0X883Y0HeyYfxjvl5N30Bb"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
         "name": "TEORIA DO CAOS",
         "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 205714,
       "name": "A GENTE SE FERRA JUNTO",
       "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
+        "name": "c\u00edtrico",
+        "url": "https://open.spotify.com/album/76jsaicEyFkyxjjzl4XQIt"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        }
+      ],
+      "duration_ms": 158649,
+      "name": "caos gostoso",
+      "url": "https://open.spotify.com/track/0X883Y0HeyYfxjvl5N30Bb"
     },
     {
       "added_at": "2025-05-30 03:00:13",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-05-30 03:00:13",
       "album": {
+        "name": "Cena 1",
+        "url": "https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "duration_ms": 202549,
+      "name": "INFAME",
+      "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
+    },
+    {
+      "added_at": "2025-05-30 03:00:13",
+      "album": {
         "name": "7AM",
         "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 140930,
       "name": "Pra te amar as vezes",
       "url": "https://open.spotify.com/track/7kkHKnWWTKAq1pHOxXVtOF"
-    },
-    {
-      "added_at": "2025-05-30 03:00:13",
-      "album": {
-        "name": "Cena 1",
-        "url": "https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "INFAME",
-      "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
     },
     {
       "added_at": "2025-05-30 03:00:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 66040,
+  "num_followers": 66058,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACt3SUd+AELSw5MGQDuDYFG",
+  "snapshot_id": "aETSgAAAAAAVdmqDBR1v8imQx58DrT+r",
   "tracks": [
     {
       "added_at": null,
@@ -499,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Amor Imposible",
-      "url": "https://open.spotify.com/track/6QxIAW54300NHUEpSCOfRq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -559,6 +527,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Amor Imposible",
+      "url": "https://open.spotify.com/track/6QxIAW54300NHUEpSCOfRq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Evolucion De Una Estrella",
         "url": "https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl"
       },
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alguien Dijo",
-        "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
       "artists": [
-        {
-          "name": "Traviezoz de la Zierra",
-          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
-        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 137887,
-      "name": "Alguien Dijo",
-      "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
+      "duration_ms": 136760,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+        "name": "Alguien Dijo",
+        "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
       },
       "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 136760,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
+      "duration_ms": 137887,
+      "name": "Alguien Dijo",
+      "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encerrado",
+        "url": "https://open.spotify.com/album/4JVfUUu3vUOSmJUcAXPojc"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Encerrado",
+      "url": "https://open.spotify.com/track/0hfttS4hquzQZLZ38jwd66"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concedeme",
         "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 192946,
       "name": "Alla En El Rancho Grande",
       "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encerrado",
-        "url": "https://open.spotify.com/album/4JVfUUu3vUOSmJUcAXPojc"
-      },
-      "artists": [
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Encerrado",
-      "url": "https://open.spotify.com/track/0hfttS4hquzQZLZ38jwd66"
     },
     {
       "added_at": null,

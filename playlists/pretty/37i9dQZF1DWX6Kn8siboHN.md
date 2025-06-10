@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,658 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,908 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 28 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
 | 29 | [Mi Casa Nueva](https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:50 |
 | 30 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
-| 31 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
+| 31 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
 | 32 | [Voy A Llorar Por Ti](https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 2:45 |
 | 33 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 |
 | 34 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 43 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 |
 | 44 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 45 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
-| 46 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
-| 47 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
+| 46 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
+| 47 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 48 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 49 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 |
 | 50 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 111 | [Flor De Capomo](https://open.spotify.com/track/0yJPBuuvvstUhx4gfjAFTr) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Flor De Capomo](https://open.spotify.com/album/0qXYL3wUOR1QpdSbJQwXIK) | 2:48 |
 | 112 | [Alma Enamorada](https://open.spotify.com/track/1ZsR2xBtTRG1y9Xu2TLgDn) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Alma Enamorada](https://open.spotify.com/album/1y8Ha4gflL877QQ1MViILD) | 2:55 |
 | 113 | [Celos De Ti](https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos, Vol\. 2](https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv) | 4:15 |
-| 114 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
+| 114 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
 | 115 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 |
 | 116 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
 | 117 | [Prenda Del Alma](https://open.spotify.com/track/2H83T51ahRk16QOyjsLxvx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW) | 3:20 |

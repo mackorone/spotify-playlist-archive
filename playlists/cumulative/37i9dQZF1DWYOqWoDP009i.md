@@ -2,9 +2,9 @@
 
 ### [I Love My 70s Funk](https://open.spotify.com/playlist/37i9dQZF1DWYOqWoDP009i)
 
-> The best and finest 70s Funk\. Cover: Kool & The Gang.
+> The best and finest 70s Funk\. Cover: Sly Stone
 
-133 songs - 10 hr 32 min
+134 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Evil Vibrations](https://open.spotify.com/track/0RRpaBTAuZWFQlbFmKKdhL) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Help Us Spead the Message](https://open.spotify.com/album/5mVXKS05z5j74bpq26mE6E) | 3:45 | 2020-12-01 |  |
 | [Evil Vibrations](https://open.spotify.com/track/7Mejr45Z682u03XdAMVhwB) | [The Mighty Ryeders](https://open.spotify.com/artist/75gQ7DppTybJkSbxlwmkvo) | [Best of Solid Disco](https://open.spotify.com/album/4qVWZbWVwc8D7NSURyQUBI) | 3:45 | 2020-12-01 | 2022-08-29 |
 | [Evolution](https://open.spotify.com/track/60lRT01X553ode0LvndRf0) | [Magnum](https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP) | [Fully Loaded](https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV) | 5:50 | 2020-12-01 |  |
+| [Family Affair \- Single Version](https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 3:05 | 2025-06-09 |  |
 | [Family Tree](https://open.spotify.com/track/26ugarT7QUKgYO4vpAKPOc) | [Family Tree](https://open.spotify.com/artist/4gHOxcbbiAL2a560mYe1qt), [Sharon Brown](https://open.spotify.com/artist/5kpZHJtnWFKx8bvyvVgDdS) | [Family Tree](https://open.spotify.com/album/0vXkKhMMruiG4ATko8p2oJ) | 2:58 | 2020-12-01 |  |
 | [Fire](https://open.spotify.com/track/01kmJXmeQaNlSZFRyFlSmz) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Gold](https://open.spotify.com/album/4v80iarAuD237H08zEhDkP) | 4:24 | 2020-12-01 |  |
 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 | 2020-12-01 |  |
@@ -118,7 +119,7 @@
 | [Spanish Hustle](https://open.spotify.com/track/0x50cjhH4hHS1GnVQ2YckR) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Raising Hell](https://open.spotify.com/album/2MyvNr8YcohrQASCbjAHiG) | 5:15 | 2020-12-01 | 2024-04-19 |
 | [Spanish Hustle](https://open.spotify.com/track/6WExzgZA6BTPxdeguZRK5h) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Raising Hell](https://open.spotify.com/album/0UnEovN57bF8jvNSrzIl9k) | 5:15 | 2020-12-01 |  |
 | [Stella](https://open.spotify.com/track/5toCGMeGM6SNSXZWrvE5YV) | [Bridge](https://open.spotify.com/artist/4PpzoPLf3OsCHtcmp2nWgD) | [Crying for Love](https://open.spotify.com/album/0zu2QK68l2znILZ6tTXxB3) | 3:36 | 2020-12-01 |  |
-| [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-12-01 |  |
+| [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-12-01 | 2025-06-10 |
 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/6NwWxEMDWXCUeNLeAtqIn9) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 | 2020-12-01 |  |
 | [The Old One, Two](https://open.spotify.com/track/4cNxF2MBn9pYLBzcBDXQXl) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Ramp: The Old One, Two](https://open.spotify.com/album/74bV8EHp51Lr9e3LkD9QsT) | 3:17 | 2020-12-01 |  |
 | [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-12-01 |  |

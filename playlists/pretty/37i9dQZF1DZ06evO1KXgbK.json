@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 252963,
+  "num_followers": 252973,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAlAc/Y3u0U2v+y71/x376X",
+  "snapshot_id": "aETSgAAAAAD3No+nwR7yJFGrOWrPQeRT",
   "tracks": [
     {
       "added_at": null,
@@ -231,30 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
-      "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 216573,
       "name": "Wildflowers - 2015 Remaster",
       "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
+      "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
     },
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Make Old Friends",
-        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
-      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 227013,
       "name": "To Know Him Is to Love Him - 2015 Remaster",
       "url": "https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Can't Make Old Friends",
+        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
+      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Tennessee Mountain Home",
-        "url": "https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "My Tennessee Mountain Home",
-      "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+        "name": "My Tennessee Mountain Home",
+        "url": "https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
+      "duration_ms": 187560,
+      "name": "My Tennessee Mountain Home",
+      "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
       "duration_ms": 131893,
       "name": "Jolene (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
+      },
+      "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 191928,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
-      },
-      "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
     },
     {
       "added_at": null,
@@ -615,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockstar (Deluxe)",
+        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 339322,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eagle When She Flies",
         "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 140733,
       "name": "Love Is Like a Butterfly",
       "url": "https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rockstar (Deluxe)",
-        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 339322,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Hundred Highways (Extended Edition)",
         "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 235053,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
     },
     {
       "added_at": null,
@@ -879,6 +859,26 @@
       "duration_ms": 257372,
       "name": "The Story",
       "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,917 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 |
-| 2 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 |
-| 3 | [Wild Side](https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 2:38 |
+| 2 | [Wild Side](https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 2:38 |
+| 3 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 |
 | 4 | [Wild Side \-Anime Ver.\-](https://open.spotify.com/track/2JMs2Yw7li3OyszcS0TrxN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side \-Anime Ver.\-](https://open.spotify.com/album/281zFayPlwwMGOj48wYnYt) | 1:29 |
 | 5 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
 | 6 | [Professionalism](https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [Professionalism](https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1) | 4:52 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 37 | [LONELY LONELY](https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [LONELY LONELY](https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z) | 4:37 |
 | 38 | [THE SWEETEST TABOO](https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 4:26 |
 | 39 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 |
-| 40 | [FOUND BLUE](https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:49 |
-| 41 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 |
+| 40 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 |
+| 41 | [FOUND BLUE](https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:49 |
 | 42 | [GABBA GABBA HEY HEY](https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:14 |
 | 43 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 |
 | 44 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 48 | [Jungle Love（Instrumental）](https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 |
 | 49 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 |
 
-Snapshot ID: `aEOBAAAAAACXFPBT7+kk1/J464wTA6ek`
+Snapshot ID: `aETSgAAAAAB3x5jhPTYZ8trxCINiBlHz`

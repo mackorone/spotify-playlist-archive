@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,058 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,096 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 9 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 |
 | 10 | [Hell Of A Way To Go](https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go](https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf) | 2:46 |
 | 11 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 |
-| 12 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
-| 13 | [Georgia Time](https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Georgia Time](https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts) | 3:41 |
+| 12 | [Georgia Time](https://open.spotify.com/track/5XqHOqbjKb7YsQV6f3eGeD) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Georgia Time](https://open.spotify.com/album/0jj8xYfd6vh54BN4PyuWts) | 3:41 |
+| 13 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
 | 14 | [Damn Good Day To Leave](https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
 | 15 | [Pick A Place](https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:59 |
 | 16 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 |
 | 50 | [If I Didn’t Wear Boots](https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:00 |
 
-Snapshot ID: `aEOBAAAAAADdtjOW8PYv/yT8yvehk+cC`
+Snapshot ID: `aETSgAAAAABFdW3JrT+ZzlEPwM4Af7Bu`

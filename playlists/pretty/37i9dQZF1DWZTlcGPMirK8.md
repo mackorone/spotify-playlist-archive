@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,800 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,801 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 32 | [Chameleon](https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:18 |
 | 33 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
 | 34 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 |
-| 35 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
-| 36 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
+| 35 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
+| 36 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
 | 37 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
 | 38 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
 | 39 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 62 | [Burn](https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Greatest Hits 1994 \- 2004](https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz) | 4:24 |
 | 63 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
 | 64 | [Papercuts \(feat\. Vera Blue\)](https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Two Degrees](https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR) | 4:15 |
-| 65 | [Regular Touch](https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 3:28 |
-| 66 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 |
+| 65 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 |
+| 66 | [Regular Touch](https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 3:28 |
 | 67 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
 | 68 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
 | 69 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |

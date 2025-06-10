@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 681266,
+  "num_followers": 681303,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAkG46R9Ukim3dfjoISQWNX",
+  "snapshot_id": "aETSgAAAAADByhYwOMjekjJo/G0Ws20M",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 188523,
+      "name": "Thru Your Phone",
+      "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 188523,
-      "name": "Thru Your Phone",
-      "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "On Dat Money (with Cardi B) - Bonus",
-      "url": "https://open.spotify.com/track/5RWKa0QLtlf3nZ8WLczt2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -515,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 200205,
-      "name": "I Do (feat. SZA)",
-      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -551,6 +511,26 @@
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
     },
     {
       "added_at": null,
@@ -1075,6 +1055,38 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/1hUWE99C1h8yBHZT8KxP4V"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Black Jonas Point",
+          "url": "https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        },
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        }
+      ],
+      "duration_ms": 374545,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/3DyiAk1BzIF8rq9rimypG4"
     }
   ],
   "unique_name": "This Is Cardi B",

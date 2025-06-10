@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADZAvYEu1awIy4MIMq78aYt",
+  "snapshot_id": "aETSgAAAAABYH3OyLWzW8oOot9lQe49F",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
         "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
       },
@@ -535,8 +515,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
-        "url": "https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT"
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
       "artists": [
         {
@@ -546,27 +546,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
-        },
-        {
-          "name": "Sebasti\u00e1n Silva",
-          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
-        },
-        {
-          "name": "Santiago Achaga",
-          "url": "https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T"
         }
       ],
-      "duration_ms": 173929,
-      "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
-      "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+        "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
+        "url": "https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT"
       },
       "artists": [
         {
@@ -630,11 +614,27 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        },
+        {
+          "name": "Sebasti\u00e1n Silva",
+          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
+        },
+        {
+          "name": "Santiago Achaga",
+          "url": "https://open.spotify.com/artist/20WmAHWxy7rlPV53ypKX8T"
         }
       ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+      "duration_ms": 173929,
+      "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
+      "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
     },
     {
       "added_at": null,

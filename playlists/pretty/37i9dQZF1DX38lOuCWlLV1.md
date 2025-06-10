@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > When you know, you know\. Eclectic love songs with delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,113 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,158 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 13 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 14 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 15 | [True Love](https://open.spotify.com/track/4LtR2SCM4T4jXxLmdmMN5t) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [True Love / Without You \(Alternate Version\)](https://open.spotify.com/album/6ARbKZIMefAeCexsOmZ5AP) | 5:40 |
-| 16 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
+| 16 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
 | 17 | [Life Is](https://open.spotify.com/track/4UwiQ5sB1G8r1pUOOzaeo2) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Life Is](https://open.spotify.com/album/66yx7qJqGDmhIiVWHFLnGF) | 3:08 |
-| 18 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 18 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 19 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 |
 | 20 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
 | 21 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 51 | [Sweet](https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:35 |
 | 52 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 53 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
-| 54 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
-| 55 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 |
+| 54 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 |
+| 55 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 56 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 57 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 58 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 66 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 |
 | 67 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
 | 68 | [Forever Ever After](https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF) | 4:56 |
-| 69 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 70 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
+| 69 | [Oh My Love \- Remastered 2010](https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 2:48 |
+| 70 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 71 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 72 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
 | 73 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
-| 74 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
-| 75 | [Swallowed in the Sea](https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 3:59 |
+| 74 | [Swallowed in the Sea](https://open.spotify.com/track/2u2WL5N3KnQnykOZi3fxL6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 3:59 |
+| 75 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
 
 Snapshot ID: `aD+8TwAAAADuxbvKE3u3LXVdaqwsdZFy`

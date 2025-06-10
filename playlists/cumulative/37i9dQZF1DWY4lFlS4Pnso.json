@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+    },
+    {
+      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
       },
@@ -1830,6 +1852,24 @@
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
     },
     {
       "album": {
@@ -2422,7 +2462,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 240308,
       "name": "Headphones On",
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
@@ -3148,7 +3188,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 157090,
       "name": "Laho II",
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"

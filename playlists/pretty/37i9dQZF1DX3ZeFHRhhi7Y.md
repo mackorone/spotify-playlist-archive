@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: MEOVV\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,193 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,215 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 68 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 69 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
 | 70 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 71 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
-| 72 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 |
+| 71 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 |
+| 72 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 73 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 74 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 75 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 85 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
 | 86 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 | 87 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 |
-| 88 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
-| 89 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
-| 90 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
-| 91 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
+| 88 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 89 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
+| 90 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
+| 91 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
 | 92 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
 | 93 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
 | 94 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 96 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |
 | 97 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 | 98 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 |
-| 99 | [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 |
-| 100 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
+| 99 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
+| 100 | [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 |
 
 Snapshot ID: `aD1ungAAAAAYhNTNJbX6p5HY2HxOIz13`

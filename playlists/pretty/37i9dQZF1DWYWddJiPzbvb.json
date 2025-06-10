@@ -1,6 +1,6 @@
 {
   "description": "Chilled songs that you are familiar with - no surprises!",
-  "num_followers": 2118669,
+  "num_followers": 2118980,
   "original_name": "Comfort Zone",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 210090,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 210090,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -1695,6 +1711,22 @@
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1719,38 +1751,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 225300,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Earned It (Fifty Shades Of Grey) [From The \"Fifty Shades Of Grey\" Soundtrack]",
         "url": "https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 252226,
       "name": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/2PIvq1pGrUjY007X5y1UpM"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 225300,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 258026,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 216480,
       "name": "Empire State of Mind (Part II) Broken Down",
       "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
     },
     {
       "added_at": "2024-09-13 18:52:50",

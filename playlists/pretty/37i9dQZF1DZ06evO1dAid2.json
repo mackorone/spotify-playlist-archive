@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132065,
+  "num_followers": 132069,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAA78EPMRAHcVwAXzrOLes9m",
+  "snapshot_id": "aETSgAAAAACr79F1s1L0YB4fq9FPhEop",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 151773,
-      "name": "Rock And Roll Music",
-      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Juke Box Hits",
         "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 143306,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Reelin' And Rockin'",
-      "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
+      "duration_ms": 143306,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
       "duration_ms": 163800,
       "name": "Little Queenie",
       "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Reelin' And Rockin'",
+      "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Oh Louisiana",
-      "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 168600,
       "name": "Carol",
       "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Oh Louisiana",
+      "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 185845,
-      "name": "Big Boys",
-      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -363,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
       },
       "artists": [
         {
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 275440,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 142440,
       "name": "Let's Do Our Thing Together",
       "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
     },
     {
       "added_at": null,

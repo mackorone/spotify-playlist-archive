@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Maki
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,575 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,576 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 66 | [ワインディングロード](https://open.spotify.com/track/0zrD38XdjcnWEYqimpUV6s) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ワインディングロード](https://open.spotify.com/album/7Gjyj1I43JmHd86JGDJdOi) | 3:17 |
 | 67 | [南新町](https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [南新町](https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N) | 4:07 |
 | 68 | [挿入歌](https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [挿入歌](https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2) | 2:57 |
-| 69 | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 |
-| 70 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 |
+| 69 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 |
+| 70 | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 |
 | 71 | [パメラ](https://open.spotify.com/track/6HEGbxwJYMtWItvjzeFAxt) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Fall Apart](https://open.spotify.com/album/3lIOBUtWhcp2urQAyErTpg) | 3:18 |
 | 72 | [ツキノフネ](https://open.spotify.com/track/67G4XvHmTW7JKg6YKzPZV2) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [ツキノフネ](https://open.spotify.com/album/3xNmkBhuHL3OIWzavob6OB) | 3:31 |
-| 73 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 |
-| 74 | [ラプソディ](https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [ラプソディ](https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I) | 3:41 |
+| 73 | [ラプソディ](https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [ラプソディ](https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I) | 3:41 |
+| 74 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 |
 | 75 | [奥二重で見る](https://open.spotify.com/track/5OT7zL5hxwq9K0nGEYKS05) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [Catch](https://open.spotify.com/album/5BDVlDH6vXjXNTAvMropw6) | 3:31 |
 | 76 | [銃電中](https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [銃電中](https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw) | 3:31 |
 | 77 | [忘愛](https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [忘愛](https://open.spotify.com/album/1zyInbeCTglw09GThsJMps) | 3:24 |

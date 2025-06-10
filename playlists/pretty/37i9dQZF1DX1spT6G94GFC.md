@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,011,016 likes - 80 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,011,321 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 30 | [Separate Ways \(Worlds Apart\) \[2023 Remaster\]](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 |
 | 31 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 |
 | 32 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
-| 33 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
-| 34 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 |
+| 33 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 |
+| 34 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 35 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 36 | [Hysteria](https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 5:54 |
 | 37 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |

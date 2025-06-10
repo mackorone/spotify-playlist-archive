@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > Celebrating some of the most iconic female voices of all time\. Cover: Cynthia Erivo & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,820,439 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820,476 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
 | 2 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 3 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
-| 4 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 |
+| 4 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 5 | [Give Me Love](https://open.spotify.com/track/3kTKU3tMAm411E7Jo4uTBw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:51 |
-| 6 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
+| 6 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 |
 | 7 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 |
 | 8 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
 | 9 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 12 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 |
 | 13 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 14 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 |
-| 15 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
-| 16 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 15 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
+| 16 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
 | 17 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 18 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 19 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
 | 20 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 21 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 |
-| 22 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
-| 23 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
+| 22 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
+| 23 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
 | 24 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 |
 | 25 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 26 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |

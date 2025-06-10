@@ -4809,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/7HpmGgVcO09i1LMAqMbFbd"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA"
+    },
+    {
+      "album": {
         "name": "WON'T HE DO IT",
         "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
       },
@@ -10252,6 +10270,24 @@
       "duration_ms": 165000,
       "name": "eversince #33",
       "url": "https://open.spotify.com/track/7mItPGi8d8fhWLYeb9jc3r"
+    },
+    {
+      "album": {
+        "name": "every minute, every second, i want everything",
+        "url": "https://open.spotify.com/album/5fLiHeWP0thwxHCaTqOMi0"
+      },
+      "artists": [
+        {
+          "name": "Dwara",
+          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210670,
+      "name": "every minute, every second, i want everything",
+      "url": "https://open.spotify.com/track/7Ajp4pYsHn36jvS7BjDDDB"
     },
     {
       "album": {

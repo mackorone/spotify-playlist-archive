@@ -4,12 +4,12 @@
 
 > Hottest indie sounds from Asia\. Cover: Thịnh Suy \(Vietnam\)
 
-1,970 songs - 4 day 22 hr 57 min
+1,971 songs - 4 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 | 2024-10-08 |
-| [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 | 2025-05-15 |  |
+| [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 | 2025-05-15 | 2025-06-10 |
 | [\(stay here\) for a while](https://open.spotify.com/track/7ITUmCohDlD7B1aNnQUuc5) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [\(stay here\) for a while](https://open.spotify.com/album/2lagvaT1M17CnirnR8OAjS) | 3:40 | 2022-12-15 | 2023-02-17 |
 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-14 | 2023-07-28 |
 | [+B\-3\-X+ \(Perunggu ver.\)](https://open.spotify.com/track/4L6oqjoKS0IlEOwrVjvMAD) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [DIFFERENT](https://open.spotify.com/album/0h7BShQP66wqF0tGgTXl4T) | 3:41 | 2025-03-20 | 2025-04-11 |
@@ -482,6 +482,7 @@
 | [Emi](https://open.spotify.com/track/2LmAkK4Q8ICC4Zjwi88Lfv) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [Emi](https://open.spotify.com/album/0chDoPF513Mifi9TP50kqT) | 4:32 | 2023-12-08 | 2024-02-09 |
 | [Empathy](https://open.spotify.com/track/0smhYLzS4wSETI2ALFrIXr) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Empathy](https://open.spotify.com/album/2SVHt6UvABd7VDnzDIkfB6) | 3:32 | 2023-09-29 | 2023-10-13 |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2023-11-09 | 2023-11-17 |
+| [ENDLESS WAVE \(feat\. Emerson Kitamura\)](https://open.spotify.com/track/6OBmae78FnqBcEwXJEjWCY) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up), [Emerson Kitamura](https://open.spotify.com/artist/2oDfZI1woLIypoYM53lv72) | [ENDLESS](https://open.spotify.com/album/4OPG0aLsr7uyvUUlnf7sas) | 3:26 | 2025-06-09 |  |
 | [Enough For Me](https://open.spotify.com/track/4m9HmldJ0OaaBkvSIFeODT) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Enough For Me](https://open.spotify.com/album/4CA3OcPU9rJP6gV0uF9tTW) | 3:18 | 2024-02-15 | 2024-04-12 |
 | [Entah Sampai Kapan](https://open.spotify.com/track/3SIoZXo5TVkyNqzua1X3SJ) | [Simatakaca](https://open.spotify.com/artist/32eydlLWmEtGzeCe7mGyJm) | [Pesimistik](https://open.spotify.com/album/1IuMn0e4DVNTmDScLBK8w3) | 3:45 | 2023-04-27 | 2023-05-12 |
 | [ENTITY](https://open.spotify.com/track/0OSnnCcaBw6L11YqmSFKfX) | [ATOMIC NO.13](https://open.spotify.com/artist/5E1w3Q83DZT7WavgYQSDF3) | [ENTITY](https://open.spotify.com/album/5vPwa2yaWrKF04FF32VOwK) | 3:27 | 2022-07-22 | 2022-08-19 |

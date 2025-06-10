@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: Campbell Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,387 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,386 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 24 | [When Love Turns to Lies](https://open.spotify.com/track/21fAYsQMr7U08fayOZ0uDQ) | [Rock the Boat](https://open.spotify.com/artist/6thZnAuP1GhobU38ag8ojX) | [When Love Turns to Lies](https://open.spotify.com/album/1NkvaWjfi4X39kI0WkiN2d) | 3:13 |
 | 25 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 | 26 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 |
-| 27 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
+| 27 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 28 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU) | 2:57 |
-| 29 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
+| 29 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
 | 30 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 31 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
 | 32 | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29), [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Bottle Rockets \(feat\. Hootie & The Blowfish\)](https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB) | 3:55 |

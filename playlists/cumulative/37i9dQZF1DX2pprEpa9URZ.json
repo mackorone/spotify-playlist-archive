@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 408000,
       "name": "Dilmano Dilbero - Sariel Orenda Remix",
       "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 198461,
       "name": "Jadal",
       "url": "https://open.spotify.com/track/2dEdNAcicTl5EUefwI87DW"
@@ -5581,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Mendy",
+        "url": "https://open.spotify.com/album/036KVUHoYSZvCHZMoH561d"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354098,
+      "name": "Mendy",
+      "url": "https://open.spotify.com/track/5Q7qGtuvkWMyx0P3wlDIWp"
+    },
+    {
+      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
       },
@@ -6250,6 +6268,28 @@
       "duration_ms": 408800,
       "name": "Niv",
       "url": "https://open.spotify.com/track/1DZ5alireHmDdsOYnwgrlG"
+    },
+    {
+      "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "album": {
@@ -9832,6 +9872,28 @@
       "duration_ms": 454000,
       "name": "Zoo La La",
       "url": "https://open.spotify.com/track/0tPucqttADQgxhUVFNMYYf"
+    },
+    {
+      "album": {
+        "name": "Zula",
+        "url": "https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        },
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130819,
+      "name": "Zula",
+      "url": "https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds"
     },
     {
       "album": {

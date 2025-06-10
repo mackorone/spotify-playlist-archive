@@ -3699,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Da Me",
+        "url": "https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Da Me",
+      "url": "https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0"
+    },
+    {
+      "album": {
         "name": "DALLAX",
         "url": "https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM"
       },
@@ -6584,7 +6602,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 194680,
       "name": "GUAYA",
       "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
@@ -7354,6 +7372,24 @@
       "duration_ms": 198247,
       "name": "KAWAII",
       "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
+    },
+    {
+      "album": {
+        "name": "FERXXO VOL X: Sagrado",
+        "url": "https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179727,
+      "name": "KELOIDE",
+      "url": "https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW"
     },
     {
       "album": {
@@ -9482,6 +9518,28 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "album": {
+        "name": "MATR\u00cdCULA",
+        "url": "https://open.spotify.com/album/3CV7WJea64f27AT5FOQquY"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151062,
+      "name": "MATR\u00cdCULA",
+      "url": "https://open.spotify.com/track/03y73Qqn1MQsquD0WgJsa9"
     },
     {
       "album": {
@@ -13472,7 +13530,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 219491,
       "name": "RMPR T",
       "url": "https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts"
@@ -15112,7 +15170,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 321600,
       "name": "Te Colaboro - Remix",
       "url": "https://open.spotify.com/track/2KZE9HGmohrETJEFb2K5Ek"

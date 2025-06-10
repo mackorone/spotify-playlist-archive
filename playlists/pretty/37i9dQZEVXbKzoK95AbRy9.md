@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,986 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,031 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 |
 | 50 | [Na Imaginação](https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [Na Imaginação](https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE) | 1:54 |
 
-Snapshot ID: `L9kBUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9pQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Música sin etiquetas.<br/>📷 Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,094 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,097 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Veneno](https://open.spotify.com/track/11YOPWfUXX4Q1GNgTNt8oW) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Líneas Generales](https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey) | 2:45 |
 | 100 | [Es Así](https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Es Así](https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb) | 3:27 |
 
-Snapshot ID: `aELsgAAAAADeYdS3m5SbfU0yyrpCUhuG`
+Snapshot ID: `aELsgAAAAABDCBMt/k7klq/zKfJIz385`

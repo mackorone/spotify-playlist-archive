@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 30108,
+  "num_followers": 30114,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABAUqnc8Vwppv1zzKkwDizY",
+  "snapshot_id": "aETSgAAAAACbgMb811IAQzHOJndTjR2J",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154973,
-      "name": "Down In The Bottom - Single Version",
-      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
+      "duration_ms": 167853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154973,
+      "name": "Down In The Bottom - Single Version",
+      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 223946,
       "name": "Rockin' Daddy",
       "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "I'm The Wolf",
+      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 175413,
       "name": "Worried About My Baby",
       "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "I'm The Wolf",
-      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
     },
     {
       "added_at": null,
@@ -639,18 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+      "duration_ms": 311506,
+      "name": "Diddley Daddy",
+      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
     },
     {
       "added_at": null,
@@ -687,26 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
       },
       "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 311506,
-      "name": "Diddley Daddy",
-      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
     },
     {
       "added_at": null,

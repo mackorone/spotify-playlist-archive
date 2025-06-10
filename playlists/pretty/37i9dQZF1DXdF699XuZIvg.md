@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,035 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,022 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 48 | [Walk Idiot Walk](https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 3:31 |
 | 49 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 | 50 | [New Fang](https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 3:48 |
-| 51 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
-| 52 | [Hand In Hand](https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 2:49 |
+| 51 | [Hand In Hand](https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 2:49 |
+| 52 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 53 | [We Rock](https://open.spotify.com/track/6qxi41lmbH35MT29bqlL4k) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last In Line](https://open.spotify.com/album/2Oc6mL1VEuNPUEkbVeN1P0) | 4:33 |
 | 54 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
 | 55 | [Long Live Rock N Roll](https://open.spotify.com/track/2lRhq1ZfHNiaVNHkTWeXUv) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock N Roll \(Deluxe Edition\)](https://open.spotify.com/album/56JX1fNOjTa7Bj7G18nxSq) | 4:21 |

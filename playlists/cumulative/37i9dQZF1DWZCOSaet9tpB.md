@@ -2,9 +2,9 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: Burna Boy
+> Nigeria's hottest tracks\.  Cover: Davido
 
-489 songs - 23 hr 26 min
+490 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Again](https://open.spotify.com/track/1FgJkHwXlg6pzYdueugvzB) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Again](https://open.spotify.com/album/6JGQ7LrsqBTF9p12zMdIfH) | 2:34 | 2024-07-31 | 2024-08-30 |
 | [Again](https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 2:36 | 2021-11-15 | 2023-03-18 |
 | [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-10-25 | 2025-02-27 |
+| [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 | 2025-06-09 |  |
 | [Ale Yi](https://open.spotify.com/track/7G4q3FqZSngbAxGcyyHXlz) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Ale Yi](https://open.spotify.com/album/0pJnSycgzDRYVjH9dIqOYt) | 2:41 | 2021-11-15 | 2022-12-08 |
 | [ALL EYES ON ME](https://open.spotify.com/track/6Fz3JvR8SQxMyRGBSx7mUW) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [ALL EYES ON ME](https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF) | 2:40 | 2023-04-27 | 2023-05-05 |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-05 | 2023-06-10 |
@@ -175,7 +176,7 @@
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-03 | 2023-03-18 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-07 | 2023-09-27 |
-| [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 | 2025-03-31 |  |
+| [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 | 2025-03-31 | 2025-06-10 |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 | 2023-09-27 |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-05-04 | 2023-09-27 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 | 2025-05-23 |
@@ -203,7 +204,7 @@
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 | 2023-09-27 |
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-08 | 2024-07-06 |
 | [HAPPY SONG](https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 1:59 | 2025-03-14 |  |
-| [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 | 2024-11-29 |  |
+| [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 | 2024-11-29 | 2025-06-10 |
 | [HEHEHE](https://open.spotify.com/track/5oUDNEJSEjsVT7LeWya4Gv) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 1:53 | 2024-07-31 | 2024-08-31 |
 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 | 2024-09-09 | 2024-11-16 |
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 | 2024-10-15 |
@@ -402,7 +403,7 @@
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-16 | 2023-06-03 |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-10 | 2023-07-14 |
 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-05-12 | 2025-05-23 |
-| [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-05-12 | 2025-05-23 |
+| [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-05-12 |  |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-24 |  |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2024-04-04 |
 | [Showa](https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:55 | 2024-05-14 | 2024-08-30 |

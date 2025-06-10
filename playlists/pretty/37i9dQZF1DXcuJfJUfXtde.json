@@ -1,6 +1,6 @@
 {
   "description": "\u00e9xitos de regreso",
-  "num_followers": 7727,
+  "num_followers": 7776,
   "original_name": "virales viejitas",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241688,
-      "name": "Take Me To Church",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -387,26 +387,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
-      },
-      "artists": [
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 244884,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -427,22 +407,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
       },
       "artists": [
         {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
         }
       ],
-      "duration_ms": 202093,
-      "name": "Lost in the Fire (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
+      "duration_ms": 244884,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -499,6 +479,26 @@
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Lost in the Fire (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -895,22 +895,18 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 237973,
-      "name": "Hooka",
-      "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -931,18 +927,38 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+      "duration_ms": 237973,
+      "name": "Hooka",
+      "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -963,22 +979,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 116626,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 262706,
       "name": "Como Yo Le Doy - Spanglish Version",
       "url": "https://open.spotify.com/track/5PnEBmCk56RQphcMe7EqhG"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2022-07-26 18:00:55",

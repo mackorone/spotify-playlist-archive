@@ -28995,6 +28995,24 @@
     },
     {
       "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/18MOovkpxIHWOSMB37PGKf"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148455,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/0PCB6i5MHdB94K3gEFvn2Q"
+    },
+    {
+      "album": {
         "name": "Landlord blues",
         "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
       },

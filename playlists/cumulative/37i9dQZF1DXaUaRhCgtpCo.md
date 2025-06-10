@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-170 songs - 9 hr 35 min
+171 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Main Title and The Attack on the Jakku Village](https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 6:25 | 2021-05-14 |  |
 | [March of the Resistance](https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:35 | 2024-05-03 |  |
 | [Meet Han](https://open.spotify.com/track/7BVvVmczBoVmVeWr8KMafb) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 2:20 | 2021-05-14 |  |
+| [NIAMOS! \(Chandrilian Club Mix\) \- From "Andor \(Season 2\)"](https://open.spotify.com/track/2JaWrIAAugnQwuG1OQAB0F) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [NIAMOS! \(Chandrilian Club Mix\) \[From "Andor \(Season 2\)"\]](https://open.spotify.com/album/6KJMLlCBWkB1gSq0cSYnjd) | 4:14 | 2025-06-10 |  |
 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 | 2022-06-28 |  |
 | [Obi\-Wan \- From "Obi\-Wan Kenobi"](https://open.spotify.com/track/0UvXARxghc7E5grZSpGArl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan \(From "Obi\-Wan Kenobi"\)](https://open.spotify.com/album/2rP5W8xXmYH2cKTuZVgPUG) | 4:05 | 2022-05-28 | 2025-05-06 |
 | [Obi\-Wan's Lightsaber](https://open.spotify.com/track/6lFvflA4sin1awe4c1tJue) | [Scott Michael Smith](https://open.spotify.com/artist/4LYiDqIcfoYmeK2JtPq1rh), [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Obi\-Wan Kenobi: A Jedi's Return \(Original Soundtrack\)](https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0) | 1:30 | 2023-02-03 |  |

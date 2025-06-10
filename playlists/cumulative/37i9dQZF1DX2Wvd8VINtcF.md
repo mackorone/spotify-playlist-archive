@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Hannes✨
 
-1,888 songs - 4 day 5 hr 49 min
+1,890 songs - 4 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-03 | 2024-11-15 |
 | [Broken is the man](https://open.spotify.com/track/1RESSkMgG8z9IEPHdBZb43) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Broken is the man](https://open.spotify.com/album/4170VVyEuynNaB1J8ShIgP) | 2:12 | 2023-09-28 | 2023-09-30 |
 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 | 2023-09-29 | 2024-02-23 |
+| [Broken Record](https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Broken Record](https://open.spotify.com/album/7HpmGgVcO09i1LMAqMbFbd) | 3:05 | 2025-06-09 |  |
 | [Brooklyn Chop House](https://open.spotify.com/track/1kswGDQ7SI7LxrCQ3MfSOA) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 4:53 | 2023-05-04 | 2023-06-30 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-09-14 | 2023-10-20 |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-04-27 | 2023-06-09 |
@@ -523,6 +524,7 @@
 | [Even Later](https://open.spotify.com/track/5hZ1lHEFR2rQ7Bp1XkORt0) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [DreamySpaceyBlue \(Remixes\)](https://open.spotify.com/album/4R83p2ruksYfMYQKS9zXWH) | 3:38 | 2024-07-25 | 2024-10-25 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-07-27 |
 | [eversince \#33](https://open.spotify.com/track/7mItPGi8d8fhWLYeb9jc3r) | [Wanhov](https://open.spotify.com/artist/0xflXgmwvaboEXWHNqfEfm), [mii4uu](https://open.spotify.com/artist/44flu06l2sUdD7haEerN0u) | [Oyster](https://open.spotify.com/album/4b9gc81tI6tPc746bHvRiW) | 2:45 | 2023-10-05 | 2023-10-13 |
+| [every minute, every second, i want everything](https://open.spotify.com/track/7Ajp4pYsHn36jvS7BjDDDB) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [every minute, every second, i want everything](https://open.spotify.com/album/5fLiHeWP0thwxHCaTqOMi0) | 3:30 | 2025-06-09 |  |
 | [Every Summer](https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Nation](https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Every Summer](https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm) | 1:51 | 2023-08-31 | 2023-09-22 |
 | [Everyday](https://open.spotify.com/track/2V94jAJE9mICI8n9ZP64OI) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [Everyday](https://open.spotify.com/album/6PYU9bNLqGC86S61RMuW75) | 2:46 | 2023-09-28 | 2024-01-05 |
 | [Everyday](https://open.spotify.com/track/3Yh8wsWL2X9xzznASIpQWh) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello, Everyday Changes](https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw) | 3:47 | 2023-11-02 | 2024-01-26 |

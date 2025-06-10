@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 63274,
+  "num_followers": 63299,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 144280,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
-      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 143760,
       "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
       "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
     },
     {
       "added_at": "2025-01-24 04:00:20",

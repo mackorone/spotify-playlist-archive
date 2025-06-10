@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,974 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,960 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 77 | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Uptown \(feat\. Chy Cartier\)](https://open.spotify.com/album/3JQ5ILpec1hGp59h3dhrzb) | 2:32 |
 | 78 | [Attack The Day](https://open.spotify.com/track/0HlMbPlkBCyuTHuJApOOJ3) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Attack The Day](https://open.spotify.com/album/5pWOcDNcYJXi4hX4I6FBOE) | 3:09 |
 
-Snapshot ID: `aEIheAAAAAAi2sXCKTDS24gGsOHRWP12`
+Snapshot ID: `aEIheAAAAAAraPWs/PuRcI9EMg8kFvFS`

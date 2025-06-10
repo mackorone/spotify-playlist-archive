@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,424 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,506 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
 | 2 | [1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:55 |
 | 3 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
-| 4 | [Kill Yourself \(Part III\)](https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:25 |
-| 5 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 |
+| 4 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 |
+| 5 | [Kill Yourself \(Part III\)](https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:25 |
 | 6 | [Self\-Inflicted](https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Self\-Inflicted](https://open.spotify.com/album/3tDWZZXcpKIKzX35WsqbVT) | 1:27 |
 | 7 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 |
 | 8 | [For the Last Time](https://open.spotify.com/track/240audWazVjwvwh7XwfSZE) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [For the Last Time](https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR) | 2:36 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 36 | [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 |
 | 37 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
 | 38 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 |
-| 39 | [Diemonds](https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 3:12 |
-| 40 | [Champion of Death](https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 1:56 |
+| 39 | [Champion of Death](https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 1:56 |
+| 40 | [Diemonds](https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 3:12 |
 | 41 | [Harvest Moon](https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part IX: The Soulseek Saga](https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd) | 2:16 |
 | 42 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 |
-| 43 | [$outh $ide $uicide](https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:49 |
-| 44 | [Clouds as Witnesses](https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Gray/Grey](https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr) | 2:33 |
+| 43 | [Clouds as Witnesses](https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Gray/Grey](https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr) | 2:33 |
+| 44 | [$outh $ide $uicide](https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:49 |
 | 45 | [LTE](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 |
 | 46 | [Six Lines, Two Dragons, and a Messiah](https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 2:46 |
 | 47 | [Genesis](https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Now I'm Up to My Neck with Offers](https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:47 |
 | 50 | [What the Fuck is Happening](https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 |
 
-Snapshot ID: `aEOBAAAAAADMVS9CU3aAicQqNbf3BUcs`
+Snapshot ID: `aETSgAAAAAApw8c7u4DR/wlIJ/8lzUTj`

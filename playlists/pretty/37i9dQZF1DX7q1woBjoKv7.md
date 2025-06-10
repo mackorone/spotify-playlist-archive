@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Curated by: <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,218 likes - 52 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,240 likes - 52 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 51 | [Do I Love Her](https://open.spotify.com/track/2vHqgbjXTp6aKD0kD2sdhf) | [Suga Free](https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [The Features V.1](https://open.spotify.com/album/3nzuzwXsGS69RGg4xDkCN5) | 4:06 |
 | 52 | [Ratha Be Ya Nigga \(ft\. Richie Rich\)](https://open.spotify.com/track/5hzoEKZvvov9EKzrx419Ys) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:13 |
 
-Snapshot ID: `ZyUHiAAAAAD5EHWmWaI2U58vz/q1lCXH`
+Snapshot ID: `ZyUHiAAAAADMROyC468kQWFC+ltltL4j`

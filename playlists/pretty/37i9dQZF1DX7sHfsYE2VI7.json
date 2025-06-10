@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 66347,
+  "num_followers": 66368,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz"
     },
     {
       "added_at": "2024-12-17 13:01:13",

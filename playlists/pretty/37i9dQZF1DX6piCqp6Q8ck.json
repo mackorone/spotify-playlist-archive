@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 152944,
+  "num_followers": 152934,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-12-20 08:17:05",
       "album": {
+        "name": "Pretty/Groovy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Winter Wonderland - 78 Take",
+      "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
+    },
+    {
+      "added_at": "2024-12-20 08:17:05",
+      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -919,6 +939,38 @@
     {
       "added_at": "2024-12-20 08:17:05",
       "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa"
+      },
+      "artists": [
+        {
+          "name": "Marc & Friends",
+          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
+        }
+      ],
+      "duration_ms": 141621,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z"
+    },
+    {
+      "added_at": "2024-12-20 08:17:05",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+    },
+    {
+      "added_at": "2024-12-20 08:17:05",
+      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -943,58 +995,6 @@
       "duration_ms": 312440,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
-    },
-    {
-      "added_at": "2024-12-20 08:17:05",
-      "album": {
-        "name": "Pretty/Groovy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Winter Wonderland - 78 Take",
-      "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
-    },
-    {
-      "added_at": "2024-12-20 08:17:05",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
-    },
-    {
-      "added_at": "2024-12-20 08:17:05",
-      "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa"
-      },
-      "artists": [
-        {
-          "name": "Marc & Friends",
-          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
-        }
-      ],
-      "duration_ms": 141621,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z"
     },
     {
       "added_at": "2024-12-20 08:17:05",

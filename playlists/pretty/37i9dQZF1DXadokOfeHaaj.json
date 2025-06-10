@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Real Lies",
-  "num_followers": 36410,
+  "num_followers": 36425,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-05-29 23:00:11",
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2025-05-29 23:00:11",
+      "album": {
         "name": "Rush (Missing Out On Me)",
         "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 144802,
       "name": "Rush (Missing Out On Me)",
       "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
-    },
-    {
-      "added_at": "2025-05-29 23:00:11",
-      "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "added_at": "2025-05-29 23:00:11",

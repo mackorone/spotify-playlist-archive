@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,616 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,607 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 14 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 3:12 |
 | 15 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
 | 16 | [Triste com T](https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:12 |
-| 17 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
+| 17 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 | 18 | [Rubi](https://open.spotify.com/track/6dIkrUW18wrp0402u2It44) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:13 |
-| 19 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
+| 19 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
 | 20 | [Fun Tonight \- Pabllo Vittar Remix](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:20 |
 | 21 | [Amor de Que](https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
 | 22 | [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 47 | [Trago seu Amor de Volta \(feat\. Dilsinho\)](https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:38 |
 | 48 | [Caliente \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:12 |
 | 49 | [Eu Te Amo / Eu Te Odeio \(IÔ\-IÔ\)](https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Eu Nunca Fui Embora](https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB) | 3:19 |
-| 50 | [AmarElo \(Sample: Sujeito de Sorte \- Belchior\) \- Ao Vivo](https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:38 |
+| 50 | [Ânsia](https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:59 |
 
-Snapshot ID: `aEOBAAAAAABRb6teW3opj/TmspBk/sHV`
+Snapshot ID: `aETSgAAAAADxClgAbKztq+nwnBg/XVk0`

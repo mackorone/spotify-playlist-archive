@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sabrina Carpenter, Internet Girl, Nobuhle more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,202 likes - 89 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,236 likes - 89 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 88 | [What About Jane](https://open.spotify.com/track/0uKN1ZPSqDz51vYb8CLkkD) | [Still Blank](https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71) | [What About Jane](https://open.spotify.com/album/6Q8Gg8OonDNqgw0jQVrZgU) | 4:31 |
 | 89 | [drive](https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob) | [jessica\-ann](https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s) | [drive](https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX) | 2:58 |
 
-Snapshot ID: `aELSRgAAAAC2qjHItNz+yHqlWxRzdoq7`
+Snapshot ID: `aEaqugAAAAAILlJgi3VPR3Z8fvZzAYBb`

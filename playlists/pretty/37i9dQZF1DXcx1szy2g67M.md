@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Kom maar op met de zon ☀️🌼🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,770 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,129 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

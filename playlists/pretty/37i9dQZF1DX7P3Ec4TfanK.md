@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > ☕ 💪🍳🧘‍♀️🏃☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,037 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,020 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 59 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 |
 | 60 | [maybe it's u](https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [maybe it's u](https://open.spotify.com/album/5tDwbRikZ6n4A1EN2fJPHZ) | 3:57 |
 | 61 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
-| 62 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
-| 63 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
+| 62 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
+| 63 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 64 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
 | 65 | [Delirio](https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Top Hits, Ballads, etc...](https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5) | 2:05 |
 | 66 | [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 74 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 75 | [CONTA SU DI ME](https://open.spotify.com/track/7HKqAt1GaGbdXKmqhRwcR4) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 2:46 |
 | 76 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
-| 77 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
-| 78 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
-| 79 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
-| 80 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
+| 77 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
+| 78 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
+| 79 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
+| 80 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
 
 Snapshot ID: `aDcQLQAAAAD3GrOZE25T3hPbwucTjOoY`

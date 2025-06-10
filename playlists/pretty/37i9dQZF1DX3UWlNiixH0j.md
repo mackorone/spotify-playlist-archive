@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Ovall
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,668 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,712 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 1 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 2 | [Yamamba Mambo](https://open.spotify.com/track/2P0BVinCbzbms7RTrXycvS) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Yamamba Mambo](https://open.spotify.com/album/7eKhFdL07gefRkZLPAAp9v) | 4:39 |
 | 3 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
 | 4 | [文明児](https://open.spotify.com/track/0yKoAfF6FvyWbe0LGMoZxj) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [Hakko](https://open.spotify.com/album/58qHbTGh1IbLqkemxWqeGQ) | 9:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 57 | [My Mutant Ride \(feat\. 柴田聡子 & TAKU INOUE\)](https://open.spotify.com/track/2jXy46Txmlx5cSzKrTHzna) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:03 |
 | 58 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 |
 | 59 | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/track/3xAHEo2Sa0fezECilv4gKx) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [\(Every Moment Needs Your\) Choice and Sweat \(feat\. 北村蕗\)](https://open.spotify.com/album/6Qj8x64pbfM9tVnpDYmsZV) | 2:44 |
-| 60 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
-| 61 | [ASOBO](https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ASOBO](https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5) | 3:28 |
+| 60 | [ASOBO](https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ASOBO](https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5) | 3:28 |
+| 61 | [Swim](https://open.spotify.com/track/1B9IotUsdKzHZYRdmc99fn) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Swim](https://open.spotify.com/album/6KTZ7NAPmZP64DN0Mh9b6M) | 3:23 |
 | 62 | [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 |
 | 63 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
 | 64 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 66 | [ドラム式](https://open.spotify.com/track/2nRBeingL4A6bkAMNt3b31) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ドラム式](https://open.spotify.com/album/3KD8OfQKzYwQSSY2vTSbAL) | 3:33 |
 | 67 | [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 |
 | 68 | [NO NAME DANCE](https://open.spotify.com/track/0vUPrxZEue06uvO8OxjiMG) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [NO NAME DANCE](https://open.spotify.com/album/6so0gAUjwcffr1w06f0qeK) | 3:28 |
-| 69 | [Nebula](https://open.spotify.com/track/6kwY0G0AFSDyFNNGXgL9Rm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Nebula](https://open.spotify.com/album/2ulLptMLCmhE1aesjarW3s) | 3:12 |
+| 69 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
 | 70 | [迎](https://open.spotify.com/track/40B8VGHyDQEa4JlrI6LatP) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [音のする部屋](https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX) | 3:02 |
 | 71 | [ラブコメ](https://open.spotify.com/track/3NlIznCiPTTYYjxoVXHV7v) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ラブコメ](https://open.spotify.com/album/4zcHOrQn3reSiyvHdlJJiy) | 4:15 |
-| 72 | [君にノーベル賞](https://open.spotify.com/track/01oSAZ6iPbdmU6EcoYx15z) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [メロい夢](https://open.spotify.com/album/0PuRUQgoJooQ5811uwuRt5) | 2:39 |
+| 72 | [Nebula](https://open.spotify.com/track/6kwY0G0AFSDyFNNGXgL9Rm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Nebula](https://open.spotify.com/album/2ulLptMLCmhE1aesjarW3s) | 3:12 |
 | 73 | [その日](https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Adrift in Time](https://open.spotify.com/album/0OiWixcir4dJ28OZ3W7CJi) | 3:22 |
 | 74 | [Dying Star](https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Dying Star](https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh) | 3:10 |
 | 75 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
-220 songs - 5 hr 42 min
+221 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Jump Up!](https://open.spotify.com/track/7LTaySawqIyeb0NJa0Bj7C) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: For Those About to Hop](https://open.spotify.com/album/0Ycbxh5rx0Da1yEAMxp9UQ) | 1:05 | 2022-03-18 |  |
 | [Just Be You](https://open.spotify.com/track/6ZaZSVjFmBnQxVU9vj8F4j) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music: Vampirina \- Ghoul Girls Rock!](https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf) | 1:45 | 2022-03-18 |  |
 | [Keep on Tryin'](https://open.spotify.com/track/6qgU0nZTShwzPcyg2zR6Lw) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Puppy Dog Pals: Disney Junior Music](https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk) | 1:09 | 2022-03-18 |  |
+| [Kindergarten: The Musical Theme Song](https://open.spotify.com/track/7EyiojasZ6RX1z2JNZhIta) | [Kindergarten: The Musical \- Cast](https://open.spotify.com/artist/2bePrKPCqkcAE8rVdDDBxO), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Kindergarten: The Musical](https://open.spotify.com/album/0NpgeY8xKDEhpNVkYZCnCD) | 0:58 | 2025-06-10 |  |
 | [Kindergarten: The Musical Theme Song \- From "Disney Jr\. Music: Kindergarten: The Musical"](https://open.spotify.com/track/6YG56HkVcXyfsBVWKsIesA) | [Kindergarten: The Musical \- Cast](https://open.spotify.com/artist/2bePrKPCqkcAE8rVdDDBxO), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Kindergarten: The Musical Theme Song \(From "Disney Jr\. Music: Kindergarten: The Musical"\)](https://open.spotify.com/album/0pvNbWDGd4EKN8O7ritJNQ) | 0:58 | 2024-08-30 |  |
 | [Kuishi Ni Kucheka](https://open.spotify.com/track/6CgIsiif3uEJFCEaZNnJSR) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 1:29 | 2022-03-18 |  |
 | [L\-O\-V\-E](https://open.spotify.com/track/4dQqlmAhCdmRmUmcsvHPqC) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 1:12 | 2022-03-18 |  |

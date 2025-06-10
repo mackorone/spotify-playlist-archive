@@ -3615,6 +3615,24 @@
     },
     {
       "album": {
+        "name": "Carita Triste",
+        "url": "https://open.spotify.com/album/7zUNsWduGofCUs24bK7Qqv"
+      },
+      "artists": [
+        {
+          "name": "La Pen\u00faltima",
+          "url": "https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125906,
+      "name": "Carita Triste",
+      "url": "https://open.spotify.com/track/7cncPk3pgG1lNTUIiKxGev"
+    },
+    {
+      "album": {
         "name": "Carne y Hueso",
         "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
       },
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"

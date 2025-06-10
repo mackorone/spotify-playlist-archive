@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,316 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,319 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-316 songs - 20 hr 32 min
+317 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-05-20 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2020-12-11 |  |
 | [Born Again](https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 | 2022-11-11 |  |
+| [Broken](https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:17 | 2025-06-09 |  |
 | [Burn](https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:45 | 2024-02-16 |  |
 | [Busted and Blue](https://open.spotify.com/track/04zxGiXcmNQ0m9oDXtwo18) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:37 | 2021-05-11 |  |
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2021-09-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 544947,
+  "num_followers": 544950,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "CVI",
         "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 417720,
       "name": "Parsonz Curse",
       "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lightning Born",
-        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
-      },
-      "artists": [
-        {
-          "name": "Lightning Born",
-          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dos E.P.'s",
         "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 328960,
       "name": "Smokin' Woman",
       "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Lightning Born",
+        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
+      },
+      "artists": [
+        {
+          "name": "Lightning Born",
+          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
     },
     {
       "added_at": "2024-07-19 04:00:00",

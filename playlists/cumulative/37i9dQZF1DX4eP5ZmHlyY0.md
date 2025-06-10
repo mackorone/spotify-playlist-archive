@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ENHYPEN
 
-599 songs - 1 day 9 hr 22 min
+600 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-05-08 |
 | [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 | 2024-11-05 | 2025-01-09 |
 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 | 2024-09-24 | 2025-01-20 |
+| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-09 |  |
 | [Mess](https://open.spotify.com/track/0Sccj6S9qYCEdxHudsQjbB) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/61A7SvHGdA1o1gORuj01vx) | 2:33 | 2025-04-08 |  |
 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 | 2024-03-05 | 2024-10-02 |
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 | 2024-07-10 |
@@ -362,7 +363,7 @@
 | [PLAY](https://open.spotify.com/track/2d0SS0vO0UuIZLaaUme0iA) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [PLAY](https://open.spotify.com/album/0U2XVTb4U5coiTpYQdmyWb) | 2:25 | 2024-07-30 | 2024-09-04 |
 | [Play Back](https://open.spotify.com/track/35vMXuNLXjIlOWvpVpx7gh) | [Ren Zotto](https://open.spotify.com/artist/01vosgL49wVuUILMj9K4zX), [Doppio Dropscythe](https://open.spotify.com/artist/5WwGFvg1ymGn0um34gY1Tu) | [Play Back](https://open.spotify.com/album/5yTCOHjGcPIfhArrvcIHVH) | 3:11 | 2024-06-12 | 2024-06-19 |
 | [PLAY THAT'24 \- ALAN ver.](https://open.spotify.com/track/1yJp6r67jyZx3cD7tYquUy) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/7oaukHyBhCaMkGeUaSYfDj) | 4:28 | 2024-06-04 | 2024-07-10 |
-| [Please Stay](https://open.spotify.com/track/4E0cUMTCA2QlYZxQj4AcWh) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:21 | 2025-06-02 |  |
+| [Please Stay](https://open.spotify.com/track/4E0cUMTCA2QlYZxQj4AcWh) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:21 | 2025-06-02 | 2025-06-10 |
 | [plot twist \- Japanese ver.](https://open.spotify.com/track/5AzgeaSYAIU53pTFgw3G1h) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [plot twist \(Japanese ver.\)](https://open.spotify.com/album/6mJvNtf0v8a1g7xe3KLzSL) | 2:32 | 2025-05-19 | 2025-06-02 |
 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 | 2025-05-26 |  |
 | [PON PON](https://open.spotify.com/track/08kBgPUw9RiK6AnIlJEmTQ) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [PON PON](https://open.spotify.com/album/4SB1HUM8BP75vtj0my6Ekp) | 2:45 | 2025-04-17 |  |

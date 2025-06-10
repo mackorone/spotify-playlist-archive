@@ -4,7 +4,7 @@
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 27 min
+74 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Easier](https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Amid the Noise and Haste](https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe) | 3:15 | 2024-01-29 |  |
 | [Every Little Thing](https://open.spotify.com/track/7bCO23jh0OHr7yRxtmIvDm) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:38 | 2024-01-29 | 2024-04-28 |
 | [Every Little Thing \(feat\. Fiji\)](https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:38 | 2024-04-28 |  |
-| [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 | 2024-01-29 |  |
+| [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 | 2024-01-29 | 2025-06-10 |
 | [Fire \(with J Boog\)](https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Fire \(with J Boog\)](https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs) | 4:01 | 2024-10-27 |  |
 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 | 2024-04-21 |  |
 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 | 2024-01-29 |  |
@@ -49,6 +49,7 @@
 | [Livity \- Live Good](https://open.spotify.com/track/2a10XM3b3ZWWtqUqIu8pcw) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Heavy Roots](https://open.spotify.com/artist/4fEogLHgLSsp5ETlJCci09) | [Livity \(Live Good\)](https://open.spotify.com/album/4zN0oMDxghQ8yynY9teT8I) | 2:39 | 2024-01-29 | 2024-03-07 |
 | [Lonely Days](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 | 2024-01-29 |  |
 | [Love Season](https://open.spotify.com/track/2GpKIU4njRoMFndGdVPwfd) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:46 | 2024-01-29 |  |
+| [Love's Close Around](https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:43 | 2025-06-10 |  |
 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 | 2024-01-29 |  |
 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 | 2024-01-29 |  |
 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 | 2024-01-29 |  |

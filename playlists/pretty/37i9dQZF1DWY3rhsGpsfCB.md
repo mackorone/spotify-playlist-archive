@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,256 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,290 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 60 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 |
 | 61 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
 | 62 | [Sunshine](https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 2:24 |
-| 63 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 |
-| 64 | [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 |
-| 65 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
-| 66 | [Economy](https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Economy](https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7) | 3:57 |
+| 63 | [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 |
+| 64 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 |
+| 65 | [Economy](https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Economy](https://open.spotify.com/album/5l7xCQMFQsRAnQUr99gnJ7) | 3:57 |
+| 66 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
 | 67 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 68 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 |
 | 69 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 |

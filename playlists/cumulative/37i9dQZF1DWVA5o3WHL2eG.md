@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: Zsá Zsá
 
-2,051 songs - 4 day 8 hr 31 min
+2,052 songs - 4 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,6 +998,7 @@
 | [Klein\-Marx](https://open.spotify.com/track/4TRnKdnXz3parnrGKklKc0) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Klein\-Marx](https://open.spotify.com/album/7zEUDaYg0t5hCDSa2hyx7Y) | 3:31 | 2022-09-06 | 2022-10-05 |
 | [Kleines Bisschen Grün](https://open.spotify.com/track/7foBCSij76jXHuYteu1kh5) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Kleines Bisschen Grün](https://open.spotify.com/album/5KORifLHbQUu2exzTrRbbB) | 2:47 | 2024-02-06 | 2024-03-06 |
 | [Klippe](https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Klippe](https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl) | 2:38 | 2023-01-31 | 2023-03-01 |
+| [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 | 2025-06-09 |  |
 | [Koma](https://open.spotify.com/track/0sOwPqGeO8FhLluS9dSOyc) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Koma](https://open.spotify.com/album/4JBwPoWGowNpzeVN615GTW) | 2:31 | 2022-07-05 | 2022-08-03 |
 | [Komet](https://open.spotify.com/track/5m0vxNYxKq2toU20v8LaYL) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Komet](https://open.spotify.com/album/384CJXmYVjdbN2gUU1qQUN) | 3:03 | 2022-11-07 | 2022-12-01 |
 | [Komm in meine Arme](https://open.spotify.com/track/2cJsBA3fbleMmnlveGVBlo) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Komm in meine Arme](https://open.spotify.com/album/4bYod5KtRSsv2UJ1kfYJfR) | 3:14 | 2023-10-03 | 2024-06-06 |

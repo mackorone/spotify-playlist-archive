@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,466 songs - 7 day 14 hr 11 min
+3,467 songs - 7 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,7 +1330,8 @@
 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-05-13 | 2025-05-23 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2023-03-31 | 2023-04-03 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-20 | 2024-08-18 |
-| [has to be you](https://open.spotify.com/track/4VsIlrBcRA3KXCPIRS6hwj) | [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [has to be you](https://open.spotify.com/album/30LOzilDr9zhVsYtOnAMCR) | 1:50 | 2025-06-03 |  |
+| [has to be you](https://open.spotify.com/track/4VsIlrBcRA3KXCPIRS6hwj) | [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [has to be you](https://open.spotify.com/album/30LOzilDr9zhVsYtOnAMCR) | 1:50 | 2025-06-03 | 2025-06-10 |
+| [has to be you](https://open.spotify.com/track/7hgdBoFN7AE2c6Gwh0zS4P) | [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [has to be you](https://open.spotify.com/album/7cLHMTmxPwRJtIO5HO3JRx) | 1:50 | 2025-06-09 |  |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-29 | 2022-01-31 |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/216xV3wUMEZQUBqlRC2jrd) | [Juliana Marques](https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp) | [I Love You Seresta](https://open.spotify.com/album/1cVZlhVRj3eR6zOBhteeHD) | 2:41 | 2025-03-14 | 2025-03-20 |
 | [Haverá Sinais \- Ao Vivo](https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Haverá Sinais \(Ao Vivo\)](https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6) | 3:10 | 2024-03-12 | 2024-04-09 |

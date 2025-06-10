@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,653 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,661 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 25 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
 | 26 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
 | 27 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
-| 28 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 |
-| 29 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 |
-| 30 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 |
+| 28 | [Wait On Me](https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 3:13 |
+| 29 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 |
+| 30 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 |
 | 31 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 | 32 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 |
-| 33 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 |
+| 33 | [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 |
 | 34 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
 | 35 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 |
 | 36 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 39 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
 | 40 | [Countdown!](https://open.spotify.com/track/0ti0CEUPplsI7AZDyexrXy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 3rd Mini Album 'TRY WITH US'](https://open.spotify.com/album/5JfdYZ1OTue80fQxp2rE6y) | 2:30 |
 | 41 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
-| 42 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
-| 43 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
+| 42 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 |
+| 43 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 44 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 45 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
-| 46 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
-| 47 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 |
+| 46 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 |
+| 47 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
 | 48 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
 | 49 | [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 |
 | 50 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,948 likes - 104 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950 likes - 104 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 82 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 |
 | 83 | [The Get Down](https://open.spotify.com/track/7jWGjydjIZSA1tsGtWW4mF) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases II \- EP](https://open.spotify.com/album/298YQLbdm8HlKXbh0uXKxN) | 3:29 |
 | 84 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
-| 85 | [My Will](https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:53 |
-| 86 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
+| 85 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
+| 86 | [My Will](https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:53 |
 | 87 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 |
 | 88 | [Don't 4get](https://open.spotify.com/track/6955Y2FCvRBBXl06Qq0fh8) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:18 |
 | 89 | [Fade to Black](https://open.spotify.com/track/3NIawwPGF6X5Hjz9UUJ6tO) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 1:57 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 103 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 104 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AbznyAAAAACfizmDJytpWjMMvYc9+5qw`
+Snapshot ID: `AbztaAAAAACXOGHYyhdCTmG7HCLq3BDy`

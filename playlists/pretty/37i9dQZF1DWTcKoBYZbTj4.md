@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 
 > Versiones que andan por el camino del rey de la canción ranchera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,822 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,845 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 | 49 | [Que Te Vaya Bonito](https://open.spotify.com/track/4JKhNEJ130fAWFwhAdMbJu) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/20VJ1DOyAPt4593jpX4CzP) | 2:51 |
 | 50 | [Tributo a Jose Alfredo Jiminez](https://open.spotify.com/track/0XNiENRDBqDm1N4eEv6to7) | [Tito Guízar](https://open.spotify.com/artist/3UDe2gXJIlP9jB5gAZf4AB) | [El Primer Charro Cantor](https://open.spotify.com/album/55wmYNcUo3eivJHFIGcUHr) | 3:34 |
 
-Snapshot ID: `ZoSQeAAAAAAYNfm+4I6Bte2Rf6PSl/IZ`
+Snapshot ID: `AAAAAP9cUhmvlm/nnyYG5WMYt1Ye0VLQ`

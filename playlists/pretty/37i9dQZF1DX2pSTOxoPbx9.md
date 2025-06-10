@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,634 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,635 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 61 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
 | 62 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
 | 63 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
-| 64 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
-| 65 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
+| 64 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
+| 65 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
 | 66 | [i was cruel \- demo take](https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [i was cruel \- demo take](https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k) | 3:04 |
 | 67 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
 | 68 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 88 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
 | 89 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 90 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
-| 91 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
-| 92 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 |
+| 91 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 |
+| 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
 | 93 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 94 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
+| 94 | [Devil's Resting Place](https://open.spotify.com/track/2X2UW3HyAvEcYGgt5HaTTr) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/2sys0w1WpiB1k6ZhfYCbBY) | 3:14 |
 | 95 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
-| 96 | [Cold](https://open.spotify.com/track/66TaoPJqwSAK1oLxBsgG8n) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/3OswHF7nqo4htN5OpRH9dz) | 4:23 |
-| 97 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
+| 96 | [I Love You, But I Need Another Year](https://open.spotify.com/track/5K9cE052Gcrf4yCYPWWS8a) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/0Pu4TIIwXPnNityDAL7EAe) | 3:42 |
+| 97 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 |
 | 98 | [Killer + The Sound](https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV) | 7:55 |
-| 99 | [Smile](https://open.spotify.com/track/33Ya9pdh5KEpbaG1Q8D3eh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 6:02 |
-| 100 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
+| 99 | [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 |
+| 100 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
 
 Snapshot ID: `ZvI5QAAAAABt7r6n/LpUQT4jPodX/98p`

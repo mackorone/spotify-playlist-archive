@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > My name is pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,112 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,367 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 22 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 23 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 24 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
-| 25 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
-| 26 | [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 |
+| 25 | [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 |
+| 26 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 | 27 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
 | 28 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
 | 29 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |

@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "300 BANIEK",
       "url": "https://open.spotify.com/track/4laCtGHEZEupZ7uEDQH2Ae"
@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -4567,6 +4567,28 @@
     },
     {
       "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "BARRIO",
+      "url": "https://open.spotify.com/track/28U1K6MfN4EmBnvNKhfjPC"
+    },
+    {
+      "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/2ic3eJZGU3nIuMvNa3Nw7P"
       },
@@ -4626,7 +4648,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -7522,10 +7544,32 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 217850,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/0MlKudbYsh9JbHYNbrojdq"
+    },
+    {
+      "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/1U7ZU4sJsMDzHSA7n333BJ"
     },
     {
       "album": {
@@ -8058,7 +8102,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 166809,
       "name": "CHAMPIONS LEAGUE",
       "url": "https://open.spotify.com/track/72hx2ajymKhQbSZV6WX25L"
@@ -8182,7 +8226,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 181875,
       "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
       "url": "https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl"
@@ -13476,7 +13520,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -13494,7 +13538,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -14668,7 +14712,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 202946,
       "name": "Floyd Mayweather",
       "url": "https://open.spotify.com/track/5wOAQXIydVWJNatT6nKwhz"
@@ -21576,7 +21620,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 192122,
       "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
       "url": "https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO"
@@ -23270,6 +23314,40 @@
       "duration_ms": 180806,
       "name": "La Manga",
       "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
+    },
+    {
+      "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        },
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        },
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        },
+        {
+          "name": "typo g",
+          "url": "https://open.spotify.com/artist/3Cl0LSa06vEUmbuapubmPh"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215716,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/5UnALEoLaqXrqFSgBrHnQh"
     },
     {
       "album": {
@@ -25652,7 +25730,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -25704,10 +25782,36 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 170671,
       "name": "MARBELLA",
       "url": "https://open.spotify.com/track/2z0K0dRPCR5Xaqtg6ioK6B"
+    },
+    {
+      "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        },
+        {
+          "name": "Amadeusz Ferrari",
+          "url": "https://open.spotify.com/artist/7r4bzNjcnGE2pKk4AZ00S8"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170671,
+      "name": "MARBELLA",
+      "url": "https://open.spotify.com/track/6ntMlo1XQ9gjiZwd2kGE5U"
     },
     {
       "album": {
@@ -30098,7 +30202,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 202585,
       "name": "Nie mog\u0119 ci\u0119 zapomnie\u0107 - Radio Edit",
       "url": "https://open.spotify.com/track/6A6537BwTdiRefKxjYyYAD"
@@ -31468,6 +31572,28 @@
       "duration_ms": 180214,
       "name": "Ocean Beach",
       "url": "https://open.spotify.com/track/4CWJZUeG7VgzP4oQaahSed"
+    },
+    {
+      "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180214,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/4cMTFaW3avrE75XKvuE9uq"
     },
     {
       "album": {
@@ -39121,6 +39247,48 @@
     },
     {
       "album": {
+        "name": "Santa Cruz",
+        "url": "https://open.spotify.com/album/63gRlSJJOJEUTDM89savvW"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        },
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "Mortal",
+          "url": "https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        },
+        {
+          "name": "\u015awie\u017cy",
+          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145403,
+      "name": "Santa Cruz",
+      "url": "https://open.spotify.com/track/7eBnyfgpicRCTgGvlwJoMS"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -42888,7 +43056,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 174374,
       "name": "taki ma\u0142y ja",
       "url": "https://open.spotify.com/track/23rMVeJqT3Esu6BjTFCscV"
@@ -43798,7 +43966,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -45215,6 +45383,28 @@
     },
     {
       "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146808,
+      "name": "TRUMP",
+      "url": "https://open.spotify.com/track/1alG1GrEIXwhWsqW47enGC"
+    },
+    {
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -46068,7 +46258,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -46478,7 +46668,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 196363,
       "name": "vip",
       "url": "https://open.spotify.com/track/6C41CBFUPJIlTGypAy1MaP"
@@ -49902,7 +50092,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-05",
+      "date_removed": null,
       "duration_ms": 253133,
       "name": "Zanim p\u00f3jd\u0119",
       "url": "https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA"
@@ -49928,7 +50118,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB"
@@ -50809,6 +50999,32 @@
     },
     {
       "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        },
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154292,
+      "name": "Z\u0141ODZIEJ Z TELEWIZJI",
+      "url": "https://open.spotify.com/track/5x507OyaZNXRpERVGN5qzF"
+    },
+    {
+      "album": {
         "name": "Z\u0142ote Tarasy",
         "url": "https://open.spotify.com/album/7zmwRrJPhyxLiVgtMtJlW1"
       },
@@ -51440,7 +51656,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 157720,
       "name": "\u201eTak to lecia\u0142o!\u201d",
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"

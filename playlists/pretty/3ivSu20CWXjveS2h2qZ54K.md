@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,799 likes - 57 songs - 3 hr 10 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,800 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 |
 | 2 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 3 | [Ya No Soy La Misma](https://open.spotify.com/track/1hYxEzCdl3Ycux4N9CJNaa) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [Ya No Soy La Misma](https://open.spotify.com/album/6pL4aszoU0EZXOpdZwFEEn) | 2:56 |
-| 4 | [Eternamente Joven](https://open.spotify.com/track/4K8alAvQw15kEGvSzm3WgT) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.III\)](https://open.spotify.com/album/3N5Q9YAJAC2pM2CT7WUiQN) | 2:43 |
+| 3 | [Eternamente Joven](https://open.spotify.com/track/4K8alAvQw15kEGvSzm3WgT) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.III\)](https://open.spotify.com/album/3N5Q9YAJAC2pM2CT7WUiQN) | 2:43 |
+| 4 | [Ya No Soy La Misma](https://open.spotify.com/track/1hYxEzCdl3Ycux4N9CJNaa) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [Ya No Soy La Misma](https://open.spotify.com/album/6pL4aszoU0EZXOpdZwFEEn) | 2:56 |
 | 5 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
 | 6 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
 | 7 | [DEAD](https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [DEAD](https://open.spotify.com/album/3gnscgQrOmEJdOYZRKa4LD) | 4:08 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 56 | [Silver Spoons](https://open.spotify.com/track/4TUuuk5ZIiUmQX6t97TfQU) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [uLu Selects Vol \#2](https://open.spotify.com/album/15n8xK2AZfb9S0X1M2IKcY) | 3:26 |
 | 57 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 |
 
-Snapshot ID: `AAC5QX5JnKgi4NC9pL0SX5I2v/tHb3JE`
+Snapshot ID: `AAC5Qo8kLjciw0dhnwmBnNb8ImDxt+5p`

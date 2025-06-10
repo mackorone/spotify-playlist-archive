@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,108 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,156 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 43 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 44 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 45 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
-| 46 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
-| 47 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
+| 46 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
+| 47 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 48 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
 | 49 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 50 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 |
 | 51 | [Rich Girl](https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 2:24 |
-| 52 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
-| 53 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
-| 54 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
-| 55 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
+| 52 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
+| 53 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
+| 54 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
+| 55 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
 | 56 | [Sunday Morning](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:04 |
 | 57 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 | 58 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |

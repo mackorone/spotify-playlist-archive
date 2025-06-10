@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH, Future Skies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,247 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,061 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Show Me Love](https://open.spotify.com/track/5jjNxpM5g6uxPddY9EslF2) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Show Me Love](https://open.spotify.com/album/5SEg9M3duP0tCbrxnzWugH) | 3:35 |
 | 75 | [My Heart](https://open.spotify.com/track/6dJUsLrcm679OZld1wZIGH) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [ETTA](https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn) | [My Heart](https://open.spotify.com/album/0MT17WhlXQzq4J8aI6SHZy) | 2:10 |
 
-Snapshot ID: `aEMhnQAAAAByljOdQNM4+45ta0yYey5Z`
+Snapshot ID: `aEMhnQAAAABtzRJJOr81LYdP24twaW4V`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,456 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,466 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 48 | [On Fire](https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 2:49 |
 | 49 | [Embuscade](https://open.spotify.com/track/4ryuJlslXmRBn2csXJ5kfk) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:56 |
 
-Snapshot ID: `aEOBAAAAAAC1oD4VWJXvKeMuQloTlOVO`
+Snapshot ID: `aETSgAAAAACKyIUcqJg1QHXDonMfec+m`

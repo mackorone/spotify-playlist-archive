@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 21825,
+  "num_followers": 21827,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACKwItcDd3QW4S1sPveaXEX",
+  "snapshot_id": "aETSgAAAAABE1f8Y4aTxsH9/S2OVmvEE",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,25 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa"
+      "duration_ms": 217480,
+      "name": "Oh UnHappy Day",
+      "url": "https://open.spotify.com/track/1vD9wJjZfEV0171Bmi9R5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R.I.P.",
+        "url": "https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt"
     },
     {
       "added_at": null,
@@ -323,22 +339,6 @@
       "duration_ms": 301253,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R.I.P.",
-        "url": "https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 202708,
-      "name": "R.I.P.",
-      "url": "https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 217480,
-      "name": "Oh UnHappy Day",
-      "url": "https://open.spotify.com/track/1vD9wJjZfEV0171Bmi9R5f"
+      "duration_ms": 227266,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
-        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 341773,
-      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
-      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
+      "duration_ms": 315897,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 315897,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
+      "duration_ms": 341773,
+      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
+      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Null",
+        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
       },
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Null",
-        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
+      "duration_ms": 252600,
+      "name": "\u307e\u3063\u3055\u3089",
+      "url": "https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 239346,
       "name": "JAMMER",
       "url": "https://open.spotify.com/track/7ep6br0XudQ9RlNalp7vQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
-        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "\u307e\u3063\u3055\u3089",
-      "url": "https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW"
     },
     {
       "added_at": null,

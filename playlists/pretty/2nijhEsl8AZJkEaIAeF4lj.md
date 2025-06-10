@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 314 songs - 20 hr 24 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 315 songs - 20 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -322,5 +322,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 312 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 |
 | 313 | [I'm Goin' Down](https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 3:42 |
 | 314 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 4:42 |
+| 315 | [Broken](https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:17 |
 
-Snapshot ID: `AAAD9hOisdSlI+RIdsuiyd1a7KngtO90`
+Snapshot ID: `AAAD9wjlbhEva0wguxylVXKkn3haF6dm`

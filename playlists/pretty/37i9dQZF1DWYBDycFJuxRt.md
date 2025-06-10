@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE\*👉 <a href="https://spice.eplus.jp/articles/338296">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,870 likes - 81 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,894 likes - 81 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2025/6/4 Mrs\. GREEN APPLEがカバー！ニューアルバムをリリースしたanoからメッセージが到着！紫 今からのメッセージも！OvallのニューEP、CLAN QUEENのニューアルバム、Early Noiseアーティスト7coの新曲も！](https://open.spotify.com/episode/6JV0FV5nj82UsQxrp0NgFy) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:28 |
 | 2 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 |
-| 3 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 3 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 4 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
 | 5 | [カーニバル](https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [カーニバル](https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS) | 3:31 |
 | 6 | [pain](https://open.spotify.com/track/4rWxuQLg5JfB61aCSGQ1Hp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [pain](https://open.spotify.com/album/15yx1ciCUE0L8pKBtiKH5k) | 3:13 |

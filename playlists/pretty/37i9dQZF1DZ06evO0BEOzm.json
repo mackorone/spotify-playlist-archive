@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 301236,
+  "num_followers": 301262,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACF6K0Qs81T9proTCk8Rg1E",
+  "snapshot_id": "aETSgAAAAAAkEXMtpkVGV12/Bi/e4hk3",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 154389,
       "name": "Girls in the Hood",
       "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cobra",
-        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 168932,
-      "name": "Cobra",
-      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+      "duration_ms": 196281,
+      "name": "Hot Girl",
+      "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

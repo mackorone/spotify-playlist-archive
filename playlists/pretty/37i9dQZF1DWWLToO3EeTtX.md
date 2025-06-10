@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 
 > Get away from the maddening crowds with this peaceful pop mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,961 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,074 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 | 28 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 29 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 | 30 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
-| 31 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
+| 31 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 |
 | 32 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
-| 33 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 |
+| 33 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 34 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 35 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
 | 36 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
-| 37 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
-| 38 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
-| 39 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
-| 40 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
+| 37 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
+| 38 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
+| 39 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
+| 40 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 41 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 |
-| 42 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 43 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
+| 42 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
+| 43 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 44 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 45 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 |
-| 46 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
-| 47 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
+| 46 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
+| 47 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 48 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
 | 49 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
-| 50 | [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 |
+| 50 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 
 Snapshot ID: `aEFEDgAAAAAnQWJc0PSHQpQevuZBigy+`

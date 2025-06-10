@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,367 likes - 120 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,388 likes - 120 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 10 | [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 |
 | 11 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
 | 12 | [I Will Wait](https://open.spotify.com/track/0hm8rgOY17z7kQJlqGKbu7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 4:36 |
-| 13 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 |
-| 14 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
+| 13 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
+| 14 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 |
 | 15 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
 | 16 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 |
 | 17 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 |
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 76 | [Small Hands](https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:00 |
 | 77 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
 | 78 | [Hold Your Head Up High](https://open.spotify.com/track/7nxIBClhF3MK4aYC7TiCWy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 3:37 |
-| 79 | [Atomic Number](https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [case/lang/veirs](https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN) | 2:57 |
-| 80 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
+| 79 | [Helplessness Blues](https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 5:03 |
+| 80 | [Atomic Number](https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [case/lang/veirs](https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN) | 2:57 |
 | 81 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 |
-| 82 | [Helplessness Blues](https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 5:03 |
+| 82 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 83 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 |
 | 84 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 85 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |

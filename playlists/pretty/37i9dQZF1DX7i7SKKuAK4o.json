@@ -1,6 +1,6 @@
 {
   "description": "Kumpulan lagu populer dari dalam negeri dan mancanegara. Cover: Ariana Grande",
-  "num_followers": 615661,
+  "num_followers": 615774,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-04-11 16:21:45",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2025-04-11 16:21:45",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "added_at": "2025-04-11 16:21:45",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2025-04-11 16:21:45",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-04-11 16:21:45",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
-    },
-    {
-      "added_at": "2025-04-11 16:21:45",
-      "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "added_at": "2025-04-11 16:21:45",
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": "2025-04-11 16:21:45",

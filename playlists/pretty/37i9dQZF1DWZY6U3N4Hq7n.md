@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,313 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,429 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 45 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
 | 46 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
 | 47 | [You Dropped A Bomb On Me](https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 5:12 |
-| 48 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
-| 49 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
-| 50 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:20 |
+| 48 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:20 |
+| 49 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
+| 50 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 51 | [Big in Japan \- 2019 Remaster](https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:44 |
 | 52 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 53 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 63 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 64 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
 | 65 | [Thriller](https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 5:57 |
-| 66 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 |
-| 67 | [Abracadabra \- Remastered 2017](https://open.spotify.com/track/58bTw40is1J6A67eejMdLn) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Ultimate Hits \(Deluxe Edition\)](https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R) | 5:11 |
+| 66 | [Abracadabra \- Remastered 2017](https://open.spotify.com/track/58bTw40is1J6A67eejMdLn) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Ultimate Hits \(Deluxe Edition\)](https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R) | 5:11 |
+| 67 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 |
 | 68 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
 | 69 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
 | 70 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 74 | [Only in My Dreams](https://open.spotify.com/track/03i9ehMBCqbxKw7wwEycFZ) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Out Of The Blue](https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b) | 3:53 |
 | 75 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:39 |
 | 76 | [Double Dutch Bus](https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo) | [Frankie Smith](https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF) | [Children Of Tomorrow](https://open.spotify.com/album/5jEBGG3MJ5gaEteo9EaqiI) | 5:20 |
-| 77 | [Simply Irresistible](https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Heavy Nova](https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq) | 4:15 |
-| 78 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
+| 77 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
+| 78 | [Simply Irresistible](https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Heavy Nova](https://open.spotify.com/album/1JvTsWrfYs2PR1PdSJXipq) | 4:15 |
 | 79 | [Part\-Time Lover](https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:12 |
 | 80 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 

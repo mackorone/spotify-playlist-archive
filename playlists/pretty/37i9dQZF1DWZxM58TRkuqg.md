@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Shabrina Leanor
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,329 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,459 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [Hari Ini \(feat\. Hindia\)](https://open.spotify.com/track/7xyGT6XaM9rV4jIb62QvST) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Hari Ini](https://open.spotify.com/album/7zcuwtBduQbPYqPMhC2Oei) | 3:16 |
 | 100 | [Halal Selamanya](https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Halal Selamanya](https://open.spotify.com/album/6AkRaIeU2rjDAsIL3S0T7E) | 3:52 |
 
-Snapshot ID: `aEHNIQAAAAB5RDy0SQ80ykVkPpXAqpTc`
+Snapshot ID: `aEHNIQAAAADITQXyNJcJJS9hKP6V4BzS`

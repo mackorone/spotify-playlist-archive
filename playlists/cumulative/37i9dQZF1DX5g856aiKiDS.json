@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Cuz",
+        "url": "https://open.spotify.com/album/0xGVwISVdrQirTDnK26zmM"
+      },
+      "artists": [
+        {
+          "name": "Felicity",
+          "url": "https://open.spotify.com/artist/1LjHEbLwf6RdcmSRHOhbrh"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "Cuz",
+      "url": "https://open.spotify.com/track/1O025xhl4vxEN9aFghqMfK"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5v977nYFlyykpr9NPv15mU"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 177270,
       "name": "Dear Day",
       "url": "https://open.spotify.com/track/0AHPzmxZ6NH1PRpDLlXnyo"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 230569,
       "name": "Dreamy",
       "url": "https://open.spotify.com/track/4kxhKiAg2gaSrbn25gotRm"
@@ -5035,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/0isgsltrKdElJbFS6Fj1LF"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183445,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/30YISPDrtL9xKLbDRFUkzd"
+    },
+    {
+      "album": {
         "name": "Pink!",
         "url": "https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP"
       },
@@ -5484,6 +5520,24 @@
       "duration_ms": 239400,
       "name": "Summer Love (feat. Verbal Jint, Basick)",
       "url": "https://open.spotify.com/track/7yKrmBcGoUO5pjfApa1AsG"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3lv1nGPFe3neZDs65esLhH"
+      },
+      "artists": [
+        {
+          "name": "ONiLL",
+          "url": "https://open.spotify.com/artist/4kGhCLFjM1KDqroWtqlQVd"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180915,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/78d8vuiNI2oNtc6UUJjFyk"
     },
     {
       "album": {
@@ -6576,7 +6630,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 149386,
       "name": "Why Do You",
       "url": "https://open.spotify.com/track/0jZAXYV64prJIk004FifI1"

@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Ty Dolla $ign
 
-1,062 songs - 2 day 7 hr 3 min
+1,063 songs - 2 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [16](https://open.spotify.com/track/50lTDu2BnjyqWnUFsxMryJ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 2:36 | 2021-12-17 | 2022-08-06 |
 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 | 2024-02-16 | 2024-03-30 |
 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 | 2024-10-04 | 2025-01-25 |
-| [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-26 |  |
+| [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-04-26 | 2025-06-10 |
 | [1st Lady](https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [1st Lady](https://open.spotify.com/album/79gSwusnEUZB9tRNuiTVa5) | 3:12 | 2023-07-14 | 2023-11-25 |
 | [2](https://open.spotify.com/track/5AM2lJKNnirFSDD1goRMdU) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [2](https://open.spotify.com/album/1kIG0RfQxRKT8xHDObXdUG) | 4:11 | 2025-02-21 | 2025-05-10 |
 | [2 O'Clock](https://open.spotify.com/track/0atUrqW5RpvfSlHCYBl4Qz) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:50 | 2023-02-03 | 2023-03-25 |
@@ -343,6 +343,7 @@
 | [FRAUD](https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FRAUD](https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ) | 3:00 | 2022-06-24 | 2022-07-16 |
 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 | 2021-12-17 | 2022-01-11 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-04-15 | 2022-09-24 |
+| [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-06-06 |  |
 | [Friends To Miami \(feat\. Meek Mill\)](https://open.spotify.com/track/4c0KvrQOCf05c4ED2MWmHC) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Friends To Miami \(feat\. Meek Mill\)](https://open.spotify.com/album/5Udw8gmbrtoUo6H3E0l0MA) | 3:36 | 2025-01-31 | 2025-02-15 |
 | [Frontin & Crushin \(with Arin Ray & Blackway\)](https://open.spotify.com/track/5SlJKOCunYf4HIkktFBr0M) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:19 | 2025-04-04 |  |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-02-24 | 2023-04-01 |

@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 58 min
+97 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 | 2022-10-24 |  |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-29 | 2025-01-30 |
 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 | 2022-10-24 |  |
+| [Desire \- Stories Of Surrender Version](https://open.spotify.com/track/4GeKtpk9tQpKvHdC37fwmS) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Stories Of Surrender EP](https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba) | 2:21 | 2025-06-10 |  |
 | [Dirty Day \- Bitter Kiss / Remastered 2024](https://open.spotify.com/track/3sTp2O4tnaMl2yQEAXLMyH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Please](https://open.spotify.com/album/1jmFAkO4iGbznWncVkF99A) | 4:34 | 2024-06-04 | 2024-06-06 |
-| [Discotheque](https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:18 | 2024-01-21 |  |
+| [Discotheque](https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:18 | 2024-01-21 | 2025-06-10 |
 | [Electrical Storm \- Songs Of Surrender](https://open.spotify.com/track/38TuPQLkiKQMTcOd2e81RG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:13 | 2023-04-08 | 2023-04-29 |
 | [Electrical Storm \- William Orbit Mix](https://open.spotify.com/track/3gkijt6bxk8ts6S2RCEu4n) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:37 | 2022-11-16 | 2025-05-18 |
 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 | 2022-10-24 |  |

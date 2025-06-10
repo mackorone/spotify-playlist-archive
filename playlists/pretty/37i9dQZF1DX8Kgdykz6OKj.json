@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1469922,
+  "num_followers": 1470378,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-06-06 05:08:53",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2025-06-06 05:08:53",
+      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2025-06-06 05:08:53",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2025-06-06 05:08:53",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-06-06 05:08:53",
       "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2025-06-06 05:08:53",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2025-06-06 05:08:53",
+      "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2025-06-06 05:08:53",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-06-06 05:08:53",
       "album": {
-        "name": "French River",
-        "url": "https://open.spotify.com/album/4kEeJ5rWgwlX3iJZyFXveP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Son",
-          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
-        },
-        {
-          "name": "Futurewave",
-          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
-        }
-      ],
-      "duration_ms": 105850,
-      "name": "French River",
-      "url": "https://open.spotify.com/track/6BWBQSCduklNO4A7zXyFeI"
-    },
-    {
-      "added_at": "2025-06-06 05:08:53",
-      "album": {
         "name": "P.O.P Hold It Down",
         "url": "https://open.spotify.com/album/41jrfm6ZNwZAuXpVMbqHwr"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 210649,
       "name": "P.O.P Hold It Down",
       "url": "https://open.spotify.com/track/2Wmc9yRZJH0xcfPUbnu4rj"
+    },
+    {
+      "added_at": "2025-06-06 05:08:53",
+      "album": {
+        "name": "French River",
+        "url": "https://open.spotify.com/album/4kEeJ5rWgwlX3iJZyFXveP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Futurewave",
+          "url": "https://open.spotify.com/artist/4i9PacC5mAjVi8DzWcpmxz"
+        }
+      ],
+      "duration_ms": 105850,
+      "name": "French River",
+      "url": "https://open.spotify.com/track/6BWBQSCduklNO4A7zXyFeI"
     },
     {
       "added_at": "2025-06-06 05:08:53",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-06-06 05:08:53",
       "album": {
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
+    },
+    {
+      "added_at": "2025-06-06 05:08:53",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
-    },
-    {
-      "added_at": "2025-06-06 05:08:53",
-      "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2025-06-06 05:08:53",
@@ -1971,22 +1971,22 @@
     {
       "added_at": "2025-06-06 05:08:53",
       "album": {
-        "name": "I Dont Care",
-        "url": "https://open.spotify.com/album/4AQBDWkc7iZYCFrGsJSYTK"
+        "name": "Still Not In Space",
+        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
       },
       "artists": [
         {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+          "name": "wnbl",
+          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
         },
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
         }
       ],
-      "duration_ms": 156107,
-      "name": "I Dont Care",
-      "url": "https://open.spotify.com/track/4I70anTWgyPenS8ddgs2OL"
+      "duration_ms": 176149,
+      "name": "Still Not In Space",
+      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
     }
   ],
   "unique_name": "Jazz Rap",

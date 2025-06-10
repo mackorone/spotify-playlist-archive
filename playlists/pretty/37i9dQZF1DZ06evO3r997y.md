@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297 likes - 41 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,298 likes - 41 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 20 | [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 |
 | 21 | [Desire Again](https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:00 |
 | 22 | [Fly\-High\-Five!](https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:24 |
-| 23 | [Rock the Floor](https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:36 |
-| 24 | [DEAD or CALL MY NAME](https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:51 |
-| 25 | [The One](https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:55 |
+| 23 | [DEAD or CALL MY NAME](https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:51 |
+| 24 | [Rock the Floor](https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:36 |
+| 25 | [Fleeting Time](https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ) | 3:56 |
 | 26 | [INNOCENT](https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:01 |
-| 27 | [Fleeting Time](https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ) | 3:56 |
+| 27 | [The One](https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:55 |
 | 28 | [illminate](https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 4:13 |
 | 29 | [アフターグロウ](https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU) | 4:04 |
-| 30 | [FLAMES](https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:29 |
+| 30 | [Unchained mind](https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:45 |
 | 31 | [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 |
 | 32 | [Oxidation](https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:24 |
 | 33 | [明日へ鳴らすリフレイン \- P's GR∞VE Ver.](https://open.spotify.com/track/14mDs8AcPxuMhXuFVPzq9l) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S), [Yurika Kubo](https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS), [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [立花日菜](https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL), [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi), [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0), [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt), [稗田寧々 from DIALOGUE+](https://open.spotify.com/artist/1elIH0yJTLlee5ntfYLFDg), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [守屋亨香 from DIALOGUE+](https://open.spotify.com/artist/0cerIM0Rbng5biYTcSQh83) | [明日へ鳴らすリフレイン \-P's GR∞VE Ver.\-](https://open.spotify.com/album/4JEzrS41phkvXxruUjZKDx) | 4:19 |
-| 34 | [Unchained mind](https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:45 |
+| 34 | [FLAMES](https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:29 |
 | 35 | [Closer](https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 3:18 |
 | 36 | [BYERONY](https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:04 |
 | 37 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 40 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 |
 | 41 | [キミのとなりで Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:53 |
 
-Snapshot ID: `aEOBAAAAAACmFsOXR291vxLVjLAiAHVR`
+Snapshot ID: `aETSgAAAAAAWD7qK++GP9R9KgrRHxPLZ`

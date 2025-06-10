@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8479,
+  "num_followers": 8480,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACIOaSIHiIBndvZtLSI+ljr",
+  "snapshot_id": "aETSgAAAAADU+u+WDvkuFn0u1A21W+7N",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 168213,
       "name": "Remind U (feat. TOKiMONSTA)",
       "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
     },
     {
       "added_at": null,
@@ -854,15 +854,11 @@
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
         }
       ],
-      "duration_ms": 218589,
-      "name": "Early to Dawn (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
+      "duration_ms": 202965,
+      "name": "Bibimbap",
+      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
     },
     {
       "added_at": null,
@@ -938,11 +934,15 @@
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
         }
       ],
-      "duration_ms": 202965,
-      "name": "Bibimbap",
-      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
+      "duration_ms": 218589,
+      "name": "Early to Dawn (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
     },
     {
       "added_at": null,

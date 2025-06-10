@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 111538,
+  "num_followers": 111562,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+    },
+    {
+      "added_at": "2025-06-06 03:51:39",
+      "album": {
         "name": "Caf\u00e9 Da MaLu",
         "url": "https://open.spotify.com/album/67YGP2kKjYUIX5o7L4nty3"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 187826,
       "name": "Farol Das Estrelas",
       "url": "https://open.spotify.com/track/4PN2Yi1mnWn2S29mfW97uA"
-    },
-    {
-      "added_at": "2025-06-06 03:51:39",
-      "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
-      },
-      "artists": [
-        {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        },
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        }
-      ],
-      "duration_ms": 206779,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
     },
     {
       "added_at": "2025-06-06 03:51:39",
@@ -459,22 +459,22 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         },
         {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
         }
       ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+      "duration_ms": 206779,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
     },
     {
       "added_at": "2025-06-06 03:51:39",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2025-06-06 03:51:39",
-      "album": {
         "name": "VEJA BABY (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+    },
+    {
+      "added_at": "2025-06-06 03:51:39",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2025-06-06 03:51:39",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
+        "name": "Rio de Janeiro",
+        "url": "https://open.spotify.com/album/4vjfZrlmuGONBGn0E4GKWx"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 183061,
+      "name": "Rio de Janeiro",
+      "url": "https://open.spotify.com/track/5D4q61RINH3rVIrFAon43f"
+    },
+    {
+      "added_at": "2025-06-06 03:51:39",
+      "album": {
         "name": "Te Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 197883,
       "name": "Rara",
       "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
-    },
-    {
-      "added_at": "2025-06-06 03:51:39",
-      "album": {
-        "name": "Rio de Janeiro",
-        "url": "https://open.spotify.com/album/4vjfZrlmuGONBGn0E4GKWx"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 183061,
-      "name": "Rio de Janeiro",
-      "url": "https://open.spotify.com/track/5D4q61RINH3rVIrFAon43f"
     },
     {
       "added_at": "2025-06-06 03:51:39",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2025-06-06 03:51:39",
+      "album": {
         "name": "Rainha da Minha Bateria",
         "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 243850,
       "name": "Rainha da Minha Bateria",
       "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
-    },
-    {
-      "added_at": "2025-06-06 03:51:39",
-      "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2025-06-06 03:51:39",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
-        "name": "Estrelas",
-        "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Luiz",
-          "url": "https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Estrelas",
-      "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
-    },
-    {
-      "added_at": "2025-06-06 03:51:39",
-      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2025-06-06 03:51:39",
       "album": {
+        "name": "Estrelas",
+        "url": "https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Luiz",
+          "url": "https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Estrelas",
+      "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
+    },
+    {
+      "added_at": "2025-06-06 03:51:39",
+      "album": {
         "name": "L\u00edrios S\u00e3o Deusas",
         "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 188160,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
-    },
-    {
-      "added_at": "2025-06-06 03:51:39",
-      "album": {
-        "name": "Manh\u00e3",
-        "url": "https://open.spotify.com/album/7KeOzMbG53zD6klOJ9Ezga"
-      },
-      "artists": [
-        {
-          "name": "Ceano",
-          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Manh\u00e3",
-      "url": "https://open.spotify.com/track/4Xi1snyepODSQMlDSkm3DB"
     },
     {
       "added_at": "2025-06-06 03:51:39",
@@ -1179,6 +1163,22 @@
       "duration_ms": 245676,
       "name": "Sala De Estar",
       "url": "https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6"
+    },
+    {
+      "added_at": "2025-06-06 03:51:39",
+      "album": {
+        "name": "Manh\u00e3",
+        "url": "https://open.spotify.com/album/7KeOzMbG53zD6klOJ9Ezga"
+      },
+      "artists": [
+        {
+          "name": "Ceano",
+          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Manh\u00e3",
+      "url": "https://open.spotify.com/track/4Xi1snyepODSQMlDSkm3DB"
     },
     {
       "added_at": "2025-06-06 03:51:39",

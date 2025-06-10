@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffc\ud83e\ude87\ud83c\udfba\ud83e\ude98",
-  "num_followers": 41874,
+  "num_followers": 41882,
   "original_name": "Full Tropical",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-14 18:45:21",
       "album": {
-        "name": "Entre Beso y Beso",
-        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 153488,
-      "name": "Entre Beso y Beso",
-      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
-    },
-    {
-      "added_at": "2024-06-14 18:45:21",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 196360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2024-06-14 18:45:21",
+      "album": {
+        "name": "Entre Beso y Beso",
+        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 153488,
+      "name": "Entre Beso y Beso",
+      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
     },
     {
       "added_at": "2024-06-14 18:45:21",

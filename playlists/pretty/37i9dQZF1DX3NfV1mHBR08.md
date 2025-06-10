@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,581 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,577 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 31 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
 | 32 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 33 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
-| 34 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
-| 35 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
+| 34 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
+| 35 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
 | 36 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
-| 37 | [Hello Tomorrow](https://open.spotify.com/track/07cmN1rIdiIlclzwP8dgWt) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Hello Tomorrow](https://open.spotify.com/album/3c7PNxFn4fLSR5d7pZEpwK) | 2:52 |
-| 38 | [I'm happy](https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 3:41 |
+| 37 | [I'm happy](https://open.spotify.com/track/3Qfjzd5Rd7xjlQBm5pGcuM) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 3:41 |
+| 38 | [Hello Tomorrow](https://open.spotify.com/track/07cmN1rIdiIlclzwP8dgWt) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Hello Tomorrow](https://open.spotify.com/album/3c7PNxFn4fLSR5d7pZEpwK) | 2:52 |
 | 39 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
 | 40 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 41 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |

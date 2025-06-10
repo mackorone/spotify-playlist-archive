@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,703 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,707 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 4 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
 | 5 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
 | 6 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
-| 7 | [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 |
-| 8 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
+| 7 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:06 |
+| 8 | [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 |
 | 9 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 10 | [If I Ruled the World \(Imagine That\) \(feat\. Lauryn Hill\)](https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 4:42 |
 | 11 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 18 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
 | 19 | [Touch It](https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:34 |
 | 20 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
-| 21 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
-| 22 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
+| 21 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
+| 22 | [Gangsta](https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Gangsta \(Remix\)](https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD) | 3:36 |
 | 23 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
 | 24 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
 | 25 | [Hate Me Now \(feat\. Diddy\)](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:44 |

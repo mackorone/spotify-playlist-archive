@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Lil Wayne, GloRilla, French Montana and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,637 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,676 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

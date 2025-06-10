@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,400 likes - 197 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,426 likes - 197 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 7 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 8 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 |
 | 9 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 |
-| 10 | [All Time Low](https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:37 |
-| 11 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 |
+| 10 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 |
+| 11 | [All Time Low](https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:37 |
 | 12 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 |
 | 13 | [Trumpets](https://open.spotify.com/track/6jizk5lOUnfpaZXYMdfeC6) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:37 |
 | 14 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 110 | [Little Bird](https://open.spotify.com/track/44SDwuvTP3NeCmigJAyYnO) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 3:09 |
 | 111 | [Miracle](https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:21 |
 | 112 | [It's Not All About You](https://open.spotify.com/track/1oRACEX7ci9IrxsbxfvAsw) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 2:31 |
-| 113 | [Friends](https://open.spotify.com/track/7aeC8XRoU9s8b0OPUfUbtJ) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [II: The Sword](https://open.spotify.com/album/0R1Eo8UVrKyn6Vo0rxFuNP) | 2:53 |
-| 114 | [KID AGAIN](https://open.spotify.com/track/3Fy7lEei8XAAUbPFyTypae) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:19 |
+| 113 | [KID AGAIN](https://open.spotify.com/track/3Fy7lEei8XAAUbPFyTypae) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:19 |
+| 114 | [Friends](https://open.spotify.com/track/7aeC8XRoU9s8b0OPUfUbtJ) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [II: The Sword](https://open.spotify.com/album/0R1Eo8UVrKyn6Vo0rxFuNP) | 2:53 |
 | 115 | [Mah's Joint \(feat\. Quincy Jones\)](https://open.spotify.com/track/1SefvAcZtoZo22njnX2qy7) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 8:01 |
 | 116 | [Less I Know](https://open.spotify.com/track/7IqFFpzXG4fE8ZSxwxXYGY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [NOTED… \(Japan Edition\)](https://open.spotify.com/album/45gcIDScZD0UKwsib7Vfo8) | 2:46 |
 | 117 | [2 Rocking Chairs](https://open.spotify.com/track/7pqWbzEcQOahkdDeTQJSUP) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:59 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 196 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 197 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AbznvgAAAADK6p4nKB1VxEktjp2vpqzc`
+Snapshot ID: `AbztVAAAAAAsyRDBSBrssJ7M+paz5tX8`

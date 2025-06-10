@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 
 > Su música, como ellos, es eterna\. José José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,706 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,713 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 39 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
 | 40 | [El Último Trago \- Remastered](https://open.spotify.com/track/462NxL8bZEDNKQV8fCQ1Ks) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Obsesión \(Digitally Remastered\)](https://open.spotify.com/album/73aoI1tkGsSFBVyWYdzGwx) | 2:33 |
 | 41 | [Guacarock Del Santo](https://open.spotify.com/track/5tHOJYiBkvOKdIl7sFkCuV) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 3:35 |
-| 42 | [El Día Que Me Quieras](https://open.spotify.com/track/2LdjqsBZHy5RdUUzdbtcka) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Carlos Gardel](https://open.spotify.com/album/7dJE0Yi1vCL10OgysqFbJS) | 3:22 |
-| 43 | [No Discutamos](https://open.spotify.com/track/3kkkjHun0BfnpBZfiQJgfd) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 2:15 |
+| 42 | [No Discutamos](https://open.spotify.com/track/3kkkjHun0BfnpBZfiQJgfd) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 2:15 |
+| 43 | [El Día Que Me Quieras](https://open.spotify.com/track/2LdjqsBZHy5RdUUzdbtcka) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Carlos Gardel](https://open.spotify.com/album/7dJE0Yi1vCL10OgysqFbJS) | 3:22 |
 | 44 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 |
 | 45 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 |
 | 46 | [Eso Y Mas](https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:39 |

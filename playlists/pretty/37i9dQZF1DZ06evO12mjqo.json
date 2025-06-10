@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 458861,
+  "num_followers": 458937,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAD+94pko0PCLmmVbbqpjYtB",
+  "snapshot_id": "aETSgAAAAACDw4IpJI+cG26mqvNFQ64o",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Umbra",
-      "url": "https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4"
+      "duration_ms": 255160,
+      "name": "Marks Of The Evil One",
+      "url": "https://open.spotify.com/track/4v7LlPFQvjgZKP3bBnfFjR"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Marks Of The Evil One",
-      "url": "https://open.spotify.com/track/4v7LlPFQvjgZKP3bBnfFjR"
+      "duration_ms": 331800,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Missionary Man",
-      "url": "https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantomime",
         "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 249626,
       "name": "Hanging Around",
       "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ"
     },
     {
       "added_at": null,

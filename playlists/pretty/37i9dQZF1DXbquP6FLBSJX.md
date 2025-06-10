@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,597 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,611 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 5 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 6 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 7 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
-| 8 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 |
-| 9 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
+| 8 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
+| 9 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 |
 | 10 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 |
 | 11 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 12 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 28 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
 | 29 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 30 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
-| 31 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
-| 32 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
+| 31 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
+| 32 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
 | 33 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
 | 34 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
-| 35 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
-| 36 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
+| 35 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
+| 36 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 37 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
 | 38 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 39 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |

@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes \ud83c\udf1e the music you need at golden hour ",
-  "num_followers": 565816,
+  "num_followers": 565957,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-06-06 04:00:27",
       "album": {
-        "name": "I Do (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 196558,
-      "name": "I Do - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
-    },
-    {
-      "added_at": "2025-06-06 04:00:27",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 260000,
       "name": "Swim",
       "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
+    },
+    {
+      "added_at": "2025-06-06 04:00:27",
+      "album": {
+        "name": "I Do (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 196558,
+      "name": "I Do - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     },
     {
       "added_at": "2025-06-06 04:00:27",
@@ -1851,18 +1851,22 @@
     {
       "added_at": "2025-06-06 04:00:27",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "Someone\u2019s EP II X",
+        "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Louis La Roche",
+          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
         }
       ],
-      "duration_ms": 199461,
-      "name": "Palm Trees",
-      "url": "https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm"
+      "duration_ms": 266289,
+      "name": "go with u - Louis La Roche Remix",
+      "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
     }
   ],
   "unique_name": "golden hour",

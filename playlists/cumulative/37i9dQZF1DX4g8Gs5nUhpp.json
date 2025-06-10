@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ho\u00e0ng T\u00f4n",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: MAYDAYs",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 242873,
       "name": "(t\u1eebng l\u00e0) Boyfriend, Girlfriend",
       "url": "https://open.spotify.com/track/0NDMUgq5VLeo7D14NqlfYO"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 207428,
       "name": "B\u1eadn T\u00e2m",
       "url": "https://open.spotify.com/track/5VXtBT4iERn7fJWDf5d6Vm"
@@ -5027,6 +5027,28 @@
     },
     {
       "album": {
+        "name": "N\u1eb1m B\u00ean Anh",
+        "url": "https://open.spotify.com/album/2zHuimussMuVuVhxFAkxBf"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        },
+        {
+          "name": "H\u00e0 An Huy",
+          "url": "https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "N\u1eb1m B\u00ean Anh",
+      "url": "https://open.spotify.com/track/2VtnMr0fZPE166bA5NOyLQ"
+    },
+    {
+      "album": {
         "name": "N\u1ebfn V\u00e0 Hoa",
         "url": "https://open.spotify.com/album/6E4LzmxAeQPB3wmuMyucNE"
       },
@@ -5540,6 +5562,24 @@
       "duration_ms": 250122,
       "name": "Sau L\u1eddi T\u1eeb Kh\u01b0\u1edbc (Theme Song From \"MAI\")",
       "url": "https://open.spotify.com/track/36OyVzUmUFb1MTTzy3YXbh"
+    },
+    {
+      "album": {
+        "name": "Sau Ng\u1ea7n \u1ea4y N\u0103m",
+        "url": "https://open.spotify.com/album/1obMczkrrk3hNUAcsrwHBF"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Nhi",
+          "url": "https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279626,
+      "name": "Sau Ng\u1ea7n \u1ea4y N\u0103m",
+      "url": "https://open.spotify.com/track/2k6iN3YG0R1uIWIhY4GsH9"
     },
     {
       "album": {

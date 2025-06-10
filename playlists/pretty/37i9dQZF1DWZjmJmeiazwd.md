@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,449 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,584 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 39 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
 | 40 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
 | 41 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
-| 42 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
-| 43 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
+| 42 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
+| 43 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
 | 44 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 |
 | 45 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 46 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
@@ -98,11 +98,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 88 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 89 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 |
 | 90 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
-| 91 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 |
-| 92 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
+| 91 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
+| 92 | [Stress](https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Antibloom](https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk) | 2:58 |
 | 93 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
-| 94 | [WORSHIP](https://open.spotify.com/track/7IF328weNbUocWsxzosLsB) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [WORSHIP](https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn) | 3:09 |
-| 95 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
+| 94 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
+| 95 | [WORSHIP](https://open.spotify.com/track/7IF328weNbUocWsxzosLsB) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [WORSHIP](https://open.spotify.com/album/1CanZLFJLY6jv5G5pWlZpn) | 3:09 |
 | 96 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
 | 97 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 |
 | 98 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |

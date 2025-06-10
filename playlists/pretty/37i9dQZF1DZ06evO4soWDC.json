@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAB/E2hem+6yK5ciMAPIVHAB",
+  "snapshot_id": "aETSgAAAAAChG80MMYD5l0OyvquCnUga",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 81016,
-      "name": "The Shimmie Shake",
-      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
       },
       "artists": [
         {
@@ -516,57 +516,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176518,
-      "name": "Get Sad, See Mates",
-      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We See You",
-        "url": "https://open.spotify.com/album/0sqdkJXyLMPq830ZzBA3GF"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 201162,
-      "name": "Rose Of No Man's Land",
-      "url": "https://open.spotify.com/track/2iViUcShYdNuXhyDJhMDZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
     },
     {
       "added_at": null,
@@ -587,6 +539,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We See You",
+        "url": "https://open.spotify.com/album/0sqdkJXyLMPq830ZzBA3GF"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 201162,
+      "name": "Rose Of No Man's Land",
+      "url": "https://open.spotify.com/track/2iViUcShYdNuXhyDJhMDZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tassie",
         "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
       },
@@ -599,6 +615,54 @@
       "duration_ms": 92958,
       "name": "C",
       "url": "https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackies Are On The March",
+        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 135630,
+      "name": "Jackies Are On The March",
+      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
     },
     {
       "added_at": null,
@@ -631,70 +695,6 @@
       "duration_ms": 190200,
       "name": "Guillotines in Arbour Park",
       "url": "https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Western Junction",
-      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jackies Are On The March",
-        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 135630,
-      "name": "Jackies Are On The March",
-      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
     },
     {
       "added_at": null,

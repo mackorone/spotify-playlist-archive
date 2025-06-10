@@ -2369,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU"
+      },
+      "artists": [
+        {
+          "name": "Casmalia",
+          "url": "https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT"
+        },
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97"
+    },
+    {
+      "album": {
         "name": "EXTASI",
         "url": "https://open.spotify.com/album/2lu7qZsqPBEGx0mghY3mgN"
       },

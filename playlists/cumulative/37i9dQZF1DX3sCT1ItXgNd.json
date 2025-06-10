@@ -2335,6 +2335,28 @@
     },
     {
       "album": {
+        "name": "Copa Celosa",
+        "url": "https://open.spotify.com/album/3lblVmvaIntEqfGQRk4sCI"
+      },
+      "artists": [
+        {
+          "name": "Lennis Rodriguez",
+          "url": "https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200336,
+      "name": "Copa Celosa",
+      "url": "https://open.spotify.com/track/6MlTwgMX65MQMBln4cSspb"
+    },
+    {
+      "album": {
         "name": "Copa Vac\u00eda",
         "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
       },
@@ -4480,7 +4502,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 178767,
       "name": "Esa Diva",
       "url": "https://open.spotify.com/track/6utHjfvlsCAj0V6Wg6mXqx"
@@ -4822,7 +4844,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
@@ -8845,6 +8867,24 @@
     },
     {
       "album": {
+        "name": "Ni demasiados, ni bastantes",
+        "url": "https://open.spotify.com/album/3GfpgBioG2DGZyNTlDI0Mn"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200962,
+      "name": "Ni demasiados, ni bastantes",
+      "url": "https://open.spotify.com/track/4rxLXDOOLSR8oN8qv6vCdq"
+    },
+    {
+      "album": {
         "name": "Ni la mitad",
         "url": "https://open.spotify.com/album/3uGM9ztZYoni87Jy8Bq2QZ"
       },
@@ -11544,7 +11584,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 241087,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/57ZbyAga41GuUkzjbMNDXW"
@@ -12478,6 +12518,24 @@
       "duration_ms": 164833,
       "name": "Suerte ;)",
       "url": "https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA"
+    },
+    {
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "album": {
@@ -13673,6 +13731,24 @@
     },
     {
       "album": {
+        "name": "Una bala",
+        "url": "https://open.spotify.com/album/0Wd2FEfFs4JHA8h9RxznO4"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135776,
+      "name": "Una bala",
+      "url": "https://open.spotify.com/track/2TVuktKJq3rUXjSkcGGNM3"
+    },
+    {
+      "album": {
         "name": "Una boda en Las Vegas",
         "url": "https://open.spotify.com/album/7GPoKpYUloKF1rXiwx60km"
       },
@@ -14190,7 +14266,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186581,
       "name": "Vuelvo A Ti",
       "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"

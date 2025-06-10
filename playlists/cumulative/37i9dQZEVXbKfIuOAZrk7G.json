@@ -25414,7 +25414,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 149817,
       "name": "good girls",
       "url": "https://open.spotify.com/track/0omoINYneUCby7DVJyiWuC"
@@ -25432,7 +25432,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 149817,
       "name": "good girls",
       "url": "https://open.spotify.com/track/74Hu97uhlBsOiZLu6L5FbB"
@@ -27164,7 +27164,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 169927,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/7shaHtNeaR9wolLuJOLqfH"
@@ -27182,7 +27182,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 169933,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/1AdGNSJFB5vwk3Wgxfieyq"
@@ -38376,7 +38376,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
@@ -38402,7 +38402,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -45270,7 +45270,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 146086,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
@@ -46226,6 +46226,24 @@
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,251 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,244 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,21 +28,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 | 18 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
 | 19 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 20 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
-| 21 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 |
-| 22 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 21 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 22 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 |
 | 23 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 24 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 25 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 26 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
-| 27 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
-| 28 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 27 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 28 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
 | 29 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
 | 30 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 |
 | 31 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
 | 32 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 33 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 |
-| 34 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
-| 35 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 34 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 35 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 36 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 |
 | 37 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 |
 | 38 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |

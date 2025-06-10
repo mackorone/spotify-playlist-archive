@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,474 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,732 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 21 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |
 | 22 | [Kaash Aisa Hota](https://open.spotify.com/track/32IjXlRFxNtJ4eMhKAUrSX) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kaash Aisa Hota](https://open.spotify.com/album/6sp5v7jZvHZBZUqCasMTNj) | 3:32 |
 | 23 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
-| 24 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 |
+| 24 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
 | 25 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
-| 26 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |
+| 26 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 |
 | 27 | [Teri Ho Na Saki](https://open.spotify.com/track/4wr3QwOxLqh4uBlHKhtTlx) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Shayad Woh Sune](https://open.spotify.com/album/46DB2EWNmSBSZc5YlCdmCm) | 3:51 |
 | 28 | [Achha Sila Diya](https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5) | [Achha Sila Diya](https://open.spotify.com/album/7cwXuOBoenVpKagfx3BAzF) | 5:17 |
 | 29 | [Koi Si](https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/6ygmcKWcYou8isVIdje83u) | 3:23 |

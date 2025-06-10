@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,560 likes - 200 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,570 likes - 200 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 199 | [Nightscape, Pt\. 1](https://open.spotify.com/track/1NBoFhYZy1gugrVWBpvV0B) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Nightscape](https://open.spotify.com/album/4mgoGgYqfrfTi6Ozdl73OE) | 2:26 |
 | 200 | [Precious Time](https://open.spotify.com/track/2xcKXBb8yAyRX37RkvaozM) | [Evah Linnet](https://open.spotify.com/artist/2BOqxhLZK8i0dICth5U9VH) | [Precious Time](https://open.spotify.com/album/2gvgYNTWQ0lMaaGt09aXcZ) | 2:52 |
 
-Snapshot ID: `AAAAANrP2iYau3pYXUg8MolD1maTsyXO`
+Snapshot ID: `aEA2egAAAAD5nVyy2PYoyyPWDtl9+9Bx`

@@ -1,6 +1,6 @@
 {
   "description": "A bit of then, a bit of now and everything in-between. Pop you can rely on. Cover: Amy Shark",
-  "num_followers": 147817,
+  "num_followers": 147815,
   "original_name": "GO-TO Pop",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZMuy4AAAAAB+8UEGUJBK0Yx4v4+mgvO5",
   "tracks": [
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
-    },
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "DNCE",
         "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Who You Are (Platinum Edition)",
-        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        },
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Price Tag",
-      "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "FRIENDS KEEP SECRETS",
         "url": "https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ"
       },
@@ -1127,22 +1107,22 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         }
       ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+      "duration_ms": 223053,
+      "name": "Price Tag",
+      "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1159,6 +1139,26 @@
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "Where The Shadow Ends",
-        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219801,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
-    },
-    {
-      "added_at": "2023-08-03 14:00:00",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-08-03 14:00:00",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "Where The Shadow Ends",
+        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
         }
       ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+      "duration_ms": 219801,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
     },
     {
       "added_at": "2023-08-03 14:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2023-08-03 14:00:00",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2023-08-03 14:00:00",

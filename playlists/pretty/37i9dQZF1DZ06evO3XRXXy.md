@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,620 likes - 44 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,659 likes - 44 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 15 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
 | 16 | [In The Rain](https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:00 |
 | 17 | [Going Home \- Edit](https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:16 |
-| 18 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
-| 19 | [The Way We Were](https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:50 |
+| 18 | [The Way We Were](https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 2:50 |
+| 19 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
 | 20 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
 | 21 | [The Wedding Song](https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 3:21 |
 | 22 | [The Promise](https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Heart And Soul](https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o) | 5:13 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 43 | [Edelweiss](https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:27 |
 | 44 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `aEOBAAAAAADAY0MTbgpgoL2W3WCVBlLK`
+Snapshot ID: `aETSgAAAAABacROCeukLSO3u00q5Gix4`

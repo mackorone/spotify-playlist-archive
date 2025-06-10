@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,882 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,980 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 34 | [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 |
 | 35 | [ÁREA 51 V1](https://open.spotify.com/track/6okYMF49yT9YKC56hhmkFg) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:41 |
 | 36 | [Ya Corazón](https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ) | 2:57 |
-| 37 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
+| 37 | [Fino Con Los Valentino](https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 2:23 |
 | 38 | [Sad Loqueron](https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:01 |
-| 39 | [Fino Con Los Valentino](https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 2:23 |
+| 39 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
 | 40 | [La Pelinegra](https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Pelinegra](https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO) | 2:35 |
 | 41 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 | 42 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 46 | [Sonrisa Colgate](https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:25 |
 | 47 | [Fendi](https://open.spotify.com/track/4aonjvCesaUl0RG6uoaDkB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/3FwyHCGkhKFLYCukbLgrWK) | 3:00 |
 | 48 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
-| 49 | [Un Idiota](https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Un Idiota](https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD) | 2:46 |
-| 50 | [Saquen Plan](https://open.spotify.com/track/0MmeB4RIogO44d1Nc4WUlD) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Saquen Plan](https://open.spotify.com/album/4nPFcIiGejgP1fjBlouRZ6) | 2:49 |
+| 49 | [Saquen Plan](https://open.spotify.com/track/0MmeB4RIogO44d1Nc4WUlD) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Saquen Plan](https://open.spotify.com/album/4nPFcIiGejgP1fjBlouRZ6) | 2:49 |
+| 50 | [Un Idiota](https://open.spotify.com/track/2kln6Dz6kMmhXnYlHiOO0b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Un Idiota](https://open.spotify.com/album/3DdrQabBO8WZasZNJbNbCD) | 2:46 |
 
-Snapshot ID: `aEOBAAAAAAB02iRKpePZq7Z/r34jtHF8`
+Snapshot ID: `aETSgAAAAAD2yBUlHyWe7tD3u0hndRuC`

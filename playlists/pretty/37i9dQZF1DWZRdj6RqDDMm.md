@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Theresa Phondo & Praise Umali
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,632 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,019 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [NEW MAN](https://open.spotify.com/track/5kDbguGWpYYVrPqea82REe) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [NEW MAN](https://open.spotify.com/album/2WU2dNuXAPRwQeaEo8udk2) | 2:53 |
 | 100 | [resolve\~](https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [resolve\~](https://open.spotify.com/album/49aeURRkNoDukqUGy68vLo) | 2:39 |
 
-Snapshot ID: `aEIv2QAAAABIKMn4FG2nbibUV0Hck3R4`
+Snapshot ID: `aEIv2QAAAADg/f43G8yRKFdCw9oMIdOp`

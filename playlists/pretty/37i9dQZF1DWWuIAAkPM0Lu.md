@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra MORTEN og Nik & Jay, Bette og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,667 likes - 103 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,670 likes - 103 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

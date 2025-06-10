@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,203 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,416 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 91 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 |
 | 92 | [A Quien](https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Siempre Karina](https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6) | 3:55 |
 | 93 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
-| 94 | [Bye Mamá](https://open.spotify.com/track/6qm9NgyyFpgOUT0wbZYRoZ) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Bye Mamá](https://open.spotify.com/album/4MCRdtCfDBVTTvre7X9gl0) | 4:17 |
-| 95 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
-| 96 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
-| 97 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
-| 98 | [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 |
+| 94 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
+| 95 | [Para Amarnos Más](https://open.spotify.com/track/4bkP33ihkdl6CQVpzAYD5L) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Un Hombre Discreto](https://open.spotify.com/album/7MASmAxzjt1vBQqMcwrjtM) | 3:28 |
+| 96 | [Bye Mamá](https://open.spotify.com/track/6qm9NgyyFpgOUT0wbZYRoZ) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Bye Mamá](https://open.spotify.com/album/4MCRdtCfDBVTTvre7X9gl0) | 4:17 |
+| 97 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
+| 98 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
 | 99 | [Tu Amante o Tu Enemigo](https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 2:59 |
 | 100 | [Solo Él Y Yo](https://open.spotify.com/track/0G8zH9qCj0eXD55BAsNhTa) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Otra Vez](https://open.spotify.com/album/6K9mQMZejVTCBsXs6wtizd) | 3:45 |
 

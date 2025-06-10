@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,897 songs - 4 day 2 hr 28 min
+1,898 songs - 4 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1473,7 +1473,7 @@
 | [Solen i ditt hår](https://open.spotify.com/track/5q4NOwKrVYyjiG0atpdhCh) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Solen i ditt hår](https://open.spotify.com/album/1t6ruqX8hCz8QMb10gf6IJ) | 2:59 | 2024-05-09 | 2024-06-07 |
 | [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 | 2023-02-09 |
 | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/track/2gd1LE7hK53p0UBuVKYFth) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SOLEN VISAR MIG VÄGEN](https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW) | 3:36 | 2024-06-20 | 2024-08-23 |
-| [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-04-17 |  |
+| [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-04-17 | 2025-06-10 |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
 | [Solsken](https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 3:05 | 2023-11-23 | 2024-03-08 |
 | [Som att du aldrig va min](https://open.spotify.com/track/4MIsR3JEkdsUoZ1kdGhzI6) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Som att du aldrig va min](https://open.spotify.com/album/7Mg09qhZIUPKnwmBWGKsmk) | 2:23 | 2024-05-09 | 2024-06-07 |
@@ -1792,6 +1792,7 @@
 | [Vinna – Spotify Studio Recording \(från "De fria"\)](https://open.spotify.com/track/0jmFU3z2S6URDHVdwyV27s) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Vinna – Spotify Studio Recording \(från "De fria"\)](https://open.spotify.com/album/5rdfKaVdj9wKhRkPq0iBVE) | 4:12 | 2022-01-13 | 2022-07-29 |
 | [Vinner med hjärtat](https://open.spotify.com/track/4GaaZq0RxAFXIDZTdBJWFV) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g) | [Vinner med hjärtat](https://open.spotify.com/album/0CE7iMsfFu47FCHdBbKG4R) | 3:22 | 2021-12-16 | 2022-01-14 |
 | [VinterNoll2](https://open.spotify.com/track/0Hi1VOMriBzaCRarkRBDso) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VinterNoll2](https://open.spotify.com/album/5QRvBFuOavuQGxmJ1PHK3l) | 3:05 | 2021-12-16 | 2022-09-16 |
+| [Visa vid vindens ängar](https://open.spotify.com/track/7f32bNrOzhPp3Ukb19tqoI) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Visa vid vindens ängar](https://open.spotify.com/album/7zhoRHmKPQbhqdCeNdolgq) | 3:41 | 2025-06-05 |  |
 | [Vita Boots](https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij) | [Mia Elfqvist](https://open.spotify.com/artist/3fBR86TB3VE259lsDTjvoC) | [Vita Boots](https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4) | 2:16 | 2024-08-29 | 2025-01-04 |
 | [Vita väggar](https://open.spotify.com/track/5JxfUSVHz6Icx4CUXj5mTQ) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Claras dagbok](https://open.spotify.com/album/3U4LDho4X3lDdgZV0O5gwV) | 3:41 | 2021-12-16 | 2022-04-01 |
 | [Vittran \- Radio Edit](https://open.spotify.com/track/6elAv52VzdVC7TUsaSvo9Q) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Vittran](https://open.spotify.com/album/1NiKWKJk2cDbpo0kQm26pv) | 3:33 | 2021-12-16 | 2022-03-01 |

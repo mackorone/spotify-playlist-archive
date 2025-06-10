@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,940 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,929 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 52 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 |
 | 53 | [Something In The Air](https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD) | [Thunderclap Newman](https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF) | [Hollywood Dream \(Expanded Edition\)](https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87) | 3:54 |
 | 54 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
-| 55 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
-| 56 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
+| 55 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
+| 56 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
 | 57 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 58 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 | 59 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 68 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 69 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
 | 70 | [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 |
-| 71 | [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 |
-| 72 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
+| 71 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
+| 72 | [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 |
 | 73 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 |
 | 74 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 |
 | 75 | [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 |

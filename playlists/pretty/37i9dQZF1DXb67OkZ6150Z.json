@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Beach Fossils",
-  "num_followers": 300384,
+  "num_followers": 300400,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-05-09 04:00:08",
       "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 125739,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
+    },
+    {
+      "added_at": "2025-05-09 04:00:08",
+      "album": {
         "name": "Horror Show",
         "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
-    },
-    {
-      "added_at": "2025-05-09 04:00:08",
-      "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 125739,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
     },
     {
       "added_at": "2025-05-09 04:00:08",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-09 04:00:08",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 303054,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
-    },
-    {
-      "added_at": "2025-05-09 04:00:08",
-      "album": {
         "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
         "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+    },
+    {
+      "added_at": "2025-05-09 04:00:08",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 303054,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
     },
     {
       "added_at": "2025-05-09 04:00:08",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-05-09 04:00:08",
       "album": {
+        "name": "Charm You (Blondshell Version)",
+        "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Charm You - Blondshell Version",
+      "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
+    },
+    {
+      "added_at": "2025-05-09 04:00:08",
+      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
       },
@@ -1207,22 +1227,18 @@
     {
       "added_at": "2025-05-09 04:00:08",
       "album": {
-        "name": "Charm You (Blondshell Version)",
-        "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 178928,
-      "name": "Charm You - Blondshell Version",
-      "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
+      "duration_ms": 193927,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
       "added_at": "2025-05-09 04:00:08",
@@ -1259,22 +1275,6 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
-    },
-    {
-      "added_at": "2025-05-09 04:00:08",
-      "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 193927,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
     },
     {
       "added_at": "2025-05-09 04:00:08",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-05-09 04:00:08",
       "album": {
+        "name": "Thank You for Sending Me an Angel",
+        "url": "https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Thank You for Sending Me an Angel",
+      "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
+    },
+    {
+      "added_at": "2025-05-09 04:00:08",
+      "album": {
         "name": "Broken Glass, Vol. 6",
         "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 225013,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
-    },
-    {
-      "added_at": "2025-05-09 04:00:08",
-      "album": {
-        "name": "Thank You for Sending Me an Angel",
-        "url": "https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Thank You for Sending Me an Angel",
-      "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
     },
     {
       "added_at": "2025-05-09 04:00:08",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2025-05-09 04:00:08",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+        "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/5iT2I6aOLxLTqpAmXl6hVN"
       },
       "artists": [
         {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+      "duration_ms": 249789,
+      "name": "Sea of Love (with The National) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/2SUfpiTVAMqC4HEdTn1PPf"
     }
   ],
   "unique_name": "Indie Covers",

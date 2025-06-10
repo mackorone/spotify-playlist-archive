@@ -699,6 +699,26 @@
     {
       "added_at": "2024-01-02 21:29:06",
       "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Matthew Santos",
+          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Superstar (feat. Matthew Santos)",
+      "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
+    },
+    {
+      "added_at": "2024-01-02 21:29:06",
+      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -719,22 +739,6 @@
     {
       "added_at": "2024-01-02 21:29:06",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2024-01-02 21:29:06",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
       },
@@ -751,22 +755,18 @@
     {
       "added_at": "2024-01-02 21:29:06",
       "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        },
-        {
-          "name": "Matthew Santos",
-          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Superstar (feat. Matthew Santos)",
-      "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-01-02 21:29:06",

@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: Black Sherif
 
-380 songs - 19 hr 19 min
+382 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Activate](https://open.spotify.com/track/2ZuZUUpVLwR2O5qcStq5mm) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:38 | 2023-04-27 | 2023-05-12 |
 | [Active](https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:52 | 2024-08-29 | 2024-10-19 |
 | [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-05-14 | 2025-05-13 |
+| [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 | 2025-06-09 |  |
 | [Agyekum](https://open.spotify.com/track/4OE0KrJtQYCMV5f5ddmW5g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 2:58 | 2025-03-14 |  |
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-23 | 2024-05-15 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-26 | 2023-11-14 |
@@ -41,7 +42,7 @@
 | [Asiwaju](https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:36 | 2024-01-26 | 2025-03-15 |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2023-01-16 | 2024-05-15 |
 | [Ask About Me](https://open.spotify.com/track/4bE2eWDiGBzRgfTl5IPBW4) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:55 | 2023-09-27 | 2023-10-27 |
-| [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 |  |
+| [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 | 2025-06-10 |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-09-23 | 2023-10-27 |
 | [Auntie Ama](https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 4:34 | 2024-05-14 | 2025-03-15 |
@@ -300,6 +301,7 @@
 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2025-03-14 |  |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-23 | 2023-09-10 |
 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-04-04 |  |
+| [Sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-06-09 |  |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-01 | 2023-01-17 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2023-11-14 |
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2021-07-16 | 2023-02-24 |
@@ -385,7 +387,7 @@
 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 | 2024-08-29 | 2025-03-15 |
 | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/track/3jDxl1SAnCCZ6TIod7uD7n) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [You Dey Feel The Vibe \(Live\)](https://open.spotify.com/album/3MdmMxsZPo4hSM0XvOx6PN) | 5:03 | 2023-07-07 | 2023-09-22 |
 | [YOUR BODY](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [YOUR BODY](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-10-01 |
-| [Your Ghost](https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Your Ghost / Ayekoo](https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B) | 2:42 | 2025-05-30 |  |
+| [Your Ghost](https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Your Ghost / Ayekoo](https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B) | 2:42 | 2025-05-30 | 2025-06-10 |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2024-05-15 |
 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 | 2025-03-15 |
 

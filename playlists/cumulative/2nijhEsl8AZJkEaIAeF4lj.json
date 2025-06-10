@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G"
+    },
+    {
+      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,723 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,761 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 25 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 26 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 27 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
-| 28 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
-| 29 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
-| 30 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 |
-| 31 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 28 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
+| 29 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
+| 30 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 31 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 |
 | 32 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 33 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 |
 | 34 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 |

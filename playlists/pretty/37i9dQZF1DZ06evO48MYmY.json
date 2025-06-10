@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 343987,
+  "num_followers": 344019,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADX9dUerrgiFf/JhorYExNv",
+  "snapshot_id": "aETSgAAAAAB1yGVkvnxj/dMAWUFBtF3p",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Friends Live On Stage",
-        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Tom and Jerry Story - Live at Madison Square Garden, New York, NY - December 2003",
-      "url": "https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30d3\u30c3\u30b0\u30fb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30fb\u30a2\u30eb\u30d0\u30e0 \u30b5\u30a4\u30e2\u30f3\uff06\u30ac\u30fc\u30d5\u30a1\u30f3\u30af\u30eb",
         "url": "https://open.spotify.com/album/3mD7HfA1y3j34SYNO8LJQs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 112160,
       "name": "\uff14\u6708\u306b\u306a\u308c\u3070\u5f7c\u5973\u306f",
       "url": "https://open.spotify.com/track/5hqXK8hP4crpL6c2m0Z07Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Friends Live On Stage",
+        "url": "https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 134213,
+      "name": "Tom and Jerry Story - Live at Madison Square Garden, New York, NY - December 2003",
+      "url": "https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS"
     }
   ],
   "unique_name": "This Is Simon & Garfunkel",

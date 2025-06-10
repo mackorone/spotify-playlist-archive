@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,493 likes - 45 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,585 likes - 45 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 | 44 | [Na Tutteya Ve](https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Wajiha Naqvi](https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9), [Sehar Gul Khan](https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk) | [Na Tutteya Ve](https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD) | 4:47 |
 | 45 | [Dil Khirki](https://open.spotify.com/track/6YrKCcOXiZQHHU6YxWUHZj) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Dil Khirki](https://open.spotify.com/album/3K9z78A8qaaJ2W4IZ8BRcY) | 3:24 |
 
-Snapshot ID: `AAAAAFwXPho6yIZnF2M51dWP0xgTZpwH`
+Snapshot ID: `Z07VxgAAAADx8TNPsRumxnhrV42BO9Ll`

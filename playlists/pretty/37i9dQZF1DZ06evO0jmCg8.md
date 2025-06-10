@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,832 likes - 49 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,849 likes - 49 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 11 | [My Apocalypse](https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 5:25 |
 | 12 | [Deceiver, Deceiver](https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 3:51 |
 | 13 | [No Gods, No Masters](https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:14 |
-| 14 | [Blood Dynasty](https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:51 |
+| 14 | [Paper Tiger](https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:56 |
 | 15 | [We Will Rise](https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:06 |
 | 16 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
 | 17 | [Reason to Believe](https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:47 |
-| 18 | [Paper Tiger](https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:56 |
+| 18 | [Blood Dynasty](https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:51 |
 | 19 | [As the Pages Burn](https://open.spotify.com/track/3BkqtdD3Vc90C3JFtTTVqI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:01 |
 | 20 | [Sunset over the Empire](https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:03 |
 | 21 | [First Day in Hell](https://open.spotify.com/track/7uqohNjCnZ8sZd5S2vh5vx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 48 | [Through the Eyes of a Raven](https://open.spotify.com/track/5f60khlT0IoDy2ontDl3aD) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 5:09 |
 | 49 | [The Day You Died](https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:52 |
 
-Snapshot ID: `aEOBAAAAAABs7Icd7VSKweQrQQtyL3oZ`
+Snapshot ID: `aETSgAAAAADRmJqJOlChAcc3yV2M0+/1`

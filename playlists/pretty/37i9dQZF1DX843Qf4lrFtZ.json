@@ -1,6 +1,6 @@
 {
   "description": "that\u2019s how it's supposed to be. living young, wild and free!!!!!",
-  "num_followers": 2679992,
+  "num_followers": 2679688,
   "original_name": "young, wild & free",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -487,18 +487,26 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -523,26 +531,18 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 247626,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 211294,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 211294,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "2step",
+      "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "2step",
-      "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
@@ -1731,26 +1751,6 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Seventeen Going Under",
+        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Seventeen Going Under",
-        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 302360,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
     },
     {
       "added_at": "2024-02-12 16:10:18",

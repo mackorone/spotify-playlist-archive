@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,431 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,440 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 48 | [Sorrindo à Toa \- Remix](https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sorrindo à Toa \(Remix\)](https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg) | 2:35 |
 | 49 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 50 | [Dançando na Chuva \- Remix](https://open.spotify.com/track/5sh75lzhuAOjIOydFNhTUr) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Dançando na Chuva \(Remix\)](https://open.spotify.com/album/3Q5BZjgvWG9x5mI5OTg1Dg) | 3:13 |
-| 51 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
-| 52 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
+| 51 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
+| 52 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 53 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
 | 54 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
 | 55 | [Imparável](https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj) | 2:43 |

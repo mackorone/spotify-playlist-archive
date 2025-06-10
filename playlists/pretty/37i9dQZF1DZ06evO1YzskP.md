@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,491 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,513 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [El Niño De La Tuna](https://open.spotify.com/track/1zeVhRm7Nd1dVcWCwcCVcY) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9) | 2:47 |
 | 50 | [Los Pasajes Del Sera](https://open.spotify.com/track/62FMTKHZSmPnTZrZJvPHMy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:43 |
 
-Snapshot ID: `aEOBAAAAAADJFpsAUMqx/HtDrIM/5WBN`
+Snapshot ID: `aETSgAAAAAA/N8MlD8Je5iEluXYd7Bc7`

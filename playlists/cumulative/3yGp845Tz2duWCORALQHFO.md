@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,096 songs - 7 day 0 hr 10 min
+3,098 songs - 7 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1369,6 +1369,7 @@
 | [Into The Light](https://open.spotify.com/track/3bqYzYM51Xs0r6OE9g97HQ) | [KOTA](https://open.spotify.com/artist/6ITAoEms3oFqutCE1H3dyk) | [Into The Light](https://open.spotify.com/album/3Wt2JS94f9LgFMS8coXoMG) | 6:24 | 2024-09-06 | 2024-09-13 |
 | [Into the Light](https://open.spotify.com/track/613s858VGvS1eluzeoANyd) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [Mary Rose Brown](https://open.spotify.com/artist/5mh5yEVqTZMKKfXmSzmycj) | [Into the Light](https://open.spotify.com/album/4zzN3SWJzn3VtYOZuEtSfJ) | 3:14 | 2025-05-16 | 2025-05-23 |
 | [Into The Light](https://open.spotify.com/track/6lfLhhLctto5W7RYGQ3dp8) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Into The Light](https://open.spotify.com/album/0B4p6iOAt5TuWhVwsIXKvB) | 2:36 | 2025-05-02 | 2025-05-10 |
+| [Into The Light \- Repiet Remix](https://open.spotify.com/track/3F5JFRFRo3AXOkSMa6wCyd) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Into The Light \(feat\. Miggy Dela Rosa\) \[Repiet Remix\]](https://open.spotify.com/album/7LQg7Ti33M9PL3lzs7faqy) | 2:50 | 2025-06-09 |  |
 | [Into the Void](https://open.spotify.com/track/0qxS6NZFBE9HYqQku4RLi7) | [Bass Candy Music](https://open.spotify.com/artist/5g460F5kSbhkYAd7u1hhrG) | [Into the Void](https://open.spotify.com/album/54fsEmMp7yEu77XjmYTiuA) | 3:41 | 2025-03-07 | 2025-03-15 |
 | [Intuition](https://open.spotify.com/track/4fBG1WOKM01uzY0ifOMQtd) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Intuition](https://open.spotify.com/album/2lpebUJmjCJASX1b9Iu29Q) | 2:57 | 2024-10-04 | 2024-10-12 |
 | [Invert](https://open.spotify.com/track/0DIUpOcnBuqY4ubaLfBq7S) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm) | [Invert](https://open.spotify.com/album/0GmryhtGh66oQIrfBqjPOQ) | 3:53 | 2025-02-13 | 2025-02-22 |
@@ -2268,6 +2269,7 @@
 | [Road Runner](https://open.spotify.com/track/3jRF15pliXwl1WN7GaEuRC) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Road Runner](https://open.spotify.com/album/4TdRYdW5JbDBuBQzBLtoEI) | 3:18 | 2025-02-06 | 2025-02-14 |
 | [Road Runs Out \- BYOR Remix](https://open.spotify.com/track/2RroJLECfLjHRIWz58SK0a) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Road Runs Out \(BYOR Remix\)](https://open.spotify.com/album/2ykjz8GUYVdydpRxWrj5Qh) | 2:54 | 2024-06-28 | 2024-07-06 |
 | [Road To Nothing](https://open.spotify.com/track/7FGEAhnzmuHhttUAEihnax) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Road To Nothing](https://open.spotify.com/album/57IX4na8EcVegXGiAACS4N) | 3:27 | 2025-05-16 | 2025-05-23 |
+| [Robert et Robert \- Mother Remix by Play Paul](https://open.spotify.com/track/1b8XecYLKeRtXjHkdzPgQI) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Play Paul](https://open.spotify.com/artist/7lIIilMB5xwbRUeZY6QfuQ) | [Robert et Robert \(Mother Remix by Play Paul\)](https://open.spotify.com/album/5WFlwCiFMPVo2jGpgNYybo) | 4:50 | 2025-06-09 |  |
 | [Robot Ravolution](https://open.spotify.com/track/6ZnQGHGcB1LU0X2Tl08bts) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [Robot Ravolution](https://open.spotify.com/album/29ZJULqFan3puJjuEXssW0) | 3:12 | 2024-11-15 | 2024-11-23 |
 | [Rock My World](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [Rock My World](https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe) | 3:18 | 2025-03-14 | 2025-03-22 |
 | [Rock The House](https://open.spotify.com/track/7u95bREFrttCYkHUEARwYG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The House](https://open.spotify.com/album/14CcOmDbh7oVvFJgXLIx63) | 2:17 | 2024-11-24 | 2024-11-30 |

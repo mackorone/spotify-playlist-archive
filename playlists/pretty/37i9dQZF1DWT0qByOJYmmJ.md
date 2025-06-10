@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,590 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,556 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 20 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 |
 | 21 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 |
 | 22 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 |
-| 23 | [Combustión](https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblame de Tú](https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu) | 3:58 |
+| 23 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 24 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 25 | [Mamá](https://open.spotify.com/track/34yQeTktePdLm0b95RffPw) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Mamá](https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR) | 2:55 |
 | 26 | [Amor Viejo](https://open.spotify.com/track/3W5h65cRwTaZ1FCvEw6Ltx) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Amor Viejo](https://open.spotify.com/album/5X9lk7ihH8XySmuhGGXRUN) | 2:17 |
-| 27 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
+| 27 | [Combustión](https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblame de Tú](https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu) | 3:58 |
 | 28 | [309](https://open.spotify.com/track/0q37bjxhRwzjtZynlU9ZsI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:34 |
 | 29 | [siempreestoypati](https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Transiciones](https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf) | 3:26 |
 | 30 | [TRELLAS](https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:37 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 63 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 64 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 65 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
-| 66 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
-| 67 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 |
-| 68 | [Mapas](https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [La Próxima Tormenta](https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg) | 4:20 |
+| 66 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 |
+| 67 | [Mapas](https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [La Próxima Tormenta](https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg) | 4:20 |
+| 68 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
 | 69 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 |
 | 70 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
 | 71 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: MAX BARSKIH
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,232 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,236 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 62 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 63 | [Врубай](https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Врубай](https://open.spotify.com/album/2mVqd1fBBrN4aFQ083mB9X) | 2:30 |
 | 64 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
-| 65 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 |
+| 65 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
 | 66 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 |
 | 67 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 |
-| 68 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
+| 68 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 |
 | 69 | [Різні](https://open.spotify.com/track/41SjxgeszHB9sHIDF8uv0z) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Різні](https://open.spotify.com/album/66H5dnzRkTXifMuwP4355H) | 3:14 |
-| 70 | [Посилать](https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Посилать](https://open.spotify.com/album/1s6ntybnzHb68tXPNPScFn) | 2:56 |
+| 70 | [Невже](https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Невже](https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI) | 3:01 |
 
 Snapshot ID: `aEIFZwAAAADYEyjIHMFM7GSDOkTrk7It`

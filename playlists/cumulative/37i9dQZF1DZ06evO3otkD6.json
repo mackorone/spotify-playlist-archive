@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225197,
+      "name": "Heterocrom\u00eda",
+      "url": "https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 164930,
       "name": "Wet Dreams",
       "url": "https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa"

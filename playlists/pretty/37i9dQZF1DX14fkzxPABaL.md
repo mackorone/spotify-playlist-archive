@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Alejandro Sanz & Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,109 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,166 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 100 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 |
 | 101 | [Cobarde \(cumbialada\)](https://open.spotify.com/track/3HvegDkSYo7I9KFH7E4us2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cobarde \(cumbialada\)](https://open.spotify.com/album/5JSQZT62fDd4znJwwqPZeQ) | 3:09 |
 
-Snapshot ID: `aC/kuwAAAAAiuC6MlHsq31PO+e99yra8`
+Snapshot ID: `aC/kuwAAAADKXXA7EBH5ddaXLwW/F5hw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,420 likes - 43 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,466 likes - 43 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 33 | [FUMETEO \- Remix](https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:34 |
 | 34 | [Promesa](https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:26 |
 | 35 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 |
-| 36 | [QUÉ QUIERES DE MI? \(feat\. Eladio Carrion\)](https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 4:14 |
-| 37 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
+| 36 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
+| 37 | [QUÉ QUIERES DE MI? \(feat\. Eladio Carrion\)](https://open.spotify.com/track/6w1eQ7AxYB8Y6YQGJR9jBT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 4:14 |
 | 38 | [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 |
 | 39 | [Tu Ritmo](https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:38 |
 | 40 | [Mi Error](https://open.spotify.com/track/4o4HQPKJQEsPq36BJqWWUr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:35 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 42 | [Salgo a Buscarte \(feat\. Ele A El Dominio\)](https://open.spotify.com/track/2TzXxkRbz5fo31Crzn56mb) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Chosen Few New Generation II \- Recharged](https://open.spotify.com/album/382jindm6my1i05NJfXQLr) | 3:21 |
 | 43 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
 
-Snapshot ID: `aEOBAAAAAACGroyzumMqffR479n+KrLn`
+Snapshot ID: `aETSgAAAAABp9TUPmz06/SPMdDWUY8sp`

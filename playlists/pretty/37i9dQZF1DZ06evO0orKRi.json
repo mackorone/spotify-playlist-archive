@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24386,
+  "num_followers": 24389,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABqBEVOGT8D53lNHvyfJbrR",
+  "snapshot_id": "aETSgAAAAACYsbZZlIJOQF10LMF94Ub3",
   "tracks": [
     {
       "added_at": null,
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 180906,
-      "name": "A Pub With No Beer - 1979 Version",
-      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
+      "duration_ms": 155026,
+      "name": "Duncan",
+      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 155026,
-      "name": "Duncan",
-      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
+      "duration_ms": 180906,
+      "name": "A Pub With No Beer - 1979 Version",
+      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Angel Of Goulburn Hill",
-      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195586,
       "name": "Mechanised Swaggie",
       "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Angel Of Goulburn Hill",
+      "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Kelly's Offsider",
-      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 221306,
       "name": "Matilda No More",
       "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Kelly's Offsider",
+      "url": "https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -580,25 +564,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 156800,
-      "name": "A Bad Day's Fishin'",
-      "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 245613,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
+      "duration_ms": 180666,
+      "name": "The Bloke Who Serves The Beer",
+      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
     },
     {
       "added_at": null,
@@ -628,9 +596,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 245613,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 180666,
-      "name": "The Bloke Who Serves The Beer",
-      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
+      "duration_ms": 156800,
+      "name": "A Bad Day's Fishin'",
+      "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,

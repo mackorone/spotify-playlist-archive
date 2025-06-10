@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,846 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,567 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 49 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 |
 | 50 | [We'll Be The Stars](https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:06 |
 
-Snapshot ID: `aEOBAAAAAABh1PtPsdvJtjhHuE1xkPbD`
+Snapshot ID: `aETSgAAAAAD75z+uwaIcN8nDRZVQlBVK`

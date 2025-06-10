@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,705 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,721 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 49 | [Error](https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Error](https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u) | 3:29 |
 | 50 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 |
 
-Snapshot ID: `aEOBAAAAAADTnNRREJrZ8kyH4Bpjdlnu`
+Snapshot ID: `aETSgAAAAAC9HTqmHIIQGmrcA/Ns8ErE`

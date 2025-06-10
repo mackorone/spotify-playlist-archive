@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Sabrina Carpenter, Ed Sheeran, DYSTINCT & Jul au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,495 likes - 98 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,479 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

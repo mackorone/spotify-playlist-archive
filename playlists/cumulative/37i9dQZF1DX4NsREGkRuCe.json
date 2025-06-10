@@ -585,6 +585,32 @@
     },
     {
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138614,
+      "name": "Al-Jannah",
+      "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+    },
+    {
+      "album": {
         "name": "I Dream In Color",
         "url": "https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh"
       },
@@ -1190,7 +1216,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 234767,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
@@ -1304,7 +1330,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 177013,
       "name": "Apr\u00e8s Minuit (feat. Tiakola)",
       "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
@@ -1718,7 +1744,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
@@ -2210,7 +2236,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 195789,
       "name": "Be There Still",
       "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
@@ -2944,6 +2970,28 @@
       "duration_ms": 159720,
       "name": "Bodycon",
       "url": "https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx"
+    },
+    {
+      "album": {
+        "name": "Bon Appetit",
+        "url": "https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152068,
+      "name": "Bon Appetit",
+      "url": "https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5"
     },
     {
       "album": {
@@ -6388,7 +6436,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 238555,
       "name": "Fire",
       "url": "https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn"
@@ -6480,6 +6528,24 @@
       "duration_ms": 194400,
       "name": "FIREGUN (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9"
+    },
+    {
+      "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186220,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
     },
     {
       "album": {
@@ -8398,7 +8464,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 161153,
       "name": "I Go",
       "url": "https://open.spotify.com/track/6nyrnM6E1rRaZM8YiDPbEu"
@@ -10972,7 +11038,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Maj\u1eb9kaj\u00e1",
       "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
@@ -12356,7 +12422,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 148235,
       "name": "My Dealer (Remix)",
       "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
@@ -13605,6 +13671,28 @@
     },
     {
       "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "album": {
         "name": "Olufunmi Reimagined",
         "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
       },
@@ -13972,6 +14060,36 @@
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
+    },
+    {
+      "album": {
+        "name": "Only You (feat. F3line)",
+        "url": "https://open.spotify.com/album/1siEKDe9EZzWqxZYFiM1Yu"
+      },
+      "artists": [
+        {
+          "name": "Young Legend",
+          "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
+        },
+        {
+          "name": "Joel Dre",
+          "url": "https://open.spotify.com/artist/5DyaR5YlAjYxC0HcRHihY5"
+        },
+        {
+          "name": "Victor Collins",
+          "url": "https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH"
+        },
+        {
+          "name": "F3line",
+          "url": "https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139335,
+      "name": "Only You (feat. F3line)",
+      "url": "https://open.spotify.com/track/7Deuug1tXugjsVLgXAFRHe"
     },
     {
       "album": {
@@ -15568,7 +15686,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 202958,
       "name": "Risk",
       "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
@@ -17787,6 +17905,28 @@
     },
     {
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "album": {
         "name": "For Your Soul (Extended Edition)",
         "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
       },
@@ -17842,7 +17982,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
@@ -18142,7 +18282,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 182640,
       "name": "Troubled Mind",
       "url": "https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9"
@@ -19530,7 +19670,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 152417,
       "name": "Woza",
       "url": "https://open.spotify.com/track/58GA6ogxMNO5aEGnW9fbly"

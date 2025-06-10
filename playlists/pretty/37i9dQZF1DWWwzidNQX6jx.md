@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 
 > These songs rocked the 70s\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,120,610 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,120,718 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 3 | [Bat Out of Hell](https://open.spotify.com/track/3mCeeoBvTTpg8Xy2Wuvirw) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 9:50 |
 | 4 | [Piano Man](https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 5:36 |
 | 5 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
-| 6 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
-| 7 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 |
+| 6 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 |
+| 7 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
 | 8 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
 | 9 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 10 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 34 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
 | 35 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 36 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
-| 37 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
-| 38 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
+| 37 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
+| 38 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 |
 | 39 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
 | 40 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
 | 41 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 82 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 83 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 | 84 | [Foreplay / Long Time](https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 7:47 |
-| 85 | [Aqualung](https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 6:36 |
-| 86 | [No More Mr\. Nice Guy](https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 3:07 |
+| 85 | [No More Mr\. Nice Guy](https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 3:07 |
+| 86 | [Aqualung](https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 6:36 |
 | 87 | [Who'll Stop The Rain](https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:27 |
 | 88 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 |
 | 89 | [All the Young Dudes](https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 3:31 |

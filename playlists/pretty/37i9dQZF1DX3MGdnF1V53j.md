@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > DYSTINCT & French Montana on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,599 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,619 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 21 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 |
 | 22 | [Lalla \(feat\. Hamza\)](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla \(feat\. Hamza\)](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
 | 23 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
-| 24 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 |
-| 25 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
+| 24 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
+| 25 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 |
 | 26 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 |
 | 27 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 |
 | 28 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 36 | [Ghir Sir](https://open.spotify.com/track/594Ewmtl0PYcqV15oSqaeP) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ghir Sir](https://open.spotify.com/album/0Avi4DWRYLrnQ6TmEQea6f) | 2:45 |
 | 37 | [Bouhali](https://open.spotify.com/track/7xO6CfFdUb5meXwUFkGAYV) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Bouhali](https://open.spotify.com/album/6kkrS3firsO8bP9rklJAHQ) | 3:11 |
 | 38 | [Alby Ydo2](https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Alby Ydo2](https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37) | 2:21 |
-| 39 | [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 |
-| 40 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 39 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
+| 40 | [Ensay](https://open.spotify.com/track/66Kb1uA4cIUeUbEL3SR2Rs) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ensay](https://open.spotify.com/album/3FXPwcGyoHMfqur3X6twlx) | 3:01 |
 | 41 | [Malou Hada](https://open.spotify.com/track/7fcugJNDknFN8uwtypNUaL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Malou Hada](https://open.spotify.com/album/7oPeaC4zmpxJw6zOq5IueA) | 2:26 |
 | 42 | [Dream](https://open.spotify.com/track/7qkKTvMlCRC2VZ4fjyKZOu) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Dream](https://open.spotify.com/album/6G3DcLtH640Po7Ch5fJDSY) | 2:24 |
 | 43 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 51 | [Machi 3adi](https://open.spotify.com/track/5LMlEIZB05DzkNcvvF3WGo) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Machi 3adi](https://open.spotify.com/album/7ds6gFjCD41GxFElWOxGeK) | 2:50 |
 | 52 | [Leave Me Alone](https://open.spotify.com/track/1D5FZkwiKo5Et1nEubk1fn) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Leave Me Alone](https://open.spotify.com/album/5W4MQvkE4IQdv5E9AGWwmu) | 3:28 |
 | 53 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 |
-| 54 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
-| 55 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |
+| 54 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |
+| 55 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
 | 56 | [Maghreb Mashup 2024](https://open.spotify.com/track/46fsLjBJfxYm3hcBXjZJ6H) | [APPI3](https://open.spotify.com/artist/673PHmeKP7xQGFSVfZNl4W), [NDM](https://open.spotify.com/artist/1i6frs7ZgdH0x2LpA60SwK) | [Maghreb Mashup 2024](https://open.spotify.com/album/0Y6Ijnl23zcb4oo6Xn9YgG) | 3:30 |
 | 57 | [Sba7 El Kheir](https://open.spotify.com/track/3QhVq4qQT4mAZl4vYjL8JX) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Sba7 El Kheir](https://open.spotify.com/album/2dPMIHo7m8vADoZywAyqQK) | 2:39 |
 | 58 | [Dis khamsa](https://open.spotify.com/track/0TzSI4yCx5iQTfQnHEvdNU) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Dis khamsa](https://open.spotify.com/album/0QCA66WMc7imENYl58yo6x) | 3:25 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 76 | [Ya zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Ya zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
 | 77 | [Ma Beauté](https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Ma Beauté](https://open.spotify.com/album/20ADCU0OoQzdlPylKnGepx) | 3:01 |
 | 78 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 |
-| 79 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 |
-| 80 | [Como Tu](https://open.spotify.com/track/3uKwrJ8mXJdWsxYFxKLCKP) | [Zoya Baraghamyan](https://open.spotify.com/artist/5j9BFM8EBjxu5O87BVZ9dI) | [Como Tu](https://open.spotify.com/album/0EegUpZEW0s1DSTBvAsCQf) | 2:11 |
+| 79 | [Yemma](https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Yemma](https://open.spotify.com/album/42u4hiZGAjRvVfAO2LrcWt) | 3:11 |
+| 80 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 |
 
 Snapshot ID: `aEITiwAAAABlxi4Stz1u4QoQ3rvalNa7`

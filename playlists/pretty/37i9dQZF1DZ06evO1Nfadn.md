@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,084 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,103 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 37 | [Jacinto Pérez de la o](https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 3:06 |
 | 38 | [Corazón Corazoncito](https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:22 |
 | 39 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 |
-| 40 | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \- 30 Aniversario En Vivo](https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \(30 Aniversario En Vivo\)](https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl) | 3:35 |
-| 41 | [El Avestruz](https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:33 |
+| 40 | [El Avestruz](https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:33 |
+| 41 | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \- 30 Aniversario En Vivo](https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \(30 Aniversario En Vivo\)](https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl) | 3:35 |
 | 42 | [Si la Ven por Ahí](https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:50 |
 | 43 | [Mujer Paseada](https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:22 |
 | 44 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Los Vaqueritos](https://open.spotify.com/track/6YxBZqcArkXnPCcIyiwzmA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los Vaqueritos](https://open.spotify.com/album/2pVXnHH43mAqv5uMeFaPUw) | 3:32 |
 | 50 | [Tu Precio](https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:52 |
 
-Snapshot ID: `aEOBAAAAAADfWDSpIzc02OaJZP+2UZzS`
+Snapshot ID: `aETSgAAAAAAa9a/JC9cW65U2NS0TzCQk`

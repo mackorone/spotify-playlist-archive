@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,133 likes - 30 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,149 likes - 30 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 6 | [Ladders To Sumeria](https://open.spotify.com/track/0MHj9bCzoNtKVIuEGnUeH6) | [Melechesh](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY) | [Emissaries](https://open.spotify.com/album/1U7kNAiW1wSPMbDNrPoipu) | 4:01 |
 | 7 | [Sidi Arbi](https://open.spotify.com/track/34hbQxtu8e8tw1mDvVkIIT) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 3:35 |
 | 8 | [Atba'a Al\-Namrood](https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh) | [Al\-Namrood](https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E) | [Jaish Al\-Namrood](https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6) | 5:07 |
-| 9 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 |
-| 10 | [Ankh](https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd) | [Scarab](https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4) | [Blinding the Masses](https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr) | 5:00 |
+| 9 | [Ankh](https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd) | [Scarab](https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4) | [Blinding the Masses](https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr) | 5:00 |
+| 10 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 |
 | 11 | [Jasmin](https://open.spotify.com/track/6xIo0HSCFkIlrosMSQUrDS) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Legacy](https://open.spotify.com/album/4Ygb9xxtYpsMO0LBtztXWc) | 1:48 |
 | 12 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
 | 13 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |

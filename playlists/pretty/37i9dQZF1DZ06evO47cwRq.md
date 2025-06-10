@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,906,012 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,906,586 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,6 +53,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 43 | [Battle Symphony](https://open.spotify.com/track/3FQCJI2t5LTbsRPfYVBSVB) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:36 |
 | 44 | [Iridescent](https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 4:56 |
 | 45 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 |
-| 46 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 |
 
-Snapshot ID: `aEOBAAAAAAAiDVcyEf0bOT8vwg8FhNyV`
+Snapshot ID: `aETSgAAAAACQ13WDJdoBHP67mQHvU7eP`

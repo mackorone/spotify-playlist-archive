@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aTaZa0K6VA.md) - [plain]
 
 > Super mega hits! Foto: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,736,194 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,735,480 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

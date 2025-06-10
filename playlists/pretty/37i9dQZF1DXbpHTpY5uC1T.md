@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpHTpY5uC1T.md) - [plain]
 
 > rolitas para abrazar la tristeza 😔
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,690 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,924 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpHTpY5uC1T.md) - [plain]
 | 20 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
 | 21 | [FERRARI SIN FRENOS](https://open.spotify.com/track/6nIVM3bIspevgROybexogw) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef), [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [FERRARI SIN FRENOS](https://open.spotify.com/album/38vMEW6cPajOKaHUCHzfoJ) | 3:06 |
 | 22 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
-| 23 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
-| 24 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
+| 23 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
+| 24 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
 | 25 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 26 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 |
 | 27 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |

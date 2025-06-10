@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8466,
+  "num_followers": 8475,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACpiLv6KXjea9eNW8QvC99z",
+  "snapshot_id": "aETSgAAAAABud3JW3pjt1SX1L/n9D2WF",
   "tracks": [
     {
       "added_at": null,
@@ -383,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ai Caralh*",
-        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
-      },
-      "artists": [
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Ai Caralh*",
-      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ai Caralh*",
+        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
+      },
+      "artists": [
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Ai Caralh*",
+      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
     },
     {
       "added_at": null,

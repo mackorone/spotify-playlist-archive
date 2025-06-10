@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Ana wiyek (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/5C7AcWhYlE9sBvtxDwdEqn"
+      },
+      "artists": [
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Ana wiyek (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/1RyS0gEH3qWvpnxQykmkh5"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -5988,7 +6010,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 180744,
       "name": "Rassi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN"

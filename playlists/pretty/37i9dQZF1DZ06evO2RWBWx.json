@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 24997,
+  "num_followers": 25016,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAB3oTy2LZZCSjJfqYd3iQbh",
+  "snapshot_id": "aETSgAAAAADhoHoI4MN7QitIVh87Y2Hj",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soyokaze",
-        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 216417,
-      "name": "Soyokaze",
-      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
         "url": "https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 239800,
       "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soyokaze",
+        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 216417,
+      "name": "Soyokaze",
+      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRIENDS!!!",
-        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 232649,
-      "name": "FRIENDS!!!",
-      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
+      "duration_ms": 202373,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
+        "name": "FRIENDS!!!",
+        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 202373,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+      "duration_ms": 232649,
+      "name": "FRIENDS!!!",
+      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
     },
     {
       "added_at": null,
@@ -319,6 +319,26 @@
       "duration_ms": 212826,
       "name": "Happy Order?",
       "url": "https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6587\u901a",
+        "url": "https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "\u6587\u901a",
+      "url": "https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW"
     },
     {
       "added_at": null,
@@ -355,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3E4UUWzgGUH9555Hpp7dNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boy (feat. asmi & imase)",
         "url": "https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps"
       },
@@ -375,42 +411,6 @@
       "duration_ms": 194916,
       "name": "boy - feat. asmi & imase",
       "url": "https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3E4UUWzgGUH9555Hpp7dNn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6587\u901a",
-        "url": "https://open.spotify.com/album/72AKPZX0qZbQGvulknFOpo"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "\u6587\u901a",
-      "url": "https://open.spotify.com/track/1MhkgWuOIiwYaKbTnOgtBW"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 (imase \u00d7 mabanua MIX)",
+        "url": "https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 - imase \u00d7 mabanua MIX",
+      "url": "https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EGOIST",
         "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
       },
@@ -511,6 +527,30 @@
       "duration_ms": 192226,
       "name": "EGOIST",
       "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
+        "url": "https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "\u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
+          "url": "https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
+      "url": "https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ"
     },
     {
       "added_at": null,
@@ -539,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 (imase \u00d7 mabanua MIX)",
-        "url": "https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "\u3044\u3044\u6e6f\u3060\u306a 2025 - imase \u00d7 mabanua MIX",
-      "url": "https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shine Out",
         "url": "https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 210537,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
-        "url": "https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "\u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
-          "url": "https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6"
-        }
-      ],
-      "duration_ms": 286200,
-      "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
-      "url": "https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "LIT",
-      "url": "https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8703\u6c17\u697c",
         "url": "https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 209466,
       "name": "\u8703\u6c17\u697c",
       "url": "https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "LIT",
+      "url": "https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH"
     },
     {
       "added_at": null,

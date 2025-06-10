@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,934 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,015 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 81 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 |
 | 82 | [Outside Today](https://open.spotify.com/track/3sA7HKGzcKTVscdiTCrWpX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 2:09 |
 | 83 | [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 |
-| 84 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
-| 85 | [Codeine Crazy](https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:46 |
-| 86 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 |
+| 84 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 |
+| 85 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
+| 86 | [Codeine Crazy](https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:46 |
 | 87 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 88 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 |
 | 89 | [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 93 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Taste \(feat\. Offset\)](https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR) | 3:52 |
 | 94 | [No Limit](https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 4:05 |
 | 95 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
-| 96 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 |
-| 97 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 |
+| 96 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 |
+| 97 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 |
 | 98 | [Juicy](https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:23 |
 | 99 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
-| 100 | [Crooked Smile \(feat\. TLC\)](https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:38 |
+| 100 | [Calling My Spirit](https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:32 |
 
 Snapshot ID: `Z8FDBAAAAAATVVFpH4taOvE4zLgK6SM7`

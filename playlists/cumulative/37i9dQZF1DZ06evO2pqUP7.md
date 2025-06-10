@@ -4,7 +4,7 @@
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 1 min
+66 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [AMIGA CON BENEFICIOS](https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [AMIGA CON BENEFICIOS](https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS) | 3:13 | 2024-09-29 |  |
 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 | 2023-11-10 |  |
 | [Aventura](https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:37 | 2023-11-10 |  |
-| [Baby \(with Lunay\)](https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:56 | 2024-01-15 |  |
+| [Baby \(with Lunay\)](https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 2:56 | 2024-01-15 | 2025-06-10 |
 | [Baby \(with Lunay\)](https://open.spotify.com/track/6M7gWN4WyOVJxvGDHaMV7E) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Baby \(with Lunay\)](https://open.spotify.com/album/1PXkLwDz944cu3Orl7aQsE) | 2:56 | 2023-11-10 | 2024-01-16 |
+| [Baby \(with Lunay\)](https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [WLGS](https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb) | 2:56 | 2025-06-10 |  |
 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2023-11-10 |  |
 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 | 2023-11-10 |  |
 | [Condado](https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Condado](https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD) | 3:52 | 2023-11-10 |  |

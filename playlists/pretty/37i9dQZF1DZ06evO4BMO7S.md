@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,573 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,588 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 35 | [Better the Mask](https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 3:30 |
 | 36 | [Say It Ain't So \- Recorded At Electric Lady Studios](https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 4:17 |
 | 37 | [Psychopomp](https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 1:15 |
-| 38 | [Exploration \(Ruins\)](https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:10 |
+| 38 | [Main Menu](https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 1:04 |
 | 39 | [Lindsey \- Recorded At Electric Lady Studios](https://open.spotify.com/track/0Wgjuj7ZgodP2eLzzjLSAc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 3:42 |
-| 40 | [Main Menu](https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 1:04 |
+| 40 | [Exploration \(Ruins\)](https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:10 |
 
-Snapshot ID: `aEOBAAAAAAAmr9ugFWTEKhpHhxrB0Tas`
+Snapshot ID: `aETSgAAAAACnsRNfEaupNWo24r/seVe8`

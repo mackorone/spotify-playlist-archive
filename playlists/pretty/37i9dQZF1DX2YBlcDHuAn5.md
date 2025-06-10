@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,338 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,342 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 29 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
 | 30 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 31 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
-| 32 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
-| 33 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
+| 32 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
+| 33 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
 | 34 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
-| 35 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
-| 36 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
+| 35 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
+| 36 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
 | 37 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
 | 38 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
 | 39 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
-| 40 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
-| 41 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
+| 40 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
+| 41 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
 | 42 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |
 | 43 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 |
 | 44 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 47 | [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 |
 | 48 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 49 | [Angel By My Side](https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Angel By My Side](https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz) | 3:15 |
-| 50 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
+| 50 | [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 |
 
 Snapshot ID: `aEITiwAAAABH7PPd4L5z44qSL9F4raIc`

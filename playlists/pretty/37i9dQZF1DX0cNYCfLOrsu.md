@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,139 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,234 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 34 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 |
 | 35 | [Can't Let You Go](https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Can't Let You Go](https://open.spotify.com/album/3x7XvqGzt8oR9Gm0x4r2wV) | 3:14 |
 | 36 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
-| 37 | [Gal a Get More](https://open.spotify.com/track/3gPRyYL4h3E0VUkstlTLSK) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Birchill](https://open.spotify.com/artist/4MuPg5R8uv5DbxKUrlNHwM) | [Heat Rave Riddim](https://open.spotify.com/album/56J8Y59mSz62ZEDj1AeFJs) | 2:46 |
-| 38 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
+| 37 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
+| 38 | [Gal a Get More](https://open.spotify.com/track/3gPRyYL4h3E0VUkstlTLSK) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Birchill](https://open.spotify.com/artist/4MuPg5R8uv5DbxKUrlNHwM) | [Heat Rave Riddim](https://open.spotify.com/album/56J8Y59mSz62ZEDj1AeFJs) | 2:46 |
 | 39 | [Run Di Road](https://open.spotify.com/track/6motja4C4U6oCgtojBTyCI) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Run Di Road](https://open.spotify.com/album/0BKb9d38XK9xmTF3IOoTBc) | 2:24 |
 | 40 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 |
 | 41 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 45 | [Intercourse \(feat\. Popcaan & Mustard\)](https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:17 |
 | 46 | [Nuh Reason](https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Preserve Mi Life](https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR) | 3:18 |
 | 47 | [No Limit](https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/48yig5ryaViHZ3Rh3itItz) | 2:38 |
-| 48 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
-| 49 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
-| 50 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
+| 48 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
+| 49 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
+| 50 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
 | 51 | [Don Walk](https://open.spotify.com/track/72MXBT0ZqohXULxmkYVKRz) | [Rymez](https://open.spotify.com/artist/6lUWb46h9Y8H8cqpW3i0pc), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Don Walk](https://open.spotify.com/album/5YwjKEC86hGgSwR5RM77PI) | 3:28 |
 | 52 | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo) | [Krishane](https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK) | 3:20 |
 | 53 | [Gangster Love](https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Gangster Love](https://open.spotify.com/album/1uUWqM3BSmNSUoM6FZtAcN) | 2:11 |

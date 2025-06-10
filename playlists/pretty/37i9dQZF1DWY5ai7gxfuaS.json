@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 315388,
+  "num_followers": 315414,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "DOWN (feat. Malevolence)",
         "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 234549,
       "name": "DOWN (Feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 142153,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fuck What You Heard",
-        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
       "artists": [
         {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Fuck What You Heard",
-      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+        "name": "Fuck What You Heard",
+        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
       },
       "artists": [
         {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
         }
       ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+      "duration_ms": 197600,
+      "name": "Fuck What You Heard",
+      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
     },
     {
       "added_at": "2024-07-19 10:51:43",

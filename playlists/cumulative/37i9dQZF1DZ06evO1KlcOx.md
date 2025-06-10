@@ -52,7 +52,7 @@
 | [It Feels Alright](https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:02 | 2022-05-29 |  |
 | [Labyrinth](https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 3:47 | 2022-05-29 |  |
 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 | 2022-05-29 |  |
-| [Little Boat/Bone Dance \(Audrey\)](https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 3:06 | 2022-06-08 |  |
+| [Little Boat/Bone Dance \(Audrey\)](https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 3:06 | 2022-06-08 | 2025-06-10 |
 | [Little Gray Cat](https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 4:25 | 2022-05-29 |  |
 | [Living Room](https://open.spotify.com/track/1nJV1JGWf61WRJy851LO34) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 2:22 | 2022-05-29 |  |
 | [Made of Air](https://open.spotify.com/track/6PI2CNvpsv3k2ofK6cq42N) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 11:24 | 2022-05-30 | 2022-10-13 |
@@ -86,6 +86,6 @@
 | [When We Fall](https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:07 | 2022-05-29 |  |
 | [Wind and Snow](https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:30 | 2022-05-29 |  |
 | [Wind Return](https://open.spotify.com/track/5zGdE2LqYQia3ZOO6DVJ9j) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 5:55 | 2022-05-29 | 2023-12-14 |
-| [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 | 2022-05-29 | 2025-06-02 |
+| [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 | 2022-05-29 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

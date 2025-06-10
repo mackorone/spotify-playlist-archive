@@ -4,11 +4,11 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-140 songs - 7 hr 20 min
+141 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 | 2022-12-18 |  |
+| [30 Blindadas](https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Blindadas](https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG) | 2:06 | 2022-12-18 | 2025-06-10 |
 | [70 Calaveras](https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Principio Y El Fin](https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH) | 3:02 | 2022-06-01 | 2024-07-25 |
 | [70 Calaveras \- En Vivo](https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [70 Calaveras \(En Vivo\)](https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe) | 2:49 | 2022-11-26 |  |
 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 | 2022-06-01 |  |
@@ -130,6 +130,7 @@
 | [Te Sigo Amando](https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:13 | 2022-06-01 | 2025-05-11 |
 | [Te Vi Con Él](https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Te Vi Con Él](https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY) | 3:07 | 2025-05-07 |  |
 | [Tolin Infante \(En Vivo\)](https://open.spotify.com/track/3xnxQoLbFAPqVzbZdhf37m) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Tolin Infante \(En Vivo\)](https://open.spotify.com/album/6hNqFGCRdl3xY33GqqHao4) | 4:02 | 2022-12-17 | 2025-03-20 |
+| [Tommy Vercetti](https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:22 | 2025-06-10 |  |
 | [TU COQUETTE](https://open.spotify.com/track/2K67yKQzOxyWZPpgEMgnBH) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:22 | 2025-03-03 |  |
 | [TU COQUETTE](https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [TU COQUETTE](https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o) | 2:22 | 2024-05-07 | 2025-04-05 |
 | [Tu Ingratitud](https://open.spotify.com/track/5kiFSCCngEKd1YCkelaTz4) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:28 | 2022-06-02 | 2024-01-29 |

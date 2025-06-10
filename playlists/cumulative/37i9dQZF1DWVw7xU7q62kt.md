@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-543 songs - 1 day 0 hr 44 min
+544 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Hidden Gems](https://open.spotify.com/track/2yAs9J6qFOdr7JuaWBDsM4) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Sedimental](https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO) | 2:37 | 2024-06-07 | 2025-05-17 |
 | [Hideouts](https://open.spotify.com/track/0VD1obEexRZeAfYMluwSox) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Hideouts](https://open.spotify.com/album/2482yoojUTuPHgC2PdUHxY) | 2:12 | 2024-06-07 | 2025-05-17 |
 | [High Stakes](https://open.spotify.com/track/6kURl2z8oL9QPeFH4GlKhd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [High Stakes](https://open.spotify.com/album/5Ji2T3G9TQIB7jiP5TT8Kc) | 1:46 | 2024-09-20 | 2024-12-06 |
+| [Highest Floor](https://open.spotify.com/track/7AzbtCz4H1XXADZXh0dZGW) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Highest Floor](https://open.spotify.com/album/68tPJYLQ5Hq35UbpZ4iHyu) | 1:48 | 2025-06-06 |  |
 | [Hike](https://open.spotify.com/track/0P8ABxAkKJxySRHy1mr5bJ) | [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Hike](https://open.spotify.com/album/2Wt43PSVHfKBZECoXMOrnd) | 1:54 | 2025-05-02 |  |
 | [Hit the Lights](https://open.spotify.com/track/4InFEKneua0HUGrwHuZ78h) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [Flowzz](https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv) | [Hit the Lights](https://open.spotify.com/album/6hESTwKEAi1Qacec4JSuxy) | 2:06 | 2024-09-06 |  |
 | [Holding the Balance](https://open.spotify.com/track/0jjp28jbWxzc3mFgzmJWS6) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL) | [Holding the Balance](https://open.spotify.com/album/5FkB1jQP6zAqLD2HN5wFg7) | 3:11 | 2025-02-07 | 2025-03-03 |
@@ -487,7 +488,7 @@
 | [The Pearl That Glitters](https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Pearl That Glitters](https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW) | 3:43 | 2023-10-13 | 2024-09-01 |
 | [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 | 2023-11-17 | 2024-12-14 |
 | [The Portal](https://open.spotify.com/track/18S4fMwB1dE6dgjLZXlL79) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [The Portal](https://open.spotify.com/album/7tXAy7j7gTTOkvChmnplAt) | 2:34 | 2024-08-23 | 2024-10-05 |
-| [The Rain](https://open.spotify.com/track/3OGSUXjjmV3Nf9F8IgScfI) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Shoganai](https://open.spotify.com/artist/2ye57fswWGmqTjYVUNxH9X) | [The Rain](https://open.spotify.com/album/7DPQ8dSpEogHEaTNpmwarp) | 3:10 | 2025-05-02 |  |
+| [The Rain](https://open.spotify.com/track/3OGSUXjjmV3Nf9F8IgScfI) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Shoganai](https://open.spotify.com/artist/2ye57fswWGmqTjYVUNxH9X) | [The Rain](https://open.spotify.com/album/7DPQ8dSpEogHEaTNpmwarp) | 3:10 | 2025-05-02 | 2025-06-10 |
 | [The Road Ends Here](https://open.spotify.com/track/1YAFhTLsFCBrOTxm2kIrje) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [The Road Ends Here](https://open.spotify.com/album/0ycy8md7dKU4mmETlUmcVL) | 2:14 | 2025-04-11 |  |
 | [The Start of Something New](https://open.spotify.com/track/4yX8YNUdCdxMpujziFkQsq) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Amess](https://open.spotify.com/artist/2lWv7a6ohSVtXArF7q4dWc) | [The Start of Something New](https://open.spotify.com/album/39iK92ccFFjt6iqwLJxxHJ) | 2:05 | 2025-05-16 |  |
 | [The Sunrise Fool](https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Sunrise Fool](https://open.spotify.com/album/3aF7jsWfr5K70XL0tV0ca6) | 2:54 | 2024-10-25 | 2024-11-16 |

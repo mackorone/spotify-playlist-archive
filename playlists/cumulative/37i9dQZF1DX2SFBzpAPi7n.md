@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Rose\(더 로즈\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-962 songs - 2 day 10 hr 47 min
+965 songs - 2 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,8 @@
 | [Daydream](https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6) | [EUNICE](https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU) | [Daydream](https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI) | 4:03 | 2024-10-27 | 2024-12-14 |
 | [Daylight](https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Parole Examiner Lee, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g) | 3:48 | 2024-11-21 | 2025-01-15 |
 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 | 2025-04-12 |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
+| [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 | 2025-06-10 |  |
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-06-23 | 2022-06-30 |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-08-17 | 2024-03-22 |
@@ -505,6 +507,7 @@
 | [melon](https://open.spotify.com/track/4anw7njgXqWoNABbWwAbEO) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Since the World is About to End](https://open.spotify.com/album/0ACwMoxFMS9lTsuWcRs4WB) | 5:02 | 2022-04-12 | 2022-07-10 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-02 | 2025-02-11 |
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
+| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-10 |  |
 | [Mercury](https://open.spotify.com/track/1Q1lThtKTcrM96wfrh8O6y) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [Mercury](https://open.spotify.com/album/5rEOxoegOUSR6UW1wqkU12) | 5:13 | 2022-06-13 | 2022-06-19 |
 | [Midnight Alley](https://open.spotify.com/track/2BG6adTppcsyXEavjbKwDE) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Midnight Alley 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/6PhsAyoYrGki4rpw0AKQYg) | 3:24 | 2024-12-23 | 2025-03-07 |
 | [Midnight Train 심야행](https://open.spotify.com/track/5frQVgA52nXd4SqlGaQn3H) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 4:17 | 2022-04-21 | 2022-07-29 |
@@ -826,7 +829,7 @@
 | [TIME MACHINE \(2100\)](https://open.spotify.com/track/0YdTWKY4AOJjoFRzvCv8w5) | [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [Psycho Xybernetics : TURN OVER](https://open.spotify.com/album/6Aj2dwrucXX7G1021mfyOQ) | 3:17 | 2023-04-20 | 2023-04-27 |
 | [Tipsy On You](https://open.spotify.com/track/0yluJz564NozEcFDQnHELK) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [BREWING LOVE, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6zqPN5cjxTg4lB5Qfve26K) | 2:42 | 2024-11-06 | 2024-12-14 |
 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 | 2025-03-06 |  |
-| [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2025-03-17 |  |
+| [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2025-03-17 | 2025-06-10 |
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
@@ -897,13 +900,13 @@
 | [Wild Flower](https://open.spotify.com/track/4pT0CQMdBUXa6m9hIO1Rm9) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [Wild Flower \(Kim Seong\-geun's Winter Vacation X THE SOLUTIONS\) \[Original Soundtrack\]](https://open.spotify.com/album/3xM4PS68um9nTMv8UYXaSL) | 3:51 | 2025-03-04 | 2025-03-18 |
 | [Wind Blows](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 | 2022-05-03 | 2022-06-22 |
 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 | 2022-10-02 | 2022-10-19 |
-| [wing](https://open.spotify.com/track/0p4OOOcnvqlAeg4ZC1hpKG) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [wing](https://open.spotify.com/album/6spb6NqhJ6knea1WA151WV) | 2:53 | 2025-06-05 |  |
+| [wing](https://open.spotify.com/track/0p4OOOcnvqlAeg4ZC1hpKG) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [wing](https://open.spotify.com/album/6spb6NqhJ6knea1WA151WV) | 2:53 | 2025-06-05 | 2025-06-10 |
 | [Wings](https://open.spotify.com/track/3LTpV2o1uer2BJ3RlbauKz) | [IRISÉ](https://open.spotify.com/artist/0QQS9kR4qcFg7PLwr3JHgN) | [Wings](https://open.spotify.com/album/1KoXOE4p1UonlE2Q3I1WYb) | 3:08 | 2025-02-18 | 2025-03-18 |
 | [Wings](https://open.spotify.com/track/2X9h9oIzIjv82bTLYDIvjQ) | [LETO](https://open.spotify.com/artist/285lBSkYP90rbAfrASyMnQ) | [Wings](https://open.spotify.com/album/6BnVGBspQY6A12s8mXHqSS) | 3:59 | 2025-02-18 | 2025-03-18 |
 | [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 | 2025-01-08 | 2025-04-12 |
 | [winter dance](https://open.spotify.com/track/2Mx0neWJtuAfBy830NavHa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [winter dance](https://open.spotify.com/album/6rUp3SNTFjtPD9dRtwreYJ) | 3:22 | 2024-12-02 | 2025-01-31 |
 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 | 2022-04-12 |  |
-| [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 | 2025-05-20 |  |
+| [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 | 2025-05-20 | 2025-06-10 |
 | [Wish You Luck](https://open.spotify.com/track/4QZgdQ4CILVuz6NNDAkwns) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#2](https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2) | 3:34 | 2025-01-30 | 2025-03-18 |
 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 | 2022-04-12 | 2024-11-07 |
 | [Wolf](https://open.spotify.com/track/3UcdoC9ncaGdjzgpNaQivP) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:07 | 2022-04-22 | 2022-07-23 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,982 songs - 1 day 16 hr 9 min
+1,983 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Bright Shadows](https://open.spotify.com/track/3TPDtZgR50La8ZzwihbjFl) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:12 | 2022-01-12 |  |
 | [Brilliance](https://open.spotify.com/track/1FYo0Wcua2dT7NOWRCcIPT) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Brilliance](https://open.spotify.com/album/1W0mk3xAk2BxCI94BBlTAw) | 1:00 | 2025-03-25 |  |
 | [Bring A Torch, Jeanette, Isabella Arr\. For Cello](https://open.spotify.com/track/5ODzhwCOsGb2GaLNXFcWp5) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Bring A Torch, Jeanette, Isabella Arr\. For Cello](https://open.spotify.com/album/1oqtc7Os80wnymIK1dUmqr) | 1:11 | 2024-02-09 | 2024-02-13 |
+| [By The Lake Arr\. For Grand Piano](https://open.spotify.com/track/5wQvBUMG9Qs93nsK4kTwih) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [By The Lake Arr\. For Grand Piano](https://open.spotify.com/album/37RlL1ZluUC3A4UaNdOv7E) | 1:00 | 2025-06-09 |  |
 | [By The Lake Arr\. For Soft Piano](https://open.spotify.com/track/3KRxvHy2P5fhX1wcUs8Ph2) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [By The Lake Arr\. For Soft Piano](https://open.spotify.com/album/5Ldaq4LTccvuEoGlM01kiX) | 1:00 | 2025-06-05 |  |
 | [Calling](https://open.spotify.com/track/30lPH79Dq5k5DGCNkakAnO) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calling](https://open.spotify.com/album/4bWWMAVUPkSWBG95A7gbdz) | 1:00 | 2024-07-05 |  |
 | [Calling](https://open.spotify.com/track/64sFWTTC8olFhxI4nXaPYZ) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |

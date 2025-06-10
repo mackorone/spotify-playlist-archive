@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,471,853 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,124 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 24 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 25 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
 | 26 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
-| 27 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
-| 28 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
+| 27 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
+| 28 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 29 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 | 30 | [Voice of the Soul](https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 3:43 |
 | 31 | [Zoe Jane](https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 4:36 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 85 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
 | 86 | [Bed Of Roses](https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith \(Remastered\)](https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr) | 6:34 |
 | 87 | [Winterdreams](https://open.spotify.com/track/2t8exWxl59Eix9hodoDmhG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 4:52 |
-| 88 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
-| 89 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
+| 88 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
+| 89 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 |
 | 90 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 |
 | 91 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
 | 92 | [Last Drop Falls](https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:13 |

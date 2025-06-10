@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: 엔하이픈 \(ENHYPEN\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: 도영 \(DOYOUNG\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,986 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,981 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
-| 2 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 |
+| 1 | [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 |
+| 2 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
 | 3 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 |
-| 4 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 |
-| 5 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
-| 6 | [FREEZE](https://open.spotify.com/track/5nLO95KDAQirZuJb0o1iW9) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/27PLYKscFH6cHY3KfVzcwy) | 2:36 |
-| 7 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
-| 8 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 |
-| 9 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 |
-| 10 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
+| 4 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 |
+| 5 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 |
+| 6 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
+| 7 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
+| 8 | [FREEZE](https://open.spotify.com/track/5nLO95KDAQirZuJb0o1iW9) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/27PLYKscFH6cHY3KfVzcwy) | 2:36 |
+| 9 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 |
+| 10 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 |
 | 11 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 12 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 13 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 29 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
 | 30 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
 | 31 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 |
-| 32 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
-| 33 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
+| 32 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
+| 33 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
 | 34 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
 | 35 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
 | 36 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 41 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 |
 | 42 | [Ice On My Teeth](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) | 3:03 |
 | 43 | [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 |
-| 44 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
-| 45 | [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 |
-| 46 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
-| 47 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 |
-| 48 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |
-| 49 | [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 |
-| 50 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 |
+| 44 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
+| 45 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
+| 46 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
+| 47 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
+| 48 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 |
+| 49 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |
+| 50 | [Steady](https://open.spotify.com/track/1zJUr9Oo5zEjvJrdlg67jQ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Steady \- The 1st Mini Album](https://open.spotify.com/album/3fWEp6LTn7hHD4w3Oo4hvF) | 2:59 |
 
-Snapshot ID: `aEFfNAAAAACYyepXWqIeAKAcXsQdA28L`
+Snapshot ID: `aEalBwAAAACIxAhS0LrhDfJvMWXe6l73`

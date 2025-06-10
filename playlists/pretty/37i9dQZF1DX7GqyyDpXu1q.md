@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Mark Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,696 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,704 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 51 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
 | 52 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
 | 53 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
-| 54 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
-| 55 | [Interstate Cowboy](https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS) | [The Vegabonds](https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh), [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Interstate Cowboy](https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj) | 3:34 |
+| 54 | [Interstate Cowboy](https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS) | [The Vegabonds](https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh), [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Interstate Cowboy](https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj) | 3:34 |
+| 55 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
 | 56 | [In Your Hands \(feat\. Don Miggs and Zane Carney\)](https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n), [Don Miggs](https://open.spotify.com/artist/6d9L7od02ZS10dHH3jGQ9y), [Zane Carney](https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl) | [In Your Hands \(feat\. Don Miggs and Zane Carney\)](https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht) | 3:53 |
 | 57 | [God's Gonna Cut You Down](https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb) | [The Native Howl](https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4) | [God's Gonna Cut You Down](https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt) | 3:30 |
 | 58 | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Jon Harvey](https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN), [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye) | 3:40 |

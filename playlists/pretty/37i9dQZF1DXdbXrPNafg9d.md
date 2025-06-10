@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Big Thief
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,680 likes - 200 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,610 likes - 200 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -5595,6 +5595,28 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0f1LgV3yC0sen0us4jMxGU"
+      },
+      "artists": [
+        {
+          "name": "OBEROY",
+          "url": "https://open.spotify.com/artist/7aDWyfKkwb00M4WSu6o0sd"
+        },
+        {
+          "name": "Archyman",
+          "url": "https://open.spotify.com/artist/2ctfb5CqaV1V71XmVKVLwb"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4CtPW3fqTvyXFanNZFAjO5"
+    },
+    {
+      "album": {
         "name": "SUNSHINE IN JULY",
         "url": "https://open.spotify.com/album/2m619MA58ou1A8gyun1OHT"
       },
@@ -5698,7 +5720,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 164000,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/5gSzWAAZIZBhSDSufE7nHv"
@@ -6998,7 +7020,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 148071,
       "name": "\u0411\u0440\u0430\u0433\u0438 \u0434\u0432\u0430 \u0431\u0438\u0434\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/0dUSYynpQkugfJ6Ic4LVKU"
@@ -8806,7 +8828,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 246073,
       "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR"
@@ -9328,7 +9350,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 161818,
       "name": "\u041d\u0415 \u0417\u0410\u0411\u042b\u041b \u2565\ufe4f\u2565",
       "url": "https://open.spotify.com/track/4pd77vBHEbnRGUtNgmJ5ox"
@@ -10142,7 +10164,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO"
@@ -12286,7 +12308,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 182922,
       "name": "\u0427\u0435\u0442\u0432\u0435\u0440\u0433 4-\u0433\u043e",
       "url": "https://open.spotify.com/track/1lCUPsBvSzcPvNgyrl5qUJ"

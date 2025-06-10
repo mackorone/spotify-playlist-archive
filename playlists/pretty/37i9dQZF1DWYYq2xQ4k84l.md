@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,404 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,421 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 18 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 19 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 |
 | 20 | [Desde Que Llegaste](https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:33 |
-| 21 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
-| 22 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
+| 21 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
+| 22 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
 | 23 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 24 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
 | 25 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |

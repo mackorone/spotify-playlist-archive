@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,034 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,039 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 26 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
 | 27 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 28 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
-| 29 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
-| 30 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 |
+| 29 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 |
+| 30 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 31 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 32 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 33 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |

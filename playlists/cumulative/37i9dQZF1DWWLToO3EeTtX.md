@@ -4,7 +4,7 @@
 
 > Get away from the maddening crowds with this peaceful pop mix.
 
-70 songs - 4 hr 8 min
+71 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2023-10-10 |  |
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-10-10 | 2024-04-19 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2023-10-10 |  |
-| [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 | 2025-06-05 |  |
+| [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 | 2025-06-05 | 2025-06-10 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2023-10-10 |  |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-10-10 |  |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2023-10-10 | 2025-02-09 |
@@ -78,5 +78,6 @@
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2023-10-10 |  |
 | [with ease](https://open.spotify.com/track/2TFUY0H6adpoF91yYi9Z74) | [Joon](https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP) | [with ease](https://open.spotify.com/album/5yNfXwafClO22prMhJff9g) | 3:06 | 2025-06-05 |  |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2023-10-10 | 2024-04-19 |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2025-06-05 |  |
 
 \*This playlist was first scraped on 2023-10-25. Prior content cannot be recovered.

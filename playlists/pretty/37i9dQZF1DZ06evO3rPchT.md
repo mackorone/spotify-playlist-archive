@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,882 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,917 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 7 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 8 | [REDNECKER](https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic) | 3:21 |
 | 9 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 3:25 |
-| 10 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
-| 11 | [Nobody Likes Your Girlfriend](https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Nobody Likes Your Girlfriend](https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f) | 3:01 |
+| 10 | [Nobody Likes Your Girlfriend](https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Nobody Likes Your Girlfriend](https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f) | 3:01 |
+| 11 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
 | 12 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 |
 | 13 | [SOLD OUT](https://open.spotify.com/track/0onJhWTvfPCb5F7gUT3VPA) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 3:22 |
 | 14 | [He Went To Jared \(HARDY feat\. Morgan Wallen\)](https://open.spotify.com/track/49lYjrC2iz9Kqb30EL8XmK) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
 | 50 | [John Deere Green](https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 4:27 |
 
-Snapshot ID: `aEOBAAAAAAC1YHJKJjE/ohXUSm7UTdRc`
+Snapshot ID: `aETSgAAAAADmk73uME3nmEYbOFhsQAtt`

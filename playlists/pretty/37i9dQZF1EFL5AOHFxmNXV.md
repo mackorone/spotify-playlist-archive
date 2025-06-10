@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 170 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 170 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 143 | [JUS KNOW \(feat\. Travis Scott\)](https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:21 |
 | 144 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
 | 145 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
-| 146 | [Wanna Be \(feat\. PARTYNEXTDOOR & London On Da Track\)](https://open.spotify.com/track/2DxHdJYeBvbiceEszdrGtr) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 3:22 |
-| 147 | [feel U luv Me](https://open.spotify.com/track/7C46d7mrdoSsgd3rNOa4A7) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 3:54 |
+| 146 | [feel U luv Me](https://open.spotify.com/track/7C46d7mrdoSsgd3rNOa4A7) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 3:54 |
+| 147 | [Wanna Be \(feat\. PARTYNEXTDOOR & London On Da Track\)](https://open.spotify.com/track/2DxHdJYeBvbiceEszdrGtr) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 3:22 |
 | 148 | [Hot Boy](https://open.spotify.com/track/0hGShmLW8OxtW5J1vv0iE9) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 4:02 |
 | 149 | [T h e R e t r e a t](https://open.spotify.com/track/0y9o79BMNssYstBFTlM7wN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb) | 0:47 |
 | 150 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 169 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 | 170 | [Like That](https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88) | [S.Carter](https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY) | [Vice Party Riddim](https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0) | 3:32 |
 
-Snapshot ID: `AbznyAAAAAB47y7OyPYhoxkDH8O0U62D`
+Snapshot ID: `AbztcgAAAAAlrWd5iSlaF4NPyB8SKGSS`

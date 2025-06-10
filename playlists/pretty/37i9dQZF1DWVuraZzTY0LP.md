@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,437 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,430 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 44 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 |
 | 45 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
 | 46 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
-| 47 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 |
-| 48 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 |
+| 47 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 |
+| 48 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 |
 | 49 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 |
 | 50 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
 | 51 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 58 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 59 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 |
 | 60 | [Diamantes](https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Diamantes](https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8) | 4:03 |
-| 61 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
-| 62 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
+| 61 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
+| 62 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 63 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
 | 64 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
 | 65 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 |

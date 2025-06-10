@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,600 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,606 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 32 | [Songs That Make a Difference](https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 2:55 |
 | 33 | [The Silver Tongued Devil and I](https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 4:17 |
 | 34 | [Folsom Prison Blues \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 3:39 |
-| 35 | [If You Don't Like Hank Williams](https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:31 |
-| 36 | [Casey's Last Ride](https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 3:35 |
+| 35 | [Casey's Last Ride](https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 3:35 |
+| 36 | [If You Don't Like Hank Williams](https://open.spotify.com/track/2O01W7mcUZMhA8WmA3k44X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88) | 3:31 |
 | 37 | [Angels Love Bad Men](https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 3:32 |
 | 38 | [Are You Sure Hank Done It This Way \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 2:32 |
 | 39 | [From Here to Forever](https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 49 | [Who's to Bless and Who's to Blame](https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 3:29 |
 | 50 | [Thank You for a Life](https://open.spotify.com/track/3WGn1HhbtON4FIYVin8IEU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [This Old Road](https://open.spotify.com/album/7sLlrcE7ECO5LEHfrBrxU8) | 3:44 |
 
-Snapshot ID: `aEOBAAAAAAAmglQ5PUMcbI/r0+snX/O9`
+Snapshot ID: `aETSgAAAAADQOIjFouPw4zBstydgksB1`

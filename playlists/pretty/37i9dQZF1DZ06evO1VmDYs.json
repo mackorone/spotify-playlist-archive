@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 193148,
+  "num_followers": 193181,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAh/0zBm24eXqamQx4kKioW",
+  "snapshot_id": "aETSgAAAAACnSUqyEdbVGGMUCZh+E4NU",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maladroit",
         "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 158592,
       "name": "Burndt Jamb",
       "url": "https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maladroit",
         "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 172266,
       "name": "Keep Fishin'",
       "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
       "artists": [
         {
@@ -652,25 +652,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurley (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
+      "duration_ms": 210186,
+      "name": "Thank God for Girls",
+      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weezer (White Album)",
         "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Thank God for Girls",
-      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
+      "duration_ms": 207760,
+      "name": "Do You Wanna Get High?",
+      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Sweet Dreams (Are Made of This)",
-      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
+      "duration_ms": 214760,
+      "name": "Sweet Dreams (Are Made of This)",
+      "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,088 likes - 265 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,091 likes - 265 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 59 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
 | 60 | [Hey Stupid, I Love You](https://open.spotify.com/track/7pJA5B7t0k5wObMPxFth0v) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together \(Deluxe\)](https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ) | 3:01 |
 | 61 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:06 |
-| 62 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 |
-| 63 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 62 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 |
+| 63 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 |
 | 64 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/17Efhyf4A96n0EFXKeB7Ya) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:50 |
 | 65 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
 | 66 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 68 | [Help Me Out](https://open.spotify.com/track/76hFpagPBZ6X5s0oqMbJ5Q) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:13 |
 | 69 | [Slumber Party feat\. Tinashe](https://open.spotify.com/track/2UglvRm2EVjeQCO4zyBBZm) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:33 |
 | 70 | [Electric Touch](https://open.spotify.com/track/0AS090YJNo3vh75GrFxwbX) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:18 |
-| 71 | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/album/2BGe2R4RsBOGdzZF7bGglE) | 3:07 |
-| 72 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
+| 71 | [Dear god](https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:51 |
+| 72 | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/album/2BGe2R4RsBOGdzZF7bGglE) | 3:07 |
 | 73 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 |
 | 74 | [Hell Nos And Headphones](https://open.spotify.com/track/6nHBJFQz4gsK2Q6RIpBD0M) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:50 |
 | 75 | [Tornado Warnings](https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:24 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 264 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 265 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbznvgAAAADUCHnP2MTj7cTXhTXllevB`
+Snapshot ID: `AbztXgAAAAAQi1Pul9EPzO4IgISw8kqb`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#eurodab](https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [\#eurodab](https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA) | 2:38 | 2025-05-15 |  |
+| [\#eurodab](https://open.spotify.com/track/5LUbJo8GHzcqlCCrE83c05) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [\#eurodab](https://open.spotify.com/album/1om5mgfzIyl8wK0VExNHCA) | 2:38 | 2025-05-15 | 2025-06-10 |
 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 | 2024-10-24 | 2024-12-06 |
 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 | 2025-03-16 |  |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-12 |

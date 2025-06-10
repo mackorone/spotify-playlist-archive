@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,734 likes - 243 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,790 likes - 243 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 242 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 |
 | 243 | [Deepest of Calm](https://open.spotify.com/track/5MXz6ZOqJlij1BhKaWxBHX) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Deepest of Calm](https://open.spotify.com/album/3zJJGh7bwN0eYL5joP6vTo) | 3:47 |
 
-Snapshot ID: `aCSoXgAAAADlTq3aCm1KQwnDfmmELfuE`
+Snapshot ID: `aCSoXgAAAAATkidecpPWUhWnZnO5tXGI`

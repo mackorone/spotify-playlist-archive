@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Sabrina Carpenter, FLEMMING, Addison Rae,  Little Simz en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,657 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,653 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 
 > The hottest 50\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,190,734 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,186,713 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 | 49 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 | 50 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 
-Snapshot ID: `aEJn4QAAAADtksTBz5sGFovRfVInUcyS`
+Snapshot ID: `aEJn4QAAAABMbKWICsJ2IB/dSmcBk9Ai`

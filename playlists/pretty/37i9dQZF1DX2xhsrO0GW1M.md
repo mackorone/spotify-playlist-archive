@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,629 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,471 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhsrO0GW1M.md) - [plain]
 | 63 | [Anymore](https://open.spotify.com/track/0SLB2YoD1z2tPcREzIHYYA) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Echo of Pleasure](https://open.spotify.com/album/53OcLnAgz2Pi9hgUyE0vGv) | 3:43 |
 | 64 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 |
 | 65 | [Animal](https://open.spotify.com/track/4XTTwW06rMgud7yS1nySZf) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/6OfYVC4m7EmGIxaKOgaoZs) | 4:23 |
-| 66 | [Vigil](https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Vigil](https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6) | 3:14 |
-| 67 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
+| 66 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
+| 67 | [Vigil](https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Vigil](https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6) | 3:14 |
 | 68 | [Young and Stupid](https://open.spotify.com/track/6sscHAvwBvcl89tyACWGom) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Young and Stupid](https://open.spotify.com/album/41W9IQTwbwFvyAv2ESlfSy) | 2:54 |
 | 69 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 |
 | 70 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 |

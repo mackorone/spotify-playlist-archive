@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Era7capone x Poizi x SNOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,962 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,054 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 | 50 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
 
-Snapshot ID: `aEIFZQAAAAAfgZkvDXX7b9VDFcmJqW3l`
+Snapshot ID: `AAAAADCkH+lclttAq1MsolfTw9/AMHrU`

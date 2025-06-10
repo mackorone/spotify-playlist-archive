@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Just good vibes all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,588,871 likes - 98 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,589,013 likes - 98 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 97 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 98 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 |
 
-Snapshot ID: `AAAAAGoJUIwHWtD4rXotFmpLROXTM2Np`
+Snapshot ID: `aDm6gQAAAAAujF+zjmlAG9BpAah2XC5m`

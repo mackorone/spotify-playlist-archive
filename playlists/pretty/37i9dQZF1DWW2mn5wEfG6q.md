@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > The Indie highlights of 2013\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,757 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,784 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 34 | [Girls](https://open.spotify.com/track/5WSdMcWTKRdN1QYVJHJWxz) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 4:14 |
 | 35 | [Modern Jesus](https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:14 |
 | 36 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
-| 37 | [Hey Now](https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 3:25 |
-| 38 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
+| 37 | [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:16 |
+| 38 | [Hey Now](https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 3:25 |
 | 39 | [Sex](https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:27 |
 | 40 | [Unbelievers](https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:22 |
 | 41 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 |
-| 42 | [Nightcall](https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:30 |
-| 43 | [Inhaler](https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 4:52 |
-| 44 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
+| 42 | [Inhaler](https://open.spotify.com/track/4Wics9qaNdLtzfZOwl2mdw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 4:52 |
+| 43 | [Nightcall](https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:30 |
+| 44 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
 | 45 | [Step](https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 4:11 |
-| 46 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
+| 46 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 | 47 | [Doses & Mimosas](https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 5:23 |
 | 48 | [Telescope](https://open.spotify.com/track/5dyfHe3tR7wyzfuNo0uu3Y) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:48 |
 | 49 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 83 | [Under The Pressure](https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 8:52 |
 | 84 | [Recover](https://open.spotify.com/track/5lrKdr43SvPBt9evNOrULo) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:45 |
 | 85 | [Southern Sun](https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Harlequin Dream](https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf) | 4:41 |
-| 86 | [Kangaroo Court](https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:43 |
-| 87 | [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 |
+| 86 | [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 |
+| 87 | [Kangaroo Court](https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:43 |
 | 88 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 |
 | 89 | [Gun](https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:53 |
 | 90 | [Drop The Game](https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 3:41 |
 | 91 | [Diamonds](https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t) | [The Boxer Rebellion](https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5) | [Promises](https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8) | 4:02 |
 | 92 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
 | 93 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 4:40 |
-| 94 | [Only](https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 4:28 |
-| 95 | [An Ocean In Between The Waves](https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 7:11 |
+| 94 | [An Ocean In Between The Waves](https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 7:11 |
+| 95 | [Only](https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 4:28 |
 | 96 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 97 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 |
 | 98 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 |
-| 99 | [Berlin](https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 2:54 |
-| 100 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
+| 99 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
+| 100 | [Berlin](https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 2:54 |
 
 Snapshot ID: `Z9QscwAAAAAmqqWBueEt9VsHHRkzq+yi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: ATARDE
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,537 likes - 110 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,542 likes - 110 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 557806,
+  "num_followers": 557941,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/11FqXtXViQ1XZ5s2NaFEOJ"
       },
@@ -675,34 +655,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -723,18 +691,34 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
       },
       "artists": [
         {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -751,6 +735,22 @@
       "duration_ms": 224428,
       "name": "Brunch With Suki",
       "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Time to Melt",
         "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Tuanaki Atoll",
-        "url": "https://open.spotify.com/album/4Yru3A6vmgeiYwh1FkbudL"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Tuanaki Atoll",
-      "url": "https://open.spotify.com/track/2305YqaLuOEJ9Opf8pGB7R"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Tuanaki Atoll",
+        "url": "https://open.spotify.com/album/4Yru3A6vmgeiYwh1FkbudL"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 202636,
+      "name": "Tuanaki Atoll",
+      "url": "https://open.spotify.com/track/2305YqaLuOEJ9Opf8pGB7R"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "20 Years Dope Noir - Oranje Album",
         "url": "https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Virtual U",
         "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "A-Game",
         "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 191927,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Denitia",
-          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1627,6 +1607,26 @@
       "duration_ms": 207535,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Love Potion",
         "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     }
   ],
   "unique_name": "Soft Office",

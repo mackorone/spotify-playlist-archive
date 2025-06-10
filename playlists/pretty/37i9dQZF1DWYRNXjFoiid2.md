@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,031 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,070 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 97 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
 | 98 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 99 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 |
-| 100 | [edamame](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 |
+| 100 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 |
 
 Snapshot ID: `aDkBhwAAAACBHtoHq08pFhQP+o4ml4nf`

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-321 songs - 17 hr 46 min
+322 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-03-11 |  |
 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 | 2021-12-09 | 2023-06-17 |
 | [In the Mirror](https://open.spotify.com/track/39US9RrwQtLld8H0Cofii3) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/4I21qLgqAPYlfJGJ1V4Ol6) | 2:07 | 2023-10-13 | 2024-01-17 |
-| [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-12-09 |  |
+| [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-12-09 | 2025-06-10 |
 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 | 2023-06-09 | 2024-07-17 |
 | [Ipanema](https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Ipanema](https://open.spotify.com/album/1hCZk8eJdYdtNogEsWGbGq) | 2:04 | 2022-01-21 | 2022-05-14 |
 | [It Takes so Long](https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [It Takes so Long](https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN) | 3:37 | 2023-05-26 | 2023-06-22 |
@@ -329,5 +329,6 @@
 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 | 2023-08-22 |
 | [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 |  |
 | [Your Light](https://open.spotify.com/track/15zgTTprtCpllRcMPUWG4f) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Your Light](https://open.spotify.com/album/6HZj6UYuBMmQFnj3Al8z6v) | 2:42 | 2025-02-07 |  |
+| [Zula](https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Zula](https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7) | 2:10 | 2025-06-06 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

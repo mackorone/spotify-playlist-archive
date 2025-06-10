@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,577 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,583 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 7 | [Take Cover](https://open.spotify.com/track/77VL07g9hIVtowNCIyr9l2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:37 |
 | 8 | [Not One Night](https://open.spotify.com/track/6V515Poan7LK5imto1SIZI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 3:38 |
 | 9 | [Green\-Tinted Sixties Mind \- 2021 Remastered](https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:30 |
-| 10 | [Promise Her the Moon](https://open.spotify.com/track/6gVvbSDrQYtFmH3FsOAzZ3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:06 |
-| 11 | [I'll Leave It Up To You](https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 3:18 |
+| 10 | [I'll Leave It Up To You](https://open.spotify.com/track/0JgDzxPx6ue5NGysiDz2uj) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 3:18 |
+| 11 | [Promise Her the Moon](https://open.spotify.com/track/6gVvbSDrQYtFmH3FsOAzZ3) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:06 |
 | 12 | [Stay Together](https://open.spotify.com/track/4oOkm5StZdNGxz90GccnSE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Big, Bigger, Biggest! The Best Of Mr\. Big](https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc) | 3:35 |
 | 13 | [Daddy, Brother, Lover, Little Boy \(The Electric Drill Song\) \- 2021 Remastered](https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:56 |
 | 14 | [Arrow](https://open.spotify.com/track/6GvfNtsfika3NY9dJeJ8WI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 49 | [She's All Coming Back To Me Now](https://open.spotify.com/track/2feNXHDGrehg9fiNpnTTLN) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 4:21 |
 | 50 | [Who We Are](https://open.spotify.com/track/76DyL56b4yuQy5PwCUYDCS) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 3:52 |
 
-Snapshot ID: `aEOBAAAAAACFaNQqDmjiQYUGpW0xxEap`
+Snapshot ID: `aETSgAAAAACZwn/8stKTemGqRBmo3tTk`

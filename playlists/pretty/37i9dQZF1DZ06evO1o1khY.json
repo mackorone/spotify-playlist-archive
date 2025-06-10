@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 38352,
+  "num_followers": 38381,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACI8KJUuyT2b3Z/ddvJj+t6",
+  "snapshot_id": "aETSgAAAAAChzi9I8Xrpx+NR2lINiK9o",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Redbone (with GloRilla)",
+      "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
         "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 179795,
       "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
       "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Redbone (with GloRilla)",
-      "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Typa",
+        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Typa",
+      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 213524,
       "name": "WYD (with GloRilla & Big Boogie)",
       "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Typa",
-        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Typa",
-      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
       "added_at": null,

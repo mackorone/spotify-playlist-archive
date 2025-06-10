@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,258 likes - 108 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,270 likes - 108 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Minns Det Som Igår](https://open.spotify.com/track/1MiNU9sqOv4z1R2nqFhTX2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Minns Det Som Igår](https://open.spotify.com/album/18MxOGlBNBdt0eOHCZbcBU) | 2:01 |
-| 2 | [SEXY MR BEAN](https://open.spotify.com/track/4pwNVwh13Dd1XiGzpdFgSU) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [SEXY MR BEAN](https://open.spotify.com/album/0kMYXIpivjXFemGrrE7Sby) | 2:17 |
-| 3 | [Rina Rina](https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [TRIBE](https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ) | 2:34 |
-| 4 | [SALUTERA](https://open.spotify.com/track/3ibBEYLICJZvaDOR3pn6JM) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [SALUTERA](https://open.spotify.com/album/2ayyqEj034bX1BvoPpncbT) | 1:58 |
-| 5 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 |
-| 6 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 |
-| 7 | [Gatan eller musiken 2](https://open.spotify.com/track/63DLaV0lKbvVoK5HD4O8nx) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Gatan eller musiken 2](https://open.spotify.com/album/67DaZYZRdOMDaBK06h4yxs) | 2:47 |
-| 8 | [VAD GÖR DOM?](https://open.spotify.com/track/1yqSSkjBk0GSh7TQdDpwY5) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [VAD GÖR DOM?](https://open.spotify.com/album/3Aa5QXzsIwGoPUxesq7ZoK) | 2:32 |
-| 9 | [Underdog](https://open.spotify.com/track/1Ze9srPgLfK0m8lOlbjgjv) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Underdog](https://open.spotify.com/album/5XyD3NtnDD2YfMUQZ4md6F) | 2:16 |
-| 10 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |
-| 11 | [ANNAN VÄRLD](https://open.spotify.com/track/73pJ7ld56GxLA0ib74PIs9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [ANNAN VÄRLD](https://open.spotify.com/album/3zq3J1VgRwByaAWYcXqeBu) | 2:28 |
+| 2 | [Rina Rina](https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [TRIBE](https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ) | 2:34 |
+| 3 | [SALUTERA](https://open.spotify.com/track/3ibBEYLICJZvaDOR3pn6JM) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [SALUTERA](https://open.spotify.com/album/2ayyqEj034bX1BvoPpncbT) | 1:58 |
+| 4 | [ANNAN VÄRLD](https://open.spotify.com/track/73pJ7ld56GxLA0ib74PIs9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [ANNAN VÄRLD](https://open.spotify.com/album/3zq3J1VgRwByaAWYcXqeBu) | 2:28 |
+| 5 | [Underdog](https://open.spotify.com/track/1Ze9srPgLfK0m8lOlbjgjv) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Underdog](https://open.spotify.com/album/5XyD3NtnDD2YfMUQZ4md6F) | 2:16 |
+| 6 | [SO FLY](https://open.spotify.com/track/7pYIvfiuhSmXAFKIOXZkUN) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [SO FLY](https://open.spotify.com/album/46Us73Zf2d29CpStD22nbG) | 2:00 |
+| 7 | [SEXY MR BEAN](https://open.spotify.com/track/4pwNVwh13Dd1XiGzpdFgSU) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [SEXY MR BEAN](https://open.spotify.com/album/0kMYXIpivjXFemGrrE7Sby) | 2:17 |
+| 8 | [Förstå mig](https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Y4](https://open.spotify.com/album/1Hmubk9vXxysBNC3qv9iGe) | 1:50 |
+| 9 | [VAD GÖR DOM?](https://open.spotify.com/track/1yqSSkjBk0GSh7TQdDpwY5) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [VAD GÖR DOM?](https://open.spotify.com/album/3Aa5QXzsIwGoPUxesq7ZoK) | 2:32 |
+| 10 | [Gatan eller musiken 2](https://open.spotify.com/track/63DLaV0lKbvVoK5HD4O8nx) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Gatan eller musiken 2](https://open.spotify.com/album/67DaZYZRdOMDaBK06h4yxs) | 2:47 |
+| 11 | [DÄR FÖR MIG](https://open.spotify.com/track/2M92LSUxeYDRIAD1lyphzo) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DÄR FÖR MIG](https://open.spotify.com/album/0CqUH2J0iqAYXcTAkF3hYA) | 1:52 |
 | 12 | [00:42](https://open.spotify.com/track/2UAPfh7Iwcz2a8P5qmXxpn) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [00:42](https://open.spotify.com/album/1FYKCczUjRwsavPxIYST4c) | 2:00 |
 | 13 | [Aktiv](https://open.spotify.com/track/2QCYJLzM6FJMPwBw9JcgFp) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5), [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [Aktiv](https://open.spotify.com/album/6qLUeiPU7lubELgsJMb9ff) | 2:03 |
 | 14 | [Allt Ja Sagt](https://open.spotify.com/track/0wTMnyphTnhWvs92czXhL2) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Allt Ja Sagt](https://open.spotify.com/album/7E3onZZyusR6FhduyhiyFB) | 2:16 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 107 | [Deadly](https://open.spotify.com/track/3a77PeH4l9zJVDy6tgppCV) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Deadly](https://open.spotify.com/album/2xnp35ifilAEEIBUXYCVvD) | 2:38 |
 | 108 | [DRUNK AND LOVED](https://open.spotify.com/track/7yN6x2Hhlfk0Gssv1Fu39v) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [DRUNK AND LOVED](https://open.spotify.com/album/3WXEivTwwkiYGxhFsaijxx) | 2:41 |
 
-Snapshot ID: `aEITjAAAAACwNh7SA9hKd9vCFefBep7+`
+Snapshot ID: `aEcPDgAAAAD521bwx63vnfSutr9STRxK`

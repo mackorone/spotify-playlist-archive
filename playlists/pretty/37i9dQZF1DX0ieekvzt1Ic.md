@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ieekvzt1Ic.md) - [plain]
 
 > The hottest tracks in India\. <br/><br/>Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,416 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,448 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ieekvzt1Ic.md) - [plain]
 | 8 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 9 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 10 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
-| 11 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 |
+| 11 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 12 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 13 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 14 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ieekvzt1Ic.md) - [plain]
 | 49 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 |
 | 50 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 
-Snapshot ID: `aEKWLQAAAACoGySYZXbPzyR7KUpDHNvp`
+Snapshot ID: `aEaa7QAAAAB7YdIKoMBj8aaeea4VfG28`

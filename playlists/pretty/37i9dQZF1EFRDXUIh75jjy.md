@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 90 | [Up](https://open.spotify.com/track/3Te82fmptIksFvtNyYnNmw) | [Star Darlings](https://open.spotify.com/artist/3zFQEqIi3Q1RJ4O37M7nuw) | [Up](https://open.spotify.com/album/1LLxgahQlYvXMvPeKNbgmh) | 3:05 |
 | 91 | [R U](https://open.spotify.com/track/6epP2beWRSh6AP26lUbOtK) | [Niki & Gabi](https://open.spotify.com/artist/4ky35VlSWzD5iKz1eLFaUU) | [R U](https://open.spotify.com/album/6G6twzTnQY9p9veTfnzGqo) | 2:57 |
 | 92 | [Hair](https://open.spotify.com/track/20xJN09dBJBEImfp9NPdGb) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Hair](https://open.spotify.com/album/6aoeLVMwa68Mn1QVYqbSw2) | 2:34 |
-| 93 | [Nobody Fools Me Twice](https://open.spotify.com/track/15plYeh2zcYmW9CO1M9YzN) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Nobody Fools Me Twice](https://open.spotify.com/album/6rUA6B33RkZkjRJu2pEnAn) | 2:33 |
-| 94 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 |
+| 93 | [vanilla](https://open.spotify.com/track/6hQteEYBl1FClREHecCyFc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:38 |
+| 94 | [Nobody Fools Me Twice](https://open.spotify.com/track/15plYeh2zcYmW9CO1M9YzN) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Nobody Fools Me Twice](https://open.spotify.com/album/6rUA6B33RkZkjRJu2pEnAn) | 2:33 |
 | 95 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 |
 | 96 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
 | 97 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 220 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 221 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbznvgAAAAD48gPqDuAimIa4+A6XJUHB`
+Snapshot ID: `AbztXgAAAADFxog+rBx51lkqzZYqEyyE`

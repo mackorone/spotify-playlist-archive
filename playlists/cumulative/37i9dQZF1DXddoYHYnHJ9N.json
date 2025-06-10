@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
@@ -1649,6 +1649,28 @@
     },
     {
       "album": {
+        "name": "KAIR\u00d3",
+        "url": "https://open.spotify.com/album/5LFtHprfuS3xPDyvIp6D7I"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173653,
+      "name": "PLEKNI",
+      "url": "https://open.spotify.com/track/64P3ggL8mxterCzbbbunr1"
+    },
+    {
+      "album": {
         "name": "POKOL",
         "url": "https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94"
       },
@@ -2330,6 +2352,24 @@
       "duration_ms": 189714,
       "name": "VID\u00c9KI CSAJSZI",
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
+    },
+    {
+      "album": {
+        "name": "Vinnipu",
+        "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108746,
+      "name": "Vinnipu",
+      "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
     },
     {
       "album": {

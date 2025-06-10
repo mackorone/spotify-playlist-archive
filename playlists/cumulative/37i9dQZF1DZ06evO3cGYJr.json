@@ -70,10 +70,32 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "A Finale",
       "url": "https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor"
+    },
+    {
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Torralba",
+          "url": "https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186472,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/093kQYdOiuVxAeFzyrtXf6"
     },
     {
       "album": {
@@ -92,7 +114,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186472,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5YIVy6HdCamdQkzTPhRrQj"
@@ -586,7 +608,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 204000,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0YnyPvMnShXzMVFG5oCabe"
@@ -728,6 +750,24 @@
       "duration_ms": 181775,
       "name": "Fool - 2021 Version",
       "url": "https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj"
+    },
+    {
+      "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Fragments of your presence",
+      "url": "https://open.spotify.com/track/1dU3LM9sT5brDXG8C7aXZA"
     },
     {
       "album": {
@@ -1538,10 +1578,28 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 180133,
       "name": "Time To Spare",
       "url": "https://open.spotify.com/track/6OMHX8v3S3P8fEEAWXx3ne"
+    },
+    {
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180134,
+      "name": "Time To Spare",
+      "url": "https://open.spotify.com/track/2xoAo5u7Tce4ggNWfVQPQg"
     },
     {
       "album": {
@@ -1574,7 +1632,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 217312,
       "name": "Wings!!!",
       "url": "https://open.spotify.com/track/0UudX2HUm3SEmpDuXSpNGC"

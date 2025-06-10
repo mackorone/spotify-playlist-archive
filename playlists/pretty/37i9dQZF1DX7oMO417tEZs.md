@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,714 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,745 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

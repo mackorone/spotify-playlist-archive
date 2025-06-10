@@ -1,6 +1,6 @@
 {
   "description": "why so hot?",
-  "num_followers": 22791,
+  "num_followers": 22789,
   "original_name": "very hot",
   "owner": {
     "name": "Spotify",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2025-02-21 01:51:21",

@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 527935,
+  "num_followers": 528071,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Crecia",
+        "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Crecia",
+      "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Keoland",
         "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
       },
@@ -1275,26 +1299,6 @@
       "duration_ms": 259200,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "A.D.R.O.M.I.C.F.M.S. 2",
-        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
-      },
-      "artists": [
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "Ready Pa Morir",
-      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1319,26 +1323,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Crecia",
-        "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
+        "name": "A.D.R.O.M.I.C.F.M.S. 2",
+        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Crecia",
-      "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
+      "duration_ms": 191346,
+      "name": "Ready Pa Morir",
+      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "La Cone",
         "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 251942,
       "name": "La Cone",
       "url": "https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
-        "url": "https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 142703,
-      "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
-      "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Se Termin\u00f3 (feat. Kodigo)",
         "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 202083,
       "name": "Se Termin\u00f3 (feat. Kodigo)",
       "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
+        "url": "https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 142703,
+      "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
+      "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
     },
     {
       "added_at": "2024-03-08 16:14:30",

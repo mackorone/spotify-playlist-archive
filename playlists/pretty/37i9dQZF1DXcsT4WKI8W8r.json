@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 330971,
+  "num_followers": 331083,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "I Cry When I Laugh",
         "url": "https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
       },
@@ -1739,6 +1755,22 @@
       "duration_ms": 197893,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Best Of Chris Isaak",
+        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "Wicked Game - Remastered",
+      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1759,38 +1791,6 @@
       "duration_ms": 198515,
       "name": "Moral of the Story (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/2NWVdwbd2hPIzC2lyf4y63"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Best Of Chris Isaak",
-        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "Wicked Game - Remastered",
-      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Feargal Sharkey",
-        "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
-      },
-      "artists": [
-        {
-          "name": "Feargal Sharkey",
-          "url": "https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "A Good Heart",
-      "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 219093,
       "name": "Rise",
       "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Feargal Sharkey",
+        "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
+      },
+      "artists": [
+        {
+          "name": "Feargal Sharkey",
+          "url": "https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "A Good Heart",
+      "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Eleven",
-      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "You've Got The Love",
-        "url": "https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Happier (Acoustic)",
-        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+        "name": "You've Got The Love",
+        "url": "https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 206209,
-      "name": "Happier - Acoustic",
-      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2295,6 +2279,22 @@
       "duration_ms": 177000,
       "name": "B-A-B-Y",
       "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Crosswords",
+        "url": "https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 153445,
+      "name": "Crosswords",
+      "url": "https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Crosswords",
-        "url": "https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 153445,
-      "name": "Crosswords",
-      "url": "https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU"
     },
     {
       "added_at": "2024-04-05 00:00:00",

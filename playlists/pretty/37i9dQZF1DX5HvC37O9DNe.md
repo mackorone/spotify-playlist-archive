@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 
 > 💅 amo, troppo noi 🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,001 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,008 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HvC37O9DNe.md) - [plain]
 | 27 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 |
 | 28 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 29 | [Bloody Mary](https://open.spotify.com/track/53jnnqFSRGMDB9ADrNriCA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 4:04 |
-| 30 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
-| 31 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
+| 30 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
+| 31 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 32 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
 | 33 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 34 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |

@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 5512,
+  "num_followers": 5522,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Caiiro",
+        "url": "https://open.spotify.com/album/4F0Pcxgo3WnuTJB3vivwEh"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 315116,
+      "name": "Ndisize (feat. Ami Faku)",
+      "url": "https://open.spotify.com/track/1hnB525vM5GrFr5AQIXQu8"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
         "url": "https://open.spotify.com/album/1GRp8XrV8yz1Yg3NyQflgv"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 445719,
       "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
       "url": "https://open.spotify.com/track/0AQfRLzd7pQZcLtfh9Onb8"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Caiiro",
-        "url": "https://open.spotify.com/album/4F0Pcxgo3WnuTJB3vivwEh"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 315116,
-      "name": "Ndisize (feat. Ami Faku)",
-      "url": "https://open.spotify.com/track/1hnB525vM5GrFr5AQIXQu8"
     },
     {
       "added_at": "2024-12-19 13:12:01",

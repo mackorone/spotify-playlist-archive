@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Bronski Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,636 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,729 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 39 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
 | 40 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 41 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
-| 42 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
-| 43 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 |
+| 42 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 |
+| 43 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
 | 44 | [Situation](https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 5:46 |
 | 45 | [Steppin' Out](https://open.spotify.com/track/0tBTnrMcc91qKP9dHqhsS7) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t) | 4:22 |
 | 46 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |

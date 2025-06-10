@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,367 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,392 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 32 | [Paying My Way](https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 3:54 |
 | 33 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
 | 34 | [Finnegan's Wake](https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
-| 35 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
-| 36 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
+| 35 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
+| 36 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
 | 37 | [It's A Long Way To The Top \(If You Wanna Rock 'n' Roll\)](https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 4:43 |
 | 38 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 |
 | 39 | [Peg O' My Heart](https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Jimmy Collins' Wake](https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 2:59 |
 | 50 | [The Last One \(feat\. Evan Felker of Turnpike Troubadours\)](https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Evan Felker](https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:33 |
 
-Snapshot ID: `aEOBAAAAAAAa54QNh47s41g6NpG5VWN+`
+Snapshot ID: `aETSgAAAAAAvD5iYvzlOnZZdiUiAQ3rD`

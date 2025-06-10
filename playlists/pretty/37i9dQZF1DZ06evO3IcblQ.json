@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 34529,
+  "num_followers": 34537,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADgGrJJw9OZOofIWMQ+jtts",
+  "snapshot_id": "aETSgAAAAADWMI1SrlUbCvS4pQQI93I6",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Broken - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unknown Road (2005 Remaster)",
         "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 136720,
       "name": "Homesick - 2005 Remaster",
       "url": "https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Broken - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unknown Road (2005 Remaster)",
         "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 172066,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 132466,
       "name": "Don't Tear Me Down",
       "url": "https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Date With Destiny - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 177093,
       "name": "Time Marches On",
       "url": "https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Date With Destiny - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Stand Strong",
-      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 168000,
       "name": "My God",
       "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Stand Strong",
+      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "We Have It All",
-      "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About Time (2005 Remaster)",
         "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 175066,
       "name": "Searching - 2005 Remaster",
       "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "We Have It All",
+      "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
     },
     {
       "added_at": null,

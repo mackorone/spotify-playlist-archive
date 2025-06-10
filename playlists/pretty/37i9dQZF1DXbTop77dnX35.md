@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Young Jonn, Simi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,674 likes - 61 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,782 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 8 | [EGO](https://open.spotify.com/track/4rDKyQvJiMmDbSqH5AbKxh) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [EGO](https://open.spotify.com/album/43ELd8GgODxyHT2be6xSV6) | 3:37 |
 | 9 | [Roju](https://open.spotify.com/track/2A6AXCwj68MpdYHtD3UMHu) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Roju](https://open.spotify.com/album/4GWOXZRiArgPUKP23YSTZs) | 2:28 |
 | 10 | [NEEDY](https://open.spotify.com/track/2aZIg7TaLrbKUsvthU0PRj) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [NEEDY](https://open.spotify.com/album/3TabBrRi5NikOnQS5oipDW) | 3:02 |
-| 11 | [Loke \(feat\. Bella Shmurda & Tml Vibez\)](https://open.spotify.com/track/6dVxFQCKANOonUVQXBPPw8) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Starters](https://open.spotify.com/album/4JC9EOzz9M72EYgVovJ5yq) | 3:05 |
+| 11 | [Loke \(feat\. Bella Shmurda & Tml Vibez\)](https://open.spotify.com/track/6dVxFQCKANOonUVQXBPPw8) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Starters](https://open.spotify.com/album/4JC9EOzz9M72EYgVovJ5yq) | 3:05 |
 | 12 | [OLIVER](https://open.spotify.com/track/2f0ubKTsYKVBCkGyZMZ4Kb) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [OLIVER](https://open.spotify.com/album/1H27gWT1pQ2KloYBlf733D) | 2:43 |
 | 13 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/0jf9tcOCuWrrzkd7coqYsL) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/5LSMSeJZz1A2SnWpxWBV4I) | 3:49 |
 | 14 | [HA HA HA](https://open.spotify.com/track/5CUoPjNakqWqFnTbSdd5dg) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [HA HA HA](https://open.spotify.com/album/4bgpgeZcEMF42o1dVQLLWy) | 2:46 |

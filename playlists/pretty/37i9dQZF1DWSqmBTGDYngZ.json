@@ -1,6 +1,6 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7634642,
+  "num_followers": 7634274,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -1575,22 +1559,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Version",
-        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 219413,
-      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
-      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1607,6 +1587,26 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Version",
+        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1827,22 +1827,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Who You Are (Platinum Edition)",
-        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        },
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 223053,
-      "name": "Price Tag",
-      "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1863,18 +1859,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 223053,
+      "name": "Price Tag",
+      "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -1975,6 +1955,26 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -2199,6 +2199,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2231,22 +2247,6 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -2935,6 +2951,22 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2959,38 +2991,6 @@
       "duration_ms": 181880,
       "name": "Starving",
       "url": "https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 456866,
-      "name": "It's All Coming Back to Me Now",
-      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -3195,22 +3195,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
         }
       ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -3239,18 +3235,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -3331,22 +3331,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Blurring The Edges",
         "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
       },
@@ -3359,6 +3343,22 @@
       "duration_ms": 252760,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
     },
     {
       "added_at": "2024-10-11 16:21:11",

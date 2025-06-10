@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,945,079 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,944,725 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 67 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
 | 68 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 69 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 |
-| 70 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
-| 71 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
-| 72 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
+| 70 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
+| 71 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
+| 72 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 73 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
 | 74 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 |
 | 75 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 |

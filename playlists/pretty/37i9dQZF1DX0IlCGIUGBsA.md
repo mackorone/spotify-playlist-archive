@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 
 > Get the party going with these classics from across the decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,965 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,982 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 42 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
 | 43 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 44 | [Rock DJ](https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:18 |
-| 45 | [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 |
-| 46 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 45 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 46 | [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 |
 | 47 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 |
 | 48 | [YMCA \- Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [YMCA](https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE) | 4:46 |
 | 49 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 57 | [It's Tricky](https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:03 |
 | 58 | [Oh, Pretty Woman](https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:56 |
 | 59 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/0VDMjDj2AwPQXWQ7XhN9gG) | 3:47 |
-| 60 | [You Shook Me All Night Long](https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:30 |
-| 61 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
+| 60 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
+| 61 | [You Shook Me All Night Long](https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:30 |
 | 62 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 63 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 64 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |

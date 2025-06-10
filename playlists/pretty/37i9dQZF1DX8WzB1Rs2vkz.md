@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,773 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,826 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 16 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
 | 17 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 18 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
-| 19 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
-| 20 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 19 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 20 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
 | 21 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
 | 22 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 23 | [Mi Corazoncito](https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 72 | [Yo Quiero El Amor](https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Yo Quiero El Amor](https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6) | 2:25 |
 | 73 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
 | 74 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
-| 75 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
+| 75 | [MUJERON](https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M) | [Reggi El Autentico](https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6) | [MUJERON](https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv) | 2:38 |
 
 Snapshot ID: `aEMrHQAAAACPdeOIwOD/LJR4UHlytUS2`

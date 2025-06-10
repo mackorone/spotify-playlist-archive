@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-999 songs - 2 day 8 hr 15 min
+1,000 songs - 2 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [about you \- Flava D Remix](https://open.spotify.com/track/4GQU46Vx4QVCH5tJqDsxYV) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [about you \(Flava D Remix\)](https://open.spotify.com/album/1axmAwqa9T3PJ4yPBaMEdp) | 3:04 | 2024-06-06 | 2024-08-30 |
 | [Abyss](https://open.spotify.com/track/4rkXjSB8o4uXxAxG68Kj5z) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Eternal](https://open.spotify.com/album/4BWqMQAnfw2CH51bNPvmc0) | 3:58 | 2024-06-21 | 2024-09-17 |
 | [Accelerate](https://open.spotify.com/track/61kmDZXjXGBWh8YnWjFCQY) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Accelerate](https://open.spotify.com/album/789y4j9o32eMfjaWAPsqyF) | 4:10 | 2023-06-08 | 2023-09-26 |
+| [ACTIVATE](https://open.spotify.com/track/1ROJBKCmBH1Quk9gN2qI0E) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [ACTIVATE](https://open.spotify.com/album/2v6Ae2mZgaWFyMtfSNpXee) | 2:38 | 2025-06-09 |  |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 | 2023-02-08 |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 | 2022-06-08 |
 | [Adore](https://open.spotify.com/track/1vukPZMZWg6BcdT3xShfmY) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Adore](https://open.spotify.com/album/2OBeOZJ1BHtIj1JEPC88dW) | 2:48 | 2025-05-27 |  |

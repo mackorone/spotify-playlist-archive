@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,877 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,418 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 46 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 47 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 | 48 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
-| 49 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
-| 50 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
+| 49 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
+| 50 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 51 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 52 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 |
 | 53 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 78 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
 | 79 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
 | 80 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |
-| 81 | [Sweet Dreams](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Greatest Hits](https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo) | 3:24 |
-| 82 | [Never Ever](https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Saints](https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF) | 6:27 |
+| 81 | [Never Ever](https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Saints](https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF) | 6:27 |
+| 82 | [Sweet Dreams](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Greatest Hits](https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo) | 3:24 |
 | 83 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 |
 | 84 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 85 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |

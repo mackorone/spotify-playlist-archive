@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 
 > It's a good day to be a My Day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,848 likes - 88 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,864 likes - 88 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

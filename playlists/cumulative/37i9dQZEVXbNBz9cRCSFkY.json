@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 289226,
       "name": "Antukin",
       "url": "https://open.spotify.com/track/4jq5J39hJ28RmDhNp1QkYk"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 236533,
       "name": "Backburner",
       "url": "https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY"
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 188976,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu"
@@ -6180,7 +6180,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 261866,
       "name": "Hanggang Kailan - Umuwi Ka Na Baby",
       "url": "https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp"
@@ -7528,7 +7528,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 263500,
       "name": "Ikaw Lang",
       "url": "https://open.spotify.com/track/4legZBvlei0pwnrzzxMzol"
@@ -12478,7 +12478,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 241000,
       "name": "Palagi - TJxKZ Version",
       "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
@@ -14746,7 +14746,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
@@ -19032,10 +19032,28 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 238466,
       "name": "Your Universe",
       "url": "https://open.spotify.com/track/7vWHppvllFJXdXf0xplZum"
+    },
+    {
+      "album": {
+        "name": "Your Universe (Southeast Asia Version)",
+        "url": "https://open.spotify.com/album/254ElpW3Ad4qf073WbscLv"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241813,
+      "name": "Your Universe",
+      "url": "https://open.spotify.com/track/1exRP2xlPCHDlHW3chFTjt"
     },
     {
       "album": {

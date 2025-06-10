@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,893 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,910 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 2 | [Gulabi Sadi](https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Gulabi Sadi](https://open.spotify.com/album/5NDcb02xBpTu752ETxKuGN) | 3:43 |
 | 3 | [YEDA YUNG](https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG](https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h) | 2:39 |
 | 4 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
-| 5 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
-| 6 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 |
+| 5 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 |
+| 6 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
 | 7 | [Ye Go Ye Ye Maina](https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Jatra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv) | 5:23 |
 | 8 | [Kaarte Nibaar](https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Kaarte Nibaar](https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ) | 3:03 |
 | 9 | [Dolby Walya](https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS) | [Jau Dya Na Balasaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK) | 5:35 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Baaygo Baaygo](https://open.spotify.com/track/5Hwba9pAPtFKrEPsupYmvM) | [Ajay](https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH), [Atul Gogavale](https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob) | [Ringa Ringa](https://open.spotify.com/album/0unnoqFH7KO7kXaDV68BvL) | 4:32 |
 | 43 | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/track/0P7QtX3D8lw9Ws8zy1SaTn) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3) | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/album/7hnkrHkIiLVtgg67fR0NG4) | 4:54 |
 
-Snapshot ID: `aDqe+QAAAABQTUBzYuID1QnyeYDu+2/J`
+Snapshot ID: `aEalzQAAAABKMdVHMv37SlLNqixSisLX`

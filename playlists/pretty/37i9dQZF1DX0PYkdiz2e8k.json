@@ -203,6 +203,26 @@
     {
       "added_at": "2025-06-06 17:08:49",
       "album": {
+        "name": "Saviors (\u00e9dition de luxe)",
+        "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        },
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 129895,
+      "name": "Fuck Off - Fidlar Alt Mix",
+      "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"
+    },
+    {
+      "added_at": "2025-06-06 17:08:49",
+      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -251,22 +271,6 @@
     {
       "added_at": "2025-06-06 17:08:49",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
-    },
-    {
-      "added_at": "2025-06-06 17:08:49",
-      "album": {
         "name": "Grief Chapter",
         "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
@@ -283,22 +287,18 @@
     {
       "added_at": "2025-06-06 17:08:49",
       "album": {
-        "name": "Saviors (\u00e9dition de luxe)",
-        "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        },
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 129895,
-      "name": "Fuck Off - Fidlar Alt Mix",
-      "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-06-06 17:08:49",

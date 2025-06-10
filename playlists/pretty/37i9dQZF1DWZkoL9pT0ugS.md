@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 
 > Our editor’s picks for the biggest songs from The Rock List in 2024\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,904 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,902 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

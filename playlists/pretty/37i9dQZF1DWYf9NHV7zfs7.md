@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Abel Pintos
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,507 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,538 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 71 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 |
 | 72 | [La Cobra](https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP) | 3:08 |
 | 73 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
-| 74 | [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 |
-| 75 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
+| 74 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
+| 75 | [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 |
 | 76 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
 | 77 | [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 |
 | 78 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 |
-| 79 | [en la cara](https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [en la cara](https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS) | 2:37 |
-| 80 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
+| 79 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
+| 80 | [en la cara](https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [en la cara](https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS) | 2:37 |
 | 81 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 82 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
 | 83 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 |

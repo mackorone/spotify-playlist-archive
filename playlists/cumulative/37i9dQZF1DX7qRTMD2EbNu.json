@@ -874,7 +874,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 138035,
       "name": "Agya",
       "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
@@ -4085,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "I Never Left",
+        "url": "https://open.spotify.com/album/5yOFa29dDlTESWA8T143h8"
+      },
+      "artists": [
+        {
+          "name": "Okese1",
+          "url": "https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Don't Come Too Close",
+      "url": "https://open.spotify.com/track/3WFsfnBrbEXQ46TatVmqfR"
+    },
+    {
+      "album": {
         "name": "Don't Judge Me",
         "url": "https://open.spotify.com/album/21QawIpSF4rJNJXJFZzl7D"
       },
@@ -6360,7 +6378,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 165896,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1p8VRVuGMKDNTaZ35vJA8Y"

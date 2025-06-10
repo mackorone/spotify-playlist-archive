@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mesa Hira
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,636 likes - 130 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,666 likes - 130 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 28 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 |
 | 29 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
 | 30 | [Babak Terakhir](https://open.spotify.com/track/4mFnbnRA97Kp0Kbkvi2fL3) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Babak Terakhir](https://open.spotify.com/album/7oms6zH06xEyReTsPsuzWi) | 3:15 |
-| 31 | [Arah Cinta Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Cinta Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
+| 31 | [Arah Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
 | 32 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 | 33 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 | 34 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 |

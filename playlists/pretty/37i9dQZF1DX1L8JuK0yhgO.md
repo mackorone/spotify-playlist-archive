@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,790 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,820 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can we do it again?](https://open.spotify.com/track/1x6NPwoKNAyYADPRhgdg8L) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/1PAX5Z9MLo3PiUExFCYpDe) | 3:30 |
-| 2 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 2 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 3 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
 | 4 | [Alter Ego \(feat\. 空音\)](https://open.spotify.com/track/2pHdk3rzl628rEM29s7HiP) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O), [Funny Factures](https://open.spotify.com/artist/38mbcqDg0k0gQcoQNCUJYx), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Alter Ego \(feat\. 空音\)](https://open.spotify.com/album/2NnSKE91LO4q3Jx9Arbxvy) | 3:07 |
 | 5 | [ODORIBA](https://open.spotify.com/track/0cu5EfWGPMH6eM6YDI3SNp) | [SKYTOPIA](https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM), [Sigma\-T](https://open.spotify.com/artist/0UduPtVe7CeTtcho0OWMFK) | [SIGNS](https://open.spotify.com/album/72llv4OMxR3bB8YAFgvAMq) | 2:19 |

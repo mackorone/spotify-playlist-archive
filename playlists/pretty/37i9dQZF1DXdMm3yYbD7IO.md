@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,847 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,322 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 24 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 25 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
 | 26 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
-| 27 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
-| 28 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
+| 27 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
+| 28 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
 | 29 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 30 | [Be My Lover](https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 4:00 |
 | 31 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |

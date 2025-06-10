@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,896 likes - 125 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,046 likes - 125 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 14 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 15 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 16 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 |
-| 17 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 |
+| 17 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 18 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:07 |
 | 19 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 |
-| 20 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
+| 20 | [I Hate Everything About You](https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace](https://open.spotify.com/album/13topfW33NjnACjnRiZBX7) | 3:51 |
 | 21 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
 | 22 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 23 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 33 | [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 3:13 |
 | 34 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 35 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
-| 36 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
-| 37 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
+| 36 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
+| 37 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
 | 38 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 39 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
 | 40 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 88 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 |
 | 89 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 90 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
-| 91 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
-| 92 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
+| 91 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
+| 92 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 93 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
 | 94 | [The Sound of Silence](https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:08 |
 | 95 | [In the End](https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/2pKw6GERJVAD61449B1EEM) | 3:36 |

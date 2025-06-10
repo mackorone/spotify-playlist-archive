@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: 유아유\(UAU\)\)
 
-545 songs - 1 day 4 hr 28 min
+546 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [LION](https://open.spotify.com/track/4TArUx34wOehwpnbXlKBQY) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < FINAL Comeback >](https://open.spotify.com/album/1x2QsojG3m0e0jkLzP1rGr) | 3:30 | 2021-01-15 | 2022-07-28 |
 | [LIONS](https://open.spotify.com/track/1CDPPiQdieIinIveLZZRzk) | [TeenageGirls](https://open.spotify.com/artist/5IgVwSI9aWD9k0tDWDNJbS) | [Teenage Girl FINAL](https://open.spotify.com/album/25932bTp1w4ggpaOUaogP7) | 3:38 | 2022-03-29 | 2022-04-16 |
 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 | 2021-03-15 | 2021-03-16 |
+| [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-10 |  |
 | [Live, Love, Laugh](https://open.spotify.com/track/5PtLa8S310oSz6HdxDTc5T) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS ROAD](https://open.spotify.com/album/0drBJNDdHv4qK7XfPtBqee) | 3:30 | 2025-05-08 |  |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-25 | 2024-01-17 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-25 | 2022-07-29 |
@@ -316,7 +317,7 @@
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-09 |  |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-03 | 2025-06-07 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-14 |  |
-| [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2020-10-20 |  |
+| [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2020-10-20 | 2025-06-10 |
 | [Mirror Mirror](https://open.spotify.com/track/2J8DmAA6QON4rhKS12sdvf) | [GIANT PINK](https://open.spotify.com/artist/4yvE3ttbP5uRwBQ0ZrhOPi) | [Mirror Mirror](https://open.spotify.com/album/0FgtVXXDn2Y9qfwsrWfhZl) | 2:39 | 2021-02-28 | 2022-04-20 |
 | [MONA LISA](https://open.spotify.com/track/6Y4Nd3eqBtpR5t0w45OF6g) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [RIZZ](https://open.spotify.com/album/7GvvvIC6U744OedOjuEIc2) | 2:40 | 2024-05-24 | 2024-06-11 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-07-25 | 2024-04-19 |

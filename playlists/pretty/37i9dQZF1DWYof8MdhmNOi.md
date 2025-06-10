@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYof8MdhmNOi.md) - [plain]
 
 > HBCU Anthems! Curated by Bowie State University's own <a href="spotify:artist:1dbTwUlL11ZYdC1YAR07AM">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,843 likes - 32 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,906 likes - 32 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYof8MdhmNOi.md) - [plain]
 | 31 | [Save That Shit](https://open.spotify.com/track/6ptNBM3aWWACAQqC4rgkmp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Back from the Dead](https://open.spotify.com/album/36wYfxi4GQ9QunPwdfiwBI) | 3:33 |
 | 32 | [T\-Shirt](https://open.spotify.com/track/1rkfJLgTlB6XYNjgZ0sVaK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:02 |
 
-Snapshot ID: `AAAAAOYLdI2ZA8umlGafZwO5euag3Pa1`
+Snapshot ID: `Zy5o9gAAAAA90VuLfc7ofp2uBPgvaYyt`

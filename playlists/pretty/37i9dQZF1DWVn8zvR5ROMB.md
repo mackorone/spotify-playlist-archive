@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Bailey Zimmerman,  Jordan Davis, Old Dominion and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,059 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,177 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 78 | [Higher](https://open.spotify.com/track/7pZywnJlZUqz4HlMyM3P4Q) | [Breanna Nix](https://open.spotify.com/artist/22ZeVkw7W4PYwFhysbRDoQ) | [Higher](https://open.spotify.com/album/3yK3D9w3KJKljR8eR7Cx9Q) | 3:56 |
 | 79 | [Tell That Angel I Love Her](https://open.spotify.com/track/7LsPpvvPlgoFl9H82kABKp) | [John Foster](https://open.spotify.com/artist/6ElYg8lQz5ABijBc6cZ3DO) | [Tell That Angel I Love Her](https://open.spotify.com/album/1IyTS45PFg2gTFskFfD639) | 3:25 |
 
-Snapshot ID: `aEJn2AAAAAB1KmGGF9CsWjCDGwCWwLY4`
+Snapshot ID: `aEJn2AAAAAAmzUk/tgKIi8Fb+368W8fJ`

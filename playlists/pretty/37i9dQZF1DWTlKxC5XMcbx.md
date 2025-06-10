@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,821 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,823 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 18 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Straight Road](https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg) | 4:45 |
 | 19 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 |
 | 20 | [I Guess I'll Hang My Tears Out To Dry \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:22 |
-| 21 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
-| 22 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
+| 21 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
+| 22 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
 | 23 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 |
 | 24 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
 | 25 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 45 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 |
 | 46 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 |
 | 47 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
-| 48 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
-| 49 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
+| 48 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
+| 49 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
 | 50 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
 | 51 | [Azalea](https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7) | [Playing The Room](https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US) | 3:41 |
 | 52 | [Blue Lake](https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Blue Lake](https://open.spotify.com/album/199WEkdDKGEtOdKtheHjY0) | 3:35 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 65 | [Tranquillity \- Remastered 1994](https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:03 |
 | 66 | [Ernie's Tune](https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 4:16 |
 | 67 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 |
-| 68 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 |
-| 69 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 |
-| 70 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
-| 71 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 |
+| 68 | [Mother Stands for Comfort](https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [return to casual](https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s) | 4:07 |
+| 69 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 |
+| 70 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
+| 71 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 | 72 | [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 |
-| 73 | [No Regrets](https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [No Regrets](https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ) | 3:09 |
-| 74 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
-| 75 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 |
+| 73 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 |
+| 74 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
+| 75 | [No Regrets](https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [No Regrets](https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ) | 3:09 |
 
-Snapshot ID: `aD2BmQAAAADmClgop04XsQn5+dByBrJ4`
+Snapshot ID: `aEZudAAAAADcGJSfOvxikDETDQonaBRC`

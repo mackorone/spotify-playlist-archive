@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 999203,
+  "num_followers": 999416,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1507,6 +1507,38 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Salamandra",
+        "url": "https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Aire soy",
+      "url": "https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Un Hombre Discreto",
+        "url": "https://open.spotify.com/album/7MASmAxzjt1vBQqMcwrjtM"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/4bkP33ihkdl6CQVpzAYD5L"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Bye Mam\u00e1",
         "url": "https://open.spotify.com/album/4MCRdtCfDBVTTvre7X9gl0"
       },
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Salamandra",
-        "url": "https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Aire soy",
-      "url": "https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
         "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 183946,
       "name": "Qu\u00e9 Te Pasa",
       "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9"
     },
     {
       "added_at": "2020-06-24 19:34:30",

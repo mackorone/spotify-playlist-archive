@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-176 songs - 1 day 17 hr 26 min
+177 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Lingashtakam](https://open.spotify.com/track/664589X4AEPP7wqeduHx0W) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shivoham](https://open.spotify.com/album/4oDggXTk0GxDUsFc6s2IM9) | 2:40 | 2025-02-07 | 2025-06-03 |
 | [Lingashtakam](https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:33 | 2024-12-30 |  |
 | [Maa Durga Mantra Chanting](https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maa Durga Mantra Chanting](https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH) | 15:45 | 2025-02-04 |  |
+| [Maha Mritunjay Mantra](https://open.spotify.com/track/2VPMBwthYsmETrZ6WGsPcD) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maha Mritunjay Mantra](https://open.spotify.com/album/33n1vZq8hq2yOwm6nk1Rwm) | 17:12 | 2025-06-05 |  |
 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 | 2022-01-24 |  |
 | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 | 2024-12-03 | 2025-05-19 |
 | [Mahamritunjaya Mantra](https://open.spotify.com/track/7bCxpiv6IdUkHfVGsZnGUr) | [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx) | [Mahamritunjaya Mantra](https://open.spotify.com/album/6TxeXKJe0ro9LXlityvUTF) | 4:54 | 2024-02-26 | 2024-12-31 |
@@ -111,7 +112,7 @@
 | [Om Namah Shivaay](https://open.spotify.com/track/77BUqblYmGr4k7JAdgiLwt) | [Tochi Raina](https://open.spotify.com/artist/5ygCnHgWewvj077g4Zam9Y) | [Tochi Mantras](https://open.spotify.com/album/3v9tIJ3zIyg7fDwRtUfeGF) | 7:38 | 2022-01-24 | 2024-04-19 |
 | [Om Namah Shivaay](https://open.spotify.com/track/7tBfGCtnJjE6Ktzm3gZIO4) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 7:38 | 2022-01-24 | 2024-12-31 |
 | [Om Namah Shivay](https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb) | [Rahul Saxena](https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch) | [Om Namah Shivay](https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds) | 6:05 | 2025-02-07 |  |
-| [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 | 2024-11-18 |  |
+| [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 | 2024-11-18 | 2025-06-10 |
 | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/track/5nXf3V0iA8FnxtqyuJYNO2) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/album/7rf4Xz2c5f4IWEES3E40hn) | 6:13 | 2025-04-07 | 2025-05-28 |
 | [Om Namah Shivay Mantra](https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Om Namah Shivay Mantra](https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ) | 12:17 | 2023-08-28 |  |
 | [Om Namo Bhagavate Vasudevaya \(Liberation\)](https://open.spotify.com/track/1uzmVgbFP4UsMnTP1RXfQ5) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 9:29 | 2022-01-24 |  |

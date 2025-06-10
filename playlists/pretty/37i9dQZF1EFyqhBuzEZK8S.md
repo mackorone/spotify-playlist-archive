@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,998 likes - 327 songs - 20 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 327 songs - 20 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 42 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 |
 | 43 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 |
 | 44 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 |
-| 45 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |
-| 46 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 |
+| 45 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 |
+| 46 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |
 | 47 | [gold rush](https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:05 |
 | 48 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 49 | [I Think He Knows](https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:53 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 65 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
 | 66 | [Together](https://open.spotify.com/track/7CE9vL4mbtF1ZdzkYDUbgL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:25 |
 | 67 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
-| 68 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 |
-| 69 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
+| 68 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
+| 69 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 |
 | 70 | [imgonnagetyouback](https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:42 |
 | 71 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
 | 72 | [Rollercoaster](https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:08 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 326 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 | 327 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
 
-Snapshot ID: `Abzn0gAAAAAeDVacEkYslepxVGufCIvm`
+Snapshot ID: `AbztaAAAAAD2cmCNIh6gxfE+iXintllh`

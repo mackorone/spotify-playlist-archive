@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,913 likes - 36 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410,009 likes - 36 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 15 | [Car Radio](https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 |
 | 16 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 |
 | 17 | [Vignette](https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
-| 18 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
+| 18 | [Hometown](https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
 | 19 | [House of Gold](https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 2:43 |
 | 20 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 21 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
-| 22 | [Hometown](https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
+| 22 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
 | 23 | [Holding on to You](https://open.spotify.com/track/3C3cr2JQwXIhqAHqOardVO) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:23 |
 | 24 | [The Outside](https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:36 |
 | 25 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 35 | [Fake You Out](https://open.spotify.com/track/3MLtopC0uho28PxZN7Zecy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:51 |
 | 36 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
 
-Snapshot ID: `aEOBAAAAAAA2NbS2zAM+tXeIScTSzU3O`
+Snapshot ID: `aETSgAAAAADAkU0R/KaxsHSn8J6C9XcE`

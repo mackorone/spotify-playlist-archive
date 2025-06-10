@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Aaron
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,665 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,697 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [okaytanz](https://open.spotify.com/track/1nYkzv2l66SPWZtNXkphwr) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [okaytanz](https://open.spotify.com/album/63Tbczz1vcuNMwJhMisQKb) | 2:05 |
-| 2 | [Schief in jedem Chor](https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Schief in jedem Chor](https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI) | 3:06 |
-| 3 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 |
-| 4 | [Vorhang Auf](https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Vorhang Auf](https://open.spotify.com/album/1nJICdDYeK9y16fKtelreD) | 2:51 |
-| 5 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
-| 6 | [Tango](https://open.spotify.com/track/1XbP4kn5CSYvv1if1rQGbF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tango](https://open.spotify.com/album/3lEXcCAZXNRYYkgyZIaio2) | 2:09 |
+| 2 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 |
+| 3 | [Schief in jedem Chor](https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Schief in jedem Chor](https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI) | 3:06 |
+| 4 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
+| 5 | [Tango](https://open.spotify.com/track/1XbP4kn5CSYvv1if1rQGbF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tango](https://open.spotify.com/album/3lEXcCAZXNRYYkgyZIaio2) | 2:09 |
+| 6 | [Vorhang Auf](https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Vorhang Auf](https://open.spotify.com/album/1nJICdDYeK9y16fKtelreD) | 2:51 |
 | 7 | [Sturm im Kopf](https://open.spotify.com/track/65z2UwzApFlNDIaIL6sH4x) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl) | [Sturm im Kopf](https://open.spotify.com/album/44sSV2OEsyEjSHq9y7aCAh) | 3:16 |
 | 8 | [Vielleicht](https://open.spotify.com/track/7FuwizV4bAUFBhyNB5dCxm) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Vielleicht](https://open.spotify.com/album/1HvRFxbXa8AG6Hf0bD3vSL) | 2:27 |
-| 9 | [Ich schieb dich weg von mir](https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Ich schieb dich weg von mir](https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD) | 2:29 |
-| 10 | [nachmittagsverkehr](https://open.spotify.com/track/3hZ8CYjHDRhWOB8HiP699x) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [nachmittagsverkehr](https://open.spotify.com/album/6PbSf0u1cnUA52Nttpsc9M) | 2:37 |
-| 11 | [Warmes Bier](https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Warmes Bier](https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS) | 3:30 |
-| 12 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
+| 9 | [Warmes Bier](https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Warmes Bier](https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS) | 3:30 |
+| 10 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
+| 11 | [Ich schieb dich weg von mir](https://open.spotify.com/track/0sZf4kmVCFQOkyiZKV6gQz) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Ich schieb dich weg von mir](https://open.spotify.com/album/0CKVsNssG0HOfYzKZRG8yD) | 2:29 |
+| 12 | [nachmittagsverkehr](https://open.spotify.com/track/3hZ8CYjHDRhWOB8HiP699x) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [nachmittagsverkehr](https://open.spotify.com/album/6PbSf0u1cnUA52Nttpsc9M) | 2:37 |
 | 13 | [Zu den Anderen](https://open.spotify.com/track/0oCMEynClZLKiW1GCu1MPk) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw), [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Zu den Anderen](https://open.spotify.com/album/1zVozUjq6fX7C8kvHRvIAI) | 2:19 |
 | 14 | [es tut weh](https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [es tut weh](https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz) | 3:05 |
 | 15 | [trust](https://open.spotify.com/track/4SndEIto30sJF6BHSKWSJS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [trust](https://open.spotify.com/album/35Q6lntIxcVehDFrWB3JXq) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |
 | 75 | [Swimming Circles \(edit\)](https://open.spotify.com/track/5VPxrumSn6DiLX2VfJ5Kfj) | [FRISO](https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt) | [Swimming Circles \(edit\)](https://open.spotify.com/album/5w7aQAGOUpRC0pQOLB7OYa) | 3:57 |
 
-Snapshot ID: `aEIThwAAAACEs2MUVoxXcq/ZybX1Nu4e`
+Snapshot ID: `aEaWFgAAAABnV9opJyzWNYWL60+egCYj`

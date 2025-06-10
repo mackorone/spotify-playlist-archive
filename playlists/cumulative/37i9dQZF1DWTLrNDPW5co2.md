@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: Frankie Grande
 
-364 songs - 22 hr 50 min
+365 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [160 DOWN THE A406](https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS) | 6:02 | 2022-06-03 | 2023-04-01 |
 | [160BPM](https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [160BPM](https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf) | 2:40 | 2025-01-10 |  |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-08-02 | 2024-10-12 |
-| [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/track/5vMszBHLCrF8c4cypmL5dA) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/album/6kn4SO2tuRBY2h0VYIGMaX) | 4:20 | 2024-08-16 |  |
+| [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/track/5vMszBHLCrF8c4cypmL5dA) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/album/6kn4SO2tuRBY2h0VYIGMaX) | 4:20 | 2024-08-16 | 2025-06-10 |
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2024-10-11 |  |
 | [5 Mins Of Acid](https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j) | 5:00 | 2024-06-14 | 2024-07-02 |
 | [90210](https://open.spotify.com/track/3vrqIdzS88pCWGe51tXpOP) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [SUBSTATE](https://open.spotify.com/album/4piB5tOFZA5RhUTMMpAm2o) | 3:09 | 2024-05-24 | 2024-07-27 |
@@ -190,6 +190,7 @@
 | [Juicy Juice \(feat\. Marie Davidson\)](https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [deBasement](https://open.spotify.com/album/2HRRp7VG6cv6KAE1AlL981) | 3:00 | 2025-04-04 |  |
 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 | 2024-06-14 | 2024-07-02 |
 | [Jump, Bounce](https://open.spotify.com/track/75oyg5VA2vBIwyVvUBO5mk) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Aaron Veal](https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL) | [Jump, Bounce](https://open.spotify.com/album/1K8X4oyI0CFTgZ94mEDZWz) | 2:40 | 2024-09-20 | 2025-02-01 |
+| [Keep on Running](https://open.spotify.com/track/2FGWNqM9aTN5PlOwpey5fZ) | [That bb](https://open.spotify.com/artist/1EeNood6FrkpWHqrHUNMGF) | [Keep on Running](https://open.spotify.com/album/0oroBUC0YcUls05T561WSG) | 3:19 | 2025-06-09 |  |
 | [KILO \- LSDXOXO Remix](https://open.spotify.com/track/6gHC53VJetXr4YuhrCdEzk) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO \(LSDXOXO Remix\)](https://open.spotify.com/album/1oEtwrjW18EuTcjks5SyuE) | 3:42 | 2023-06-20 | 2023-06-24 |
 | [King Size](https://open.spotify.com/track/4iMfrPHoCeHG2luNTZ5cKv) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [King Size](https://open.spotify.com/album/6XNsEWHSM2MmxnLwLmyUzA) | 2:32 | 2025-06-06 |  |
 | [Lesbians <3](https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Lesbians <3](https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9) | 2:06 | 2024-06-07 | 2025-01-25 |

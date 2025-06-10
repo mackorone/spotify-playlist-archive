@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,116 likes - 112 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,110 likes - 112 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

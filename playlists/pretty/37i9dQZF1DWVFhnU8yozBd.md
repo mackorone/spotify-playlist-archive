@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>' favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,775 likes - 111 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,784 likes - 111 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

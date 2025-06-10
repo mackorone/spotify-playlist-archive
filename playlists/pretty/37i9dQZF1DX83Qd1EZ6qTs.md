@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,986 likes - 47 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 47 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 18 | [TablaTrap](https://open.spotify.com/track/0iw0rCaC2gw63fo8MqI0Hn) | [jomy george](https://open.spotify.com/artist/4egqbOwBPdQgSvm89qHjEZ) | [TablaTrap](https://open.spotify.com/album/0k3N7vIB6q6AKwQN1XycNQ) | 3:40 |
 | 19 | [Peace and Meditation](https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm) | [Bhavani Shankar](https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME) | [Pakhawaj](https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4) | 6:15 |
 | 20 | [Tabla Music](https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 3:56 |
-| 21 | [Tab Tabla](https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI) | [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Dum Tak Revolution, Vol\. 3](https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs) | 4:13 |
+| 21 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 |
 | 22 | [Tabla Solo In Ektal \- Live](https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 6:19 |
-| 23 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 |
+| 23 | [Tab Tabla](https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI) | [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Dum Tak Revolution, Vol\. 3](https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs) | 4:13 |
 | 24 | [Taj Mahal](https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1) | [Shaman Beats](https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w) | [Taj Mahal](https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no) | 2:35 |
 | 25 | [Tabla Magic](https://open.spotify.com/track/2qDM7VAHTWUIiwY3ocvaz0) | [Kedar Pandit](https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws) | [Magnificent Indian Drums](https://open.spotify.com/album/1cka9ySaQBsB7HDtKkUvtU) | 5:58 |
 | 26 | [Euphoria](https://open.spotify.com/track/25gcjUAUwRC2CH7uLkh9aN) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Euphoria](https://open.spotify.com/album/4BD93NQSsyizGs0sEIffLy) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 67954,
+  "num_followers": 67972,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
+        "name": "Ravel and Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Smetana Trio",
+          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
+        }
+      ],
+      "duration_ms": 475146,
+      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
+      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
         "name": "Mikko Franck Plays Ravel",
         "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 149693,
       "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
       "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
-        "name": "Ravel and Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Smetana Trio",
-          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
-        }
-      ],
-      "duration_ms": 475146,
-      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
-      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 67720,
-      "name": "Valses nobles et sentimentales: IV. Assez anim\u00e9",
-      "url": "https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
         "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
         "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
       },
@@ -487,6 +467,46 @@
       "duration_ms": 211786,
       "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
       "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
+        "name": "Ravel/Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Trio Mondrian",
+          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+        }
+      ],
+      "duration_ms": 266266,
+      "name": "Piano trio in a minor: Pantoum (Assez Vif)",
+      "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 67720,
+      "name": "Valses nobles et sentimentales: IV. Assez anim\u00e9",
+      "url": "https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -519,8 +539,8 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Ravel/Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+        "name": "Ravel",
+        "url": "https://open.spotify.com/album/23a6FjJmbXs8bfhPS4K0Cr"
       },
       "artists": [
         {
@@ -528,13 +548,21 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Trio Mondrian",
-          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 266266,
-      "name": "Piano trio in a minor: Pantoum (Assez Vif)",
-      "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
+      "duration_ms": 460933,
+      "name": "Piano Concerto for the Left Hand, M. 82: I. Lento",
+      "url": "https://open.spotify.com/track/73SaFJUeWlfltQIJ48xxaQ"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -567,8 +595,8 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Ravel",
-        "url": "https://open.spotify.com/album/23a6FjJmbXs8bfhPS4K0Cr"
+        "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
+        "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
       },
       "artists": [
         {
@@ -576,65 +604,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+          "name": "Anna Vinnitskaya",
+          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
         }
       ],
-      "duration_ms": 460933,
-      "name": "Piano Concerto for the Left Hand, M. 82: I. Lento",
-      "url": "https://open.spotify.com/track/73SaFJUeWlfltQIJ48xxaQ"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+      "duration_ms": 367946,
+      "name": "Miroirs: IV. Alborada del gracioso, M. 43",
+      "url": "https://open.spotify.com/track/74Nh6QlxHbsV02QkX4jvlM"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -667,6 +643,30 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
         "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
         "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Volodos in Vienna",
-        "url": "https://open.spotify.com/album/3TsXBqjYS4SgtK7g7xPAHd"
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
       },
       "artists": [
         {
@@ -696,19 +696,19 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
         }
       ],
-      "duration_ms": 278013,
-      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
-      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
-        "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
       },
       "artists": [
         {
@@ -716,13 +716,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Anna Vinnitskaya",
-          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
         }
       ],
-      "duration_ms": 367946,
-      "name": "Miroirs: IV. Alborada del gracioso, M. 43",
-      "url": "https://open.spotify.com/track/74Nh6QlxHbsV02QkX4jvlM"
+      "duration_ms": 611466,
+      "name": "Gaspard de la Nuit, M. 55: 3. Scarbo - Live",
+      "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -747,8 +747,8 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+        "name": "Volodos in Vienna",
+        "url": "https://open.spotify.com/album/3TsXBqjYS4SgtK7g7xPAHd"
       },
       "artists": [
         {
@@ -756,13 +756,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
         }
       ],
-      "duration_ms": 611466,
-      "name": "Gaspard de la Nuit, M. 55: 3. Scarbo - Live",
-      "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
+      "duration_ms": 278013,
+      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
+      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
+        "name": "Ravel/Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Trio Mondrian",
+          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+        }
+      ],
+      "duration_ms": 554386,
+      "name": "Piano trio in a minor: Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
-        "name": "Ravel/Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Trio Mondrian",
-          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
-        }
-      ],
-      "duration_ms": 554386,
-      "name": "Piano trio in a minor: Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
-        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ivo Pogorelich",
-          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
         "name": "My Paris Years - French Music for Piano",
         "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 211333,
       "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
       "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
+        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
     },
     {
       "added_at": "2025-03-11 09:33:12",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2025-03-11 09:33:12",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
-      "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
-    },
-    {
-      "added_at": "2025-03-11 09:33:12",
-      "album": {
         "name": "Saint-Sa\u00ebns, Ravel & Gershwin: Piano Concertos",
         "url": "https://open.spotify.com/album/6VSsWHlosgJ4sVTJxir9ve"
       },
@@ -1095,6 +1071,30 @@
       "duration_ms": 563960,
       "name": "Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai",
       "url": "https://open.spotify.com/track/290yNtxtichwwjU8n7NEGm"
+    },
+    {
+      "added_at": "2025-03-11 09:33:12",
+      "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
+      "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
     },
     {
       "added_at": "2025-03-11 09:33:12",

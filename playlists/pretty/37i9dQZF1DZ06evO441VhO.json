@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17795,
+  "num_followers": 17796,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADQ4ItL4Kvl4++LnltBrxr4",
+  "snapshot_id": "aETSgAAAAAD3MkPcT8dUBM0oLgnCl7MN",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 239505,
       "name": "The Juggernauts",
       "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -475,38 +475,6 @@
       "duration_ms": 181261,
       "name": "Licking on a Knife for Fun",
       "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doomsday on the Radio",
-        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 170029,
-      "name": "Doomsday on the Radio",
-      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
     },
     {
       "added_at": null,
@@ -527,6 +495,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doomsday on the Radio",
+        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 170029,
+      "name": "Doomsday on the Radio",
+      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walk the Plank",
         "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 165640,
-      "name": "Over the Edge",
-      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+      "duration_ms": 193345,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pulling Teeth",
-        "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 193345,
-      "name": "Pulling Teeth",
-      "url": "https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4"
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
     },
     {
       "added_at": null,

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 ### [2000年代華語金曲](https://open.spotify.com/playlist/37i9dQZF1DWVUmQhB7PvFH)
 
-> 千禧後第一個十年，讓我們藉著旋律回味...Cover: 李玟 \(Coco Lee\)
+> 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡健雅 \(Tanya Chua\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,617 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,666 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
-| 2 | [第九夜](https://open.spotify.com/track/4Xmn7B42GDWz8cZgq5YwfS) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [要定你](https://open.spotify.com/album/2H9KX2lOQbqr9mEZulD6jN) | 4:19 |
+| 1 | [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 |
+| 2 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 | 3 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 |
 | 4 | [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 |
 | 5 | [愛錯](https://open.spotify.com/track/4vdX5mQE0oXkflFqsqQkUP) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心中的日月](https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw) | 3:58 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 36 | [雙棲動物](https://open.spotify.com/track/4YVbLto1w4dEKXjuZxlGRQ) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [雙棲動物](https://open.spotify.com/album/68S7f03MXTpRxZ1Gzw5RaG) | 4:35 |
 | 37 | [Lydia](https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 3:58 |
 | 38 | [手放開](https://open.spotify.com/track/2Dd9EXYXI2NNrLG61OtWQv) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [絕對痴心.手放開](https://open.spotify.com/album/7i5rQCv4Ucs8p7lqhq5HfZ) | 4:25 |
-| 39 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 |
-| 40 | [掉了](https://open.spotify.com/track/39tpfLHvnzXk4f8iD0htkn) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [阿密特意識專輯](https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c) | 3:57 |
+| 39 | [掉了](https://open.spotify.com/track/39tpfLHvnzXk4f8iD0htkn) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [阿密特意識專輯](https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c) | 3:57 |
+| 40 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 |
 | 41 | [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 |
 | 42 | [說愛你](https://open.spotify.com/track/6u4QtlkKJ879ElNlgw0R7M) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 3:46 |
 | 43 | [你不是真正的快樂](https://open.spotify.com/track/1XfWRrji6DBo420tz75tNV) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:59 |
-| 44 | [勇氣](https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [勇氣](https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN) | 3:59 |
+| 44 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
 | 45 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
-| 46 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
-| 47 | [你的微笑](https://open.spotify.com/track/4eNeCUAnq5XuXwGanJb8qi) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:21 |
-| 48 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 |
-| 49 | [珊瑚海](https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:16 |
-| 50 | [最近](https://open.spotify.com/track/57pUHpCltt09b5w1W6m9qb) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2YWoaXXwYeCEUbKw4AgQ6z) | 4:03 |
+| 46 | [你的微笑](https://open.spotify.com/track/4eNeCUAnq5XuXwGanJb8qi) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:21 |
+| 47 | [勇氣](https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [勇氣](https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN) | 3:59 |
+| 48 | [無與倫比的美麗](https://open.spotify.com/track/2UwbKIkGPgTPdp7CVx1Dok) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [無與倫比的美麗](https://open.spotify.com/album/6qNB0HMe9AoVBxsLn7CZPa) | 5:06 |
+| 49 | [放生](https://open.spotify.com/track/1FYDHcFBASKDxhjkLLbh5X) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [不說出的溫柔](https://open.spotify.com/album/4T39XZq1SSz0c1VjhJAhJU) | 4:33 |
+| 50 | [珊瑚海](https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:16 |
 
-Snapshot ID: `aDQS2wAAAACLvYlv9U0wKlkTBkFGi2it`
+Snapshot ID: `aEZqEAAAAAB7yP1Ac/WndL7QvEUXSnb2`

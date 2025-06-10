@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [Comfortably Numb](https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Comfortably Numb](https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de) | 6:19 |
 | 31 | [Eventide](https://open.spotify.com/track/5mmlzxAJaVTlE0qwMzlRd0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:17 |
 
-Snapshot ID: `aEOBAAAAAABiYYFc4T4qiJ4nyfuce6+2`
+Snapshot ID: `aETSgAAAAAB989Os9TemXur/zXLNJcoF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,881 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,905 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 30 | [The Phoenix](https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
 | 31 | [Walking The Wire](https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:52 |
 | 32 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
-| 33 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
+| 33 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
 | 34 | [Every Teardrop Is a Waterfall](https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:00 |
-| 35 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
+| 35 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
 | 36 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 |
 | 37 | [Wherever I Go](https://open.spotify.com/track/46jLy47W8rkf8rEX04gMKB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 2:49 |
 | 38 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 67 | [Go Big Or Go Home](https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:49 |
 | 68 | [Heartbeat](https://open.spotify.com/track/2atYprr9JsQaLynGhrWhld) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Scars & Stories](https://open.spotify.com/album/1Nu3r7EuveXog0rPvXExSF) | 3:40 |
 | 69 | [The Last Time](https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:16 |
-| 70 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 |
+| 70 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
 | 71 | [Miracle](https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:26 |
-| 72 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
+| 72 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 |
 | 73 | [Bad Blood](https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:32 |
 | 74 | [Re\-arrange](https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 3:37 |
 | 75 | [Start A Riot](https://open.spotify.com/track/0XDjtRaCmupZbkvvmtFIBB) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Start A Riot](https://open.spotify.com/album/2udv3G6saR7mLvp20Sfvcw) | 3:35 |
 | 76 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 |
-| 77 | [Dangerous Night](https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:19 |
-| 78 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
+| 77 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
+| 78 | [Dangerous Night](https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:19 |
 | 79 | [Forever And Always](https://open.spotify.com/track/3NCg46FWgnANZc9HQHQOQR) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 4:08 |
 | 80 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
 | 81 | [On And On](https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:35 |

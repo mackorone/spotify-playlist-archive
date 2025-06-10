@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,509 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,550 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 10 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 |
 | 11 | [Luna de miel](https://open.spotify.com/track/4s3G4N7ejPSQwByKruYCes) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Grande](https://open.spotify.com/album/3ajZ81w9u3tvXntUT5Qkgg) | 3:52 |
 | 12 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
-| 13 | [Blanco y Negro](https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/7popMaqBQ73NwM0Evpn16K) | 3:53 |
-| 14 | [Brindaremos por él](https://open.spotify.com/track/3FVpM9dyJHgiTNYcp87dId) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Corazón de hierro](https://open.spotify.com/album/7w7AuNDsrrbryexIA1g9V9) | 3:35 |
+| 13 | [Brindaremos por él](https://open.spotify.com/track/3FVpM9dyJHgiTNYcp87dId) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Corazón de hierro](https://open.spotify.com/album/7w7AuNDsrrbryexIA1g9V9) | 3:35 |
+| 14 | [Blanco y Negro](https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/7popMaqBQ73NwM0Evpn16K) | 3:53 |
 | 15 | [El amor](https://open.spotify.com/track/5LpflH9ncdBJwSlem7ey9a) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Tiempos dificiles](https://open.spotify.com/album/6lfk9pty2XTZPUeJw3Onf9) | 4:42 |
 | 16 | [Corazón Contento](https://open.spotify.com/track/5r5hCjNjWdmQTHtHBZ7ghy) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [De Marisol A Pepa Flores](https://open.spotify.com/album/73Wl1DZw4FCGwGNdATSCIO) | 3:00 |
 | 17 | [Entre mis recuerdos](https://open.spotify.com/track/6Z8Q8zSG6xpIKAyH0Z77wb) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Como la flor prometida](https://open.spotify.com/album/6MtEj11uhuk1uNP1RAOyxz) | 3:37 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 42 | [A Mi Manera](https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Canciones Que Me Gustan](https://open.spotify.com/album/31pLRCgAvn48nOyHaAUI8V) | 4:21 |
 | 43 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
 | 44 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
-| 45 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
-| 46 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
+| 45 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
+| 46 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
 | 47 | [Una estrella en mi jardín](https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Una estrella en mi jardín](https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu) | 5:03 |
 | 48 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 |
 | 49 | [Se me olvidó otra vez](https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Seguir viviendo](https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq) | 3:06 |

@@ -4,7 +4,7 @@
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 38 min
+84 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 | 2023-11-10 |  |
 | [En La Obscuridad](https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:27 | 2023-11-10 |  |
 | [Flamenkito](https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cocoterapia](https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1) | 3:22 | 2023-11-10 |  |
+| [Heterocromía](https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:45 | 2025-06-10 |  |
 | [I Love You..\. Te Quiero](https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:36 | 2023-11-10 | 2024-10-12 |
 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 | 2024-10-28 |  |
 | [La Chapa Que Vibran \- Remix](https://open.spotify.com/track/6fmVrh7XQ0KD69AOufNMUL) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [La Chapa Que Vibran \(Remix\)](https://open.spotify.com/album/0qZG52KQ27bJKuiWBK5cjN) | 3:23 | 2024-01-01 | 2024-01-03 |
@@ -88,7 +89,7 @@
 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 | 2023-11-10 | 2024-09-13 |
 | [Van Gogh](https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:05 | 2025-06-08 |  |
 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 | 2023-11-10 |  |
-| [Wet Dreams](https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 2:44 | 2025-06-08 |  |
+| [Wet Dreams](https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 2:44 | 2025-06-08 | 2025-06-10 |
 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 | 2023-11-10 | 2025-04-11 |
 | [Ángel \- Once in Your Lifetime](https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:40 | 2023-11-10 |  |
 

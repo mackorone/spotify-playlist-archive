@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ZIN CHOI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,715 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,738 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 4 | [PARKING LOT ANTHEM](https://open.spotify.com/track/2u8wDmQ30E0RR0nJmQyOAR) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [PARKING LOT ANTHEM](https://open.spotify.com/album/1WdUs4m4u2Je5laO8r3IdL) | 2:45 |
 | 5 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 |
 | 6 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 |
-| 7 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 |
+| 7 | [Five Minutes Ago \- Band Version](https://open.spotify.com/track/0oRdrlraR6TXAqOKZR7LmK) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD) | [Five Minutes Ago](https://open.spotify.com/album/1AMQgRXtR027raHkkr5cwx) | 3:39 |
 | 8 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 |
-| 9 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
-| 10 | [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 |
+| 9 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 |
+| 10 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
 | 11 | [Double Trouble \(Remix\)](https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Double Trouble \(Remix\)](https://open.spotify.com/album/3ylXCMrMzkXt5mVkZYw67P) | 3:12 |
 | 12 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 |
 | 13 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 34 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 |
 | 35 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
 | 36 | [A Long Dream](https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb) | 4:18 |
-| 37 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
-| 38 | [For the gone\(with ELLE KOREA\)](https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [RECONNECT](https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC) | 4:03 |
+| 37 | [For the gone\(with ELLE KOREA\)](https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [RECONNECT](https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC) | 4:03 |
+| 38 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
 | 39 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
 | 40 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 41 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 43 | [Okinawa](https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/0vPsSVKMo07UijGL755gqL) | 5:48 |
 | 44 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 |
 | 45 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
-| 46 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 |
-| 47 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
-| 48 | [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 |
+| 46 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
+| 47 | [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 |
+| 48 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 |
 | 49 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 | 50 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 |
 
-Snapshot ID: `aEY2fgAAAABc5xJAURSvPOMgQU6yVg7+`
+Snapshot ID: `aEeZdQAAAADGYEg69yiCQf/VYUcqLFFH`

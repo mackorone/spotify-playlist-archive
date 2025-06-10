@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Megan Thee Stallion & Victoria Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,132 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,229 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 11 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 12 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 13 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
-| 14 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
-| 15 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
+| 14 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
+| 15 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 16 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
 | 17 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
 | 18 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,640 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,744 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 41 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 |
 | 42 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
 | 43 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 44 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
-| 45 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
+| 44 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
+| 45 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
 | 46 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
 | 47 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
-| 48 | [Amor Regresa](https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:33 |
-| 49 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
+| 48 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
+| 49 | [Amor Regresa](https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:33 |
 | 50 | [La Colombiana](https://open.spotify.com/track/0L4vNSaf47SbElTWneJUU5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Colombiana](https://open.spotify.com/album/5gf2EKYxwU4CG0tKuR93Ju) | 2:46 |
 
 Snapshot ID: `Z912HgAAAADZqy2T6RKIeV/0raKEJSC1`

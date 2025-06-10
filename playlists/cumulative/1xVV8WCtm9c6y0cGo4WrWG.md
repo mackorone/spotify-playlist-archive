@@ -4,7 +4,7 @@
 
 > For the next 5 weeks, the Hoop Queens are taking over the Hip Hop Pulse playlist—curating the sounds that fuel their game on and off the court\. It’s not just a takeover\. It’s a full\-court statement.
 
-356 songs - 18 hr 0 min
+357 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-30 | 2025-03-15 |
 | [High School](https://open.spotify.com/track/6bzwoiUt0s1KDOedyy4OtQ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up](https://open.spotify.com/album/78XjkzI0J1YpzKUPgzWbat) | 3:38 | 2025-06-07 |  |
 | [Himothy](https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Himothy](https://open.spotify.com/album/0cumUqYme4Am4PnlsHbBUl) | 2:39 | 2024-02-23 | 2024-05-06 |
+| [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 | 2025-06-09 |  |
 | [Hit Stick](https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Stick](https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN) | 3:13 | 2024-08-12 | 2025-06-07 |
 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2023-11-03 | 2024-05-06 |
 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 | 2025-06-07 |
@@ -239,7 +240,7 @@
 | [Over Hoes & Bitches \(OHB\)](https://open.spotify.com/track/0pwfqpMLUFZChx6HLiiBn2) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Over Hoes & Bitches \(OHB\)](https://open.spotify.com/album/6Knd5yobY4gPdELLHM92pu) | 2:22 | 2024-04-26 | 2024-06-15 |
 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 | 2024-04-12 | 2025-03-15 |
 | [OWA OWA](https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [OWA OWA](https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7) | 2:12 | 2025-05-30 |  |
-| [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 | 2024-11-15 |  |
+| [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 | 2024-11-15 | 2025-06-10 |
 | [Pakistan](https://open.spotify.com/track/4iZTNyPJuxpWmfjUQRDwBY) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [DBE World](https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82) | 2:54 | 2023-11-03 | 2024-05-02 |
 | [Passion](https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Passion](https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm) | 2:29 | 2024-07-12 | 2024-09-10 |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-11-03 | 2024-02-19 |

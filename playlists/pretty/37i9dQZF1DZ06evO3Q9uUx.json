@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15482,
+  "num_followers": 15487,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAC3ZKyXJ7kJ5qSDy8hIJw1+",
+  "snapshot_id": "aETSgAAAAADGk5WLe6L9khaK/auFw9yn",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "LIGHTS OUT",
-      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 132537,
       "name": "It's You (feat. BIA)",
       "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEACH BALL (feat. BIA)",
-        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "BEACH BALL (feat. BIA)",
-      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Like Dat (feat. BIA & Kehlani)",
         "url": "https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 283305,
       "name": "I Like Dat (feat. BIA & Kehlani)",
       "url": "https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEACH BALL (feat. BIA)",
+        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "BEACH BALL (feat. BIA)",
+      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
     },
     {
       "added_at": null,

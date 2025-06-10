@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 77 | [Without You](https://open.spotify.com/track/0ltJVWX5qsUSrNJEXhTN0r) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Beautiful Oblivion](https://open.spotify.com/album/1PDhhxnDRAMs12nWawUKE2) | 3:01 |
 | 78 | [Decades](https://open.spotify.com/track/6yiCFprNLeKraW5RsYUxiE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:28 |
 | 79 | [Hard to Breathe](https://open.spotify.com/track/0z7vP1cqwrlwvbSw5d0pzc) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 2:57 |
-| 80 | [Mhmmm](https://open.spotify.com/track/78HLLLzSybXbDIkOtdBKY9) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Unbothered](https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0) | 2:21 |
-| 81 | [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 |
+| 80 | [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 |
+| 81 | [Mhmmm](https://open.spotify.com/track/78HLLLzSybXbDIkOtdBKY9) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Unbothered](https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0) | 2:21 |
 | 82 | [The One](https://open.spotify.com/track/4UShCEJZnpywR6Y9M86Nu4) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 2:25 |
 | 83 | [Japan](https://open.spotify.com/track/62CfIeX8B6AgWft6Ty1lO9) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:30 |
 | 84 | [My Potna](https://open.spotify.com/track/33CpCzA6Rdv9d6pxBRzTho) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paperwork : Trap Music](https://open.spotify.com/album/2XkQJozVWIfsF68bRw24BD) | 3:04 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbznyAAAAAAzoClNgNzse7d0Iu3l9Wzc`
+Snapshot ID: `AbztaAAAAABmzxPHTNLpkSM+uRVKaxGJ`

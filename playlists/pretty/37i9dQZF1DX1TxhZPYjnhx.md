@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 97 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,579 likes - 97 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

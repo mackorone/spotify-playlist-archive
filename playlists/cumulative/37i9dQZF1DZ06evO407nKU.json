@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Como Le Hago",
+        "url": "https://open.spotify.com/album/4EaSJa0LsA6Iq1w01Uwedq"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Los Paisanos de Sinaloa",
+          "url": "https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227171,
+      "name": "Como Le Hago",
+      "url": "https://open.spotify.com/track/5gCDxyrF7ruOPnAX2FRhLC"
+    },
+    {
+      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
       },
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 163893,
       "name": "Luchon",
       "url": "https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu"

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2022605,
+  "num_followers": 2023141,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJnygAAAAB1PiBahZt2wwydGfud7JqE",
+  "snapshot_id": "aEbrQwAAAAB/Oh4yurXNXPL7//nK3xO/",
   "tracks": [
     {
       "added_at": "2025-04-18 17:03:04",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/4R6EMxsqzFplNAIyig4RX4"
     },
     {
-      "added_at": "2025-03-31 17:04:15",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M"
-      },
-      "artists": [
-        {
-          "name": "Jace June",
-          "url": "https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP"
-        }
-      ],
-      "duration_ms": 168001,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "AM",
@@ -119,6 +103,22 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2025-06-09 14:10:11",
+      "album": {
+        "name": "you're such a good girl?",
+        "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 167153,
+      "name": "you're such a good girl?",
+      "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Kiss It Better",
-      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 216630,
-      "name": "Her Way",
-      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Her Love Still Haunts Me Like a Ghost",
         "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 216630,
+      "name": "Her Way",
+      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2025-02-25 17:54:38",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 158463,
-      "name": "I Didn't Change My Number",
-      "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Love Is a Bitch",
@@ -1051,6 +1035,22 @@
       "duration_ms": 181466,
       "name": "Love Is a Bitch",
       "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
+    },
+    {
+      "added_at": "2025-02-25 17:54:38",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 158463,
+      "name": "I Didn't Change My Number",
+      "url": "https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 237506,
       "name": "Losin Control",
       "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d"
+    },
+    {
+      "added_at": "2025-03-31 17:04:15",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M"
+      },
+      "artists": [
+        {
+          "name": "Jace June",
+          "url": "https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP"
+        }
+      ],
+      "duration_ms": 168001,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1617,6 +1633,22 @@
       "url": "https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz"
     },
     {
+      "added_at": "2025-03-21 18:50:04",
+      "album": {
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Freudian",
@@ -1635,22 +1667,6 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2025-03-21 18:50:04",
-      "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1683,26 +1699,6 @@
       "duration_ms": 214840,
       "name": "DIRTY LITTLE SECRET",
       "url": "https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP"
-    },
-    {
-      "added_at": "2025-02-04 01:02:45",
-      "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8"
     }
   ],
   "unique_name": "goosebumps",

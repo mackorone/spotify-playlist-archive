@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,148 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,202 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 29 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
 | 30 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
 | 31 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
-| 32 | [I Just Wanna Stop](https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ) | [Gino Vannelli](https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR) | [Brother To Brother](https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc) | 3:38 |
-| 33 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
+| 32 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
+| 33 | [I Just Wanna Stop](https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ) | [Gino Vannelli](https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR) | [Brother To Brother](https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc) | 3:38 |
 | 34 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 |
 | 35 | [Hello It's Me](https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 4:24 |
 | 36 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 75 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 |
 | 76 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 77 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
-| 78 | [Little Jeannie](https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6di4cgOMxTkS0tUx5l07WW) | 5:17 |
-| 79 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
+| 78 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
+| 79 | [Little Jeannie](https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6di4cgOMxTkS0tUx5l07WW) | 5:17 |
 | 80 | [Sometimes When We Touch](https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH) | 4:12 |
 
 Snapshot ID: `ZowqsgAAAADrOPQBM9ce6zRp133SiwIA`

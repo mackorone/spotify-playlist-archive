@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-790 songs - 1 day 20 hr 18 min
+791 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2024-02-14 | 2024-11-03 |
 | [Ameaça](https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Ameaça](https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w) | 3:08 | 2021-12-07 | 2022-06-01 |
 | [Amor de Vago](https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Amor de Vago](https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2) | 3:08 | 2024-12-18 |  |
+| [amor de veraNO](https://open.spotify.com/track/6WJ2QzbVnjmPGKpmb6tmmO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [amor de veraNO](https://open.spotify.com/album/5HcFNQRrln543myn8MwucM) | 3:18 | 2025-06-09 |  |
 | [Amor Platonico](https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:07 | 2024-11-18 | 2025-01-04 |
 | [ANDO](https://open.spotify.com/track/4GvEuYAfJlICR2SpMDaBxQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:52 | 2023-12-11 | 2024-05-04 |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-05-07 | 2022-09-17 |
@@ -331,7 +332,7 @@
 | [KETU TeCRÉ](https://open.spotify.com/track/4c2Pc0NrfkesPR0jff6q3F) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 4:10 | 2025-01-07 | 2025-01-28 |
 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 | 2024-11-19 |  |
 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 | 2025-01-07 |  |
-| [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 | 2024-10-04 |  |
+| [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 | 2024-10-04 | 2025-06-10 |
 | [L\-Gante Rkt](https://open.spotify.com/track/6EHrppRT1Uj4cyShAujxFu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante Rkt](https://open.spotify.com/album/5GTDPMYQ2mqLwJLlS6iRub) | 3:02 | 2021-03-27\* | 2021-04-11 |
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2021-03-27\* | 2021-10-08 |
 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 | 2021-04-11 | 2021-10-03 |

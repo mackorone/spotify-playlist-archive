@@ -4,7 +4,7 @@
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-124 songs - 7 hr 55 min
+125 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Mi Corazoncito](https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 | 2022-01-21 |  |
 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 | 2022-01-21 |  |
 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 | 2022-01-21 |  |
+| [MUJERON](https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M) | [Reggi El Autentico](https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6) | [MUJERON](https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv) | 2:38 | 2025-06-06 |  |
 | [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 | 2023-10-20 | 2023-11-17 |
 | [No Te Dejo Sola \(feat\. Franco de Vita\)](https://open.spotify.com/track/3Ie1GvK6uGzRn9Ri6Renpl) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:25 | 2022-01-21 | 2022-07-16 |
 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 | 2022-01-21 | 2022-07-29 |
@@ -104,7 +105,7 @@
 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 | 2022-01-21 |  |
 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-25 |  |
 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 | 2022-01-21 |  |
-| [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 | 2022-01-21 |  |
+| [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 | 2022-01-21 | 2025-06-10 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2023-01-24 |  |
 | [Si Se Trata de Ella](https://open.spotify.com/track/4LccsIadxqxJoBQ9X6LNBY) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Si Se Trata de Ella](https://open.spotify.com/album/6VNjDi6Fu1GRSbd47QS1qU) | 2:57 | 2025-02-14 |  |

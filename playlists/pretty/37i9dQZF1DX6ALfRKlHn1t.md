@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,552 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,650 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 25 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 26 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 27 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 28 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
-| 29 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
-| 30 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
-| 31 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 |
+| 28 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
+| 29 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
+| 30 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 |
+| 31 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 32 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
 | 33 | [Say It Ain't So \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 4:17 |
 | 34 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 53 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
 | 54 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 55 | [adios](https://open.spotify.com/track/7BkLfZnv7DJdJJ9wWj8Vdv) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 3:23 |
-| 56 | [Going, Going, Gone](https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Going, Going, Gone](https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8) | 2:55 |
-| 57 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
-| 58 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
-| 59 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
+| 56 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
+| 57 | [Going, Going, Gone](https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Going, Going, Gone](https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8) | 2:55 |
+| 58 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
+| 59 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
 | 60 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 |
 | 61 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 |
 | 62 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |

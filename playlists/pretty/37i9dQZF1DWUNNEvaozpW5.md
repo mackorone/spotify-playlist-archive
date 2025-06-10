@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,523 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,532 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 47 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 48 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 49 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
-| 50 | [Flores de Venganza](https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Flores de Venganza](https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf) | 2:46 |
-| 51 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
-| 52 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
+| 50 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
+| 51 | [Flores de Venganza](https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Flores de Venganza](https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf) | 2:46 |
+| 52 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
 | 53 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
 | 54 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 55 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 79 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 80 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
 | 81 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
-| 82 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
-| 83 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
+| 82 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
+| 83 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
 | 84 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |
 | 85 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
 | 86 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |

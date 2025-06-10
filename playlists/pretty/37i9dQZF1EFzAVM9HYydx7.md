@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 295 songs - 17 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905 likes - 295 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 294 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 295 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Abzn3AAAAACwPtLBxDyIHdj75DWCYV/V`
+Snapshot ID: `AbztcgAAAAB0zw6iTgzLRFglYNnPMoMh`

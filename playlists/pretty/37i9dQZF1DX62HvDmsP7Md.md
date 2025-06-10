@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,243 likes - 65 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,396 likes - 65 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 64 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
 | 65 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Pandemonium!](https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq) | 4:42 |
 
-Snapshot ID: `aCZNqQAAAAD+MMTArQI1Xqhh1dKhDlQ6`
+Snapshot ID: `aCZNqQAAAAC66puJFg8pl9yWZKg6LkAD`

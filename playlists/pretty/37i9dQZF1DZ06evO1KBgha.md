@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 > This is Kenia Os\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,489 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,520 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
 | 2 | [En 4](https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [En 4](https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt) | 3:06 |
-| 3 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
-| 4 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
+| 3 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
+| 4 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 5 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
 | 6 | [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 |
 | 7 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 49 | [Diamantes](https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Diamantes](https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA) | 2:58 |
 | 50 | [Más Te Va a Doler](https://open.spotify.com/track/5zKXodTRdBV2Mv12UmM3Tc) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Más Te Va a Doler](https://open.spotify.com/album/7GXA6EaThSEbjVVdaBvuZg) | 3:14 |
 
-Snapshot ID: `aEOBAAAAAAAD1LoIei4s2RnWai68lsbJ`
+Snapshot ID: `aETSgAAAAAABV4hCA7W/JwH2SbljYSoG`

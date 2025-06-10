@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,939 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,985 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Wacha Wacha](https://open.spotify.com/track/71OicnMaY5hXMXhotjCsqn) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [Wacha Wacha](https://open.spotify.com/album/2dpWuSiKjeTlABw34CiFHn) | 3:52 |
 | 50 | [START IT AGAIN \- Remix](https://open.spotify.com/track/0PJowvC3narnikzdIwDhzz) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [RIMAZI](https://open.spotify.com/artist/0tZfjqI2zhxJp3LUQqqZ85) | [START IT AGAIN \(feat\. YZERR\) \[Remix\]](https://open.spotify.com/album/3pV9a2Ofess9KjBNHl5lUb) | 3:50 |
 
-Snapshot ID: `aD8ODgAAAAAizRR9bwbiDwdNpRs5DocJ`
+Snapshot ID: `AAAAADlUUcu58Ko3Jft4C4YYhGSZUD8h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 17 | [Con Otra](https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:51 |
 | 18 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 19 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
-| 20 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 20 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 21 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
 | 22 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 | 23 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Bailando Conmigo](https://open.spotify.com/track/4d4cW91CpcogH1COrpNaH2) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Bailando Conmigo](https://open.spotify.com/album/1UR0HYFjrVtdbP9eEPGhu6) | 3:13 |
 | 50 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 
-Snapshot ID: `L9kBUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9pQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

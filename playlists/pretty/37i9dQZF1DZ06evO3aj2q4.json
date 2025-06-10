@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 432261,
+  "num_followers": 432345,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACJfP/mKcLEORMbmv1j4RiO",
+  "snapshot_id": "aETSgAAAAADHL0JgNmt/IZwDolftLfQB",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fight Like A Girl (feat. K.Flay)",
+        "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 186068,
+      "name": "Fight Like A Girl (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "All That I Am Living For",
+      "url": "https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evanescence",
+        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Made Of Stone",
+      "url": "https://open.spotify.com/track/28FTCznKZRfYwJVA9OmPif"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -260,70 +328,6 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Made Of Stone",
-      "url": "https://open.spotify.com/track/28FTCznKZRfYwJVA9OmPif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Whispers",
-        "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 239037,
-      "name": "Farther Away",
-      "url": "https://open.spotify.com/track/63Yk0ZcjJSv37O8Vy7PFZi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Open Door",
-        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 228706,
-      "name": "All That I Am Living For",
-      "url": "https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evanescence",
-        "url": "https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
       "duration_ms": 282293,
       "name": "Lost In Paradise",
       "url": "https://open.spotify.com/track/7c8unZeNL9gI6Go9DgGYpb"
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight Like A Girl (feat. K.Flay)",
-        "url": "https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF"
+        "name": "Lost Whispers",
+        "url": "https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 186068,
-      "name": "Fight Like A Girl (feat. K.Flay)",
-      "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+      "duration_ms": 239037,
+      "name": "Farther Away",
+      "url": "https://open.spotify.com/track/63Yk0ZcjJSv37O8Vy7PFZi"
     },
     {
       "added_at": null,

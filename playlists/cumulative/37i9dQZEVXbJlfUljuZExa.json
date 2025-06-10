@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Kita Bersaudara",
+        "url": "https://open.spotify.com/album/5iNciMExxXUaFq0Dj7fmfv"
+      },
+      "artists": [
+        {
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261254,
+      "name": "Awas Jatuh Cinta",
+      "url": "https://open.spotify.com/track/757wbOT94WRiv4tXxioZSM"
+    },
+    {
+      "album": {
         "name": "Ayuh (From Polis Evo 3 Original Soundtrack)",
         "url": "https://open.spotify.com/album/0E8108nmNwGBFPu3w1FHd9"
       },
@@ -8304,7 +8322,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS"
@@ -8340,7 +8358,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -9278,7 +9296,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -12464,7 +12482,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -12598,7 +12616,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 169707,
       "name": "Masa",
       "url": "https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO"
@@ -12620,7 +12638,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 234589,
       "name": "Masing Masing",
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
@@ -13742,7 +13760,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -16242,7 +16260,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 277457,
       "name": "Rumah Ke Rumah",
       "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"
@@ -16480,7 +16498,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 223973,
       "name": "Runtuh",
       "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
@@ -16812,7 +16830,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT"
@@ -17426,7 +17444,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -18164,7 +18182,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -20732,7 +20750,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 164040,
       "name": "THUNDER",
       "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"

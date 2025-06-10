@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,197 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,191 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 12 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
 | 13 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
 | 14 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 15 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
+| 15 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
 | 16 | [Cathode Ray](https://open.spotify.com/track/5T7dRlqzzX6ROw8DvFORUZ) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Cathode Ray](https://open.spotify.com/album/0aRq4C72FDl5LDJV2CBRMX) | 4:09 |
-| 17 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
+| 17 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
 | 18 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
 | 19 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
 | 20 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
@@ -36,19 +36,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 26 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 27 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
 | 28 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
-| 29 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
-| 30 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
-| 31 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
-| 32 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
-| 33 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
+| 29 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
+| 30 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
+| 31 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
+| 32 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 33 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 34 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
-| 35 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
-| 36 | [gone is the grace](https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [antichamber](https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ) | 3:38 |
+| 35 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
+| 36 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
 | 37 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 |
-| 38 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
-| 39 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 |
-| 40 | [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 |
-| 41 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
+| 38 | [gone is the grace](https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [antichamber](https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ) | 3:38 |
+| 39 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
+| 40 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 |
+| 41 | [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 |
 | 42 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 |
 | 43 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 44 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |

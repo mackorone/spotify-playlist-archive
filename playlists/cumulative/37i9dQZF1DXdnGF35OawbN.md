@@ -4,7 +4,7 @@
 
 > El soundtrack del verano 2025 🏝️ Cover: KAROL G
 
-378 songs - 20 hr 35 min
+379 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-22 | 2024-04-06 |
 | [Fútbol & Rumba \(feat\. Enrique Iglesias\)](https://open.spotify.com/track/2hDe0Ls5mVqs1XJqv7sbcM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:41 | 2021-11-10 | 2023-03-29 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-05 |  |
-| [GATITAS SANDUNGUERAS \- VOL.1](https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:11 | 2024-05-31 |  |
+| [GATITAS SANDUNGUERAS \- VOL.1](https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:11 | 2024-05-31 | 2025-06-10 |
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2021-11-10 | 2023-08-17 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-03-07 | 2024-04-06 |
 | [Guay](https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Guay](https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl) | 3:30 | 2024-06-07 | 2025-05-03 |
@@ -373,6 +373,7 @@
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-25 | 2023-07-09 |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-11-10 | 2024-05-01 |
 | [Wait Deh Man \(feat\. Luar La L\)](https://open.spotify.com/track/63fSkia27CbTlytTKxnNqD) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Wait Deh Man \(feat\. Luar La L\)](https://open.spotify.com/album/6psh7wg5ikbIgDLl0uBIPk) | 4:06 | 2023-07-28 | 2023-08-17 |
+| [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 | 2025-05-30 |  |
 | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [WATATI \(feat\. Aldo Ranks\) \[From Barbie The Album\]](https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k) | 2:46 | 2023-06-08 | 2023-11-11 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-07 | 2024-05-01 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-11-10 | 2023-08-05 |

@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-244 songs - 12 hr 23 min
+246 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 | 2024-10-11 | 2024-12-11 |
 | [Akatsuki](https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Akatsuki](https://open.spotify.com/album/65EesuAKGSKS1PZfLcub5V) | 2:59 | 2024-03-26 | 2024-06-23 |
 | [ALBATROS](https://open.spotify.com/track/3nrzylrxjpRueVGBBpXhZT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 3:18 | 2025-01-19 | 2025-05-25 |
+| [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-06-09 |  |
 | [Angela](https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:54 | 2025-01-04 | 2025-05-25 |
 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 | 2024-09-22 | 2024-10-04 |
 | [AZAMAN](https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:28 | 2024-08-24 | 2024-08-31 |
@@ -51,7 +52,7 @@
 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 | 2024-12-10 | 2025-04-14 |
 | [Chouchou](https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:52 | 2024-03-26 | 2024-04-19 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-23 | 2025-05-25 |
-| [COLD PALMER](https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [COLD PALMER](https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW) | 3:10 | 2025-05-24 |  |
+| [COLD PALMER](https://open.spotify.com/track/5pPMlUR87OAXecDB3s1am7) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [COLD PALMER](https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW) | 3:10 | 2025-05-24 | 2025-06-10 |
 | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 | 2024-11-04 | 2024-12-23 |
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-03-26 | 2024-04-19 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 | 2024-08-23 |
@@ -111,7 +112,7 @@
 | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/album/4mX4pHtUevnTpVA4C5ESVD) | 2:18 | 2024-08-23 | 2024-08-31 |
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-23 | 2024-12-11 |
 | [KAN DENDEN](https://open.spotify.com/track/79d0a38YnGwNnXLe8GIMV1) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KAN DENDEN](https://open.spotify.com/album/3xJxrhRhgu8mD4H23agugz) | 3:20 | 2024-10-18 | 2024-12-11 |
-| [KAN DENDEN](https://open.spotify.com/track/7nRCeXAwV3ByM8xJMf0mrE) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:20 | 2025-05-24 |  |
+| [KAN DENDEN](https://open.spotify.com/track/7nRCeXAwV3ByM8xJMf0mrE) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:20 | 2025-05-24 | 2025-06-10 |
 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 | 2024-03-26 | 2024-04-19 |
 | [KEDABA](https://open.spotify.com/track/6EJIkDorvfRvFYPuEzJYm2) | [Versa999](https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF), [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [SABRE](https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R) | 3:15 | 2025-01-12 | 2025-01-20 |
 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 | 2025-05-24 |  |
@@ -203,6 +204,7 @@
 | [SANS BOUSSOLE](https://open.spotify.com/track/6XxRu7undYs0MU43wzc78V) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 2:53 | 2024-12-10 | 2025-01-05 |
 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 | 2024-06-14 | 2024-08-23 |
 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Leska](https://open.spotify.com/artist/0kRb2OhvXmS14Bop8FzFoS) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 | 2024-06-14 | 2024-08-02 |
+| [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2025-06-09 |  |
 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 | 2024-11-28 |  |
 | [Snini](https://open.spotify.com/track/6LZ5tMifzUHeG56gaTgOOi) | [Mahdi Machfar](https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Chasing the Sun](https://open.spotify.com/album/43CC7F87GAGCmWNualTDVQ) | 3:07 | 2024-09-09 | 2024-12-11 |
 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 | 2024-03-26 | 2024-12-11 |

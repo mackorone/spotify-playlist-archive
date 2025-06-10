@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes, JAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,563 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,620 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 |
 | 2 | [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 |
 | 3 | [Pasimple](https://open.spotify.com/track/6rQ3ptIQXxkR8PaFaW0jNV) | [Imago](https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh) | [Pasimple](https://open.spotify.com/album/67Pzm58UBNrDsmIrn4dISm) | 4:11 |
-| 4 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv), [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 |
+| 4 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 |
 | 5 | [ABI](https://open.spotify.com/track/4UVXg1Pjs34P366H91egMA) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx), [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [ABI](https://open.spotify.com/album/1y21KDZs9GejirZLd4fYNk) | 3:55 |
 | 6 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 |
 | 7 | [U & I](https://open.spotify.com/track/0fCu02teDBZyrhIygrStO6) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [U & I](https://open.spotify.com/album/5FGn83gWhrhfPlES1nbcuC) | 3:03 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,121 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,189 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 2 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 3 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
-| 4 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 |
-| 5 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 4 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 5 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 |
 | 6 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 7 | [TU SANCHO](https://open.spotify.com/track/1PPnOTtaxRaY3LWao2HPRU) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 2:57 |
 | 8 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 12 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 13 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 14 | [Every Girl You've Ever Loved \(feat\. Naomi Campbell\)](https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:18 |
-| 15 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
-| 16 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 15 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 16 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 |
 | 17 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
 | 18 | [Microwave](https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Orange Tape](https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU) | 1:47 |
 | 19 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 |

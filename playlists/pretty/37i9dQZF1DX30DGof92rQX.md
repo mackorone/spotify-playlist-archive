@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Zafar, Salman Paras
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,953 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,972 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

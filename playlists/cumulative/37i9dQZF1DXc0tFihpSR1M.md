@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-302 songs - 15 hr 39 min
+303 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 |  |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-22 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-06-27 | 2025-02-21 |
+| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 |  |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-01-31 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-02 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-06-08 |
@@ -191,7 +192,7 @@
 | [Min for en kveld](https://open.spotify.com/track/7aI28hcZEtBkP0IsX8uE3e) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Min for en kveld](https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g) | 2:33 | 2024-09-16 | 2024-09-27 |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-22 | 2025-05-16 |
 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 | 2024-10-11 |
-| [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 | 2025-05-01 |  |
+| [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 | 2025-05-01 | 2025-06-10 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-11-01 | 2025-02-16 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 |  |
 | [Nesten narkoman](https://open.spotify.com/track/6fIZ8qagHdeAd1eZvTW3Iu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nesten narkoman](https://open.spotify.com/album/5Xwt2LIrD7s0njAEZvRylz) | 3:07 | 2025-02-13 | 2025-02-21 |

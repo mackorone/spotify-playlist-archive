@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,062 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,060 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

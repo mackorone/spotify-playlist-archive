@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,320,879 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,320,860 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 63 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 64 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 65 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
-| 66 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
-| 67 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
-| 68 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
-| 69 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 |
-| 70 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
+| 66 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
+| 67 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
+| 68 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
+| 69 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
+| 70 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 |
 | 71 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 | 72 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 73 | [When I Look At You](https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 4:08 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 120 | [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 |
 | 121 | [i hate you for this](https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i hate you for this](https://open.spotify.com/album/483ZvZXLixgFx8hqyyp3Mf) | 2:17 |
 | 122 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
-| 123 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 |
-| 124 | [Run and Hide](https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:29 |
+| 123 | [Run and Hide](https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:29 |
+| 124 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 |
 | 125 | [Thank You for the Broken Heart](https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:51 |
 | 126 | [I Have Nothing](https://open.spotify.com/track/5pToiT0Ux6xlNk9MYG5r3I) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Sad Songs](https://open.spotify.com/album/7izeaWTIMPh2kLE1htv4bQ) | 4:47 |
 | 127 | [Love Is BS](https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Love Is BS](https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc) | 3:12 |

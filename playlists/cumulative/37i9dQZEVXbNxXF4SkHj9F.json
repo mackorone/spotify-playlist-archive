@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/3Jcc6AAQvQqASp69MEwBo1"
+      },
+      "artists": [
+        {
+          "name": "Yverthug",
+          "url": "https://open.spotify.com/artist/1v2Bdrj3QXcJViY7l9U7QJ"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126264,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/5LcBux5ZbkOh2cnlqDMupg"
+    },
+    {
+      "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
       },
@@ -5766,7 +5784,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
@@ -12450,7 +12468,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 189934,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
@@ -23308,7 +23326,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 206400,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY"
@@ -34455,6 +34473,24 @@
     },
     {
       "album": {
+        "name": "\u518d\u9047\u89c1\u4f60",
+        "url": "https://open.spotify.com/album/1h3EqAmIsaQVaOuO7xC6bQ"
+      },
+      "artists": [
+        {
+          "name": "Daryl Lee",
+          "url": "https://open.spotify.com/artist/2uCvo7X6kJ2iBELAei9aNE"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220781,
+      "name": "\u518d\u9047\u89c1\u4f60",
+      "url": "https://open.spotify.com/track/2i2sfWt2zXZMHjoCuAJDe6"
+    },
+    {
+      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -34704,6 +34740,24 @@
       "duration_ms": 284720,
       "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
       "url": "https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV"
+    },
+    {
+      "album": {
+        "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
+        "url": "https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256626,
+      "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
+      "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"
     },
     {
       "album": {

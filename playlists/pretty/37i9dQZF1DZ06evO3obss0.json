@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 115338,
+  "num_followers": 115381,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABQpkt04Y1KHYQvmeHMW0cY",
+  "snapshot_id": "aETSgAAAAACLz69NmVNSHUZgTNrzAejb",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number 1 Angel",
         "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 238749,
       "name": "Dreamer - Compound Version",
       "url": "https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": null,

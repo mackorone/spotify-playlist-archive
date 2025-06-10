@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,048 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,047 likes - 100 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 21 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 |
 | 22 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
 | 23 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 10:42 |
-| 24 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
+| 24 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
 | 25 | [One More Night](https://open.spotify.com/track/5VkqPsfrp8YYTd4GtWId5U) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi](https://open.spotify.com/album/4eoETnSr4alYiNdIOwCeQb) | 5:35 |
-| 26 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
+| 26 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
 | 27 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
 | 28 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
 | 29 | [Light: Look at Your Sun](https://open.spotify.com/track/2gWT8m0KpmVVboR2MzdneA) | [Ash Ra Tempel](https://open.spotify.com/artist/5f6eufK2ZswS7hxhEZyIG9), [Manuel Göttsching](https://open.spotify.com/artist/38KMWWA4MPJ6VxlO9kx6CU) | [Schwingungen \(Mixed Tracks\)](https://open.spotify.com/album/6GsU6r8GoVcTXOLZK417nz) | 6:36 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 51 | [Black Sand](https://open.spotify.com/track/6UZipqSMamNtONEnVYRN88) | [Brainticket](https://open.spotify.com/artist/0d11irn1BkpHJ6X8EyDsi7) | [Cottonwoodhill](https://open.spotify.com/album/7h2AERd0CxTtK0xWrUtlDE) | 4:05 |
 | 52 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
 | 53 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
-| 54 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
+| 54 | [Doors Unlocked and Open](https://open.spotify.com/track/3f4jwbmw35TF2Wx9y47GuW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 5:37 |
 | 55 | [Schwebebahn](https://open.spotify.com/track/6vaycV6nN0pRo9lSZLPKLI) | [Hoelderlin](https://open.spotify.com/artist/6KdRTV8GYYhX8hhPWbTZk3) | [Hoelderlin](https://open.spotify.com/album/37rnY9C3CxIq0c1YLSHCcR) | 7:22 |
-| 56 | [Doors Unlocked and Open](https://open.spotify.com/track/3f4jwbmw35TF2Wx9y47GuW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 5:37 |
+| 56 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 57 | [Nearby Shiras](https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q) | [Kalacakra](https://open.spotify.com/artist/4boGEDgw8Kuy07kWFiuIls) | [Crawling to Lhasa](https://open.spotify.com/album/0j47nvtM2sdo6mULT3tf1C) | 9:13 |
 | 58 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 |
 | 59 | [Ich geh den Weg mit dir](https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz) | [Musiccargo](https://open.spotify.com/artist/3PfsferIgZ7wACP0HcP329) | [Future Sounds Of Kraut Vol\. 1 \- compiled by Fred und Luna](https://open.spotify.com/album/1UDLKtbsdX65ZQVW5rPfx4) | 6:18 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 72 | [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 |
 | 73 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 74 | [Krautrock](https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [Faust IV](https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv) | 11:47 |
-| 75 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
-| 76 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
+| 75 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
+| 76 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
 | 77 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 78 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
 | 79 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |

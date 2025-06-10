@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 98957,
+  "num_followers": 98958,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
+        "name": "\u7f8e",
+        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u7f8e",
+      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
         "name": "stuck on u",
         "url": "https://open.spotify.com/album/3Xe8s0IipL7oAfH9TVzH48"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 149000,
       "name": "stuck on u",
       "url": "https://open.spotify.com/track/5AF1AJAWKPfjAVvIv1x2QQ"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
-        "name": "\u7f8e",
-        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
-      },
-      "artists": [
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u7f8e",
-      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
+        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
+      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
         "name": "Cindy\u8881\u8a60\u7433\u540c\u540d\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/5BZIrbFiSeJgdbY96ReQPH"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 189940,
       "name": "\u5c0d\u9762\u7684\u5973\u5b69\u770b\u904e\u4f86",
       "url": "https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
-        "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-        "url": "https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l"
-      },
-      "artists": [
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u6211\u8ddf\u4f60\u4e0d\u53eaENFP\u662fLOVE",
-      "url": "https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 (\u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y"
-      },
-      "artists": [
-        {
-          "name": "ANGIE\u5b89\u5409",
-          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 - \u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u4f60\u9084\u4e0d\u77e5\u9053\uff1f",
         "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 191365,
       "name": "\u4f60\u9084\u4e0d\u77e5\u9053\uff1f",
       "url": "https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 (\u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y"
+      },
+      "artists": [
+        {
+          "name": "ANGIE\u5b89\u5409",
+          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 - \u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
-        "name": "\u60f3\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
-      },
-      "artists": [
-        {
-          "name": "bertandlulu",
-          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "\u60f3\u548c\u4f60",
-      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
-        "name": "\u518d\u4e00\u6b21",
-        "url": "https://open.spotify.com/album/54AwsQS9rsCyaHIlf6qWuD"
-      },
-      "artists": [
-        {
-          "name": "Jinbo",
-          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "\u518d\u4e00\u6b21",
-      "url": "https://open.spotify.com/track/2nlf9fB6ENWqw6XGhi0E07"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
         "name": "\u5fc3\u52d5\u62cd\u62cd",
         "url": "https://open.spotify.com/album/3nOVvGkBF4wO5eBAFEscl7"
       },
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
+        "name": "\u60f3\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
+      },
+      "artists": [
+        {
+          "name": "bertandlulu",
+          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "\u60f3\u548c\u4f60",
+      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
         "name": "\u84dd\u8272\u604b\u4eba",
         "url": "https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 170299,
       "name": "\u84dd\u8272\u604b\u4eba",
       "url": "https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
+        "name": "\u518d\u4e00\u6b21",
+        "url": "https://open.spotify.com/album/54AwsQS9rsCyaHIlf6qWuD"
+      },
+      "artists": [
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "\u518d\u4e00\u6b21",
+      "url": "https://open.spotify.com/track/2nlf9fB6ENWqw6XGhi0E07"
     },
     {
       "added_at": "2025-06-05 16:00:06",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-06-05 16:00:06",
       "album": {
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 208711,
+      "name": "\u76f8\u898b\u4e0d\u6068\u665a",
+      "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
+    },
+    {
+      "added_at": "2025-06-05 16:00:06",
+      "album": {
         "name": "Luv U No Reason (L.U.N.R) [feat. J.Tim]",
         "url": "https://open.spotify.com/album/1CIPn9IfUB8IGGFBc42cGk"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 194076,
       "name": "Luv U No Reason (L.U.N.R) [feat. J.Tim]",
       "url": "https://open.spotify.com/track/2UldjvotRZWSttlMGss4fv"
-    },
-    {
-      "added_at": "2025-06-05 16:00:06",
-      "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 208711,
-      "name": "\u76f8\u898b\u4e0d\u6068\u665a",
-      "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

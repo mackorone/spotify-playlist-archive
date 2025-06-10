@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,664 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,743 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 22 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
 | 23 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 |
 | 24 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
-| 25 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
-| 26 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 25 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 26 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
 | 27 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
 | 28 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 29 | [SNAP](https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/3WchHjZ44WYDGA7H7LQcfI) | 2:59 |
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 32 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 33 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
 | 34 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
-| 35 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
-| 36 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
-| 37 | [I Ain't Worried](https://open.spotify.com/track/0oF9jpn0n8afMpbHKgRd6J) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:28 |
-| 38 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 35 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
+| 36 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
+| 37 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 38 | [I Ain't Worried](https://open.spotify.com/track/0oF9jpn0n8afMpbHKgRd6J) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:28 |
 | 39 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 40 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 41 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
-| 42 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
-| 43 | [Love Me Again](https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V) | 3:59 |
+| 42 | [Love Me Again](https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V) | 3:59 |
+| 43 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 44 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 45 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 46 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |

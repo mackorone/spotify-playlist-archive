@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,691 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,706 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 11 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
 | 12 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
 | 13 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
-| 14 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
-| 15 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 |
+| 14 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 |
+| 15 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 16 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
 | 17 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 18 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 29 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 30 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
 | 31 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 |
-| 32 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
-| 33 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
-| 34 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
+| 32 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
+| 33 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
+| 34 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 35 | [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 |
 | 36 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
 | 37 | [Express](https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Express](https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo) | 2:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 40 | [No Need 2 Be Sorry, Call Me? \(ft\. Maverick Sabre\)](https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:27 |
 | 41 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 |
 | 42 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 |
-| 43 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
-| 44 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 43 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 44 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
 | 45 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 46 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 | 47 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 65 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 | 66 | [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 |
 | 67 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
-| 68 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
-| 69 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 |
+| 68 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 |
+| 69 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
 | 70 | [Love in the Open](https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Love in the Open](https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE) | 2:02 |
 
 Snapshot ID: `Zp9nagAAAAAJTk5UBFVgx8zAQWtViF2a`

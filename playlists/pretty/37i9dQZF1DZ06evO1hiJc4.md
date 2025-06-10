@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,860 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,864 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 42 | [Let the Sun Shine](https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 2:59 |
 | 43 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 |
 | 44 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
-| 45 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
-| 46 | [I Pray For You \(feat\. Labrinth & MALICE\)](https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 4:21 |
+| 45 | [I Pray For You \(feat\. Labrinth & MALICE\)](https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 4:21 |
+| 46 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 47 | [Juju Woman](https://open.spotify.com/track/5P874Jw02nufpahfrOlkik) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 0:48 |
-| 48 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
-| 49 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
-| 50 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 |
+| 48 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
+| 49 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
+| 50 | [Benji Puts His Mum To Rest](https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:09 |
 
-Snapshot ID: `aEOBAAAAAAAjGmIzko33z+BCYV/GPiQu`
+Snapshot ID: `aETSgAAAAADpw8g2KGMWnlZDSGMcx1Jn`

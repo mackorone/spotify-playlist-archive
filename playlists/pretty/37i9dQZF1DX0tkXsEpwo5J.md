@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > ¡Canciones para sonreír durante el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,889 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,891 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 74 | [Al Norte](https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 3:19 |
 | 75 | [Lo Volvería](https://open.spotify.com/track/2IOSyg0w81fJnQbpmoseRf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Lo Volvería](https://open.spotify.com/album/0hOgrkaHadHhWSUi7NoipS) | 3:48 |
 
-Snapshot ID: `aDAO/QAAAAD0NROxDnpHsTZvsVXZESt2`
+Snapshot ID: `aDAO/QAAAAD10wFTMIiT4q57RQr9nzkv`

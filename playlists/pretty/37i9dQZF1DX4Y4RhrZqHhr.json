@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 1076912,
+  "num_followers": 1078406,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Waves (Robin Schulz Radio Edit)",
-        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Waves - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 255631,
       "name": "Latch",
       "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Waves (Robin Schulz Radio Edit)",
+        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Waves - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Globalization",
         "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 236200,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 184560,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236157,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236157,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -2871,26 +2871,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Dancing in the Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing in the Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Mi Gente",
         "url": "https://open.spotify.com/album/57DmSe1xfynExe60QgpWU0"
       },
@@ -2907,6 +2887,26 @@
       "duration_ms": 189440,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Dancing in the Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing in the Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -2935,26 +2935,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better)",
-        "url": "https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Ain't Nobody (Loves Me Better)",
-      "url": "https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "I Got U",
         "url": "https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE"
       },
@@ -2971,6 +2951,26 @@
       "duration_ms": 285596,
       "name": "I Got U",
       "url": "https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Ain't Nobody (Loves Me Better)",
+        "url": "https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better)",
+      "url": "https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB"
     },
     {
       "added_at": "2025-05-23 04:00:39",

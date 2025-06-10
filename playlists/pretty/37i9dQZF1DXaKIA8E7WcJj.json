@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3189634,
+  "num_followers": 3189677,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
         "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 308520,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Led Zeppelin",
-        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Good Times Bad Times - 1993 Remaster",
-      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Runaround Sue",
-        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Runaround Sue",
-      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Birds, The Bees, & The Monkees",
         "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 179613,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Runaround Sue",
+        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Runaround Sue",
+      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Essential Skeeter Davis",
-        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
-      },
-      "artists": [
-        {
-          "name": "Skeeter Davis",
-          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "The End of the World",
-      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Essential Skeeter Davis",
+        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
+      },
+      "artists": [
+        {
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 145533,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
         }
       ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 149613,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Best Of Canned Heat",
-        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Going Up The Country",
-      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 166466,
       "name": "Crying",
       "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
       "artists": [
         {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
       "artists": [
         {
-          "name": "The Four Seasons",
-          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2331,6 +2315,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "The Four Seasons",
+          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "Save the Last Dance for Me",
         "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
       },
@@ -2343,22 +2343,6 @@
       "duration_ms": 154960,
       "name": "Save the Last Dance for Me",
       "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2391,6 +2375,22 @@
       "duration_ms": 193840,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2025-03-02 04:45:52",

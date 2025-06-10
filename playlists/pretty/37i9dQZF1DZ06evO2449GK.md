@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,573 likes - 37 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,587 likes - 37 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 36 | [Let My People](https://open.spotify.com/track/1EEBQGpufjlLt6IsVRezYc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:32 |
 | 37 | [El Ritual](https://open.spotify.com/track/1sWyFCxCG38zZDlEZFQ0Cc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:26 |
 
-Snapshot ID: `aEOBAAAAAAA6YdJCa6s2nvbIQQcTkEYM`
+Snapshot ID: `aETSgAAAAADaH+avOwie+IeJssoYKRjR`

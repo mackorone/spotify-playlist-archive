@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,440 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,624 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [La Ladrona \- En Vivo](https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:06 |
 | 50 | [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 |
 
-Snapshot ID: `aEOBAAAAAACILkbQpHxW6OF/aBLVqVQX`
+Snapshot ID: `aETSgAAAAAAbhUsv/rbeA+PhdzwOhLmj`

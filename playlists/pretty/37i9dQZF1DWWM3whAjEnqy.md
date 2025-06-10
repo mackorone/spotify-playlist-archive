@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 29 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
 | 30 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
 | 31 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 |
-| 32 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 |
-| 33 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 32 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 33 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 |
 | 34 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
 | 35 | [Lay It On Me](https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:35 |
 | 36 | [Grizzly Bear](https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04) | 4:08 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 49 | [Hold Me](https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:07 |
 | 50 | [Be About You](https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i) | 4:08 |
 | 51 | [Maybe You Know](https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [My Own Pool of Light](https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf) | 3:57 |
-| 52 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
-| 53 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
+| 52 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
+| 53 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 54 | [Edge Of Town](https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:45 |
-| 55 | [Carry You](https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 4:32 |
-| 56 | [Lighthouse](https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:21 |
+| 55 | [Lighthouse](https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:21 |
+| 56 | [Carry You](https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 4:32 |
 | 57 | [Golden](https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close To Dawn](https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG) | 3:22 |
 | 58 | [Mended](https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 5:05 |
 | 59 | [Leaps And Bounds](https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [The Messengers](https://open.spotify.com/artist/3cSNDsEV7pFDmsEAQrmO1M) | [Gossip](https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr) | 3:23 |

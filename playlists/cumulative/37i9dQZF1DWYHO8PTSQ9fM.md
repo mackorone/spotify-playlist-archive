@@ -4,7 +4,7 @@
 
 > Les hits du moment au Maroc\. Cover: Shaw, OldyGotTheSound & Anys
 
-414 songs - 22 hr 13 min
+415 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-12-14 | 2024-02-23 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-01-18 | 2023-06-10 |
 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-05-11 |  |
+| [Ana wiyek \(feat\. ElGrandeToto\)](https://open.spotify.com/track/1RyS0gEH3qWvpnxQykmkh5) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Ana wiyek \(feat\. ElGrandeToto\)](https://open.spotify.com/album/5C7AcWhYlE9sBvtxDwdEqn) | 3:23 | 2025-06-09 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-25 | 2022-11-28 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-27 | 2025-05-16 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-11 | 2025-02-20 |
@@ -310,7 +311,7 @@
 | [Pélican](https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Pélican](https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS) | 2:45 | 2025-02-24 | 2025-05-28 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-16 | 2023-12-21 |
 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-07-18 | 2024-09-02 |
-| [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-07 |  |
+| [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-07 | 2025-06-10 |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2024-03-08 | 2024-06-14 |
 | [Reg Deg](https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 3:01 | 2023-06-08 | 2023-06-20 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-05-12 | 2022-11-21 |

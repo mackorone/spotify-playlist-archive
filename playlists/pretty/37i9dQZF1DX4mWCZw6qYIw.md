@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,951 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,174 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 56 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
 | 57 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 58 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
-| 59 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
-| 60 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
+| 59 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
+| 60 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
 
 Snapshot ID: `aBACwwAAAABm8zaUs24X4Bu8Qj7+HUDr`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 73945,
+  "num_followers": 73975,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "El Efecto",
         "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 217142,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 277106,
       "name": "UN PESO",
       "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 155058,
       "name": "Swing",
       "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -1183,18 +1183,26 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "Goteo",
-        "url": "https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B"
+      "duration_ms": 268794,
+      "name": "Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)",
+      "url": "https://open.spotify.com/track/3H9GDhVVTlmFQSmpt51qiP"
     }
   ],
   "unique_name": "Latin Hits 2019",

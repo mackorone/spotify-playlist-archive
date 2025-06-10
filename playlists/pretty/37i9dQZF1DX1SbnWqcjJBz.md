@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,299 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,335 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 15 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 16 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 |
 | 17 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
-| 18 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
-| 19 | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 3:16 |
+| 18 | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 3:16 |
+| 19 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
 | 20 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 21 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
 | 22 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 39 | [Show Me How You Burlesque \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:59 |
 | 40 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 |
 | 41 | [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 |
-| 42 | [Cool](https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:09 |
-| 43 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 |
+| 42 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 |
+| 43 | [Cool](https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:09 |
 | 44 | [Hush Hush; Hush Hush / I Will Survive \- Medley](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 |
 | 45 | [Damaged](https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:04 |
 | 46 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 77 | [Lost In My Bedroom](https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 3:14 |
 | 78 | [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 |
 | 79 | [Sparks](https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Breathe In\. Breathe Out.](https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT) | 3:05 |
-| 80 | [I Begin to Wonder](https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6) | [Neon Nights \(Deluxe Version\)](https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE) | 3:39 |
-| 81 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
+| 80 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
+| 81 | [I Begin to Wonder](https://open.spotify.com/track/5OKjyuulniceXswXHLYZqV) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6) | [Neon Nights \(Deluxe Version\)](https://open.spotify.com/album/5wPGmNlCTfX44dFqvefJUE) | 3:39 |
 | 82 | [Radar](https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:48 |
 | 83 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 |
 | 84 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 |

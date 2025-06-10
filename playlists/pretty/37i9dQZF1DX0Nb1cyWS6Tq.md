@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,448 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,612 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,19 +55,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 45 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
 | 46 | [Atmosphere](https://open.spotify.com/track/0NBgmP6Yg5xZYsnIZ0pGdo) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 4:10 |
 | 47 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
-| 48 | [Spiritual Cramp \- 1](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 |
+| 48 | [Deer Stop](https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 4:06 |
 | 49 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
-| 50 | [Deer Stop](https://open.spotify.com/track/2jJNWIW18HkqKXV8WD2wCJ) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 4:06 |
+| 50 | [Spiritual Cramp \- 1](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 |
 | 51 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 |
 | 52 | [Don't Cling To Life](https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t) | 2:26 |
-| 53 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
-| 54 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
+| 53 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
+| 54 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
 | 55 | [Swoon](https://open.spotify.com/track/49aomJCYQTWRRFo5nru2b5) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Swoon](https://open.spotify.com/album/1mUkCvJQawBbj8SI6zHnoc) | 5:16 |
-| 56 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
+| 56 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 57 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 58 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
-| 59 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
-| 60 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
+| 59 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
+| 60 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
 | 61 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 62 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
 | 63 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |

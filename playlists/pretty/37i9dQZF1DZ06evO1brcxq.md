@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,762 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,968 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 49 | [Secret \(Shh\)](https://open.spotify.com/track/1NvAqtx7PytXUytohhYXbk) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:25 |
 | 50 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 
-Snapshot ID: `aEOBAAAAAADCaC2hI5mG1rY0hLuX6x+x`
+Snapshot ID: `aETSgAAAAAD/KKcxYuqXhl5RyJ6Nb8MY`

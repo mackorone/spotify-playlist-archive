@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,929 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,038 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 46 | [No Soy Yo](https://open.spotify.com/track/67OKX8DNYygddabwIjExsp) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [No Soy Yo](https://open.spotify.com/album/3Qmka2ojW5eJwfbunxP6rj) | 3:16 |
 | 47 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
 
-Snapshot ID: `aEOBAAAAAABWCR/x8KjYQyFrTkQEWirc`
+Snapshot ID: `aETSgAAAAAD/bP80ccKqqB2ouVVSODo2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,680 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,795 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 13 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
 | 14 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 15 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
-| 16 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
-| 17 | [Words \- Original Version 1983](https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD) | [F.R\. David](https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn) | [Words](https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo) | 3:28 |
+| 16 | [Words \- Original Version 1983](https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD) | [F.R\. David](https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn) | [Words](https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo) | 3:28 |
+| 17 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
 | 18 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |
-| 19 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 20 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
+| 19 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
+| 20 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 21 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 22 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 23 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 26 | [Kingston Town](https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:51 |
 | 27 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 28 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 |
-| 29 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
-| 30 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
+| 29 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
+| 30 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 31 | [Every Time You Go Away \- Radio Edit](https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:27 |
 | 32 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 33 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 76 | [Don't Give Up](https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 6:34 |
 | 77 | [Jessie's Girl](https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D) | 3:14 |
 | 78 | [Suddenly](https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 3:54 |
-| 79 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
-| 80 | [Sign Your Name](https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Sananda Maitreya](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 4:36 |
+| 79 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
+| 80 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
 
 Snapshot ID: `Zl3VgAAAAADzmwzHG2lX5LSLfBakXNsH`

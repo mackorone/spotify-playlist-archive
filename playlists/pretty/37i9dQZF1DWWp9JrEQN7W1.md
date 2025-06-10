@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 
 > Something cute for baddies doing their hair and make\-up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,003 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,162 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWp9JrEQN7W1.md) - [plain]
 | 34 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 35 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 |
 | 36 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
-| 37 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
-| 38 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
+| 37 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
+| 38 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
 | 39 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
 | 40 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 |
 | 41 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
-| 42 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
-| 43 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
+| 42 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
+| 43 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 44 | [Super Rich Kids](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 5:04 |
 | 45 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
 | 46 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |

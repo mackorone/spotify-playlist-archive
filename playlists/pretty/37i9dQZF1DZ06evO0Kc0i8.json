@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 835845,
+  "num_followers": 836101,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACvS7ghRzCnN6wQ++RGzqcB",
+  "snapshot_id": "aETSgAAAAACYHGQ4onkBHETfdUQLldsy",
   "tracks": [
     {
       "added_at": null,
@@ -631,30 +631,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
       "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 197721,
-      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
     },
     {
       "added_at": null,
@@ -679,26 +675,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
       "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+      "duration_ms": 197721,
+      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
     },
     {
       "added_at": null,

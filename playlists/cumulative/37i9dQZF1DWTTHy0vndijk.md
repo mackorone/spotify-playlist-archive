@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: USPEER \(유스피어\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: QWER\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-480 songs - 1 day 2 hr 21 min
+483 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Be With You](https://open.spotify.com/track/46TStqCoE5i72Tt9KKwKfc) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:50 | 2021-11-29 | 2022-07-26 |
 | [BeBe](https://open.spotify.com/track/3fRutnpPQkVTuDj9zOpoiB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [THE SECRET](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) | 3:18 | 2021-11-29 | 2022-07-07 |
 | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 | 2025-03-27 | 2025-04-10 |
+| [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-10 |  |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
@@ -103,6 +104,7 @@
 | [Darling](https://open.spotify.com/track/5v35YFI9cvLXgFaaVBrNzK) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/3Q6QsqW3WWq6DLphXbXWkL) | 3:13 | 2021-11-29 | 2022-07-28 |
 | [DAZZLE DAZZLE](https://open.spotify.com/track/3cGOBTvkKS4aCsWRR2VPke) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki Digital Single \[DAZZLE DAZZLE\]](https://open.spotify.com/album/3fvHSeFSXnAwyatl4pMjxq) | 3:09 | 2021-11-29 | 2022-07-28 |
 | [Dear](https://open.spotify.com/track/5OgzQckeoXfsTT38zFlaGx) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Dear](https://open.spotify.com/album/7IT4gHNLHRSJAB1KhtAb7W) | 3:19 | 2024-11-26 | 2024-12-11 |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
 | [DEJAVU](https://open.spotify.com/track/2LbmsUiuWVx8r1XxZNqnHt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:16 | 2022-04-04 | 2022-04-19 |
 | [Destiny](https://open.spotify.com/track/4SCRUC5lDUwbdZHQuGp2Z2) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [A New Trilogy](https://open.spotify.com/album/1sgM8hFTIWtCjO7ap5O3US) | 3:33 | 2021-11-29 | 2022-07-25 |
 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 | 2024-02-20 | 2025-04-30 |
@@ -156,7 +158,8 @@
 | [Good Day \(Special Daileee\)](https://open.spotify.com/track/2bxQoEPkVPlCNTUACMnEbh) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Good Day \(Special Daileee\)](https://open.spotify.com/album/5iTWeHExLbtaLJPPFFD3Xq) | 2:48 | 2023-09-13 | 2023-09-28 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-01-20 | 2024-03-22 |
 | [Good\-bye Chapter 1](https://open.spotify.com/track/2ipuGNFs0uFfg2VUzXeQe7) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Girls’ Invasion](https://open.spotify.com/album/4PufOTc2kPEnF2uF4iDoJb) | 2:43 | 2022-02-14 | 2022-04-15 |
-| [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-10-30 |  |
+| [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-10-30 | 2025-06-10 |
+| [GROSS](https://open.spotify.com/track/010b7ratgDLYeyd2RWYlhB) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [GROSS](https://open.spotify.com/album/6zWi4hKDM1SazA0UD1gD6Q) | 2:08 | 2025-06-10 |  |
 | [HaPaTaKa](https://open.spotify.com/track/7mPJOvqfeKEBcwDhwIWaYZ) | [Crayon Pop](https://open.spotify.com/artist/0ODX6aegsZkBmBeMA5qqwi) | [2015 2nd Mini Album 'FM'](https://open.spotify.com/album/3y29qwv0TOAqLIwtGgMtU0) | 3:08 | 2022-03-29 | 2022-04-20 |
 | [Happily Ever After](https://open.spotify.com/track/7H1ly0lZJ9ebnci5B9t7Nh) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:21 | 2022-03-29 | 2022-04-16 |
 | [HAPPY](https://open.spotify.com/track/1KFwBOa8gDqT7Avua2yxfe) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:00 | 2021-11-29 | 2022-07-28 |
@@ -325,7 +328,7 @@
 | [Rainbow](https://open.spotify.com/track/5eAO1GfoVes9JelndbXfCR) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.2 Narcissus](https://open.spotify.com/album/1Y9ADL4odfgfgO7rwyL3zu) | 3:36 | 2022-03-29 | 2022-04-20 |
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2022-03-29 | 2022-04-18 |
 | [REAL YOU](https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2022-04-04 | 2022-04-21 |
-| [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-04-08 |  |
+| [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-04-08 | 2025-06-10 |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-29 |  |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |
 | [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-16 | 2024-10-22 |
@@ -366,7 +369,7 @@
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 | 2025-06-05 |
-| [SOURPATCH](https://open.spotify.com/track/6fuMhofxOh5ZmDWUYZnfaO) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [The 1st Single Album \- Things we love : H](https://open.spotify.com/album/3ioR7gHeadrflzwM5oGqu4) | 2:49 | 2025-04-30 |  |
+| [SOURPATCH](https://open.spotify.com/track/6fuMhofxOh5ZmDWUYZnfaO) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [The 1st Single Album \- Things we love : H](https://open.spotify.com/album/3ioR7gHeadrflzwM5oGqu4) | 2:49 | 2025-04-30 | 2025-06-10 |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Special](https://open.spotify.com/track/7D98DR6SUkx8qpCgtczVmg) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Special](https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO) | 4:17 | 2024-05-24 | 2024-06-13 |
 | [Spotlight](https://open.spotify.com/track/1fMCp60Wtrv6jqmp7awVXR) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [Dream](https://open.spotify.com/album/3vM1AXKOPmsUJYV8RF8fM8) | 3:01 | 2023-02-23 | 2023-03-29 |

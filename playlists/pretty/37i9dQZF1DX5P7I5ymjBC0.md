@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Rishab Rikhiram Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,308 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,341 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 32 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 33 | [Mora Saiyaan](https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 6:52 |
 | 34 | [Ronay Na Diya](https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:39 |
-| 35 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
-| 36 | [Sajna Barse](https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Arpita Chatterjee](https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm) | [Bapi Bari Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt) | 4:24 |
+| 35 | [Sajna Barse](https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Arpita Chatterjee](https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm) | [Bapi Bari Jaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt) | 4:24 |
+| 36 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
 | 37 | [Radhe \(From Songs of Faith\)](https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n), [Neeraj Arya](https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo), [Arunima Bhattacharya](https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3) | [Radhe \(From Songs of Faith\)](https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY) | 3:38 |
 | 38 | [BAALMAA](https://open.spotify.com/track/6S92MQ4Df2qIncc4Q35Udi) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:03 |
 | 39 | [Tum Naraz Ho](https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:55 |

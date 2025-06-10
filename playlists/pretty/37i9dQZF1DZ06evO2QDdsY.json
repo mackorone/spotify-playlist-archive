@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16085,
+  "num_followers": 16087,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAC/g7stBKDfcYO8l+B8lM5r",
+  "snapshot_id": "aETSgAAAAABFxAaFZe++0iHaKf0OQRls",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 157986,
-      "name": "Sweet Things Just for You",
-      "url": "https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+      "duration_ms": 157986,
+      "name": "Sweet Things Just for You",
+      "url": "https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -531,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+      "duration_ms": 250960,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
     },
     {
       "added_at": null,

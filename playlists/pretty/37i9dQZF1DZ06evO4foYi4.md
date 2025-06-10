@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,997 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,004 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [The Party](https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:05 |
 | 50 | [I Am an Ape](https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:05 |
 
-Snapshot ID: `aEOBAAAAAAD4kSXEs6aq4GryqfDXFx/x`
+Snapshot ID: `aETSgAAAAADidSWPGuHdpDH+8SCp3GfH`

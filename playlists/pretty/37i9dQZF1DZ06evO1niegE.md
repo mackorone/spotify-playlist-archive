@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,415 likes - 47 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,417 likes - 47 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 13 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 14 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 15 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:32 |
-| 16 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
-| 17 | [Bye Boy](https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bye Boy](https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc) | 2:58 |
+| 16 | [Bye Boy](https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bye Boy](https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc) | 2:58 |
+| 17 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
 | 18 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 19 | [Fue Por Algo](https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:55 |
 | 20 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 46 | [Me Desenamoré](https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Maena](https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Me Desenamoré](https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw) | 3:28 |
 | 47 | [Espero](https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Antonio El Sincero](https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML) | 2:57 |
 
-Snapshot ID: `aEOBAAAAAAAmARhc0517ADJLoEq+EQQK`
+Snapshot ID: `aETSgAAAAAD9PjzNruBG0hrFnUMkhD5o`

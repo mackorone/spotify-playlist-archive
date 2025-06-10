@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,588 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,591 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 34 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
 | 35 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 36 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
-| 37 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
+| 37 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
 | 38 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 39 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
+| 39 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
 | 40 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 |
 | 41 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
 | 42 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 58 | [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 |
 | 59 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
 | 60 | [Black Hole](https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Black Hole](https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB) | 2:59 |
-| 61 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
-| 62 | [Halo](https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars](https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E) | 3:15 |
+| 61 | [Halo](https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars](https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E) | 3:15 |
+| 62 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
 | 63 | [Natural Born Killer](https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Look at Yourself](https://open.spotify.com/album/5d904eRcMkUSIipPixswNM) | 2:37 |
 | 64 | [Moth Into Flame](https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 5:50 |
 | 65 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 74 | [Fiend](https://open.spotify.com/track/5YCEVdLLSFPnhfma05qx7o) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Dark Days](https://open.spotify.com/album/2DiNaKLLwBwLPe9oAnNr9i) | 3:00 |
 | 75 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
 | 76 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
-| 77 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 |
-| 78 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 |
+| 77 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 |
+| 78 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 |
 | 79 | [Sing to the Grave](https://open.spotify.com/track/5SnK7pnWLXNiEbs3z1ISBG) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 2:39 |
 | 80 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 |
 | 81 | [Nobody](https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Disobedient](https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H) | 3:05 |

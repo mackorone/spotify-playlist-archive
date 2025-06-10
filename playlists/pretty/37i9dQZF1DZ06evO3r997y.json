@@ -1,12 +1,12 @@
 {
   "description": "This is Akari Kito. The essential tracks, all in one playlist.",
-  "num_followers": 2297,
+  "num_followers": 2298,
   "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACmFsOXR291vxLVjLAiAHVR",
+  "snapshot_id": "aETSgAAAAAAWD7qK++GP9R9KgrRHxPLZ",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Rock the Floor",
-      "url": "https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
       },
       "artists": [
         {
@@ -404,9 +388,25 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 295200,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
+      "duration_ms": 216266,
+      "name": "Rock the Floor",
+      "url": "https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Doze Days",
+        "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Fleeting Time",
+      "url": "https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Doze Days",
-        "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Fleeting Time",
-      "url": "https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB"
+      "duration_ms": 295200,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209213,
-      "name": "FLAMES",
-      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
+      "duration_ms": 225720,
+      "name": "Unchained mind",
+      "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 225720,
-      "name": "Unchained mind",
-      "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
+      "duration_ms": 209213,
+      "name": "FLAMES",
+      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,147 likes - 125 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,178 likes - 125 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 124 | [Inner Harmony](https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Inner Harmony](https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm) | 2:27 |
 | 125 | [Prana](https://open.spotify.com/track/59zc43Rgao1wEXFzlmklbo) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [Shanti](https://open.spotify.com/album/7H1bVzuypKfns5cp9By66P) | 3:50 |
 
-Snapshot ID: `aBDStAAAAACHvTF/0lg8q/a6C2eTsfyS`
+Snapshot ID: `AAAAAFNx15OgCqIdx3r3KJtFvsldLzni`

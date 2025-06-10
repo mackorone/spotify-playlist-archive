@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2061047,
+  "num_followers": 2061077,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABH5sZ/KFws/GcOuB1D6vR6",
+  "snapshot_id": "aETSgAAAAACQMK4vepBlCJrhTUgKEtjS",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
+      "duration_ms": 213866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
     },
     {
       "added_at": null,
@@ -591,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
       "artists": [
         {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
+      "duration_ms": 346333,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
     },
     {
       "added_at": null,

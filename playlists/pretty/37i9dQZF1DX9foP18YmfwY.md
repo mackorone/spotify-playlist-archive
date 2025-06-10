@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,864 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,938 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 42 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 |
 | 43 | [Com Tua Mão](https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Com Tua Mão](https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm) | 4:15 |
 | 44 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
-| 45 | [Louvando à Maria](https://open.spotify.com/track/08t3MfYsYecOpJubRX3eBi) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Louvando à Maria](https://open.spotify.com/album/0yltmAC0k3ki0KFPKqXPT1) | 3:04 |
-| 46 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
+| 45 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
+| 46 | [Louvando à Maria](https://open.spotify.com/track/08t3MfYsYecOpJubRX3eBi) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Louvando à Maria](https://open.spotify.com/album/0yltmAC0k3ki0KFPKqXPT1) | 3:04 |
 | 47 | [Mãe de Deus e Minha](https://open.spotify.com/track/0RNhs4AaIUpehk2Rl49Qmr) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd), [Guilherme Meirelles](https://open.spotify.com/artist/78wIcCfZh0wbufFAJS5b4k) | [Studio Canção Nova \(Acústico\)](https://open.spotify.com/album/5ewDVc6Q2lhai5L8c7Fnlv) | 4:43 |
 | 48 | [Não Há Mais Vendaval \- Ao Vivo](https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Não Há Mais Vendaval \(Ao Vivo\)](https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv) | 7:09 |
 | 49 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,485 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,448 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 56 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 57 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 58 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
-| 59 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
-| 60 | [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 |
+| 59 | [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 |
+| 60 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
 | 61 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
 | 62 | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc) | 2:52 |
 | 63 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |

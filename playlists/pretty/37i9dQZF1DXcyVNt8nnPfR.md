@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 
 > Relax with these seriously laid\-back classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,198 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,254 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 37 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
 | 38 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 39 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 40 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 |
-| 41 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
+| 40 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
+| 41 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 |
 | 42 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
 | 43 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
 | 44 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |

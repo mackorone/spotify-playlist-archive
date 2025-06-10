@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Kane Brown and Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,042 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,110 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

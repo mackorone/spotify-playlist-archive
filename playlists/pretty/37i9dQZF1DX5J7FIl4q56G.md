@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Killswitch Engage
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,643 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,713 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 34 | [Slower Forms Of Suicide](https://open.spotify.com/track/4ZP9tW7urCcMzR3N2OOTfB) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [I Want To Go Home.](https://open.spotify.com/album/34WpGLtjKNhBSNzO7rg3oq) | 5:08 |
 | 35 | [Evil Eyes](https://open.spotify.com/track/2vVKwYChQpBxmabokUSbke) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Evil Eyes](https://open.spotify.com/album/4U84qpT79s2wa4OH5C6RDw) | 2:46 |
 | 36 | [High](https://open.spotify.com/track/6H170b9fOoyTyCONVKmS8H) | [Cherie Amour](https://open.spotify.com/artist/1AEA7WXbSHrGKKD7P0Jj52) | [Chrome Hearts](https://open.spotify.com/album/7hPtBYJBGQ4uXjsZsy8Fn6) | 2:45 |
-| 37 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
+| 37 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Immortal Disfigurement](https://open.spotify.com/artist/6PNtic19dP6daQcCppVb1e), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
 | 38 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
 | 39 | [Bring Me To Life](https://open.spotify.com/track/1e8P8HGR1bzDCvu9BIVFlf) | [Reyjuliand](https://open.spotify.com/artist/3Wahvwcq4juokVKXi7E1Jn), [Amy Wallace](https://open.spotify.com/artist/5nr3deotqqkX0oe3neo3w9), [Theo](https://open.spotify.com/artist/2KWYmgihGfFnxD1jcedTEK) | [Bring Me To Life](https://open.spotify.com/album/1wf9cFwrG421DDI2Og6inC) | 4:07 |
 | 40 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |
 | 41 | [Misery Eternal](https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup) | [Misery Eternal](https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD) | 3:33 |
-| 42 | [American Dream Edit](https://open.spotify.com/track/77oNP9HYqYtuBIZnIHRVch) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c), [Johnny Tirade and The Circle of Futures Past](https://open.spotify.com/artist/6iKoQ4LktyJF5O9bdox718), [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu), [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [American Dream Edit](https://open.spotify.com/album/7alOZw9SfNUFqRiUcZRCrY) | 2:04 |
+| 42 | [American Dream Edit](https://open.spotify.com/track/77oNP9HYqYtuBIZnIHRVch) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c) | [American Dream Edit](https://open.spotify.com/album/7alOZw9SfNUFqRiUcZRCrY) | 2:04 |
 | 43 | [High Tide](https://open.spotify.com/track/1vrU3ajM7wLj6xn3sU2pZ2) | [Oceans in Silhouette](https://open.spotify.com/artist/184qTniKJjNEoRlAoMh6jJ), [LEXX](https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd) | [High Tide](https://open.spotify.com/album/3d19RGahm9z8RlBVzBejYZ) | 3:58 |
 | 44 | [Emergency \(55515\)](https://open.spotify.com/track/538U29X2tjuWCBL2V1wjdk) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Emergency \(55515\)](https://open.spotify.com/album/6Xy2Xp8ATSKkndVABoUrHh) | 3:04 |
 | 45 | [Architect Of Fears \- 2025 BFS 10 Years Edition](https://open.spotify.com/track/3zwVmUoR1nsTUthC2HYkoI) | [Death Decline](https://open.spotify.com/artist/1bgeQljXQlY64QQSQ7DgEe) | [Architect Of Fears](https://open.spotify.com/album/35CaQAKJGFjuHQ6xdTECcs) | 3:56 |

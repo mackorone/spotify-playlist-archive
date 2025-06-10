@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,200 likes - 40 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,407 likes - 40 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 14 | [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO) | [MATUSHKA ULTRAFUNK](https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK) | 2:24 |
 | 15 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 16 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
-| 17 | [COM MEDO!](https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [COM MEDO!](https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk) | 1:09 |
-| 18 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
-| 19 | [ECOS DO ABISMO \- Super Slowed](https://open.spotify.com/track/6dq8QioUz8g692cqkUeuvW) | [Flame Runner](https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4), [ZIMXN](https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF) | [ECOS DO ABISMO](https://open.spotify.com/album/09LYff89MWEUoS9PC15YVy) | 2:06 |
-| 20 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
+| 17 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 18 | [ECOS DO ABISMO \- Super Slowed](https://open.spotify.com/track/6dq8QioUz8g692cqkUeuvW) | [Flame Runner](https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4), [ZIMXN](https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF) | [ECOS DO ABISMO](https://open.spotify.com/album/09LYff89MWEUoS9PC15YVy) | 2:06 |
+| 19 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
+| 20 | [COM MEDO!](https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [COM MEDO!](https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk) | 1:09 |
 | 21 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 |
 | 22 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 23 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 37 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 38 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 39 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
-| 40 | [MONTAGEM TOMADA](https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF) | 1:11 |
+| 40 | [CORRUPÇÃO FUNK](https://open.spotify.com/track/1t1Ko5fJw2Pbd7C65nUKbO) | [zxnc.](https://open.spotify.com/artist/0z9ZCh4EXDX3iXuw7QGiLp), [DARKANASE](https://open.spotify.com/artist/3FUCRB0hJhe9BrXW1yonDh), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [CORRUPÇÃO FUNK](https://open.spotify.com/album/1Pp1ulBgbbDiKTr2LgPiZa) | 2:14 |
 
 Snapshot ID: `aDYMWwAAAADl/ZHpRfsmIxtYN3cXqZ9M`

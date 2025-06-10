@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: RIIZE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: izna\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-773 songs - 1 day 17 hr 33 min
+774 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 | 2024-09-08 |
 | [BEAUTIFUL](https://open.spotify.com/track/406szmvIaQo0EATtjcf19k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/26fSKnWlEA0pohjSLBfeum) | 3:49 | 2022-01-13 | 2022-05-29 |
 | [Beautiful Beautiful](https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:10 | 2022-03-24 | 2022-04-21 |
+| [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-09 |  |
 | [BELIEVER](https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:16 | 2022-04-12 | 2022-04-18 |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2022-01-03 | 2022-06-08 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2024-05-10 |
@@ -694,7 +695,7 @@
 | [To My EX](https://open.spotify.com/track/4nPfRWnzDY01qnrZaTpUu0) | [Wow](https://open.spotify.com/artist/1mDnUZcASXngb5625VF47w) | [To My EX](https://open.spotify.com/album/0d93XNIJhCqTHqqgqnQM2U) | 3:06 | 2022-04-05 | 2022-04-10 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-14 | 2025-02-25 |
 | [TOMBOY](https://open.spotify.com/track/6iEmphADpJy3pQaG83SB7Q) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [TOMBOY](https://open.spotify.com/album/4vlX820NC8uvVfOxtaxK5r) | 3:00 | 2022-04-05 | 2022-04-17 |
-| [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-27 |  |
+| [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-27 | 2025-06-10 |
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-16 | 2022-04-13 |
 | [Too Good](https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl) | [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2), [CHENLE](https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz) | [UTOPIA](https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3) | 3:41 | 2022-01-03 | 2022-01-12 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-20 | 2024-05-10 |

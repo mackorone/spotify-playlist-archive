@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 130206,
+  "num_followers": 130193,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "dc snuff film / waste yrself",
         "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 165671,
       "name": "haunt me (x 3)",
       "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2024-11-14 23:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Halloween Store",
-      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
-    },
-    {
-      "added_at": "2024-11-14 23:00:00",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 213333,
       "name": "Halloween Parade",
       "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
     },
     {
       "added_at": "2024-11-14 23:00:00",

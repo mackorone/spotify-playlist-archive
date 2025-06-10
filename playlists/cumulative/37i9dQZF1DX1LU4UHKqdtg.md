@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: MEOVV
 
-1,481 songs - 3 day 6 hr 52 min
+1,485 songs - 3 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Beautiful Restriction](https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [A Time Called You \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY) | 3:52 | 2023-09-08 | 2023-11-10 |
 | [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-17 | 2025-06-04 |
 | [Because I](https://open.spotify.com/track/0mh54tHuGhlfC0ypt92CPq) | [CHIMIRO](https://open.spotify.com/artist/5edUSurLivUZXjtOKqAMOY) | [CHIMIRO VOL.1](https://open.spotify.com/album/1rbStC1P0naeSLzdWxnf32) | 5:01 | 2023-04-25 | 2023-05-17 |
+| [BEEP](https://open.spotify.com/track/0YjIGs3jqdOgJxHCRWvDS1) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/2aZnUsMEZ029MODdnob3ka) | 2:44 | 2025-06-09 |  |
 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 | 2023-07-25 | 2023-09-22 |
 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 | 2023-02-08 | 2023-04-18 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-01-27 | 2025-03-07 |
@@ -297,6 +298,7 @@
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-05-25 |
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-25 | 2022-02-23 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-04-03 |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-09 |  |
 | [Dear My U](https://open.spotify.com/track/18qiqu7TNOyVRuMzA9Robi) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Dear My U](https://open.spotify.com/album/5SQHSHAafunp7aDguAmFdk) | 3:31 | 2023-12-14 | 2024-01-24 |
 | [Dear My U](https://open.spotify.com/track/3GFI9dc6mDo4ROdxmaSVyc) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Dear My U](https://open.spotify.com/album/6WmnLIcrMrGWN8y5bT2pe7) | 3:31 | 2023-12-14 | 2023-12-16 |
 | [Dear.](https://open.spotify.com/track/28n96eIVJvJ9pkreZYclYC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Dear.\]](https://open.spotify.com/album/4AaM6fXI6FAGOgaMQO22AD) | 3:24 | 2023-12-11 | 2024-03-08 |
@@ -320,7 +322,7 @@
 | [Dilly Dally](https://open.spotify.com/track/624rJzJltnse63XfM1XlXn) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dilly Dally](https://open.spotify.com/album/1o38Gxn9kFZJ44FND2V5O1) | 3:31 | 2023-12-05 | 2023-12-07 |
 | [DIM](https://open.spotify.com/track/7vC62GHKlmmR4JiewhYcre) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [DIM ∞](https://open.spotify.com/album/7FnEL1BCbrNeAwbBABcSl0) | 3:21 | 2025-04-03 | 2025-04-25 |
 | [Dirty Dancing \(feat\. Joshua, DK & Dino of SEVENTEEN\) \- Dem Jointz Remix](https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Dirty Dancing \(Dem Jointz Remix\)](https://open.spotify.com/album/4MHZnwMTrnhgoSJKe1KSqP) | 3:36 | 2023-08-31 | 2023-10-28 |
-| [Discord \(Japanese Ver.\)](https://open.spotify.com/track/6YQ6VHhyDUXcvNFmCTRrcF) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Discord \(Japanese Ver.\)](https://open.spotify.com/album/5FOQ5cbUbJZ4U2Qn5o0yZG) | 2:47 | 2025-05-15 |  |
+| [Discord \(Japanese Ver.\)](https://open.spotify.com/track/6YQ6VHhyDUXcvNFmCTRrcF) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Discord \(Japanese Ver.\)](https://open.spotify.com/album/5FOQ5cbUbJZ4U2Qn5o0yZG) | 2:47 | 2025-05-15 | 2025-06-10 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-20 | 2023-09-06 |
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-09 | 2024-10-11 |
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-03 | 2022-10-12 |
@@ -478,6 +480,7 @@
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2025-03-06 | 2025-04-15 |
 | [Girls Never Die \-Japanese Version\-](https://open.spotify.com/track/4cVNX1p1e4HxWesDafvBbB) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Girls Never Die \-Japanese Version\-](https://open.spotify.com/album/3jyP94l9uBU0zYby4B6NND) | 3:28 | 2025-04-14 | 2025-05-12 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-25 | 2024-04-10 |
+| [Girls Will Be Girls](https://open.spotify.com/track/6hcT29EF7UYuwu76eqlys9) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/7tf7oSJn5ANhnk6ebP2iFp) | 2:48 | 2025-06-09 |  |
 | [Girls’ Capitalism](https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [LOVElution <ↀ>](https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf) | 3:38 | 2023-08-18 | 2023-10-28 |
 | [Give Me That \- Korean Version](https://open.spotify.com/track/4Ta60nUTt3W1JU0AxctPyG) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Give Me That \- The 5th Mini Album](https://open.spotify.com/album/3umJyIQq0mjtg4eMnOlLbv) | 2:56 | 2024-06-04 | 2024-07-10 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-06-17 |
@@ -701,6 +704,7 @@
 | [Lime & Lemon](https://open.spotify.com/track/0rkZ6uluEtLlYegJE9juej) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Lime & Lemon](https://open.spotify.com/album/1VeMx6yfm2e6nuemMfUuNF) | 3:10 | 2023-06-27 | 2023-07-12 |
 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 | 2023-03-21 | 2023-05-17 |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-07 | 2023-10-11 |
+| [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-09 |  |
 | [LIT](https://open.spotify.com/track/5Wi1nGdQoyMxwFwKYxiaeN) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [LIT](https://open.spotify.com/album/4SPDsfJ3CigkggDigodW2L) | 2:51 | 2023-11-28 | 2024-01-24 |
 | [Little Garden](https://open.spotify.com/track/2bjcPjsdltNW7TC5gcSg2v) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [智異山 オリジナル・サウンドトラック Part.8](https://open.spotify.com/album/4TWOGbfSRIbRUUTYj65XUL) | 4:09 | 2021-12-23 | 2022-01-25 |
 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 | 2024-04-26 | 2024-05-24 |

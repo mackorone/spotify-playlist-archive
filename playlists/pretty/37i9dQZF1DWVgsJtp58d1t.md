@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > Happy Black Music Month! Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,828 likes - 150 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,741 likes - 150 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

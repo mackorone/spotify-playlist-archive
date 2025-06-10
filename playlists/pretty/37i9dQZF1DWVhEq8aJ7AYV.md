@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,477 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,492 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 46 | [Shiralee](https://open.spotify.com/track/7dun0h25rFIwPJEKp3kheP) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV) | [Second To None](https://open.spotify.com/album/7GjYH3xnMyVkdPomUQfzu9) | 3:03 |
 | 47 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 |
 | 48 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 |
-| 49 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 |
-| 50 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
+| 49 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
+| 50 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 |
 | 51 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
 | 52 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
 | 53 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 |

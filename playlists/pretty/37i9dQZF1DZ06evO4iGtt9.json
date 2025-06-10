@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8137,
+  "num_followers": 8144,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACSr5FeCqc+OGB9ZMCaR15u",
+  "snapshot_id": "aETSgAAAAABSTNwa9WzXF+E2oyKeDIIa",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
+      "duration_ms": 161684,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 161684,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
+      "duration_ms": 183529,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alubarika",
         "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 235440,
       "name": "Alubarika",
       "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man on Duty",
-        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Man on Duty",
-      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -591,8 +571,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Ukwu (Bonus)",
-      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+      "duration_ms": 214613,
+      "name": "Chulo Bother Nobody",
+      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Ukwu (Bonus)",
+      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M.O.N.E.Y",
         "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
       },
@@ -639,18 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Solo",
+          "url": "https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte"
+        },
+        {
+          "name": "Recoba",
+          "url": "https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Chulo Bother Nobody",
-      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
+      "duration_ms": 272040,
+      "name": "Dem Mama Anthem",
+      "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
     },
     {
       "added_at": null,
@@ -687,30 +711,6 @@
       "duration_ms": 220235,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gift And Grace",
-        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "2Solo",
-          "url": "https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte"
-        },
-        {
-          "name": "Recoba",
-          "url": "https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U"
-        }
-      ],
-      "duration_ms": 272040,
-      "name": "Dem Mama Anthem",
-      "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
     },
     {
       "added_at": null,

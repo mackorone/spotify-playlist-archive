@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,401 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,551 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 61 | [Hold On](https://open.spotify.com/track/4u4gi3VbzXQopL8VatxoPV) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:47 |
 | 62 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
 | 63 | [Mexico](https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:18 |
-| 64 | [Inside of Love](https://open.spotify.com/track/37oU0liybMY8aI9u6QMVM9) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/7tWx2oRcvpaXVDfvjtgr77) | 4:58 |
-| 65 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
+| 64 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
+| 65 | [Inside of Love](https://open.spotify.com/track/37oU0liybMY8aI9u6QMVM9) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/7tWx2oRcvpaXVDfvjtgr77) | 4:58 |
 | 66 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 67 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
 | 68 | [Ana's Song \(Open Fire\)](https://open.spotify.com/track/2VL5StiQKN8tNYSSDbjvIc) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 3:42 |

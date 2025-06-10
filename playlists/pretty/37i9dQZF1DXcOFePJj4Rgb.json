@@ -1,6 +1,6 @@
 {
   "description": "The pop hits you just can't get enough of. Cover: Tate McRae",
-  "num_followers": 275537,
+  "num_followers": 275547,
   "original_name": "Pop Favourites",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Youngblood (Deluxe)",
-        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "Youngblood (Deluxe)",
+        "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -1627,38 +1643,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+        "name": "When It's Dark Out",
+        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "P*RNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "D\u00c1KITI",
-        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         },
         {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+      "duration_ms": 251466,
+      "name": "Me, Myself & I",
+      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1687,22 +1687,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "When It's Dark Out",
-        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
       },
       "artists": [
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 251466,
-      "name": "Me, Myself & I",
-      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
     }
   ],
   "unique_name": "Pop Favourites",

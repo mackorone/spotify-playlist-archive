@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 165744,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 182635,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/4ivvUhh1XYZhYecY75Nc1V"
@@ -3002,6 +3002,24 @@
       "duration_ms": 172066,
       "name": "Oh Papa Blues",
       "url": "https://open.spotify.com/track/3BniBNNfETcFIBLP9G2uOu"
+    },
+    {
+      "album": {
+        "name": "1923-1928",
+        "url": "https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Oh Papa Blues",
+      "url": "https://open.spotify.com/track/7vwa5vpfxwSnNWS82Q09v1"
     },
     {
       "album": {
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 189057,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/3zWkb6MVafKd6ZEUjyryv1"

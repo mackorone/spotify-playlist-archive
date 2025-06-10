@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,776 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,772 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 49 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 | 50 | [Spiralling \(Feat\. Bastille\)](https://open.spotify.com/track/7gCjzW0xJKKfcC0T4IMCxY) | [To Kill A King](https://open.spotify.com/artist/7yHBGaYHPXkJSVUtHiM816), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Spiralling \(Feat\. Bastille\)](https://open.spotify.com/album/4SLemDV2VHFDedyrro0UnH) | 3:46 |
 
-Snapshot ID: `aEOBAAAAAACCE9VW4hhYHpg8eAb8NjgS`
+Snapshot ID: `aETSgAAAAACdPPHgG0l6cjIyZVeaxu4z`

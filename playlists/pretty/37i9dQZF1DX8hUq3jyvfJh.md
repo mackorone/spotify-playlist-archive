@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Rachel Reis e mais mulheres incríveis no volume máximo! co\-curada por Rachel Reis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,751 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,753 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Lenda](https://open.spotify.com/track/7AyUlE51WlFc2x8Z2ogCPP) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 4:19 |
 | 41 | [Furtacor](https://open.spotify.com/track/0xxFNQDRu4E79cgbbJCKrB) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:59 |
 | 42 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |
-| 43 | [SOU FERA](https://open.spotify.com/track/3l5Ys6krsdYhq49He7RLH2) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [SOU FERA](https://open.spotify.com/album/4gsuxE6hFZhwum1FG1cvvd) | 4:06 |
-| 44 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
+| 43 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
+| 44 | [SOU FERA](https://open.spotify.com/track/3l5Ys6krsdYhq49He7RLH2) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [SOU FERA](https://open.spotify.com/album/4gsuxE6hFZhwum1FG1cvvd) | 4:06 |
 | 45 | [Você Não Vai Passar](https://open.spotify.com/track/6hMk9ielnYmzA9ilTeAQMb) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [Ava Patrya Yndia Yracema](https://open.spotify.com/album/6ErOsUiDB90bpToGgnoSy7) | 2:35 |
 | 46 | [Às Vezes](https://open.spotify.com/track/4bQSysJ9VNUYHA4Y95i4zU) | [Mariana Mesquita](https://open.spotify.com/artist/4YvQlkQeV7wrUO2wrisqP5) | [Às Vezes](https://open.spotify.com/album/209J4N7rnKL3PqmIEw88F6) | 2:55 |
 | 47 | [Margarida Perfumada](https://open.spotify.com/track/2cemRxwcxmTbFjE0H1dZid) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Margarida Perfumada](https://open.spotify.com/album/2PscMuM1kzWxvUdyqa7519) | 2:28 |

@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2174089,
+  "num_followers": 2174131,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 262545,
       "name": "Largo",
       "url": "https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Standard time volume 3: The revolution of romance",
+        "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Returnings",
         "url": "https://open.spotify.com/album/0Oko9SZeGlIDRiURyc1f3y"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 284933,
       "name": "Strands",
       "url": "https://open.spotify.com/track/5LaxA3Vqu1huHZCQHUXnr3"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Standard time volume 3: The revolution of romance",
-        "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "It Never Entered My Mind",
-        "url": "https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP"
-      },
-      "artists": [
-        {
-          "name": "Eddie Henderson",
-          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
-        }
-      ],
-      "duration_ms": 525573,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 351581,
       "name": "Borrowed Eyes",
       "url": "https://open.spotify.com/track/5TOkkMmXaifXBz46FYpNn8"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP"
+      },
+      "artists": [
+        {
+          "name": "Eddie Henderson",
+          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
+        }
+      ],
+      "duration_ms": 525573,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/1vawGyH0kTmE8SCADEI5k2"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Search for Peace",
-        "url": "https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN"
-      },
-      "artists": [
-        {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 396453,
-      "name": "Search for Peace",
-      "url": "https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Part VII (Live)",
+        "url": "https://open.spotify.com/album/5bJyXieDWqLEgJPvIleSrK"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 324224,
+      "name": "Budapest, Part VII - Live",
+      "url": "https://open.spotify.com/track/21Jm2Njh72h2WWLSRmiGT5"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Where Do You Go?",
         "url": "https://open.spotify.com/album/637CSjIkYI1pALV0yrFcfc"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Part VII (Live)",
-        "url": "https://open.spotify.com/album/5bJyXieDWqLEgJPvIleSrK"
+        "name": "Search for Peace",
+        "url": "https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 324224,
-      "name": "Budapest, Part VII - Live",
-      "url": "https://open.spotify.com/track/21Jm2Njh72h2WWLSRmiGT5"
+      "duration_ms": 396453,
+      "name": "Search for Peace",
+      "url": "https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -1447,6 +1447,34 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Last Decade",
+        "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Lackner",
+          "url": "https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf"
+        },
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Regard",
+          "url": "https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz"
+        },
+        {
+          "name": "Manu Katch\u00e9",
+          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
+        }
+      ],
+      "duration_ms": 229274,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/7bhEtYBjzcFqV1OBLHxuVB"
       },
@@ -1475,34 +1503,6 @@
       "duration_ms": 301525,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/5j7WNv3uzF3HUAVtTJAm8q"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Last Decade",
-        "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Lackner",
-          "url": "https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf"
-        },
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Regard",
-          "url": "https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz"
-        },
-        {
-          "name": "Manu Katch\u00e9",
-          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
-        }
-      ],
-      "duration_ms": 229274,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -1727,66 +1727,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Theme for Ernie",
-        "url": "https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9vort 3",
-          "url": "https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W"
-        },
-        {
-          "name": "Pernille B\u00e9vort",
-          "url": "https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV"
-        },
-        {
-          "name": "Espen Laub von Lillienskjold",
-          "url": "https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF"
-        },
-        {
-          "name": "Morten Ankarfeldt",
-          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
-        }
-      ],
-      "duration_ms": 316960,
-      "name": "Theme for Ernie",
-      "url": "https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 270896,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Reminiscing at Rudy's",
-        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
-      },
-      "artists": [
-        {
-          "name": "Houston Person",
-          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
-        }
-      ],
-      "duration_ms": 462120,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -1827,6 +1767,66 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 270896,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Theme for Ernie",
+        "url": "https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9vort 3",
+          "url": "https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W"
+        },
+        {
+          "name": "Pernille B\u00e9vort",
+          "url": "https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV"
+        },
+        {
+          "name": "Espen Laub von Lillienskjold",
+          "url": "https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF"
+        },
+        {
+          "name": "Morten Ankarfeldt",
+          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
+        }
+      ],
+      "duration_ms": 316960,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Reminiscing at Rudy's",
+        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
+      },
+      "artists": [
+        {
+          "name": "Houston Person",
+          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
+        }
+      ],
+      "duration_ms": 462120,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Slow Hot Wind",
         "url": "https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR"
       },
@@ -1863,38 +1863,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Orange Sea",
-        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
-      },
-      "artists": [
-        {
-          "name": "Matthias Bublath",
-          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
-        }
-      ],
-      "duration_ms": 369060,
-      "name": "What Are You Doing for the Rest of Your Life",
-      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Live At Bird's Eye",
         "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
       },
@@ -1915,6 +1883,22 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Balanced",
         "url": "https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 296920,
       "name": "One Step at a Time",
       "url": "https://open.spotify.com/track/4C85BJqQN5Ma1IG6klsRov"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Orange Sea",
+        "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
+      },
+      "artists": [
+        {
+          "name": "Matthias Bublath",
+          "url": "https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV"
+        }
+      ],
+      "duration_ms": 369060,
+      "name": "What Are You Doing for the Rest of Your Life",
+      "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "The Lights Are Always On",
-        "url": "https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB"
-      },
-      "artists": [
-        {
-          "name": "Lynne Arriale Trio",
-          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
-        },
-        {
-          "name": "Lynne Arriale",
-          "url": "https://open.spotify.com/artist/4AB72E5tmD1ojC0ZUYcQMZ"
-        }
-      ],
-      "duration_ms": 255541,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Seeds Of Change",
         "url": "https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi"
       },
@@ -2039,6 +2019,26 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "The Lights Are Always On",
+        "url": "https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB"
+      },
+      "artists": [
+        {
+          "name": "Lynne Arriale Trio",
+          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
+        },
+        {
+          "name": "Lynne Arriale",
+          "url": "https://open.spotify.com/artist/4AB72E5tmD1ojC0ZUYcQMZ"
+        }
+      ],
+      "duration_ms": 255541,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Layers of Life",
         "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
       },
@@ -2051,30 +2051,6 @@
       "duration_ms": 286080,
       "name": "Lullaby in Green",
       "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Song for Peace",
-        "url": "https://open.spotify.com/album/1BQv10hYaemrbRMpXtbst1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
-        },
-        {
-          "name": "Billy Hart",
-          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "Song for Peace",
-      "url": "https://open.spotify.com/track/1Zmt1jvtaBJmMeDTKNiLzT"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2155,38 +2131,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "I Can't Escape from You",
-        "url": "https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 278266,
-      "name": "I Can't Escape from You",
-      "url": "https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Red Orange and Blue",
-        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guggenheim Quartet",
-          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
-        }
-      ],
-      "duration_ms": 432226,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Music at Night (and Other Stories)",
         "url": "https://open.spotify.com/album/4vS5sFm390VpcpQWQ5tGFA"
       },
@@ -2231,6 +2175,38 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "I Can't Escape from You",
+        "url": "https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "I Can't Escape from You",
+      "url": "https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+        }
+      ],
+      "duration_ms": 432226,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Virgo",
         "url": "https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU"
       },
@@ -2255,6 +2231,30 @@
       "duration_ms": 358693,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Song for Peace",
+        "url": "https://open.spotify.com/album/1BQv10hYaemrbRMpXtbst1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Billy Hart",
+          "url": "https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Song for Peace",
+      "url": "https://open.spotify.com/track/1Zmt1jvtaBJmMeDTKNiLzT"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2311,6 +2311,26 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 521080,
+      "name": "Perfectly Unhappy",
+      "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "The Rocket",
         "url": "https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo"
       },
@@ -2331,26 +2351,6 @@
       "duration_ms": 310800,
       "name": "The Third One",
       "url": "https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 521080,
-      "name": "Perfectly Unhappy",
-      "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Ivory Tower",
-        "url": "https://open.spotify.com/album/4q2KGcN3LJpcNevvrsD0NN"
-      },
-      "artists": [
-        {
-          "name": "Anders Aarum Trio",
-          "url": "https://open.spotify.com/artist/6owjHMnq9EUzeI2CkJRL1I"
-        }
-      ],
-      "duration_ms": 345853,
-      "name": "Ivory Tower",
-      "url": "https://open.spotify.com/track/20wJMWebVTkldOo4Z1aqph"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Oblique Two-Step",
         "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
       },
@@ -2463,18 +2447,18 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "With Just A Word",
-        "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
+        "name": "Ivory Tower",
+        "url": "https://open.spotify.com/album/4q2KGcN3LJpcNevvrsD0NN"
       },
       "artists": [
         {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+          "name": "Anders Aarum Trio",
+          "url": "https://open.spotify.com/artist/6owjHMnq9EUzeI2CkJRL1I"
         }
       ],
-      "duration_ms": 372428,
-      "name": "Dignified Response",
-      "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
+      "duration_ms": 345853,
+      "name": "Ivory Tower",
+      "url": "https://open.spotify.com/track/20wJMWebVTkldOo4Z1aqph"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2495,6 +2479,22 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "With Just A Word",
+        "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 372428,
+      "name": "Dignified Response",
+      "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "The 7th Hand",
         "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
       },
@@ -2507,6 +2507,22 @@
       "duration_ms": 284529,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Defiant, Tender Warrior",
+        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Defiant, Tender Warrior",
+      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2543,22 +2559,6 @@
       "duration_ms": 513293,
       "name": "Glimmer Of Hope",
       "url": "https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Defiant, Tender Warrior",
-        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Defiant, Tender Warrior",
-      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2771,26 +2771,18 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Remember to Remember",
-        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
       "artists": [
         {
-          "name": "Claudio Cusmano",
-          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
-        },
-        {
-          "name": "Nello Toscano",
-          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
         }
       ],
-      "duration_ms": 331423,
-      "name": "Tom Traubert's Blues",
-      "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
+      "duration_ms": 390386,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/6pcRsBcaw8cTX0OWwMAM5w"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2815,18 +2807,26 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Red Orange and Blue",
-        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+        "name": "Remember to Remember",
+        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
       "artists": [
         {
-          "name": "Daniel Guggenheim Quartet",
-          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
         }
       ],
-      "duration_ms": 390386,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/6pcRsBcaw8cTX0OWwMAM5w"
+      "duration_ms": 331423,
+      "name": "Tom Traubert's Blues",
+      "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
-      },
-      "artists": [
-        {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
-        }
-      ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Balanced",
         "url": "https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ"
       },
@@ -2947,6 +2931,50 @@
       "duration_ms": 384560,
       "name": "Monet",
       "url": "https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Wild Flower",
+        "url": "https://open.spotify.com/album/6Xlz3DM2L2HfChpNfJ1To1"
+      },
+      "artists": [
+        {
+          "name": "Thomas Hass",
+          "url": "https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw"
+        },
+        {
+          "name": "Thomas Blachman",
+          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Artur Tu\u017anik",
+          "url": "https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k"
+        }
+      ],
+      "duration_ms": 428493,
+      "name": "Wild Flower",
+      "url": "https://open.spotify.com/track/1iaKMD29IA03guhDzt1DiH"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -2999,46 +3027,18 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Wild Flower",
-        "url": "https://open.spotify.com/album/6Xlz3DM2L2HfChpNfJ1To1"
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z"
       },
       "artists": [
         {
-          "name": "Thomas Hass",
-          "url": "https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw"
-        },
-        {
-          "name": "Thomas Blachman",
-          "url": "https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Artur Tu\u017anik",
-          "url": "https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k"
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
         }
       ],
-      "duration_ms": 428493,
-      "name": "Wild Flower",
-      "url": "https://open.spotify.com/track/1iaKMD29IA03guhDzt1DiH"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
-      },
-      "artists": [
-        {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
-        }
-      ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+      "duration_ms": 427213,
+      "name": "Out of Sight, Out of Mind",
+      "url": "https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -3059,18 +3059,18 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Passage",
-        "url": "https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z"
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
       },
       "artists": [
         {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
         }
       ],
-      "duration_ms": 427213,
-      "name": "Out of Sight, Out of Mind",
-      "url": "https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg"
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -3183,58 +3183,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV"
-      },
-      "artists": [
-        {
-          "name": "Mikkel Ploug",
-          "url": "https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26"
-        },
-        {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Sean Carpio",
-          "url": "https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f"
-        },
-        {
-          "name": "Jeppe Skovbakke",
-          "url": "https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/3ocm43si0Ee0nyd9EAxs7T"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Secondo",
-        "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
-      },
-      "artists": [
-        {
-          "name": "Michel Bisceglia",
-          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
-        },
-        {
-          "name": "Marc Lehan",
-          "url": "https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G"
-        },
-        {
-          "name": "Werner Lauscher",
-          "url": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
-        }
-      ],
-      "duration_ms": 369564,
-      "name": "Secondo",
-      "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "This is Not About You",
         "url": "https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI"
       },
@@ -3279,6 +3227,58 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
+        "name": "Secondo",
+        "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
+      },
+      "artists": [
+        {
+          "name": "Michel Bisceglia",
+          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+        },
+        {
+          "name": "Marc Lehan",
+          "url": "https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G"
+        },
+        {
+          "name": "Werner Lauscher",
+          "url": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
+        }
+      ],
+      "duration_ms": 369564,
+      "name": "Secondo",
+      "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV"
+      },
+      "artists": [
+        {
+          "name": "Mikkel Ploug",
+          "url": "https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Sean Carpio",
+          "url": "https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f"
+        },
+        {
+          "name": "Jeppe Skovbakke",
+          "url": "https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/3ocm43si0Ee0nyd9EAxs7T"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
         "name": "Ruth",
         "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
       },
@@ -3291,22 +3291,6 @@
       "duration_ms": 251277,
       "name": "Ruth",
       "url": "https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
-        "name": "Composition 4",
-        "url": "https://open.spotify.com/album/2xQf4t402fuAHZ5hkiFdFS"
-      },
-      "artists": [
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        }
-      ],
-      "duration_ms": 300520,
-      "name": "Composition 4",
-      "url": "https://open.spotify.com/track/6ryPf3eYnbLoak3EYDvRNI"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -3339,22 +3323,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Love Theme From Your Life",
-        "url": "https://open.spotify.com/album/4veANdXwC4hQg3Bkh0WqaC"
-      },
-      "artists": [
-        {
-          "name": "Phi-Psonics",
-          "url": "https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0"
-        }
-      ],
-      "duration_ms": 203062,
-      "name": "Love Theme From Your Life",
-      "url": "https://open.spotify.com/track/68IF24rZ6MGexM0vEhiQaV"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Waltz for an Absent Lover",
         "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
       },
@@ -3375,6 +3343,38 @@
       "duration_ms": 244040,
       "name": "Waltz for an Absent Lover",
       "url": "https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Love Theme From Your Life",
+        "url": "https://open.spotify.com/album/4veANdXwC4hQg3Bkh0WqaC"
+      },
+      "artists": [
+        {
+          "name": "Phi-Psonics",
+          "url": "https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0"
+        }
+      ],
+      "duration_ms": 203062,
+      "name": "Love Theme From Your Life",
+      "url": "https://open.spotify.com/track/68IF24rZ6MGexM0vEhiQaV"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Composition 4",
+        "url": "https://open.spotify.com/album/2xQf4t402fuAHZ5hkiFdFS"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 300520,
+      "name": "Composition 4",
+      "url": "https://open.spotify.com/track/6ryPf3eYnbLoak3EYDvRNI"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -3419,22 +3419,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Outside Introspections",
-        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
-      },
-      "artists": [
-        {
-          "name": "Federica Lorusso",
-          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
-        }
-      ],
-      "duration_ms": 309960,
-      "name": "Just Go Ahead",
-      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
       },
@@ -3447,6 +3431,22 @@
       "duration_ms": 309733,
       "name": "Lookout for Hope",
       "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Outside Introspections",
+        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
+      },
+      "artists": [
+        {
+          "name": "Federica Lorusso",
+          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
+        }
+      ],
+      "duration_ms": 309960,
+      "name": "Just Go Ahead",
+      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
     },
     {
       "added_at": "2025-06-05 11:51:26",
@@ -3515,22 +3515,6 @@
     {
       "added_at": "2025-06-05 11:51:26",
       "album": {
-        "name": "Winter Poems",
-        "url": "https://open.spotify.com/album/2POGDr5H3REZ1VWzfWYhRZ"
-      },
-      "artists": [
-        {
-          "name": "Yuval Cohen Quartet",
-          "url": "https://open.spotify.com/artist/2EQSb9beruZxwQt0acO89Z"
-        }
-      ],
-      "duration_ms": 384186,
-      "name": "Song for Lo Am",
-      "url": "https://open.spotify.com/track/1ZpyJPO9K5Qldl94nWjh5d"
-    },
-    {
-      "added_at": "2025-06-05 11:51:26",
-      "album": {
         "name": "nublues",
         "url": "https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q"
       },
@@ -3543,6 +3527,22 @@
       "duration_ms": 166573,
       "name": "what am i waiting for?",
       "url": "https://open.spotify.com/track/7wf3NTEoRZfXnqXISbz9TJ"
+    },
+    {
+      "added_at": "2025-06-05 11:51:26",
+      "album": {
+        "name": "Winter Poems",
+        "url": "https://open.spotify.com/album/2POGDr5H3REZ1VWzfWYhRZ"
+      },
+      "artists": [
+        {
+          "name": "Yuval Cohen Quartet",
+          "url": "https://open.spotify.com/artist/2EQSb9beruZxwQt0acO89Z"
+        }
+      ],
+      "duration_ms": 384186,
+      "name": "Song for Lo Am",
+      "url": "https://open.spotify.com/track/1ZpyJPO9K5Qldl94nWjh5d"
     },
     {
       "added_at": "2025-06-05 11:51:26",

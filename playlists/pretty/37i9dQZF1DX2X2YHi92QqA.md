@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Затишна музика для теплих днів 🌻☀️🏕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,087 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,112 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 17 | [Улюблені речі](https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g) | [Sonhe](https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8) | [Улюблені речі](https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O) | 2:53 |
 | 18 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 19 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
-| 20 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
+| 20 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
 | 21 | [Без Тебе](https://open.spotify.com/track/3ATuol8XaNxcFAUdCwEsxo) | [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Nova Era](https://open.spotify.com/album/733WEbkU1APj1Y2KlR51W8) | 4:01 |
-| 22 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
+| 22 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
 | 23 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
 | 24 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
 | 25 | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/track/24dWmtD9a5XoCWBrjVhi7H) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/album/4cgZKnrEghJaMLFOMCDv8K) | 3:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 45 | [Bird of Pray \- Acoustic Version](https://open.spotify.com/track/0MLGNvz1nG6HHjl18ipisV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Acoustic\)](https://open.spotify.com/album/7JeNalQlSmsNltVHoUl5TN) | 3:11 |
 | 46 | [Тебе \- собі](https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тебе \- собі](https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r) | 2:02 |
 | 47 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
-| 48 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
-| 49 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
+| 48 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
+| 49 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 50 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
 | 51 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 52 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |

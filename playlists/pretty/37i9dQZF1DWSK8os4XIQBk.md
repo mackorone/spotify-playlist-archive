@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Morgan Wallen and Tate McRae with the biggest hits in country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,663 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,684 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 |
 | 75 | [Going Home](https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Going Home](https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR) | 3:06 |
 
-Snapshot ID: `aEJ3gQAAAAAIHKv7V6EZNDbXKon2KkPn`
+Snapshot ID: `aEJ3gQAAAABoeGa8pQDPUj4BvV/AtTwF`

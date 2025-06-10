@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,505 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,511 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 16 | [Putón Verbenero](https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z) | [Pupi Poisson](https://open.spotify.com/artist/2mgr9vzB7VF10t1S5x20yn) | [Verbenera](https://open.spotify.com/album/0yuUDWK1vVKMzT3ttG4BZh) | 3:11 |
 | 17 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 18 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
-| 19 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 |
+| 19 | [\(otra\) noche +](https://open.spotify.com/track/09NDXiGFUCpKYx19IS8FMr) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [Ciao!](https://open.spotify.com/album/10yYYzdkRsTboBKxXLd1Ft) | 2:21 |
 | 20 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
-| 21 | [\(otra\) noche +](https://open.spotify.com/track/09NDXiGFUCpKYx19IS8FMr) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [Ciao!](https://open.spotify.com/album/10yYYzdkRsTboBKxXLd1Ft) | 2:21 |
+| 21 | [échame la culpa <3](https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [échame la culpa <3](https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h) | 2:59 |
 | 22 | [BOTAS DE PELO](https://open.spotify.com/track/3gCipso4S6elQLCmSG1J1J) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Neofita](https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp) | 2:54 |
-| 23 | [échame la culpa <3](https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [échame la culpa <3](https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h) | 2:59 |
-| 24 | [IDGaF](https://open.spotify.com/track/6mvFyxmyH65O4menM21wWr) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [El Secreto](https://open.spotify.com/album/4NJFWpVWPgPvrciytpxOvr) | 2:33 |
+| 23 | [IDGaF](https://open.spotify.com/track/6mvFyxmyH65O4menM21wWr) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [El Secreto](https://open.spotify.com/album/4NJFWpVWPgPvrciytpxOvr) | 2:33 |
+| 24 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
 | 25 | [MASSA ROSSA](https://open.spotify.com/track/676av3287ko9QyJlDlYpPX) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [METALLIX: Afterparty](https://open.spotify.com/album/6fbYGQVwIeQ1vXiPWVd3Ug) | 2:34 |
-| 26 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
+| 26 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 |
 | 27 | [Sexting](https://open.spotify.com/track/4wqbCjNjzs0bJAWogrkfLZ) | [Fimosix](https://open.spotify.com/artist/2PfB8mF3lBnEECfyXgHUgI) | [Sexting](https://open.spotify.com/album/20VPRNHwsq7p9GUZiPSHoy) | 4:32 |
 | 28 | [Un Buen Tipo Para Tu Hijo](https://open.spotify.com/track/5s8rHRJ6rG2Sr8ugXyFa5f) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Un Buen Tipo Para Tu Hijo](https://open.spotify.com/album/2HKHWJMBWkCtdl6MeYPmuX) | 3:04 |
 | 29 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |

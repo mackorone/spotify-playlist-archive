@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,285 likes - 284 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,201 likes - 284 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 283 | [Inside Of Me](https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [Inside Of Me](https://open.spotify.com/album/1feTbnUKnfGDWKQYiGVjUc) | 2:38 |
 | 284 | [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 |
 
-Snapshot ID: `AAAAAJulgNFyWMKlr0qbP2iB324ayAi8`
+Snapshot ID: `aD6+FwAAAAC4YIu0T/IYdnQmz4PFvyzw`

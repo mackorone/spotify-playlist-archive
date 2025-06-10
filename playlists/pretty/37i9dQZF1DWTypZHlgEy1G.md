@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,648 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,646 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 7 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 8 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 9 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 |
-| 10 | [L'aigle noir](https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe) | 4:57 |
+| 10 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 | 11 | [La foule](https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 2:58 |
-| 12 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
+| 12 | [L'aigle noir](https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe) | 4:57 |
 | 13 | [La mauvaise réputation](https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens chante les chansons poétiques \(et souvent gaillardes\) N°1](https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X) | 2:12 |
 | 14 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 15 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 23 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:53 |
 | 24 | [À bicyclette](https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand Gold](https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp) | 2:43 |
 | 25 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
-| 26 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
-| 27 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
+| 26 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
+| 27 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
 | 28 | [Le téléphone pleure](https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Les Plus Belles Chansons De Claude François](https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5) | 3:59 |
 | 29 | [Sous le ciel de Paris](https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand](https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571) | 2:56 |
 | 30 | [Jolie môme](https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Thank You Ferre](https://open.spotify.com/album/1D8gi44m6PdLBbDGCGwXP6) | 2:38 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 39 | [J'ai deux amours](https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [Musical Moments to Remember: Joséphine Baker, Vol\. 1 \(2014 Remastered\)](https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd) | 3:10 |
 | 40 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
 | 41 | [Tout va très bien madame la marquise](https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12) | [Ray Ventura](https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO) | [Du Caf' Conc' au Music Hall](https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe) | 3:25 |
-| 42 | [Frou\-Frou](https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Frou\-Frou et 29 succès de Berthe Sylva \(Chanson française\)](https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW) | 3:02 |
-| 43 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
+| 42 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
+| 43 | [Frou\-Frou](https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Frou\-Frou et 29 succès de Berthe Sylva \(Chanson française\)](https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW) | 3:02 |
 | 44 | [Et maintenant \(Version 1966\) \- Remasterisé en 2011](https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Edition 60e anniversaire](https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL) | 2:39 |
 | 45 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 |
 | 46 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,589 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,591 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 62 | [Everything Almost](https://open.spotify.com/track/3Y8oPDyVqlt4sVbr0wwFXe) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Everything Almost](https://open.spotify.com/album/17tNCtug0gbegOqfHmwnO3) | 3:00 |
 | 63 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 64 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
-| 65 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
-| 66 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
+| 65 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
+| 66 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
 | 67 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 |
 | 68 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 69 | [The Blower's Daughter](https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 4:46 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 89 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
 | 90 | [Feel Those Things \- Edit](https://open.spotify.com/track/5g1PiWaOKr7LGDY5VupNTi) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6AqJJfCWmCKZEqM3Mphbso) | 3:32 |
 | 91 | [I Was Made For Loving You](https://open.spotify.com/track/3vOmmLuvEUgGaVuRsCs2QF) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/6Q7yIbfFPzplTCBM7d1WRO) | 3:08 |
-| 92 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
-| 93 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
+| 92 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
+| 93 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
 | 94 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
-| 95 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |
-| 96 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
+| 95 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
+| 96 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |
 | 97 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
-| 98 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 |
-| 99 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
+| 98 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
+| 99 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 |
 | 100 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
 
 Snapshot ID: `aEJ97gAAAADnU3cB1iUFUzOwl996bxCN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 
 > Take a trip down memory lane with these noughties classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,446 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,471 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 55 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 |
 | 56 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 57 | [Patience](https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Beautiful World](https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk) | 3:22 |
-| 58 | [Broken Strings](https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 4:10 |
-| 59 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 |
+| 58 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 |
+| 59 | [Broken Strings](https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 4:10 |
 | 60 | [Mercy](https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:39 |
 | 61 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
 | 62 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 71 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
 | 72 | [LDN](https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:10 |
 | 73 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
-| 74 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
-| 75 | [Fight For This Love](https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 3:43 |
+| 74 | [Fight For This Love](https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 3:43 |
+| 75 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
 | 76 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
 | 77 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
 | 78 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |

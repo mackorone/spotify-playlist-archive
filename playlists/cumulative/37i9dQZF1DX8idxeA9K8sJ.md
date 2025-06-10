@@ -4,7 +4,7 @@
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-167 songs - 10 hr 46 min
+168 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 | 2020-06-24 |  |
 | [Orgullosa Nena](https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:10 | 2020-06-24 | 2025-06-08 |
 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 | 2020-06-24 |  |
-| [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 | 2020-06-24 |  |
+| [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 | 2020-06-24 | 2025-06-10 |
+| [Para Amarnos Más](https://open.spotify.com/track/4bkP33ihkdl6CQVpzAYD5L) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Un Hombre Discreto](https://open.spotify.com/album/7MASmAxzjt1vBQqMcwrjtM) | 3:28 | 2020-06-24 |  |
 | [Payaso](https://open.spotify.com/track/29XaS3POtNrgCl8sewWM0v) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 2:58 | 2020-06-24 |  |
 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 | 2020-06-24 |  |
 | [Princesa Tibetana](https://open.spotify.com/track/3ixFLKbMYQbw6sK1k78Zae) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 10](https://open.spotify.com/album/0AKeEzQyc4FRDqgXE3wiRw) | 6:41 | 2020-06-24 |  |

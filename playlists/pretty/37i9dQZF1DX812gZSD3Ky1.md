@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > ปกพิเศษวันกอดแมวสากล! เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: WIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,250 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,254 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

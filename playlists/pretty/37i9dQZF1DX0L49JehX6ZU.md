@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,628 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,649 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 8 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
 | 9 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
 | 10 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
-| 11 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
-| 12 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
+| 11 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 |
+| 12 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 |
 | 13 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
 | 14 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 15 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68l5gg4hq38.md) - [plain]
 
 > <a href="spotify:artist:3y1SoTOdrmRNTBVph5T0VZ">Laurent Garnier</a>'s favorite tracks\. Updated regularly\. Curated by Laurent Garnier\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,785 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,786 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

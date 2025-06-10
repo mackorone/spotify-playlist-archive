@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,330 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,314 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 100 | [Santiladang](https://open.spotify.com/track/3t9EQIUArq9TSG10hUfRfb) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santiladang](https://open.spotify.com/album/1ga3DDiubv3ILXVjlTn8b3) | 3:08 |
 | 101 | [TWENTY SENSATIONS](https://open.spotify.com/track/3gDkef52OXhgDrxlAdcvTK) | [Ashes To Amber](https://open.spotify.com/artist/1VjLe0p8LUFKPbyKaQZAgu) | [TWENTY SENSATIONS](https://open.spotify.com/album/6IKnKLeJeVezSmqA1SwzL6) | 2:22 |
 
-Snapshot ID: `aBRDYgAAAADLTAG31zKhZPBdX5Xu4la9`
+Snapshot ID: `aBRDYgAAAAA20sYZJKp+npGyvYcK9hpl`

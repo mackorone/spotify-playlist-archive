@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Yarea en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,908 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,879 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 59 | [Ida y vuelta a Mictlan](https://open.spotify.com/track/20wS9Mq6Mm0itkZoEJiYwo) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Ida y vuelta a Mictlan](https://open.spotify.com/album/1sv06fhsPa7EtdC9zWNQjM) | 2:50 |
 | 60 | [El Uniforme](https://open.spotify.com/track/1EspptpHIR5ZZvxxwXJecA) | [Chlöe's Clue](https://open.spotify.com/artist/1sRWTOOn4OvDGoe1oXVFoE) | [El Uniforme](https://open.spotify.com/album/2t3P8CQ36mD93MQdI4Rmp1) | 2:18 |
 
-Snapshot ID: `AAAAAEND1SoHHvPPaOuXo1oiXgk3YJpN`
+Snapshot ID: `aEQCbAAAAABXh31DTGEVzfjNN+AzBchl`

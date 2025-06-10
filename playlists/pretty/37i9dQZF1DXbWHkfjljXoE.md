@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Buddy Guy
+> Melodies of the movement\. Cover: Sly Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,229 likes - 65 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,270 likes - 65 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweet Black Angel \(Black Angel Blues\) \- Live](https://open.spotify.com/track/1QJv2dfo7kIWMzpsREfvhn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:49 |
+| 1 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 2 | [We Are One](https://open.spotify.com/track/4En1RHebOOiZlULe6qY0sF) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Greatest Slow Jams](https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG) | 6:27 |
 | 3 | [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 |
 | 4 | [Optimistic](https://open.spotify.com/track/50ZXBncFpzrKw1QVjE2NN8) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 5:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 | 64 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 |
 | 65 | [Astronomy \(8th Light\)](https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB), [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:23 |
 
-Snapshot ID: `aBunsQAAAADdsn1QKZtevBYFcWzwTJKC`
+Snapshot ID: `aEc+6gAAAAAhWTZ5ZzFg3Ic6krFMgHzJ`

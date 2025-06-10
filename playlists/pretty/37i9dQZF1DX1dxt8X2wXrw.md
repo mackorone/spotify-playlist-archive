@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,063 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,068 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 19 | [Sexy to Someone](https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:27 |
 | 20 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 21 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
-| 22 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 |
-| 23 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 22 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 23 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 |
 | 24 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 |
 | 25 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 26 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 36 | [Fuck The Pain Away \(Lost Tapes 2022\)](https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Fuck The Pain Away \(Lost Tapes 2022\)](https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB) | 2:17 |
 | 37 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 38 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
-| 39 | [Traingazing](https://open.spotify.com/track/49QEJdbU9mf4VUXReOpZ9u) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:34 |
-| 40 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
+| 39 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
+| 40 | [Traingazing](https://open.spotify.com/track/49QEJdbU9mf4VUXReOpZ9u) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:34 |
 | 41 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 42 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
 | 43 | [Crushed Velvet](https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:15 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 52 | [For You](https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [For You](https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5) | 2:34 |
 | 53 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 |
 | 54 | [Daydreaming](https://open.spotify.com/track/1YZmYp9jZ4Veq6lZpiuV69) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 3:01 |
-| 55 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
-| 56 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
+| 55 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
+| 56 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
 | 57 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 |
 | 58 | [be with ya](https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 2:58 |
 | 59 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |

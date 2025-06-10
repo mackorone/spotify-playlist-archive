@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: Chilli Beans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,107 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,108 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 66 | [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 67 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 |
 | 68 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
-| 69 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
-| 70 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
-| 71 | [With You](https://open.spotify.com/track/4XAJ8tB30T2BPqzAMOuxLK) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [With You](https://open.spotify.com/album/0gbSiA7hYk7tATT0QQylMe) | 2:26 |
-| 72 | [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 |
+| 69 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
+| 70 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
+| 71 | [FOREVER](https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FOREVER](https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy) | 3:09 |
+| 72 | [With You](https://open.spotify.com/track/4XAJ8tB30T2BPqzAMOuxLK) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [With You](https://open.spotify.com/album/0gbSiA7hYk7tATT0QQylMe) | 2:26 |
 | 73 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 |
 | 74 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 75 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 88 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
 | 89 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 |
 | 90 | [Orbital Period](https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Orbital Period](https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN) | 4:11 |
-| 91 | [Eclipse](https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Eclipse](https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt) | 3:55 |
-| 92 | [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 |
+| 91 | [魔性の女A](https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [魔性の女A](https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn) | 3:40 |
+| 92 | [Eclipse](https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Eclipse](https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt) | 3:55 |
 | 93 | [クズリ念](https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [虚仮の一念海馬に託す](https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr) | 3:55 |
-| 94 | [夢じゃないならなんなのさ](https://open.spotify.com/track/17fJfBzsjOCGCtYPoyO5ke) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [夢じゃないならなんなのさ](https://open.spotify.com/album/49IBsIQFfmpZGDgaxaaNu9) | 3:06 |
-| 95 | [僕らしさ](https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [僕らしさ](https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL) | 4:08 |
+| 94 | [僕らしさ](https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [僕らしさ](https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL) | 4:08 |
+| 95 | [夢じゃないならなんなのさ](https://open.spotify.com/track/17fJfBzsjOCGCtYPoyO5ke) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [夢じゃないならなんなのさ](https://open.spotify.com/album/49IBsIQFfmpZGDgaxaaNu9) | 3:06 |
 | 96 | [Aria](https://open.spotify.com/track/5YqACM8RWUfAIVkOmtB2Mo) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Aria](https://open.spotify.com/album/6v19AL49KRqhe26ChlJH08) | 3:38 |
 | 97 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 |
 | 98 | [SPARK!!](https://open.spotify.com/track/307iThLshjnMdUev0bqlr8) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 4:04 |
-| 99 | [春 ～Destiny～](https://open.spotify.com/track/7cMrvt5hkI2rxDb1HpZAOL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [春 ～Destiny～](https://open.spotify.com/album/1Ixw2H8GfTJyqA4g9zdgOn) | 3:52 |
-| 100 | [おくすり](https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [おくすり](https://open.spotify.com/album/5ECXkzYGgaN9L70Hehi02Q) | 4:01 |
+| 99 | [おくすり](https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [おくすり](https://open.spotify.com/album/5ECXkzYGgaN9L70Hehi02Q) | 4:01 |
+| 100 | [春 ～Destiny～](https://open.spotify.com/track/7cMrvt5hkI2rxDb1HpZAOL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [春 ～Destiny～](https://open.spotify.com/album/1Ixw2H8GfTJyqA4g9zdgOn) | 3:52 |
 
 Snapshot ID: `aD8nWwAAAABUFNDWM4YXquwR0or601kW`

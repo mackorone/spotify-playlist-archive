@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,592 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,636 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 92 | [Adir Adirim \(feat\. Victoria Hanna\)](https://open.spotify.com/track/6VxSZtJSur7288x4F6Ky2S) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Victoria Hanna](https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:19 |
 | 93 | [Mosquitos](https://open.spotify.com/track/602YwqlTMbDvTY4s75iiBi) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK) | [On The Fly](https://open.spotify.com/album/5O3R2MBtK0afRKPMlzjR5c) | 3:32 |
 
-Snapshot ID: `Z7iO7gAAAADzYFc77jV8cDiyU6yJDtDc`
+Snapshot ID: `Z7iO7gAAAAAzoPxU2q5FprOdkxq0G2BI`

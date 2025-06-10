@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,366 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,369 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [ブランニュース](https://open.spotify.com/track/69wlrQjMXsN9ozcAMAHXTN) | [chef's](https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa) | [ブランニュース](https://open.spotify.com/album/1Zo82DYs6D8tgpzmQZuQaU) | 3:59 |
 | 60 | [海底孤城](https://open.spotify.com/track/3K0fv2jGR52SPCCvSRX4Xi) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [海底孤城](https://open.spotify.com/album/0XCAtpOTaWbPrFhT5h9fHj) | 3:28 |
 
-Snapshot ID: `aD8OEAAAAAD+9hho61kYsRIYM7vzXXUI`
+Snapshot ID: `aD8OEAAAAADmcpd7GGeCLrFcWNkLIoH7`

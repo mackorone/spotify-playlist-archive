@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,199 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,198 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 3 | [anh không thícc](https://open.spotify.com/track/2HxD05qBiihQpkvUMH8CJx) | [Paties](https://open.spotify.com/artist/610qZrk1PKFAOgV5yNuGRa), [Finn](https://open.spotify.com/artist/3lg54DBZGbztBHc0t1f48s), [Jo$eph](https://open.spotify.com/artist/3XqVrwsevRswO1cGSqJ7WE), [jus jelly bears](https://open.spotify.com/artist/6GV2KLAoma7QxuCKcfsHYt) | [anh không thícc](https://open.spotify.com/album/4Uh4f7uXp0xU0GPvROcpLC) | 4:53 |
 | 4 | [Liệu Rằng Người Còn Ở Đó](https://open.spotify.com/track/0rwPBjSx8jduCvKFpiH70d) | [$hin yesuka](https://open.spotify.com/artist/3yip6ERHvWCWqRsGZk3Rih), [Smile.](https://open.spotify.com/artist/0BHrw8oUMFxgzRyu0buFvQ), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Liệu Rằng Người Còn Ở Đó](https://open.spotify.com/album/6H3CrX1kiIhxYe7CYV6mTH) | 4:28 |
 | 5 | [Chạy Về Nơi Phía Mặt Trời](https://open.spotify.com/track/6IKRjp4iigEg6N4Z0MyXyF) | [Hekii](https://open.spotify.com/artist/6WMFJ9mRl9DUqzrXzfMqzD), [MTK](https://open.spotify.com/artist/7pcn7teH989aO0IXdbxk67) | [Chạy Về Nơi Phía Mặt Trời](https://open.spotify.com/album/4peSym136eP5JmfcKIZPHh) | 3:30 |
-| 6 | [Chúc Anh Vui Bên Nyc](https://open.spotify.com/track/6a2PwUVHACDMTZgYnqNewV) | [th?o](https://open.spotify.com/artist/0CJTieKztFYr15TVkUg1RK), [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY) | [Chúc Anh Vui Bên Nyc](https://open.spotify.com/album/7ac1eGTLnli0HVwfr2AuZU) | 2:55 |
+| 6 | [Chúc Anh Vui Bên Nyc](https://open.spotify.com/track/6a2PwUVHACDMTZgYnqNewV) | [th?o](https://open.spotify.com/artist/0CJTieKztFYr15TVkUg1RK), [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [Chúc Anh Vui Bên Nyc](https://open.spotify.com/album/7ac1eGTLnli0HVwfr2AuZU) | 2:55 |
 | 7 | [Cuối Mùa Thanh Xuân](https://open.spotify.com/track/3pn3EXqFlYZPLsFPFu3OjE) | [Công Hào Huỳnh](https://open.spotify.com/artist/6BGYOe4J68NBeNYdS9onOu), [quynhu](https://open.spotify.com/artist/1XdGy7968Pztswtin2h2lg), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Cuối Mùa Thanh Xuân](https://open.spotify.com/album/3urMddvOTsNKhJFwHqlYrv) | 3:48 |
 | 8 | [Hold On To Us](https://open.spotify.com/track/4bgR9Q9bajUMLMaOmQbSa8) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v), [ALTER/SELF](https://open.spotify.com/artist/6mTpVJWms3cAn7OF6vJSXI), [the optimist](https://open.spotify.com/artist/7uGOihxwa1JBNOG4sEje2w) | [Hold On To Us](https://open.spotify.com/album/4MpbzsAafNDXxPD0WiBpXK) | 4:07 |
 | 9 | [Định Mệnh](https://open.spotify.com/track/2eDPKMxM24pEvyuaX57C2D) | [Riivine](https://open.spotify.com/artist/7jLiMkXfYcqupCdOUnwrmB) | [Định Mệnh](https://open.spotify.com/album/6qYq9jceZbl2kUgHKox5hu) | 2:19 |

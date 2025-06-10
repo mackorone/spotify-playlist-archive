@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABxajzs+k4XrsN5Jp5WEN4r",
+  "snapshot_id": "aETSgAAAAAAWCkIQFFcpgTS57gRp9hpt",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playing for Change (Live)",
         "url": "https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 250720,
       "name": "Love Is My Religion (Live)",
       "url": "https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Rainbow in the Sky",
+      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
         "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 270386,
       "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
       "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Rainbow in the Sky",
-      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
     },
     {
       "added_at": null,
@@ -519,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
       "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 267306,
-      "name": "Weekend's Long",
-      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
+      "duration_ms": 149306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
     },
     {
       "added_at": null,
@@ -551,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+        "name": "Ziggy Marley",
+        "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
       },
       "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 149306,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+      "duration_ms": 267306,
+      "name": "Weekend's Long",
+      "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 294106,
-      "name": "Personal Revolution",
-      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solid Gold",
         "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 269929,
       "name": "Trenchtown Rock (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Personal Revolution",
+      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lift Our Spirits Raise Our Voice",
         "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 236000,
       "name": "Lift Our Spirits Raise Our Voice",
       "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 188668,
       "name": "Sunshine (feat. RUSL) - RUSL Remix",
       "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
     },
     {
       "added_at": null,

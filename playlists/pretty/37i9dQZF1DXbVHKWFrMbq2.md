@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear con Conociendo Rusia & Jorge Drexler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,086 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,084 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 21 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 22 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 23 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
-| 24 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
+| 24 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
 | 25 | [Igual que sobrevivir](https://open.spotify.com/track/60oT7H969s3xAfLGFvgjGt) | [GERO](https://open.spotify.com/artist/0yJdH7HHacvB0UopMceKZl) | [Igual que sobrevivir](https://open.spotify.com/album/1SvSDn4MExGrf0Xn85Frmg) | 3:30 |
-| 26 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
+| 26 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 |
 | 27 | [Solo Tú](https://open.spotify.com/track/3miNzZTCBg3xXqPKLSv7hH) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Solo Tú](https://open.spotify.com/album/5dLoXu1pxPsDYQxqVsnht0) | 2:59 |
 | 28 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 29 | [YA TE CANSASTE DE MI???](https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [YA TE CANSASTE DE MI???](https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A) | 2:42 |

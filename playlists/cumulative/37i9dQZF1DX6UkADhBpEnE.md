@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-873 songs - 1 day 23 hr 40 min
+874 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 | 2025-02-13 | 2025-05-03 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 |  |
 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-21 | 2023-11-29 |
-| [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 | 2025-06-05 |  |
+| [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 | 2025-06-05 |  |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-18 | 2024-02-07 |
 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-24 | 2023-09-01 |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 | 2023-08-30 |
@@ -439,6 +439,7 @@
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-22 | 2023-11-22 |
 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 | 2024-05-23 | 2024-09-06 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2025-05-04 |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-05 |  |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-23 | 2024-07-13 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-07 |  |
 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 | 2023-12-05 | 2024-01-05 |
@@ -626,7 +627,7 @@
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-09 | 2023-05-10 |
 | [THE HEAT](https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [THE HEAT](https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd) | 2:56 | 2024-03-05 | 2024-04-13 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-11 | 2023-08-30 |
-| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-09 |  |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-09 | 2025-06-10 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-09-20 |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-12 | 2024-08-03 |
 | [This Is Not The Ending](https://open.spotify.com/track/7h0F0qv2vExZ5Kv2ZincA8) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 2:52 | 2023-01-31 | 2023-03-25 |

@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ"
+    },
+    {
+      "album": {
         "name": "Reflections 08",
         "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
       },
@@ -1660,6 +1678,28 @@
       "duration_ms": 289121,
       "name": "Faber Sanctum",
       "url": "https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9"
+    },
+    {
+      "album": {
+        "name": "Joy Paradox (The Remixes: Part 1)",
+        "url": "https://open.spotify.com/album/1nC3QvjO9DOUJHHwMl1vR2"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234781,
+      "name": "Faber Sanctum - Hollie Kenniff Remix",
+      "url": "https://open.spotify.com/track/1EGVMPMBKFXHuCGgYPu3fm"
     },
     {
       "album": {
@@ -4317,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/2y5OqWpzJZbTCxUOglgA4r"
+      },
+      "artists": [
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210275,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/7dnWgF0U7HEgAotCsXWBkf"
+    },
+    {
+      "album": {
         "name": "RITUAL (nothing is lost)",
         "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
       },
@@ -5400,7 +5458,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 142809,
       "name": "Trampoline Counting Stars",
       "url": "https://open.spotify.com/track/6Rysw3fhiyos3SgaqDmaa8"

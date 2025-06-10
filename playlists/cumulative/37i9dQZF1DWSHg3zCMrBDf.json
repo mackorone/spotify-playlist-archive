@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Agya",
+        "url": "https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138035,
+      "name": "Agya",
+      "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
+    },
+    {
+      "album": {
         "name": "Kweku Jesus",
         "url": "https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186923,
       "name": "Asor",
       "url": "https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ"
@@ -6097,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Sankofa",
+      "url": "https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj"
+    },
+    {
+      "album": {
         "name": "Sankofa (5 Star Remix)",
         "url": "https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K"
       },
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 162352,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml"

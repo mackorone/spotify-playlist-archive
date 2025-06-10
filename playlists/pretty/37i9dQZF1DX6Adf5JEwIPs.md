@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,393 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,431 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [El Mejor de Tus Amigos](https://open.spotify.com/track/3vTMwcfGUXHBdb1sU93RLB) | [La Promeza Norteña](https://open.spotify.com/artist/6bWMO75sSZc7kx8pBBLMwb) | [El Mejor de Tus Amigos](https://open.spotify.com/album/2xwjrsgos9p3fzK4x3T5mL) | 3:12 |
 | 50 | [Delincuente](https://open.spotify.com/track/3ulTYreKvVIUzyBFT8KOqU) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Delincuente](https://open.spotify.com/album/29WkKUnBIAWoIwTQucgIRg) | 3:21 |
 
-Snapshot ID: `AAAAAOVscZ6uaiajSx62mQ2yYvTYL62A`
+Snapshot ID: `aEJnzwAAAABYsR+8kOyTDMC7wx1nzedk`

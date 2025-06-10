@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,016 likes - 191 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,023 likes - 191 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 70 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 | 71 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/5UkMXb3IfK9fTCCrMr0v9A) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
 | 72 | [Name \(feat\. Tori Kelly\)](https://open.spotify.com/track/6EKDPhgCDL2cwRvloAEwSP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 2:39 |
-| 73 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
-| 74 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
+| 73 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
+| 74 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
 | 75 | [Need To Know](https://open.spotify.com/track/5VBKZ21vgMcUt9D25Qmh2M) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/2Qm3jtYKIsCVWgpvFiIDX4) | 2:47 |
 | 76 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
 | 77 | [Jello](https://open.spotify.com/track/2jaaONYdaOUk8hhhIRIp4A) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Jello](https://open.spotify.com/album/4WMrgBWI8uWqp7ilLTfPXx) | 2:57 |
 | 78 | [Means I care](https://open.spotify.com/track/63bgBHUBX1rutghlrXZrvp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:55 |
 | 79 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
 | 80 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
-| 81 | [not the same](https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:04 |
-| 82 | [No I'm not in love](https://open.spotify.com/track/3BBRp97DTo6gN0BIwFkX3t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:50 |
+| 81 | [No I'm not in love](https://open.spotify.com/track/3BBRp97DTo6gN0BIwFkX3t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:50 |
+| 82 | [not the same](https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:04 |
 | 83 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
 | 84 | [New Angel](https://open.spotify.com/track/3lMIgIO9HkPxnAZGmtTdpT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:09 |
 | 85 | [Dance \(‘Til You Love Someone Else\)](https://open.spotify.com/track/7ngTmzqa1PylqWUtMWfCgl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:45 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 93 | [Isn’t That Enough](https://open.spotify.com/track/0P85Dz3wK49uv2Nkfq8FlA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:44 |
 | 94 | [Move Me](https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:27 |
 | 95 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
-| 96 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
-| 97 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
+| 96 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
+| 97 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
 | 98 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
 | 99 | [Strangers](https://open.spotify.com/track/0X5QlzgZD3UanxR4MIXb4f) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:04 |
 | 100 | [STUPID BIG TEETH](https://open.spotify.com/track/44ESvGuO5spXkHDUNQcHyu) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [STUPID BIG TEETH](https://open.spotify.com/album/1vj4JsdkXZVXloB6opcYWX) | 2:50 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 190 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 | 191 | [Are You Serious?](https://open.spotify.com/track/0cX8jpeqgYcoBsFREgmgGY) | [Teddy Sutton](https://open.spotify.com/artist/58MGMvhrKqPVwa9nqrOdj3) | [Dynasty](https://open.spotify.com/album/2XbCpM1MlrsMG6QODWt08N) | 2:23 |
 
-Snapshot ID: `AbznvgAAAAAugT/inRojSD0jXHH69MWa`
+Snapshot ID: `AbztXgAAAACqO3DVoHiEJx3uMKlk7/N5`

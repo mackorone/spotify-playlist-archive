@@ -4,7 +4,7 @@
 
 > 
 
-324 songs - 19 hr 7 min
+326 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2021-10-01 |  |
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2023-07-13 |  |
 | [Summertime Sadness](https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:25 | 2022-09-12 |  |
+| [Sunrise](https://open.spotify.com/track/0n0p8VGjFfQSXnCKUMPCWU) | [Slaptop](https://open.spotify.com/artist/5NFB7dL4b4ZtcMAk2wCOoi) | [Sunrise](https://open.spotify.com/album/6TIUOd9nDxKgQMc7OijRaa) | 3:34 | 2025-06-09 |  |
 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 | 2023-07-13 |  |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2022-07-12 |  |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2023-07-13 |  |
@@ -299,6 +300,7 @@
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2023-07-13 |  |
 | [Troublemaker \(feat\. Flo Rida\)](https://open.spotify.com/track/0gRczqVHrEQQDyizJUtgRc) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Right Place Right Time \(Deluxe\)](https://open.spotify.com/album/1xzeJ3NPSvnqKjTKwyjEtz) | 3:05 | 2021-10-01 |  |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2021-10-01 |  |
+| [Uh la la](https://open.spotify.com/track/2PegjCuOVhM1A86ejM0apG) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Eso Es Lo Que Hay](https://open.spotify.com/album/3LFh9faflZ48PVZeBJx6wu) | 3:50 | 2025-06-09 |  |
 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 | 2021-10-01 |  |
 | [VAPO NO SETOR](https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1) | [DJ ANXVAR](https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [VAPO NO SETOR](https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse) | 1:07 | 2024-12-20 |  |
 | [VIBEZ](https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:24 | 2023-07-13 |  |

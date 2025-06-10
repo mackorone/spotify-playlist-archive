@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Aaron",
-  "num_followers": 457665,
+  "num_followers": 457697,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIThwAAAACEs2MUVoxXcq/ZybX1Nu4e",
+  "snapshot_id": "aEaWFgAAAABnV9opJyzWNYWL60+egCYj",
   "tracks": [
     {
       "added_at": "2025-06-05 22:00:39",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-06-05 22:00:39",
       "album": {
-        "name": "Schief in jedem Chor",
-        "url": "https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 186524,
-      "name": "Schief in jedem Chor",
-      "url": "https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN"
-    },
-    {
-      "added_at": "2025-06-05 22:00:39",
-      "album": {
         "name": "Wenn das Liebe ist",
         "url": "https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY"
       },
@@ -59,18 +43,18 @@
     {
       "added_at": "2025-06-05 22:00:39",
       "album": {
-        "name": "Vorhang Auf",
-        "url": "https://open.spotify.com/album/1nJICdDYeK9y16fKtelreD"
+        "name": "Schief in jedem Chor",
+        "url": "https://open.spotify.com/album/0YFjjHLZMzsnvRak9BNpDI"
       },
       "artists": [
         {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
         }
       ],
-      "duration_ms": 171180,
-      "name": "Vorhang Auf",
-      "url": "https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc"
+      "duration_ms": 186524,
+      "name": "Schief in jedem Chor",
+      "url": "https://open.spotify.com/track/4FSWg1YKFu0XN3oli8RisN"
     },
     {
       "added_at": "2025-06-05 22:00:39",
@@ -107,6 +91,22 @@
     {
       "added_at": "2025-06-05 22:00:39",
       "album": {
+        "name": "Vorhang Auf",
+        "url": "https://open.spotify.com/album/1nJICdDYeK9y16fKtelreD"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 171180,
+      "name": "Vorhang Auf",
+      "url": "https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc"
+    },
+    {
+      "added_at": "2025-06-05 22:00:39",
+      "album": {
         "name": "Sturm im Kopf",
         "url": "https://open.spotify.com/album/44sSV2OEsyEjSHq9y7aCAh"
       },
@@ -135,6 +135,42 @@
       "duration_ms": 147157,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/7FuwizV4bAUFBhyNB5dCxm"
+    },
+    {
+      "added_at": "2025-06-05 22:00:39",
+      "album": {
+        "name": "Warmes Bier",
+        "url": "https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        },
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Warmes Bier",
+      "url": "https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI"
+    },
+    {
+      "added_at": "2025-06-05 22:00:39",
+      "album": {
+        "name": "Es ist schon ok",
+        "url": "https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "duration_ms": 159880,
+      "name": "Es ist schon ok",
+      "url": "https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp"
     },
     {
       "added_at": "2025-06-05 22:00:39",
@@ -175,42 +211,6 @@
       "duration_ms": 157586,
       "name": "nachmittagsverkehr",
       "url": "https://open.spotify.com/track/3hZ8CYjHDRhWOB8HiP699x"
-    },
-    {
-      "added_at": "2025-06-05 22:00:39",
-      "album": {
-        "name": "Warmes Bier",
-        "url": "https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        },
-        {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Warmes Bier",
-      "url": "https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI"
-    },
-    {
-      "added_at": "2025-06-05 22:00:39",
-      "album": {
-        "name": "Es ist schon ok",
-        "url": "https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj"
-      },
-      "artists": [
-        {
-          "name": "fiora",
-          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
-        }
-      ],
-      "duration_ms": 159880,
-      "name": "Es ist schon ok",
-      "url": "https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp"
     },
     {
       "added_at": "2025-06-05 22:00:39",

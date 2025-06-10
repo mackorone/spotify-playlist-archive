@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 200 songs - 11 hr 4 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 201 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 198 | [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 |
 | 199 | [Tin Man](https://open.spotify.com/track/4uTTd2SlalZoG0zVgI63kH) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Holiday](https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx) | 3:29 |
 | 200 | [THE zone\~](https://open.spotify.com/track/2alpVcC9RxRWS1eSMGeAAP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 4:09 |
+| 201 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 |
 
-Snapshot ID: `AAAekdA/hTtrKrTk3v+AQhOF6B0pyAgC`
+Snapshot ID: `AAAeksEkEkZ8Y7yQ5lftLi11+Al/Pd5H`

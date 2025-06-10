@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 Nathy Peluso & Conociendo Rusia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,235 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,238 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 50 | [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 |
 | 51 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 |
 | 52 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 |
-| 53 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
-| 54 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 |
-| 55 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
-| 56 | [Todo Contigo](https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Todo Contigo](https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE) | 2:45 |
+| 53 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 |
+| 54 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
+| 55 | [Todo Contigo](https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Todo Contigo](https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE) | 2:45 |
+| 56 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
 | 57 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
 | 58 | [Sería Más Fácil](https://open.spotify.com/track/0cftlm9IYJi4KoN1PDvR2V) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Guerra \(+ Sessions Recorded at Abbey Road\)](https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z) | 3:37 |
 | 59 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastián Yatra](https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 92 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
 | 93 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
 | 94 | [Amor Loco](https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:46 |
-| 95 | [TE VAS](https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TE VAS](https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6) | 2:47 |
-| 96 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
+| 95 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
+| 96 | [TE VAS](https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TE VAS](https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6) | 2:47 |
 | 97 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 |
 | 98 | [El día menos pensado](https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [El día menos pensado](https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu) | 3:44 |
 | 99 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 |

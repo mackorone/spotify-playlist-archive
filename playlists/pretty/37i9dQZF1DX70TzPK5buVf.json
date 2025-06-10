@@ -1,13 +1,29 @@
 {
   "description": "Funk to these good ol' funky soul classics!",
-  "num_followers": 1302065,
+  "num_followers": 1302100,
   "original_name": "Funk Outta Here",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5jwywAAAADM0aImBVINNzCnCk5ukebU",
+  "snapshot_id": "aEdgJQAAAACQdZwiueURlxGrkZ/jy1RK",
   "tracks": [
+    {
+      "added_at": "2025-06-09 22:28:53",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
@@ -571,22 +587,6 @@
       "duration_ms": 252306,
       "name": "Burn Rubber On Me (Why You Wanna Hurt Me)",
       "url": "https://open.spotify.com/track/32YzjV133gteg9LMBGO2OA"
-    },
-    {
-      "added_at": "2020-04-15 02:39:51",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
     {
       "added_at": "2020-05-08 09:11:07",

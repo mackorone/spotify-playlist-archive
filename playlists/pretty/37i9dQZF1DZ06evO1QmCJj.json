@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 44546,
+  "num_followers": 44569,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAC7TH3W5x16d6t5TrUVzeJp",
+  "snapshot_id": "aETSgAAAAACqocv5Z04pY1ZAMRW9ODeV",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romeo Y Julieta",
         "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 178753,
       "name": "Romeo Y Julieta",
       "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 199747,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
     },
     {
       "added_at": null,

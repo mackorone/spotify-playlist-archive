@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 71 | [collar](https://open.spotify.com/track/1uSeHCbkm5iMH3qJe0zdK1) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 2:39 |
 | 72 | [Can't Show My Face](https://open.spotify.com/track/6qTlCSela5oHJkKy9NVOgC) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:09 |
 | 73 | [Drugs](https://open.spotify.com/track/7M6OVjQ0stYHLMciIYseHN) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:38 |
-| 74 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 |
-| 75 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 |
+| 74 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 |
+| 75 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 |
 | 76 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
 | 77 | [woozy](https://open.spotify.com/track/2OJpoFLYK2ZZdxbZX7t7ul) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw) | [fka kyko EP](https://open.spotify.com/album/08Uz0ACnlwb9o4cdy6ylyN) | 2:51 |
 | 78 | [Justify](https://open.spotify.com/track/43iP1mpb3RHifrt8sHGKi4) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:04 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 133 | [Thief](https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:34 |
 | 134 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
 | 135 | [Silly Rabbit](https://open.spotify.com/track/7xEl5JBUiuEmaMxRCFkFGs) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/6hg7Mo8TilEHqwclUD8q9O) | 2:39 |
-| 136 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
-| 137 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
+| 136 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
+| 137 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
 | 138 | [High on You](https://open.spotify.com/track/1x2ql7GenJK1F30lmR45vp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [High on You](https://open.spotify.com/album/2UBuB3s8t310icc8c4pQED) | 2:51 |
 | 139 | [Black Shoes](https://open.spotify.com/track/6NvRkWPAoLVTh6peBC7fod) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde / Black Shoes](https://open.spotify.com/album/5vyikpdMXfWM595yFD7IYX) | 2:14 |
 | 140 | [Summer Sadness](https://open.spotify.com/track/4C75bptwmKumfNf655piPr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:29 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 240 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
 | 241 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbzntAAAAAChcvvvATVupTn/QWrZGWKv`
+Snapshot ID: `AbztVAAAAACezNGdGFmyUZ7xc8F/0/Hf`

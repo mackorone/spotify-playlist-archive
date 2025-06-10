@@ -4,7 +4,7 @@
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 17 min
+93 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 | 2024-01-08 | 2024-04-28 |
 | [AQUI TA SMOKE](https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:54 | 2023-12-13 | 2023-12-30 |
 | [Atrapado en un Sueño](https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:30 | 2023-08-08 |  |
+| [Baja Beach \(feat\. Fuerza Regida\)](https://open.spotify.com/track/14tg6YVfdbWngTlk09UzJt) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:28 | 2025-06-10 |  |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-25 |  |
 | [Ciudad Peligrosa](https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3) | 3:46 | 2023-08-08 | 2023-11-11 |
 | [Clausurado](https://open.spotify.com/track/7jWbhWfbWJakNxx5vRqQKS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:06 | 2024-11-10 | 2025-01-12 |
@@ -47,7 +48,7 @@
 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 | 2023-08-08 |  |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-08-08 |  |
 | [Guerreros Aztecas](https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Guerreros Aztecas](https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi) | 3:53 | 2023-11-10 | 2024-01-02 |
-| [Intenciones Malas](https://open.spotify.com/track/5mHvccDXkSclGx5no3wtZ1) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Intenciones Malas](https://open.spotify.com/album/6znVJeVrLQHBt4YY3vJ0Ru) | 2:15 | 2023-08-08 |  |
+| [Intenciones Malas](https://open.spotify.com/track/5mHvccDXkSclGx5no3wtZ1) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Intenciones Malas](https://open.spotify.com/album/6znVJeVrLQHBt4YY3vJ0Ru) | 2:15 | 2023-08-08 | 2025-06-10 |
 | [Intro](https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:00 | 2023-08-08 |  |
 | [Jueves 10](https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 4:47 | 2023-08-08 | 2025-02-22 |
 | [LA CHERRY](https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:32 | 2023-11-10 |  |

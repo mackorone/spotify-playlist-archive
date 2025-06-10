@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Waylon Wyatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,932 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,929 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

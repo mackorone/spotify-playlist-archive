@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,306 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,538 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 72 | [El o Yo](https://open.spotify.com/track/0jribWPdFZWic84UgasuXm) | [Banda El Pueblito](https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm) | [Que Se Mueran los Feos](https://open.spotify.com/album/6RJAp7Ez4quRbgJOpVnsTH) | 3:06 |
 | 73 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 |
 | 74 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 |
-| 75 | [Mitad Tú, Mitad Yo](https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Tesoros De Coleccion](https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT) | 2:55 |
-| 76 | [Oye Como Va](https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:35 |
+| 75 | [Oye Como Va](https://open.spotify.com/track/5dbZ0arhOVDAELk6pDBucF) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:35 |
+| 76 | [Mitad Tú, Mitad Yo](https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Tesoros De Coleccion](https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT) | 2:55 |
 | 77 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
 | 78 | [Nieves De Enero](https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:32 |
 | 79 | [Que Bonito](https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Junto Al Mar](https://open.spotify.com/album/63t6D4VvWmKjesaa9rfywF) | 2:57 |
@@ -120,12 +120,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 110 | [Soy Como Quiero Ser](https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:32 |
 | 111 | [Borracho Morire](https://open.spotify.com/track/4b6ImioSLFFQeweQFzx69h) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [Colección Privada](https://open.spotify.com/album/6mg7bTIJ4o8E82bstvMAFq) | 3:23 |
 | 112 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
-| 113 | [Te He de Querer](https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:33 |
+| 113 | [Pobre Bohemio](https://open.spotify.com/track/6ifPyD2GhPOy54fqbcd9IV) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Puras Rancheras Con Cuisillos](https://open.spotify.com/album/1rk9AlqRtw4KEj3LoACMnp) | 2:53 |
 | 114 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 |
 | 115 | [Viejo Joven El](https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:36 |
 | 116 | [Esa Chica Me Vacila](https://open.spotify.com/track/0g5JLFIK31liC82k4m2hEs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/2kJCLd9dNdizlf0n8ATxOs) | 3:40 |
 | 117 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 |
-| 118 | [Pobre Bohemio](https://open.spotify.com/track/6ifPyD2GhPOy54fqbcd9IV) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Puras Rancheras Con Cuisillos](https://open.spotify.com/album/1rk9AlqRtw4KEj3LoACMnp) | 2:53 |
+| 118 | [Te He de Querer](https://open.spotify.com/track/2aXkdMPXokMlYPPyRvrr8g) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:33 |
 | 119 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 |
 | 120 | [Me Dicen El Coyote](https://open.spotify.com/track/6tS1jMgrY8UKF9kfvPOnaB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 2\)](https://open.spotify.com/album/4WfvdBmvwXXv4RMq9eOWVV) | 2:22 |
 | 121 | [El Alacrán](https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM) | 2:34 |

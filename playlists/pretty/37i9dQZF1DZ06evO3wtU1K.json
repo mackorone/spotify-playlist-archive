@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36187,
+  "num_followers": 36188,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAALWIb64+8fVPFBpIQkDEPZ",
+  "snapshot_id": "aETSgAAAAAA8nBdwFCol6z3Mt8xTBFjg",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Love This Place - Live",
+      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
         "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Love This Place - Live",
-      "url": "https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 166798,
       "name": "I Have Decided",
       "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 214872,
+      "name": "Blessings (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
     },
     {
       "added_at": null,
@@ -875,26 +895,6 @@
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 214872,
-      "name": "Blessings (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
     },
     {
       "added_at": null,

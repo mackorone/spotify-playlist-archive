@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Laureline, The Wild Wind, LAVE and more
+> With The Wild Wind, Laureline, LAVE and more
 
 1,421 songs - 3 day 19 hr 9 min
 
@@ -216,7 +216,7 @@
 | [California](https://open.spotify.com/track/3rvpOqZcWke5BwppbvU7g4) | [David Nevory](https://open.spotify.com/artist/2UfNQbWhyIvKplQbVfTF4w) | [Seagazing](https://open.spotify.com/album/6SdT8z2g3Lak9wOALGrbbi) | 3:41 | 2022-06-24 | 2024-01-16 |
 | [California Looks Good on You](https://open.spotify.com/track/3aZUkR8LzY43LV3H1uqFSG) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Songs for the Night](https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT) | 3:37 | 2022-04-14 | 2022-08-04 |
 | [Call for You](https://open.spotify.com/track/15O9Tsi4zFnobYanHYDg3x) | [Y O U T H F O O L](https://open.spotify.com/artist/0Z5bTj2ks1eHLSBIHuwBs9), [Brandon Shoop](https://open.spotify.com/artist/114VmbEoe3cGBhs6pHOFeI) | [Call for You](https://open.spotify.com/album/5gczLLQilYwKBycQIO0e47) | 3:31 | 2022-04-08 | 2022-06-20 |
-| [Call Me a Fool](https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:24 | 2021-12-01\* |  |
+| [Call Me a Fool](https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:24 | 2021-12-01\* | 2025-06-10 |
 | [Calling](https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY), [Frankmusik](https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi) | [III](https://open.spotify.com/album/4tteTazT567N7srYWOwTG2) | 4:58 | 2021-12-01\* | 2024-10-20 |
 | [Camera Roll](https://open.spotify.com/track/3e4sB2uOwLGuQtlfTmmqc1) | [tacotimelover](https://open.spotify.com/artist/70Z9F5ZrEt6eeiitoJBqgh) | [Camera Roll](https://open.spotify.com/album/3JGTpgZJ8KKQHM2DJOb09P) | 3:28 | 2022-09-18 | 2022-10-03 |
 | [Can You Feel It](https://open.spotify.com/track/4Jl330JRLVEWezRlJlcGsT) | [RYLY](https://open.spotify.com/artist/56zbBNrJlFsdyGiHBwd0HB) | [Young + Naive](https://open.spotify.com/album/2nJABvkPfOviMjOcDa14aD) | 3:01 | 2022-04-08 | 2022-04-09 |
@@ -492,7 +492,7 @@
 | [Give It Up](https://open.spotify.com/track/5kRifLRcDTSfeEoErjOg9d) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Give It Up](https://open.spotify.com/album/5fHrxB8KBwZvAMfA6JrpGd) | 3:46 | 2022-04-02 | 2022-04-30 |
 | [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/5AeaDGmGh1k7GaoVXLmYNl) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/2vUmvAnrPvFWN1dz34nC1O) | 3:32 | 2022-03-23 | 2022-03-27 |
 | [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE) | 3:32 | 2022-04-01 | 2024-04-19 |
-| [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 3:32 | 2024-04-19 | 2025-06-09 |
+| [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 3:32 | 2024-04-19 |  |
 | [Giving up on Giving In](https://open.spotify.com/track/1DhlWoZRRntROMyxgjeGNN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [En Masse](https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z) | 3:20 | 2024-01-04 | 2024-04-09 |
 | [Glue](https://open.spotify.com/track/6KlnHl4ehm8q5HZ73U1Gsp) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Glue](https://open.spotify.com/album/4k3pqlmyL93ZLg15ImAlut) | 3:21 | 2024-01-20 | 2024-01-25 |
 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 | 2022-03-09 | 2025-03-01 |
@@ -940,7 +940,7 @@
 | [On My Mind](https://open.spotify.com/track/0lSMpziFnq22pEGxEDX65C) | [LOS LEO](https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW) | [On My Mind](https://open.spotify.com/album/1rKMKM5DxCNjNy5PAMCYG3) | 3:40 | 2022-10-08 | 2024-04-13 |
 | [On the Corner Where You Live](https://open.spotify.com/track/0b5bhzXZNsrvxcA4FP3jcG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/2vUmvAnrPvFWN1dz34nC1O) | 4:36 | 2022-03-10 | 2022-03-22 |
 | [On the Corner Where You Live](https://open.spotify.com/track/3R09tujAEHItiHfiPgC4Lc) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/02g8cOPykp2ZbBFDfScCTE) | 4:36 | 2022-04-20 | 2024-04-14 |
-| [On the Corner Where You Live](https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:36 | 2024-07-09 |  |
+| [On the Corner Where You Live](https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:36 | 2024-07-09 | 2025-06-10 |
 | [On the Inside](https://open.spotify.com/track/1WsVbTgxFHbF4qFrZ2ONoL) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Soft Rock](https://open.spotify.com/album/0AkDMMAMSUyyYk8qzPHh7K) | 2:26 | 2021-12-02 | 2023-06-13 |
 | [On the Train Ride Home](https://open.spotify.com/track/37adNHvszWoS1kINkE99Ja) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:47 | 2022-03-12 | 2022-03-24 |
 | [On the Train Ride Home](https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:47 | 2022-04-01 | 2023-09-26 |
@@ -1058,7 +1058,7 @@
 | [Said That You'd Be There](https://open.spotify.com/track/4ijc1rCNtSJvadtUnZFhYi) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Said That You'd Be There](https://open.spotify.com/album/1CxwT031vIG0j2yRUSC1dL) | 3:22 | 2024-01-24 | 2024-01-25 |
 | [Sailboat Bed](https://open.spotify.com/track/505efRxrEceMhycjn1BWcC) | [The Devil Music Co.](https://open.spotify.com/artist/47X9AuO8xyIpr0n141v1lJ) | [A Feeling You Can't Get Back](https://open.spotify.com/album/51X7NsvH0GKvFWOjslVVmN) | 4:00 | 2023-03-30 | 2024-02-13 |
 | [Sailing Ships](https://open.spotify.com/track/7yTgEXrb0dob7LFSm5gueg) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Sailing Ships](https://open.spotify.com/album/7qzGBlv4PaIDHkdGQBUzdw) | 2:43 | 2022-06-24 | 2024-01-08 |
-| [Same Color as the Sun](https://open.spotify.com/track/080MVprEIgBgpIE9NSwWmU) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Same Color as the Sun](https://open.spotify.com/album/5G3UXZhqOsTC8GSShGg2Zk) | 3:17 | 2024-12-08 | 2024-12-16 |
+| [Same Color as the Sun](https://open.spotify.com/track/080MVprEIgBgpIE9NSwWmU) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Same Color as the Sun](https://open.spotify.com/album/5G3UXZhqOsTC8GSShGg2Zk) | 3:17 | 2024-12-08 |  |
 | [Same Side](https://open.spotify.com/track/4zyJdEJYeoSU9rlM7YgXqF) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Stranger in My Head](https://open.spotify.com/album/5OwlRbBaXiqNIPAWEeOU68) | 3:56 | 2023-04-24 | 2024-03-16 |
 | [San Francisco](https://open.spotify.com/track/0yrxG0AcxHJdlXMjJWdlDd) | [Honestly](https://open.spotify.com/artist/5NKFDjHu7E4gxsBkyUqtkH) | [Inside Your Eyes, Without You Beside Me](https://open.spotify.com/album/5Ly8k0ctpxkWUkwyMeu517) | 3:11 | 2022-05-23 | 2022-05-24 |
 | [Santa Barbara](https://open.spotify.com/track/647nqwKjXd2pYXmkvy6GIb) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [She's So Insane](https://open.spotify.com/album/4p2TF9dDlk023Nb8S9DpUQ) | 2:37 | 2022-01-04 | 2022-10-15 |

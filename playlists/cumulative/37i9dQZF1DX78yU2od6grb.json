@@ -744,6 +744,24 @@
     {
       "album": {
         "name": "You Got Me",
+        "url": "https://open.spotify.com/album/0w7epNYKk5RTukZ7ZocIbA"
+      },
+      "artists": [
+        {
+          "name": "Daxten",
+          "url": "https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177481,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/2yUkOwIdYRvV86ngAQg9Am"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
         "url": "https://open.spotify.com/album/730DV2yB8G1svAKIvD4pdh"
       },
       "artists": [
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 207586,
       "name": "How Beautiful (she is)",
       "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"

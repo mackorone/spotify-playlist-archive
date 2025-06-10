@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Indios y Conociendo Rusia",
-  "num_followers": 157599,
+  "num_followers": 157659,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 260371,
+      "name": "Nunca quise",
+      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Vicentico 5",
         "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 198333,
       "name": "No Te Apartes de M\u00ed (feat. Valeria Bertuccelli)",
       "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 260371,
-      "name": "Nunca quise",
-      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Hijos Del Culo",
         "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 291493,
       "name": "Desconexi\u00f3n Sideral",
       "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Zoe Exitos",
-        "url": "https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr"
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 318560,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO"
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
+        "name": "Zoe Exitos",
+        "url": "https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 250696,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
+      "duration_ms": 318560,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "El Gato Que Est\u00e1 Triste y Azul",
-        "url": "https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 221579,
-      "name": "El Gato Que Est\u00e1 Triste y Azul",
-      "url": "https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Xtrapolar",
         "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 183592,
       "name": "X siempre",
       "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "El Gato Que Est\u00e1 Triste y Azul",
+        "url": "https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 221579,
+      "name": "El Gato Que Est\u00e1 Triste y Azul",
+      "url": "https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Vendedora de Caricias",
-        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
-      },
-      "artists": [
-        {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
-        }
-      ],
-      "duration_ms": 199610,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Garc\u00eda, el M\u00e1s Grande",
         "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 186266,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Vendedora de Caricias",
+        "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
+      },
+      "artists": [
+        {
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
+        }
+      ],
+      "duration_ms": 199610,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
     },
     {
       "added_at": "2025-02-21 03:00:32",

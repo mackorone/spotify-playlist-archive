@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 472847,
+  "num_followers": 473322,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "I Wish - Radio Edit",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Poison (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 261866,
       "name": "Poison",
       "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "I Wish - Radio Edit",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
     },
     {
       "added_at": "2024-07-12 19:59:45",

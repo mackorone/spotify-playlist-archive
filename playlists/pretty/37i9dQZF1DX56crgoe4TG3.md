@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,361 likes - 107 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,379 likes - 107 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 106 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 |
 | 107 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 
-Snapshot ID: `Z7gIfAAAAAD6sMIaXEa5KPrc1Hm3J37A`
+Snapshot ID: `Z7gIfAAAAAD2hPcHzGAYry8vrjEVvr3i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,055,716 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,055,410 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 46 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
 | 47 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 |
 | 48 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
-| 49 | [Fly](https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 3:26 |
-| 50 | [Praying For Your Downfall](https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Praying For Your Downfall](https://open.spotify.com/album/0y8QL44jIsj7rAvlCvmgEK) | 3:05 |
-| 51 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 49 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 50 | [Fly](https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 3:26 |
+| 51 | [Praying For Your Downfall](https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Praying For Your Downfall](https://open.spotify.com/album/0y8QL44jIsj7rAvlCvmgEK) | 3:05 |
 | 52 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |
 | 53 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 54 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 62 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 |
 | 63 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 64 | [How It Was It Will Never Be Again](https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [How It Was It Will Never Be Again](https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE) | 2:16 |
-| 65 | [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 |
-| 66 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
-| 67 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 |
+| 65 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 |
+| 66 | [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 |
+| 67 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 68 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 69 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 70 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 96 | [Breathing](https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Breathing](https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV) | 4:07 |
 | 97 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 98 | [The Voyager](https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:30 |
-| 99 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
-| 100 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 |
+| 99 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 |
+| 100 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
 
 Snapshot ID: `aD3QwAAAAAARjl/DghHC3L7Sl6n3s0Xc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,556 likes - 200 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,561 likes - 200 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 37 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 38 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 |
 | 39 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 |
-| 40 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:13 |
-| 41 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 |
+| 40 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 |
+| 41 | [We Are Never Ever Getting Back Together \(Taylor's Version\)](https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:13 |
 | 42 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 |
 | 43 | [right where you left me \- bonus track](https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 4:05 |
 | 44 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 199 | [Beautiful Ghosts \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/2evEoQAhIMaa9PfjTT5skG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 4:21 |
 | 200 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 
-Snapshot ID: `AbznyAAAAABCrkGmeLspdBIOWiDKXuVP`
+Snapshot ID: `AbztaAAAAAC2TfWFzArej8zvxL+GJ7kH`

@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 21638,
+  "num_followers": 21650,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-05-27 15:00:08",
       "album": {
-        "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
-        "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 339870,
-      "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
-      "url": "https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp"
-    },
-    {
-      "added_at": "2025-05-27 15:00:08",
-      "album": {
         "name": "\u544a\u767d",
         "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 249480,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg"
+    },
+    {
+      "added_at": "2025-05-27 15:00:08",
+      "album": {
+        "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
+        "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 339870,
+      "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp"
     },
     {
       "added_at": "2025-05-27 15:00:08",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-05-27 15:00:08",
       "album": {
-        "name": "Mouiiyo",
-        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
+        "name": "\u58f0\u547d - Seimei",
+        "url": "https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA"
       },
       "artists": [
         {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 177959,
-      "name": "Mouiiyo",
-      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
+      "duration_ms": 177266,
+      "name": "\u58f0\u547d - Seimei",
+      "url": "https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

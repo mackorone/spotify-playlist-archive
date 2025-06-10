@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vTpEmKeKvc.md) - [plain]
 
 > Dale duro con los éxitos perreadores virales del momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,811 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,012 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

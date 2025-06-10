@@ -392,6 +392,24 @@
     {
       "album": {
         "name": "Desire",
+        "url": "https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Comerte",
+      "url": "https://open.spotify.com/track/4DYluIPJsLvat5eijJP082"
+    },
+    {
+      "album": {
+        "name": "Desire",
         "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
       },
       "artists": [
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 102592,
       "name": "Party Prendio",
       "url": "https://open.spotify.com/track/4ebWwTC1dGpc6ONcb2PrOb"
@@ -1236,6 +1254,36 @@
       "duration_ms": 102592,
       "name": "Party Prendio",
       "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
+    },
+    {
+      "album": {
+        "name": "Party Prendio (Discoteca)",
+        "url": "https://open.spotify.com/album/4YaxWWEHKpViRmltgrFv6z"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Dj Ivan",
+          "url": "https://open.spotify.com/artist/3sjqEMHMmT86N4Cj29Zl8e"
+        },
+        {
+          "name": "Dj Mc Gregor",
+          "url": "https://open.spotify.com/artist/6U2oJjDvY0Sr61dgh9kSGD"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94666,
+      "name": "Party Prendio - Discoteca",
+      "url": "https://open.spotify.com/track/5NLNoGJ2NLgvjdqPMbv8bY"
     },
     {
       "album": {

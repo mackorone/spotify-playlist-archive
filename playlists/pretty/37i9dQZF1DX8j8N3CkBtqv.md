@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Vismay Patel, Iqlipse Nova and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,233 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,258 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 22 | [Kya Batayein](https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Kya Batayein](https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7) | 3:00 |
 | 23 | [Kaari Kaari](https://open.spotify.com/track/0dpBVrAjfxARkxR0L7vls6) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Kaari Kaari](https://open.spotify.com/album/0nJTuLPIv2lUR4nFer1Y0f) | 1:13 |
 | 24 | [Dheere Dheere](https://open.spotify.com/track/2UqZKzgUmm7StpSPx050t4) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf) | [Bemisaal](https://open.spotify.com/album/3AtuHjZeRoHty99elMAmn2) | 2:48 |
-| 25 | [Paint It Over Me](https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Paint It Over Me](https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe) | 3:21 |
-| 26 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
+| 25 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
+| 26 | [Paint It Over Me](https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Paint It Over Me](https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe) | 3:21 |
 | 27 | [Peeche Mudke](https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Peeche Mudke](https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i) | 3:32 |
 | 28 | [Tera Yaar](https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Tera Yaar](https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr) | 3:45 |
 | 29 | [Channa Ve](https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Nitin Rana](https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c) | [Channa Ve](https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2) | 3:02 |
-| 30 | [Shaam Se](https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Shaam Se](https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G) | 2:50 |
-| 31 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
+| 30 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
+| 31 | [Shaam Se](https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Shaam Se](https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G) | 2:50 |
 | 32 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
 | 33 | [Har Subah](https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Har Subah](https://open.spotify.com/album/2mImRcaAfhmUtNa0RuY46B) | 3:39 |
 | 34 | [Tera Zikr](https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Tera Zikr](https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv) | 4:07 |

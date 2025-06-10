@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,037 songs - 2 day 6 hr 48 min
+1,038 songs - 2 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Capaz](https://open.spotify.com/track/4onciYei2VhqMIdqsE8GrD) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Capaz](https://open.spotify.com/album/7IZrNzumndjo4OhsiY4WhS) | 1:50 | 2025-03-31 |  |
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-01-09 |  |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-08-31 | 2024-10-05 |
+| [Carita Triste](https://open.spotify.com/track/7cncPk3pgG1lNTUIiKxGev) | [La Penúltima](https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx) | [Carita Triste](https://open.spotify.com/album/7zUNsWduGofCUs24bK7Qqv) | 2:05 | 2025-06-09 |  |
 | [Carne y Hueso](https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Carne y Hueso](https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9) | 2:58 | 2022-05-21 | 2022-10-13 |
 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 | 2024-04-02 | 2024-05-12 |
 | [Cascada](https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:12 | 2021-04-26 | 2021-05-03 |
@@ -336,7 +337,7 @@
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-01-08 | 2022-08-15 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-14 | 2024-07-02 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-15 | 2022-04-15 |
-| [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-08 |  |
+| [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-08 | 2025-06-10 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2024-08-16 | 2024-10-08 |
 | [Es Un Secreto](https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Cipote Carnaval 2011](https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l) | 3:12 | 2024-08-21 | 2024-08-23 |
 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 | 2024-08-13 | 2024-10-14 |

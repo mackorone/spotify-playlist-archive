@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 142759,
       "name": "Before",
       "url": "https://open.spotify.com/track/29v3pHTKuYzcCvW1Y6Dgp3"
@@ -6379,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Oxis 7",
+        "url": "https://open.spotify.com/album/2bsFkAMKXaWXPoWiHug752"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170113,
+      "name": "Flounder",
+      "url": "https://open.spotify.com/track/5t9iuSeJBZGTMDGPuB630e"
+    },
+    {
+      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
       },
@@ -8164,7 +8182,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 202931,
       "name": "I Hope You're Not Sleeping as Tightly as You Used to Be",
       "url": "https://open.spotify.com/track/5MIAzuX3MRkFJSf8Od4Dyy"
@@ -8818,7 +8836,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 242610,
       "name": "Into The Woods",
       "url": "https://open.spotify.com/track/7ucNYWVodda3jLa7vaOM77"
@@ -13076,6 +13094,24 @@
       "duration_ms": 101751,
       "name": "Patterns Emerging",
       "url": "https://open.spotify.com/track/5ZyYHZWVUDUwtqofgy2mxf"
+    },
+    {
+      "album": {
+        "name": "PAUSE",
+        "url": "https://open.spotify.com/album/50c1nz74rz07dgXW30TYaY"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318805,
+      "name": "PAUSE",
+      "url": "https://open.spotify.com/track/2KBcbM9t4AhnzuDFWXgxjY"
     },
     {
       "album": {
@@ -19226,6 +19262,24 @@
       "duration_ms": 427428,
       "name": "Violo",
       "url": "https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9"
+    },
+    {
+      "album": {
+        "name": "Visages Visages",
+        "url": "https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359527,
+      "name": "Visages Visages",
+      "url": "https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP"
     },
     {
       "album": {

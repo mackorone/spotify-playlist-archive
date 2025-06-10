@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: Fadhilah Intan, Aina Abdul
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,428 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,439 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Arah Cinta Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Cinta Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
+| 1 | [Arah Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
 | 2 | [Selamat Ulang Tahun Sayang \- Rafikoncept Remix](https://open.spotify.com/track/6yeXeaniyslyMKuf9p4Z6p) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV), [Rafikoncept](https://open.spotify.com/artist/53WlW8jBLi9Bw7BkERqm9b) | [Sila Ambil Perhatian](https://open.spotify.com/album/2z2z8HFxfC3S1C52yvD6Jm) | 4:04 |
 | 3 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 |
 | 4 | [lupakanku](https://open.spotify.com/track/7fJmvjxfNVVv9Kvr2DgPhR) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [lupakanku](https://open.spotify.com/album/2S9K7ZvBc0mP5ACdvef4gI) | 3:32 |
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 18 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 19 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 20 | [Tanpa Cinta](https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tanpa Cinta](https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz) | 4:15 |
-| 21 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
-| 22 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
+| 21 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
+| 22 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
 | 23 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 | 24 | [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 |
 | 25 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
-| 26 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 |
-| 27 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
+| 26 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
+| 27 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 |
 | 28 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 |
 | 29 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 |
 | 30 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |

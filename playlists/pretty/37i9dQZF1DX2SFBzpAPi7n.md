@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Rose\(더 로즈\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,615 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,588 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 |
-| 2 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 |
-| 3 | [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 |
-| 4 | [wing](https://open.spotify.com/track/0p4OOOcnvqlAeg4ZC1hpKG) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [wing](https://open.spotify.com/album/6spb6NqhJ6knea1WA151WV) | 2:53 |
+| 2 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 |
+| 3 | [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 |
+| 4 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 |
 | 5 | [Bonvoyage](https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY), [1of1](https://open.spotify.com/artist/1sGk6wUBzohfkATUg1wDIt) | [Lost in Starlight \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6q4sOzWDO7LuVIm3UkraRn) | 4:55 |
-| 6 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
-| 7 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 |
+| 6 | [Dear Joy](https://open.spotify.com/track/1HYPRFbjqzhdlZCXkMuoC5) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dear Nobody](https://open.spotify.com/album/14CUSx8Br1OuPQmsXNnyd6) | 3:54 |
+| 7 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
 | 8 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
 | 9 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
-| 10 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
+| 10 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 |
 | 11 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
 | 12 | [Not But Disco](https://open.spotify.com/track/0zYh96PnOBI8zFCHedpSzc) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Not But Disco](https://open.spotify.com/album/0maHyVb700DeV5b76MdpeG) | 3:44 |
 | 13 | [Destiny \(WOOZI Solo\)](https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 4:21 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 32 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 33 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 34 | [RED](https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA) | 2:56 |
-| 35 | [Beautiful Life](https://open.spotify.com/track/14nP0U50fCX3F3PjSgE4lb) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/0h4U9eKaISbwP93lglW6s6) | 4:25 |
-| 36 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
+| 35 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
+| 36 | [Beautiful Life](https://open.spotify.com/track/14nP0U50fCX3F3PjSgE4lb) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/0h4U9eKaISbwP93lglW6s6) | 4:25 |
 | 37 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 |
 | 38 | [Coming Of Age Story](https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Youth](https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO) | 4:35 |
 | 39 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
 | 50 | [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 |
 
-Snapshot ID: `aEY1GwAAAAAWJ01AxMoV+kx5roOSPYmg`
+Snapshot ID: `aEeYpwAAAAALLO7T5LEcViLZ28A41g0B`

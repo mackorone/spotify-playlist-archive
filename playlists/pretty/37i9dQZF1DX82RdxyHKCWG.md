@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > aziahdifksahiqhk / foto: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,441 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,380 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 56 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 |
 | 57 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 58 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
-| 59 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 |
-| 60 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 |
+| 59 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 |
+| 60 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 |
 | 61 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 |
 | 62 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 |
 | 63 | [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,401,667 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,401,414 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 70 | [Caretaker \(feat\. SZA\)](https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Gahdamn!](https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2) | 2:51 |
 | 71 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 |
 | 72 | [Peak \(Fed Up\)](https://open.spotify.com/track/5CHmwR7t8clAK5Ag7uA5pI) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/1sC6WmqaHb3STWCWb9v5zQ) | 3:08 |
-| 73 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 |
+| 73 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 74 | [Water](https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:02 |
-| 75 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
+| 75 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 |
 | 76 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 |
 | 77 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 78 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 |

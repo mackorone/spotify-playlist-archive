@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,143 likes - 189 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,175 likes - 189 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 188 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 |
 | 189 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 |
 
-Snapshot ID: `aCxzHQAAAAAo/KdMj5X/DsyulU4gu5rF`
+Snapshot ID: `aCxzHQAAAABqsFagR0ItAdIPXM/MD0K4`

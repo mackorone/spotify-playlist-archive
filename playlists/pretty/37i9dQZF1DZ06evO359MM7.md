@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,382 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,423 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO359MM7.md) - [plain]
 | 49 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 |
 | 50 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 |
 
-Snapshot ID: `aEOBAAAAAACgZYGYLjua/+aShbBI3Clp`
+Snapshot ID: `aETSgAAAAAASSU+dFmXbkO8RibqaECWU`

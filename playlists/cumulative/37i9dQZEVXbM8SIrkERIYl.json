@@ -19417,6 +19417,24 @@
     },
     {
       "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -23237,6 +23255,24 @@
     },
     {
       "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -25206,7 +25242,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -31614,7 +31650,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"

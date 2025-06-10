@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,451 likes - 42 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,511 likes - 42 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 27 | [Winter Winds](https://open.spotify.com/track/6W8e9jz4UIcqGYokpn0Afn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 3:39 |
 | 28 | [Beloved](https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 4:25 |
 | 29 | [Lover of the Light](https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 5:14 |
-| 30 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 |
+| 30 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 |
 | 31 | [Timshel](https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 2:53 |
-| 32 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 |
+| 32 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 |
 | 33 | [Broken Crown](https://open.spotify.com/track/3Yf3ptIrpI9ZcWgyBoMbSR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 4:16 |
 | 34 | [Forever](https://open.spotify.com/track/5VemD3t5rwdj4zZlpiX8xh) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 4:36 |
 | 35 | [Friend of the Devil](https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:31 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 41 | [Blind Leading The Blind](https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4) | 3:44 |
 | 42 | [The Brightest Lights](https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [LoveBlood](https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj) | 3:36 |
 
-Snapshot ID: `aEOBAAAAAAB8fbmpSClZpSAvmD94CW0l`
+Snapshot ID: `aETSgAAAAAA6MKFixSeqgK3q/V5PSkvO`

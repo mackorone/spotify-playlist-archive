@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,333 likes - 82 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,514 likes - 82 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 81 | [417 Hz Timeless Tranquility](https://open.spotify.com/track/5RvtcQOmt23MJJbOzaB3NC) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [417 Hz Timeless Tranquility](https://open.spotify.com/album/1uHC3ucNzK3TJ8wPDgChH4) | 3:16 |
 | 82 | [Floating Through Solfeggio 417 Hz](https://open.spotify.com/track/4pv73oPafNITQdxyAFPErd) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:01 |
 
-Snapshot ID: `aBoOpgAAAAA5K6yCp0cE0oXjLiyPaRUs`
+Snapshot ID: `AAAAAKCG4/TqfkcHyR/C2ir+ahQASO7P`

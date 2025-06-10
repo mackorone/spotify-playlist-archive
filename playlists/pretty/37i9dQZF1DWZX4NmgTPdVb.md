@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,941 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,051 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 26 | [I Will Survive](https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Love Tracks](https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX) | 4:56 |
 | 27 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
 | 28 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
-| 29 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
-| 30 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
+| 29 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
+| 30 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 31 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
 | 32 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
 | 33 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 50 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 51 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 52 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
-| 53 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
-| 54 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
+| 53 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
+| 54 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
 | 55 | [Surrender](https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 4:13 |
 | 56 | [Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 8:15 |
 | 57 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 66 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
 | 67 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 |
 | 68 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
-| 69 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
-| 70 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
+| 69 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
+| 70 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
 | 71 | [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 |
 | 72 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 73 | [That's the Way \(I Like It\) \- 2004 Remaster](https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR) | 3:05 |

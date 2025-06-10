@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 30001,
+  "num_followers": 30005,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACLfy3cBi2u7CHtevKpAO3X",
+  "snapshot_id": "aETSgAAAAADeKu0sDo4EXtCWZ54f4mwb",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300982,
-      "name": "Me Matar\u00e1 El Sentimiento",
-      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
+      "duration_ms": 205493,
+      "name": "Despues de Ti",
+      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Despues de Ti",
-      "url": "https://open.spotify.com/track/6csmf9CJWaQSRLIl42zJHG"
+      "duration_ms": 300982,
+      "name": "Me Matar\u00e1 El Sentimiento",
+      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297280,
-      "name": "Suave Brisa",
-      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 257653,
       "name": "No Le Temas Al Amor",
       "url": "https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297280,
+      "name": "Suave Brisa",
+      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Caamp
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,090 likes - 150 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,091 likes - 150 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Lost Again](https://open.spotify.com/track/736kzWTAngrJGQVZicIMCx) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Losin'](https://open.spotify.com/album/5sH5XoVKY8ZMJgVhuc1gw0) | 5:13 |
 | 150 | [Out Of Tune](https://open.spotify.com/track/5oHWEbEizP5mMqGDe4tYLi) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Hope, Alaska](https://open.spotify.com/album/1rStwEdMytCCwiE35ctsBK) | 3:18 |
 
-Snapshot ID: `aEJn2QAAAAA/csft80C+PvwFcPs1yWqe`
+Snapshot ID: `AAAAANpMf+bWw9Lyz5TGtcs142MKxNGq`

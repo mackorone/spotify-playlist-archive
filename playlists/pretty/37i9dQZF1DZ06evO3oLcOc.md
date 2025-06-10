@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,642 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,649 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 26 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
 | 27 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
 | 28 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 |
-| 29 | [Wait For A Minute](https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wait For A Minute](https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69) | 3:27 |
-| 30 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
+| 29 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
+| 30 | [Wait For A Minute](https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wait For A Minute](https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69) | 3:27 |
 | 31 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 | 32 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
 | 33 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
 | 50 | [Bops Goin Brazy](https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S) | 2:08 |
 
-Snapshot ID: `aEOBAAAAAAAu6qwTJfnJPsjcJ+sHFEWO`
+Snapshot ID: `aETSgAAAAABc0CGqA2sV4UPOExauSfGH`

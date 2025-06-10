@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 94000,
+  "num_followers": 94031,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACA5f8zzn0+rek/pvejUwJz",
+  "snapshot_id": "aETSgAAAAABGNfj4omzIEZMTw9EkJ7Iv",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pheelz Good",
         "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 176470,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 203505,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIA",
         "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 214205,
       "name": "FIA",
       "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doe",
-        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 242886,
-      "name": "Doe",
-      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doe",
+        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 242886,
+      "name": "Doe",
+      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 217069,
-      "name": "PrAy",
-      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     },
     {
       "added_at": null,
@@ -959,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maserati (Remix)",
-        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
       },
       "artists": [
         {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 208420,
-      "name": "Maserati (Remix)",
-      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
+      "duration_ms": 217069,
+      "name": "PrAy",
+      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     },
     {
       "added_at": null,
@@ -991,6 +971,26 @@
       "duration_ms": 202222,
       "name": "FEM",
       "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maserati (Remix)",
+        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 208420,
+      "name": "Maserati (Remix)",
+      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
     }
   ],
   "unique_name": "This Is Davido",

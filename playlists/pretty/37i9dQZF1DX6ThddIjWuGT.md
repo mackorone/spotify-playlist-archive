@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 
 > Timeless Latin pop hits through the decades! Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,946,083 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,946,102 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 6 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
 | 7 | [Todo Cambió](https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:13 |
 | 8 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
-| 9 | [Que Lloro](https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 4:00 |
-| 10 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
+| 9 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
+| 10 | [Que Lloro](https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 4:00 |
 | 11 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 12 | [Besos En Guerra](https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:51 |
 | 13 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 69 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
 | 70 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
 | 71 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
-| 72 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
-| 73 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
+| 72 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
+| 73 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 74 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 75 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 76 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ThddIjWuGT.md) - [plain]
 | 86 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |
 | 87 | [Te Perdiste Mi Amor \(feat\. Prince Royce\)](https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 3:40 |
 | 88 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
-| 89 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 |
-| 90 | [Mariposa Traicionera](https://open.spotify.com/track/2USyvcBpPjhW0rgiD2R8Bp) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 4:24 |
+| 89 | [Mariposa Traicionera](https://open.spotify.com/track/2USyvcBpPjhW0rgiD2R8Bp) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 4:24 |
+| 90 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 |
 | 91 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 | 92 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
 | 93 | [El Noa Noa](https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:13 |

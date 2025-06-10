@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,371 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,458 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 12 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 |
 | 13 | [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 |
 | 14 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
-| 15 | [Panic Station](https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:04 |
-| 16 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 |
+| 15 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 |
+| 16 | [Panic Station](https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:04 |
 | 17 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
 | 18 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
-| 19 | [Supremacy](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:55 |
-| 20 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
+| 19 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
+| 20 | [Supremacy](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:55 |
 | 21 | [New Born](https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 6:03 |
 | 22 | [Butterflies & Hurricanes](https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 5:02 |
 | 23 | [Muscle Museum](https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 4:22 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 38 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 |
 | 39 | [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 |
 | 40 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
-| 41 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
-| 42 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
+| 41 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
+| 42 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
 | 43 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 44 | [Exo\-Politics](https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:53 |
-| 45 | [MK Ultra](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 4:06 |
-| 46 | [Animals](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:22 |
+| 45 | [Animals](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:22 |
+| 46 | [MK Ultra](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 4:06 |
 | 47 | [Kill Or Be Killed](https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:59 |
 | 48 | [Something Human](https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 | 49 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 | 50 | [I Belong to You \(+Mon Coeur S'Ouvre a Ta Voix\)](https://open.spotify.com/track/114rzL6VEy9bb3amPcY3tw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:38 |
 
-Snapshot ID: `aEOBAAAAAABanrtGznaRCn8U/vb5ZzQa`
+Snapshot ID: `aETSgAAAAAD9uuYFKjfdeLTz85hFY6Zf`

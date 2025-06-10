@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,221 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,250 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 75 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 76 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 77 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
-| 78 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
-| 79 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
+| 78 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
+| 79 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 80 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 81 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 82 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 84 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 85 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
 | 86 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
-| 87 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
-| 88 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
+| 87 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
+| 88 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 89 | [A Little Older](https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [A Little Older](https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR) | 3:02 |
 | 90 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
 | 91 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 103 | [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 |
 | 104 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 |
 | 105 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 |
-| 106 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
-| 107 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 |
+| 106 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 |
+| 107 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
 | 108 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 109 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |
 | 110 | [Blue Moon \(with paris jackson\)](https://open.spotify.com/track/4u49em2HjO33qX3CkGCzNZ) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Blue Moon \(with paris jackson\)](https://open.spotify.com/album/1kNrj1GRY8WziMDBaruSnU) | 2:29 |

@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-233 songs - 12 hr 34 min
+234 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Carolina Blue](https://open.spotify.com/track/4Ok1t0oV1cFAF86LCeaV1s) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Carolina Blue](https://open.spotify.com/album/6zboHj31g4ATQXXcv3xYqA) | 3:33 | 2023-12-08 | 2024-03-16 |
 | [Chase Her](https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:18 | 2023-12-08 | 2024-03-23 |
 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/6mlrPThfssAGfuSMdKyckQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/album/5nluQhMl90VipZ1GV7NQcY) | 3:04 | 2023-12-08 | 2024-11-02 |
+| [Comin' In Cold](https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Comin' In Cold](https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK) | 3:00 | 2025-06-09 |  |
 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 | 2024-01-12 | 2024-07-23 |
 | [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 | 2024-07-22 | 2024-11-02 |
 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 | 2024-02-16 | 2024-11-02 |
@@ -96,7 +97,7 @@
 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2024-12-12 |  |
 | [Holding On](https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holding On](https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0) | 3:50 | 2024-11-02 |  |
 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 | 2024-02-23 | 2024-07-03 |
-| [House Again](https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY) | 3:22 | 2025-05-05 |  |
+| [House Again](https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY) | 3:22 | 2025-05-05 | 2025-06-10 |
 | [House Again \(with Miranda Lambert\)](https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [House Again \(with Miranda Lambert\) / The House That Built Me](https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs) | 3:23 | 2025-05-24 |  |
 | [How Far Will We Take It?](https://open.spotify.com/track/3FFQvAIq4grvS6nb6IwY3h) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [How Far Will We Take It?](https://open.spotify.com/album/0FkHwJW4XbyvYKzD1GVh3Y) | 2:52 | 2024-06-05 | 2024-11-02 |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-12-08 | 2024-07-23 |

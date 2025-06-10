@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 
 > The BRAT summer to Lorde summer pipeline is upon us
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,134,612 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,134,598 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 6 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 |
 | 7 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
 | 8 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
-| 9 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
-| 10 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
+| 9 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
+| 10 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
 | 11 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 12 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 13 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 27 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
 | 28 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 29 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
-| 30 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
-| 31 | [We R Who We R](https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:24 |
+| 30 | [We R Who We R](https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:24 |
+| 31 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 32 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 33 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
 | 34 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 67 | [Beautiful Liar](https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2) | 3:19 |
 | 68 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
 | 69 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
-| 70 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 71 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 |
+| 70 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 |
+| 71 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 72 | [Anaconda](https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(International Deluxe Explicit\)](https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96) | 4:20 |
 | 73 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 74 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |

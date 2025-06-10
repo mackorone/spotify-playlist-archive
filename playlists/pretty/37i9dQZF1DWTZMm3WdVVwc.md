@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,053 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,051 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,21 +60,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 50 | [メルト](https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [メルト](https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P) | 2:43 |
 | 51 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 |
 | 52 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 |
-| 53 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
-| 54 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 |
+| 53 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 |
+| 54 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
 | 55 | [Heaven](https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Heaven](https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4) | 2:35 |
 | 56 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 |
-| 57 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
-| 58 | [君の目、声](https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君の目、声](https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD) | 3:17 |
+| 57 | [君の目、声](https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君の目、声](https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD) | 3:17 |
+| 58 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 59 | [ニットの帽子](https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7) | 4:24 |
 | 60 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 |
 | 61 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 |
-| 62 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
-| 63 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
-| 64 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
-| 65 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
-| 66 | [Liebe vor der Tür](https://open.spotify.com/track/7nDAkQ4VSflNta0tR9Rykq) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Liebe vor der Tür](https://open.spotify.com/album/2YxiPjSaIAKzJXFU9Tq6y3) | 3:00 |
-| 67 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 |
+| 62 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
+| 63 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
+| 64 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
+| 65 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 66 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 |
+| 67 | [Liebe vor der Tür](https://open.spotify.com/track/7nDAkQ4VSflNta0tR9Rykq) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Liebe vor der Tür](https://open.spotify.com/album/2YxiPjSaIAKzJXFU9Tq6y3) | 3:00 |
 | 68 | [O Holy Night](https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [O Holy Night](https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9) | 3:25 |
 | 69 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 |
 | 70 | [たんぽぽ](https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 4:13 |

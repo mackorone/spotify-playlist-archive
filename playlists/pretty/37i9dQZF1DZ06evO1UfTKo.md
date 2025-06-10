@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,418 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,463 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 16 | [Pedro Y Pablo](https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 3:13 |
 | 17 | [Pacas De A Kilo](https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 3:34 |
 | 18 | [El Ultimo Adiós \- Varios Artistas Version](https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Jorge Hernández](https://open.spotify.com/artist/5O2KyWcHYBmjmobgNLumcb), [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [El Ultimo Adiós](https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo) | 3:57 |
-| 19 | [El Ejemplo](https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 2:55 |
-| 20 | [El Avión De La Muerte](https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 4:02 |
+| 19 | [El Avión De La Muerte](https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 4:02 |
+| 20 | [El Ejemplo](https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 2:55 |
 | 21 | [El Niño Y La Boda](https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:03 |
 | 22 | [Señor Locutor](https://open.spotify.com/track/6tTdUPxER1wdW1lAVcuBc4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Historias Que Contar](https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP) | 3:08 |
 | 23 | [El Maestro](https://open.spotify.com/track/1Vtiq4XS36Y0qvFp9HRyin) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [Fallaste Corazón](https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:44 |
 | 50 | [La Mesera](https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:41 |
 
-Snapshot ID: `aEOBAAAAAAA7H3/i5KVtGGcGJdirrb6J`
+Snapshot ID: `aETSgAAAAABne+gS8D+hXcvnIu7gvYRY`

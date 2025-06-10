@@ -4,7 +4,7 @@
 
 > Music that just \*hits different\* Cover: aleksiah
 
-512 songs - 1 day 3 hr 50 min
+513 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-17 | 2025-01-30 |
 | [Hollywood](https://open.spotify.com/track/5ixsARSHL26SXP89piNe1r) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Adaptations](https://open.spotify.com/album/1lkI9vJnzW5nAT4HxgOmBp) | 3:15 | 2024-08-02 | 2024-09-14 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-22 | 2024-08-15 |
-| [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-13 |  |
+| [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-13 | 2025-06-10 |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-01-19 | 2025-01-12 |
 | [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 | 2025-04-17 | 2025-05-19 |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-05-15 | 2023-07-18 |
@@ -360,6 +360,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-03-16 | 2024-07-19 |
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-05-29 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-19 | 2024-06-19 |
+| [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-06-05 |  |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 | 2023-08-26 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-04-25 |
 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 | 2025-05-08 | 2025-05-23 |

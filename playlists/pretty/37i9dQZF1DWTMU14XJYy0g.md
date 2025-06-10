@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,972 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,963 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |
 | 100 | [Me Vuelvo Cada Día Más Loca \- Spotify Singles](https://open.spotify.com/track/1046sFKLPH5B9HefwK09FF) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Spotify Singles](https://open.spotify.com/album/2QXNLeJ8qqihAdeMSELu4W) | 2:40 |
 
-Snapshot ID: `AAAAAGFU1wD+K6wtdaFs0FoCS4pkKWf4`
+Snapshot ID: `aDnV1gAAAAD/OUORExABhSfAl4ZLU0wy`

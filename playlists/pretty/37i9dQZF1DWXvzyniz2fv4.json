@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158701,
+  "num_followers": 158693,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,26 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
+        "name": "Jam #2",
+        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        }
+      ],
+      "duration_ms": 214509,
+      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
+      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
-        "name": "Jam #2",
-        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
-      },
-      "artists": [
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        }
-      ],
-      "duration_ms": 214509,
-      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
-      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
     },
     {
       "added_at": "2025-06-06 21:28:50",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-06-06 21:28:50",
       "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
-      },
-      "artists": [
-        {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
-    },
-    {
-      "added_at": "2025-06-06 21:28:50",
-      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 169472,
       "name": "Fica",
       "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
+    },
+    {
+      "added_at": "2025-06-06 21:28:50",
+      "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2025-06-06 21:28:50",

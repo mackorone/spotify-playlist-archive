@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 
 > \~ have a lovely time \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,301 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,341 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 39 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 40 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 41 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 |
-| 42 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
-| 43 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
+| 42 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
+| 43 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 44 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
 | 45 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 46 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 88 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke..\. \(Expanded Edition\)](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 89 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 90 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
-| 91 | [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 |
-| 92 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
+| 91 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
+| 92 | [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 |
 | 93 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
 | 94 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 95 | [Hallucinogenics \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4A8pBxx0of2Y8r56dT0atf) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hallucinogenics \(feat\. Lana Del Rey\)](https://open.spotify.com/album/41tUnMTVSyImoq1Dyr5UhX) | 3:06 |

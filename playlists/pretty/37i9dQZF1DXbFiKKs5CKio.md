@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,449 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,498 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 8 | [Não para Não](https://open.spotify.com/track/1NRL7Gz31YsIufsa3zhYed) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não para Não](https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS) | 2:34 |
 | 9 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
 | 10 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
-| 11 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 |
-| 12 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
+| 11 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
+| 12 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 |
 | 13 | [De Boa](https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:32 |
 | 14 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
 | 15 | [Paisagem](https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Paisagem](https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu) | 3:32 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 34 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
 | 35 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
 | 36 | [Inspirar](https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Inspirar](https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g) | 4:22 |
-| 37 | [Entrelace](https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Theodoro Nagô: We4Sessions](https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax) | 3:40 |
+| 37 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
 | 38 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
-| 39 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
+| 39 | [Entrelace](https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Theodoro Nagô: We4Sessions](https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax) | 3:40 |
 | 40 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
-| 41 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
-| 42 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 |
+| 41 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 |
+| 42 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 | 43 | [Minha Casa](https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml) | [Malu Magri](https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7) | [Morrendo de Prazer](https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g) | 4:19 |
 | 44 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
 | 45 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |

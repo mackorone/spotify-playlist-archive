@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Sabrina Carpenter, Red Sebastian, Berre, DYSTINCT and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,010 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,006 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

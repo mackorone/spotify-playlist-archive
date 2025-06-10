@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,261 likes - 83 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,392 likes - 83 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 82 | [Dil Ruba](https://open.spotify.com/track/1VVCIQHFamc5Q7uDsqDkfN) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Dil Ruba](https://open.spotify.com/album/0KD9Ddk52NSmYdzW8QcgFY) | 4:20 |
 | 83 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
 
-Snapshot ID: `aDQncQAAAAC93UqA7dUMW04BDH2dV/kZ`
+Snapshot ID: `aEahFwAAAACueRc7K8vi8qYDiGI1W0Ws`

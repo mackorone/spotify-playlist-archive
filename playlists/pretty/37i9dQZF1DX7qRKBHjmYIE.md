@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,885 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,897 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 44 | [Amor ≠ Cristal](https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU) | [Flavio Rodriguez](https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Amor ≠ Cristal](https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL) | 2:52 |
 | 45 | [\(sola\)](https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(sola\)](https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4) | 2:28 |
 | 46 | [GUAPA](https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [GUAPA](https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH) | 2:52 |
-| 47 | [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 |
-| 48 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
+| 47 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 |
+| 48 | [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 |
 | 49 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 50 | [Te Fuiste](https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Te Fuiste](https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq) | 3:09 |
 | 51 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 53 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 54 | [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 |
 | 55 | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 |
-| 56 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
-| 57 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
+| 56 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
+| 57 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
 | 58 | [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 |
 | 59 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
 | 60 | [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 |

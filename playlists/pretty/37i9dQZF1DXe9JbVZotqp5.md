@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 
 > Easy rock for that peaceful, easy feeling\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,090 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,180 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 11 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 12 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 13 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
-| 14 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
-| 15 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
-| 16 | [Don't Cry \(Original\)](https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:43 |
+| 14 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 15 | [Don't Cry \(Original\)](https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:43 |
+| 16 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
 | 17 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 18 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
 | 19 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 23 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
 | 24 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
 | 25 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
-| 26 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
-| 27 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 28 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 |
+| 26 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 |
+| 27 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
+| 28 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
 | 29 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 30 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
 | 31 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 64 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
 | 65 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
 | 66 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |
-| 67 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
-| 68 | [I Don't Want to Talk About It \- 2008 Remaster](https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:48 |
+| 67 | [I Don't Want to Talk About It \- 2008 Remaster](https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:48 |
+| 68 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
 | 69 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
 | 70 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
 | 71 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |

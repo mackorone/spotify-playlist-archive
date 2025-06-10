@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,138 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,195 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 28 | [1916](https://open.spotify.com/track/29y2j3s6i528lBTSMP0wbE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Stories From The Western Front](https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty) | 3:36 |
 | 29 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
 | 30 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
-| 31 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
-| 32 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
-| 33 | [What Else Is There?](https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Zora Cock](https://open.spotify.com/artist/1hEQmp82fzvdJCCwlsdBIe) | [What Else Is There?](https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0) | 3:47 |
-| 34 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
+| 31 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
+| 32 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
+| 33 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
+| 34 | [What Else Is There?](https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Zora Cock](https://open.spotify.com/artist/1hEQmp82fzvdJCCwlsdBIe) | [What Else Is There?](https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0) | 3:47 |
 | 35 | [Warriors Of The Sea](https://open.spotify.com/track/4v43w0RfWBs2dPUAHaiTf7) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Warriors Of The Sea](https://open.spotify.com/album/4cxENbFoE4iuayIPsz8MSo) | 4:20 |
 | 36 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
-| 37 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 |
+| 37 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 |
 | 38 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 |
 | 39 | [Tempest Of Blades](https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 3:32 |
 | 40 | [One With The Shadows](https://open.spotify.com/track/1vXlaHm9VFsxbtGKVSsqDl) | [Sigyn](https://open.spotify.com/artist/5wgXu5ifwmk7X6uJpfTSLN) | [One With The Shadows](https://open.spotify.com/album/2PcZ006a1uxenbFeuGEyPU) | 4:26 |
-| 41 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 |
+| 41 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 |
 | 42 | [No Place to Stay](https://open.spotify.com/track/0rKm5P5J8O7RT7AkpRhnIQ) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45) | [No Place to Stay](https://open.spotify.com/album/5B0DH3cn5JYdQiiJCjajeU) | 3:47 |
 | 43 | [Frozen](https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Federica Lanna](https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx) | [Frozen](https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz) | 5:00 |
 | 44 | [Rise Again](https://open.spotify.com/track/5xro8nNwHvY070Dk8OGIG2) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4) | [Rise Again](https://open.spotify.com/album/1ulDYQdIKg3n94VO85Z2ZZ) | 5:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 95 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 |
 | 96 | [Light up the Sky](https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Light up the Sky](https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM) | 3:26 |
 | 97 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
-| 98 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
-| 99 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
+| 98 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
+| 99 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
 | 100 | [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 |
 
 Snapshot ID: `aEJn0gAAAAA+9TwICUz0aRvnvziTgKJB`

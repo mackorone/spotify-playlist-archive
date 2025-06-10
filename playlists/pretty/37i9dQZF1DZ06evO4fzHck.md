@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,994 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,047 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 18 | [And Nothing Is Forever](https://open.spotify.com/track/4NFptVazMTsSJTYvKENHJl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:53 |
 | 19 | [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
 | 20 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
-| 21 | [Alone \- Four Tet Remix](https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Alone \(Four Tet Remix\)](https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp) | 6:16 |
+| 21 | [Drone:Nodrone \- Daniel Avery Remix](https://open.spotify.com/track/53VwOqwtHFyfdVVnV4qxi5) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone:Nodrone \(Daniel Avery Remix\)](https://open.spotify.com/album/5v2r3zCZWFQSP9w6IHwcMc) | 5:20 |
 | 22 | [High](https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:32 |
-| 23 | [Drone:Nodrone \- Daniel Avery Remix](https://open.spotify.com/track/53VwOqwtHFyfdVVnV4qxi5) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone:Nodrone \(Daniel Avery Remix\)](https://open.spotify.com/album/5v2r3zCZWFQSP9w6IHwcMc) | 5:20 |
+| 23 | [Alone \- Four Tet Remix](https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Alone \(Four Tet Remix\)](https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp) | 6:16 |
 | 24 | [Let's Go To Bed](https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:34 |
 | 25 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
 | 26 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 |
-| 27 | [I Can Never Say Goodbye \- Paul Oakenfold "Cinematic" Remix](https://open.spotify.com/track/2FM7hevWnqa4UDTaMrMyY9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Simon Finley](https://open.spotify.com/artist/3ZEjU2D2w0JnANHfgzxLa7) | [I Can Never Say Goodbye \(Paul Oakenfold ''Cinematic'' Remix\)](https://open.spotify.com/album/2r3uNooMXvwx8rUGSMmtyG) | 4:15 |
-| 28 | [Mint Car](https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 3:32 |
+| 27 | [Mint Car](https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 3:32 |
+| 28 | [I Can Never Say Goodbye \- Paul Oakenfold "Cinematic" Remix](https://open.spotify.com/track/2FM7hevWnqa4UDTaMrMyY9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Simon Finley](https://open.spotify.com/artist/3ZEjU2D2w0JnANHfgzxLa7) | [I Can Never Say Goodbye \(Paul Oakenfold ''Cinematic'' Remix\)](https://open.spotify.com/album/2r3uNooMXvwx8rUGSMmtyG) | 4:15 |
 | 29 | [Push](https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:31 |
 | 30 | [From The Edge Of The Deep Green Sea](https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 7:40 |
 | 31 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Three Imaginary Boys](https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:15 |
 | 50 | [Cold \- 2005 Remaster](https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 4:26 |
 
-Snapshot ID: `aEOBAAAAAAC0kHJMJLIat3/PApqleDTQ`
+Snapshot ID: `aETSgAAAAACqW3u0tHFOzTz/8vIzVUFO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,520 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,555 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 10 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 |
 | 11 | [Back To Oz](https://open.spotify.com/track/6s0F09N7jp4wSqN8vVgMQR) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 4:12 |
 | 12 | [Casimir Pulaski Day](https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:53 |
-| 13 | [Meditation IV](https://open.spotify.com/track/3JIoNUmFyXGLyLB4RUfhIF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Convocations](https://open.spotify.com/album/1VSVlgMLuUyNGf6WFRwC12) | 2:10 |
+| 13 | [Wallowa Lake Monster \- Version 2](https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 6:40 |
 | 14 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
-| 15 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 |
+| 15 | [Meditation IV](https://open.spotify.com/track/3JIoNUmFyXGLyLB4RUfhIF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Convocations](https://open.spotify.com/album/1VSVlgMLuUyNGf6WFRwC12) | 2:10 |
 | 16 | [Concerning the UFO sighting near Highland, Illinois](https://open.spotify.com/track/2BjRhZ2IJmsO1GRquNldsP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 2:08 |
-| 17 | [Wallowa Lake Monster \- Version 2](https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell \(10th Anniversary Edition\)](https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3) | 6:40 |
+| 17 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 |
 | 18 | [All of Me Wants All of You](https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:41 |
 | 19 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
 | 20 | [The Predatory Wasp of the Palisades Is Out to Get Us!](https://open.spotify.com/track/4wFBbeR03fah9nwy0isyO8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Shade I'll Never See](https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Anything At All](https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya) | 3:12 |
 | 50 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
 
-Snapshot ID: `aEOBAAAAAACGOPnaVFKYGgFz7LOJJC17`
+Snapshot ID: `aETSgAAAAAB7GHBVjmF0Jz5XsdViLSv8`

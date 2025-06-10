@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,845 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,864 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 34 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
 | 35 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 |
 | 36 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
-| 37 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
-| 38 | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/album/1WPY8kRB01objem7KdBwya) | 4:27 |
+| 37 | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/album/1WPY8kRB01objem7KdBwya) | 4:27 |
+| 38 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
 | 39 | [God or The Devil?](https://open.spotify.com/track/3DhViJjtdwXn0A7LTeBoLK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 1:20 |
 | 40 | [All I Need](https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:25 |
 | 41 | [Same Shit \(feat\. dj gummy bear\)](https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [Same Shit \(feat\. dj gummy bear\)](https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Show the Signs.](https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Show the Signs.](https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl) | 3:01 |
 | 50 | [Heaven](https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 4:36 |
 
-Snapshot ID: `aEOBAAAAAAAVj7Ts7b7pTuggPuGuwptq`
+Snapshot ID: `aETSgAAAAACWheq3SheVTgtFxA07+PRc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,273 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,278 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 15 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 16 | [We're All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 2:59 |
 | 17 | [Nazareth](https://open.spotify.com/track/3Jbv6IxhzJK3jthNIbKheI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nazareth](https://open.spotify.com/album/1Ny7Q4HVVdo4fOA99DX4mM) | 3:06 |
-| 18 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
-| 19 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 18 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 19 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
 | 20 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 | 21 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
 | 22 | [In Bloom](https://open.spotify.com/track/7A4S5hX98oy3nRSlt8SMT7) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/6gc1IqKVv87XukZlYsJxxo) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [Wild Enough](https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:46 |
 | 50 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
 
-Snapshot ID: `aEOBAAAAAAA1mfoGhQD8b4BDoH3/8DQt`
+Snapshot ID: `aETSgAAAAADcEbxK5vXbUrL4yI/K+ZCJ`

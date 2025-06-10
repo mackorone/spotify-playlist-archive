@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,479 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,480 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 10 | [Rose's Thorn](https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 4:24 |
 | 11 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
 | 12 | [Smoke & Mirrors](https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o) | 3:38 |
-| 13 | [For You](https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [For You](https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp) | 3:33 |
-| 14 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 |
+| 13 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 |
+| 14 | [For You](https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [For You](https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp) | 3:33 |
 | 15 | [Phases \- bad tuner Remix](https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:25 |
 | 16 | [Get Me Some](https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:32 |
 | 17 | [Lucky U](https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 42 | [Sweet Day](https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:36 |
 | 43 | [Love That Never \- IMANU Remix](https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:34 |
 | 44 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 |
-| 45 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:38 |
+| 45 | [Bibimbap](https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:22 |
 | 46 | [Dream Chorus](https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Dream Chorus](https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ) | 2:19 |
 | 47 | [NO WAY](https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [NO WAY](https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x) | 3:24 |
 | 48 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
-| 49 | [Bibimbap](https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:22 |
+| 49 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:38 |
 | 50 | [Surrender](https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 3:40 |
 
-Snapshot ID: `aEOBAAAAAACIOaSIHiIBndvZtLSI+ljr`
+Snapshot ID: `aETSgAAAAADU+u+WDvkuFn0u1A21W+7N`

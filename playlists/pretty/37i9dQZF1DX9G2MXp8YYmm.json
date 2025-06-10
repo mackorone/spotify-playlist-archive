@@ -1,6 +1,6 @@
 {
   "description": "Pop'un sevilen isimleri. Kapak: Bet\u00fcl Demir",
-  "num_followers": 154367,
+  "num_followers": 154438,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
+        "name": "Bi Gece Gidebilirim",
+        "url": "https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd"
+      },
+      "artists": [
+        {
+          "name": "Mert Demir",
+          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+        }
+      ],
+      "duration_ms": 186336,
+      "name": "Bi Gece Gidebilirim",
+      "url": "https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
         "name": "Bekleyenim",
         "url": "https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Bi Gece Gidebilirim",
-        "url": "https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd"
+        "name": "Bu Yaz",
+        "url": "https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N"
       },
       "artists": [
         {
-          "name": "Mert Demir",
-          "url": "https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm"
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
         }
       ],
-      "duration_ms": 186336,
-      "name": "Bi Gece Gidebilirim",
-      "url": "https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8"
+      "duration_ms": 182253,
+      "name": "Bu Yaz",
+      "url": "https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -419,22 +435,6 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Bu Yaz",
-        "url": "https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N"
-      },
-      "artists": [
-        {
-          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
-          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Bu Yaz",
-      "url": "https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
         "name": "Kehribar",
         "url": "https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 194926,
       "name": "\u015eerbetli",
       "url": "https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
-        "name": "Ben Sana Gelemem",
-        "url": "https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV"
-      },
-      "artists": [
-        {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "Ben Sana Gelemem",
-      "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -539,18 +523,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Zeze",
-        "url": "https://open.spotify.com/album/567LnqyieXBo3MVClrITZN"
+        "name": "Ben Sana Gelemem",
+        "url": "https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV"
       },
       "artists": [
         {
-          "name": "Afra",
-          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
         }
       ],
-      "duration_ms": 165812,
-      "name": "Zeze",
-      "url": "https://open.spotify.com/track/0uKyrnRuflayIOXiZTMdsv"
+      "duration_ms": 192475,
+      "name": "Ben Sana Gelemem",
+      "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -571,6 +555,22 @@
       "duration_ms": 267770,
       "name": "YANILIR G\u0130B\u0130",
       "url": "https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "Zeze",
+        "url": "https://open.spotify.com/album/567LnqyieXBo3MVClrITZN"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        }
+      ],
+      "duration_ms": 165812,
+      "name": "Zeze",
+      "url": "https://open.spotify.com/track/0uKyrnRuflayIOXiZTMdsv"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Bi Mani Yoksa",
-        "url": "https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN"
+        "name": "Buzlu Cam",
+        "url": "https://open.spotify.com/album/3ElEbr56YR4TRjqLM38G8p"
       },
       "artists": [
         {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Bi Mani Yoksa",
-      "url": "https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS"
+      "duration_ms": 166367,
+      "name": "Buzlu Cam",
+      "url": "https://open.spotify.com/track/23KXlmrRHlhSM6iDNZ8gY4"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Buzlu Cam",
-        "url": "https://open.spotify.com/album/3ElEbr56YR4TRjqLM38G8p"
+        "name": "Bi Mani Yoksa",
+        "url": "https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN"
       },
       "artists": [
         {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
         }
       ],
-      "duration_ms": 166367,
-      "name": "Buzlu Cam",
-      "url": "https://open.spotify.com/track/23KXlmrRHlhSM6iDNZ8gY4"
+      "duration_ms": 194500,
+      "name": "Bi Mani Yoksa",
+      "url": "https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -895,34 +895,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "\u015eu Halime Baksana",
-        "url": "https://open.spotify.com/album/4EKBEBKefMfWffaEbXbqhl"
+        "name": "Azar Azar",
+        "url": "https://open.spotify.com/album/70Ou8qkOFl2LwnvnEO3bex"
       },
       "artists": [
         {
-          "name": "M Lisa",
-          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
         }
       ],
-      "duration_ms": 158303,
-      "name": "\u015eu Halime Baksana",
-      "url": "https://open.spotify.com/track/4s2XGE3LH1KeTfL5fDjioX"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
-        "name": "Konsun Bir Ku\u015f Gibi",
-        "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hatipo\u011flu",
-          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Konsun Bir Ku\u015f Gibi",
-      "url": "https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9"
+      "duration_ms": 180618,
+      "name": "Azar Azar",
+      "url": "https://open.spotify.com/track/4xdl1mVmS8lwVdwadHXL3A"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -943,18 +927,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Azar Azar",
-        "url": "https://open.spotify.com/album/70Ou8qkOFl2LwnvnEO3bex"
+        "name": "\u015eu Halime Baksana",
+        "url": "https://open.spotify.com/album/4EKBEBKefMfWffaEbXbqhl"
       },
       "artists": [
         {
-          "name": "EDIS",
-          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
         }
       ],
-      "duration_ms": 180618,
-      "name": "Azar Azar",
-      "url": "https://open.spotify.com/track/4xdl1mVmS8lwVdwadHXL3A"
+      "duration_ms": 158303,
+      "name": "\u015eu Halime Baksana",
+      "url": "https://open.spotify.com/track/4s2XGE3LH1KeTfL5fDjioX"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -975,18 +959,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Can\u0131n Beni \u00c7ekti",
-        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
+        "name": "Konsun Bir Ku\u015f Gibi",
+        "url": "https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75"
       },
       "artists": [
         {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Can\u0131n Beni \u00c7ekti",
-      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
+      "duration_ms": 148461,
+      "name": "Konsun Bir Ku\u015f Gibi",
+      "url": "https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -1007,6 +991,22 @@
       "duration_ms": 194348,
       "name": "SEN\u0130 G\u00d6RD\u00dc\u011e\u00dcM AN",
       "url": "https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "Can\u0131n Beni \u00c7ekti",
+        "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Can\u0131n Beni \u00c7ekti",
+      "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Eyl\u00fcl",
-        "url": "https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ"
-      },
-      "artists": [
-        {
-          "name": "Salman Tin",
-          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
-        },
-        {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Eyl\u00fcl",
-      "url": "https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s"
-    },
-    {
-      "added_at": "2025-06-05 21:00:21",
-      "album": {
         "name": "G\u00f6rmem B\u00f6ylesini",
         "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
+    },
+    {
+      "added_at": "2025-06-05 21:00:21",
+      "album": {
+        "name": "Eyl\u00fcl",
+        "url": "https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Eyl\u00fcl",
+      "url": "https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Ortak",
-        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
+        "name": "Olur Ya",
+        "url": "https://open.spotify.com/album/5RAWvHoS2fKwKzU1sK1zYk"
       },
       "artists": [
         {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+          "name": "Hazar Alt\u0131n",
+          "url": "https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ"
+        },
+        {
+          "name": "\u00c7a\u011fr\u0131 \u00c7elik",
+          "url": "https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq"
         }
       ],
-      "duration_ms": 205224,
-      "name": "Ortak",
-      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
+      "duration_ms": 167000,
+      "name": "Olur Ya",
+      "url": "https://open.spotify.com/track/0zhme0rfZ6NNA8dXeOt1RP"
     },
     {
       "added_at": "2025-06-05 21:00:21",
@@ -1275,22 +1279,18 @@
     {
       "added_at": "2025-06-05 21:00:21",
       "album": {
-        "name": "Olur Ya",
-        "url": "https://open.spotify.com/album/5RAWvHoS2fKwKzU1sK1zYk"
+        "name": "Lakin",
+        "url": "https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi"
       },
       "artists": [
         {
-          "name": "Hazar Alt\u0131n",
-          "url": "https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ"
-        },
-        {
-          "name": "\u00c7a\u011fr\u0131 \u00c7elik",
-          "url": "https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq"
+          "name": "Sufle",
+          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Olur Ya",
-      "url": "https://open.spotify.com/track/0zhme0rfZ6NNA8dXeOt1RP"
+      "duration_ms": 161590,
+      "name": "Lakin",
+      "url": "https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3"
     }
   ],
   "unique_name": "Pop Radyo",

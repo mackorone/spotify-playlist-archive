@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,761 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,782 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 27 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 28 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
 | 29 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
-| 30 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 |
-| 31 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
+| 30 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
+| 31 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 |
 | 32 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 33 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
 | 34 | [WE PRAY](https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:53 |

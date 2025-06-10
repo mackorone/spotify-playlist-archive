@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Megan Hilty & Jennifer Simard in \"Death Becomes Her\"",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Nicole Scherzinger for Sunset Boulevard",
   "name": "Broadway Hits",
   "tracks": [
     {
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 182160,
       "name": "It's Only a Matter of Time",
       "url": "https://open.spotify.com/track/1uYnCRBvnHmUFyymYkzjJn"
@@ -3359,6 +3359,28 @@
     },
     {
       "album": {
+        "name": "Gypsy Starring Audra McDonald (2024 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5PA6UdeWgZ5B3308hc7X0S"
+      },
+      "artists": [
+        {
+          "name": "Audra McDonald",
+          "url": "https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli"
+        },
+        {
+          "name": "Gypsy 2024 Broadway Company",
+          "url": "https://open.spotify.com/artist/026ZtmUJxea729DcQpyMTC"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305597,
+      "name": "Rose's Turn",
+      "url": "https://open.spotify.com/track/0VCqanO64Shc6RKBCuPfr1"
+    },
+    {
+      "album": {
         "name": "Gypsy (Original 2008 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1S3z0g91NGYcoI3afOd65K"
       },
@@ -3510,7 +3532,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 242017,
       "name": "Say No to This",
       "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
@@ -4082,6 +4104,28 @@
       "duration_ms": 289599,
       "name": "The Lusty Month of May",
       "url": "https://open.spotify.com/track/24HEn0c2i2jgcGQAmdLuf2"
+    },
+    {
+      "album": {
+        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        },
+        {
+          "name": "Helen J Shen",
+          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "The Rainy Day We Met (from Maybe Happy Ending) - Original Broadway Cast Recording",
+      "url": "https://open.spotify.com/track/2unUEpRfYNVGj0L3JPaOw1"
     },
     {
       "album": {

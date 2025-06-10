@@ -10499,6 +10499,28 @@
     },
     {
       "album": {
+        "name": "BIRDS OF A FEATHER (B.O.A.F)",
+        "url": "https://open.spotify.com/album/5npAPJDHjIVCoTypP4TP7G"
+      },
+      "artists": [
+        {
+          "name": "Tha Boy Myles",
+          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
+        },
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136202,
+      "name": "Ogologo",
+      "url": "https://open.spotify.com/track/6qmFmnzZb0SkKoqO2p4oHg"
+    },
+    {
+      "album": {
         "name": "OHEMA (with Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
@@ -12388,7 +12410,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 148909,
       "name": "Rugged 2.0 (with Olivetheboy)",
       "url": "https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r"

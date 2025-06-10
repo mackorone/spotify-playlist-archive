@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Grace Power
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,996 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,305 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 45 | [KILL4ME](https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [KILL4ME](https://open.spotify.com/album/7vjtCYVgXACX4bZ3nAvepU) | 2:20 |
 | 46 | [T\-Shirt](https://open.spotify.com/track/14t5xsqdGQXdMhRkeCMZaN) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [T\-Shirt](https://open.spotify.com/album/4DBkNAsMfMLqZ86H8FUc6O) | 2:38 |
 | 47 | [Family Out Of Friends](https://open.spotify.com/track/7tfHEAIiDswTzXPHuAG8Qb) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let The Light In](https://open.spotify.com/album/7bM1GKA0zREafTz0rmbtBk) | 3:05 |
-| 48 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 48 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 49 | [I Might](https://open.spotify.com/track/7qxhvX5rwSTUJs07Ju55gu) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [I Might](https://open.spotify.com/album/4Hm3EHLMSw7v8PRtO5j9wH) | 2:41 |
 | 50 | [we're just girls!](https://open.spotify.com/track/6yOWVXSjilnsVvQpNjH2rw) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [we're just girls!](https://open.spotify.com/album/2GfRLNFKG7szM73oxgjNX3) | 1:48 |
 | 51 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 |

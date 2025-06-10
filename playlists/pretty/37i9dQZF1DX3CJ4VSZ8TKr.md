@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CJ4VSZ8TKr.md) - [plain]
 
 > Spotify×サザンのムードプレイリストシリーズ第4弾。故郷への思いや未来への希望に満ちたメッセージソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,362 likes - 45 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,369 likes - 45 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CJ4VSZ8TKr.md) - [plain]
 | 44 | [夕陽に別れを告げて～メリーゴーランド \[2024 Remaster\]](https://open.spotify.com/track/6FAL9Co2niladNJe65aZoT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA \[2024 Remaster\]](https://open.spotify.com/album/1yGaFnbdndU5RVvHc28PMK) | 4:45 |
 | 45 | [Ya Ya（あの時代を忘れない）](https://open.spotify.com/track/1QGfRnNztw3SKr8Kx8Qw1M) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Ya Ya（あの時代を忘れない）](https://open.spotify.com/album/0ifpETJ4tDC49s3EhHrEe3) | 3:57 |
 
-Snapshot ID: `Z17B0QAAAADQoMzdZvuV+UiALdrGokuN`
+Snapshot ID: `aEeYawAAAAATi3vI7NL+yXFll1fTTZ3S`

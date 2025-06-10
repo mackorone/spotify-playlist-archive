@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 35989,
+  "num_followers": 36013,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACGIe+goJezlq+xccGJa2pe",
+  "snapshot_id": "aETSgAAAAACPnCTPmpQ39b7woMARBqWI",
   "tracks": [
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom Pt. 2 (feat. Latto)",
-        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
-      },
-      "artists": [
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Boom Pt. 2 (feat. Latto)",
-      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Shotta",
         "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 202954,
       "name": "Make Em Say (feat. Latto)",
       "url": "https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boom Pt. 2 (feat. Latto)",
+        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Boom Pt. 2 (feat. Latto)",
+      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
     },
     {
       "added_at": null,

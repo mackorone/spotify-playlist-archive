@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,068 likes - 41 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,133 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 40 | [On the Other Side](https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:36 |
 | 41 | [Call Me Back](https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:02 |
 
-Snapshot ID: `aEOBAAAAAABPiZ1VD8NqX5+RW0vbXSSa`
+Snapshot ID: `aETSgAAAAAA4JEE8e91/Y6vjjbgq2pTS`

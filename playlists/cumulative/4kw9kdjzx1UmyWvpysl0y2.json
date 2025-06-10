@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "ACTIVATE",
+        "url": "https://open.spotify.com/album/2v6Ae2mZgaWFyMtfSNpXee"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158581,
+      "name": "ACTIVATE",
+      "url": "https://open.spotify.com/track/1ROJBKCmBH1Quk9gN2qI0E"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir"
       },

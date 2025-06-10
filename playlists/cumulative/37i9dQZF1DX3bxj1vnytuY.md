@@ -4,11 +4,11 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-290 songs - 1 day 3 hr 51 min
+291 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Roots](https://open.spotify.com/track/2rixeRSqKJP98HHOsLnHhr) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [2 Roots](https://open.spotify.com/album/1eT3yt0QMBaM8GT6N8e3Wp) | 6:49 | 2024-04-21 |  |
+| [2 Roots](https://open.spotify.com/track/2rixeRSqKJP98HHOsLnHhr) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [2 Roots](https://open.spotify.com/album/1eT3yt0QMBaM8GT6N8e3Wp) | 6:49 | 2024-04-21 | 2025-06-10 |
 | [Afeto \- Ankhoï Remix](https://open.spotify.com/track/3ZhJiN9awjN3RVjCl2wzl3) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Afeto \(Ankhoï Remix\)](https://open.spotify.com/album/3zzZpOhsz7Esr1d71oEqld) | 6:42 | 2024-02-23 |  |
 | [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-18 |  |
 | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/track/1iz6iEzu6SLEkqXNuUtcsg) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [kahadirbartal](https://open.spotify.com/artist/7GuyqpKIBE1p4krHb0DrzK), [Laruen](https://open.spotify.com/artist/5ZEzzqHOZ2EzYJdhg4tBx3) | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/album/4tGdIZKYYE3NQqQZxwCWgx) | 3:31 | 2022-05-09 | 2022-06-01 |
@@ -169,6 +169,7 @@
 | [Lua \- Pippi Ciez Retake](https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU) | [Djamou Sangare](https://open.spotify.com/artist/7MIDaIHvsSEayCv0pw3okp), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Lua](https://open.spotify.com/album/0Hc205wUJI8fIBXNku5BEQ) | 7:47 | 2022-04-22 | 2023-04-21 |
 | [Luna](https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9) | [Espinoza](https://open.spotify.com/artist/57DFN6UryjVpBcJrgmOg6n), [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Luna](https://open.spotify.com/album/4QQPki89hRKCSI1S36biu1) | 6:04 | 2022-04-13 | 2023-04-21 |
 | [Luna \- Omary Remix](https://open.spotify.com/track/6oPYi7nKqZHKpRqjTsXafc) | [Ary Sya](https://open.spotify.com/artist/1BwQgYtqEnAUQI3RrbsMbC), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs) | [Luna](https://open.spotify.com/album/7s5hHH9wJVZmLzQZt55wgt) | 6:46 | 2023-03-03 | 2024-08-28 |
+| [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-06-09 |  |
 | [Madi](https://open.spotify.com/track/1NewzjB93jvqy1YEXlZBg6) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Blaq Samurai](https://open.spotify.com/artist/3W3hsSe7ziFLuXtCtXOnhO) | [Madi](https://open.spotify.com/album/6542q8TjKwKSZujJN1oEd4) | 6:35 | 2024-11-22 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 | 2023-04-21 |
 | [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 | 2024-12-06 |  |

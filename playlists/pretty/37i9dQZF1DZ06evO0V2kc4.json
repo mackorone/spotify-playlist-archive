@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 71625,
+  "num_followers": 71640,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADsJQrkyAKJwzBu5WXUSBwu",
+  "snapshot_id": "aETSgAAAAAAhbwJVVZn7H0eHpOyjrmLI",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Diamonds & Rust",
-      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+      "duration_ms": 105973,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
       "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 105973,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+        "name": "The Complete Gold Castle Masters",
+        "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
+      "duration_ms": 225640,
+      "name": "No Woman No Cry - Live",
+      "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
     }
   ],
   "unique_name": "This Is Joan Baez",

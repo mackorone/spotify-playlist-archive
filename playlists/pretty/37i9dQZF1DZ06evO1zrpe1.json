@@ -1,12 +1,12 @@
 {
   "description": "This is Adriana R\u00edos. The essential tracks, all in one playlist.",
-  "num_followers": 482,
+  "num_followers": 483,
   "original_name": "This Is Adriana R\u00edos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACW8OcDnzonIIWaG3ZJjFj0",
+  "snapshot_id": "aETSgAAAAADmLqz19xjsq1QG2gy/7C/D",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 No Me Esperaste?",
-        "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 200095,
-      "name": "Por Qu\u00e9 No Me Esperaste?",
-      "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Este Coraz\u00f3n",
         "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Qu\u00e9 No Me Esperaste?",
+        "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 200095,
+      "name": "Por Qu\u00e9 No Me Esperaste?",
+      "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
+      "duration_ms": 132000,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 132000,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU"
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "Entre la Guerra y el Amor",
+        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+      "duration_ms": 178826,
+      "name": "Entre la Guerra y el Amor",
+      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre la Guerra y el Amor",
-        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Entre la Guerra y el Amor",
-      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
       "duration_ms": 166346,
       "name": "No Fuimos",
       "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
       "duration_ms": 176768,
       "name": "Uno de los Buenos",
       "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 254003,
-      "name": "Lo Que No Me Gusta",
-      "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentimientos de Cart\u00f3n",
         "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 192818,
       "name": "Sentimientos de Cart\u00f3n",
       "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 254003,
+      "name": "Lo Que No Me Gusta",
+      "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 251147,
-      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 169429,
       "name": "En Donde Esta Tu Amor",
       "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
     },
     {
       "added_at": null,

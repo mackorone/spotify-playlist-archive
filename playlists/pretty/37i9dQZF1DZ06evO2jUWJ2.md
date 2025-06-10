@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,485 likes - 50 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,561 likes - 50 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 2 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
 | 3 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
 | 4 | [Worthy](https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 6:11 |
-| 5 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 |
-| 6 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 |
+| 5 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 |
+| 6 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 |
 | 7 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:32 |
 | 8 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
 | 9 | [I Know A Name](https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I Know A Name](https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2) | 7:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:07 |
 | 50 | [Digno \(Worthy\)](https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:18 |
 
-Snapshot ID: `aEOBAAAAAACch6N2ENTyErNFXFoLDA5+`
+Snapshot ID: `aETSgAAAAABL/fo8qNMVz6J+AmlPZb0K`

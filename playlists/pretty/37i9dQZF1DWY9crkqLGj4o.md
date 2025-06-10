@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,306 likes - 75 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,347 likes - 75 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 37 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 38 | [Sou Casa \(Ao Vivo\)](https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Sou Casa \(Ao Vivo\)](https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H) | 4:35 |
 | 39 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 |
-| 40 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
-| 41 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
+| 40 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
+| 41 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
 | 42 | [Canção do Céu](https://open.spotify.com/track/7M26v5zmBOYSXYt8MVeZpF) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 5:05 |
 | 43 | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG) | 7:42 |
 | 44 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
-| 45 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
-| 46 | [Pra Sempre \- Ao Vivo](https://open.spotify.com/track/6daxeU4amOK8WbBVnRFSCz) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:44 |
+| 45 | [Pra Sempre \- Ao Vivo](https://open.spotify.com/track/6daxeU4amOK8WbBVnRFSCz) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:44 |
+| 46 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
 | 47 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 |
 | 48 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
 | 49 | [Faça Morada](https://open.spotify.com/track/5Mpth7qg5nxiv3JR0dt7cL) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Coral Kemuel, Vol\. 2](https://open.spotify.com/album/2I5sgWmtf2mjppkwWOWokB) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Ebubé
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,123 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,144 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 30 | [IWH2BMX](https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:43 |
 | 31 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
 | 32 | [She Said](https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [She Said](https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5) | 2:28 |
-| 33 | [We Both Know](https://open.spotify.com/track/66icVgS93an9cJqSsZqpsl) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [We Both Know](https://open.spotify.com/album/6jH3dYAf3mJDg0I2q8hoyJ) | 3:24 |
-| 34 | [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 |
+| 33 | [PRETEND](https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu) | [Luke Champion](https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ), [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [PRETEND](https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN) | 3:12 |
+| 34 | [We Both Know](https://open.spotify.com/track/66icVgS93an9cJqSsZqpsl) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [We Both Know](https://open.spotify.com/album/6jH3dYAf3mJDg0I2q8hoyJ) | 3:24 |
 | 35 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 |
 | 36 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 |
 | 37 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 52 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 |
 | 53 | [There I Go](https://open.spotify.com/track/6wiwsJJuk5u6sdag6iShOu) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [There I Go](https://open.spotify.com/album/2hltrUvBM4MpFTwpLJUhDq) | 2:32 |
 | 54 | [Go Ghost](https://open.spotify.com/track/7fdKKxsRwzG9jNGMnUKUqE) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Go Ghost](https://open.spotify.com/album/0hwZpjgOkMzytEWs2NSHwT) | 2:40 |
-| 55 | [Only Mine](https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Only Mine](https://open.spotify.com/album/7rSvl5GQvprf8k0s6xQGVa) | 2:59 |
+| 55 | [Memory Lane](https://open.spotify.com/track/6ZK6kijHXpQH1XGS6ZAygu) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Memory Lane](https://open.spotify.com/album/2a6BJjAOIKQFCQ8LaHwR2c) | 2:43 |
 | 56 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 |
-| 57 | [Memory Lane](https://open.spotify.com/track/6ZK6kijHXpQH1XGS6ZAygu) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Memory Lane](https://open.spotify.com/album/2a6BJjAOIKQFCQ8LaHwR2c) | 2:43 |
+| 57 | [Only Mine](https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Only Mine](https://open.spotify.com/album/7rSvl5GQvprf8k0s6xQGVa) | 2:59 |
 | 58 | [Only Ever](https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Only Ever](https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY) | 2:42 |
-| 59 | [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 |
-| 60 | [insecure](https://open.spotify.com/track/2xh4owkLPwkaUQRtrIa524) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [insecure](https://open.spotify.com/album/7zodyWJguVyZXYzOYfcf8G) | 1:58 |
+| 59 | [insecure](https://open.spotify.com/track/2xh4owkLPwkaUQRtrIa524) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [insecure](https://open.spotify.com/album/7zodyWJguVyZXYzOYfcf8G) | 1:58 |
+| 60 | [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 |
 
 Snapshot ID: `aDjm/QAAAACc0UIvBAYfO9UnUE+Qze1l`

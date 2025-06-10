@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 110173,
+  "num_followers": 110210,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "WHERE THE HELL ARE MY FRIENDS",
+        "url": "https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 216180,
+      "name": "WHERE THE HELL ARE MY FRIENDS",
+      "url": "https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "The End Of Comedy",
         "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 187600,
       "name": "The Real World",
       "url": "https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "WHERE THE HELL ARE MY FRIENDS",
-        "url": "https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 216180,
-      "name": "WHERE THE HELL ARE MY FRIENDS",
-      "url": "https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+      "duration_ms": 227366,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Coast Modern",
         "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
       },
@@ -1611,34 +1627,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
+        "name": "Work",
+        "url": "https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 227366,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Your Best American Girl",
-      "url": "https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt"
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup"
     }
   ],
   "unique_name": "Best of Indie 2016",

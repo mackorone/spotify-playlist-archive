@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 73807,
+  "num_followers": 73814,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACJRULxubyDTUAqEQel6a4K",
+  "snapshot_id": "aETSgAAAAACnfFJnFAv9gTMqYE+Fqd+X",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gnarly (Ice Spice Remix)",
         "url": "https://open.spotify.com/album/3aC2oeSUYvBKXkTr6RDIwX"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 137309,
       "name": "Gnarly - Ice Spice Remix",
       "url": "https://open.spotify.com/track/3wAvAVwMbUG3Bw23M8KMke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 124965,
-      "name": "On The Radar - Bonus",
-      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
+      "duration_ms": 133714,
+      "name": "Actin A Smoochie",
+      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
+      "duration_ms": 124965,
+      "name": "On The Radar - Bonus",
+      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
     },
     {
       "added_at": null,

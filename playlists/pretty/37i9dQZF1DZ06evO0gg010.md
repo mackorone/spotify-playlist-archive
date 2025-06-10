@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,708 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,260 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 30 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
 | 31 | [Fresas Con Crema](https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:20 |
 | 32 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 |
-| 33 | [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 |
+| 33 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 34 | [BARBIEZ](https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:46 |
-| 35 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
+| 35 | [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 |
 | 36 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 37 | [OYE](https://open.spotify.com/track/5D0N7a6vursEiO2jAC7dAF) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:41 |
 | 38 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
 | 50 | [COMO ESTRELLA](https://open.spotify.com/track/5joTJbm9LkcqVwLPkYlhkl) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [COMO ESTRELLA](https://open.spotify.com/album/1WYKM4nrEjzDH1iXfxsFYN) | 2:35 |
 
-Snapshot ID: `aEOBAAAAAACS3N8fHivXymG95nEuAlSz`
+Snapshot ID: `aETSgAAAAABM3s1hloy9VoBDaV1QLWXe`

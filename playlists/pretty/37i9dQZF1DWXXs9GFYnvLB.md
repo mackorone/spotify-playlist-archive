@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437,553 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,621 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 74 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 |
 | 75 | [Spinnin \(feat\. Nemzzz\) \- Segway Remix](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 |
 
-Snapshot ID: `aEGjBAAAAABUnMleRJwUu6wqTU0i7Ca2`
+Snapshot ID: `AAAAAMXHFr4z0MmvZpS8cwUAlDhfctlZ`

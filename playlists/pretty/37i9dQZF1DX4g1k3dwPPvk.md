@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,247 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,311 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 47 | [Fruta Fresca](https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Amor De Mi Tierra](https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH) | 3:53 |
 | 48 | [Como Te Deseo](https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:29 |
 | 49 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
-| 50 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 |
+| 50 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
 
 Snapshot ID: `ZkOfSwAAAAC2Tjh8j1+tCoBG7PRUVxpX`

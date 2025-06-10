@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Emma Nolde
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,403 likes - 115 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,418 likes - 115 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 |
 | 2 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
-| 3 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 |
-| 4 | [Capo Horn \(feat\. Tedua\)](https://open.spotify.com/track/7nl18LJP7p5c6NTQtcdusF) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:38 |
+| 3 | [Erica \(feat\. Sayf\)](https://open.spotify.com/track/0Uz2bFBaC1jmvJqZcgD0z2) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:53 |
+| 4 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 |
 | 5 | [BELLA MADONNINA](https://open.spotify.com/track/6hk4cRUBmCApsRNPP4DNFU) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BELLA MADONNINA](https://open.spotify.com/album/5YlhFIV83wsndnCY4e7L3D) | 2:42 |
 | 6 | [Valigia](https://open.spotify.com/track/6SDlHdjA6l4k2DkM5VDngk) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [LOST & FOUND](https://open.spotify.com/album/7EBeDBhZgzbLbGH7g2uvI7) | 3:02 |
 | 7 | [fine \(feat\. Promessa\)](https://open.spotify.com/track/18Ait0H465AiTkmBAYhB6C) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [fango](https://open.spotify.com/album/5KHf4zpuHsj0u2SrMfPsNL) | 2:43 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 13 | [Popolare](https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Popolare](https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa) | 2:25 |
 | 14 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 |
 | 15 | [SENZA REGOLE](https://open.spotify.com/track/48457TAso8iLsuGweSjXLm) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SENZA REGOLE](https://open.spotify.com/album/1nXWQA1u94SLP0FJHyIhOj) | 2:10 |
-| 16 | [Erica \(feat\. Sayf\)](https://open.spotify.com/track/0Uz2bFBaC1jmvJqZcgD0z2) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:53 |
+| 16 | [Capo Horn \(feat\. Tedua\)](https://open.spotify.com/track/7nl18LJP7p5c6NTQtcdusF) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:38 |
 | 17 | [SOGNO EROTICO](https://open.spotify.com/track/07zHo6rtrDhyj35mCc7ICR) | [POSNIAK](https://open.spotify.com/artist/7GYZXMvp7Z7w3YW4MQFtYW) | [SOGNO EROTICO](https://open.spotify.com/album/0vKF8mxLqTMXTfUAql8jqt) | 2:31 |
 | 18 | [DOVEVO ESSERE LUI \(con MAGENTA FLORA\)](https://open.spotify.com/track/0B56eR7M8pPoUTxpLtIq1t) | [ilyPier](https://open.spotify.com/artist/6TIAcmu36UB56DaVDcckEe), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [DOVEVO ESSERE LUI \(con MAGENTA FLORA\)](https://open.spotify.com/album/5cI7fG7ke92dErqJ3NNwcv) | 2:17 |
 | 19 | [BIANCA\-PRADA](https://open.spotify.com/track/0j5S4DxU8aMbjo1b0ZemsF) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [BIANCA\-PRADA](https://open.spotify.com/album/0PIy4f1aG1Ap9ltu6OVJDV) | 2:29 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 114 | [Se ci lasciassimo domani](https://open.spotify.com/track/5khKS5beNp9oYIg6lTI5zz) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Se ci lasciassimo domani](https://open.spotify.com/album/2LrLAT0Y2Nj79rOn1qjq98) | 2:33 |
 | 115 | [QUANTO TI IMPORTA](https://open.spotify.com/track/4Ot6ndhBUMfsgeJoawYxWX) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [QUANTO TI IMPORTA](https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY) | 3:07 |
 
-Snapshot ID: `aEITyAAAAACtGYj/LcSLztgN38VT3UYR`
+Snapshot ID: `aEb1tAAAAADE2se0PdibjhdxqhnoMAom`

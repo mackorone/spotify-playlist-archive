@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,171 likes - 180 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,807 likes - 180 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 179 | [Life Is Good](https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2) | 3:20 |
 | 180 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
 
-Snapshot ID: `AAAAAJk8rO+dj6t2fsXuOFisUDh6ToSC`
+Snapshot ID: `aEI9rQAAAAAr1FsT9/309mvnBhLQwJ4d`

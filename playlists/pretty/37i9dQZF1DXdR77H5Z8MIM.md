@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: SEVENTEEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,820 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,834 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,21 +46,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 36 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 37 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 38 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
-| 39 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
+| 39 | [Armageddon](https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 3:16 |
 | 40 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 |
 | 41 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 |
 | 42 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
 | 43 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 |
-| 44 | [Armageddon](https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 3:16 |
+| 44 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 45 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 |
 | 46 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
-| 47 | [FOREVER](https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:32 |
-| 48 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
+| 47 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
+| 48 | [FOREVER](https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:32 |
 | 49 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 |
 | 50 | [Supernova](https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 2:58 |
 | 51 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
-| 52 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 |
-| 53 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
+| 52 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
+| 53 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 |
 | 54 | [ON](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 55 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 56 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 58 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 59 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
 | 60 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
-| 61 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
-| 62 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
+| 61 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
+| 62 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
 | 63 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |
-| 64 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
+| 64 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
 | 65 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
-| 66 | [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
-| 67 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
-| 68 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
+| 66 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
+| 67 | [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 |
+| 68 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
 | 69 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
-| 70 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
+| 70 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 
 Snapshot ID: `aD/eHQAAAADUUrE5j6MM/+38iOQpaO6L`

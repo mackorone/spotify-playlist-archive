@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46086,
+  "num_followers": 46087,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAe/yfRcA1QzNExCa+3FXWe",
+  "snapshot_id": "aETSgAAAAADWfNfEbFbSmn7Q3Y87gE8F",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/2r1nCUsFoCqFJhQijBu1p3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 246533,
       "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
       "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
-        }
-      ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/2r1nCUsFoCqFJhQijBu1p3"
     },
     {
       "added_at": null,
@@ -271,30 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        }
-      ],
-      "duration_ms": 303727,
-      "name": "Linha De Frente",
-      "url": "https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 184445,
       "name": "Sem Norte",
       "url": "https://open.spotify.com/track/5oz9GKNnBNLqnGOVIt5Gmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        }
+      ],
+      "duration_ms": 303727,
+      "name": "Linha De Frente",
+      "url": "https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Segura Seu BO",
-      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 261478,
       "name": "Um Tom de Azul",
       "url": "https://open.spotify.com/track/0KU4mayaRz3gGeAKo8M7wG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Segura Seu BO",
+      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
-        }
-      ],
-      "duration_ms": 255914,
-      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
-      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 252279,
       "name": "Portal",
       "url": "https://open.spotify.com/track/4bX1GDvKQ237I6cEGLsV08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+        }
+      ],
+      "duration_ms": 255914,
+      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
+      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
     },
     {
       "added_at": null,
@@ -543,34 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Drill",
-        "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
-      },
-      "artists": [
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Insane Tracks",
-          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
-        }
-      ],
-      "duration_ms": 251418,
-      "name": "Aulas e Palestras",
-      "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -611,6 +583,34 @@
       "duration_ms": 243424,
       "name": "Jogo S\u00e9rio",
       "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dr. Drill",
+        "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
+      },
+      "artists": [
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Insane Tracks",
+          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
+        }
+      ],
+      "duration_ms": 251418,
+      "name": "Aulas e Palestras",
+      "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        },
-        {
-          "name": "Max de Castro",
-          "url": "https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn"
-        }
-      ],
-      "duration_ms": 211301,
-      "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
-      "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Anos de Triunfo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 647666,
       "name": "Mandume (feat. Drik Barbosa, Raph\u00e3o Alaafin, Muzzike, Amiri, Coruja BC1, Rico Dalasam & Rashid) - Ao Vivo",
       "url": "https://open.spotify.com/track/6AI7u64to3bm9Iga4t2TmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        },
+        {
+          "name": "Max de Castro",
+          "url": "https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn"
+        }
+      ],
+      "duration_ms": 211301,
+      "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
+      "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
     },
     {
       "added_at": null,

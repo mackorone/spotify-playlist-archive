@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,226,849 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,225,934 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 49 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 |
 | 50 | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 1:58 |
 
-Snapshot ID: `aEJouwAAAAAH+hXiYk8XU476uAsDltDs`
+Snapshot ID: `aEJouwAAAAD2KjDy/A73IsLJ8Ub9+nS4`

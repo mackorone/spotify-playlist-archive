@@ -2,7 +2,7 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Albino Sound
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stupid Kozo
 
 1,431 songs - 4 day 9 hr 52 min
 

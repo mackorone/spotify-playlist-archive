@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752,884 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752,847 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 26 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 27 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
 | 28 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 |
-| 29 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
+| 29 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
 | 30 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
 | 31 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
-| 32 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
+| 32 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
 | 33 | [Dumb Crasy \(Remix\)](https://open.spotify.com/track/3EAJCeqLEzhVgzRGIoIdl0) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP), [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3), [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Dumb Crasy \(Remix\)](https://open.spotify.com/album/4b1ngzO1CEwu6ivGw1LFSJ) | 2:04 |
 | 34 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
 | 35 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |

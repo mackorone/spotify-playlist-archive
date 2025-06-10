@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,147 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,187 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 45 | [Kid](https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [Cure](https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw) | 3:04 |
 | 46 | [Le Dernier Jour du Disco](https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:27 |
 | 47 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
-| 48 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
-| 49 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 |
+| 48 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 |
+| 49 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 |
 | 50 | [Mais je t'aime](https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [MESDAMES deluxe](https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh) | 4:30 |
 
 Snapshot ID: `ZxYRnAAAAAA8Cu4lOED7l3k3qiWSvzBb`

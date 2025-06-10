@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Big Thief
 
-325 songs - 21 hr 13 min
+326 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-08-14 |  |
 | [Mad Catch](https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Glutton For Punishment](https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT) | 3:10 | 2025-02-07 | 2025-03-28 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-31 |  |
+| [many lives](https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [many lives](https://open.spotify.com/album/6YcGqNo2BKJBs5uiRRI8f1) | 3:01 | 2025-06-06 |  |
 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 | 2024-06-14 | 2024-07-20 |
 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-30 |  |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-06-14 | 2024-08-14 |
@@ -219,7 +220,7 @@
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2024-06-14 | 2025-03-22 |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-21 |  |
-| [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-14 |  |
+| [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-14 | 2025-06-10 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-17 | 2025-05-22 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-06 |  |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-07-12 |

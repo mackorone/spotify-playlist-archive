@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-164 songs - 11 hr 1 min
+165 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,8 @@
 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 | 2022-09-12 |  |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 | 2022-09-12 | 2024-04-19 |
 | [After You've Gone](https://open.spotify.com/track/6gKgpHghyWdA1YkzsUWTRe) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Songs From Sweetwater \(The Motion Picture\)](https://open.spotify.com/album/6A9UjWvIFWBPGoz2VIBAdp) | 3:36 | 2023-06-26 | 2023-07-04 |
-| [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 | 2024-11-04 |  |
-| [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 | 2023-11-15 | 2024-04-19 |
+| [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 | 2024-11-04 | 2025-06-10 |
+| [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 | 2023-11-15 |  |
 | [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2022-09-12 | 2023-11-03 |
 | [All the Way](https://open.spotify.com/track/5y31Qh5BW8csQMtdQY6Tob) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:07 | 2022-09-12 | 2023-10-23 |
 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 | 2022-09-12 | 2024-11-01 |
@@ -102,6 +102,7 @@
 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 | 2022-09-12 | 2024-04-19 |
 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 | 2022-09-12 |  |
 | [Malaika](https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Shades of Delight](https://open.spotify.com/album/1TmyQu2ABmq5cHbH6Ds2n8) | 4:52 | 2022-09-12 | 2022-12-19 |
+| [May I Come In](https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:10 | 2025-06-09 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 | 2022-10-31 |  |
 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-09-12 | 2024-12-16 |
 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 | 2022-09-12 |  |
@@ -118,7 +119,7 @@
 | [O Barquinho](https://open.spotify.com/track/5TUmfePkCdoSYSavOykhau) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Obras\-Primas](https://open.spotify.com/album/6eVTZVohCd8lmcnPIrZ7GP) | 3:07 | 2022-09-12 | 2024-04-19 |
 | [Old Cape Cod](https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Old Cape Cod](https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK) | 3:29 | 2025-03-03 |  |
 | [Outro Lugar](https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Outro Lugar](https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx) | 3:21 | 2022-09-12 |  |
-| [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 | 2024-04-08 |  |
+| [Pretty Blue](https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG) | [Kevin Mahogany](https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN) | [The Vienna Affair](https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k) | 3:57 | 2024-04-08 | 2025-06-10 |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-09-18 | 2024-04-19 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-06-26 | 2023-09-24 |
 | [Questi Vent'Anni Miei](https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [クエスタ・ボッサ・ミーア...](https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft) | 3:51 | 2024-04-08 | 2025-01-22 |

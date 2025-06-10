@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Adventure Club, Flight School &amp; Reve.
 
-239 songs - 12 hr 38 min
+240 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Deep As Sixteen](https://open.spotify.com/track/0tGNWtLo5Me8yjXuLYsbiN) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Deep As Sixteen](https://open.spotify.com/album/0bDKewx93Gsb2ZohvKzApB) | 3:47 | 2024-05-10 | 2024-05-25 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-12-08 | 2024-09-04 |
 | [Diamond Shovel](https://open.spotify.com/track/6BbgGqA14ABXnYtrdIPxga) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Diamond Shovel](https://open.spotify.com/album/5HNJPThioX5ThRpMjYJTvf) | 3:29 | 2024-03-15 | 2024-04-13 |
+| [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb) | 2:49 | 2025-06-09 |  |
 | [Disco en Egypte](https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Disco en Egypte](https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx) | 3:46 | 2023-12-08 | 2024-02-10 |
 | [DISKO](https://open.spotify.com/track/2bDLItAgVcVRlzL2vZQFPV) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [DISKO](https://open.spotify.com/album/1SPK5NPMkyprQOYP8kazgs) | 2:45 | 2024-03-01 | 2024-04-27 |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 | 2024-03-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,514 likes - 75 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,602 likes - 75 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 46 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 47 | [Be With Me](https://open.spotify.com/track/51YwIV5laxNugYz32eJIdw) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 3:46 |
 | 48 | [How Great Thou Art \- Live](https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Singalong \(Live\)](https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9) | 2:03 |
-| 49 | [Stand in Awe](https://open.spotify.com/track/7DICHSYQHM0J4uLoevN0hB) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s), [Tom Young](https://open.spotify.com/artist/2Y4ohL1lkOM3IABqtkZpvq) | [Stand in Awe](https://open.spotify.com/album/5D6qslrsW2qUZcdAZztpXP) | 5:10 |
-| 50 | [Worthy \(Live\)](https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II](https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ) | 8:29 |
+| 49 | [Worthy \(Live\)](https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II](https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ) | 8:29 |
+| 50 | [Stand in Awe](https://open.spotify.com/track/7DICHSYQHM0J4uLoevN0hB) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s), [Tom Young](https://open.spotify.com/artist/2Y4ohL1lkOM3IABqtkZpvq) | [Stand in Awe](https://open.spotify.com/album/5D6qslrsW2qUZcdAZztpXP) | 5:10 |
 | 51 | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/track/11jWJHIPj97VsZlCk72KDF) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Joel Gerdis](https://open.spotify.com/artist/0MxGkBtPVUt3OcFXkj3j3B) | [Sons & Daughters \(feat\. Joel Gerdis\) \(feat\. Joel Gerdis\)](https://open.spotify.com/album/4WTT13R6XQ9LmrvKvoRUWY) | 5:36 |
-| 52 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
-| 53 | [Come Through \- Live](https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 10:10 |
+| 52 | [Come Through \- Live](https://open.spotify.com/track/5cRUeftNovncesYE6P5d9N) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 10:10 |
+| 53 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
 | 54 | [Set My Heart \- Live](https://open.spotify.com/track/2UIxlbf3p2Fhknmq6WRHHQ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:12 |
 | 55 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
 | 56 | [You're Making Something Beautiful \- Spontaneous/Live](https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:23 |

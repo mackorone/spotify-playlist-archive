@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 54644,
+  "num_followers": 54651,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -515,8 +515,8 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+        "name": "Besser ohne Worte",
+        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
       "artists": [
         {
@@ -524,17 +524,21 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+          "name": "duo tuba & harfe",
+          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
         },
         {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+          "name": "Andreas Martin Hofmeir",
+          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
+        },
+        {
+          "name": "Andreas Mildner",
+          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+      "duration_ms": 97003,
+      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
+      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
     },
     {
       "added_at": "2024-10-15 15:27:46",
@@ -571,8 +575,8 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Besser ohne Worte",
-        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
       "artists": [
         {
@@ -580,21 +584,17 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "duo tuba & harfe",
-          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
         },
         {
-          "name": "Andreas Martin Hofmeir",
-          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
-        },
-        {
-          "name": "Andreas Mildner",
-          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
         }
       ],
-      "duration_ms": 97003,
-      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
-      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
     },
     {
       "added_at": "2024-10-15 15:27:46",

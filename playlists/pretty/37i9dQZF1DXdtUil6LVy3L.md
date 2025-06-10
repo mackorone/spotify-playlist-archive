@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,335 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,333 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 14 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
 | 15 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 |
 | 16 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 |
-| 17 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
-| 18 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
+| 17 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
+| 18 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
 | 19 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
 | 20 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
 | 21 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 24 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 |
 | 25 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
 | 26 | [With White Snow](https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [With White Snow](https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz) | 2:49 |
-| 27 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
-| 28 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
+| 27 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
+| 28 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
 | 29 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 |
 | 30 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 31 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 45 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
 | 46 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc) | 3:24 |
 | 47 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
-| 48 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 |
-| 49 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
+| 48 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
+| 49 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 |
 | 50 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 51 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
 | 52 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |

@@ -2857,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "gbesoke",
+        "url": "https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255983,
+      "name": "gbesoke",
+      "url": "https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV"
+    },
+    {
+      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
       },

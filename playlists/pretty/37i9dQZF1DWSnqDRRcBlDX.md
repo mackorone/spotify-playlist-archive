@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,340 likes - 51 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,366 likes - 51 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

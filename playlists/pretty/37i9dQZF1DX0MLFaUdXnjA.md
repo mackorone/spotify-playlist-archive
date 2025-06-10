@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: The Favors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,740 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,723 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 2 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
-| 3 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 |
-| 4 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
-| 5 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 6 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
-| 7 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
-| 8 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
-| 9 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 |
-| 10 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
-| 11 | [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 |
-| 12 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 13 | [Honey Blonde](https://open.spotify.com/track/6k4mCXo3M7fnGRpohDCKbR) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love \(Deluxe\)](https://open.spotify.com/album/4yo87qxXaDkzncFiujO60E) | 3:18 |
-| 14 | [Who Am I](https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:39 |
-| 15 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
-| 16 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
-| 17 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 3 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
+| 4 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 5 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
+| 6 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 |
+| 7 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
+| 8 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
+| 9 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
+| 10 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 |
+| 11 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
+| 12 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
+| 13 | [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 |
+| 14 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 15 | [Honey Blonde](https://open.spotify.com/track/6k4mCXo3M7fnGRpohDCKbR) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love \(Deluxe\)](https://open.spotify.com/album/4yo87qxXaDkzncFiujO60E) | 3:18 |
+| 16 | [Who Am I](https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:39 |
+| 17 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
 | 18 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 19 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 20 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
 | 100 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 |
 
-Snapshot ID: `aEJn0wAAAABexu7QtX0Cu6o1jVaL3hG/`
+Snapshot ID: `aEcrMgAAAACABfSm6brOZrfCogfmpEjF`

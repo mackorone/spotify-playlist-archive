@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > ¡mueve ese booty! 🍑🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,321 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,344 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 77 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 |
 | 78 | [Sigues Con El \- Remix](https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sigues Con El \(Remix\)](https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM) | 3:09 |
 | 79 | [PAM](https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAM](https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U) | 3:21 |
-| 80 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
-| 81 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
+| 80 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
+| 81 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
 | 82 | [Bata Bata 2](https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi) | [Latin Fresh](https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M) | [Plan Calle](https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8) | 3:28 |
 | 83 | [Chupón](https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj) | [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Chupón](https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ) | 3:21 |
 | 84 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 |

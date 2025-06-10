@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,869 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,870 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 17 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 |
 | 18 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 |
 | 19 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
-| 20 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
-| 21 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
+| 20 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
+| 21 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
 | 22 | [GOD\_i](https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I) | 3:35 |
 | 23 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
 | 24 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 36 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
 | 37 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
 | 38 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
-| 39 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
-| 40 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
+| 39 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
+| 40 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
 | 41 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
-| 42 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
+| 42 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
 | 43 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 44 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
 | 45 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |

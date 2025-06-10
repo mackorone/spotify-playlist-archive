@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,906 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,012 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 84 | [DJ Got Us Fallin in Love](https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To) | [Her Bright Skies](https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI) | [DJ Got Us Fallin in Love](https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL) | 3:35 |
 | 85 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 86 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
-| 87 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
-| 88 | [Landslide \- Remastered](https://open.spotify.com/track/2dc1BYopTHgviDXawShfME) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Remastered\)](https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W) | 3:10 |
+| 87 | [Landslide \- Remastered](https://open.spotify.com/track/2dc1BYopTHgviDXawShfME) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Remastered\)](https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W) | 3:10 |
+| 88 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
 | 89 | [Immigrant Song](https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [The Girl With the Dragon Tattoo](https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7) | 2:47 |
 | 90 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 |
 | 91 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
 | 92 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 93 | [I Had Some Help](https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [I Had Some Help](https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0) | 2:39 |
 | 94 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
-| 95 | [Dancing On My Own](https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:50 |
-| 96 | [Like A Stone \- Reimagined](https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Like A Stone \(Reimagined\)](https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2) | 4:47 |
+| 95 | [Like A Stone \- Reimagined](https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Like A Stone \(Reimagined\)](https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2) | 4:47 |
+| 96 | [Dancing On My Own](https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:50 |
 | 97 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 98 | [Ballroom Blitz](https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Ballroom Blitz](https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb) | 4:09 |
 | 99 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
-| 100 | [Hello](https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj), [Wow That's What I Call Metalcore](https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu) | 4:53 |
+| 100 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
 
 Snapshot ID: `Z+bSuwAAAAAsNFAzJ5YQLI0bD4tkVC60`

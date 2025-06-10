@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain]
 
 > It's time for curtain up! Cover: & Juliet
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,953 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,989 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9W2w95RLbO.md) - [plain]
 | 59 | [The 25th Annual Putnam County Spelling Bee](https://open.spotify.com/track/4x4iVJeMf8YRryor4lKflE) | [25th Annual Putnam County Spelling Bee Original Cast](https://open.spotify.com/artist/66tdbpspqaHM1cPkBTC0WU) | [25th Annual Putnam County Spelling Bee \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5SXDpZh8lHqquvkcbheIYa) | 4:44 |
 | 60 | [Move \(You're Steppin' On My Heart\) \- Dreamgirls/Broadway/Original Cast Version](https://open.spotify.com/track/1uxWtPsQHalGdWnI5VyT1k) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t), [Loretta Devine](https://open.spotify.com/artist/5KLD26mHpJBYyAr9pKTwl7), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 1:55 |
 
-Snapshot ID: `Z+rBywAAAABph9MAKhS7R/V3vK+U7US4`
+Snapshot ID: `Z+rBywAAAADfmQFC0YjpLnWPUmbJHWhT`

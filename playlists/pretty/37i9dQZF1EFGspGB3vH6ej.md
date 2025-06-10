@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,278 likes - 249 songs - 17 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,280 likes - 249 songs - 17 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 81 | [8th Grade](https://open.spotify.com/track/2mWb172p8SCACG6Peh3Qmt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 4:48 |
 | 82 | [Christmas Time Is In The Air Again](https://open.spotify.com/track/30NMDExDsuKlCvOByaGtk2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 3:01 |
 | 83 | [Someone to Hold](https://open.spotify.com/track/0QxHxD5A0qzNBIMobsQT4X) | [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [Trey Lorenz](https://open.spotify.com/album/4AoQMFNjIDh3GxonncoMTd) | 4:43 |
-| 84 | [One And Only](https://open.spotify.com/track/0lLL0hIu4wB3uzQsLpGVC9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:14 |
-| 85 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 |
+| 84 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 |
+| 85 | [One And Only](https://open.spotify.com/track/0lLL0hIu4wB3uzQsLpGVC9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:14 |
 | 86 | [Music Box](https://open.spotify.com/track/3kxr8R2FrhQcENEDvWPNqa) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:55 |
 | 87 | [Lil Love](https://open.spotify.com/track/4OcLeBfVjxjBn2LHEqHJVR) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 3:52 |
 | 88 | [Up Out My Face](https://open.spotify.com/track/5PIbdp9yrXFQnBe5hwwM29) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:41 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 136 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 137 | [Thanx 4 Nothin'](https://open.spotify.com/track/7qbyb4fYXKt7MTL1UC5How) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:05 |
 | 138 | [And You Don't Remember](https://open.spotify.com/track/6kfyeOWjfBgfSlq1dgWq0N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:25 |
-| 139 | [Ribbon](https://open.spotify.com/track/11NxKfNMz21t1HnvWsqwNv) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:21 |
-| 140 | [Loverboy](https://open.spotify.com/track/75b9JVzc4QFvPBO7jDRIVe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:49 |
+| 139 | [Loverboy](https://open.spotify.com/track/75b9JVzc4QFvPBO7jDRIVe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:49 |
+| 140 | [Ribbon](https://open.spotify.com/track/11NxKfNMz21t1HnvWsqwNv) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:21 |
 | 141 | [I've Been Thinking About You](https://open.spotify.com/track/0mL8kPWWoXYEwOmSQvx6t7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:45 |
 | 142 | [All In Your Mind](https://open.spotify.com/track/1pbue6khgOfJVEZ1zoFTXL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:43 |
 | 143 | [Inseparable](https://open.spotify.com/track/3SnzhocraXbgk8dYkIHaBS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:33 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbznyAAAAAD9e6viRe3qv/vCGnXtND6k`
+Snapshot ID: `AbztcgAAAAAHlrQkoBCO4skdiZKlu2GR`

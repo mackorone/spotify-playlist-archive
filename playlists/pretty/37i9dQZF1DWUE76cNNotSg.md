@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,816 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,957 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 86 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 87 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 |
 | 88 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
-| 89 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 |
-| 90 | [Swim](https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Swim](https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC) | 4:20 |
+| 89 | [Swim](https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Swim](https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC) | 4:20 |
+| 90 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 |
 | 91 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 | 92 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
 | 93 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 97 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 98 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 99 | [I Wanna Go](https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC) | [Summer Heart](https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio) | [About A Feeling](https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX) | 4:07 |
-| 100 | [Palm Trees](https://open.spotify.com/track/4yk9sAWpraADzST2Uh6VPm) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:19 |
+| 100 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 |
 
 Snapshot ID: `aEJn2wAAAAA6QKiYktouJ21ovoIcOCQI`

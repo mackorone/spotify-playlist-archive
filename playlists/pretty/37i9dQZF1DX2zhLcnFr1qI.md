@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,446 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,441 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 57 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
 | 58 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
 | 59 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
-| 60 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
+| 60 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 |
 
 Snapshot ID: `Z32hpQAAAABMbZgxeXK29siQH1gLojbG`

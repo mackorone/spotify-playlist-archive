@@ -59,28 +59,28 @@
     },
     {
       "album": {
-        "name": "ALL ABOARD",
+        "name": "ALL ABOARD\u2606",
         "url": "https://open.spotify.com/album/1thgM8NhTGWurqQR5kaYBC"
       },
       "artists": [
         {
-          "name": "Mitsuki Izumi (CV: Tsubasa Yonaga)",
-          "url": "https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C"
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
         },
         {
-          "name": "Yamato Nikaido (CV: Yusuke Shirai)",
-          "url": "https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK"
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
         },
         {
-          "name": "Sogo Osaka (CV: Atsushi Abe)",
-          "url": "https://open.spotify.com/artist/6S3Y222d1LlL91Mr9Zao7j"
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
         }
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223666,
-      "name": "ALL ABOARD",
+      "name": "ALL ABOARD\u2606",
       "url": "https://open.spotify.com/track/75ptsBOaFOCrQKHjQCPleM"
     },
     {
@@ -234,20 +234,20 @@
       },
       "artists": [
         {
-          "name": "Yamato Nikaido (CV: Yusuke Shirai)",
-          "url": "https://open.spotify.com/artist/7GS38SdMBcDCouQUdllaTK"
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
         },
         {
-          "name": "Sogo Osaka (CV: Atsushi Abe)",
-          "url": "https://open.spotify.com/artist/6S3Y222d1LlL91Mr9Zao7j"
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
         },
         {
-          "name": "Yuki (CV: Shinnosuke Tachibana)",
-          "url": "https://open.spotify.com/artist/67vfCcitRvMcZluBW4dSzk"
+          "name": "\u5343 (CV.\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh"
         },
         {
-          "name": "Minami Natsume (CV: Koutaro Nishiyama)",
-          "url": "https://open.spotify.com/artist/28IIr1lXeCP14LA8DGFjuu"
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
         }
       ],
       "date_added": "2024-04-01",
@@ -1660,16 +1660,16 @@
       },
       "artists": [
         {
-          "name": "Iori Izumi (CV: Toshiki Masuda)",
-          "url": "https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU"
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
         },
         {
-          "name": "Mitsuki Izumi (CV: Tsubasa Yonaga)",
-          "url": "https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C"
+          "name": "\u548c\u6cc9\u4e09\u6708 (CV.\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c"
         },
         {
-          "name": "Riku Nanase (CV: Kensho Ono)",
-          "url": "https://open.spotify.com/artist/0Bq1mg6MFqIr0KpIzE84ZC"
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
         }
       ],
       "date_added": "2024-01-25",
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 267320,
       "name": "TOMORROW EViDENCE",
       "url": "https://open.spotify.com/track/0kf7Bot5ZRaLCgtYxX44WK"
@@ -2336,6 +2336,24 @@
       "duration_ms": 260560,
       "name": "Unfoggy Sight",
       "url": "https://open.spotify.com/track/0lBinn3H6ABhGKbHGu29cn"
+    },
+    {
+      "album": {
+        "name": "UNFOLDiNG HARMONY",
+        "url": "https://open.spotify.com/album/7N0cDT8FRIsiEmXjlSfAaH"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "UNFOLDiNG HARMONY",
+      "url": "https://open.spotify.com/track/6jmpRE8C27breHqbZzI3El"
     },
     {
       "album": {

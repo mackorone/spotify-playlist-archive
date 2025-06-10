@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,757 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,760 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 49 | [Parallel Lines](https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [What We Leave Behind](https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt) | 2:42 |
 | 50 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 51 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 |
-| 52 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
-| 53 | [Drink the Ocean \(feat\. Oracle Sisters\)](https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 3:52 |
+| 52 | [Drink the Ocean \(feat\. Oracle Sisters\)](https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 3:52 |
+| 53 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
 | 54 | [Borrow mine](https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Flower of the soul \(full bloom\)](https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE) | 2:23 |
 | 55 | [It..\. What or Why?](https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ) | [Gypsy Mitchell](https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD) | [Love Is..\. Infinite](https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds) | 6:40 |
 | 56 | [The Eyes Of Cécilia](https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [The Eyes Of Cécilia](https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt) | 3:25 |

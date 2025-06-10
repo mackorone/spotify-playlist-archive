@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: BIBI\(비비\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: KISS OF LIFE\)
 
-828 songs - 1 day 19 hr 57 min
+829 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 |  |
 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun](https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 | 2025-02-20 | 2025-03-13 |
 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 | 2022-05-11 | 2022-07-28 |
-| [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 |  |
+| [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 | 2025-06-10 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-04 | 2022-07-28 |
 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 | 2022-08-18 | 2022-10-11 |
 | [Gifted \(Feat\. Diondre Jermaine\)](https://open.spotify.com/track/1QgBi0ZYvVbjK6b5oBrRUr) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Diondre Jermaine](https://open.spotify.com/artist/1P3N5YD2qetgv6uCz7l98P) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:40 | 2022-07-14 | 2022-07-25 |
@@ -410,6 +410,7 @@
 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 | 2024-04-19 | 2024-05-01 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-27 | 2023-12-14 |
 | [Like that](https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like that](https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3) | 2:36 | 2024-06-06 | 2024-08-23 |
+| [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-09 |  |
 | [Locked In \(Feat\. Jiselle\)](https://open.spotify.com/track/7KzkNqK1WohUzYHTJSmlOU) | [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Locked In](https://open.spotify.com/album/7cPLsI2lTuZhBKZi98Po6r) | 2:42 | 2023-04-07 | 2023-04-18 |
 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 | 2023-07-25 | 2023-11-11 |
 | [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-22 | 2023-10-07 |

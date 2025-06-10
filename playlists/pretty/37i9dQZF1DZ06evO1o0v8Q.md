@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,873 likes - 42 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,995 likes - 42 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 16 | [Blue by You](https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:18 |
 | 17 | [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 |
 | 18 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
-| 19 | [SUNSHOWER](https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:40 |
+| 19 | [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 |
 | 20 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 |
 | 21 | [DON'T PLAY](https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:13 |
 | 22 | [Big Smile](https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:29 |
-| 23 | [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 |
+| 23 | [SUNSHOWER](https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:40 |
 | 24 | [Canned Heat](https://open.spotify.com/track/3FT12lBLjNgy1jTa4E1160) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 0:58 |
 | 25 | [T.L.C\. \(TURNSTILE LOVE CONNECTION\)](https://open.spotify.com/track/3zQpWQCDm9QMDaAhe4ggoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:42 |
 | 26 | [\(Lost Another\) Piece of My World](https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:51 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 41 | [The Dream](https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:43 |
 | 42 | [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 |
 
-Snapshot ID: `aEOBAAAAAADG0xnQgSkd0zRlPyKch6wn`
+Snapshot ID: `aETSgAAAAABAfzvWrQqU5UQu5NkteFwo`

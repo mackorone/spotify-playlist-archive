@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825,901 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,825,827 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 14 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
 | 15 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 16 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
-| 17 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
+| 17 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 18 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
-| 19 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
+| 19 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 | 20 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 21 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 22 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 48 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 49 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 50 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 51 | [And I Love Her \- Remastered 2009](https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:29 |
-| 52 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
-| 53 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
-| 54 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
+| 51 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
+| 52 | [And I Love Her \- Remastered 2009](https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:29 |
+| 53 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
+| 54 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 55 | [The Painter](https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:31 |
 | 56 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
 | 57 | [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 |

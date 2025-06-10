@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything \~<br/>ft\. alemeda & rachel chinouriri 🦎
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,364 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,374 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

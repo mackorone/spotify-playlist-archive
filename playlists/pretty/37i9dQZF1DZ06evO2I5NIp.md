@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,652 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,653 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 30 | [Apple Pie And A .45](https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:45 |
 | 31 | [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 |
 | 32 | [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 |
-| 33 | [Suspicion](https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:55 |
-| 34 | [Wine O'Clock](https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:03 |
+| 33 | [Wine O'Clock](https://open.spotify.com/track/3BgUyQR9i8n8UE73LGVgrF) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:03 |
+| 34 | [Suspicion](https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:55 |
 | 35 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 36 | [Too Close](https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:39 |
 | 37 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 |
 | 38 | [Is There Anybody Up There?](https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:44 |
 | 39 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 |
 | 40 | [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 |
-| 41 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
-| 42 | [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 |
+| 41 | [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 |
+| 42 | [Broken High Heels](https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:48 |
 | 43 | [Give God The Blues](https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:47 |
-| 44 | [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 |
-| 45 | [Broken High Heels](https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:48 |
+| 44 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 |
+| 45 | [Baby Don't Do It](https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Dedicated: A Salute To The 5 Royales](https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu) | 2:51 |
 | 46 | [Isn't That So](https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:17 |
 | 47 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 |
-| 48 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
-| 49 | [Cadillac Blue](https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:39 |
+| 48 | [Cadillac Blue](https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:39 |
+| 49 | [The Push I Need](https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:48 |
 | 50 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:53 |
 
-Snapshot ID: `aEOBAAAAAAASewgF+LWTClIhAsNhp6Zm`
+Snapshot ID: `aETSgAAAAACAOIUWzzuQCJsiVNHo7Ls2`

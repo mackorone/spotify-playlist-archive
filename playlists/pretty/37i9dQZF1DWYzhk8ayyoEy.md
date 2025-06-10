@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,076 likes - 74 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,091 likes - 74 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 73 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 |
 | 74 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 |
 
-Snapshot ID: `aEJnyQAAAADSX7KUeT3/8TyNHMgGaMRV`
+Snapshot ID: `aEJnyQAAAABUEbeK0+UkrL/2A8lpitxn`

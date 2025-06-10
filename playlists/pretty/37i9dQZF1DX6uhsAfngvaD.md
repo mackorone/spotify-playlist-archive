@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,717 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,744 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 42 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 |
 | 43 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
 | 44 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
-| 45 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
-| 46 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
+| 45 | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Only One Man \(with Melody's Echo Chamber\)](https://open.spotify.com/album/33zR8Z3dApeJSWwxRZAjj8) | 3:10 |
+| 46 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
 | 47 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 48 | [baby’s out of luck again](https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby's out of luck again](https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs) | 2:29 |
 | 49 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 55 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 56 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 57 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
-| 58 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 59 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
+| 58 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
+| 59 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 60 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 61 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 62 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 72 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
 | 73 | [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 |
 | 74 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
-| 75 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 |
-| 76 | [Memoryboy](https://open.spotify.com/track/4IA2uyRfRPekvoFMq28Zv5) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [10K](https://open.spotify.com/album/1ZxFEadir98g6i0K9adLim) | 3:21 |
+| 75 | [Memoryboy](https://open.spotify.com/track/4IA2uyRfRPekvoFMq28Zv5) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [10K](https://open.spotify.com/album/1ZxFEadir98g6i0K9adLim) | 3:21 |
+| 76 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 |
 | 77 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 78 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
 | 79 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |

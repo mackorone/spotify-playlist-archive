@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40214,
+  "num_followers": 40222,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 474560,
+      "name": "Zulu - Change Mix",
+      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "What You Need (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 368466,
       "name": "Equinox - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 474560,
-      "name": "Zulu - Change Mix",
-      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
     },
     {
       "added_at": "2022-03-03 13:59:16",

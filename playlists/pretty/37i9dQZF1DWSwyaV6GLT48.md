@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 
 > sunny days, happy people
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,762 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,806 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 37 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
 | 38 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 39 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
-| 40 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
-| 41 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
+| 40 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
+| 41 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
 | 42 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
 | 43 | [Stole the Show](https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:43 |
 | 44 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwyaV6GLT48.md) - [plain]
 | 74 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
 | 75 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
 | 76 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
-| 77 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
-| 78 | [Changes \- Radio Mix](https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changes](https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E) | 3:22 |
+| 77 | [Changes \- Radio Mix](https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Changes](https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E) | 3:22 |
+| 78 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 79 | [A\-Punk](https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:17 |
 | 80 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |
 | 81 | [Mona Lisa](https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:06 |

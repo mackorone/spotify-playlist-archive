@@ -1,28 +1,136 @@
 {
   "description": "Listen here for the best emerging British Acts across pop, alternative and more",
-  "num_followers": 100362,
+  "num_followers": 100332,
   "original_name": "Hot New UK",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAh/H7z1aw9HY+Y9AWQQeMDqNLNJ09j",
+  "snapshot_id": "AAAiCynPCwh9FaX7dB0+Y5K4KStrUDA+",
   "tracks": [
     {
-      "added_at": "2025-05-20 09:40:28",
+      "added_at": "2025-06-09 15:01:12",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2025-06-09 15:01:53",
+      "album": {
+        "name": "Love Rehab (Dun Dun)",
+        "url": "https://open.spotify.com/album/0tLMdUHZEsRsaUoctZwcQz"
+      },
+      "artists": [
+        {
+          "name": "Issac Frank",
+          "url": "https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj"
+        },
+        {
+          "name": "Mae Hill",
+          "url": "https://open.spotify.com/artist/51mpNR9ivpZEWp50hXyltm"
+        }
+      ],
+      "duration_ms": 149683,
+      "name": "Love Rehab (Dun Dun)",
+      "url": "https://open.spotify.com/track/1NTzmzdyvIWgu1aYTGedtJ"
+    },
+    {
+      "added_at": "2025-06-09 15:02:45",
+      "album": {
+        "name": "Same Mouth",
+        "url": "https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 156165,
+      "name": "Same Mouth",
+      "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
+    },
+    {
+      "added_at": "2025-06-09 15:03:14",
+      "album": {
+        "name": "Shalalala",
+        "url": "https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 246312,
+      "name": "Shalalala",
+      "url": "https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic"
+    },
+    {
+      "added_at": "2025-06-09 15:03:32",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/79D8ra2TqqdVBjUNrF8TGG"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/5zcLgmPeZC5q3Ybs1R4Fuf"
+    },
+    {
+      "added_at": "2025-06-09 15:03:24",
+      "album": {
+        "name": "January 19",
+        "url": "https://open.spotify.com/album/28jjDEKDaLJW6ZT2FkVuZa"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 155741,
+      "name": "January 19",
+      "url": "https://open.spotify.com/track/2iOIngyjdy2L7qONMfTHeD"
+    },
+    {
+      "added_at": "2025-06-09 15:03:44",
+      "album": {
+        "name": "Back In My Bed",
+        "url": "https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MEYY",
+          "url": "https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5"
+        },
+        {
+          "name": "Y2J!",
+          "url": "https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb"
+        }
+      ],
+      "duration_ms": 143308,
+      "name": "Back In My Bed",
+      "url": "https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT"
     },
     {
       "added_at": "2025-04-24 14:14:58",
@@ -41,6 +149,22 @@
       "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
     },
     {
+      "added_at": "2025-05-20 09:40:28",
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
       "added_at": "2025-04-24 14:08:32",
       "album": {
         "name": "Running From Myself",
@@ -55,6 +179,26 @@
       "duration_ms": 156990,
       "name": "Running From Myself",
       "url": "https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF"
+    },
+    {
+      "added_at": "2025-06-09 15:02:58",
+      "album": {
+        "name": "Cops & Robbers",
+        "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 161495,
+      "name": "Cops & Robbers",
+      "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
     },
     {
       "added_at": "2025-05-07 15:50:16",
@@ -989,6 +1133,22 @@
       "url": "https://open.spotify.com/track/00lOTpg4orTepa3xerNfRP"
     },
     {
+      "added_at": "2025-04-24 14:33:17",
+      "album": {
+        "name": "The Loop (Deluxe)",
+        "url": "https://open.spotify.com/album/2UDNXRSWgMZovFmw14u5Z9"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 250971,
+      "name": "Friend or Foe",
+      "url": "https://open.spotify.com/track/7AZQTG1VHZxrvPurnshDLc"
+    },
+    {
       "added_at": "2025-04-24 14:28:36",
       "album": {
         "name": "Silence Is Loud",
@@ -1113,22 +1273,6 @@
       "url": "https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI"
     },
     {
-      "added_at": "2025-04-24 14:33:17",
-      "album": {
-        "name": "The Loop (Deluxe)",
-        "url": "https://open.spotify.com/album/2UDNXRSWgMZovFmw14u5Z9"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 250971,
-      "name": "Friend or Foe",
-      "url": "https://open.spotify.com/track/7AZQTG1VHZxrvPurnshDLc"
-    },
-    {
       "added_at": "2025-04-24 14:34:06",
       "album": {
         "name": "I WILL.",
@@ -1159,6 +1303,22 @@
       "duration_ms": 183068,
       "name": "Who\u2019s There To Love Without You?",
       "url": "https://open.spotify.com/track/4tBZyQzNxXMvRUdpwv9j95"
+    },
+    {
+      "added_at": "2025-06-09 16:08:31",
+      "album": {
+        "name": "I\u2019M FINE!",
+        "url": "https://open.spotify.com/album/5r0c7a4f0d6dq0fvzn8aOb"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "I\u2019M FINE!",
+      "url": "https://open.spotify.com/track/3DjGyVDxV4nba6546dgx6y"
     }
   ],
   "unique_name": "Hot New UK",

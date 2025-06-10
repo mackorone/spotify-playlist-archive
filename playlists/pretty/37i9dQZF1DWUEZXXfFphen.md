@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 
 > Los sonidos más dulces del pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,204 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,224 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 | 59 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 60 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |
 
-Snapshot ID: `Z67NlQAAAAAFIkUGpV/UpkgMqY0fsxx+`
+Snapshot ID: `Z67NlQAAAADUBHIDwyIdUSnnH/cMmkhj`

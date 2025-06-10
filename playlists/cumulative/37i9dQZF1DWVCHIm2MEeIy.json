@@ -966,7 +966,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 178139,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 224841,
       "name": "Can We Find A Way - Ede Remix",
       "url": "https://open.spotify.com/track/6HZiDsrA00Jiy1EBkukFNr"
@@ -4837,6 +4837,32 @@
     },
     {
       "album": {
+        "name": "Inside Your Mind",
+        "url": "https://open.spotify.com/album/2BgHXg7wPsbsdSISHjLBLj"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        },
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174252,
+      "name": "Inside Your Mind",
+      "url": "https://open.spotify.com/track/16h1oek8xjdszxudIyjFg3"
+    },
+    {
+      "album": {
         "name": "The Selador Showcase - The Phenomenal Fifteenth",
         "url": "https://open.spotify.com/album/0IdBHTWEw5scv60okmQpFE"
       },
@@ -6000,7 +6026,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 185714,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/2okNXW6BSeavOvD3aVCyCp"

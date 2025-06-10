@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,975 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,971 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 55 | [Metale Bravura](https://open.spotify.com/track/4ez1FnbpXeUgudedpAZYUB) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Metale Bravura](https://open.spotify.com/album/02a3XyLmZyydCpe3a4r72h) | 3:12 |
 | 56 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 57 | [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 |
-| 58 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
-| 59 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
+| 58 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
+| 59 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
 | 60 | [Eres Tú](https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Eres Tú](https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx) | 3:27 |
 
 Snapshot ID: `Zwi6lQAAAAAx3eWpPmjHryL4/1eHX9wg`

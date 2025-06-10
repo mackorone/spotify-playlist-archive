@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-117 songs - 9 hr 30 min
+118 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Controversy](https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Ultimate](https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW) | 7:15 | 2020-05-08 | 2022-11-13 |
 | [Controversy](https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:15 | 2020-05-08 |  |
 | [Cutie Pie](https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Cutie Pie](https://open.spotify.com/album/0mxxWnON99ABmmeQdqX8Ds) | 5:28 | 2020-04-15 |  |
+| [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2025-06-09 |  |
 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 | 2020-05-08 |  |
 | [Fantastic Voyage](https://open.spotify.com/track/6A7esHdrhiQ11Ol9pSiQTv) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Lakeside: Greatest Hits](https://open.spotify.com/album/6ApChpIo1Er0VGwqcUzXIW) | 6:10 | 2020-05-08 | 2022-11-13 |
 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2020-05-08 | 2023-05-28 |
@@ -102,7 +103,7 @@
 | [Superstition \- Single Version](https://open.spotify.com/track/57wV4ExkkZBDEwM1OqGmGp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Spring Clean](https://open.spotify.com/album/6h0tyUTj25WN2yhgxAkfgY) | 4:04 | 2020-04-15 | 2022-11-13 |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2020-04-15 | 2024-04-19 |
 | [Tell Me Something Good](https://open.spotify.com/track/1OO2Fp9PsnaayiekeXuGJX) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rags To Rufus](https://open.spotify.com/album/127CLXCibn1ARC1CGExGav) | 4:37 | 2020-05-08 |  |
-| [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-04-15 |  |
+| [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-04-15 | 2025-06-10 |
 | [The Cisco Kid](https://open.spotify.com/track/1c0ShGrrj3m04rrOWrWFEH) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 | 2020-04-15 | 2024-04-19 |
 | [The Cisco Kid](https://open.spotify.com/track/5DvGqOJAB0OUDc8R9cLN3H) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Evolutionary](https://open.spotify.com/album/7rk4fjeq22xXAwhY7XL8yf) | 3:47 | 2020-04-15 |  |
 | [The Cisco Kid](https://open.spotify.com/track/081VW4WQgow6Z6vq4M1TAX) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Soul](https://open.spotify.com/album/1NE38A18BYfXoRTxWafoDi) | 3:48 | 2020-04-15 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-170 songs - 9 hr 38 min
+171 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [New Invention](https://open.spotify.com/track/5vRXG939KMWdIPdLRYo9kw) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:11 | 2023-01-07 |  |
 | [No One Lives Forever](https://open.spotify.com/track/3kdSHY9ZQIjyg4Q68YG4Qz) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 4:14 | 2023-07-31 |  |
 | [Ogre Battle \- Remastered 2011](https://open.spotify.com/track/0UxXocASq2ToyrRGFfjEUx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL) | 4:08 | 2023-03-21 |  |
+| [One Foot in the Grave](https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Element Two: Earth](https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ) | 2:40 | 2025-06-09 |  |
 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2025-04-22 |  |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-06 |  |
 | [Planet Schmanet Janet](https://open.spotify.com/track/5BUokL5dxJO1toTcMY72Uh) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [Absolute Treasures: The Rocky Horror Picture Show \- The Complete and Definitive Soundtrack \(2015 40th Anniversary Re\-Mastered Edition\)](https://open.spotify.com/album/1llln24xqen4HG9w0Gpgua) | 1:39 | 2024-10-13 |  |

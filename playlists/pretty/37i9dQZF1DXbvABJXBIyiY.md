@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,323 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,236 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 20 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 | 21 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
 | 22 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
-| 23 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
-| 24 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
-| 25 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 |
+| 23 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 |
+| 24 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
+| 25 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 26 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
 | 27 | [zombie girl](https://open.spotify.com/track/5ZD6USvzWXbGxZ9pv6a9b9) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2WKfCjW3EDmgHswj5eVXuG) | 2:44 |
 | 28 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
-| 29 | [Crumble](https://open.spotify.com/track/3N7i5xAfX7AnTiGPClDSmq) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Crumble](https://open.spotify.com/album/6ktRXgEx0dyiNeMpeOu0AD) | 3:58 |
-| 30 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
+| 29 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
+| 30 | [Crumble](https://open.spotify.com/track/3N7i5xAfX7AnTiGPClDSmq) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Crumble](https://open.spotify.com/album/6ktRXgEx0dyiNeMpeOu0AD) | 3:58 |
 | 31 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
 | 32 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 33 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 37 | [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 |
 | 38 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
 | 39 | [Lullaby](https://open.spotify.com/track/3yMCUholqG6FuApwrI3FXA) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:32 |
-| 40 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
-| 41 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 40 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 41 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 42 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 | 43 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 | 44 | [Home](https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:32 |

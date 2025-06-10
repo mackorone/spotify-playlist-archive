@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Sextile on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,027 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,080 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 44 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
 | 45 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 46 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
-| 47 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
-| 48 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
+| 47 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
+| 48 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
 | 49 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 50 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 | 51 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 80 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
 | 81 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
 | 82 | [Fuck Forever](https://open.spotify.com/track/41Z2joQXOwZRBB8V6zk0A8) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion](https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA) | 4:37 |
-| 83 | [Women Respond to Bass](https://open.spotify.com/track/0BBmhTKDbkCoDt68VgZ0jj) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [yes, please.](https://open.spotify.com/album/2RWrI8TfimAyiRIcmVuV77) | 2:46 |
-| 84 | [My Girl](https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Girl](https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2) | 2:45 |
+| 83 | [My Girl](https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Girl](https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2) | 2:45 |
+| 84 | [Women Respond to Bass](https://open.spotify.com/track/0BBmhTKDbkCoDt68VgZ0jj) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [yes, please.](https://open.spotify.com/album/2RWrI8TfimAyiRIcmVuV77) | 2:46 |
 | 85 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
 | 86 | [All Night](https://open.spotify.com/track/4IGT69nbtQdRXNVIZaulOf) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 3:53 |
 | 87 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |

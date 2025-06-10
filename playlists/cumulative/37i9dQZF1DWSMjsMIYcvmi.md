@@ -4,7 +4,7 @@
 
 > Hey \(office\) DJ, turn the music up! 👩🏽‍💼💻
 
-271 songs - 15 hr 43 min
+272 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Better](https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Better](https://open.spotify.com/album/6Nd4PYvQ7aYid1Gn6sWgeG) | 3:49 | 2025-02-05 | 2025-03-11 |
 | [Better Days \- Mejores Días \(with KHEA\)](https://open.spotify.com/track/0Y0xENhvytKvGEgEVd82D4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Better Days \- Mejores Días \(with KHEA\)](https://open.spotify.com/album/2oVCeLycUdkke9NNXyEoWk) | 2:24 | 2023-11-23 | 2025-02-06 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-02-05 |  |
-| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-06-05 |  |
+| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-06-05 | 2025-06-10 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-09-08 |  |
 | [Blinding Lights](https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Blinding Lights](https://open.spotify.com/album/2ZfHkwHuoAZrlz7RMj0PDz) | 3:21 | 2024-05-23 | 2025-02-06 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-06-05 |  |
@@ -170,6 +170,7 @@
 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 | 2025-02-05 | 2025-06-06 |
 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 | 2025-02-05 | 2025-03-11 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-06-05 |  |
+| [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-06-05 |  |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-06-05 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2025-03-10 | 2025-06-06 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-13 |  |

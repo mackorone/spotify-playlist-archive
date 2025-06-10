@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59641,
+  "num_followers": 59639,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "G\u00e5 f\u00f6r glory",
+        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "G\u00e5 f\u00f6r glory",
+      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -275,22 +291,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "G\u00e5 f\u00f6r glory",
-        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "G\u00e5 f\u00f6r glory",
-      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Dominos",
         "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 160601,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Aldrig g\u00e5",
-        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
-      },
-      "artists": [
-        {
-          "name": "Lov1",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Aldrig g\u00e5",
-      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -339,6 +323,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Aldrig g\u00e5",
+        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+      },
+      "artists": [
+        {
+          "name": "Lov1",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Aldrig g\u00e5",
+      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Stockholm City",
         "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 135769,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "02:30",
         "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 217000,
       "name": "02:30",
       "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 135769,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 193346,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Goldfish",
-        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Goldfish",
-      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Tom Cruisin'",
         "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
       },
@@ -623,22 +607,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Trappa till himlen",
-        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
       },
       "artists": [
         {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        },
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 236842,
-      "name": "Trappa till himlen",
-      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
+      "duration_ms": 186900,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -659,6 +639,26 @@
       "duration_ms": 169709,
       "name": "LIE TO ME",
       "url": "https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Trappa till himlen",
+        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        },
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Trappa till himlen",
+      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Dancing Around The Truth",
-        "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 230670,
-      "name": "Dancing Around The Truth",
-      "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "N\u00e5gon annan \u00e4n dig",
         "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 164869,
       "name": "N\u00e5gon annan \u00e4n dig",
       "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Dancing Around The Truth",
+        "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 230670,
+      "name": "Dancing Around The Truth",
+      "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
+      },
+      "artists": [
+        {
+          "name": "Tim Lidman",
+          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
+        }
+      ],
+      "duration_ms": 136593,
+      "name": "Tro",
+      "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
         "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 159773,
       "name": "Fortfarande du",
       "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "F\u00f6rst\u00f6raren",
-        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 146778,
-      "name": "F\u00f6rst\u00f6raren",
-      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "F\u00f6rst\u00f6raren",
+        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "duration_ms": 146778,
+      "name": "F\u00f6rst\u00f6raren",
+      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 196321,
       "name": "112",
       "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
-      },
-      "artists": [
-        {
-          "name": "Tim Lidman",
-          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
-        }
-      ],
-      "duration_ms": 136593,
-      "name": "Tro",
-      "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Mormors Sommarvisa",
+        "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
+      },
+      "artists": [
+        {
+          "name": "Rebi",
+          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
+        }
+      ],
+      "duration_ms": 143649,
+      "name": "Mormors Sommarvisa",
+      "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "and is it really over",
         "url": "https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 133852,
       "name": "...Japanese pancakes",
       "url": "https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Mormors Sommarvisa",
-        "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
-      },
-      "artists": [
-        {
-          "name": "Rebi",
-          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
-        }
-      ],
-      "duration_ms": 143649,
-      "name": "Mormors Sommarvisa",
-      "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "SIGHTS",
-        "url": "https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "SIGHTS",
-      "url": "https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "KNEEEES",
         "url": "https://open.spotify.com/album/4T1pGeeiGRtzN0HON6hfQJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 159961,
       "name": "KNEEEES",
       "url": "https://open.spotify.com/track/36pxEPrYre9XxgGuOzEi3P"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "SIGHTS",
+        "url": "https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "SIGHTS",
+      "url": "https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Kom ih\u00e5g mig",
+        "url": "https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR"
+      },
+      "artists": [
+        {
+          "name": "MELVIN",
+          "url": "https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4"
+        }
+      ],
+      "duration_ms": 181538,
+      "name": "Kom ih\u00e5g mig",
+      "url": "https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Absolute Romance",
         "url": "https://open.spotify.com/album/0FAegR0Ac5ODCForSWg1OK"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Kom ih\u00e5g mig",
-        "url": "https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR"
+        "name": "snackar f\u00f6r mycket",
+        "url": "https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq"
       },
       "artists": [
         {
-          "name": "MELVIN",
-          "url": "https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4"
+          "name": "Chris Taylor",
+          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
         }
       ],
-      "duration_ms": 181538,
-      "name": "Kom ih\u00e5g mig",
-      "url": "https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P"
+      "duration_ms": 161614,
+      "name": "snackar f\u00f6r mycket",
+      "url": "https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "snackar f\u00f6r mycket",
-        "url": "https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq"
-      },
-      "artists": [
-        {
-          "name": "Chris Taylor",
-          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
-        }
-      ],
-      "duration_ms": 161614,
-      "name": "snackar f\u00f6r mycket",
-      "url": "https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Stuck Cat",
         "url": "https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Vincent's Wife (p.33)",
-        "url": "https://open.spotify.com/album/3aj4SLrcyZzswSqbfBflP9"
+        "name": "i guess this is me now?",
+        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
       },
       "artists": [
         {
-          "name": "Salty Licorice",
-          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
+          "name": "ENVYYOU",
+          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
         }
       ],
-      "duration_ms": 273882,
-      "name": "Vincent's Wife (p.33)",
-      "url": "https://open.spotify.com/track/2YqjRiCr5WfH7VBd2ctHcX"
+      "duration_ms": 148906,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
     }
   ],
   "unique_name": "p\u00e5 repeat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 161 songs - 9 hr 25 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 162 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,5 +169,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 159 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 160 | [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 2:59 |
 | 161 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 |
+| 162 | [One Foot in the Grave](https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Element Two: Earth](https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ) | 2:40 |
 
-Snapshot ID: `AAAA4CnXSlYmUEMTSN5GqU4oWy/5dFg2`
+Snapshot ID: `AAAA4Ta2dNkYWTP+FVtxCs09yTlE/Nh7`

@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 180540,
       "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
@@ -8049,6 +8049,24 @@
     },
     {
       "album": {
+        "name": "Iced Lips",
+        "url": "https://open.spotify.com/album/3B38JWfPV8tzWBwB2tOHg1"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139462,
+      "name": "Iced Lips",
+      "url": "https://open.spotify.com/track/14896rLkWF8L1oaaMiMGBQ"
+    },
+    {
+      "album": {
         "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
         "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
       },
@@ -8142,6 +8160,28 @@
       "duration_ms": 132363,
       "name": "If We Don\u2019t",
       "url": "https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/6uFCkzO0GjaydQUfI8nk41"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/3clflEmxpG20HeeFhZpHRA"
     },
     {
       "album": {
@@ -12440,7 +12480,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4d0MjR2a51UIM1mg9ekNHI"
@@ -14026,6 +14066,32 @@
       "duration_ms": 154075,
       "name": "Save Me (feat. Hanniou)",
       "url": "https://open.spotify.com/track/0smPpUafZRcZ42KTbFSa5I"
+    },
+    {
+      "album": {
+        "name": "Save My Love (with Ellie Goulding & AVAION)",
+        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "Save My Love (with Ellie Goulding & AVAION)",
+      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
     },
     {
       "album": {

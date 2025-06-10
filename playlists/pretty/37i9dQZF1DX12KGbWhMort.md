@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,188 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,210 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 65 | [Enséñame A Vivir Sin Ti](https://open.spotify.com/track/59f765mlM08j2POCl3zPvd) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 3:32 |
 | 66 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
 | 67 | [Tanto Amor](https://open.spotify.com/track/12dlQ3DhTydNecGP6atzIu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:48 |
-| 68 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
-| 69 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
+| 68 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
+| 69 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
 | 70 | [La Llamada](https://open.spotify.com/track/5ZCamgcqvkckdf2FdfYuth) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [La Llamada](https://open.spotify.com/album/5GeEcoNATic5kr69QPV89Q) | 4:00 |
 | 71 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 72 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |

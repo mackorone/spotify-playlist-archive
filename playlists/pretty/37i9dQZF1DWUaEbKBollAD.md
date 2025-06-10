@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,925 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,947 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 22 | [Sarabande](https://open.spotify.com/track/5ZwFCHzRbAll8TTvDmAKht) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Sarabande](https://open.spotify.com/album/4X7B8PnpBn7jZ1xDGrmIRS) | 3:16 |
 | 23 | [On The Road](https://open.spotify.com/track/714Ile0WQOorAkduRufKqh) | [SUMIA](https://open.spotify.com/artist/0GNaI8xPr4mxPoF5Ku8Rpa) | [On The Road](https://open.spotify.com/album/5TOBa8ERugPC0syjSU8SQd) | 3:35 |
 | 24 | [Masâr](https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 4:56 |
-| 25 | [No One Takes Me Down \- Original Mix](https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu), [SIS](https://open.spotify.com/artist/6SsmtVchggKSXCMt6UZjlj) | [No One Takes Me Down](https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK) | 8:04 |
+| 25 | [No One Takes Me Down](https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu), [SIS](https://open.spotify.com/artist/6SsmtVchggKSXCMt6UZjlj) | [No One Takes Me Down](https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK) | 8:04 |
 | 26 | [Sahara \- Original mix](https://open.spotify.com/track/7m0xP08bcvcHFVnlEzOhBG) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit) | [Psychedelic Awakening](https://open.spotify.com/album/6SZ4525Ke0Eu3ZmJLEFeJY) | 8:48 |
 | 27 | [Mantra](https://open.spotify.com/track/7800ZSDHsmcAhhwTY8jHQ2) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Mantra EP](https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT) | 3:35 |
 | 28 | [Homologic \- Dubfire & Fedele Remix](https://open.spotify.com/track/3ybQK3RNlnLe1x4jc3lNhp) | [Emitr](https://open.spotify.com/artist/3K4Bvd2aKjgYkCJU6amTLN), [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Fedele](https://open.spotify.com/artist/34gSgmoLZ10KRzLjouK868) | [Homologic \(Dubfire & Fedele Remix\)](https://open.spotify.com/album/44V06jzSd4Mvz6PkE3GV3S) | 6:34 |

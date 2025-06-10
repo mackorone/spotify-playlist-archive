@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Young Cister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,024 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,997 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [Madrid](https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 3:47 |
 | 50 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 
-Snapshot ID: `aEIR2gAAAAAAbXnXNi1qIdGnz0M7s1T3`
+Snapshot ID: `AAAAAHooOmPcnkGyw7n/YFxKBIpRTrg9`

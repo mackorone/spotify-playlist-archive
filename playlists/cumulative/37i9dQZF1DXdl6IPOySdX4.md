@@ -4,7 +4,7 @@
 
 > you up?
 
-503 songs - 1 day 4 hr 1 min
+504 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2022-02-04 | 2022-06-27 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-14 | 2022-11-10 |
 | [lemon sorbet](https://open.spotify.com/track/0N0vTOwTQLo6edqB1TF2XS) | [SASH](https://open.spotify.com/artist/6T2CimrgMFD4ww6OGVopDJ) | [lemon sorbet](https://open.spotify.com/album/5ZwVrlXFV5pgOf9WtJkMpd) | 2:31 | 2022-11-28 | 2023-01-05 |
-| [Let Me Love You](https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dangerous Woman](https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY) | 3:43 | 2025-02-04 |  |
+| [Let Me Love You](https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dangerous Woman](https://open.spotify.com/album/008gkJbe7n4eG8cifJOyKY) | 3:43 | 2025-02-04 | 2025-06-10 |
 | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \- Remix](https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \[Remix\]](https://open.spotify.com/album/1hLsMn21FEUQoPoc05hXw8) | 2:45 | 2024-11-08 |  |
 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 | 2022-07-29 | 2022-09-09 |
 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 | 2022-02-04 |  |
@@ -509,6 +509,7 @@
 | [You](https://open.spotify.com/track/4NZkwpYuSVe8ki1UH4xNtz) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [You](https://open.spotify.com/album/5Mn04JTuqg6pCwXQhgGbC3) | 2:30 | 2023-04-21 | 2023-07-01 |
 | [you & me](https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:24 | 2022-03-25 | 2022-04-20 |
 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 | 2022-02-04 |  |
+| [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 | 2025-06-09 |  |
 | [You're the only one I trust](https://open.spotify.com/track/3BN2hEZ2TxqjzYVpAVLTzV) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You're the only one I trust](https://open.spotify.com/album/1og1NwWveeYLy9dZq5HdcL) | 3:06 | 2025-05-30 |  |
 | [Your Guilty Pleasure](https://open.spotify.com/track/0fIHfxL7QUl8cRZbC31Jj3) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Your Guilty Pleasure](https://open.spotify.com/album/74DZDHu1rmFGLQ9ZdbiHUz) | 2:54 | 2024-07-02 | 2025-02-15 |
 

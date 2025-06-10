@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 347789,
+  "num_followers": 347858,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sidechain My Heart",
-        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Love & Affection",
-      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "#TRUE FUTURE",
         "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sidechain My Heart",
+        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Love & Affection",
+      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "DRENCH3D",
         "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Future Funk 2022",
+        "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Future Funk 2022",
+      "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "I Must Be Dreamin'",
         "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Future Funk 2022",
-        "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Future Funk 2022",
-      "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Summer Splash",
-        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
+        "name": "Lynx",
+        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 227812,
-      "name": "Summer Splash",
-      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
+      "duration_ms": 245882,
+      "name": "Lynx",
+      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
     }
   ],
   "unique_name": "Future Funk",

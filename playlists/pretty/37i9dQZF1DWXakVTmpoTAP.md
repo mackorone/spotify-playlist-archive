@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,552 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,568 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 4 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 |
 | 5 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:57 |
 | 6 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
-| 7 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 |
-| 8 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 |
+| 7 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 |
+| 8 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 |
 | 9 | [You Should Be Here](https://open.spotify.com/track/63thx7OANplv4I4BQsanHk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [You Should Be Here](https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei) | 3:10 |
 | 10 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
 | 11 | [like my father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [like my father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |

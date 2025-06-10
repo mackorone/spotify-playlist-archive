@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,478 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,526 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 54 | [Breaking Up Was Easy In The 90's](https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:35 |
 | 55 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
 | 56 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
-| 57 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
-| 58 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 57 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 58 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 59 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 60 | [When I Call Your Name](https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When I Call Your Name](https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK) | 4:15 |
 | 61 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,438 likes - 57 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,449 likes - 57 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 56 | [Higher \(Oscar Farrell Remix\)](https://open.spotify.com/track/272LexcV5XDL1bSzYz5r1p) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Higher \(dh2 remixes\)](https://open.spotify.com/album/3ByAiluejAJa9y8YN8Kdhf) | 4:30 |
 | 57 | [SATISFY](https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SATISFY](https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM) | 2:45 |
 
-Snapshot ID: `aCO7SAAAAAAaQ8lYLLvZA8siE0a+Nc9e`
+Snapshot ID: `aCO7SAAAAAATzW6TqnJCxGIgAH9q03pQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,189 likes - 41 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,206 likes - 41 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 9 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
 | 10 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
 | 11 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
-| 12 | [ABUNDANCIA](https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [ABUNDANCIA](https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC) | 2:47 |
-| 13 | [VIAJA CONMIGO \(feat\. Jasiel Nuñez, Yng Naz\) \- Remix](https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:34 |
+| 12 | [VIAJA CONMIGO \(feat\. Jasiel Nuñez, Yng Naz\) \- Remix](https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:34 |
+| 13 | [ABUNDANCIA](https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [ABUNDANCIA](https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC) | 2:47 |
 | 14 | [Jugando a Perder](https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Las Que Te Escribí y Nunca Te Canté](https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB) | 4:33 |
 | 15 | [NOCHES FRÍAS](https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:52 |
 | 16 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 31 | [Hasta el Dia de Hoy](https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Hasta el Dia de Hoy](https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh) | 3:09 |
 | 32 | [Donde Estamos Hoy](https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:42 |
 | 33 | [Una Última Ocasión](https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Una Última Ocasión](https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv) | 3:36 |
-| 34 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
-| 35 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
+| 34 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
+| 35 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
 | 36 | [Modo On](https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 37 | [Alla En Lynwood \- En Vivo](https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Alla En Lynwood \(En Vivo\)](https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul) | 3:23 |
 | 38 | [Escuela 4 Letras](https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ) | [Los Beltran](https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Los Tiempos Cambian](https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP) | 3:06 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 40 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 41 | [Yo Si Vengo De Las Calles](https://open.spotify.com/track/2cyhNfHLJtCcrpQIXFcV52) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 3:18 |
 
-Snapshot ID: `aEOBAAAAAAAHCfecTMIVQ+rWkNWhD7dC`
+Snapshot ID: `aETSgAAAAAALruEPxkIfDY/B60JbmgNe`

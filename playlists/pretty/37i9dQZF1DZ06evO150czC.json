@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 21687,
+  "num_followers": 21694,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABGwqkG+rcFmdSq/t2ypE12",
+  "snapshot_id": "aETSgAAAAACGi8JjYwkC33lT3p74lazU",
   "tracks": [
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+        "name": "N\u00e3o Desisto",
+        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
       },
       "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+      "duration_ms": 299788,
+      "name": "N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
     },
     {
       "added_at": null,
@@ -519,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Desisto",
-        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 299788,
-      "name": "N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima Live Session",
         "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Job",
-        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         }
       ],
-      "duration_ms": 324893,
-      "name": "Job",
-      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Job",
+        "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        }
+      ],
+      "duration_ms": 324893,
+      "name": "Job",
+      "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele N\u00e3o Muda (Ao Vivo)",
         "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A B\u00ean\u00e7\u00e3o do Senhor",
         "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 250636,
       "name": "A B\u00ean\u00e7\u00e3o do Senhor",
       "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 302927,
+      "name": "Vida aos Sepulcros (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 260342,
       "name": "Mem\u00f3rias (Ao Vivo)",
       "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 302927,
-      "name": "Vida aos Sepulcros (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
     },
     {
       "added_at": null,

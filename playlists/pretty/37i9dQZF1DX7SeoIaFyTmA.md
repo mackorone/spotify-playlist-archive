@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,424,912 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425,113 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 10 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
 | 11 | [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 |
 | 12 | [Oh Qué Será?](https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:04 |
-| 13 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 |
+| 13 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 14 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
-| 15 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 15 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 |
 | 16 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 17 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
 | 18 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 47 | [Decisiones](https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Buscando America](https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu) | 5:03 |
 | 48 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 |
 | 49 | [Mi Desengaño](https://open.spotify.com/track/1RKBf3NxIYZXKZNzdrXg69) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Lucky 7](https://open.spotify.com/album/4cowySOrdhav97PZipt4Uz) | 5:35 |
-| 50 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
+| 50 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
 | 51 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
 | 52 | [Como Te Hago Entender](https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [Los Rostros de la Salsa](https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli) | 5:44 |
 | 53 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |

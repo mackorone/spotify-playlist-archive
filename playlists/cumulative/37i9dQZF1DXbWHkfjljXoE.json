@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Melodies of the movement. Cover: Buddy Guy",
+  "description": "Melodies of the movement. Cover: Sly Stone",
   "name": "Power To The People",
   "tracks": [
     {
@@ -494,6 +494,24 @@
       "duration_ms": 239040,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5fxuaUVBweczm8SNnd2Ink"
+    },
+    {
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "album": {
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 469533,
       "name": "Sweet Black Angel (Black Angel Blues) - Live",
       "url": "https://open.spotify.com/track/1QJv2dfo7kIWMzpsREfvhn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884,296 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883,992 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 30 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 31 | [El Embrujo](https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh) | [El Embrujo](https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7) | 3:58 |
 | 32 | [Nada Valgo Sin Tu Amor \- MTV Unplugged](https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:44 |
-| 33 | [Soldadito de Hierro](https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Soldadito de Hierro](https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk) | 2:22 |
+| 33 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
 | 34 | [No Ha Parado de Llover \- Unplugged](https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 6:40 |
-| 35 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
+| 35 | [Soldadito de Hierro](https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Soldadito de Hierro](https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk) | 2:22 |
 | 36 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
 | 37 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
 | 38 | [Maquillaje \(Acoustic\)](https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Acoustic Sessions \#1](https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR) | 3:04 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 41 | [EL LOBBY](https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:28 |
 | 42 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 |
 | 43 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 |
-| 44 | [Volverte A Ver \- MTV Unplugged](https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 4:29 |
-| 45 | [Nunca Es Suficiente \- Spotify Session](https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:40 |
+| 44 | [Nunca Es Suficiente \- Spotify Session](https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:40 |
+| 45 | [Volverte A Ver \- MTV Unplugged](https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 4:29 |
 | 46 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
 | 47 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 |
 | 48 | [Me Haces Falta](https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Me Haces Falta](https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS) | 3:35 |

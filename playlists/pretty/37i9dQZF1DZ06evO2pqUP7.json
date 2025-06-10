@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68949,
+  "num_followers": 68960,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADxIQk/71qCAjn36PumIm+n",
+  "snapshot_id": "aETSgAAAAADSjGLnIVgRlQ5WBlbQ1dNg",
   "tracks": [
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Hot (with Lunay)",
-      "url": "https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Hot (with Lunay)",
+      "url": "https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nadie (feat. Sech & Sharo Towers) [Remix]",
         "url": "https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR"
       },
@@ -755,6 +755,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relaciones",
+        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Relaciones",
+      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
       },
@@ -779,42 +815,6 @@
       "duration_ms": 235226,
       "name": "En Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relaciones",
-        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Relaciones",
-      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasia Sexual",
         "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 253469,
       "name": "Fantasia Sexual",
       "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
     },
     {
       "added_at": null,

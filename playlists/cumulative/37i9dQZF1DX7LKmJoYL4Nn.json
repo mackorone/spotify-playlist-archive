@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Cascade of\u2026\u300cGraceful Punishment\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/1haeoh1yJjIXywnz11CIUT"
+      },
+      "artists": [
+        {
+          "name": "Cascade of\u2026",
+          "url": "https://open.spotify.com/artist/0mMBXmoaSIhqgxkLLsY8UT"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259871,
+      "name": "Graceful Punishment",
+      "url": "https://open.spotify.com/track/63zae15sg8CriJSruguGuX"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -2414,7 +2436,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 132000,
       "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7 - Game Edit",
       "url": "https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY"

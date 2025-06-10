@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,053 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,122 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 37 | [Un Imposible A Tu Medida](https://open.spotify.com/track/5iNuJkGfKUMCJycC7wNOJw) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 3:32 |
 | 38 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
 | 39 | [Deja De Joder](https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 2:36 |
-| 40 | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/track/4opZ5wxWDao2No6CivRDtg) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:10 |
-| 41 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
+| 40 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
+| 41 | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/track/4opZ5wxWDao2No6CivRDtg) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:10 |
 | 42 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 |
 | 43 | [Una Mala Elección](https://open.spotify.com/track/5lEjdcCF84tGOx54LbZZKC) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:08 |
 | 44 | [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 49 | [Bohemio Loco](https://open.spotify.com/track/75wc3ASRDxuRKpUjUEzjL8) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:09 |
 | 50 | [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 |
 
-Snapshot ID: `aEOBAAAAAAAS9/BDAJ1PWMa2gav6CH0S`
+Snapshot ID: `aETSgAAAAADSHALjKm7WFOOXSg5Qg3In`

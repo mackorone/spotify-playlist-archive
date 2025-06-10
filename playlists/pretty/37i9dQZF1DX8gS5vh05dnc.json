@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 130193,
+  "num_followers": 130190,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-06-08 16:00:11",
       "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "added_at": "2025-06-08 16:00:11",
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 193456,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2025-06-08 16:00:11",
-      "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2025-06-08 16:00:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-06-08 16:00:11",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2025-06-08 16:00:11",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
+    },
+    {
+      "added_at": "2025-06-08 16:00:11",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2025-06-08 16:00:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-06-08 16:00:11",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 197469,
-      "name": "Count on Me",
-      "url": "https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi"
-    },
-    {
-      "added_at": "2025-06-08 16:00:11",
-      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
+    },
+    {
+      "added_at": "2025-06-08 16:00:11",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 197469,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi"
     },
     {
       "added_at": "2025-06-08 16:00:11",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-06-08 16:00:11",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2025-06-08 16:00:11",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2025-06-08 16:00:11",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2025-06-08 16:00:11",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-06-08 16:00:11",
       "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
-    },
-    {
-      "added_at": "2025-06-08 16:00:11",
-      "album": {
         "name": "Let Me Move You (From the Netflix film Work It)",
         "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11"
       },
@@ -1247,22 +1227,6 @@
       "duration_ms": 147070,
       "name": "Let Me Move You - From the Netflix film \"Work It\"",
       "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
-    },
-    {
-      "added_at": "2025-06-08 16:00:11",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 202356,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
     },
     {
       "added_at": "2025-06-08 16:00:11",
@@ -1283,6 +1247,42 @@
       "duration_ms": 291568,
       "name": "Money (with Tom Misch)",
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
+    },
+    {
+      "added_at": "2025-06-08 16:00:11",
+      "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+    },
+    {
+      "added_at": "2025-06-08 16:00:11",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 202356,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
     },
     {
       "added_at": "2025-06-08 16:00:11",

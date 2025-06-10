@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Sabrina Carpenter, Kraftklub, Ed Sheeran und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,364 likes - 95 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,372 likes - 95 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

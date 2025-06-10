@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Comin' In Cold",
+        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Comin' In Cold",
+      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
+    },
+    {
+      "album": {
         "name": "Coulda Been Love",
         "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 202290,
       "name": "House Again",
       "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"

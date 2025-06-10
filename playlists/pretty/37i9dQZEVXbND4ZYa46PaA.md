@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,222 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,227 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 17 | [Wolof](https://open.spotify.com/track/1iVRAi1hV7UVqlbCo6ES9g) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:36 |
 | 18 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 |
 | 19 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
-| 20 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
+| 20 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 | 21 | [T’es mon DEL](https://open.spotify.com/track/1MfWcXJrwMwigKGY8mKAwD) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:13 |
 | 22 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 23 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 32 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 33 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 |
 | 34 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
-| 35 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 |
+| 35 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 |
 | 36 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 37 | [Goud](https://open.spotify.com/track/5SaapweQAEx7X1R47ItZ75) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 3:22 |
 | 38 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 40 | [Mia](https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Mia](https://open.spotify.com/album/2F90J1QAOpPJPyhXoTULeB) | 2:59 |
 | 41 | [Police](https://open.spotify.com/track/2HRM4FhkKLoKOwBhxqmTBV) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 2:48 |
 | 42 | [KAKI](https://open.spotify.com/track/2vtSwaexfs2efL7MIh4mMn) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 2:48 |
-| 43 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
+| 43 | [The Night We Met](https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn) | 3:28 |
 | 44 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 |
 | 45 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 46 | [Als Het Avond Is](https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Fibonacci](https://open.spotify.com/track/5xt3hz2g92uvp1WLHVtD2o) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 2:51 |
 | 50 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 |
 
-Snapshot ID: `L9kBUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9pQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

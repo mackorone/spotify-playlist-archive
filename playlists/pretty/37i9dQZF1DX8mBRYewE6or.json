@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1057837,
+  "num_followers": 1057794,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1355,50 +1355,6 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
         "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",
         "url": "https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On"
       },
@@ -1427,6 +1383,50 @@
       "duration_ms": 212000,
       "name": "DAN\u00c7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
       "url": "https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2025-03-28 04:58:40",

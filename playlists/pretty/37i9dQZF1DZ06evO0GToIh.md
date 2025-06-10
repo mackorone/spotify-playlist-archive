@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,318 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,451 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 36 | [Ni Te Conozco, Ni Me Saludes](https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 4:01 |
 | 37 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |
 | 38 | [Unas Heladas](https://open.spotify.com/track/4HOtUq417RS7P8al8XV49e) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 2:23 |
-| 39 | [Qué Loco El Plebe](https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Qué Loco el Plebe](https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK) | 3:55 |
-| 40 | [Corazón en Coma](https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corazón en Coma](https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k) | 2:52 |
-| 41 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
+| 39 | [Corazón en Coma](https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Corazón en Coma](https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k) | 2:52 |
+| 40 | [Mi Recaída en Los Excesos](https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mi Recaída en Los Excesos](https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9) | 3:03 |
+| 41 | [Qué Loco El Plebe](https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Qué Loco el Plebe](https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK) | 3:55 |
 | 42 | [Y Me Verán](https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:05 |
 | 43 | [Oficialmente en Soltería](https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
 | 44 | [El Viejo Joven \- En Vivo](https://open.spotify.com/track/62ZunOIq69evNr6v76njsT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 |
 | 50 | [La Playa \- En Vivo](https://open.spotify.com/track/2ulIzu003qLUX83g3qVXdU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:12 |
 
-Snapshot ID: `aEOBAAAAAADppKiSxNRzOEwBxHTsor9p`
+Snapshot ID: `aETSgAAAAACvFnNNQnDr33/jQoDdT/DQ`

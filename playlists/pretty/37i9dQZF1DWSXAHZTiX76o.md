@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Playlist oficial del j\-hope \- Hope On The Stage POP UP Tour en CDMX 💜✨🫰🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,593 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,585 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 24 | [what if… \(dance mix\)](https://open.spotify.com/track/6W6kWAXbMS2aOJXoUpw7iI) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:16 |
 | 25 | [Blue Side \(Outro\)](https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:30 |
 | 26 | [Blue Side](https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Blue Side](https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed) | 3:18 |
-| 27 | [Future](https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:19 |
-| 28 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 |
+| 27 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 |
+| 28 | [Future](https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:19 |
 | 29 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 |
 | 30 | [What if…](https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:16 |
 | 31 | [Base Line](https://open.spotify.com/track/3eSCPt6StovDAIps2XhZ2Z) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:29 |

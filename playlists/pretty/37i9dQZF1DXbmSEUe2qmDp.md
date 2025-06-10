@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Reddy Allor
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,237 likes - 69 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,231 likes - 69 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 68 | [Chora Viola / Luzeiro / Pagode Em Brasília \- Ao Vivo](https://open.spotify.com/track/17hjecrmeGCXB6PtGJDM8R) | [Yule Rossi](https://open.spotify.com/artist/4L84cDrvCezSuR0jwo0Dlo) | [Chora Viola / Luzeiro / Pagode Em Brasília \(Ao Vivo\)](https://open.spotify.com/album/4OaPCPYvwMfY5so5WqHUmW) | 2:18 |
 | 69 | [Antes da Briga \- Live](https://open.spotify.com/track/1rd42CV4BeIQnk9sZqYimj) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Antes da Briga \(Live\)](https://open.spotify.com/album/7c34YZvNG1V8QsomzyeOAu) | 2:25 |
 
-Snapshot ID: `aEJoqAAAAABLwaItQpnyl1o1vUSLeDom`
+Snapshot ID: `AAAAAFSLfQMOeQ+MD7wEGEUNIn4KZCAB`

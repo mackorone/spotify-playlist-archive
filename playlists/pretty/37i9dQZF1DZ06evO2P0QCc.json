@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 117868,
+  "num_followers": 117897,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADk6RarAlCzIOqwRm3ZkfVv",
+  "snapshot_id": "aETSgAAAAACguzSUDZECVIqtjJBtejHR",
   "tracks": [
     {
       "added_at": null,
@@ -718,11 +718,15 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Natalia Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
         }
       ],
-      "duration_ms": 239333,
-      "name": "Desatinos",
-      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
+      "duration_ms": 214000,
+      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
+      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
     },
     {
       "added_at": null,
@@ -782,15 +786,11 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Natalia Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
-      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
     },
     {
       "added_at": null,

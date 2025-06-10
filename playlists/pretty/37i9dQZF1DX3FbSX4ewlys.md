@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 
 > la generación del discman y el walkman
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,017 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,043 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 63 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 64 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 |
 | 65 | [Shabadabada](https://open.spotify.com/track/66EqOhWfTcdVphw00lcxZO) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:55 |
-| 66 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
-| 67 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
+| 66 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
+| 67 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 68 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 |
 | 69 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
 | 70 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 |

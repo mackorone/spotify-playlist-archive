@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   june
 
-227 songs - 11 hr 48 min
+228 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [I'm Sick of Missing You](https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [Swim\. Søul](https://open.spotify.com/artist/1FTm71bvpmvZcYeLSdBCi0) | [I'm Sick of Missing You](https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ) | 1:52 | 2024-11-21 | 2025-04-01 |
 | [I'm The Man](https://open.spotify.com/track/57aE7FawyhBY7FFHtddVv8) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [I'm The Man](https://open.spotify.com/album/6L0b9s2o7p1pmsAJLog89q) | 2:12 | 2025-03-13 | 2025-03-28 |
 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-16 | 2025-04-09 |
+| [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 | 2025-06-05 |  |
 | [Ildfluer](https://open.spotify.com/track/44AFri447xop1t5EblgHbE) | [First Flush](https://open.spotify.com/artist/3rdxGMdJ33uN89az9Hm9cj) | [Ildfluer](https://open.spotify.com/album/7IqD3qu5GyL4r4diTeUTpj) | 3:32 | 2024-09-19 | 2024-10-11 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa) | 3:11 | 2025-03-21 | 2025-04-24 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/2RopGxa0f9Ep4K72j9SSpq) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 3:11 | 2025-03-20 | 2025-03-22 |
@@ -209,7 +210,7 @@
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
 | [Træ](https://open.spotify.com/track/1O4JjI0kH0ThnCZWrryAGD) | [Rigmor](https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y) | [Træ](https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R) | 3:19 | 2024-12-12 | 2025-02-07 |
-| [Turn Around](https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Turn Around](https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE) | 2:56 | 2025-01-30 |  |
+| [Turn Around](https://open.spotify.com/track/4gDjuMCJSVsvHCLFEtb3mU) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Turn Around](https://open.spotify.com/album/54ttlPjNPzVTZRSJVxxQYE) | 2:56 | 2025-01-30 | 2025-06-10 |
 | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/track/58HZHUAFH29Ujc3033yIw1) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Tænker Du Mon Nogensinde På Os](https://open.spotify.com/album/70S07sIasspR3twjbfN6BZ) | 3:07 | 2025-02-27 |  |
 | [Tæt På Paradis](https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Elendig Software](https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o) | 4:03 | 2024-06-27 |  |
 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 | 2024-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 46261,
+  "num_followers": 46276,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
+        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
+      },
+      "artists": [
+        {
+          "name": "Juan Mendoza",
+          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Cre\u00ed",
+      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 179573,
       "name": "El Nido",
       "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
-        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
-      },
-      "artists": [
-        {
-          "name": "Juan Mendoza",
-          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Cre\u00ed",
-      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
     },
     {
       "added_at": "2024-04-25 04:43:45",

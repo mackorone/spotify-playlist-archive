@@ -4,7 +4,7 @@
 
 > Future hits in the Philippines! Cover: Teddy Swims
 
-389 songs - 20 hr 19 min
+390 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-09 | 2024-11-26 |
 | [Man in The Moon](https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:54 | 2024-10-14 | 2024-11-19 |
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-06-02 |  |
+| [MENACE](https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [MENACE](https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN) | 2:34 | 2025-06-09 |  |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-12-16 | 2025-05-26 |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-13 |  |
 | [Midnight in Saigon](https://open.spotify.com/track/4jRZrYnaOzg17S9y2H2O3K) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA), [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Midnight in Saigon](https://open.spotify.com/album/26mZY7qSQb8RCJSvzSdxb6) | 3:12 | 2025-03-17 | 2025-05-13 |

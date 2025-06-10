@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 27 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,370 likes - 27 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 26 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 | 27 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `aEOBAAAAAADO9Xfgnb9jYH9vpt1Oqv/P`
+Snapshot ID: `aETSgAAAAAAduRhstMxHiDpzsbR08R7X`

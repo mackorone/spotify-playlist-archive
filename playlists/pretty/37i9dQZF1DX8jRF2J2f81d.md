@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and Surf Radio at Falmouth University ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,763 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,766 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

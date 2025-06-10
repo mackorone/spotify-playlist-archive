@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Kingdom
 
-310 songs - 20 hr 2 min
+311 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Ninnu Chusaka](https://open.spotify.com/track/6YXxe13PhXwODIjbIfIYQX) | [Junaid Kumar](https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN) | [Sridevi Shoban Babu](https://open.spotify.com/album/0MJhgnMFGR6DlPVWdm48yJ) | 4:18 | 2023-02-15 | 2023-03-28 |
 | [Ninnu Vadhali \(From "Narakasura"\)](https://open.spotify.com/track/76nwh50rEAPTg4I2KYLwiY) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Nawfal Raja Ais](https://open.spotify.com/artist/0eeeUK6RZ4XT2w9uBxROak) | [Ninnu Vadhali \(From "Narakasura"\)](https://open.spotify.com/album/5SFksrofWYgDOyzWhcfZvR) | 5:05 | 2023-09-21 | 2024-02-07 |
 | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/track/6ijwldopdkwAHwVg2dB5z0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikar Velamuri](https://open.spotify.com/artist/3QuHNeC4BclLeAelyZO4MO) | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/album/6uHpm30bYnsn9YL4JzVQrR) | 3:16 | 2022-06-30 | 2023-03-28 |
+| [Nuvu Naaku Nacchave](https://open.spotify.com/track/7E19eqkQVvcbozgz4LvNcK) | [Shashi Preetam](https://open.spotify.com/artist/3SacMCsGKBq65cX390VmwW), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2) | [Nuvu Naaku Nacchave](https://open.spotify.com/album/4CjjBYyubQBgQKG97dVong) | 4:24 | 2025-06-09 |  |
 | [Nuvva Nuvva](https://open.spotify.com/track/1MeL5yFopGk5o4TYxFRhtQ) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM) | [Nuvva Nuvva](https://open.spotify.com/album/42rQhTsW9TqHZOjhErIhTi) | 2:38 | 2025-06-03 |  |
 | [Nuvve Leni Lokame](https://open.spotify.com/track/7EFaNHilj0K7XRx1wkez6V) | [S\. Anant Srikar](https://open.spotify.com/artist/5KbUgwaQNMhwUJpk5FBttL), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Prem Kumar](https://open.spotify.com/album/0wQsbRIgvDzBu3hIYaqLMK) | 4:15 | 2023-08-16 | 2025-02-01 |
 | [Nuvve Nuvve \(From "Ramabanam"\)](https://open.spotify.com/track/1HyygLm7t1sxgihCXcZUxr) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Nuvve Nuvve \(From "Ramabanam"\)](https://open.spotify.com/album/2yKdUMH1MO1smCKe0Rmkz5) | 3:05 | 2023-04-24 | 2024-01-11 |

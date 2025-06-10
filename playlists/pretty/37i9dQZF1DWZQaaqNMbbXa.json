@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 548740,
+  "num_followers": 548860,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "In the Name of Love",
         "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 195706,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Scared to Be Lonely",
-        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 220883,
-      "name": "Scared to Be Lonely",
-      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 220883,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -1887,22 +1871,18 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1927,6 +1907,26 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -2819,26 +2819,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "you broke me first (Gryffin Remix)",
         "url": "https://open.spotify.com/album/3DgnBGjHc8kkDvjP0xse9x"
       },
@@ -2855,6 +2835,26 @@
       "duration_ms": 215648,
       "name": "you broke me first - Gryffin Remix",
       "url": "https://open.spotify.com/track/3Ni9jLlq3xPoOKv1HYlQrH"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2024-12-12 21:46:01",

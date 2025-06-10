@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française\. Photo: Vendredi sur Mer
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,512 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,523 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Świętujemy 10 lat najlepszych muzycznych odkryć od niezależnych artystów\. Cover: <a href=" spotify:artist:251hX9AIf9vHOcswUOvA1j">Powaby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,140 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,143 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

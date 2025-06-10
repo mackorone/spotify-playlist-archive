@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 268387,
       "name": "Blood",
       "url": "https://open.spotify.com/track/3E1q57YmMqnpdcRu9ASuly"
@@ -489,6 +489,32 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167544,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS"
+    },
+    {
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
       },
@@ -508,7 +534,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACn+mD+cZFwNDqBtvvKIkuU",
+  "snapshot_id": "aETSgAAAAADg/lZayiL+niZV1y+Wl8/Z",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo Reto",
-        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
+        "name": "Tira Uma Foto",
+        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
       },
       "artists": [
         {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 192499,
-      "name": "Papo Reto",
-      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
+      "duration_ms": 129440,
+      "name": "Tira Uma Foto",
+      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
     },
     {
       "added_at": null,
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tira Uma Foto",
-        "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
       },
       "artists": [
         {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 129440,
-      "name": "Tira Uma Foto",
-      "url": "https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7"
+      "duration_ms": 192499,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frequ\u00eancia",
-        "url": "https://open.spotify.com/album/2ULjuFg39qb5oc9CM3p4aK"
-      },
-      "artists": [
-        {
-          "name": "Mc Magal",
-          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Ta Demais",
-      "url": "https://open.spotify.com/track/5sbMmTqQBEptebVNSYsMVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nitro",
         "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 188437,
       "name": "Essa Onda",
       "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frequ\u00eancia",
+        "url": "https://open.spotify.com/album/2ULjuFg39qb5oc9CM3p4aK"
+      },
+      "artists": [
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Ta Demais",
+      "url": "https://open.spotify.com/track/5sbMmTqQBEptebVNSYsMVV"
     },
     {
       "added_at": null,
@@ -1071,38 +1071,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenagem de Mar\u00e7o",
-        "url": "https://open.spotify.com/album/6dpuGkFrhMtDdW0vpUkGXk"
+        "name": "Ela Joga",
+        "url": "https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK"
       },
       "artists": [
         {
-          "name": "Rap Plus Size",
-          "url": "https://open.spotify.com/artist/2vZnrW5COAICtdeiVjARkp"
+          "name": "Carolzinha",
+          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
         },
         {
-          "name": "Sara Donato",
-          "url": "https://open.spotify.com/artist/4oL2YA7tv13BFRNQBmy02K"
-        },
-        {
-          "name": "Jupi77er",
-          "url": "https://open.spotify.com/artist/1rId78y1KO9ldEyBYr2heR"
-        },
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "Karol de Souza",
-          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
         }
       ],
-      "duration_ms": 352801,
-      "name": "Homenagem de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1Ixhp33HDysxaryYlftDpr"
+      "duration_ms": 164809,
+      "name": "Ela Joga",
+      "url": "https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY"
     },
     {
       "added_at": null,
@@ -1139,6 +1131,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homenagem de Mar\u00e7o",
+        "url": "https://open.spotify.com/album/6dpuGkFrhMtDdW0vpUkGXk"
+      },
+      "artists": [
+        {
+          "name": "Rap Plus Size",
+          "url": "https://open.spotify.com/artist/2vZnrW5COAICtdeiVjARkp"
+        },
+        {
+          "name": "Sara Donato",
+          "url": "https://open.spotify.com/artist/4oL2YA7tv13BFRNQBmy02K"
+        },
+        {
+          "name": "Jupi77er",
+          "url": "https://open.spotify.com/artist/1rId78y1KO9ldEyBYr2heR"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Karol de Souza",
+          "url": "https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 352801,
+      "name": "Homenagem de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1Ixhp33HDysxaryYlftDpr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
       },
@@ -1159,54 +1187,6 @@
       "duration_ms": 185884,
       "name": "Imaginei",
       "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ela Joga",
-        "url": "https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK"
-      },
-      "artists": [
-        {
-          "name": "Carolzinha",
-          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
-        },
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nith",
-          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
-        }
-      ],
-      "duration_ms": 164809,
-      "name": "Ela Joga",
-      "url": "https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ELAS",
-        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 160079,
-      "name": "Fa\u00e7o Valer",
-      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
     },
     {
       "added_at": null,
@@ -1263,6 +1243,26 @@
       "duration_ms": 194000,
       "name": "24H",
       "url": "https://open.spotify.com/track/0egGoTglXajJg2Odp5DgCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELAS",
+        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 160079,
+      "name": "Fa\u00e7o Valer",
+      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
     }
   ],
   "unique_name": "This Is Bivolt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,902 likes - 49 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,903 likes - 49 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 48 | [Não pare \(Participação especial de Damares\)](https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Cadê o vencedor?](https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq) | 3:42 |
 | 49 | [Davi ou Mical](https://open.spotify.com/track/12NuD5khzig4zV0QGXxTtR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Mega Hits \- Damares](https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J) | 4:39 |
 
-Snapshot ID: `aEOBAAAAAABy7NZj9pywlQI6VR3OPBmv`
+Snapshot ID: `aETSgAAAAADSztZ/fazTMxfKPFuTO3Kb`

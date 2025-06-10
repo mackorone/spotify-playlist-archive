@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,605,046 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605,025 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 24 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 | 25 | [Redondo Beach](https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:25 |
 | 26 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 27 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
-| 28 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
+| 27 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
+| 28 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
 | 29 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 30 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
 | 31 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 83 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
 | 84 | [Minor Threat](https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC) | 1:31 |
 | 85 | [Wild in the Streets](https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:35 |
-| 86 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
-| 87 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:57 |
+| 86 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:57 |
+| 87 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
 | 88 | [Banned In D.C.](https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc) | 2:12 |
 | 89 | [New Rose](https://open.spotify.com/track/6sC3btkeaVA9IEhe0qbifj) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5XK8FpKFOJVp65F9pkuIO9) | 2:44 |
 | 90 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |

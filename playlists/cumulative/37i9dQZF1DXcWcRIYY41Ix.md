@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-835 songs - 2 day 1 hr 41 min
+836 songs - 2 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Baguala de Salta, Chicoana](https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Baguala de Salta, Chicoana](https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn) | 1:43 | 2024-01-19 | 2024-02-03 |
 | [Bajo el Sol](https://open.spotify.com/track/1NRdxh5Zl1Az79W9Z9NO5X) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Bajo el Sol](https://open.spotify.com/album/4WWqEiDQgLONs0riUE0jw7) | 4:16 | 2021-12-24 | 2022-06-04 |
 | [Barquito de Nuez](https://open.spotify.com/track/2HvJIb21JD31EXUwhBHmu7) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Barquito de Nuez](https://open.spotify.com/album/5KAhzUae1qtsIzZTVfVj9y) | 2:58 | 2022-02-04 | 2022-05-12 |
+| [Basilio \- Live Session](https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Buenos Aires \(Live Session\)](https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH) | 4:47 | 2025-06-06 |  |
 | [Baño María](https://open.spotify.com/track/1fsI4fTqRiMkmfS6b0RxMa) | [Diego Lara](https://open.spotify.com/artist/6U1O9Us9QKka6HmZoMVpZC) | [Baño María](https://open.spotify.com/album/0JAwPSSRWd0So9qg1Ah8oY) | 3:06 | 2023-06-02 | 2023-06-24 |
 | [Bella ciao feminista](https://open.spotify.com/track/3x6LuJzeJQyTprXZmV1XI6) | [Magara](https://open.spotify.com/artist/16izkuYfzM5ncRLpqgTriB) | [Bella ciao feminista](https://open.spotify.com/album/3Zw3OIZ7Yng90uzleFJU7S) | 3:08 | 2022-03-04 | 2022-05-21 |
 | [Ben poca cosa tens](https://open.spotify.com/track/6bjEfCnfH1aTkDVxmXkptn) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Ben poca cosa tens](https://open.spotify.com/album/4eBnmtZBcmN8eGCALV5SdL) | 5:10 | 2025-04-24 | 2025-05-31 |
@@ -177,7 +178,7 @@
 | [Corro](https://open.spotify.com/track/0yiATCsokjcVzdVsTDu28x) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Corro](https://open.spotify.com/album/7fTAGkS8xcsI5C9l0uYZWM) | 3:19 | 2024-07-05 | 2024-10-07 |
 | [Cosa de Mi Imaginación](https://open.spotify.com/track/72mVVaM7TSPxAgCnSQ1Jr3) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok), [Roko](https://open.spotify.com/artist/6ojcfYFPAIR0IMn6JFJzMr), [Nacho Mur](https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf) | [Cosa de Mi Imaginación](https://open.spotify.com/album/1HZAnw6s2oNMSckUeEVAbb) | 4:25 | 2022-04-01 | 2022-04-19 |
 | [Crece y florece](https://open.spotify.com/track/4nvsfC0OSATtI6qMG0dMeL) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [GUACHA](https://open.spotify.com/album/5BLXqlpjgmJ7XeBB0cQZzT) | 2:54 | 2023-03-31 | 2023-04-11 |
-| [Crezco y no lo veo](https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Crezco y no lo veo](https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr) | 3:10 | 2024-04-19 |  |
+| [Crezco y no lo veo](https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Crezco y no lo veo](https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr) | 3:10 | 2024-04-19 | 2025-06-10 |
 | [Crucificame](https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu) | [Por ejemplo ahora](https://open.spotify.com/artist/75I3egZAz3BwFZKubBhCwy), [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Prietto](https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts) | [Rain](https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS) | 4:30 | 2024-03-15 | 2024-03-25 |
 | [Cruz del Sur](https://open.spotify.com/track/12XcueeDOyE1QHgkHZWJyY) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Diego Martez](https://open.spotify.com/artist/7gG4LD4vgTgOIK6mDLKMMX) | [Cruz del Sur](https://open.spotify.com/album/5aD3f3tNUtbVN3IeQbmkc9) | 5:06 | 2021-12-24 | 2022-02-18 |
 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 | 2022-11-11 | 2022-12-03 |

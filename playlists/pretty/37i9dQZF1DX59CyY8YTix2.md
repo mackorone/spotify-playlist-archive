@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,370 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,382 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,25 +63,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 53 | [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 |
 | 54 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
 | 55 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
-| 56 | [この世界に二人だけ](https://open.spotify.com/track/568SN1Qz6PNLvrme0dNOHh) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [この世界に二人だけ](https://open.spotify.com/album/2aIsC5qb9trcNgREyQGaZI) | 3:40 |
-| 57 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 |
-| 58 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
-| 59 | [Fix](https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Fix](https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko) | 3:32 |
-| 60 | [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 |
-| 61 | [馬鹿の一つ覚え](https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [馬鹿の一つ覚え](https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK) | 4:03 |
-| 62 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
+| 56 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 |
+| 57 | [この世界に二人だけ](https://open.spotify.com/track/568SN1Qz6PNLvrme0dNOHh) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [この世界に二人だけ](https://open.spotify.com/album/2aIsC5qb9trcNgREyQGaZI) | 3:40 |
+| 58 | [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 |
+| 59 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
+| 60 | [馬鹿の一つ覚え](https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [馬鹿の一つ覚え](https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK) | 4:03 |
+| 61 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
+| 62 | [Fix](https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Fix](https://open.spotify.com/album/0eMLVjKMHBMMO1Z5SKmmko) | 3:32 |
 | 63 | [頭の中の宇宙](https://open.spotify.com/track/0XNWTfaqQY9oHKawoKLal3) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [頭の中の宇宙](https://open.spotify.com/album/6LvIKCAja7q2RtBEpi1FTn) | 3:27 |
 | 64 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 |
-| 65 | [社会の窓](https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [社会の窓](https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV) | 2:46 |
-| 66 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
+| 65 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
+| 66 | [社会の窓](https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [社会の窓](https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV) | 2:46 |
 | 67 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
 | 68 | [ドッペルゲンガー](https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 |
 | 69 | [feelin'](https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 2:55 |
-| 70 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 |
-| 71 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
+| 70 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
+| 71 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 |
 | 72 | [Incarnation](https://open.spotify.com/track/2pg1TkWWTFUALftksUZ0ND) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Incarnation](https://open.spotify.com/album/09LOUe1UXiYyBUctfTBR6o) | 4:36 |
 | 73 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 |
-| 74 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
-| 75 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
+| 74 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
+| 75 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
 
 Snapshot ID: `aD8OEAAAAACs+023oU1bBwv57PkGJfUh`

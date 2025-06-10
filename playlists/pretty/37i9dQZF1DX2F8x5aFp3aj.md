@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. The Cure en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,754 likes - 75 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,848 likes - 75 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 34 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 35 | [Voices Carry](https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:23 |
 | 36 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
-| 37 | [Where Eagles Dare](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 2:08 |
+| 37 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
 | 38 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
-| 39 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
+| 39 | [Where Eagles Dare](https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 2:08 |
 | 40 | [Rebel Yell \- Remastered 1999](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 |
 | 41 | [I've Been In Love Before](https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 5:08 |
 | 42 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 61 | [Sugar Hiccup](https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Head Over Heels](https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9) | 3:41 |
 | 62 | [Brass in Pocket](https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Original Album Series](https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81) | 3:04 |
 | 63 | [Would I Lie to You? \- Remastered Version](https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Be Yourself Tonight](https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI) | 4:28 |
-| 64 | [Leave It](https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:13 |
-| 65 | [I Go to Extremes](https://open.spotify.com/track/16LYB0chkPiblx33djiNTt) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:23 |
+| 64 | [I Go to Extremes](https://open.spotify.com/track/16LYB0chkPiblx33djiNTt) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:23 |
+| 65 | [Leave It](https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:13 |
 | 66 | [Pearly\-Dewdrops' Drops \- 7" Version](https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [The Pink Opaque](https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3) | 4:10 |
 | 67 | [Englishman In New York](https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:26 |
 | 68 | [Planet Claire](https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 4:37 |

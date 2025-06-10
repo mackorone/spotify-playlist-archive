@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "INTERNET",
+        "url": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163459,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/2OajuteWecH4XFQyFLq1wQ"
+    },
+    {
+      "album": {
         "name": "projections on a human screen",
         "url": "https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP"
       },

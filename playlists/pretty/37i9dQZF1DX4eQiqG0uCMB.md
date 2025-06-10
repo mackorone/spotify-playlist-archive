@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,439 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,446 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 7 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 8 | [Emem](https://open.spotify.com/track/0dpHY6IOhk82FM1BBRby6m) | [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [Emem / Lagos Sundown](https://open.spotify.com/album/0eoHel2kgJA6BjDCH0okZL) | 2:57 |
 | 9 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
-| 10 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
-| 11 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
+| 10 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
+| 11 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
 | 12 | [Stuck](https://open.spotify.com/track/3fDUVymijOJEa0cchGb9sb) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 3:39 |
 | 13 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
 | 14 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 26 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
 | 27 | [Contraband](https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:43 |
 | 28 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 |
-| 29 | [Jaga Jaga](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 30 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
+| 29 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
+| 30 | [Jaga Jaga](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
 | 31 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |
 | 32 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
 | 33 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
-| 34 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
-| 35 | [Something sweet](https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 2:31 |
+| 34 | [Something sweet](https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 2:31 |
+| 35 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 36 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 37 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 38 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |

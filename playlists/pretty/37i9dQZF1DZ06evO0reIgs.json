@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABPgrZ0dY2vXHECg3oUISco",
+  "snapshot_id": "aETSgAAAAAC1W6UxfvLmCMR/EOkX/7Ao",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Pior Disco do Ano",
-        "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 210517,
-      "name": "Lament\u00e1vel, Pt. III",
-      "url": "https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG"
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+        "name": "O Pior Disco do Ano",
+        "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
       },
       "artists": [
         {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
+      "duration_ms": 210517,
+      "name": "Lament\u00e1vel, Pt. III",
+      "url": "https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG"
     },
     {
       "added_at": null,
@@ -831,34 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um P\u00e9 no Ch\u00e3o, outro no sonho",
-        "url": "https://open.spotify.com/album/1fPCDOkbKP3SiHowx50ZWI"
-      },
-      "artists": [
-        {
-          "name": "AR Baby",
-          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "DuaL021",
-          "url": "https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH"
-        }
-      ],
-      "duration_ms": 158846,
-      "name": "Desencontro",
-      "url": "https://open.spotify.com/track/5LF10fGtxei0RkdAqGGL1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -899,6 +871,34 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um P\u00e9 no Ch\u00e3o, outro no sonho",
+        "url": "https://open.spotify.com/album/1fPCDOkbKP3SiHowx50ZWI"
+      },
+      "artists": [
+        {
+          "name": "AR Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "DuaL021",
+          "url": "https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH"
+        }
+      ],
+      "duration_ms": 158846,
+      "name": "Desencontro",
+      "url": "https://open.spotify.com/track/5LF10fGtxei0RkdAqGGL1Y"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 173989,
-      "name": "Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 173989,
+      "name": "Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Efeito Violeta",
         "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 177800,
       "name": "Vai Partir",
       "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        }
-      ],
-      "duration_ms": 157006,
-      "name": "Por Aqui",
-      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
     },
     {
       "added_at": null,
@@ -1119,6 +1099,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        }
+      ],
+      "duration_ms": 157006,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Culpa \u00c9 das Igrejas / Sinais",
         "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
@@ -1135,26 +1135,6 @@
       "duration_ms": 247975,
       "name": "A Culpa \u00c9 das Igrejas / Sinais",
       "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 183708,
-      "name": "Eu Penso",
-      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
     },
     {
       "added_at": null,
@@ -1219,6 +1199,26 @@
       "duration_ms": 139124,
       "name": "Beira Mar, Pt. 2",
       "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 183708,
+      "name": "Eu Penso",
+      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
     },
     {
       "added_at": null,

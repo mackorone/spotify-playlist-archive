@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,294 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,320 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 59 | [Año Zero](https://open.spotify.com/track/6qXTukTvuPOFFHWcmh4kqg) | [Amor Sin Fin](https://open.spotify.com/artist/1ueHUKL6L0bZ2AoYMx7wTC), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Año Zero](https://open.spotify.com/album/2zASpw1tV9u8b1Rl3LVdAp) | 5:39 |
 | 60 | [Quiero que Sepas](https://open.spotify.com/track/6oCLDQgN8sA7dmlkVHQYkm) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW) | [Quiero que Sepas](https://open.spotify.com/album/5r0SSXFBcJGE38lZ1doQYc) | 2:20 |
 
-Snapshot ID: `AAAAAMwz0UGG5OrFxrQNP0gIn6lldfG7`
+Snapshot ID: `aDARPAAAAABZxdb9T7qxkXpoLErNeykF`

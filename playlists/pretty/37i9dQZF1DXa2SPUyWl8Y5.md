@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,584 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,652 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 18 | [Millenium \- Edit](https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Millenium \(Edit\)](https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf) | 3:40 |
 | 19 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
 | 20 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 |
-| 21 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
+| 21 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
 | 22 | [Forsaken Dream \- Extended Mix](https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude \(Extended Mixes\)](https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1) | 5:56 |
-| 23 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
+| 23 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
 | 24 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
 | 25 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 26 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
 | 27 | [End of Line](https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB) | [oddchapters](https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc) | [End of Line](https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3) | 4:00 |
-| 28 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
-| 29 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
+| 28 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
+| 29 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
 | 30 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
 | 31 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
 | 32 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 38 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
 | 39 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
 | 40 | [Wadi Dana](https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Wadi Dana](https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN) | 4:09 |
-| 41 | [Four Hills](https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 4:35 |
-| 42 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
+| 41 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
+| 42 | [Four Hills](https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 4:35 |
 | 43 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
-| 44 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
-| 45 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
-| 46 | [Scarper](https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi) | 3:47 |
-| 47 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 |
-| 48 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
-| 49 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
+| 44 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
+| 45 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
+| 46 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 |
+| 47 | [Scarper](https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi) | 3:47 |
+| 48 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
+| 49 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
 | 50 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 51 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 52 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |

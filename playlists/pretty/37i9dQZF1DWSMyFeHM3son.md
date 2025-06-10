@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > blue jeans, white shirt\. Cover: Clairo covering Lana Del Rey's Brooklyn Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,879 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,891 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 35 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 |
 | 36 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 |
 | 37 | [F\*\*kin' Problems \(feat\. Drake, 2 Chainz & Kendrick Lamar\)](https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 |
-| 38 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
-| 39 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
+| 38 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
+| 39 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 40 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 41 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
-| 42 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 |
-| 43 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
+| 42 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
+| 43 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 |
 | 44 | [Afraid](https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:11 |
-| 45 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
+| 45 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 46 | [Knee Socks](https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:17 |
-| 47 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
-| 48 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
+| 47 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
+| 48 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
 | 49 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 50 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 51 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |

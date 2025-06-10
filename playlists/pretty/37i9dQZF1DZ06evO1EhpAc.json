@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9455,
+  "num_followers": 9459,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADEHgTGebhVC6GnOLzc/ZO+",
+  "snapshot_id": "aETSgAAAAADEmssCdhSBxdJ+eoK83fj0",
   "tracks": [
     {
       "added_at": null,
@@ -67,46 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
-        "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Jessy Lanza",
-          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
-      "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 274728,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -127,6 +87,46 @@
       "duration_ms": 153093,
       "name": "February 2017 (feat. Clairo and Yaeji)",
       "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 274728,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+        "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Mirror (feat. Jessy Lanza & Yaeji)",
+      "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
     },
     {
       "added_at": null,

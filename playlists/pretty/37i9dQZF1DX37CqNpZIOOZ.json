@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 25488,
+  "num_followers": 25489,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -259,30 +259,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
         "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
       },
@@ -315,6 +291,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "R. Strauss: Vier letzte Lieder; Ein Heldenleben (Live at Philharmonie, Berlin, 2014)",
         "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
       },
@@ -339,30 +339,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
-        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 928133,
-      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
-      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 1065373,
       "name": "Don Juan, Op. 20, TrV 156",
       "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
+        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 928133,
+      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
+      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -671,30 +671,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
-        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1735253,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
+        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1735253,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
     },
     {
       "added_at": "2022-06-20 09:55:21",

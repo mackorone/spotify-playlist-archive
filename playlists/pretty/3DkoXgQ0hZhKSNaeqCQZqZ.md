@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 590 likes - 346 songs - 18 hr 16 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 591 likes - 346 songs - 18 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 173 | [Opposites Attack!](https://open.spotify.com/track/2rVbRRo9BKBk5Ogfiusrht) | [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Falsework](https://open.spotify.com/album/6mRZBa04P3wKGQeIEgv9Vb) | 2:20 |
 | 174 | [lil boy](https://open.spotify.com/track/4pGX4804iIeGtn2dGD2NaX) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [lil boy](https://open.spotify.com/album/510NAc32IQl7IbbLTYd08Q) | 2:15 |
 | 175 | [8080 west](https://open.spotify.com/track/1fryKUc8vgoUS069VaNfmZ) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida II](https://open.spotify.com/album/653nMZvSNpCmCkjqb5k7tM) | 2:52 |
-| 176 | [Misfortune \(Undertale AU: TS!Underswap\)](https://open.spotify.com/track/59PQDgTc2Jn64MD2MrJudE) | [PorkNDogs](https://open.spotify.com/artist/4WgYTdWcbBE7XssWdkRIBJ), [Saster](https://open.spotify.com/artist/2wh9IsIFT6RYQWGS0yzo5S) | [PorkNDogs' Undertale Classics, Vol\. 6](https://open.spotify.com/album/2XOYV5KqYLHqbymAts5OmM) | 3:04 |
+| 176 | [Misfortune \(TS!Underswap\)](https://open.spotify.com/track/59PQDgTc2Jn64MD2MrJudE) | [PorkNDogs](https://open.spotify.com/artist/4WgYTdWcbBE7XssWdkRIBJ), [Saster](https://open.spotify.com/artist/2wh9IsIFT6RYQWGS0yzo5S) | [PorkNDogs' UTSC Classics, Vol\. 6](https://open.spotify.com/album/2XOYV5KqYLHqbymAts5OmM) | 3:04 |
 | 177 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 |
 | 178 | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/track/3wTIesZaQuXHjoo8wvh1bH) | [Spring Silver](https://open.spotify.com/artist/1CV0psSL6XvECs0ixfRJcv) | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/album/1emxhGcyn2WqKdnZI2jXvb) | 3:29 |
 | 179 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 |

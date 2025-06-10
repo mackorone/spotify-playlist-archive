@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: aespa\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,328 likes - 64 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,516 likes - 64 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 37 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 38 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
 | 39 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
-| 40 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 |
+| 40 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
 | 41 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
 | 42 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
 | 43 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 |
 | 44 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
-| 45 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
+| 45 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 |
 | 46 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 |
 | 47 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 |
 | 48 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 58 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
 | 59 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 | 60 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 |
-| 61 | [Only cry in the rain](https://open.spotify.com/track/0J92BX2A6XcG2ZbWAxtk1x) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Only cry in the rain](https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a) | 3:04 |
-| 62 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
+| 61 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
+| 62 | [Only cry in the rain](https://open.spotify.com/track/0J92BX2A6XcG2ZbWAxtk1x) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Only cry in the rain](https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a) | 3:04 |
 | 63 | [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 |
 | 64 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
 

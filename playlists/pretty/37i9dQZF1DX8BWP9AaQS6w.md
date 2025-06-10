@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BWP9AaQS6w.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ampexclusive/">AMP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,649 likes - 59 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,701 likes - 59 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BWP9AaQS6w.md) - [plain]
 | 58 | [Amen \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:21 |
 | 59 | [Come to Life](https://open.spotify.com/track/5xvXeuxISyXJDRbZZf4uzd) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:10 |
 
-Snapshot ID: `ZZJG0AAAAACqziBjSYQiYpx5CqiIXKx8`
+Snapshot ID: `AAAAAEuT4zoTemTLFeLssd+eGq1/pXgt`

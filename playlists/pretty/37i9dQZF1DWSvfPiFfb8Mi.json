@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 627170,
+  "num_followers": 628050,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
         "name": "Disco Nap",
         "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 193226,
       "name": "Disco Nap",
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
-      },
-      "artists": [
-        {
-          "name": "Moment in Time",
-          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Know Me",
-        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 207561,
-      "name": "Know Me",
-      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "Know Me",
+        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 207561,
+      "name": "Know Me",
+      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "cinematic love",
         "url": "https://open.spotify.com/album/5C6TUoCrNGmGCGVLYEwJ94"
       },
@@ -1015,46 +995,22 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         },
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 230942,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
-        "name": "New Direction",
-        "url": "https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 257435,
-      "name": "New Direction",
-      "url": "https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd"
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1095,6 +1051,26 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 230942,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
         "name": "Be with You Tonight",
         "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 219858,
       "name": "Be with You Tonight",
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "New Direction",
+        "url": "https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 257435,
+      "name": "New Direction",
+      "url": "https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "SUBURBIA (after dark)",
-        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "california",
-      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "SUBURBIA (after dark)",
+        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "california",
+      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3"
-      },
-      "artists": [
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 144793,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1443,22 +1419,26 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Closer To Me",
-        "url": "https://open.spotify.com/album/2BUwdL6f9Sv4EHDHJ8NhHD"
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         },
         {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
         }
       ],
-      "duration_ms": 215378,
-      "name": "Closer To Me",
-      "url": "https://open.spotify.com/track/5SCvUWfDY3XuvyS6oap0Le"
+      "duration_ms": 144793,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1483,22 +1463,22 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/1bsPkjL5lhR3QeuaOWZDfs"
+        "name": "Closer To Me",
+        "url": "https://open.spotify.com/album/2BUwdL6f9Sv4EHDHJ8NhHD"
       },
       "artists": [
         {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         },
         {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
         }
       ],
-      "duration_ms": 207820,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/1TMMQi589Us8RtorHffrO6"
+      "duration_ms": 215378,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/5SCvUWfDY3XuvyS6oap0Le"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1539,6 +1519,26 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
+        "name": "your love",
+        "url": "https://open.spotify.com/album/1bsPkjL5lhR3QeuaOWZDfs"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 207820,
+      "name": "your love",
+      "url": "https://open.spotify.com/track/1TMMQi589Us8RtorHffrO6"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
         "name": "\u00c7a Va Aller",
         "url": "https://open.spotify.com/album/63896UNR4OgFrYDO3RTZhU"
       },
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "LOVER",
         "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
@@ -1651,42 +1635,18 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Marlboro Sounds",
-        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 363620,
-      "name": "Marlboro Sounds",
-      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
-        "name": "Inferno (No. 1)",
-        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
-      },
-      "artists": [
-        {
-          "name": "Disco Dom",
-          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        }
-      ],
-      "duration_ms": 296453,
-      "name": "Be The One (feat. Yung Bae)",
-      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1715,18 +1675,42 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Love Seeking",
-        "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
+        "name": "Inferno (No. 1)",
+        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
       "artists": [
         {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         }
       ],
-      "duration_ms": 226565,
-      "name": "Love Seeking",
-      "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
+      "duration_ms": 296453,
+      "name": "Be The One (feat. Yung Bae)",
+      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "Marlboro Sounds",
+        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 363620,
+      "name": "Marlboro Sounds",
+      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1747,6 +1731,22 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "Love Seeking",
+        "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 226565,
+      "name": "Love Seeking",
+      "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
         "name": "If You Need Me",
         "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
@@ -1871,46 +1891,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 204366,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "The Best Rapper Alive",
         "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 190948,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 204366,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Never Let It Go",
-        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
-      },
-      "artists": [
-        {
-          "name": "Final Djs",
-          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
-        }
-      ],
-      "duration_ms": 158405,
-      "name": "Never Let It Go",
-      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 179750,
       "name": "Touch",
       "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
+      },
+      "artists": [
+        {
+          "name": "Final Djs",
+          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
     },
     {
       "added_at": "2025-06-06 04:00:15",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "Bounce In Peace",
-        "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
-        },
-        {
-          "name": "Fawna",
-          "url": "https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU"
-        }
-      ],
-      "duration_ms": 218454,
-      "name": "More Than It Seems",
-      "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "Shante",
         "url": "https://open.spotify.com/album/3v5IRNqqyXjMDIeFIkWBaC"
       },
@@ -2371,6 +2351,26 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
+        "name": "Bounce In Peace",
+        "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        },
+        {
+          "name": "Fawna",
+          "url": "https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "More Than It Seems",
+      "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
         "name": "Tides (Jean Tonique Remix)",
         "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
       },
@@ -2391,30 +2391,6 @@
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
-        "name": "CAN'T GO HOME",
-        "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
-      },
-      "artists": [
-        {
-          "name": "Tayrell",
-          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        },
-        {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "CAN'T GO HOME",
-      "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
-    },
-    {
-      "added_at": "2025-06-06 04:00:15",
-      "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
@@ -2431,6 +2407,26 @@
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "added_at": "2025-06-06 04:00:15",
+      "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
     }
   ],
   "unique_name": "Poolside Disco",

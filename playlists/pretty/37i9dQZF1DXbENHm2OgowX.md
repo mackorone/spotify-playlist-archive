@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,299 likes - 69 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,417 likes - 69 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 56 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 57 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 58 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
-| 59 | [Canneto](https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa), [G.U.P\. Alcaro](https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ) | [Canneto](https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N) | 1:54 |
-| 60 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
+| 59 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
+| 60 | [Canneto](https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa), [G.U.P\. Alcaro](https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ) | [Canneto](https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N) | 1:54 |
 | 61 | [Symmetry](https://open.spotify.com/track/04xvAfowaRbutabkOUzILY) | [Alexander John](https://open.spotify.com/artist/2ngy5SYgu4IgNF7Zw9vbNt), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Symmetry](https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG) | 3:19 |
 | 62 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 63 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |

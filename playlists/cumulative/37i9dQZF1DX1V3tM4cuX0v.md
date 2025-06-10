@@ -4,7 +4,7 @@
 
 > Найпопулярніші пісні сьогодення\. Обкладинка: Drevo
 
-128 songs - 6 hr 20 min
+129 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-06-27 | 2024-10-11 |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-27 | 2025-04-11 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-14 |
-| [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 | 2025-05-19 |  |
+| [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 | 2025-05-19 | 2025-06-10 |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-06-27 | 2025-04-04 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-09-10 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-09 | 2024-12-13 |
@@ -73,6 +73,7 @@
 | [Гаї шумлять \(1913\)](https://open.spotify.com/track/4bZDub9rMMoJqyLHSlZUgu) | [Пиріг і Батіг](https://open.spotify.com/artist/72WPri6uCSfr6l9WdgZ2D6) | [Поетичний](https://open.spotify.com/album/1kMqjTYQPAw2fTDdmCIY72) | 2:13 | 2024-06-27 |  |
 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 | 2025-04-24 |  |
 | [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-05 | 2024-12-13 |
+| [Де би де би](https://open.spotify.com/track/0HcAqtveWI1vLCefAqy6Db) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Перший тайм](https://open.spotify.com/album/2pRUpo4xoCDnCRejQJQ6gl) | 2:49 | 2025-06-09 |  |
 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 | 2025-03-10 |  |
 | [Додому](https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [8 марабу](https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw) | 2:49 | 2024-06-27 | 2025-02-07 |
 | [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 | 2024-06-27 | 2024-11-05 |

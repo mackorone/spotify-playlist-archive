@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 419883,
+  "num_followers": 420053,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,22 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "The Realm",
-        "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
+        "name": "No Division",
+        "url": "https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367"
       },
       "artists": [
         {
           "name": "Charlotte de Witte",
           "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "XSALT",
+          "url": "https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC"
         }
       ],
-      "duration_ms": 358099,
-      "name": "The Realm",
-      "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
+      "duration_ms": 366613,
+      "name": "No Division (feat. XSALT)",
+      "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -575,22 +579,18 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
-        "name": "No Division",
-        "url": "https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367"
+        "name": "The Realm",
+        "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
       },
       "artists": [
         {
           "name": "Charlotte de Witte",
           "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "XSALT",
-          "url": "https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC"
         }
       ],
-      "duration_ms": 366613,
-      "name": "No Division (feat. XSALT)",
-      "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
+      "duration_ms": 358099,
+      "name": "The Realm",
+      "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
     },
     {
       "added_at": "2025-06-06 04:00:05",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-06-06 04:00:05",
       "album": {
+        "name": "Salty",
+        "url": "https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR"
+      },
+      "artists": [
+        {
+          "name": "Timmo",
+          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
+        }
+      ],
+      "duration_ms": 181394,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
+    },
+    {
+      "added_at": "2025-06-06 04:00:05",
+      "album": {
         "name": "Hypnotic (feat. Kyozo)",
         "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
-    },
-    {
-      "added_at": "2025-06-06 04:00:05",
-      "album": {
-        "name": "Salty",
-        "url": "https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR"
-      },
-      "artists": [
-        {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
-        }
-      ],
-      "duration_ms": 181394,
-      "name": "Salty",
-      "url": "https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe"
     },
     {
       "added_at": "2025-06-06 04:00:05",

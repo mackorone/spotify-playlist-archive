@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,635 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,746 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 41 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
 | 42 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
 | 43 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 |
-| 44 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
-| 45 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
+| 44 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
+| 45 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
 | 46 | [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 |
 | 47 | [Sacrifice](https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Sacrifice](https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN) | 2:47 |
 | 48 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 64 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 |
 | 65 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
 | 66 | [Phrygian](https://open.spotify.com/track/5ySpBqLgqeDONh96HKv0kL) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:00 |
-| 67 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |
-| 68 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
+| 67 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
+| 68 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |
 | 69 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
 | 70 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
 | 71 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |

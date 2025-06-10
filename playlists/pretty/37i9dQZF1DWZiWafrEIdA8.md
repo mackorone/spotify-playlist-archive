@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,239 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,245 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 47 | [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 |
 | 48 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 |
 | 49 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 |
-| 50 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 50 | [Sunshine](https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sunshine](https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr) | 3:15 |
 
 Snapshot ID: `Z/X+6gAAAABVkP55h1st+X6sUpRmraGT`

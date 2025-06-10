@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,544 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,567 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 40 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 41 | [Naitu](https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Global Warning](https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN) | 4:11 |
 | 42 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 |
-| 43 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
-| 44 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 |
+| 43 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 |
+| 44 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
 | 45 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
 | 46 | [The Death & Resurrection Show](https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0QdWqJmpfrgIepHxGNU4Rs) | 6:56 |
 | 47 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 52 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
 | 53 | [Go With The Flow](https://open.spotify.com/track/0ogtgveW3JxxtPE4YVJPaj) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 3:02 |
 | 54 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
-| 55 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
-| 56 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
+| 55 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
+| 56 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
 | 57 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
 | 58 | [To The Hilt](https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Industrial Machine Musick](https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf) | 4:22 |
 | 59 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 65 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
 | 66 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 67 | [Totuus](https://open.spotify.com/track/110q5eExcmrgf0fsE610ON) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Omen X](https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv) | 3:26 |
-| 68 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
-| 69 | [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 |
+| 68 | [Enough](https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:16 |
+| 69 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
 | 70 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
 | 71 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
 | 72 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |

@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14320,
+  "num_followers": 14319,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKXgyI1W689aag1boSO1urbj5ba3g2",
+  "snapshot_id": "AAAKX15Zg28Zr/OuzYCORiqqn8LRycxQ",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -2783,6 +2783,26 @@
       "duration_ms": 194409,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/0PPi1m29PJixaV00zIngDc"
+    },
+    {
+      "added_at": "2025-06-09 13:21:30",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU"
+      },
+      "artists": [
+        {
+          "name": "Casmalia",
+          "url": "https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT"
+        },
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97"
     }
   ],
   "unique_name": "Ultra Club Hits",

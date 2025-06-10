@@ -19663,6 +19663,32 @@
     },
     {
       "album": {
+        "name": "Tera Hath Ki Chutya",
+        "url": "https://open.spotify.com/album/4dZKJVNpekCZww2IN6mVsS"
+      },
+      "artists": [
+        {
+          "name": "Nihash",
+          "url": "https://open.spotify.com/artist/3Ojc6eoVezxVtmm5lP6eKa"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Vinder Nathu Majra",
+          "url": "https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230425,
+      "name": "Tera Hath Ki Chutya",
+      "url": "https://open.spotify.com/track/55bw8P12FQf0h0ujiwTFwG"
+    },
+    {
+      "album": {
         "name": "Late Night Talks",
         "url": "https://open.spotify.com/album/2FwpvBmoJoatm62vxE8M5t"
       },
@@ -20380,7 +20406,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 213750,
       "name": "Tich Button",
       "url": "https://open.spotify.com/track/73lfWqYVC6CYPoyV2eD0PR"

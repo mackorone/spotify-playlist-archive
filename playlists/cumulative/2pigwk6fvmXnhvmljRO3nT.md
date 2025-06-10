@@ -4,7 +4,7 @@
 
 > 
 
-7,353 songs - 19 day 2 hr 31 min
+7,354 songs - 19 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5225,6 +5225,7 @@
 | [Stealing Words of the Moon](https://open.spotify.com/track/3Jj40YprnsV3NRvbTLJoU7) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:24 | 2025-03-23 |  |
 | [STEP](https://open.spotify.com/track/2zcexjzFwNj6uomgoTcGhM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS \-Single Best 1st\-](https://open.spotify.com/album/6rAjiydvTHQAUpsuPSJROy) | 4:16 | 2024-12-14 |  |
 | [Step by Step](https://open.spotify.com/track/404bfT8cVTOCHw2fvGhZNU) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 2:10 | 2025-03-08 |  |
+| [STEP BY STEP UP↑↑↑↑](https://open.spotify.com/track/4gWHHX78wKDxR5W5ROeP7T) | [fourfolium](https://open.spotify.com/artist/2RVXdOnRln5sL4z5wU6Sok) | [HIGECORE!](https://open.spotify.com/album/6rcrV8O10BZ8L4nLmiy56g) | 4:11 | 2025-06-09 |  |
 | [STEP by STEP UP↑↑↑↑](https://open.spotify.com/track/7zuR4IKOOpdshNwmJyEc1u) | [fourfolium](https://open.spotify.com/artist/2RVXdOnRln5sL4z5wU6Sok) | [ひげこれ! HIGEDRIVER BEST in KADOKAWA ANISON](https://open.spotify.com/album/7f6XRbYMJSYFDEuyGZdXl2) | 4:11 | 2025-05-26 |  |
 | [Step into a World \(Rapture's Delight\)](https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [I Got Next](https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS) | 4:49 | 2025-01-03 |  |
 | [Step On Me](https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:50 | 2024-12-14 |  |

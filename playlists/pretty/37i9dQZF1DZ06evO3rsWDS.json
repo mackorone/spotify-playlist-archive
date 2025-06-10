@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5716,
+  "num_followers": 5717,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABfVqUbhgzSRCglS0dVuSXb",
+  "snapshot_id": "aETSgAAAAAANl5Yiai7st8r9uzf1cRR1",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "CUIDADITO",
+      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 210040,
       "name": "Pedacito de M\u00ed",
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "CUIDADITO",
-      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amandote (Mariachi)",
+        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "Amandote - Mariachi",
+      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amandote (Mariachi)",
-        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Mendez",
-          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Amandote - Mariachi",
-      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a la Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Regresar\u00e1s",
+        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "No Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 199746,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Regresar\u00e1s",
-        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "No Regresar\u00e1s",
-      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
     },
     {
       "added_at": null,

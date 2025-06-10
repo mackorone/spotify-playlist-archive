@@ -858,6 +858,28 @@
     {
       "album": {
         "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE"
+    },
+    {
+      "album": {
+        "name": "15 Clasicas De Leyenda",
         "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
       },
       "artists": [
@@ -1558,7 +1580,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 177573,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 177826,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"

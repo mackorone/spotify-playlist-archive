@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373,232 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,373,306 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 64 | [Teacher's Pet](https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 4:01 |
 | 65 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 |
 | 66 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 |
-| 67 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
-| 68 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
+| 67 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
+| 68 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 69 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 |
 | 70 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 71 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 75 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
 | 76 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
 | 77 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 |
-| 78 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
-| 79 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
+| 78 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
+| 79 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
 | 80 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
 | 81 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 82 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 |
 | 83 | [VILLAIN](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:19 |
 | 84 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
-| 85 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
-| 86 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
+| 85 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
+| 86 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
 | 87 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 88 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 |
 | 89 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |

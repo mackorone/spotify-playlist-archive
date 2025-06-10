@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAfrcUZCyJao0v8s8Ma4btl",
+  "snapshot_id": "aETSgAAAAAA7ZcCv/XPmKDCWwfK7qzh5",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Cantarei Teu Amor (I Could Sing of Your Love Forever) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG"
+      "duration_ms": 278840,
+      "name": "Eu Me Rendo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 278840,
-      "name": "Eu Me Rendo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd"
+      "duration_ms": 201933,
+      "name": "Cantarei Teu Amor (I Could Sing of Your Love Forever) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG"
     },
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mystery Of Christ",
+        "url": "https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REVERE: Unscripted Portuguese",
         "url": "https://open.spotify.com/album/1tK5DcDjcCNGYVQTFLitIX"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 554498,
       "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
       "url": "https://open.spotify.com/track/2ixomu6Vcz6vFVuH5K9bpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mystery Of Christ",
-        "url": "https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449054,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG"
     },
     {
       "added_at": null,

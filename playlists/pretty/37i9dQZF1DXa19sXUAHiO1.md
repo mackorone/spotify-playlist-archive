@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: The Beach Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,795 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,784 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 12 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 | 13 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 14 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
-| 15 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
-| 16 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
+| 15 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
+| 16 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
 | 17 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
 | 18 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
 | 19 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 31 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
 | 32 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 33 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 |
-| 34 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
-| 35 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 |
+| 34 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 |
+| 35 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
 | 36 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 |
 | 37 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
 | 38 | [Carry On](https://open.spotify.com/track/4bjvLvKovcWqZwDbXT5QQX) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:25 |

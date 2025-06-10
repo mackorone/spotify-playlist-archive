@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-285 songs - 18 hr 31 min
+286 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [El Manisero](https://open.spotify.com/track/4RnFbX6Tvne8bw7uIzmqTZ) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 3:28 | 2021-01-19 | 2022-07-29 |
 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 | 2024-02-05 |  |
 | [Entre Tu Balcón y Mi Ventana \- En Directo](https://open.spotify.com/track/59DNtOIqq6WS1VstE7U4hW) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Contigo Directos, Vol\. 2 \(En Directo\)](https://open.spotify.com/album/7zkO76gP4P62x5agur7kkK) | 4:14 | 2021-01-19 | 2022-07-29 |
+| [Estoy como nunca](https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa) | [Eliades Ochoa](https://open.spotify.com/artist/5kzBZ1hAd7xSzNUbGxACee) | [Estoy Como Nunca](https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb) | 5:01 | 2024-11-28 |  |
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballet](https://open.spotify.com/album/0H3v4snD6xhworsjXndsai) | 2:43 | 2021-01-19 | 2024-04-19 |
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/7CAhxeaTYXn1qWNRkZl9ad) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Everybody's Talkin': The Very Best of Harry Nilsson](https://open.spotify.com/album/1tRXz3Sc9Er8uM6ZUHkiJj) | 2:44 | 2021-01-19 | 2022-07-28 |
 | [Everything Happens To Me](https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Essential Standards \(eBooklet\)](https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm) | 5:04 | 2024-02-05 | 2024-06-26 |
@@ -154,7 +155,7 @@
 | [La femme d'argent](https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 7:06 | 2021-01-19 |  |
 | [La Flor de la Canela \(with Joaquín Sabina\)](https://open.spotify.com/track/3AvRiaZZqrMe3lznMui3BM) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 3:12 | 2021-01-19 | 2022-07-29 |
 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 | 2024-06-25 |  |
-| [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 | 2021-01-19 |  |
+| [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 | 2021-01-19 | 2025-06-10 |
 | [La trama y el desenlace](https://open.spotify.com/track/563EHELbGcAwXlAHbWmK3f) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Amar la trama](https://open.spotify.com/album/2y9mUXC1v4zM2NqDwtwy4b) | 4:06 | 2024-02-05 | 2024-11-29 |
 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 | 2024-02-05 |  |
 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 | 2021-01-19 |  |

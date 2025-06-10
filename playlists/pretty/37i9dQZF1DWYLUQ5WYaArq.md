@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Yacht rock favourites 🎷 Cover: The Doobie Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,578 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,563 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

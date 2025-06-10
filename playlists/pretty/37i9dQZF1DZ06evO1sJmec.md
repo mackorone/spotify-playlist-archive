@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,043,831 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,044,117 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
 | 50 | [Shadows Follow](https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:11 |
 
-Snapshot ID: `aEOBAAAAAAAyXHqkc7/jzun7ldC5kPW3`
+Snapshot ID: `aETSgAAAAABgz6sH3KQXFWN0Zt4+ZpAU`

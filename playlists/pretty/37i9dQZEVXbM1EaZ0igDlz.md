@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,713 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,721 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 30 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 |
 | 31 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 32 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 |
-| 33 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
+| 33 | [The Night We Met](https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn) | 3:28 |
 | 34 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
 | 35 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 36 | [SABÍA QUE NO](https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SABÍA QUE NO](https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs) | 3:02 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 47 | [Verwandtschaftstreffen](https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Verwandtschaftstreffen](https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p) | 2:45 |
 | 48 | [PALERMO](https://open.spotify.com/track/1AzhkL1zTo5NJ1oBOp0Hhe) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [PALERMO](https://open.spotify.com/album/3pVxSNFr5i2QyEdS8QvHOi) | 2:17 |
 | 49 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
-| 50 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
+| 50 | [In the End](https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/2pKw6GERJVAD61449B1EEM) | 3:36 |
 
-Snapshot ID: `L9kBUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9pQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

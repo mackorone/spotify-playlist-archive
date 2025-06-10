@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,469 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,473 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 33 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
 | 34 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
 | 35 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
-| 36 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 |
+| 36 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
 | 37 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 38 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
-| 39 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 |
+| 39 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 |
 | 40 | [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 |
 | 41 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 42 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |

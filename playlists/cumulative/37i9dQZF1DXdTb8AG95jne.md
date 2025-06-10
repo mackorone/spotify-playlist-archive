@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ZIN CHOI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-962 songs - 2 day 10 hr 39 min
+963 songs - 2 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
 | [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 | 2025-03-15 |
 | [First Time](https://open.spotify.com/track/1w8eS94wSGqXJxbXWsmuig) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:39 | 2022-03-31 | 2022-04-16 |
+| [Five Minutes Ago \- Band Version](https://open.spotify.com/track/0oRdrlraR6TXAqOKZR7LmK) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD) | [Five Minutes Ago](https://open.spotify.com/album/1AMQgRXtR027raHkkr5cwx) | 3:39 | 2025-06-10 |  |
 | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/track/37VvbzX6M33crYC1cp9Mbk) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK), [Moonsoo Kim](https://open.spotify.com/artist/2ylkZLnqiOeta3QWY8zgJr) | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/album/63hibZ5d4d0vR8vBSnmoDt) | 3:38 | 2024-09-05 | 2024-09-14 |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-07 | 2022-04-21 |
 | [Flower 꽃](https://open.spotify.com/track/2RZcBcDje7h7XnINICVJtR) | [Lacuna 라쿠나](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Garden 정원](https://open.spotify.com/album/72cTrdX2EGfSpYdZsyCvLj) | 4:33 | 2022-04-12 | 2022-04-14 |
@@ -773,7 +774,7 @@
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-28 | 2023-04-19 |
 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-07-17 | 2023-07-28 |
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-28 | 2023-08-17 |
-| [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 | 2025-05-21 |  |
+| [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 | 2025-05-21 | 2025-06-10 |
 | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/track/0FBPTDfNG4uQX6Ysx8ZKEX) | [ZASMIIN](https://open.spotify.com/artist/0RjRLXt3YDQS3VWpqO7wB3), [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/album/3BFSGN4NiChDGcZ7hEj5RS) | 3:44 | 2022-05-02 | 2022-05-26 |
 | [SUNspot](https://open.spotify.com/track/5k67kGeFPOr0VL23qRs4MO) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SUNspot](https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h) | 3:02 | 2024-04-30 | 2024-05-10 |
 | [Supernova](https://open.spotify.com/track/5tR3DtTssLjT2pXuqeXopL) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [The Beginning](https://open.spotify.com/album/7vy3zY5P2Rht3IndB78A3H) | 3:58 | 2021-12-21 | 2022-07-01 |

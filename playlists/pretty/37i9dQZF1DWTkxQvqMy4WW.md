@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,426,002 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,425,928 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 78 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
 | 79 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 80 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 |
-| 81 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 81 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 82 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
 | 83 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |
-| 84 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
+| 84 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 85 | [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 |
-| 86 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
-| 87 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 |
-| 88 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
-| 89 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 86 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 |
+| 87 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
+| 88 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 89 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 90 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
 | 91 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
 | 92 | [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 95 | [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 |
 | 96 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
 | 97 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 98 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
-| 99 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
+| 98 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
+| 99 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
 | 100 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 
 Snapshot ID: `aD/EbQAAAAD4sUcO3+aCsbJxerReZdVg`

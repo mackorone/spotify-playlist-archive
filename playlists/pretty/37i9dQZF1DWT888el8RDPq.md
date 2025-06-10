@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici emoji del sole eccetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,136 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,138 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 30 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 31 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 32 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
-| 33 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
-| 34 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
+| 33 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
+| 34 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 35 | [LOSER](https://open.spotify.com/track/11uWk4MpRXW6Ei95F6RjFQ) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [LOSER](https://open.spotify.com/album/0bwONTyMcavDzaKfXm25uJ) | 2:22 |
 | 36 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 37 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 39 | [Cigarette Daydreams](https://open.spotify.com/track/6jHvX8ZnHKC1PnrPMJ0Emt) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:28 |
 | 40 | [Radical](https://open.spotify.com/track/29cNIWFw9RJzd4OXsJLCNB) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Radical](https://open.spotify.com/album/7lg6FSoBd77TI3KViyOPoT) | 2:59 |
 | 41 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
-| 42 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
-| 43 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
+| 42 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
+| 43 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
 | 44 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
 | 45 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 46 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |

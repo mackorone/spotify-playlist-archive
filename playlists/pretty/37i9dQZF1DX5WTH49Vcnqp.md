@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,019 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,989 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
 | 75 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 |
 
-Snapshot ID: `aEGi/QAAAAACjFXU72fU9u5Fet0QyTOk`
+Snapshot ID: `aEGi/QAAAACKXbVT1PoBQYtPQRxyLrZe`

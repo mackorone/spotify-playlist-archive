@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,424 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,430 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 56 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |
 | 57 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 |
 | 58 | [Denim & Diamonds](https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Shooter](https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG) | 3:26 |
-| 59 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
-| 60 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
+| 59 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 |
+| 60 | [Things to Burn](https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Southern Galactic](https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy) | 3:18 |
 | 61 | [Fruits Of My Labour](https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Cuntry Covers Vol\. 1](https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu) | 4:44 |
 | 62 | [Justice](https://open.spotify.com/track/1EOGdbnAjCYFo2NGHy2Yki) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Justice](https://open.spotify.com/album/54zCCRilHLhxkA0Moy7Jnz) | 3:44 |
 | 63 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 |

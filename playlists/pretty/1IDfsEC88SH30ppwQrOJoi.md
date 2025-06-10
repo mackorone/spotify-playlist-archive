@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,320 likes - 140 songs - 6 hr 57 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,319 likes - 141 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 138 | [Tivoli \(KREAM Remix\)](https://open.spotify.com/track/2XpnR1Ly4bKk7K2sxJkM7U) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Tivoli \(KREAM Remix\)](https://open.spotify.com/album/5dV5M5LZ7wQDfAYp039hO6) | 3:14 |
 | 139 | [La Bomba](https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0) | [Aphesta](https://open.spotify.com/artist/7zWSFa0jzUynkGowMgzH46) | [Wet Mode](https://open.spotify.com/album/2zJnjm8f9oJjOnnnRhRYMw) | 2:29 |
 | 140 | [Dusk Till Dawn](https://open.spotify.com/track/0PPi1m29PJixaV00zIngDc) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Erire](https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj) | [Dusk Till Dawn](https://open.spotify.com/album/4lfTQlhIe89eQJlIF2yhE7) | 3:14 |
+| 141 | [Everybody](https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97) | [Casmalia](https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Everybody](https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU) | 3:08 |
 
-Snapshot ID: `AAAKXgyI1W689aag1boSO1urbj5ba3g2`
+Snapshot ID: `AAAKX15Zg28Zr/OuzYCORiqqn8LRycxQ`

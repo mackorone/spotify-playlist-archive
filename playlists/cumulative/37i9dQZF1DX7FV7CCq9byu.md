@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-895 songs - 1 day 21 hr 42 min
+898 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Miss U](https://open.spotify.com/track/5sJ1xbRFMVUgTy8qLaEHba) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Miss U](https://open.spotify.com/album/2OESSRquRHX18HYGPsIHsq) | 2:41 | 2025-01-17 | 2025-02-21 |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 | 2024-10-25 |
 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 | 2024-07-02 | 2024-08-23 |
+| [Mitt hjärta av guld](https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Mitt hjärta av guld](https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i) | 2:50 | 2025-06-09 |  |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-13 | 2024-10-25 |
 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 | 2025-05-01 | 2025-06-06 |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 |  |
@@ -657,6 +658,7 @@
 | [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-11-04 | 2025-01-10 |
 | [SANNINGEN SVIDER](https://open.spotify.com/track/0yVA82YrlsFKXIuIHJhtEk) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SANNINGEN SVIDER](https://open.spotify.com/album/6BoTdKPbMgyVNAbBAfw7Kz) | 3:16 | 2024-11-14 | 2025-01-17 |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-05 |  |
+| [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 | 2025-06-09 |  |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 | 2025-02-21 |
 | [Senaste tiden](https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [… men det gör jag egentligen](https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR) | 3:57 | 2024-08-29 | 2024-10-11 |
 | [Settle Down](https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Settle Down](https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc) | 3:18 | 2025-03-06 | 2025-04-04 |
@@ -748,6 +750,7 @@
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-16 | 2024-09-27 |
 | [Sånne Som Oss](https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sånne Som Oss](https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61) | 2:52 | 2024-08-29 | 2024-09-27 |
 | [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Søtt&salt \(feat\. Peg Parnevik\)](https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI) | 3:15 | 2024-10-31 | 2025-01-10 |
+| [Ta mig här och nu](https://open.spotify.com/track/7oRhDJ4vZpFIFJOx0fjHK7) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Ta mig här och nu](https://open.spotify.com/album/64GSVTB3Z5imJ8D8X3SmO8) | 2:32 | 2025-06-09 |  |
 | [Tack Mitt \(X\)](https://open.spotify.com/track/122f2GTwtButQFALowd18H) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Tack Mitt \(X\)](https://open.spotify.com/album/5o3QsdYt30N7vEC2O31kUE) | 2:08 | 2025-01-09 | 2025-02-28 |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-10-10 | 2024-11-23 |
 | [Take It! Take It!](https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Take It! Take It!](https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC) | 3:16 | 2025-05-22 |  |

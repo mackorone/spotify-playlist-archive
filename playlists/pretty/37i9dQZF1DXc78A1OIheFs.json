@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19029,
+  "num_followers": 19030,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -282,6 +282,10 @@
         {
           "name": "House of Shem",
           "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        },
+        {
+          "name": "Te Omeka Perkins",
+          "url": "https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf"
         }
       ],
       "duration_ms": 193509,
@@ -741,6 +745,22 @@
       "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
       "added_at": "2025-02-27 13:00:12",
       "album": {
         "name": "I Wanna Tell Somebody",
@@ -761,10 +781,10 @@
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
     },
     {
-      "added_at": "2025-05-08 14:00:23",
+      "added_at": "2025-01-23 13:00:35",
       "album": {
-        "name": "kissing under an (almost) full moon",
-        "url": "https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ"
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
       },
       "artists": [
         {
@@ -772,41 +792,9 @@
           "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
         }
       ],
-      "duration_ms": 250217,
-      "name": "lose her",
-      "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
-    },
-    {
-      "added_at": "2025-04-03 13:00:16",
-      "album": {
-        "name": "Slow Crush",
-        "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 210926,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -823,6 +811,22 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2025-04-03 13:00:16",
+      "album": {
+        "name": "Slow Crush",
+        "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 210926,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
     },
     {
       "added_at": "2024-12-12 13:00:02",
@@ -895,6 +899,38 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "kissing under an (almost) full moon",
+        "url": "https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 250217,
+      "name": "lose her",
+      "url": "https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -915,50 +951,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+        "name": "Under One Roof",
+        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2025-01-23 13:00:35",
-      "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
-      },
-      "artists": [
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
-    },
-    {
-      "added_at": "2025-04-10 14:00:37",
-      "album": {
-        "name": "The Eyes",
-        "url": "https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27"
-      },
-      "artists": [
-        {
-          "name": "Church & AP",
-          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
-        }
-      ],
-      "duration_ms": 197625,
-      "name": "The Eyes",
-      "url": "https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp"
+      "duration_ms": 254281,
+      "name": "Under One Roof",
+      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -977,24 +985,20 @@
       "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-04-10 14:00:37",
       "album": {
-        "name": "Under One Roof",
-        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+        "name": "The Eyes",
+        "url": "https://open.spotify.com/album/5vs2sQgZRYm2QPWO7NWs27"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
         }
       ],
-      "duration_ms": 254281,
-      "name": "Under One Roof",
-      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+      "duration_ms": 197625,
+      "name": "The Eyes",
+      "url": "https://open.spotify.com/track/4MpAtRHh8dckqOar0vlLBp"
     },
     {
       "added_at": "2025-02-27 13:00:12",
@@ -1069,22 +1073,6 @@
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
-      "added_at": "2025-05-22 14:00:16",
-      "album": {
-        "name": "Motorway",
-        "url": "https://open.spotify.com/album/4ElIb7BvBZWM7nHm5lcUnG"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 210707,
-      "name": "Motorway",
-      "url": "https://open.spotify.com/track/2SRfU2mLSa7MJ8LgCY6ute"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "One More Chance (feat. Savage)",
@@ -1103,6 +1091,22 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+    },
+    {
+      "added_at": "2025-05-22 14:00:16",
+      "album": {
+        "name": "Motorway",
+        "url": "https://open.spotify.com/album/4ElIb7BvBZWM7nHm5lcUnG"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 210707,
+      "name": "Motorway",
+      "url": "https://open.spotify.com/track/2SRfU2mLSa7MJ8LgCY6ute"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1235,22 +1239,6 @@
     {
       "added_at": "2024-11-28 13:00:00",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
-    },
-    {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW"
       },
@@ -1263,6 +1251,22 @@
       "duration_ms": 213661,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
     }
   ],
   "unique_name": "The Local List Aotearoa",

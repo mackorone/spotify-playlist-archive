@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Hawaiian Roller Coaster Ride",
+        "url": "https://open.spotify.com/album/3Yk55uGnU2uSURBOOpJ3YV"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Hawaiian Roller Coaster Ride",
+      "url": "https://open.spotify.com/track/3pv3kFVXQYZVrXAChG7na3"
+    },
+    {
+      "album": {
         "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
       },

@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 3 min
+103 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Llorar por Amor](https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:55 | 2022-06-01 | 2023-02-08 |
 | [Llorar por Amor](https://open.spotify.com/track/6RZ4h4fA1gljr2QGYThXzR) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:55 | 2024-12-17 | 2025-04-09 |
 | [Mandato Divino](https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw), [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Explosion Norteña](https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr) | 3:01 | 2022-06-01 | 2022-06-04 |
+| [Me Cai De La Nube](https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze) | 3:08 | 2025-06-10 |  |
 | [Me Cai De La Nube](https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69) | 3:08 | 2023-02-07 | 2025-06-07 |
 | [Me Cai De La Nube](https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:04 | 2022-06-01 | 2024-02-29 |
 | [Me Caíste Del Cielo](https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:01 | 2022-06-01 |  |
@@ -91,8 +92,8 @@
 | [Solo quiero](https://open.spotify.com/track/2TG4wMLLyoGwxBDgE8feJu) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 2:22 | 2023-08-10 | 2024-08-14 |
 | [Te Voy a Complacer](https://open.spotify.com/track/01b9QR2gAFqNBaIKFkUxYA) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:46 | 2025-01-20 |  |
 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 | 2022-06-01 |  |
-| [Tengo Miedo](https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:57 | 2023-09-18 |  |
-| [Tengo Miedo](https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:57 | 2022-06-01 | 2023-09-19 |
+| [Tengo Miedo](https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:57 | 2023-09-18 | 2025-06-10 |
+| [Tengo Miedo](https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:57 | 2022-06-01 |  |
 | [Tu Desconfianza](https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 3:07 | 2025-05-07 |  |
 | [Un Dia Con Otro \- Live](https://open.spotify.com/track/2HaPZ5gNiW5OLUDIkLNKjr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 4:02 | 2022-06-01 |  |
 | [Una Lágrima y un Recuerdo](https://open.spotify.com/track/3JP49yrhK9kGXifQhGQEx4) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [12 Mejores Éxitos con](https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2) | 2:41 | 2025-04-03 |  |

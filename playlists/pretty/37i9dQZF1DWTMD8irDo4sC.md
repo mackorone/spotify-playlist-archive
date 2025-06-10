@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,591 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,609 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 45 | [Mishwar‫ ‬ \- Live](https://open.spotify.com/track/6S850blEnGG1CS6ehAi4Dk) | [Luna Abu Nassar](https://open.spotify.com/artist/3JuUykT51S5TP7BNngL5uz) | [A Night in the Forest \(Live\)](https://open.spotify.com/album/5AF1PIF5WibTqUzjnaZDaq) | 4:26 |
 | 46 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 | 47 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
-| 48 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
-| 49 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |
+| 48 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |
+| 49 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
 | 50 | [Mafi Mennik](https://open.spotify.com/track/5pUGjCcpJn8AeurkYd4d0f) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mafi Mennik](https://open.spotify.com/album/2nudqbtl9EcsCjrWOhChaF) | 4:03 |
 | 51 | [بدي احكيك](https://open.spotify.com/track/4LcxmnNWYr9EUeEJWwKT5e) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [بدي احكيك](https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q) | 2:51 |
 | 52 | [Erjaa Shoufak](https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Erjaa Shoufak](https://open.spotify.com/album/4pGrKvclUJW5QbzY80hU3a) | 3:47 |

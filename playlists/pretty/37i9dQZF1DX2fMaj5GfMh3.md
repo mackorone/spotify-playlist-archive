@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,208 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,216 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

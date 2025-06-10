@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2906012,
+  "num_followers": 2906586,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAiDVcyEf0bOT8vwg8FhNyV",
+  "snapshot_id": "aETSgAAAAACQ13WDJdoBHP67mQHvU7eP",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
       "duration_ms": 233240,
       "name": "Until It's Gone",
       "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Friendly Fire",
-        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "Friendly Fire",
-      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
     }
   ],
   "unique_name": "This Is Linkin Park",

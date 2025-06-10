@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > The Indie highlights of 2019\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,576 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,599 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 74 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 |
 | 75 | [Friends](https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Friends](https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz) | 3:43 |
 | 76 | [Naeem](https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 4:22 |
-| 77 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 |
-| 78 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
-| 79 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
-| 80 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 |
+| 77 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 |
+| 78 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 |
+| 79 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
+| 80 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
 | 81 | [Hey, Ma](https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:36 |
 | 82 | [Time](https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P) | 3:56 |
 | 83 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 |

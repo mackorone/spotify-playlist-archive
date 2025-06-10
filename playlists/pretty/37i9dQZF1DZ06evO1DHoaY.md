@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,061,047 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,061,077 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 31 | [Blackman Redemption](https://open.spotify.com/track/6jI6sujyu6aHmnAOZTvqz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:33 |
 | 32 | [Rat Race](https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 2:50 |
 | 33 | [Ambush In The Night](https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:12 |
-| 34 | [Turn Your Lights Down Low](https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 5:46 |
+| 34 | [Misty Morning](https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:33 |
 | 35 | [Stiff Necked Fools](https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:25 |
 | 36 | [War](https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:36 |
-| 37 | [Misty Morning](https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:33 |
+| 37 | [Turn Your Lights Down Low](https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 5:46 |
 | 38 | [Get Up, Stand Up](https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:17 |
 | 39 | [Rastaman Live Up](https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 5:27 |
 | 40 | [Positive Vibration](https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 49 | [Put It On](https://open.spotify.com/track/7nnxlucFOovCdayN8JcrVZ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:58 |
 | 50 | [Natty Dread](https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:35 |
 
-Snapshot ID: `aEOBAAAAAABH5sZ/KFws/GcOuB1D6vR6`
+Snapshot ID: `aETSgAAAAACQMK4vepBlCJrhTUgKEtjS`

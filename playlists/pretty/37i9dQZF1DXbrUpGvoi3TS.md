@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,652,452 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,652,398 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 20 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 21 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 |
 | 22 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 |
-| 23 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
-| 24 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
+| 23 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
+| 24 | [Talking to the Moon](https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:37 |
 | 25 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 26 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 | 27 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 34 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 35 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
 | 36 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
-| 37 | [Dusk Till Dawn \(feat\. Sia\) \- Radio Edit](https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dusk Till Dawn \(feat\. Sia\) \[Radio Edit\]](https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp) | 3:59 |
-| 38 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 37 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 38 | [Dusk Till Dawn \(feat\. Sia\) \- Radio Edit](https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dusk Till Dawn \(feat\. Sia\) \[Radio Edit\]](https://open.spotify.com/album/5l5gR4rh26QI3fijGFTDrp) | 3:59 |
 | 39 | [Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 5:43 |
 | 40 | [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 |
 | 41 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 43 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 44 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 |
 | 45 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
-| 46 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
-| 47 | [Dynasty](https://open.spotify.com/track/0heE5tAAaDQmnGhVDImPl2) | [MIIA](https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL) | [Dynasty](https://open.spotify.com/album/3g7TTE6375PGIBsM9Tlk9I) | 3:45 |
+| 46 | [Dynasty](https://open.spotify.com/track/0heE5tAAaDQmnGhVDImPl2) | [MIIA](https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL) | [Dynasty](https://open.spotify.com/album/3g7TTE6375PGIBsM9Tlk9I) | 3:45 |
+| 47 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 48 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 |
 | 49 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 50 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 84 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 |
 | 85 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Ella Eyre](https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5) | 3:50 |
 | 86 | [Are you happy?](https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Sad Songs](https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY) | 2:37 |
-| 87 | [Broken\-Hearted Girl](https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:37 |
-| 88 | [Yours](https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 2:48 |
+| 87 | [Yours](https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 2:48 |
+| 88 | [Broken\-Hearted Girl](https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:37 |
 | 89 | [The Enemy](https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:46 |
 | 90 | [I Found](https://open.spotify.com/track/4lRuRtvftdSSUA7hLP7zAr) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:34 |
 | 91 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 97 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
 | 98 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 99 | [Crazy in Love](https://open.spotify.com/track/5iJS04ZXjMkQZ5nS0PsIeY) | [Eden Project](https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK) | [Crazy in Love](https://open.spotify.com/album/0W1rDqIMNC2lg5Rtq7kn2H) | 4:25 |
-| 100 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
+| 100 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
 
 Snapshot ID: `ZlWhcwAAAACwdj/bj4iSdudPgGRU5/qA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,081 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,099 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 37 | [Ingrediente](https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 3:36 |
 | 38 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
 | 39 | [Corazón Fugitivo](https://open.spotify.com/track/08Az8ihw2PvIlj4cpLsZgT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pesados Vestigios](https://open.spotify.com/album/2jQGwS9ek4TmM8wbv8HUsF) | 3:56 |
-| 40 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
-| 41 | [La Magia Está en Tu Piel](https://open.spotify.com/track/1lr3CWBoYPYOmgktzn0gWo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Modo Despegar](https://open.spotify.com/album/4nbt4s7V6jF5uIn8p5ZcPj) | 5:18 |
+| 40 | [La Magia Está en Tu Piel](https://open.spotify.com/track/1lr3CWBoYPYOmgktzn0gWo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Modo Despegar](https://open.spotify.com/album/4nbt4s7V6jF5uIn8p5ZcPj) | 5:18 |
+| 41 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
 | 42 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 |
 | 43 | [Ves](https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Érase](https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy) | 3:15 |
 | 44 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 47 | [La Pregunta](https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 4:58 |
 | 48 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 |
 | 49 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
-| 50 | [A 1200 Km](https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 3:49 |
-| 51 | [La Luna de Neuquén](https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Destilar](https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh) | 4:20 |
+| 50 | [La Luna de Neuquén](https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Destilar](https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh) | 4:20 |
+| 51 | [A 1200 Km](https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 3:49 |
 | 52 | [Y la Banda Sigue](https://open.spotify.com/track/1fHYfXMXkhrWd9dzIOharS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Y la Banda Sigue](https://open.spotify.com/album/2025IlqtTWDI90ejSXEulm) | 3:30 |
 | 53 | [Aves Migratorias](https://open.spotify.com/track/5Y7Lt08Xc885tzG5kKTZ4u) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [¿Dónde Vas?](https://open.spotify.com/album/05R00CcrMgbTSOh8HZYcnZ) | 3:22 |
 | 54 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 55 | [Puedo Sentirlo \(feat\. Julieta Venegas\)](https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lebón & Co.](https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2) | 3:27 |
 | 56 | [Alas Rotas](https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:33 |
 | 57 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
-| 58 | [Aunque No Quiero](https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 3:35 |
-| 59 | [Se te nota](https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [El Club De Los Martes](https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G) | 3:59 |
+| 58 | [Se te nota](https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [El Club De Los Martes](https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G) | 3:59 |
+| 59 | [Aunque No Quiero](https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 3:35 |
 | 60 | [Años Luz](https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Años Luz](https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO) | 3:13 |
 | 61 | [El Ritmo de la Vida](https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [A Punto Caramelo](https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn) | 3:42 |
 | 62 | [Bohemio](https://open.spotify.com/track/1EOm4quqIz2IhJNFsUP6Yj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Bohemio](https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm) | 3:14 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 64 | [Cosas para Decirte](https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 5:40 |
 | 65 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 |
 | 66 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
-| 67 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
-| 68 | [Tanto amor](https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ringo](https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg) | 2:47 |
+| 67 | [Tanto amor](https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ringo](https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg) | 2:47 |
+| 68 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 69 | [Apostar al Amor](https://open.spotify.com/track/6PyBNCpOX5uOjKDNjNNgjq) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Ale Sergi](https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ) | [Push](https://open.spotify.com/album/7sNuGriubnM5iunQGKt24O) | 4:20 |
 | 70 | [Agradezco](https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 4:54 |
 

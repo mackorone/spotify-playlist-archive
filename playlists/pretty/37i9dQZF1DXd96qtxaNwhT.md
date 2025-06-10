@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,651 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,658 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 38 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
 | 39 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
 | 40 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
-| 41 | [I Don't Know Why \(I Just Do\)](https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 3:44 |
-| 42 | [Pieces](https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Pieces](https://open.spotify.com/album/20udlOmp16aNccOj3iGupw) | 3:04 |
+| 41 | [Pieces](https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Pieces](https://open.spotify.com/album/20udlOmp16aNccOj3iGupw) | 3:04 |
+| 42 | [I Don't Know Why \(I Just Do\)](https://open.spotify.com/track/0WiIGxBzkA2SvE8clbz3X0) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Still Blooming](https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj) | 3:44 |
 | 43 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 |
-| 44 | [Ready For Love](https://open.spotify.com/track/22P3JuYQGYQxD5jagzc9dC) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Ready For Love](https://open.spotify.com/album/5mhZIc8Il70byoez6HeoDG) | 3:19 |
-| 45 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 |
+| 44 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 |
+| 45 | [Ready For Love](https://open.spotify.com/track/22P3JuYQGYQxD5jagzc9dC) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Ready For Love](https://open.spotify.com/album/5mhZIc8Il70byoez6HeoDG) | 3:19 |
 | 46 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
 | 47 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 48 | [Left In Your Love](https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt) | 3:03 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 58 | [SAFE](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SAFE](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 |
 | 59 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
 | 60 | [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 |
-| 61 | [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 |
-| 62 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
+| 61 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
+| 62 | [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 |
 | 63 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 |
 | 64 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 |
 | 65 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 70 | [Maria \(with Lola Amour\)](https://open.spotify.com/track/3fRiLrU5dPkZK56HmSKeo1) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG), [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Maria \(with Lola Amour\)](https://open.spotify.com/album/4HMeGZ8PYu5TBbRilS2AJJ) | 3:11 |
 | 71 | [Smoking Lessons](https://open.spotify.com/track/52zlr5j372qsgHhmvrni4w) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:59 |
 | 72 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
-| 73 | [Settle Down](https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Settle Down](https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc) | 3:18 |
-| 74 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
+| 73 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
+| 74 | [Settle Down](https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Settle Down](https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc) | 3:18 |
 | 75 | [Monster Brain](https://open.spotify.com/track/2Y2aBQoIfcmHdZUZjZPqxG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/4lGm0rVF9UELk6nTTIikmS) | 3:37 |
 
 Snapshot ID: `aC1P2QAAAAAFcXWdI6vg2xYHpghr3xiB`

@@ -4055,6 +4055,28 @@
     },
     {
       "album": {
+        "name": "Highest Floor",
+        "url": "https://open.spotify.com/album/68tPJYLQ5Hq35UbpZ4iHyu"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108163,
+      "name": "Highest Floor",
+      "url": "https://open.spotify.com/track/7AzbtCz4H1XXADZXh0dZGW"
+    },
+    {
+      "album": {
         "name": "Hike",
         "url": "https://open.spotify.com/album/2Wt43PSVHfKBZECoXMOrnd"
       },
@@ -10134,7 +10156,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 190476,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/3OGSUXjjmV3Nf9F8IgScfI"

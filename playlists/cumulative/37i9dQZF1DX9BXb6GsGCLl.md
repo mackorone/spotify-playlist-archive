@@ -4,7 +4,7 @@
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-306 songs - 15 hr 49 min
+307 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/1o9D0rUusi2V5idyOEOPII) | [Winati](https://open.spotify.com/artist/7hsdPMApV4JTkBUUL4ZWMk), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [Sweet Dreams \(are Made of This\)](https://open.spotify.com/album/6j3DvP1XrNbx0FtXBu5N4B) | 2:56 | 2021-08-20 | 2025-01-13 |
 | [Take Your Love](https://open.spotify.com/track/1Cxlad9pX88iFic9SjlqBt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Take Your Love](https://open.spotify.com/album/2dDHWQTArZvr2QkP2njn7d) | 3:33 | 2021-08-20 | 2022-07-28 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2025-03-18 |  |
-| [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 | 2025-03-18 |  |
+| [Tell Me](https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Tell Me](https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0) | 3:17 | 2025-03-18 | 2025-06-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-03-18 |  |
 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 | 2021-08-20 | 2025-03-19 |
 | [The Chancer \- Svidden Remix](https://open.spotify.com/track/69h0fvryrGvY6WPWuFIs3X) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Under the Surface](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) | 3:26 | 2021-08-20 | 2022-05-25 |
@@ -288,6 +288,7 @@
 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 | 2025-03-18 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-18 | 2025-03-19 |
 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 | 2021-08-20 | 2023-02-01 |
+| [Truth or Dare](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:10 | 2025-03-18 |  |
 | [Tweaker](https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Tweaker](https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq) | 3:09 | 2025-03-18 |  |
 | [Voices In My Head](https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Voices In My Head](https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2) | 2:42 | 2021-08-20 | 2022-05-05 |
 | [Wanted](https://open.spotify.com/track/1lGVyEkGHUz7Pg78QGaS4a) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Wanted](https://open.spotify.com/album/5sPC6RYCERdNCzHLRf9zHb) | 2:40 | 2021-08-20 | 2022-07-28 |

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125276,
+  "num_followers": 125275,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUKwOJ7CB7MTQO5sC14TmEkh0YJ1pq",
+  "snapshot_id": "AAAULEKo+9AOugH4c4HQGXb2x6D65Rr7",
   "tracks": [
+    {
+      "added_at": "2025-06-09 14:52:58",
+      "album": {
+        "name": "ACTIVATE",
+        "url": "https://open.spotify.com/album/2v6Ae2mZgaWFyMtfSNpXee"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 158581,
+      "name": "ACTIVATE",
+      "url": "https://open.spotify.com/track/1ROJBKCmBH1Quk9gN2qI0E"
+    },
     {
       "added_at": "2025-06-06 15:19:34",
       "album": {

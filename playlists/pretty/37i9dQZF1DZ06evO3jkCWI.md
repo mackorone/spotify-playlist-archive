@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,110 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,131 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 15 | [Mi Caballo Pobre](https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:42 |
 | 16 | [Rosalinda](https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:08 |
 | 17 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
-| 18 | [Lo Callaré](https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:07 |
-| 19 | [Bajo Mil Llaves](https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Bajo Mil Llaves](https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq) | 2:30 |
+| 18 | [Bajo Mil Llaves](https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Bajo Mil Llaves](https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq) | 2:30 |
+| 19 | [Lo Callaré](https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:07 |
 | 20 | [De Vida O Muerte](https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:01 |
 | 21 | [Nomas Por Orgullo](https://open.spotify.com/track/0wuk8DmghrkwUhtGSqIotu) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Nomas Por Orgullo](https://open.spotify.com/album/1NresorHcdX2z4irOcTn2g) | 3:07 |
 | 22 | [Qué Más Quieres de Mí](https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Sin Presumir](https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi) | 2:15 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 42 | [Degenerado](https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Héroe](https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C) | 2:39 |
 | 43 | [El Preso De Nuevo León](https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:04 |
 | 44 | [Mi Flor De Naranjo](https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 2:31 |
-| 45 | [La Tumba Será El Final](https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 2:35 |
+| 45 | [Te Sorprendí Llorando](https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:20 |
 | 46 | [Gracias Porque Volviste](https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:09 |
-| 47 | [Te Sorprendí Llorando](https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:20 |
+| 47 | [La Tumba Será El Final](https://open.spotify.com/track/4AcJrebC9ncscQPZlP9xED) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 2:35 |
 | 48 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
 | 49 | [Puedes Irte](https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Hasta El Final](https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9) | 2:50 |
 | 50 | [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 |
 
-Snapshot ID: `aEOBAAAAAAAGnImvDUw+s+NM0yg/8xMt`
+Snapshot ID: `aETSgAAAAADsfVO0ekSrVyDxDr1pawHd`

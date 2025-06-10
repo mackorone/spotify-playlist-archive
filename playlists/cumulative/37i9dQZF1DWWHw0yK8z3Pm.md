@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Sam Barber
 
-537 songs - 1 day 8 hr 41 min
+538 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 | 2022-09-23 | 2022-10-26 |
 | [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 | 2022-10-21 | 2022-11-18 |
 | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/album/3FP98bajALVr5zE3dSaaQF) | 3:38 | 2024-04-05 | 2024-05-11 |
+| [Coyote](https://open.spotify.com/track/4iTU8a7xlebcunaTSBLwEs) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Coyote](https://open.spotify.com/album/1BO7uyUvn0Lur0fkPDK1Mr) | 5:06 | 2025-06-06 |  |
 | [Coyote](https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k) | 4:16 | 2024-01-26 | 2024-02-24 |
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-15 |  |
 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-03-22 |  |
@@ -364,7 +365,7 @@
 | [Other Side of Goodbye](https://open.spotify.com/track/1hMyjL6US0O882EZJ6tRih) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w) | 2:34 | 2022-05-13 | 2022-07-29 |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-10-28 | 2022-11-14 |
 | [Other Side of Goodbye](https://open.spotify.com/track/3mMAm6PHzUdHDXgkCVdcnj) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [House to House](https://open.spotify.com/album/120E5ApM0a40DxBE42tK0r) | 2:34 | 2022-07-22 | 2023-01-28 |
-| [Our Time In The Sun](https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn) | 3:00 | 2024-09-13 |  |
+| [Our Time In The Sun](https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn) | 3:00 | 2024-09-13 | 2025-06-10 |
 | [Papa Took My Totems](https://open.spotify.com/track/1uAQFfcaXVy7OxOk4Q2Mr7) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:25 | 2023-02-03 | 2023-02-25 |
 | [Papa Took My Totems](https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Papa Took My Totems](https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr) | 2:25 | 2023-01-27 | 2023-02-21 |
 | [Paradise](https://open.spotify.com/track/7Mcpr4dcL5FIrLQkAl2ThC) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Paradise](https://open.spotify.com/album/5nLHY1doRZ0jVRcRcU8NOw) | 3:39 | 2023-06-30 | 2023-10-03 |

@@ -369,6 +369,32 @@
     },
     {
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138614,
+      "name": "Al-Jannah",
+      "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+    },
+    {
+      "album": {
         "name": "Alakori",
         "url": "https://open.spotify.com/album/7qUS6HJtJCgisaC4EvQ9Nt"
       },
@@ -6168,7 +6194,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 160557,
       "name": "show u luv",
       "url": "https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY"

@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2460846,
+  "num_followers": 2461053,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Down with the Sickness",
-      "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
-    },
-    {
-      "added_at": "2025-05-30 04:00:18",
-      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 184866,
       "name": "Papercut",
       "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2025-05-30 04:00:18",
+      "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Down with the Sickness",
+      "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
     },
     {
       "added_at": "2025-05-30 04:00:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2025-05-30 04:00:18",
-      "album": {
         "name": "Dysfunction",
         "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 282093,
       "name": "Mudshovel",
       "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
+    },
+    {
+      "added_at": "2025-05-30 04:00:18",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2025-05-30 04:00:18",
@@ -627,8 +627,8 @@
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
     },
     {
       "added_at": "2025-05-30 04:00:18",
@@ -715,8 +715,8 @@
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
       "added_at": "2025-05-30 04:00:18",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 307644,
-      "name": "Protect The Land",
-      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2025-05-30 04:00:18",
-      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146176,
       "name": "Self-Destruction",
       "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
+    },
+    {
+      "added_at": "2025-05-30 04:00:18",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 307644,
+      "name": "Protect The Land",
+      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
       "added_at": "2025-05-30 04:00:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 234931,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
-    },
-    {
-      "added_at": "2025-05-30 04:00:18",
-      "album": {
         "name": "La G\u00e1rgola",
         "url": "https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 258946,
       "name": "Take Out the Gunman",
       "url": "https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP"
+    },
+    {
+      "added_at": "2025-05-30 04:00:18",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "added_at": "2025-05-30 04:00:18",

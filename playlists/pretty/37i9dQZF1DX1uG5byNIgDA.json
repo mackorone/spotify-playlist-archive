@@ -1,6 +1,6 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 219653,
+  "num_followers": 219661,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-05-30 06:17:36",
       "album": {
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Wait On Me",
+      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
+    },
+    {
+      "added_at": "2025-05-30 06:17:36",
+      "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
       },
@@ -487,34 +503,18 @@
     {
       "added_at": "2025-05-30 06:17:36",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+        "name": "MY EYES OPEN VVIDE",
+        "url": "https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 193053,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
-    },
-    {
-      "added_at": "2025-05-30 06:17:36",
-      "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
+      "duration_ms": 195835,
+      "name": "DROP TOP",
+      "url": "https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB"
     },
     {
       "added_at": "2025-05-30 06:17:36",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-05-30 06:17:36",
       "album": {
-        "name": "MY EYES OPEN VVIDE",
-        "url": "https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8"
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 195835,
-      "name": "DROP TOP",
-      "url": "https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB"
+      "duration_ms": 205026,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
     },
     {
       "added_at": "2025-05-30 06:17:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-05-30 06:17:36",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 166612,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
-    },
-    {
-      "added_at": "2025-05-30 06:17:36",
-      "album": {
         "name": "TILT - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 184013,
       "name": "TILT",
       "url": "https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR"
+    },
+    {
+      "added_at": "2025-05-30 06:17:36",
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
     },
     {
       "added_at": "2025-05-30 06:17:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-05-30 06:17:36",
       "album": {
-        "name": "<ASSEMBLE24>",
-        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Girls Never Die",
-      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
-    },
-    {
-      "added_at": "2025-05-30 06:17:36",
-      "album": {
         "name": "ODYSSEY - The 1st Album",
         "url": "https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178175,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI"
+    },
+    {
+      "added_at": "2025-05-30 06:17:36",
+      "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
       "added_at": "2025-05-30 06:17:36",

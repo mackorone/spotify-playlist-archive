@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192698,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "album": {
         "name": "Loco De Amor",
         "url": "https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv"
       },
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 219866,
       "name": "El profesor",
       "url": "https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd"

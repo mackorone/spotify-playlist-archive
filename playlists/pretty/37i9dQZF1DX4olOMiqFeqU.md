@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,453,377 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,453,717 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 36 | [Same Ground](https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Kitchie Nadal](https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk) | 4:27 |
 | 37 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 |
 | 38 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
-| 39 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
-| 40 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
+| 39 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
+| 40 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 41 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 |
 | 42 | [Gusto](https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 4:20 |
 | 43 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 |

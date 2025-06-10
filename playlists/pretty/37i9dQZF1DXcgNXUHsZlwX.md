@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,346 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,365 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 58 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 |
 | 59 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 |
 | 60 | [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 |
-| 61 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
-| 62 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 |
+| 61 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 |
+| 62 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 | 63 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 |
 | 64 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 |
 | 65 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 |
@@ -100,10 +100,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 90 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 |
 | 91 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 |
 | 92 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
-| 93 | [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 |
-| 94 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
-| 95 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 |
-| 96 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 |
+| 93 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
+| 94 | [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 |
+| 95 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 |
+| 96 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 |
 | 97 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
 | 98 | [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 |
 | 99 | [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 |

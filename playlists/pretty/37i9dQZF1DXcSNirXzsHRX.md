@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSNirXzsHRX.md) - [plain]
 
 > Den bedste rock playliste i Danmark⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,956 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,958 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSNirXzsHRX.md) - [plain]
 | 36 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 37 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 38 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
-| 39 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
-| 40 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
-| 41 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
+| 39 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
+| 40 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
+| 41 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
 | 42 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 |
 | 43 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 |
 | 44 | [Come As You Are](https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:38 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSNirXzsHRX.md) - [plain]
 | 69 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
 | 70 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
 | 71 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
-| 72 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
-| 73 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
+| 72 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
+| 73 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
 | 74 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
 | 75 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 |
 | 76 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |

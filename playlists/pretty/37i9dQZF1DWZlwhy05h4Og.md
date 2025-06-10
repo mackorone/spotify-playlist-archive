@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: Kylie Cantrell
+> The sweetest bops\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,723 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,733 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [See U Tonight \(feat\. YUNAH & MINJU of ILLIT\)](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 |
-| 2 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 |
-| 3 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 1 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 2 | [See U Tonight \(feat\. YUNAH & MINJU of ILLIT\)](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 |
+| 3 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 |
 | 4 | [POISON IVY](https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [POISON IVY](https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx) | 2:46 |
 | 5 | [DROP TOP](https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:15 |
 | 6 | [Pinky Swear?](https://open.spotify.com/track/4Yvu5lwTuoxmesv3oizLRa) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [Pinky Swear?](https://open.spotify.com/album/5U36itC7v2erjq9Gwh97PB) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 74 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
 | 75 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 
-Snapshot ID: `aCa4YQAAAAD06Lfc8/H3lOvv3CXwsu8M`
+Snapshot ID: `aEb0ogAAAADYd4EtuyxC8+T/JvIFVDDQ`

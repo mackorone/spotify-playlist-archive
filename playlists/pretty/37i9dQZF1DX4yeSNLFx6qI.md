@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752,825 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752,651 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 36 | [tus manias](https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tus manias](https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T) | 3:19 |
 | 37 | [sorry por esta canción \(Londres\)](https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [sorry por esta canción \(Londres\)](https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB) | 3:34 |
 | 38 | [Viernes 13 V](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
-| 39 | [CÓMO ESTÁS?](https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [CÓMO ESTÁS?](https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I) | 2:27 |
-| 40 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |
+| 39 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |
+| 40 | [CÓMO ESTÁS?](https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [CÓMO ESTÁS?](https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I) | 2:27 |
 | 41 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 42 | [Turbulencia](https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 3:49 |
 | 43 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 45 | [SOMOS PERFECTOS](https://open.spotify.com/track/53GVXnMu9VnMP097L1lSzC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 3:59 |
 | 46 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
 | 47 | [pasatiempo](https://open.spotify.com/track/1IwMWBD9BBE4QUReJZlXo7) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 2:57 |
-| 48 | [Ni una sola palabra](https://open.spotify.com/track/20smfvl8TDlA3AIlLeK5Hz) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Ni una sola palabra](https://open.spotify.com/album/7JQY6EtLD5Dm1DcsFBQ4II) | 4:23 |
+| 48 | [Todo de mí](https://open.spotify.com/track/2b7VXGHbb1jOHD5GmnxTGf) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Todo de mí](https://open.spotify.com/album/2JPlMayuOd6kvCYkGKjw1T) | 2:53 |
 | 49 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
-| 50 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
+| 50 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 
 Snapshot ID: `aDktXgAAAAA1T4zyUMOWW7jASULL89Bm`

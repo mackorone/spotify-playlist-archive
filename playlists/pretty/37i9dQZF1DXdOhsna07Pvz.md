@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,647 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,673 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Belle De Jour](https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Sete Desejos](https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD) | 4:28 |
+| 1 | [Anunciação](https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 4:48 |
 | 2 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
 | 3 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 4 | [Sangue latino](https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [A volta de Secos & Molhados](https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi) | 2:08 |
 | 5 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
-| 6 | [Anunciação](https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 4:48 |
+| 6 | [La Belle De Jour](https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Sete Desejos](https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD) | 4:28 |
 | 7 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 8 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
 | 9 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 24 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 25 | [Deixa A Gira Girar](https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 3:11 |
 | 26 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
-| 27 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
-| 28 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
+| 27 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
+| 28 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
 | 29 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
 | 30 | [Canto Das Três Raças](https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Canto Das Três Raças](https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx) | 4:24 |
 | 31 | [Esperar Pra Ver](https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:00 |

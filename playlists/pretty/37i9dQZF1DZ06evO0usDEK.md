@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,589 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,588 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 20 | [Mr\. Magic](https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 3:58 |
 | 21 | [Tryin' Times](https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:08 |
 | 22 | [No Tears \- In the End](https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:56 |
-| 23 | [You Make Me Feel Brand New](https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Set the Night to Music](https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez) | 5:01 |
+| 23 | [Set the Night to Music \(with Maxi Priest\) \- 2006 Remaster](https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 5:19 |
 | 24 | [Some Gospel According to Matthew](https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:36 |
-| 25 | [Set the Night to Music \(with Maxi Priest\) \- 2006 Remaster](https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 5:19 |
+| 25 | [You Make Me Feel Brand New](https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Set the Night to Music](https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez) | 5:01 |
 | 26 | [Jesse](https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:03 |
 | 27 | ['Till the Morning Comes](https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 |
 | 28 | [You're Lookin' Like Love To Me](https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 41 | [Until It's Time for You to Go](https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 |
 | 42 | [You've Got a Friend](https://open.spotify.com/track/3zlLG1ZplOevRjsoUxChrs) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:23 |
 | 43 | [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 |
-| 44 | [It Might Be You](https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta](https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1) | 10:02 |
-| 45 | [I Just Came Here To Dance](https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 |
-| 46 | [River](https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 5:03 |
+| 44 | [River](https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 5:03 |
+| 45 | [It Might Be You](https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta](https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1) | 10:02 |
+| 46 | [I Just Came Here To Dance](https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 |
 | 47 | [I Told Jesus](https://open.spotify.com/track/7bmtqJ0psGM3x27hkyAC8E) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:09 |
 | 48 | [IF I'M STILL AROUND TOMORROW \(feat\. ROBERTA FLACK\)](https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [RENDEZVOUS \(2017 Remaster\)](https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M) | 4:26 |
 | 49 | [I'm the One](https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 4:05 |
-| 50 | [I'm the Girl](https://open.spotify.com/track/09qgbK845V0zWKwXmhviR5) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:55 |
+| 50 | [Conversation Love](https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 3:42 |
 
-Snapshot ID: `aEOBAAAAAABgRNIg7a02z7ZI9pU6gRji`
+Snapshot ID: `aETSgAAAAACujjoRPRfPh65YHviS++im`

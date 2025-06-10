@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,789 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,858 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 56 | [I Chose Wrong](https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [I Chose Wrong](https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE) | 2:52 |
 | 57 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 58 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
-| 59 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
-| 60 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
+| 59 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
+| 60 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
 | 61 | [SAILORSATURDAYS](https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC) | [Kokonoku](https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy) | [SAILORSATURDAYS](https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM) | 4:00 |
 | 62 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 |
-| 63 | [Love & Affection](https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Sidechain My Heart](https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7) | 3:05 |
-| 64 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
+| 63 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
+| 64 | [Love & Affection](https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Sidechain My Heart](https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7) | 3:05 |
 | 65 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
 | 66 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
 | 67 | [Brighter Days](https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Brighter Days](https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex) | 2:04 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 90 | [Get Up, Get Out](https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Get Up, Get Out](https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI) | 3:22 |
 | 91 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 |
 | 92 | [Disco Soul \- Mr\. Hoosteen's "Disco's Revenge" Mix](https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo) | [Discoholic](https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW), [Mr\. Hoosteen](https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH) | [Disco Soul](https://open.spotify.com/album/52D8ESbEYlQw75nStkEone) | 7:36 |
-| 93 | [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 |
-| 94 | [DRENCH3D](https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [DRENCH3D](https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8) | 2:21 |
+| 93 | [DRENCH3D](https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [DRENCH3D](https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8) | 2:21 |
+| 94 | [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 |
 | 95 | [Enigma](https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Enigma](https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ) | 3:17 |
 | 96 | [TIMERIDER 1983](https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 3:08 |
-| 97 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
-| 98 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
+| 97 | [Future Funk 2022](https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Future Funk 2022](https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL) | 3:05 |
+| 98 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
 | 99 | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Wa Ha Ha \(Iden Kai Remix\)](https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38) | 2:28 |
-| 100 | [Summer Splash](https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Summer Splash](https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6) | 3:47 |
+| 100 | [Lynx](https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Lynx](https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3) | 4:05 |
 
 Snapshot ID: `ZLX3KQAAAADZGE2U8e0jnVMh2goZjgj6`

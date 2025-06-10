@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,894 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,979 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 17 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 18 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 | 19 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
-| 20 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
-| 21 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
+| 20 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
+| 21 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 22 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 23 | [Rebel Yell](https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:48 |
 | 24 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 30 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 31 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 32 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
-| 33 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
-| 34 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
+| 33 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
+| 34 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 35 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 36 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 37 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 91 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
 | 92 | [Que Pais É Este](https://open.spotify.com/track/1bqRtNOcT1QiV1j87IoATA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 2:58 |
 | 93 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
-| 94 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
-| 95 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
+| 94 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
+| 95 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 96 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
 | 97 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
 | 98 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78432,
+  "num_followers": 78428,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+        "name": "Yes He Lives",
+        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
       "artists": [
         {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+      "duration_ms": 285773,
+      "name": "Yes He Lives - Live",
+      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1091,6 +1095,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Yes He Lives",
-        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Yes He Lives - Live",
-      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Sing! The Great Commission - World Tour (Live)",
         "url": "https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Breakthrough Miracle Power / You Are The Lord",
-        "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 352520,
-      "name": "Breakthrough Miracle Power",
-      "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1275,18 +1271,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+        "name": "Breakthrough Miracle Power / You Are The Lord",
+        "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+      "duration_ms": 352520,
+      "name": "Breakthrough Miracle Power",
+      "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 310093,
       "name": "You Are The Lord",
       "url": "https://open.spotify.com/track/5XYBrwScp68y8LGo08Na8x"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI"
+      },
+      "artists": [
+        {
+          "name": "Radiate Worship",
+          "url": "https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju"
+        }
+      ],
+      "duration_ms": 283012,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Passion: Salvation\u2019s Tide Is Rising",
         "url": "https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 268466,
       "name": "My Victory",
       "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI"
-      },
-      "artists": [
-        {
-          "name": "Radiate Worship",
-          "url": "https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju"
-        }
-      ],
-      "duration_ms": 283012,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k"
     },
     {
       "added_at": "2025-04-11 04:00:15",

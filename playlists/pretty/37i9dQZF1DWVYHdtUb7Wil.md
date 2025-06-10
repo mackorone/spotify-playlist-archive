@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,057 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,034 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 62 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 63 | [Landline](https://open.spotify.com/track/4aVZkf4eQG2p38Xhkq5W2z) | [Cam Robertson](https://open.spotify.com/artist/52gYuftxzhODyZnKVxgPkW), [CYRUS](https://open.spotify.com/artist/5oTzMfVfpttdMijq3c94Wp) | [Landline](https://open.spotify.com/album/5CDurddJg1oFcJ3aw33b9B) | 3:34 |
 | 64 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 |
-| 65 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
+| 65 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
 | 66 | [Follow Me in the Ocean](https://open.spotify.com/track/1mqIXvshRM1IGh6tlzzjDm) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Follow Me in the Ocean](https://open.spotify.com/album/39H2sodDFMJN3EesXYzIgv) | 3:18 |
 | 67 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 68 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |

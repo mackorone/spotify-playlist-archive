@@ -4,7 +4,7 @@
 
 > The hottest tracks in India\. <br/><br/>Cover: Ed Sheeran
 
-99 songs - 5 hr 19 min
+100 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 |  |
 | [Seoul City](https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:44 | 2025-05-16 |  |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2024-05-17 | 2024-08-23 |
-| [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 | 2025-06-05 |  |
+| [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 | 2025-06-05 | 2025-06-10 |
+| [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-06-09 |  |
 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 | 2024-08-22 | 2025-01-15 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-05-17 | 2025-02-08 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2025-01-09 |  |

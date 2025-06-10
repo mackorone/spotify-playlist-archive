@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,121 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,128 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
 | 50 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 
-Snapshot ID: `aEOBAAAAAAAcT0c7c7Jk4dcchfwWP6/U`
+Snapshot ID: `aETSgAAAAACjvCOVC/oD/dQPmVNjpsui`

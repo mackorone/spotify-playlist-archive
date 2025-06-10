@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,164 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,328 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 2 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
-| 3 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
+| 3 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
 | 4 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 5 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 | 6 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
 | 7 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
-| 8 | [Scar Tissue](https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:35 |
+| 8 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 9 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 10 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 11 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |

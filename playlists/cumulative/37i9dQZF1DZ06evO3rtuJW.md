@@ -4,11 +4,12 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-173 songs - 8 hr 36 min
+174 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Scale \(feat\. G Herbo\)](https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:56 | 2022-10-28 |  |
+| [10 to 10 \(feat\. G Herbo\)](https://open.spotify.com/track/0t7LecJMF6Orgs5qg4Dur3) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Cry For Help](https://open.spotify.com/album/0ecyqAyhmOZFnKLPeGCzhQ) | 2:43 | 2025-06-10 |  |
 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 | 2022-10-28 | 2025-04-12 |
 | [2 for 6](https://open.spotify.com/track/0SAtnx2juacTBniqrwvYRU) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The Kid That Did](https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx) | 1:51 | 2024-09-16 | 2024-11-26 |
 | [21 Questions](https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Pedro Activated](https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W) | 3:24 | 2023-06-29 | 2023-11-11 |
@@ -26,7 +27,7 @@
 | [BESITO \(feat\. G Herbo\)](https://open.spotify.com/track/1JTJws1FmfNRrF90bns0TT) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:11 | 2022-10-28 | 2024-08-07 |
 | [Best Rapper Alive](https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:34 | 2025-04-11 |  |
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-10-28 | 2023-01-27 |
-| [Body Count \(feat\. King Von & G Herbo\)](https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 4:03 | 2022-10-28 |  |
+| [Body Count \(feat\. King Von & G Herbo\)](https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 4:03 | 2022-10-28 | 2025-06-10 |
 | [Built Like a Soldier \(feat\. G Herbo\)](https://open.spotify.com/track/09gIbtpXKZDU7G0WbFly25) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Farewell](https://open.spotify.com/album/2aU1tqCW4s0NM6xYSpm9Jx) | 2:43 | 2024-12-10 | 2025-05-23 |
 | [Can't Quit \(feat\. G Herbo\)](https://open.spotify.com/track/3e6iKL9KlM3FOW5IQWzHX6) | [Loopy Ferrell](https://open.spotify.com/artist/08igzqNklOkX5U1jfdwcvK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [In the Loop We Trust, Vol\. 1](https://open.spotify.com/album/6YEsiUXs2zlA9w8Wka3N0Y) | 2:40 | 2023-12-13 | 2024-02-22 |
 | [Candyman](https://open.spotify.com/track/5H3xJrAEaqXlcwwMGg0rqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:50 | 2024-09-10 | 2024-12-11 |

@@ -4,7 +4,7 @@
 
 > 🤝
 
-151 songs - 7 hr 8 min
+152 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Sees Igjen](https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Sees Igjen](https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s) | 2:43 | 2024-10-03 |  |
 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 | 2024-06-27 | 2025-01-07 |
 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 | 2025-02-27 |  |
-| [SLEM](https://open.spotify.com/track/2ojAeXk7TaAQiwvGN4AkB6) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [SLEM](https://open.spotify.com/album/7LUYH3vzhKwRCn029BIQb2) | 1:46 | 2025-05-15 |  |
+| [SLEM](https://open.spotify.com/track/2ojAeXk7TaAQiwvGN4AkB6) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [SLEM](https://open.spotify.com/album/7LUYH3vzhKwRCn029BIQb2) | 1:46 | 2025-05-15 | 2025-06-10 |
 | [Sommerkveld](https://open.spotify.com/track/1OFK0wpcRZRwzUWcavILuP) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Sommerkveld](https://open.spotify.com/album/4oPECM7pXcS0mxDTs2E70w) | 2:12 | 2024-06-27 | 2024-08-01 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 |  |
 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 | 2024-09-26 | 2024-11-08 |
@@ -140,6 +140,7 @@
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-27 | 2024-08-16 |
 | [Tilbake](https://open.spotify.com/track/5VzJAbt14nJ70wijAEmujX) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Tilbake](https://open.spotify.com/album/26LpufP90MSrePNkn7q46Y) | 2:07 | 2025-01-16 | 2025-05-12 |
 | [Tinnitus](https://open.spotify.com/track/1Vg8nVA7saUhI7DhJ2OuRQ) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Tinnitus](https://open.spotify.com/album/0rqpGmci0z8C9AGQQzwYB2) | 1:46 | 2025-05-15 |  |
+| [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2025-05-29 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-27 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2024-06-27 | 2025-05-02 |
 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 | 2024-10-17 |  |

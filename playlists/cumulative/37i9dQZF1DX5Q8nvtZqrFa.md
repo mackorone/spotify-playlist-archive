@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-233 songs - 14 hr 1 min
+234 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Mellow](https://open.spotify.com/track/5ll15QsCP6wVjDipn8FlLo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:00 | 2023-11-23 | 2024-01-17 |
 | [Moonian](https://open.spotify.com/track/4vJYvvpQKltU57dOZAnEwm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Blood in the Void](https://open.spotify.com/album/1SA0qxLIkSK0vFfWCFvUmy) | 3:49 | 2025-03-11 |  |
 | [Mouichido](https://open.spotify.com/track/40gt89icqkSFqWWfMlqagb) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Mouichido](https://open.spotify.com/album/3ajk6gGVQzrsD9CjRzs68q) | 4:10 | 2023-11-23 | 2024-04-19 |
-| [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 | 2024-12-03 |  |
+| [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 | 2024-12-03 | 2025-06-10 |
 | [My Life](https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I'll Be Cute When You See Me](https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg) | 3:21 | 2024-01-28 | 2024-03-20 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-11-23 | 2024-01-17 |
 | [No.5](https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [No.5](https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H) | 3:05 | 2024-11-05 | 2025-03-26 |
@@ -187,6 +187,7 @@
 | [命の容量](https://open.spotify.com/track/0Pd5HvGFrJUPOQRt2988JZ) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [Ⅶ](https://open.spotify.com/album/6Q716A6pSJDGlIn9MGgKXV) | 4:05 | 2024-02-06 | 2024-06-19 |
 | [命綱](https://open.spotify.com/track/15HRektCNAGiAVBrQ2bjCb) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [命綱](https://open.spotify.com/album/6Zn9rSkfR2ehZKbA5k14kG) | 3:21 | 2024-02-20 | 2024-06-19 |
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-04-30 | 2024-11-06 |
+| [声命 \- Seimei](https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [声命 \- Seimei](https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA) | 2:57 | 2025-05-27 |  |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2024-10-08 | 2024-11-20 |
 | [大人になんてなりたくない](https://open.spotify.com/track/0xHpdLczstT3UOhLa55wq9) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [大人になんてなりたくない](https://open.spotify.com/album/49gaiZ330hLAEQUAosnirV) | 2:19 | 2025-02-25 | 2025-03-12 |
 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 | 2024-03-07 | 2024-12-05 |

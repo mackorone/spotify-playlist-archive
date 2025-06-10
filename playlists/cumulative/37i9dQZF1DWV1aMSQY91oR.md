@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Little Simz
 
-3,737 songs - 7 day 10 hr 45 min
+3,738 songs - 7 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2131,7 +2131,7 @@
 | [My Point](https://open.spotify.com/track/5nqPZV2HKM2cd90tnBLrlx) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [My Point](https://open.spotify.com/album/0wXcpusnvYItiC3G1FygA2) | 2:46 | 2023-04-14 | 2023-04-22 |
 | [My Prime](https://open.spotify.com/track/37fGKxktN2ZOEDWJ7RLABh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:10 | 2023-08-25 | 2023-09-02 |
 | [My Typa Vibe](https://open.spotify.com/track/1f3sGscmLFOk3piGfBEzLe) | [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [My Typa Vibe](https://open.spotify.com/album/3cIECVMkzCgPBSuZPoKMbN) | 2:30 | 2024-02-09 | 2024-02-17 |
-| [My Wave](https://open.spotify.com/track/27ZlIy5aufgWry4Il816OJ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [My Wave](https://open.spotify.com/album/3vIMdNtBTsdpLPrtr9CmdO) | 2:21 | 2025-05-30 |  |
+| [My Wave](https://open.spotify.com/track/27ZlIy5aufgWry4Il816OJ) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [My Wave](https://open.spotify.com/album/3vIMdNtBTsdpLPrtr9CmdO) | 2:21 | 2025-05-30 | 2025-06-10 |
 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 | 2023-05-26 | 2023-06-03 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-12 | 2024-02-24 |
 | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/track/5GYKltEbk7h1DDM8aGloPu) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [N.P.O\. \(feat\. Sexyy Red\)](https://open.spotify.com/album/3xbnEyhuILNfvxirhwj3LA) | 2:58 | 2024-06-28 | 2024-07-06 |
@@ -3437,6 +3437,7 @@
 | [Twin Glocks](https://open.spotify.com/track/5g7h3MSmdI0DTWPK5XlcJF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [Snakes & Ladders](https://open.spotify.com/album/5iNhXyacAhdnfG70VJpyRi) | 1:40 | 2025-05-16 | 2025-05-24 |
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-03-01 | 2024-04-06 |
 | [Tyla](https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Tyla](https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt) | 2:14 | 2024-10-25 | 2024-11-09 |
+| [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 | 2025-06-09 |  |
 | [TYPE BEAT](https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [PRINCESS POP THAT](https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a) | 1:50 | 2024-04-26 | 2024-05-04 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 | 2024-04-19 |
 | [U Dnt Even Knw](https://open.spotify.com/track/02dCVJ7hu7E1kJiORFkhTn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix) | [U Dnt Even Knw](https://open.spotify.com/album/3tgsNV9N5urgheGUWQbS6U) | 3:38 | 2024-05-31 | 2024-06-08 |

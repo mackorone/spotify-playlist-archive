@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,542 likes - 88 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,551 likes - 88 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 87 | [WWE: Soul March \(Santos Escobar\)](https://open.spotify.com/track/1vNStl1A5EYQdbgnTpfhBX) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Soul March \(Santos Escobar\)](https://open.spotify.com/album/19BG1o1qSLkBtzUnHG3HDT) | 2:32 |
 | 88 | [WWE: I Won't Do What You Tell Me \(Stone Cold Steve Austin\) \[Original Theme\]](https://open.spotify.com/track/4vHR7NYZh2wbQ6jLlC0wdH) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: Stone Cold Steve Austin \(The Entrance Music\)](https://open.spotify.com/album/6G3gBUvVjaWTJXjYBln3K0) | 3:03 |
 
-Snapshot ID: `Z/0h1QAAAADgSKykrmdcP9ZjOnVinvjz`
+Snapshot ID: `Z/0h1QAAAAB8Pwi9giYzHuG/6hYOtoo0`

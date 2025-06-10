@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,217 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,196 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 | 50 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 
-Snapshot ID: `aDV6lAAAAADu+teSz7vAkdCg7tDI4Qfn`
+Snapshot ID: `aEaxugAAAAB4byuvwn1utdZv5mKpV0ik`

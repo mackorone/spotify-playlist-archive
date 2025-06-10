@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 188127,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
@@ -10953,6 +10953,28 @@
     },
     {
       "album": {
+        "name": "No Turning Back II",
+        "url": "https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299468,
+      "name": "No Turning Back II",
+      "url": "https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -11630,7 +11652,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -16662,6 +16684,24 @@
       "duration_ms": 211613,
       "name": "Wote",
       "url": "https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG"
+    },
+    {
+      "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "album": {

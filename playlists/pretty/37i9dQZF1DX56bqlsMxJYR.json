@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1309417,
+  "num_followers": 1309793,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Runaround Sue",
-        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Runaround Sue",
-      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Birds, The Bees, & The Monkees",
         "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 179613,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Runaround Sue",
+        "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Runaround Sue",
+      "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Up-Tight",
-        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 174400,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1751,6 +1735,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Up-Tight",
+        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Herman's Hermits Retrospective",
         "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Green Onions / Behave Yourself",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "I Will Follow Him",
         "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 148160,
       "name": "I Will Follow Him",
       "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sings Top Ten",
-        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 139506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Seekers",
         "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 140440,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
+      },
+      "artists": [
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "We Gotta Get Out Of This Place - UK Single Version",
-      "url": "https://open.spotify.com/track/5geF5xzPGHxpmk9BDBHphZ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best Of Sonny & Cher",
         "url": "https://open.spotify.com/album/1Fq9UXS6HpZ1734bDrZBtP"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 190080,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/6tMjtHEBwMkxslhOe9SHE8"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "We Gotta Get Out Of This Place - UK Single Version",
+      "url": "https://open.spotify.com/track/5geF5xzPGHxpmk9BDBHphZ"
     },
     {
       "added_at": "2024-07-12 06:11:58",

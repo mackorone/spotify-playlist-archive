@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,788 likes - 78 songs - 3 hr 19 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,790 likes - 78 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 24 | [Can't Fail \- Original Mix](https://open.spotify.com/track/6V7dKyxkFAMsPskSoLxswl) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [We Are The Future / Can't Fail](https://open.spotify.com/album/5Ie016rV2foyvlspJBSSrK) | 6:18 |
 | 25 | [Femboy Thighs](https://open.spotify.com/track/3GdAE41AknH000tjAg3h6Y) | [Lost in the Slosh](https://open.spotify.com/artist/7HIrrHpCUr8r6Q3et682hG) | [Femboy Thighs](https://open.spotify.com/album/5l5YWzTpQLBHVjOvQwE6v2) | 2:35 |
 | 26 | [Your Cum Won't Last](https://open.spotify.com/track/4LHNsxVAQIFhICivNE9bOC) | [TabbyGarf](https://open.spotify.com/artist/2xm78YzOaTYiABpd8mLrkM) | [Apocalypse 1.2](https://open.spotify.com/album/61hzq6ebaUMZuQb4zm0iY7) | 1:40 |
-| 27 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 |
+| 27 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 |
 | 28 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 |
 | 29 | [where my balls at?](https://open.spotify.com/track/4yETQkdPKF1GyuxaLDT9Gt) | [SKULL BASH!](https://open.spotify.com/artist/0uXJO1Yg2Mpa4sSsLWug7B), [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [CrabMaster69](https://open.spotify.com/artist/4pa3LYBh3pAFjyVe4Lz0YF), [pink\-o](https://open.spotify.com/artist/2A3w0TXOoSXkrN6WE5zdhm), [DEMGOZÉ](https://open.spotify.com/artist/7fHmilC3fxa1zHn9KpNUBm) | [neurotypical](https://open.spotify.com/album/7G9udxNfTrY3lb3pZgboSm) | 2:08 |
 | 30 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 |

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-298 songs - 19 hr 5 min
+301 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All I Want \- Chill Out Dub Mix](https://open.spotify.com/track/2oWwuiCJlLTmojJe5cvYIq) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Zashanell](https://open.spotify.com/artist/7HMbLjUSmZVAxkfe6B6M83) | [All I Want \(My Friend Remix\)](https://open.spotify.com/album/3fBbvMXlpPnyC7iVI0OWbK) | 4:58 | 2025-01-13 | 2025-01-18 |
 | [All My Life](https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:12 | 2025-01-13 |  |
 | [Altitudes](https://open.spotify.com/track/3vUqBuU7k1Ev75Rpb80daj) | [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Through The Mirror Glass](https://open.spotify.com/album/46rNTPpQNcoElCWGS4uZuY) | 3:50 | 2024-06-03 | 2025-01-18 |
+| [Always](https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Always](https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei) | 3:36 | 2025-06-09 |  |
 | [Amalia Play \(feat\. Amalia\)](https://open.spotify.com/track/4N5J8lR2f0ts6lKJiAWQmk) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:15 | 2024-04-15 | 2024-04-20 |
 | [Amber Clouds](https://open.spotify.com/track/0QayVAIaizSP9Wt3t55ce3) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 3:40 | 2024-11-01 | 2025-01-14 |
 | [Ambient Resonances](https://open.spotify.com/track/4aEXOceIIBTWEMhXQ4ivXz) | [The Floating Whale](https://open.spotify.com/artist/7egG6Bs3yvF8st1lQ1Aa0h), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Ambient Resonances](https://open.spotify.com/album/0qnDn96QQ9t6c6Q1jifsEr) | 1:45 | 2024-04-26 | 2024-05-24 |
@@ -93,6 +94,7 @@
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-14 |  |
 | [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 |  |
 | [Faber Sanctum](https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 4:49 | 2024-10-04 | 2025-01-14 |
+| [Faber Sanctum \- Hollie Kenniff Remix](https://open.spotify.com/track/1EGVMPMBKFXHuCGgYPu3fm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Joy Paradox \(The Remixes: Part 1\)](https://open.spotify.com/album/1nC3QvjO9DOUJHHwMl1vR2) | 3:54 | 2025-06-09 |  |
 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 | 2024-04-12 | 2025-01-15 |
 | [Fading Anxieties \- Live](https://open.spotify.com/track/1wi3a3iGp9MWMDbDYN3Wtx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox \(Live From The Old Church, London\)](https://open.spotify.com/album/0z2zcHxM919kVAgQKFrdqX) | 4:53 | 2025-02-14 |  |
 | [Falling](https://open.spotify.com/track/6wFLsyOl73n5elnJ9iYsXg) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Falling](https://open.spotify.com/album/43COS5Xp6jfJpW3S6Slq8C) | 3:49 | 2024-11-15 | 2024-11-23 |
@@ -228,6 +230,7 @@
 | [Reflected](https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Music For Home Vol\. 1: Our Season](https://open.spotify.com/album/3k2iR3YPoOw1xIFHoLSpvX) | 4:53 | 2023-12-08 | 2024-01-27 |
 | [Remember Me](https://open.spotify.com/track/0bvg3pqElCGWGWwlvshxUy) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Bloom EP](https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq) | 3:10 | 2025-01-13 | 2025-05-31 |
 | [Remember Me](https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Remember Me](https://open.spotify.com/album/4KJhQTZgKYxewsxHoKy6Mj) | 3:10 | 2024-07-12 | 2025-01-14 |
+| [Repeating](https://open.spotify.com/track/7dnWgF0U7HEgAotCsXWBkf) | [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Reminiscence](https://open.spotify.com/album/2y5OqWpzJZbTCxUOglgA4r) | 3:30 | 2025-06-09 |  |
 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 | 2025-02-28 |  |
 | [Rolling Stone](https://open.spotify.com/track/7t5a28dyiW0JajSQ3CFuzg) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 4:29 | 2025-01-31 |  |
 | [Rooftop \- Instrumental](https://open.spotify.com/track/7AUCLFKVNikMr1fftJp0kv) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl) | 3:45 | 2024-12-13 | 2025-01-14 |
@@ -284,7 +287,7 @@
 | [till flowers fall from the cosmic tree](https://open.spotify.com/track/2i6nhZcuPByazbW0K9cSIU) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [till flowers fall from the cosmic tree](https://open.spotify.com/album/2qqVBnG8l01d8oGIV85bOp) | 3:07 | 2024-09-20 | 2025-01-14 |
 | [Time Heals](https://open.spotify.com/track/5x5XRcyeeJvP1HdGlpKL6q) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Morning In Deira / Time Heals](https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM) | 4:57 | 2025-01-13 | 2025-02-15 |
 | [To Where Dreams Are](https://open.spotify.com/track/3u5CANxJ6iPjZIVZz9Wcmu) | [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:06 | 2023-12-08 | 2025-01-25 |
-| [Trampoline Counting Stars](https://open.spotify.com/track/6Rysw3fhiyos3SgaqDmaa8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 2:22 | 2025-01-13 |  |
+| [Trampoline Counting Stars](https://open.spotify.com/track/6Rysw3fhiyos3SgaqDmaa8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 2:22 | 2025-01-13 | 2025-06-10 |
 | [Uhh..](https://open.spotify.com/track/2FLuMpOB0B2wLl5NTGrNA1) | [Tropicalpurples](https://open.spotify.com/artist/5P14dIQyeZyLCJpi5uhVRd) | [Uhh.\. EP](https://open.spotify.com/album/1qEaa6JOjp0TG9r20FBv8q) | 3:59 | 2025-02-28 |  |
 | [Under The Stars \- Malibu Remix](https://open.spotify.com/track/7bc3ddhluk5GQBpcVxdjva) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [In Another Lifetime \(Remixed\)](https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf) | 3:39 | 2025-01-13 | 2025-02-15 |
 | [Unhurried](https://open.spotify.com/track/3Pa8ClWKXLUouXJKU4eug7) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 5:18 | 2024-11-01 | 2025-05-31 |

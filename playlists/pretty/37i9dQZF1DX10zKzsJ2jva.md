@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,608,286 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,608,118 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 |
-| 2 | [TU SANCHO](https://open.spotify.com/track/1PPnOTtaxRaY3LWao2HPRU) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 2:57 |
-| 3 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
-| 4 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
-| 5 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
+| 1 | [TU SANCHO](https://open.spotify.com/track/1PPnOTtaxRaY3LWao2HPRU) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 2:57 |
+| 2 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
+| 3 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
+| 4 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
+| 5 | [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 |
 | 6 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 7 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 8 | [Marlboro Rojo](https://open.spotify.com/track/1QGTF0TnV5VprnHCaxc5MN) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [Milagro](https://open.spotify.com/track/5uAwmFcI1aSSYp3AI8k6U1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 2:48 |
 | 50 | [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 |
 
-Snapshot ID: `aEJn2wAAAADpz+yNJv7p8xFwQNp/XhkA`
+Snapshot ID: `aEcHdwAAAAB9sLYG0x+jWvhqKShBeDFs`

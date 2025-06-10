@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1752825,
+  "num_followers": 1752651,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
-        "name": "C\u00d3MO EST\u00c1S?",
-        "url": "https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 147559,
-      "name": "C\u00d3MO EST\u00c1S?",
-      "url": "https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr"
-    },
-    {
-      "added_at": "2025-05-30 04:00:30",
-      "album": {
         "name": "mi momento",
         "url": "https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 130212,
       "name": "mi momento",
       "url": "https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o"
+    },
+    {
+      "added_at": "2025-05-30 04:00:30",
+      "album": {
+        "name": "C\u00d3MO EST\u00c1S?",
+        "url": "https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 147559,
+      "name": "C\u00d3MO EST\u00c1S?",
+      "url": "https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr"
     },
     {
       "added_at": "2025-05-30 04:00:30",
@@ -787,18 +787,22 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
-        "name": "Ni una sola palabra",
-        "url": "https://open.spotify.com/album/7JQY6EtLD5Dm1DcsFBQ4II"
+        "name": "Todo de m\u00ed",
+        "url": "https://open.spotify.com/album/2JPlMayuOd6kvCYkGKjw1T"
       },
       "artists": [
         {
           "name": "GOMZ",
           "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
         }
       ],
-      "duration_ms": 263653,
-      "name": "Ni una sola palabra",
-      "url": "https://open.spotify.com/track/20smfvl8TDlA3AIlLeK5Hz"
+      "duration_ms": 173252,
+      "name": "Todo de m\u00ed",
+      "url": "https://open.spotify.com/track/2b7VXGHbb1jOHD5GmnxTGf"
     },
     {
       "added_at": "2025-05-30 04:00:30",
@@ -819,18 +823,18 @@
     {
       "added_at": "2025-05-30 04:00:30",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX"
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
       "artists": [
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 219526,
-      "name": "REM",
-      "url": "https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h"
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
     }
   ],
   "unique_name": "sad latino",

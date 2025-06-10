@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 467546,
+  "num_followers": 467572,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-05-23 10:15:26",
       "album": {
-        "name": "NOW IT'S GONE (BL3SS REMIX)",
-        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "NOW IT'S GONE - BL3SS REMIX",
-      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
-    },
-    {
-      "added_at": "2025-05-23 10:15:26",
-      "album": {
         "name": "It's ok I'm ok (remixes)",
         "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 166125,
       "name": "It's ok I'm ok - Ian Asher remix",
       "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
+    },
+    {
+      "added_at": "2025-05-23 10:15:26",
+      "album": {
+        "name": "NOW IT'S GONE (BL3SS REMIX)",
+        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "NOW IT'S GONE - BL3SS REMIX",
+      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
     },
     {
       "added_at": "2025-05-23 10:15:26",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-05-23 10:15:26",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2025-05-23 10:15:26",
-      "album": {
         "name": "Revolving door (remixes)",
         "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 171304,
       "name": "Revolving door - Lavern remix",
       "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
+    },
+    {
+      "added_at": "2025-05-23 10:15:26",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2025-05-23 10:15:26",

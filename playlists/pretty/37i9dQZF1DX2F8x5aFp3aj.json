@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 232754,
+  "num_followers": 232848,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        },
-        {
-          "name": "Glenn Danzig",
-          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 128426,
-      "name": "Where Eagles Dare",
-      "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
+      "duration_ms": 256533,
+      "name": "Dancing Barefoot",
+      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -623,18 +619,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
         }
       ],
-      "duration_ms": 256533,
-      "name": "Dancing Barefoot",
-      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
+      "duration_ms": 128426,
+      "name": "Where Eagles Dare",
+      "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 263200,
       "name": "I Go to Extremes",
       "url": "https://open.spotify.com/track/16LYB0chkPiblx33djiNTt"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
     },
     {
       "added_at": "2024-04-16 00:45:21",

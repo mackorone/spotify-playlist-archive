@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Eunike Tanzil
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,253 likes - 81 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,294 likes - 81 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 80 | [Andante serioso](https://open.spotify.com/track/6MtARx91YspEsieO20mhAj) | [Nancy Dalberg](https://open.spotify.com/artist/5c2fprcH1JdoFaXY6zT7kI), [Ensemble MidtVest](https://open.spotify.com/artist/7bA9fVBNGzj5RvCoaqKXfs) | [Andante serioso](https://open.spotify.com/album/2mjYJDzENtitEJwdQN0wVL) | 8:21 |
 | 81 | [La lotta d'Ercole con Acheloo: Aita, Fortuna](https://open.spotify.com/track/6olG0EEOurreTgt0yi7GIl) | [Agostino Steffani](https://open.spotify.com/artist/6HQ5W2zeRTFeOn0pNbRm1h), [Carlo Vistoli](https://open.spotify.com/artist/1BGWMJoBaOLTTqjupDlzm3), [Hugh Cutting](https://open.spotify.com/artist/669muDJ1CceEiAFAYDKBkt), [William Christie](https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS), [Les Arts Florissants](https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx) | [Nei giardini d'amore\. Baroque arias for 2 alti](https://open.spotify.com/album/6GEcshkue0GosLw1EwvPFL) | 2:07 |
 
-Snapshot ID: `aEJnzQAAAAAaH/5XCVSnz4bE/7XNwkQP`
+Snapshot ID: `AAAAAL0uEkTsOMitGOs1vxl4L99bbg6d`

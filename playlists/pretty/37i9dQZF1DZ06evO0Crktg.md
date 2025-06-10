@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,445 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,564 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 24 | [Creature](https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:59 |
 | 25 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 |
 | 26 | [Heart of Stone](https://open.spotify.com/track/1bXKpjbalq0If54LBffE0i) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:01 |
-| 27 | [She](https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:54 |
-| 28 | [Last Dance With Mary Jane \(feat\. Tom Petty & Jelly Roll\)](https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:05 |
-| 29 | [Same Asshole](https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 3:26 |
-| 30 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
+| 27 | [Sharks \(feat\. Jelly Roll, Big Sean\)](https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:49 |
+| 28 | [She](https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:54 |
+| 29 | [Last Dance With Mary Jane \(feat\. Tom Petty & Jelly Roll\)](https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:05 |
+| 30 | [Same Asshole](https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 3:26 |
 | 31 | [Smoking Section](https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Therapeutic Music 5](https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn) | 4:08 |
 | 32 | [I Need You](https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:51 |
 | 33 | [Hard Fought Hallelujah \(Gospel Version\) \- Spotify Singles \(feat\. The Choir Room\)](https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Hard Fought Hallelujah \(Gospel Version\) \- Spotify Singles \(feat\. The Choir Room\)](https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [My Only Enemy](https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593) | [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Waylon & Willie IV](https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R) | 3:17 |
 | 50 | [Really Gone \(with Russ\)](https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:05 |
 
-Snapshot ID: `aEOBAAAAAABpKFbYrRwSyrXpv3k5TLgb`
+Snapshot ID: `aETSgAAAAAC7JK7Fy8CDSGqPJm/dt3go`

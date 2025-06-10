@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 860467,
+  "num_followers": 860354,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "It Ain't Me Babe",
         "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224160,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "City Of Stars",
-        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City Of Stars",
-      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "City Of Stars",
+        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 144274,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 144274,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Acoustic Visions",
-        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
-      },
-      "artists": [
-        {
-          "name": "Veil",
-          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Heather",
         "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 198007,
       "name": "Heather - Acoustic",
       "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Acoustic Visions",
+        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
+      },
+      "artists": [
+        {
+          "name": "Veil",
+          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Terrace Rain/Grid Search",
-        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        }
-      ],
-      "duration_ms": 176548,
-      "name": "Terrace Rain",
-      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 214500,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Terrace Rain/Grid Search",
+        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "Terrace Rain",
+      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 254296,
-      "name": "Graveyard - Acoustic",
-      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Lullabies for Adults & Children",
         "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 156214,
       "name": "Wake Up With the Sun",
       "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254296,
+      "name": "Graveyard - Acoustic",
+      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Duo Estoril",
-        "url": "https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU"
-      },
-      "artists": [
-        {
-          "name": "Duo Estoril",
-          "url": "https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG"
-        }
-      ],
-      "duration_ms": 164916,
-      "name": "Everybody's Got To Learn Sometime",
-      "url": "https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
       },
@@ -2171,18 +2155,18 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "Duo Estoril",
+        "url": "https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "Duo Estoril",
+          "url": "https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 164916,
+      "name": "Everybody's Got To Learn Sometime",
+      "url": "https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2199,6 +2183,22 @@
       "duration_ms": 181733,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "The Day I Left Hanoi",
-        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
-      },
-      "artists": [
-        {
-          "name": "Jokai",
-          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Day I Left Hanoi",
-      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 195655,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "The Day I Left Hanoi",
+        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
+      },
+      "artists": [
+        {
+          "name": "Jokai",
+          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Day I Left Hanoi",
+      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
-      },
-      "artists": [
-        {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
-        }
-      ],
-      "duration_ms": 110277,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -2319,18 +2303,18 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
       },
       "artists": [
         {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
         }
       ],
-      "duration_ms": 210912,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
+      "duration_ms": 110277,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2347,6 +2331,22 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
     },
     {
       "added_at": "2025-04-25 17:11:13",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2025-04-25 17:11:13",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
-    },
-    {
-      "added_at": "2025-04-25 17:11:13",
-      "album": {
         "name": "Atlas: Seven",
         "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 263124,
       "name": "Atlas: Seven",
       "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
+    },
+    {
+      "added_at": "2025-04-25 17:11:13",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
     },
     {
       "added_at": "2025-04-25 17:11:13",

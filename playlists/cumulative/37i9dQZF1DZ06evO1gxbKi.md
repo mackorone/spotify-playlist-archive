@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-147 songs - 7 hr 22 min
+148 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 | 2022-05-25 | 2025-02-17 |
 | [Blessed Assurance](https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:00 | 2022-05-28 | 2025-02-07 |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/6wJlP5q82nxBKwBpGpOD48) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:55 | 2023-12-23 | 2024-10-09 |
-| [Bring Back Those Happy Days](https://open.spotify.com/track/7ig6vNLQEIT740QNMl9Rp2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:57 | 2024-11-07 |  |
+| [Bring Back Those Happy Days](https://open.spotify.com/track/7ig6vNLQEIT740QNMl9Rp2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:57 | 2024-11-07 | 2025-06-10 |
 | [Bring Back Those Happy Days](https://open.spotify.com/track/1fHrhF3z0fNvtpA2aavvab) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 2:57 | 2022-07-11 | 2022-10-18 |
 | [Bring Back Those Happy Days \- Remastered](https://open.spotify.com/track/6tZmfHh3DgJ6JXy1yobXyq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Godmather of Rock'n'roll \- a Bluesy Twist on Gospel Music \(Remastered\)](https://open.spotify.com/album/02M2XVAfZLvasD7eTJ3V4z) | 2:56 | 2023-07-05 | 2023-07-07 |
 | [Cain't No Grave Hold My Body Down](https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:44 | 2022-05-26 |  |
@@ -89,6 +89,7 @@
 | [Nothing Between](https://open.spotify.com/track/39mpH34jjRge3WmL7WWOzv) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 2:34 | 2022-05-25 | 2022-07-04 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:26 | 2025-03-31 | 2025-04-04 |
 | [Oh, The Joy That Came To Me](https://open.spotify.com/track/6HiEL8sTTAfhSNibOkghyd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 1:25 | 2024-06-10 | 2025-06-08 |
+| [One Morning Soon \(The Gospel Truth \(1959\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/18wbd0u95oR4F95S4EF2FD) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 3:04 | 2025-06-10 |  |
 | [Peace In The Valley](https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:21 | 2022-11-16 |  |
 | [Peace in the Valley](https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 5:32 | 2022-05-25 | 2022-10-13 |
 | [Precious Lord \(Take My Hand\)](https://open.spotify.com/track/3BL8WaeivP3arLT7JfwALf) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 4:59 | 2025-05-31 | 2025-06-09 |

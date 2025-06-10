@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > An eclectic mix of past & current indie favourites\. Cover: Oklou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,377 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,382 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 17 | [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 |
 | 18 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 |
 | 19 | [The Knife In Me](https://open.spotify.com/track/58hTRQMC67zlvZV1bb49Me) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [The Knife In Me](https://open.spotify.com/album/1qJwOLRyiuHWBichKictX9) | 2:04 |
-| 20 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
+| 20 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 21 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
-| 22 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
+| 22 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
 | 23 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 |
 | 24 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 25 | [Open Up!](https://open.spotify.com/track/67h81Q3x4cZ13pZ4flgbwJ) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Soon We'll All Be Smoking](https://open.spotify.com/album/0NiTx4og5ObpzpfY13SG5W) | 4:46 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 64 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 65 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
 | 66 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
-| 67 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
-| 68 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
+| 67 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
+| 68 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 69 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 70 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 |
 | 71 | [Teardrops](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Teardrops](https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV) | 3:18 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 76 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 |
 | 77 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
 | 78 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
-| 79 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
-| 80 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
+| 79 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
+| 80 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 81 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 82 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
 | 83 | [It Runs Through Me \(feat\. De La Soul\)](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 |

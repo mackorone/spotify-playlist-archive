@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,562 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,579 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [Pray To God](https://open.spotify.com/track/3tfnE0kI4HMcoGilCZGrwZ) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Pray To God](https://open.spotify.com/album/72O4oA0n84svF9znwh2ody) | 2:59 |
 | 100 | [Dissent, Shame](https://open.spotify.com/track/02MUxkxBzlHBmPllY9UfAJ) | [The Body](https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [Dissent, Shame](https://open.spotify.com/album/0zHtY8fXz6moeLDQUSokf0) | 4:03 |
 
-Snapshot ID: `AAAAAEuoNEPJheMz6BHISTnSI7tNR/Ml`
+Snapshot ID: `aAsI+AAAAAC/XIj3qzv7OHX1nG9esG5g`

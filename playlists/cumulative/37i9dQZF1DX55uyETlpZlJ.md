@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-511 songs - 1 day 4 hr 43 min
+512 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Naavu Kuuda OG](https://open.spotify.com/track/2FKlfqCs0ouc6W9fvsRTQM) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Naavu Kuuda OG](https://open.spotify.com/album/7gu9H6jz3APyKRuxhqMkEq) | 1:00 | 2023-08-18 | 2024-02-20 |
 | [Nagu](https://open.spotify.com/track/2slEJoC0joGbBb1MXeCIWi) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Ajith Keshava](https://open.spotify.com/artist/3bN8X7e50eYFGhuqctG5Te) | [Nagu](https://open.spotify.com/album/2aVEDrhiFODgbnvPQpTfCV) | 3:37 | 2023-11-16 | 2024-02-17 |
 | [Naguve](https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Naguve](https://open.spotify.com/album/2Hw9KDXXl8CAu8Mx8ZhOgQ) | 4:04 | 2023-06-30 | 2023-07-18 |
+| [Naked Truth](https://open.spotify.com/track/6Qjoblc0AaJM59eGyAgw1n) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Naked Truth](https://open.spotify.com/album/2nbJ6T9eTh3og8YjgemrKQ) | 3:04 | 2025-06-09 |  |
 | [Namma Bainduru](https://open.spotify.com/track/3m29zPPLr4dUXPiQU6RrMx) | [Akshay Badamane](https://open.spotify.com/artist/0Bm4jb0z86yN1kdXqtNU30) | [Namma Bainduru](https://open.spotify.com/album/5pVNIDfgtIGmIQ87MD0yvn) | 1:59 | 2024-06-10 | 2024-11-21 |
 | [Namma Gully](https://open.spotify.com/track/18zr3JmRPNcqe7PbrBtSEy) | [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ), [D rapper](https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4) | [Namma Gully](https://open.spotify.com/album/4SGJQZixTYl8kF9mnyJcSa) | 1:56 | 2023-08-31 | 2024-04-19 |
 | [Namma Gully](https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU) | [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Namma Gully](https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D) | 1:56 | 2023-08-31 | 2024-05-14 |
@@ -410,7 +411,7 @@
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |
 | [Parashuram](https://open.spotify.com/track/3I7elSzdAYqPovLgNe5V6D) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/5ZdIgrGncQ7ojJCgfZ4YiN) | 4:09 | 2023-11-14 | 2024-04-19 |
 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 | 2024-05-14 |
-| [Parayana](https://open.spotify.com/track/1MP109xqBHko9fqfd3OfBj) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Parayana](https://open.spotify.com/album/2s6eWfNhuR3WSOivc6sImq) | 3:07 | 2025-02-06 |  |
+| [Parayana](https://open.spotify.com/track/1MP109xqBHko9fqfd3OfBj) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Parayana](https://open.spotify.com/album/2s6eWfNhuR3WSOivc6sImq) | 3:07 | 2025-02-06 | 2025-06-10 |
 | [Parichitana](https://open.spotify.com/track/45sV7gf7t5wKvROAaDKW94) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Parichitana](https://open.spotify.com/album/37TAvfDOrS3xPMBR1VVMsp) | 3:29 | 2024-04-12 | 2024-10-30 |
 | [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 | 2024-02-17 |
 | [Paycheck](https://open.spotify.com/track/3OsgYlV2mZgIdx5dka54gw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Paycheck](https://open.spotify.com/album/2xZCXw6siAqGPVc5JyJawy) | 2:55 | 2024-11-19 | 2025-03-18 |

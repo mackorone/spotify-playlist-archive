@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,466 likes - 33 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,475 likes - 33 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 11 | [Do Corre](https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET) | [Do Corre](https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP) | 3:15 |
 | 12 | [Marido de Bandida](https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:43 |
 | 13 | [SALA VERMELHA \#03 \- Ajuliacosta](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#03 \- Ajuliacosta](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
-| 14 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 |
-| 15 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
+| 14 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
+| 15 | [Ai Caralh\*](https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Ai Caralh\*](https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv) | 2:49 |
 | 16 | [O Tipo de Garota](https://open.spotify.com/track/2HdViad1em77egtiCxsNiW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [O Tipo de Garota](https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y) | 3:23 |
 | 17 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
 | 18 | [Não Discuto por Telefone](https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [A Peça Final](https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ) | 2:27 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 32 | [Queen Chavosa \- Remix](https://open.spotify.com/track/2898k850lyu9U35V7zzSDY) | [DJ LOBA BOSS](https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Queen Chavosa \(Remix\)](https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv) | 1:41 |
 | 33 | [Empresário](https://open.spotify.com/track/5QxxKQQNZyL5Q4N7Rggjg0) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:07 |
 
-Snapshot ID: `aEOBAAAAAACpiLv6KXjea9eNW8QvC99z`
+Snapshot ID: `aETSgAAAAABud3JW3pjt1SX1L/n9D2WF`

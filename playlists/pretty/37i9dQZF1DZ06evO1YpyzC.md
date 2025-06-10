@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,125 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,146 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 2 | [One Thing Right](https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/1zZyFySIvpfT6Vl9reroCL) | 3:01 |
 | 3 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
 | 4 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:59 |
-| 5 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
-| 6 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
+| 5 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
+| 6 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
 | 7 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
 | 8 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
 | 9 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 | 50 | [Leave You Alone](https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:34 |
 
-Snapshot ID: `aEOBAAAAAADTnJvlCPNdgGqMa4ru+U7i`
+Snapshot ID: `aETSgAAAAADV9HbQSbxAUJjONQYyk8Ff`

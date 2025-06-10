@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 49421,
+  "num_followers": 49422,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABNeb/jXAoXPm0Mjqfs0gGo",
+  "snapshot_id": "aETSgAAAAAB/AS0/LS6KMCbOGyfjZFMc",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Muchacho de La Esquina",
-        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 154151,
-      "name": "El Muchacho de La Esquina",
-      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 198896,
       "name": "Despu\u00e9s No Hay Despu\u00e9s",
       "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Muchacho de La Esquina",
+        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 154151,
+      "name": "El Muchacho de La Esquina",
+      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
     },
     {
       "added_at": null,

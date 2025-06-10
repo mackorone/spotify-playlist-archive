@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Abigail Chams
 
-299 songs - 16 hr 51 min
+300 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
 | [Juu](https://open.spotify.com/track/0u5J0a8oOTw9AVI07iD7yS) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Colorful Generation](https://open.spotify.com/album/0nIEkzSwKoMM2Chsgew9DV) | 2:50 | 2025-01-31 |  |
 | [Kama](https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Kama](https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui) | 3:08 | 2023-12-08 | 2024-04-26 |
+| [Katam \(feat\. Bien\)](https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Katam \(feat\. Bien\)](https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf) | 4:05 | 2025-06-09 |  |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 | 2024-11-08 |
 | [Keki](https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Keki](https://open.spotify.com/album/3JiAtCjaZzPx1Z4uK1n16W) | 3:03 | 2025-01-31 |  |
 | [Kipepeo](https://open.spotify.com/track/13R4oID4F5Cpq9Bte0tSdn) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Queen of the East](https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN) | 3:52 | 2024-08-29 | 2025-02-14 |
@@ -234,7 +235,7 @@
 | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/track/2ffwwOr5k4AFYlbQiopAaQ) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/album/7HLQpGd1FmWMS3ufnnQJ0x) | 3:21 | 2025-02-13 |  |
 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 | 2024-04-18 | 2025-02-07 |
 | [Salome](https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Salome](https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds) | 3:57 | 2023-08-17 | 2023-12-08 |
-| [Sare](https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sare](https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp) | 3:34 | 2025-01-31 |  |
+| [Sare](https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sare](https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp) | 3:34 | 2025-01-31 | 2025-06-10 |
 | [Sawa \(feat\. Bailey RSA\)](https://open.spotify.com/track/2ZuRik1hV7YmIDqJo8rDl6) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Bailey RSA](https://open.spotify.com/artist/2QkOBh67XdbHPuruBuTYGZ) | [Sawa \(feat\. Bailey RSA\)](https://open.spotify.com/album/38jrW3CUIjHwc5sHiohB4B) | 4:10 | 2024-03-14 | 2024-03-22 |
 | [Sele \(feat\. Chley\)](https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Sele \(feat\. Chley\)](https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc) | 4:12 | 2024-03-14 | 2024-03-22 |
 | [Shika](https://open.spotify.com/track/6XxqdIiwZNUwJkXZVEmXJD) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Shika](https://open.spotify.com/album/0Z1NRlQAq2ZJKYpqibIBMB) | 3:11 | 2024-03-14 | 2024-03-22 |

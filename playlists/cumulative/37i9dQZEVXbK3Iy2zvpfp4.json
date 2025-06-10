@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 190487,
       "name": "baggy",
       "url": "https://open.spotify.com/track/6fX6IbdrTsuqQzhBQnGDup"
@@ -16154,6 +16154,24 @@
       "duration_ms": 135653,
       "name": "Empty Out Your Pockets",
       "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
+    },
+    {
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "En nuit",
+      "url": "https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b"
     },
     {
       "album": {
@@ -41612,7 +41630,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"

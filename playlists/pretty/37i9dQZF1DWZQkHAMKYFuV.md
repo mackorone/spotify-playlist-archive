@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,485 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,511 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 31 | [Dutty Love](https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Don Omar Presents MTO2: New Generation](https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY) | 4:45 |
 | 32 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
 | 33 | [Disfruto](https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:04 |
-| 34 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 |
+| 34 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
 | 35 | [Traicionera](https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:49 |
-| 36 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
+| 36 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 |
 | 37 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 |
 | 38 | [A Ella](https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:18 |
 | 39 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 42 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
 | 43 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
 | 44 | [Loca \(feat\. El Cata\)](https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [El Cata](https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:03 |
-| 45 | [Olha A Explosão](https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Olha A Explosão](https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg) | 2:42 |
-| 46 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
-| 47 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
+| 45 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:29 |
+| 46 | [Olha A Explosão](https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Olha A Explosão](https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg) | 2:42 |
+| 47 | [Dembow](https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:35 |
 | 48 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
-| 49 | [Dembow](https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:35 |
+| 49 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 50 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 
 Snapshot ID: `ZkOgXAAAAADPdcowN4SiVtgzdVB3yzxN`

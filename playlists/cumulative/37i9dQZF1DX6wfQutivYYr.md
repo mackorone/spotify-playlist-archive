@@ -4,7 +4,7 @@
 
 > Pinguini Tattici Nucleari e Max Pezzali sulla cover della playlist più grande in Italia 🏆
 
-212 songs - 11 hr 0 min
+213 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 | 2025-01-09 | 2025-01-25 |
 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 | 2024-09-26 | 2025-02-11 |
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-03-24 |  |
+| [Capo Horn \(feat\. Tedua\)](https://open.spotify.com/track/7nl18LJP7p5c6NTQtcdusF) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:38 | 2025-06-09 |  |
 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 | 2024-08-29 | 2024-09-06 |
 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-28 | 2024-12-19 |
 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 | 2025-05-29 |  |
@@ -116,7 +117,7 @@
 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 | 2025-02-12 |  |
 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 | 2025-02-12 |  |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-04-10 |  |
-| [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 | 2025-02-12 |  |
+| [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 | 2025-02-12 | 2025-06-10 |
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-23 |  |
 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-12 | 2025-05-13 |
 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 | 2025-02-20 | 2025-04-18 |

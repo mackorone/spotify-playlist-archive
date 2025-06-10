@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Blynk, Artwork: Isu Kim.
 
-2,422 songs - 5 day 5 hr 18 min
+2,423 songs - 5 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2017,6 +2017,7 @@
 | [superstar](https://open.spotify.com/track/0bKgXQWKsqrZB0ONvrEHyJ) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [superstar](https://open.spotify.com/album/6cHhySy6Nq01honrFzsHv1) | 3:26 | 2024-11-20 | 2024-12-05 |
 | [Superstar](https://open.spotify.com/track/7DFNOL9e8gQ51fIuZuXbtM) | [Wild Crush](https://open.spotify.com/artist/5c8Z7NyayG1qUScIggKoRf) | [Superstar](https://open.spotify.com/album/40d8TjFj0J0Ny8DN0zDCDU) | 3:14 | 2025-04-16 | 2025-04-24 |
 | [superstar loser](https://open.spotify.com/track/4eVzhh0Ebb3epXyuhKfGTx) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/44OdCi96s0fPvjDCrFdJ1Q) | 2:54 | 2025-01-15 | 2025-01-30 |
+| [Sur mon mind](https://open.spotify.com/track/654OEnSg5uvz7t9tl1hzG2) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sur mon mind](https://open.spotify.com/album/6sbBp80z1a92DzqJ7EgRd2) | 2:21 | 2025-06-09 |  |
 | [Surf Hat Ranch](https://open.spotify.com/track/612WT3r8xQEe8uz8HDkQA4) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Surf Hat Ranch](https://open.spotify.com/album/4XeJbwN5sWD2oYVUeIVWLY) | 3:30 | 2024-03-27 | 2024-04-19 |
 | [Surgery](https://open.spotify.com/track/6QMoxBOuYHCEC6YsUsfoVS) | [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Surgery](https://open.spotify.com/album/6dg1kPUvtMptalqVeLHKZy) | 2:28 | 2024-11-06 | 2024-11-21 |
 | [SVP ne pas toucher](https://open.spotify.com/track/7gj9Ra0vqKOKXnQPwueomW) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [SVP ne pas toucher](https://open.spotify.com/album/1CQyIelMHO9Q9iKz65IIJj) | 3:27 | 2025-05-21 | 2025-05-30 |

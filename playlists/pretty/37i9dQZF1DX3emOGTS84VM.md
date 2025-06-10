@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,992 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,995 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 18 | [Is This Really Love? \- A COLORS SHOW](https://open.spotify.com/track/1cxCfIcMvt1mNvNWKLY6yP) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Is This Really Love? \- A COLORS SHOW](https://open.spotify.com/album/3vEoMJwdj87txLLSYHHVOq) | 3:12 |
 | 19 | [Can we do it again?](https://open.spotify.com/track/1x6NPwoKNAyYADPRhgdg8L) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/1PAX5Z9MLo3PiUExFCYpDe) | 3:30 |
 | 20 | [Don't Mind](https://open.spotify.com/track/5e2odcXtYNZ25O0GEgqdyO) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Don't Mind](https://open.spotify.com/album/4mGcOvTkmjIIiMgPMfDre5) | 2:57 |
-| 21 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
+| 21 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 22 | [Most of the Time](https://open.spotify.com/track/47Mnwx6Tm5SINHTtZeP6F0) | [The Steve McQueens](https://open.spotify.com/artist/4cdonelnEZTOxNRDmtQ5yO) | [TERRAЯIUM](https://open.spotify.com/album/6Pl42seMREIMsShY16rJR7) | 3:17 |
 | 23 | [Bloodshot](https://open.spotify.com/track/2Hhy4Qrj2vGy4VGkeZA0jB) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Bloodshot](https://open.spotify.com/album/3DIIQkYGxFAYthGOZgYPUb) | 3:08 |
 | 24 | [Letter To My 13 Year Old Self](https://open.spotify.com/track/52kBDeQHOJdnSbi8UaHG0H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Letter To My 13 Year Old Self \(with Laufey\)](https://open.spotify.com/album/6LHjQnbuuGY9xDlTQpingA) | 4:56 |

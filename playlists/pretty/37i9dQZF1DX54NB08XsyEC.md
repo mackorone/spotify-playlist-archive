@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > priceless? eh o\. gue? eu sou expensive querido / Foto: Maroon 5, LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,200 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,189 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 4 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 5 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 6 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 7 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 7 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 8 | [What We Are \(with Luísa Sonza\)](https://open.spotify.com/track/6Z59PmHDQDJxjo5UnXky6n) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:34 |
-| 9 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 9 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 10 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 11 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 12 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 28 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
 | 29 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 30 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
-| 31 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
-| 32 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 31 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 32 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
 | 33 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
 | 34 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 |
 | 35 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |

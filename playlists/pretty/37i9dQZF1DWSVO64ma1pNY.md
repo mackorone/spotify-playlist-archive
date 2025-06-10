@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,427 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,447 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 12 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
 | 13 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 14 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
-| 15 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
-| 16 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
+| 15 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
+| 16 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 17 | [Face to the Floor](https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Hats Off to the Bull](https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV) | 3:38 |
 | 18 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
 | 19 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 29 | [Jars](https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Sci\-Fi Crimes](https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH) | 3:19 |
 | 30 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
 | 31 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 32 | [Invincible](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:10 |
-| 33 | [Love Bites \(So Do I\)](https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:11 |
+| 32 | [Love Bites \(So Do I\)](https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:11 |
+| 33 | [Invincible](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:10 |
 | 34 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
 | 35 | [Why Worry](https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:19 |
 | 36 | [Bubbles](https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 5:01 |

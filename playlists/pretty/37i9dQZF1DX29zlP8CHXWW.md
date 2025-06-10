@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2025 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,116 likes - 42 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,103 likes - 42 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 | 41 | [Grave Robber \- Live From Passion 2024](https://open.spotify.com/track/60oKMyvbTqducptdi4ziQk) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 3:27 |
 | 42 | [Bless God ∞](https://open.spotify.com/track/5jY0m8VfiWghIlS6IYWUzS) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:53 |
 
-Snapshot ID: `Z1Mg8gAAAAApCb6UT/rnRoZQCPMoNvwx`
+Snapshot ID: `Z1Mg8gAAAACfMJoVYyHvJQJgRvIkU7EH`

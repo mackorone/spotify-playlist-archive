@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: رامي جمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,648 likes - 41 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,676 likes - 41 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 40 | [حبيبي ليه](https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:00 |
 | 41 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 |
 
-Snapshot ID: `aDlw8AAAAACNbjA8JMGJlpdjeSpUfHpD`
+Snapshot ID: `aEaGhAAAAAAIvuXk9meRIIzbpgdyTk7I`

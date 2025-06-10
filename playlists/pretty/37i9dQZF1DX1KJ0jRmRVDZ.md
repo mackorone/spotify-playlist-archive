@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 44 | [Caramel Pain](https://open.spotify.com/track/2XhNjx6wj3jRHbFWK2XrTl) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [新星目録](https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z) | 2:59 |
 | 45 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
 | 46 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
-| 47 | [DRESSING ROOM](https://open.spotify.com/track/3g9tqI1NfqjErbTAQk6vne) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [DRESSING ROOM](https://open.spotify.com/album/62vPIWYn3mQVY6U4AL7kjb) | 2:54 |
+| 47 | [New me](https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me](https://open.spotify.com/album/0YXJVcVH0uFhYSBc2duxyf) | 3:26 |
 | 48 | [Episode X](https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Episode X](https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39) | 3:22 |
-| 49 | [New me](https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me](https://open.spotify.com/album/0YXJVcVH0uFhYSBc2duxyf) | 3:26 |
+| 49 | [DRESSING ROOM](https://open.spotify.com/track/3g9tqI1NfqjErbTAQk6vne) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [DRESSING ROOM](https://open.spotify.com/album/62vPIWYn3mQVY6U4AL7kjb) | 2:54 |
 | 50 | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 |
 
 Snapshot ID: `aD8zAgAAAAAYOrLLBM2TQmYflcImdclj`

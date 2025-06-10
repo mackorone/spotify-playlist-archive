@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,353 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,347 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 21 | [Hardwired](https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 3:09 |
 | 22 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 |
 | 23 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
-| 24 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
-| 25 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 26 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
+| 24 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
+| 25 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
+| 26 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
 | 27 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 28 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 29 | [Riptide](https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,899 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,969 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,18 +39,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 29 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 30 | [Give it to me](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Give It To Me](https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz) | 3:21 |
 | 31 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
-| 32 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
-| 33 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
+| 32 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
+| 33 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 34 | [Baby, Don't Cry](https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:53 |
 | 35 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
 | 36 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 |
 | 37 | [난리나](https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Welcome to the BLOCK](https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om) | 3:24 |
 | 38 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
-| 39 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
+| 39 | [Heart Attack](https://open.spotify.com/track/7pm5uhK7xiEM9fQvuCE78l) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Heart Attack](https://open.spotify.com/album/1VTC6SmzvyPnWsEuQ0clrb) | 3:16 |
 | 40 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
-| 41 | [Heart Attack](https://open.spotify.com/track/7pm5uhK7xiEM9fQvuCE78l) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Heart Attack](https://open.spotify.com/album/1VTC6SmzvyPnWsEuQ0clrb) | 3:16 |
-| 42 | [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 |
-| 43 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
+| 41 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
+| 42 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
+| 43 | [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 |
 | 44 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
 | 45 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 |
 | 46 | [Hot Summer](https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:45 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 67 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 |
 | 68 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 |
 | 69 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 |
-| 70 | [I LOVE YOU](https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Love You](https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg) | 3:57 |
-| 71 | [WOW](https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Press Play](https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm) | 3:37 |
+| 70 | [WOW](https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Press Play](https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm) | 3:37 |
+| 71 | [I LOVE YOU](https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Love You](https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg) | 3:57 |
 | 72 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 73 | [Gone not around any longer](https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Gone not around any longer](https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo) | 3:31 |
 | 74 | [Mamma Mia](https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [카라\(KARA\) 6th Mini Album \[Day&Night\]](https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr) | 3:32 |

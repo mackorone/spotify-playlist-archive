@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Feid is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,557 likes - 19 songs - 59 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,656 likes - 19 songs - 59 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

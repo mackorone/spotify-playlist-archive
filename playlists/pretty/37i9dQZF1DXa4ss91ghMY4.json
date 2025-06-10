@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 584168,
+  "num_followers": 584175,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-03-28 04:59:02",
       "album": {
+        "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
+        "url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277591,
+      "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
+    },
+    {
+      "added_at": "2025-03-28 04:59:02",
+      "album": {
         "name": "Small Town Boy",
         "url": "https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 187453,
       "name": "Arcade (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V"
-    },
-    {
-      "added_at": "2025-03-28 04:59:02",
-      "album": {
-        "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
-        "url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277591,
-      "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
     },
     {
       "added_at": "2025-03-28 04:59:02",

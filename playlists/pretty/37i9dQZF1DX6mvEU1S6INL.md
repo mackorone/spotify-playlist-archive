@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,658 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,629 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 66 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 |
 | 67 | [Time to Wander](https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Gilgamesh](https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI) | 3:54 |
 | 68 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
-| 69 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
-| 70 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 |
+| 69 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 |
+| 70 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 71 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
 | 72 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 |
 | 73 | [Julia](https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 3:25 |
 | 74 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
-| 75 | [The Woods](https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod) | 3:11 |
-| 76 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 |
+| 75 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 |
+| 76 | [The Woods](https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod) | 3:11 |
 | 77 | [Simple Pleasures](https://open.spotify.com/track/3SFyR2ii2zKh4BU0QJuJ1G) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Shangri La](https://open.spotify.com/album/5b5kAlhPPxiMrSd12RzEDI) | 5:01 |
 | 78 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 |
 | 79 | [Better Life](https://open.spotify.com/track/08LxaBHzxNSxHdCSitATLW) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [The Peace of Wild Things](https://open.spotify.com/album/4gCXFcJXBeseiCQ0GCakO0) | 4:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 95 | [All I Need](https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 3:48 |
 | 96 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
 | 97 | [Astronaut \- Something About Your Love](https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Astronaut \(Something About Your Love\)](https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk) | 3:22 |
-| 98 | [Free Animal](https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Free Animal](https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa) | 3:00 |
-| 99 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
-| 100 | [Old Pine](https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom \(Deluxe Version\)](https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH) | 5:28 |
+| 98 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
+| 99 | [Free Animal](https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Free Animal](https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa) | 3:00 |
+| 100 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
 
 Snapshot ID: `Z69efAAAAACTYur1YnSXlYlcTHK6F8oI`

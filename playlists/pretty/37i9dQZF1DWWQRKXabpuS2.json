@@ -1,13 +1,29 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
-  "num_followers": 40456,
+  "num_followers": 40470,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aD6pCwAAAACLkK2VCyBhz3yLYjuSO067",
+  "snapshot_id": "aEaV4QAAAABXbVMT7OqBoATGPZ8h32DO",
   "tracks": [
+    {
+      "added_at": "2025-06-09 08:05:53",
+      "album": {
+        "name": "Ana Estaslamt",
+        "url": "https://open.spotify.com/album/0abUIrSyfczVxloVNHvD4D"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Ana Estaslamt",
+      "url": "https://open.spotify.com/track/4mSPXX5Hb7S1nTmb8Mkbsi"
+    },
     {
       "added_at": "2025-05-23 09:53:09",
       "album": {
@@ -791,38 +807,6 @@
       "duration_ms": 249009,
       "name": "Kethr El Ghala",
       "url": "https://open.spotify.com/track/558ALwJdYCddXe3LyXKrKv"
-    },
-    {
-      "added_at": "2025-04-28 07:47:09",
-      "album": {
-        "name": "Akher Ensanah",
-        "url": "https://open.spotify.com/album/4nxeckkOz5dSc61Mk0kc4V"
-      },
-      "artists": [
-        {
-          "name": "Haneen Hussain",
-          "url": "https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ"
-        }
-      ],
-      "duration_ms": 178045,
-      "name": "Akher Ensanah",
-      "url": "https://open.spotify.com/track/2XkedYpoTNAhTqDYNCzC9O"
-    },
-    {
-      "added_at": "2025-04-28 07:47:09",
-      "album": {
-        "name": "Estihala",
-        "url": "https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE"
-      },
-      "artists": [
-        {
-          "name": "Rashed Al-Majed",
-          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
-        }
-      ],
-      "duration_ms": 364205,
-      "name": "Estihala",
-      "url": "https://open.spotify.com/track/2n1P5qkG1rbOLWbPi3ZlmG"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

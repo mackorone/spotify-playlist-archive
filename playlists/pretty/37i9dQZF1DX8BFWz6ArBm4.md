@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > ☀️ Γιατί δεν νοείται καλοκαίρι χωρίς τις αγαπημένες σου λαΙκές φωνές ☀️Εξώφυλλοr: Andromache
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,799 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,914 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 33 | [Monaxia](https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Monaxia](https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP) | 3:24 |
 | 34 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |
 | 35 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
-| 36 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
-| 37 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
+| 36 | [Ekptotos Aggelos](https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Ekptotos Aggelos](https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM) | 4:23 |
+| 37 | [To Vale](https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [To Vale](https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk) | 3:27 |
 | 38 | [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 |
 | 39 | [To Pairno Pano Mou](https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [To Pairno Pano Mou](https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD) | 3:10 |
 | 40 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 |
-| 41 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 |
-| 42 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
+| 41 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
+| 42 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 |
 | 43 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
 | 44 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 |
 | 45 | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS) | 3:28 |
-| 46 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
-| 47 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 |
+| 46 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 |
+| 47 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
 | 48 | [Exo Emena](https://open.spotify.com/track/7ixBF0Qf9jkJMsHtcK9KWd) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [Exo Emena](https://open.spotify.com/album/1xnDdoDkBv5wRlDFyr5dAR) | 4:12 |
 | 49 | [Efyge?](https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Efyge?](https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94) | 3:21 |
 | 50 | [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 |

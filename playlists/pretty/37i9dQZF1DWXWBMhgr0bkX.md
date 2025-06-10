@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown talent feat\. the princess of power, MARINA ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,465 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,464 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

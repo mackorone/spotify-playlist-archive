@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,958 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,039 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 36 | [Cómo Te Extraño Mi Amor \(En Vivo\) \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 |
 | 37 | [Adoro \( Primera Fila \) \(feat\. Julieta Venegas\) \- En Vivo](https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Primera Fila](https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm) | 3:41 |
 | 38 | [Qué Será de Ti \- Como Vai Voce \(Live Version\)](https://open.spotify.com/track/26eGXAycoJtHYZuKXuki3Z) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa) | 4:37 |
-| 39 | [Si Tú No Vuelves \(feat\. Miguel Bosé\) \- En Vivo](https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Ha\-Ash "En Vivo"](https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY) | 5:29 |
-| 40 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
+| 39 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
+| 40 | [Si Tú No Vuelves \(feat\. Miguel Bosé\) \- En Vivo](https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Ha\-Ash "En Vivo"](https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY) | 5:29 |
 | 41 | [Te He Prometido \(En Vivo\) \(feat\. Ricardo Montaner\)](https://open.spotify.com/track/6LYOEpZALvazO2nUPwJatS) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:10 |
 | 42 | [Respóndeme Tú \(Primera Fila\) \(feat\. Pepe Aguilar\) \- En Vivo](https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:25 |
 | 43 | [Yo Te Esperaba \- Primera Fila \[En Vivo\]](https://open.spotify.com/track/3YT6mjbJ2VL7wBI95LDzNR) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán en Primera Fila](https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6) | 3:44 |

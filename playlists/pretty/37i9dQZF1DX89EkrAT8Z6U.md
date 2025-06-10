@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,626 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,845 likes - 75 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 36 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 37 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
 | 38 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
-| 39 | [Move!](https://open.spotify.com/track/4wVp0fs0k24q05f0CP6PVS) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Move!](https://open.spotify.com/album/17siGLwrIywQtD6kOvDB9e) | 2:09 |
+| 39 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
 | 40 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 41 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
 | 42 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |

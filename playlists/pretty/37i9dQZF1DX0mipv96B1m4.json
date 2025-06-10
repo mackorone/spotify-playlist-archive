@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1511,
+  "num_followers": 1512,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2024-03-01 12:07:08",

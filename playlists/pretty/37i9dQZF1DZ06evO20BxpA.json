@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1445,
+  "num_followers": 1444,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAaXEO9ma60QkDH99CWxBA5",
+  "snapshot_id": "aETSgAAAAABx4jz+AFsSgdPssVCl6Jvm",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Eternal Sky",
-        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Our Eternal Sky",
-      "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
+      "duration_ms": 55920,
+      "name": "The Seasonal Seas",
+      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+        "name": "Our Eternal Sky",
+        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
       },
       "artists": [
         {
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 55920,
-      "name": "The Seasonal Seas",
-      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 388453,
-      "name": "Tiangong",
-      "url": "https://open.spotify.com/track/2yImRJOeJ6r7STCWs1xfal"
+      "duration_ms": 281213,
+      "name": "Our Eternal Sky",
+      "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 388453,
+      "name": "Tiangong",
+      "url": "https://open.spotify.com/track/2yImRJOeJ6r7STCWs1xfal"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 106786,
       "name": "For Millions of Years",
       "url": "https://open.spotify.com/track/4xpvd0eIYKM3SqPDK7pc7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
     },
     {
       "added_at": null,
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -640,9 +624,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Fueled Up and Headed South",
+      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 191480,
-      "name": "Fueled Up and Headed South",
-      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: PAWWS\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,747 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,770 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
 | 100 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 
-Snapshot ID: `aD/FEAAAAADbFX0+2k+1chcGtx3sFSVm`
+Snapshot ID: `AAAAAJbGvCutWuqE+YTWZJnU/n2lwOzO`

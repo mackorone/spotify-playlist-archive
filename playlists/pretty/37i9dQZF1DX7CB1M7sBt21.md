@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,437 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,459 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 66 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 67 | [Freedom](https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Freedom](https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4) | 3:18 |
 | 68 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy) | 2:33 |
-| 69 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
-| 70 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
-| 71 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
+| 69 | [Feels Right \(I Love It\)](https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Feels Right \(I Love It\)](https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH) | 2:27 |
+| 70 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
+| 71 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
 | 72 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
 | 73 | [Where Have You Been](https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 4:02 |
 | 74 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,613 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,628 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 12 | [Singel til jeg dør](https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Singel til jeg dør](https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f) | 2:22 |
 | 13 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 14 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 |
-| 15 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 |
+| 15 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
 | 16 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 |
-| 17 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
+| 17 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 |
 | 18 | [Polisen](https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Polisen](https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj) | 2:25 |
 | 19 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 |
 | 20 | [Kunna vorre vær](https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Kunna vorre vær](https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt) | 2:18 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 40 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 |
 | 41 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
 | 42 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
-| 43 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 |
-| 44 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
+| 43 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
+| 44 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 |
 | 45 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
 | 46 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
 | 47 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 61 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 62 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 63 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
-| 64 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
-| 65 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
+| 64 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 |
+| 65 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
 | 66 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 | 67 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 |
 | 68 | [En liten plass](https://open.spotify.com/track/4WPcCS7W5Fv4UzE3aDV5IU) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Langtur](https://open.spotify.com/album/1UNhDfbtYSyqjAaxodw9uy) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuracak şarkılar\. Kapak: Selin
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,010 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,027 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 35 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
 | 36 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
 | 37 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
-| 38 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 |
-| 39 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
-| 40 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 |
+| 38 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 |
+| 39 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 |
+| 40 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 41 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 |
 | 42 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
-| 43 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
+| 43 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 |
 | 44 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
-| 45 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 |
+| 45 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
 | 46 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 |
 | 47 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 |
 | 48 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 |

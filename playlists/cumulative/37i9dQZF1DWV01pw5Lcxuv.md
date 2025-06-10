@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 | 2021-05-21 |  |
+| [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 | 2021-05-21 | 2025-06-10 |
 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 | 2021-05-21 | 2024-04-19 |
 | [99 Luftballons](https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF) | 3:52 | 2021-05-21 | 2023-11-03 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2021-05-21 |  |
@@ -26,7 +26,7 @@
 | [Cama y Mesa \- Cama e Mesa](https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 2](https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK) | 3:15 | 2021-05-21 |  |
 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 | 2021-05-21 | 2024-12-04 |
 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 | 2021-05-21 |  |
-| [Celos](https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:41 | 2021-05-21 | 2025-05-17 |
+| [Celos](https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:41 | 2021-05-21 |  |
 | [Chiquitita \- Spanish Version](https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 5:33 | 2021-05-21 |  |
 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 | 2021-05-21 |  |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 | 2024-05-07 |  |

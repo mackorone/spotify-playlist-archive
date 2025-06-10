@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,267 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,268 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Entrega Total](https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC) | [Andrea Básef](https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A) | [Deseo del Tiempo](https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph) | 4:04 |
-| 2 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 |
-| 3 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
+| 2 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
+| 3 | [Frenesí](https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi) | [Big Band Jazz de México](https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c) | [Con Sabor a México](https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6) | 4:31 |
 | 4 | [Excusez\-Moi](https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 2:36 |
 | 5 | [Voy a Apagar la Luz](https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8) | [Julia Vari](https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky) | [Adoro](https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf) | 5:27 |
 | 6 | [Tu Luz](https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Nuevos Retros](https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL) | 4:08 |
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 15 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...Un Poco Más](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 |
 | 16 | [Piscis](https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:34 |
 | 17 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 |
-| 18 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |
-| 19 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
+| 18 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
+| 19 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |
 | 20 | [Activo De Guayaba](https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 6:06 |
 | 21 | [Al Son de la Marimba](https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...Un Poco Más](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 6:10 |
-| 22 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
-| 23 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
+| 22 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
+| 23 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
 | 24 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
 | 25 | [Fuego](https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF) | [Hilvana](https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG) | [Para Ser Libre](https://open.spotify.com/album/640scYqIfRaues9fUETg8p) | 3:13 |
 | 26 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 |

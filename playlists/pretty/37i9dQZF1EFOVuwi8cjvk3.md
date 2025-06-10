@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 240 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 240 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 239 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
 | 240 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbznyAAAAABJb8EoxYXG1+Zns/qXaZnK`
+Snapshot ID: `AbztXgAAAACymi4V5ejocM+OdTsDR0ab`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABc9e7m+q2Y3HazlxMx03Cf",
+  "snapshot_id": "aETSgAAAAAAMceHIRtILgFP3Tpx9rerq",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
       },
       "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 207920,
-      "name": "At First Sight",
-      "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
+      "duration_ms": 293000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
     },
     {
       "added_at": null,
@@ -199,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forse 1",
-        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
       "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 293000,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
+      "duration_ms": 207920,
+      "name": "At First Sight",
+      "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
     },
     {
       "added_at": null,
@@ -227,26 +227,6 @@
       "duration_ms": 302923,
       "name": "AMORE AMARO",
       "url": "https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "CC Pad",
-      "url": "https://open.spotify.com/track/5fQUBfDG5EZB5GcyiX8bRE"
     },
     {
       "added_at": null,
@@ -291,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avanti",
-        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 292517,
-      "name": "Perdonare",
-      "url": "https://open.spotify.com/track/5Mwkk3HnI4LV6NQiotFfqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -320,9 +284,25 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 102826,
-      "name": "Space Channel",
-      "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
+      "duration_ms": 228626,
+      "name": "CC Pad",
+      "url": "https://open.spotify.com/track/5fQUBfDG5EZB5GcyiX8bRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 292517,
+      "name": "Perdonare",
+      "url": "https://open.spotify.com/track/5Mwkk3HnI4LV6NQiotFfqc"
     },
     {
       "added_at": null,
@@ -367,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 102826,
+      "name": "Space Channel",
+      "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bushido (Alessandro Cortini Re-Work)",
         "url": "https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE"
       },
@@ -379,6 +379,46 @@
       "duration_ms": 259120,
       "name": "Bushido (Alessandro Cortini Re-Work)",
       "url": "https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 343169,
+      "name": "SABBIA",
+      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Splinter Hell",
+      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
     },
     {
       "added_at": null,
@@ -399,6 +439,22 @@
       "duration_ms": 114413,
       "name": "Interrupted By The Cloud Of Light",
       "url": "https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 447883,
+      "name": "Vincere",
+      "url": "https://open.spotify.com/track/2J1H4mInsooNYoukRPFj4l"
     },
     {
       "added_at": null,
@@ -436,41 +492,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 151106,
-      "name": "Walk with the Wolves",
-      "url": "https://open.spotify.com/track/5kqqAPXLsolWJ5lnIIejbV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 343169,
-      "name": "SABBIA",
-      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avanti",
-        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 447883,
-      "name": "Vincere",
-      "url": "https://open.spotify.com/track/2J1H4mInsooNYoukRPFj4l"
+      "duration_ms": 106866,
+      "name": "Forgotten Paths",
+      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
     },
     {
       "added_at": null,
@@ -487,6 +511,38 @@
       "duration_ms": 584000,
       "name": "Alba",
       "url": "https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 376615,
+      "name": "Perdere",
+      "url": "https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risveglio",
+        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Rispetto",
+      "url": "https://open.spotify.com/track/6vrmypztR0OUYMhwjtyphT"
     },
     {
       "added_at": null,
@@ -508,41 +564,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Splinter Hell",
-      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Risveglio",
-        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Rispetto",
-      "url": "https://open.spotify.com/track/6vrmypztR0OUYMhwjtyphT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avanti",
-        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 376615,
-      "name": "Perdere",
-      "url": "https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4"
+      "duration_ms": 151106,
+      "name": "Walk with the Wolves",
+      "url": "https://open.spotify.com/track/5kqqAPXLsolWJ5lnIIejbV"
     },
     {
       "added_at": null,
@@ -563,6 +587,42 @@
       "duration_ms": 367529,
       "name": "Immediate Horizon 2",
       "url": "https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 458393,
+      "name": "Nonfare",
+      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg"
     },
     {
       "added_at": null,
@@ -591,42 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avanti",
-        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 458393,
-      "name": "Nonfare",
-      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
@@ -639,46 +663,6 @@
       "duration_ms": 308813,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
-      },
-      "artists": [
-        {
-          "name": "Alain Johannes",
-          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Norm Block",
-          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
-        }
-      ],
-      "duration_ms": 106866,
-      "name": "Forgotten Paths",
-      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NATI INFINITI",
-        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 305749,
-      "name": "IV",
-      "url": "https://open.spotify.com/track/2d7tJaU6LaXMwntag1BD4k"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NATI INFINITI",
+        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 305749,
+      "name": "IV",
+      "url": "https://open.spotify.com/track/2d7tJaU6LaXMwntag1BD4k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Movimento",
         "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 334736,
       "name": "Virgola",
       "url": "https://open.spotify.com/track/6bp8lYy0uNUjssajzbJqfU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartless Places (AC Mix)",
-        "url": "https://open.spotify.com/album/4POuIK7eh7LKJLUWeQnxnE"
-      },
-      "artists": [
-        {
-          "name": "Kite",
-          "url": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 425426,
-      "name": "Heartless Places - AC Mix",
-      "url": "https://open.spotify.com/track/3FyGaiHmDnucWM0sKZBv55"
     },
     {
       "added_at": null,
@@ -783,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 315448,
-      "name": "BATTICUORE",
-      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Movimento",
         "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
       },
@@ -815,6 +779,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartless Places (AC Mix)",
+        "url": "https://open.spotify.com/album/4POuIK7eh7LKJLUWeQnxnE"
+      },
+      "artists": [
+        {
+          "name": "Kite",
+          "url": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 425426,
+      "name": "Heartless Places - AC Mix",
+      "url": "https://open.spotify.com/track/3FyGaiHmDnucWM0sKZBv55"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 315448,
+      "name": "BATTICUORE",
+      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forse 3",
         "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 367633,
       "name": "Conta",
       "url": "https://open.spotify.com/track/0R8ceqLCh0YHQPOfRzgDTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Spezia",
+      "url": "https://open.spotify.com/track/6pzIffWCizN2DBqEMkajpE"
     },
     {
       "added_at": null,
@@ -863,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento",
-        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
       },
       "artists": [
         {
@@ -872,25 +888,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Spezia",
-      "url": "https://open.spotify.com/track/6pzIffWCizN2DBqEMkajpE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Risveglio",
-        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 127361,
-      "name": "La Meta",
-      "url": "https://open.spotify.com/track/2ztGZ1f2NjiYY18CmI3BAN"
+      "duration_ms": 461298,
+      "name": "Quinta Emosfera",
+      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
     }
   ],
   "unique_name": "This Is Alessandro Cortini",

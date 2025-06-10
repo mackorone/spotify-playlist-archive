@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 96077,
+  "num_followers": 96097,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACc9a/tpDXjSLC59qiZc+2E",
+  "snapshot_id": "aETSgAAAAACBV3xvLz55rX6pCUlO0MQD",
   "tracks": [
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El 7 De Fontana",
         "url": "https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 147506,
       "name": "El 7 De Fontana",
       "url": "https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
     },
     {
       "added_at": null,

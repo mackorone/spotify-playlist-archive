@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,060 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,059 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 20 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 21 | [Devorame Otra Vez](https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:56 |
 | 22 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
-| 23 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
+| 23 | [Esa Muchacha](https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Esa Muchacha](https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T) | 3:57 |
 | 24 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 25 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 26 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
-| 27 | [Esa Muchacha](https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Esa Muchacha](https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T) | 3:57 |
+| 27 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
 | 28 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
 | 29 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 30 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Más](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 78 | [Culpable O No \- En Vivo](https://open.spotify.com/track/6Q53A9fvMQ2eMgP33SL18R) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:35 |
 | 79 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
 | 80 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
-| 81 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
+| 81 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
 | 82 | [Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon](https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 6:19 |
-| 83 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 |
-| 84 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
+| 83 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
+| 84 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 |
 | 85 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 86 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 87 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
-| 88 | [Susana](https://open.spotify.com/track/6mlAC07B08tW5DiGp7Il84) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Candela](https://open.spotify.com/album/1mwtfjfZmESmvHoPZvTQZU) | 4:50 |
-| 89 | [El Ombliguito \(Merengue Version\)](https://open.spotify.com/track/16cQyxcUdV9QZWIDkpQaEx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Ombliguito](https://open.spotify.com/album/0ZeSQmvlcMpVvM4zpaYJqh) | 3:58 |
+| 88 | [El Ombliguito \(Merengue Version\)](https://open.spotify.com/track/16cQyxcUdV9QZWIDkpQaEx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Ombliguito](https://open.spotify.com/album/0ZeSQmvlcMpVvM4zpaYJqh) | 3:58 |
+| 89 | [Susana](https://open.spotify.com/track/6mlAC07B08tW5DiGp7Il84) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Candela](https://open.spotify.com/album/1mwtfjfZmESmvHoPZvTQZU) | 4:50 |
 | 90 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 91 | [La Cosquillita](https://open.spotify.com/track/3srURD7HBktaD14VKzctR4) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:44 |
 | 92 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |

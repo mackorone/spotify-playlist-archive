@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring beaux 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,064 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,071 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 35 | [Vertigo](https://open.spotify.com/track/3jowQzeDQU4dIAKQg7ahXh) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/4zWfJm5YZnk7ML3mRRi0Xo) | 2:53 |
 | 36 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
 | 37 | [God Help Me Now](https://open.spotify.com/track/7s3r1vrkIKndzUmgugLO5J) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [God Help Me Now](https://open.spotify.com/album/4rXoeb8zZTmH7YOriJWRZt) | 3:36 |
-| 38 | [terabyte](https://open.spotify.com/track/7v4pVIgKXUpDP5mbSQlQcJ) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [terabyte](https://open.spotify.com/album/6T1xqrGXUHVwsgRPTcNeUn) | 4:15 |
-| 39 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
-| 40 | [missing everything](https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [missing everything](https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT) | 3:06 |
+| 38 | [missing everything](https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [missing everything](https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT) | 3:06 |
+| 39 | [terabyte](https://open.spotify.com/track/7v4pVIgKXUpDP5mbSQlQcJ) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [terabyte](https://open.spotify.com/album/6T1xqrGXUHVwsgRPTcNeUn) | 4:15 |
+| 40 | [Seeing Angels](https://open.spotify.com/track/0K4Yy5aPLsojIWJnryTb3Z) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Seeing Angels](https://open.spotify.com/album/5R6oNb4SKjejMOpzkJyfYw) | 3:33 |
 | 41 | [russian doll \- smaller](https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll \(smaller\)](https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe) | 1:01 |
 | 42 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
-| 43 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 |
-| 44 | [Body](https://open.spotify.com/track/62OHtOJ5DQ9CY8EG5Utf6q) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Body](https://open.spotify.com/album/0WTA23C5XPieRgHe9y9s5K) | 2:49 |
+| 43 | [Body](https://open.spotify.com/track/62OHtOJ5DQ9CY8EG5Utf6q) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Body](https://open.spotify.com/album/0WTA23C5XPieRgHe9y9s5K) | 2:49 |
+| 44 | [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 |
 | 45 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 |
 | 46 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 |
 | 47 | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/track/0Onrt3Z8Q1AKS1KbhtyD9I) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Pylonz \(feat\. SOFY\)](https://open.spotify.com/album/41DncHDKfjpnIUmbDMiFWb) | 3:45 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 55 | [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 |
 | 56 | [Anything/Anyone](https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [Anything/Anyone](https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU) | 2:40 |
 | 57 | [Sisyphus](https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea) | [Big Fear](https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS) | [Sisyphus](https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz) | 3:14 |
-| 58 | [YOU SUCK](https://open.spotify.com/track/1AP4ZEGsMjQmejiZRZLiXT) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [YOU SUCK](https://open.spotify.com/album/1DrreMLDkOgrQz7XwiLsOE) | 2:29 |
-| 59 | [Lucky](https://open.spotify.com/track/2ZSm9bCxkQqF5e8QNlosQQ) | [Jude Kelly](https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ) | [The Seven Spirits of Her](https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4) | 3:21 |
-| 60 | [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 |
+| 58 | [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 |
+| 59 | [YOU SUCK](https://open.spotify.com/track/1AP4ZEGsMjQmejiZRZLiXT) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [YOU SUCK](https://open.spotify.com/album/1DrreMLDkOgrQz7XwiLsOE) | 2:29 |
+| 60 | [Lucky](https://open.spotify.com/track/2ZSm9bCxkQqF5e8QNlosQQ) | [Jude Kelly](https://open.spotify.com/artist/0xHZwRejbMwSEfDZNnyviZ) | [The Seven Spirits of Her](https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4) | 3:21 |
 | 61 | [chamomile](https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH) | [brand new legs](https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa) | [chamomile](https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd) | 2:39 |
 | 62 | [Imposter](https://open.spotify.com/track/1OYOObc7WZnhkhvNgfrB2M) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:33 |
 | 63 | [waiting on time](https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [waiting on time](https://open.spotify.com/album/2lQ6Hw5q0iSeevnOTyppqL) | 3:06 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 67 | [Easy on My Little Heart](https://open.spotify.com/track/3TR90HQoCo1riKefUOeBAv) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Easy on My Little Heart](https://open.spotify.com/album/6NAo4g4qh1iXDR9fNBUi3a) | 2:16 |
 | 68 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 |
 | 69 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 |
-| 70 | [Made It Happen](https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [Made It Happen](https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG) | 3:59 |
-| 71 | [Feeling It All](https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Feeling It All](https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28) | 3:20 |
+| 70 | [Feeling It All](https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Feeling It All](https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28) | 3:20 |
+| 71 | [Made It Happen](https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [Made It Happen](https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG) | 3:59 |
 | 72 | [Goddess of Orange County](https://open.spotify.com/track/2Y9gBBwbBY9xaKwy5R9flF) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [Goddess of Orange County](https://open.spotify.com/album/4KPopbGh67fe3g6S7MPKCx) | 2:54 |
 | 73 | [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 |
 | 74 | [Secret Garden](https://open.spotify.com/track/61WmkXkc4GLLnrq6npOmPP) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Secret Garden](https://open.spotify.com/album/39eyEARANqCAq59mwRdT4K) | 5:19 |

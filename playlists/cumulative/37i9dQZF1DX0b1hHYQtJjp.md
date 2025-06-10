@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Teddy Swims
 
-2,103 songs - 4 day 19 hr 53 min
+2,104 songs - 4 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 | 2025-02-08 |
 | [Crocodile Tears](https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Crocodile Tears](https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J) | 3:23 | 2024-11-01 | 2024-11-30 |
 | [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 | 2022-06-17 | 2022-10-08 |
-| [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 | 2025-05-23 |  |
+| [Cruel](https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama Deluxe \(The Encore!\)](https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql) | 2:20 | 2025-05-23 | 2025-06-10 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-04 | 2024-01-27 |
 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 | 2024-02-16 | 2024-03-09 |
 | [Cry About It Later](https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw) | 3:09 | 2020-08-30 | 2020-09-18 |
@@ -1835,6 +1835,7 @@
 | [This Year](https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 3:14 | 2023-12-22 | 2024-01-27 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-04-28 | 2023-06-24 |
 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 | 2024-01-05 | 2024-02-24 |
+| [Thought It Was Love](https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:06 | 2025-06-09 |  |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2019-06-07 | 2019-06-14 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 | 2023-06-10 |
 | [Three Six Five](https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:40 | 2025-01-24 | 2025-02-15 |

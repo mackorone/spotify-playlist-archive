@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,443 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,481 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 73 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
 | 74 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
 | 75 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
-| 76 | [Body](https://open.spotify.com/track/656neoAxvwrA9812K99kTO) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Body](https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J) | 2:27 |
-| 77 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
+| 76 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
+| 77 | [Body](https://open.spotify.com/track/656neoAxvwrA9812K99kTO) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Body](https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J) | 2:27 |
 | 78 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
 | 79 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 | 80 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |

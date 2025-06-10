@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84257,
+  "num_followers": 84264,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAA9NRpVZ61CVGVFNnh5Njz/",
+  "snapshot_id": "aETSgAAAAABGN8yVvemXsJyo+y0n4auh",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Extrav\u00edate",
-      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amar No Es Suficiente",
         "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 229011,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+      "duration_ms": 189400,
+      "name": "Extrav\u00edate",
+      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 229011,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 254053,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
+      "duration_ms": 207986,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 207986,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2AFErQfld6eq7aAovPzzeV"
+      "duration_ms": 254053,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
     },
     {
       "added_at": null,

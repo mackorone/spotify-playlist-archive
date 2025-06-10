@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-115 songs - 7 hr 17 min
+118 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A long dream \(Full Ver.\)](https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi) | [ThorThor](https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V) | [Zombie daughter \(Original Soundtrack\) : A long dream](https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd) | 3:33 | 2023-11-03 | 2025-05-27 |
 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 | 2025-04-21 |  |
 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2023-11-03 |  |
-| [Absence](https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [Absence](https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9) | 3:16 | 2024-03-08 |  |
+| [Absence](https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [Absence](https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9) | 3:16 | 2024-03-08 | 2025-06-10 |
 | [Always Here](https://open.spotify.com/track/1bpA1qiYGJC4APWStEK15Z) | [HYUN JI](https://open.spotify.com/artist/7GE6yEpYcaLM3nRJ2P4MXR) | [Always Here](https://open.spotify.com/album/5VxZmHbOyCDWCqNu1we5li) | 3:12 | 2025-05-19 | 2025-05-27 |
 | [Answer \(stripped\)](https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Answer \(stripped\)](https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke) | 3:02 | 2023-11-03 | 2024-04-19 |
 | [Bad \(feat\. Ji ahn\)](https://open.spotify.com/track/17NkIhmtTSLJe36c4avYpd) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn), [Ji ahn](https://open.spotify.com/artist/7p5TxIRVe3keYFDbXp5frm) | [illusion](https://open.spotify.com/album/2maGAQ0vI0etyfBhxDd7oq) | 2:36 | 2024-08-13 | 2024-12-23 |
@@ -23,6 +23,7 @@
 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 | 2023-11-03 | 2025-02-11 |
 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 | 2024-08-13 | 2025-04-15 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-11-03 |  |
+| [Dear love](https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:42 | 2025-06-09 |  |
 | [Dear my dear](https://open.spotify.com/track/6R8sp9YDH1h7Gn65wnaHaY) | [younglong](https://open.spotify.com/artist/2EVjbOwYN7OgFkQZzGvjUQ) | [Recognize me](https://open.spotify.com/album/6bB3FCpNTIHdvZlGEATAG7) | 2:49 | 2025-05-19 | 2025-06-03 |
 | [Dear my little angel](https://open.spotify.com/track/1JM20oravW0HjvBY2PYXEd) | [Jaebin](https://open.spotify.com/artist/04zJcW6as75Xbr17YKKSNE) | [Dear my little angel](https://open.spotify.com/album/2QnromVlzLTGsuVmaQEsTA) | 3:00 | 2025-05-12 | 2025-05-20 |
 | [dearmybaby \(with Kim Boo Kyung\)](https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Kim Boo Kyung](https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd) | [dearmybaby](https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW) | 4:09 | 2024-03-08 | 2025-04-14 |
@@ -74,7 +75,8 @@
 | [love letter](https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs) | [RYU MIN HEE](https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg) | [love letter](https://open.spotify.com/album/2MAYUIIxX2LI0eL7VsETMW) | 3:17 | 2024-03-08 | 2025-04-09 |
 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/6cmdeeOEeyZG9YaJ1WRhnJ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [A Day](https://open.spotify.com/album/23anuZwn9s0ezFWgmywqL9) | 3:19 | 2023-11-03 |  |
-| [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 | 2024-03-08 |  |
+| [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 | 2024-03-08 | 2025-06-10 |
+| [melody of LOVE](https://open.spotify.com/track/0IeMvdtKd6FgEWgVFdtQQm) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [melody of LOVE](https://open.spotify.com/album/0ckTN1RbF46tC87PLSM4vh) | 4:14 | 2025-06-09 |  |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2023-11-03 | 2024-06-01 |
 | [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 | 2023-11-03 | 2024-07-30 |
 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2024-03-08 |  |
@@ -102,11 +104,12 @@
 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 | 2024-03-08 |  |
 | [The Lover](https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Lover](https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il) | 3:05 | 2023-11-03 | 2024-04-19 |
 | [The Night Time \(stripped\)](https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB) | 3:22 | 2023-11-03 | 2024-04-19 |
-| [The Night Time \(stripped\)](https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/65GDFnpQfc5tPaRVrelMM6) | 3:22 | 2024-11-29 |  |
+| [The Night Time \(stripped\)](https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/65GDFnpQfc5tPaRVrelMM6) | 3:22 | 2024-11-29 | 2025-06-10 |
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-15 |  |
 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 | 2025-05-26 |  |
 | [To My Beloved](https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [To My Beloved](https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn) | 3:16 | 2025-05-12 |  |
 | [universe](https://open.spotify.com/track/60uVTCslbHChF3XLXn8st9) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [I dreamed we were going on a trip](https://open.spotify.com/album/2aQHNxvWJZOQUrqz8UR3cb) | 3:23 | 2025-04-28 |  |
+| [Weightlessness](https://open.spotify.com/track/2vdg3cq8FmacYCLcO4z1M7) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Greetings](https://open.spotify.com/album/4Gfzcz5EqJpZvkAwEsMSgJ) | 2:54 | 2025-06-09 |  |
 | [When love passes by](https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 4:00 | 2023-11-03 |  |
 | [Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 | 2023-11-03 | 2024-04-19 |
 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 | 2023-11-03 |  |

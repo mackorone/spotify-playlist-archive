@@ -2,9 +2,9 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רון חיון
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: נדב חנציס
 
-139 songs - 7 hr 24 min
+141 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-17 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-31 |  |
 | [BA DA BING](https://open.spotify.com/track/0WAMFZu9JKJ4HN3dzzPUgI) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [BA DA BING](https://open.spotify.com/album/5UxGQi98FToYbLqzjNDtpz) | 2:11 | 2024-09-09 | 2024-11-26 |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-06-09 |  |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-01 | 2024-10-15 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 | 2025-03-18 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2025-06-04 |
@@ -68,7 +69,7 @@
 | [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-08-05 |  |
 | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [את לא יודעת כמה שאני אוהב אותך](https://open.spotify.com/album/5oVtGh11SKW9cnaltFyxaW) | 3:22 | 2024-12-09 |  |
 | [אתה אני אולי](https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אתה אני אולי](https://open.spotify.com/album/7CYBMe7sZn9IiXVEMGPVv0) | 3:18 | 2024-12-16 | 2025-02-11 |
-| [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-07-01 |  |
+| [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-07-01 | 2025-06-10 |
 | [בגלגול הבא](https://open.spotify.com/track/1b8Zi0VlYH3M7eeXQZ7APz) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בגלגול הבא](https://open.spotify.com/album/0GZd3y2xiKoHiTtOhItUzs) | 2:41 | 2024-07-01 | 2024-08-20 |
 | [בואי נדבר](https://open.spotify.com/track/3IiaTxdKgDe9NvmosLM8bM) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [בואי נדבר](https://open.spotify.com/album/75MDW0r1GEJ8G5WNgldzoo) | 2:52 | 2024-07-01 | 2024-08-20 |
 | [בוקר טוב חיים שלי](https://open.spotify.com/track/4WbQaxKI0R0SmWNZvgUDNz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:08 | 2025-01-13 | 2025-04-29 |
@@ -94,6 +95,7 @@
 | [לא להמציא](https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP) | [דודא](https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do) | [שקוף](https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ) | 3:47 | 2025-04-14 |  |
 | [לא לפנות אליי](https://open.spotify.com/track/42jtELiUhOQ9hiWjPyV0ih) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [לא לפנות אליי](https://open.spotify.com/album/3ThuGcYgtumB29FDqbJsmA) | 2:46 | 2025-01-20 |  |
 | [לאבא שלי יש סולם](https://open.spotify.com/track/4wynpm7WtwueimncaeNp6I) | [ותן חלקנו](https://open.spotify.com/artist/6Odeor35vCn3mr7VIiqIiq), [Amir Benayoun](https://open.spotify.com/artist/4wIMqGM5IPTDNFLUGxvWkK), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [לאבא שלי יש סולם](https://open.spotify.com/album/76ohIksFNoUs7r3s4IbBeh) | 3:44 | 2024-11-25 | 2025-02-04 |
+| [לונדון דובאי](https://open.spotify.com/track/50Or7niXp29xwKc8F9pLQA) | [קפליו](https://open.spotify.com/artist/3VuWsPcmmKII5uuScFkxbj) | [לונדון דובאי](https://open.spotify.com/album/5ut8VdL35kmFeAApF0IsQy) | 2:15 | 2025-06-09 |  |
 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 | 2024-09-23 |  |
 | [לילה טוב](https://open.spotify.com/track/0xEyCZ6cQg3apftD06KVaA) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [לילה טוב](https://open.spotify.com/album/7cLpPcxx3Nh8FsHLTZHdWU) | 2:29 | 2024-09-09 | 2024-09-24 |
 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 | 2024-07-01 | 2025-04-08 |
@@ -115,7 +117,7 @@
 | [נרקומן של בדידות](https://open.spotify.com/track/37ZPaitKESRLXRkjrvJVTb) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:17 | 2024-11-18 |  |
 | [נתראה בגלגול הבא](https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נתראה בגלגול הבא](https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9) | 2:45 | 2024-07-01 | 2024-07-23 |
 | [סוף סוף אני](https://open.spotify.com/track/04BEjO8G5HQM24fAvAv1cR) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סוף סוף אני](https://open.spotify.com/album/7bpBR9H0jZOBjuq54pHfdE) | 3:45 | 2024-11-25 | 2024-12-10 |
-| [סופרמן](https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/4PcXH3yBhSLIYupPPOyRQ8) | 4:48 | 2025-01-07 |  |
+| [סופרמן](https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/4PcXH3yBhSLIYupPPOyRQ8) | 4:48 | 2025-01-07 | 2025-06-10 |
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2024-07-01 | 2024-09-10 |
 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 | 2025-03-10 |  |
 | [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-22 |  |

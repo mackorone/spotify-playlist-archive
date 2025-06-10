@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,728 likes - 95 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,808 likes - 95 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 94 | [Harmonic Waters](https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Harmonic Waters](https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob) | 2:22 |
 | 95 | [Whispering Fog](https://open.spotify.com/track/6gU7dNGfircSeDLivN19cJ) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Whispering Fog](https://open.spotify.com/album/62GfzRZBhEGX05mFDbsKa3) | 3:10 |
 
-Snapshot ID: `aCcxNwAAAABcvzU2ZIyNxP+2loa63fA8`
+Snapshot ID: `AAAAAOSvnB+L7ITm3ZNIUxC/yeqSs9Th`

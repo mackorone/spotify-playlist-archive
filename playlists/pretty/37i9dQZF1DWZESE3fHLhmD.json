@@ -1,6 +1,6 @@
 {
   "description": "Songs, die deine Sehnsucht nach dem Sommer teilen.",
-  "num_followers": 1335675,
+  "num_followers": 1335625,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-06-02 12:18:01",
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 74378,
-      "name": "misses",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
-    },
-    {
-      "added_at": "2025-06-02 12:18:01",
-      "album": {
         "name": "Euphories",
         "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 222280,
       "name": "Roi",
       "url": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
+    },
+    {
+      "added_at": "2025-06-02 12:18:01",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
       "added_at": "2025-06-02 12:18:01",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-06-02 12:18:01",
       "album": {
-        "name": "something to remember",
-        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 162224,
-      "name": "something to remember",
-      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
-      "added_at": "2025-06-02 12:18:01",
-      "album": {
         "name": "Wenn das Liebe ist",
         "url": "https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-06-02 12:18:01",
       "album": {
+        "name": "something to remember",
+        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 162224,
+      "name": "something to remember",
+      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "added_at": "2025-06-02 12:18:01",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
@@ -759,30 +759,6 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
-    },
-    {
-      "added_at": "2025-06-02 12:18:01",
-      "album": {
-        "name": "daf\u00fcr bin ich frei EP",
-        "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        },
-        {
-          "name": "Drumla",
-          "url": "https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9"
-        },
-        {
-          "name": "Dauner",
-          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
-        }
-      ],
-      "duration_ms": 135082,
-      "name": "eehhhyyy",
-      "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
     },
     {
       "added_at": "2025-06-02 12:18:01",
@@ -823,6 +799,30 @@
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+    },
+    {
+      "added_at": "2025-06-02 12:18:01",
+      "album": {
+        "name": "daf\u00fcr bin ich frei EP",
+        "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Drumla",
+          "url": "https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "duration_ms": 135082,
+      "name": "eehhhyyy",
+      "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
     },
     {
       "added_at": "2025-06-02 12:18:01",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-02 12:18:01",
       "album": {
-        "name": "Safety Net",
-        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 203621,
-      "name": "Safety Net",
-      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
-    },
-    {
-      "added_at": "2025-06-02 12:18:01",
-      "album": {
         "name": "Sunroof (Remixes)",
         "url": "https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/6WHSNH8PhDHbpYxg4I181o"
+    },
+    {
+      "added_at": "2025-06-02 12:18:01",
+      "album": {
+        "name": "Safety Net",
+        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 203621,
+      "name": "Safety Net",
+      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
     },
     {
       "added_at": "2025-06-02 12:18:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-02 12:18:01",
       "album": {
-        "name": "wundersch\u00f6n",
-        "url": "https://open.spotify.com/album/4S6wMQKfcUq1hCj1wt7FVV"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 164487,
-      "name": "wundersch\u00f6n",
-      "url": "https://open.spotify.com/track/2Bi7IhhjS7ZgzSe7FMaHs1"
-    },
-    {
-      "added_at": "2025-06-02 12:18:01",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2025-06-02 12:18:01",
+      "album": {
+        "name": "wundersch\u00f6n",
+        "url": "https://open.spotify.com/album/4S6wMQKfcUq1hCj1wt7FVV"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "duration_ms": 164487,
+      "name": "wundersch\u00f6n",
+      "url": "https://open.spotify.com/track/2Bi7IhhjS7ZgzSe7FMaHs1"
     },
     {
       "added_at": "2025-06-02 12:18:01",

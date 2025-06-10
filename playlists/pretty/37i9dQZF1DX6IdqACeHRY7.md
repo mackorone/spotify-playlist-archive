@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,904 likes - 114 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,909 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 64 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
 | 65 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 66 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
-| 67 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
-| 68 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 |
+| 67 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 |
+| 68 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
 | 69 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 | 70 | [Nervous \(The Ooh Song\) \- Mark McCabe Remix](https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Nervous \(The Ooh Song\) \[Mark McCabe Remix\]](https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux) | 3:15 |
 | 71 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 93 | [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 |
 | 94 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
 | 95 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
-| 96 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
-| 97 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
+| 96 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
+| 97 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 | 98 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 99 | [A Little More](https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [A Little More](https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx) | 2:24 |
 | 100 | [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 |
@@ -121,6 +121,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 111 | [Fin Regn](https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Fin Regn](https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6) | 3:21 |
 | 112 | [Feathers & Gasoline](https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Soulprints](https://open.spotify.com/album/0qovTAXnJUCwDspFQfT5k1) | 3:57 |
 | 113 | [Say Goodnight](https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Say Goodnight](https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor) | 2:46 |
-| 114 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
+| 114 | [So Last Year](https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [So Last Year](https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2) | 3:25 |
 
 Snapshot ID: `aDBWFgAAAADokkHXkNZuMrVuTHtKg2RY`

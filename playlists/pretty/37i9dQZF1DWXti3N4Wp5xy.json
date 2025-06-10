@@ -1,6 +1,6 @@
 {
   "description": "A perfect little pop party. ",
-  "num_followers": 750441,
+  "num_followers": 750535,
   "original_name": "Pop Party",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
         "name": "Hands All Over (Revised International Standard version)",
         "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 201493,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
-        "name": "Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 212733,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
         "name": "Roses (Imanbek Remix)",
         "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
       },
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
-        "name": "Pink Friday ... Roman Reloaded",
-        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -1859,26 +1859,6 @@
       "duration_ms": 191937,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Cheap Thrills (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -1899,6 +1879,26 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Cheap Thrills (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -2547,6 +2547,22 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
+    },
+    {
+      "added_at": "2025-04-18 16:56:29",
+      "album": {
         "name": "Insomniatic",
         "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
       },
@@ -2559,22 +2575,6 @@
       "duration_ms": 219773,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
-    },
-    {
-      "added_at": "2025-04-18 16:56:29",
-      "album": {
-        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
-        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": "2025-04-18 16:56:29",
@@ -2595,18 +2595,18 @@
     {
       "added_at": "2025-04-18 16:56:29",
       "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
+        "name": "Pink Friday ... Roman Reloaded (Deluxe)",
+        "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 217973,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
     },
     {
       "added_at": "2025-04-18 16:56:29",

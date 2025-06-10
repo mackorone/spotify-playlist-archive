@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,574 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,568 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 46 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
 | 47 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
 | 48 | [Bangkok Bandit](https://open.spotify.com/track/4E16iJzoICPLMfodgAjdJU) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2) | [Bangkok Bandit](https://open.spotify.com/album/47uADhvQMn8n1VxS9cbV16) | 2:38 |
-| 49 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
-| 50 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
+| 49 | [Red Flags](https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Red Flags](https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs) | 2:47 |
+| 50 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
 | 51 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
 | 52 | [No Hook](https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [No Hook](https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz) | 2:19 |
 | 53 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
-| 54 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
-| 55 | [Red Flags](https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Red Flags](https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs) | 2:47 |
+| 54 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
+| 55 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
 | 56 | [Less Is More](https://open.spotify.com/track/677M1x0HytsRU50w3UzOIP) | [arlo](https://open.spotify.com/artist/39mn3aEEL7eslRCyv20n2V) | [Hustle Tax](https://open.spotify.com/album/4U04Twl0oNr4EMSL8uhAkm) | 1:52 |
 | 57 | [DPMO](https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ) | [Equation Billionz](https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL) | [DPMO](https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY) | 2:27 |
 | 58 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |

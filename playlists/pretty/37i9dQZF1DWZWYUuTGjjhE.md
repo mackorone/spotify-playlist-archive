@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,953 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,963 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 24 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
 | 25 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 |
 | 26 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
-| 27 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 28 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
+| 27 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
+| 28 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 29 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
 | 30 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 31 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |

@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "Answer Love",
       "url": "https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 163125,
       "name": "Dragon Warrior",
       "url": "https://open.spotify.com/track/4xXAjY0xHfXFtJwYSUIOLX"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 121547,
       "name": "Gardens of Suzhou",
       "url": "https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 169714,
       "name": "Journey",
       "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
@@ -2926,6 +2926,24 @@
       "duration_ms": 139107,
       "name": "Koto Memories",
       "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
+    },
+    {
+      "album": {
+        "name": "Gaijin",
+        "url": "https://open.spotify.com/album/3Mz0drsWHgVg5zTm60ncdl"
+      },
+      "artists": [
+        {
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313333,
+      "name": "Land of the Samurai",
+      "url": "https://open.spotify.com/track/5ZGHtzC1oawmCYAHXYQoNK"
     },
     {
       "album": {
@@ -4900,7 +4918,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 198000,
       "name": "Shukumei",
       "url": "https://open.spotify.com/track/5Yh6bCE7FhGAXpa1cLhIc3"
@@ -5860,7 +5878,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 200597,
       "name": "Tsunagari",
       "url": "https://open.spotify.com/track/7p2OkGvpSOvzMfJECWu5NA"
@@ -6400,6 +6418,24 @@
       "duration_ms": 139650,
       "name": "Yakamoz",
       "url": "https://open.spotify.com/track/5dhK3ux1ocYcxICMKtUwg1"
+    },
+    {
+      "album": {
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
+      },
+      "artists": [
+        {
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "album": {

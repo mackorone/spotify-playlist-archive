@@ -29057,6 +29057,24 @@
     },
     {
       "album": {
+        "name": "Could Be Love (Rachel's Version)",
+        "url": "https://open.spotify.com/album/6F224NBaoRAFWG3Sq5xmzk"
+      },
+      "artists": [
+        {
+          "name": "Poolhouse",
+          "url": "https://open.spotify.com/artist/39xTxKuPXu1TfS06onbNVK"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "Could Be Love - Rachel's Version",
+      "url": "https://open.spotify.com/track/2vVYNiAWgelj3StUvHvP5m"
+    },
+    {
+      "album": {
         "name": "Could We, Canvey",
         "url": "https://open.spotify.com/album/2G9fmoZyrM6lQM7qfI8ruH"
       },
@@ -107934,7 +107952,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 198440,
       "name": "Psychosis Is Just a Number",
       "url": "https://open.spotify.com/track/4tp82F1ovK0ethVESk2DUs"

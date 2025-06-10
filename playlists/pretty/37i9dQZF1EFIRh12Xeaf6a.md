@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 99 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 |
 | 100 | [After All This Time](https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:10 |
 | 101 | [My My She Cries](https://open.spotify.com/track/5JYRYD8ya0yaE4p6oqjXH1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:19 |
-| 102 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
-| 103 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
+| 102 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
+| 103 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
 | 104 | [You Go Your Way, I'll Go Mine](https://open.spotify.com/track/3H62Xhas83DoIXeSMqV26y) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:32 |
 | 105 | [What Am I Gonna Do](https://open.spotify.com/track/537pMB75IKiJLEZ98NoiI2) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [What Am I Gonna Do](https://open.spotify.com/album/7sG38JyCrAWsdKwsPRTdvr) | 2:09 |
 | 106 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Abzn0gAAAAAQ3mzsEZZTNa4c1hFSHIkL`
+Snapshot ID: `AbztaAAAAAD9N4AFNhkfsBjFrBJFa1ou`

@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: WOODZ\)
 
-328 songs - 21 hr 24 min
+330 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,10 +317,12 @@
 | [스토커 Stalker](https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 4:12 | 2022-02-17 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-02-17 |  |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2023-02-16 | 2024-04-19 |
+| [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-06-09 |  |
 | [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/7xVv6k2kG3kdd73MviMEkf) | [Kim Jin Woo](https://open.spotify.com/artist/1OUbmI4hf9CIRtGXvMoIRq) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3wR4lKlc830w1hPIQIzcVG) | 3:45 | 2023-02-16 | 2024-04-19 |
 | [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/470wF4yeCAUWFJyRyclq4g) | [Kim JinWoo](https://open.spotify.com/artist/2OPVaLymaCYX4lPpnmg6DU) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3m8iMa9b0AMilQJ16EbnoU) | 3:45 | 2022-02-17 |  |
 | [안녕](https://open.spotify.com/track/5QoAukinX7qSw9iWeKdvsQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\)](https://open.spotify.com/album/4XPWLocfmwWF1Kx3J8qYZp) | 3:45 | 2022-02-23 | 2022-11-13 |
 | [안녕](https://open.spotify.com/track/7sZwWzSeCtGYo5ZQcWRLlJ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\) Pt.10](https://open.spotify.com/album/4tW3kGnzsPIvpWOzgIew2A) | 3:45 | 2022-02-23 | 2024-04-19 |
+| [연](https://open.spotify.com/track/2h7nwPmQ8FmPdCy4wE8wPb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [For The People](https://open.spotify.com/album/1RyW16XaiI6703wIs8kKBn) | 4:55 | 2025-06-09 |  |
 | [오래된 노래](https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Shine](https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe) | 4:32 | 2022-02-17 |  |
 | [우리 왜 헤어져야 해](https://open.spotify.com/track/1ZNz6s0I6XIy4HSWTz8n7n) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [우리 왜 헤어져야 해](https://open.spotify.com/album/6kVU7bkf0nUWmp7gzMtJJc) | 4:07 | 2022-02-23 | 2024-04-19 |
 | [응급실](https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:46 | 2022-02-17 |  |

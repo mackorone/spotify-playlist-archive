@@ -2,9 +2,9 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Buddy Guy
+> Melodies of the movement\. Cover: Sly Stone
 
-116 songs - 9 hr 40 min
+117 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dreams](https://open.spotify.com/track/3eOzQDN7CQLo2MJYehbraw) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [The Voice of Langston Hughes](https://open.spotify.com/album/47svgVhdLaB00HOKFc4Bo8) | 0:57 | 2021-04-16 | 2024-02-02 |
 | [Eulogy for Jackie Robinson \(Steal Away\) \(Piano\) \- /Steal Away Piano](https://open.spotify.com/track/0Y2zOANQhrwsYmoEpwdEvw) | [Rev\. Jesse Jackson](https://open.spotify.com/artist/6ncDkEf2tfA2wJ3X2g9unp) | [Baseball A Film By Ken Burns \- Original Soundtrack Recording](https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua) | 2:10 | 2021-04-16 | 2024-02-02 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5fxuaUVBweczm8SNnd2Ink) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 3:59 | 2025-03-10 | 2025-05-08 |
+| [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 | 2025-06-09 |  |
 | [Favorite Music](https://open.spotify.com/track/4yixpYyPIqaEI0I44u2Ljl) | [Dick Gregory](https://open.spotify.com/artist/4ny5u89tQVgw6OmFkj454M) | [You Don't Know Dick](https://open.spotify.com/album/6BMaVNyFWCN9XpimvvQrys) | 7:09 | 2021-04-16 | 2024-02-02 |
 | [Fight The Power](https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Fear Of A Black Planet](https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz) | 4:42 | 2021-04-16 |  |
 | [Final Speech \- April 3, 1968](https://open.spotify.com/track/0cFaicjXJhmqSYc49Ao2ik) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [I Have a Dream](https://open.spotify.com/album/7iehzqjey1lzABiVuRdOkp) | 1:09 | 2021-04-16 | 2024-02-02 |
@@ -92,7 +93,7 @@
 | [Still I Rise](https://open.spotify.com/track/3J9NZT8U0uyRd8ZYNCkOAq) | [Dr\. Maya Angelou](https://open.spotify.com/artist/0NmNdh2bUgGrrIbj5Ar8GQ) | [The Civil War : The Complete Work](https://open.spotify.com/album/3shDCBNvoYpBwIzBkx0XAK) | 0:57 | 2021-04-16 | 2024-02-02 |
 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 | 2024-02-01 |  |
 | [Strength Courage & Wisdom](https://open.spotify.com/track/2kIZPLtqtmDh3dX6HuAfD0) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 4:57 | 2024-02-01 |  |
-| [Sweet Black Angel \(Black Angel Blues\) \- Live](https://open.spotify.com/track/1QJv2dfo7kIWMzpsREfvhn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:49 | 2025-05-07 |  |
+| [Sweet Black Angel \(Black Angel Blues\) \- Live](https://open.spotify.com/track/1QJv2dfo7kIWMzpsREfvhn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:49 | 2025-05-07 | 2025-06-10 |
 | [Take My Hand, Precious Lord](https://open.spotify.com/track/2BPMz5V0g0uw9phgqjY7se) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [The Essential Mahalia Jackson](https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N) | 4:12 | 2021-04-16 | 2025-02-01 |
 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 | 2024-02-01 |  |
 | [The American Dream](https://open.spotify.com/track/3ZRKkzNKTR6cGbXOP0vxlM) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [The Best Of The Speeches](https://open.spotify.com/album/35TEWxAZnVNmZ20PHaV7Up) | 30:54 | 2021-04-16 | 2024-02-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2024\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,079 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 7 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |
 | 8 | [Si Ce Daca](https://open.spotify.com/track/79UyYeS0ESQG4MOoOhYjra) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Si Ce Daca](https://open.spotify.com/album/13zBv87bnGgVwGAt51FAXY) | 3:15 |
 | 9 | [Queen Of My Castle](https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen Of My Castle](https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9) | 2:36 |
-| 10 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
+| 10 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
 | 11 | [Interstelar](https://open.spotify.com/track/47FliwS0uRIa1og7hGQ4qr) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Interstelar](https://open.spotify.com/album/1JxU3Pwk7xChPqatRjbGX0) | 3:22 |
 | 12 | [Pastila de somn](https://open.spotify.com/track/7Gg4loHV3Q4D3Dp585tY4i) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Pastila de somn](https://open.spotify.com/album/3Xr5ZoQfFCihp6PwCEn7OK) | 2:35 |
 | 13 | [Roșu nuclear](https://open.spotify.com/track/2AMOK3ZRupIVD0NNKd8fLg) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Roșu nuclear](https://open.spotify.com/album/6wHZ8Mkj52kWsMWV0cJ6XT) | 2:35 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 33 | [Saruta\-ma](https://open.spotify.com/track/6YS3SfDm9FAl6SW43DyTVw) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Saruta\-ma](https://open.spotify.com/album/0A0TLiVUpcifgzV2W54ej1) | 2:25 |
 | 34 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
 | 35 | [Buzele tale](https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Buzele tale](https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT) | 2:44 |
-| 36 | [Culoarea ta](https://open.spotify.com/track/4fblpPuUuzhn9FnUGESyIq) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Culoarea ta](https://open.spotify.com/album/0dn3wdwGfcJ6z2uX3Fp58Y) | 3:06 |
+| 36 | [Culoarea ta](https://open.spotify.com/track/4fblpPuUuzhn9FnUGESyIq) | [Smiley](https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q) | [Culoarea ta](https://open.spotify.com/album/0dn3wdwGfcJ6z2uX3Fp58Y) | 3:06 |
 | 37 | [Să Fii Tu](https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Să Fii Tu](https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X) | 3:20 |
 | 38 | [Apă și Pământ](https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Apă și Pământ](https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG) | 2:40 |
 | 39 | [Peste mari \(si mai departe\)](https://open.spotify.com/track/01Zep4W0cA2H0WvjzyhX9Q) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Peste mari \(si mai departe\)](https://open.spotify.com/album/0r4Ncf8WFJ9iPQn2tazCIW) | 2:56 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 41 | [CUM MĂ](https://open.spotify.com/track/454Y2Qn0uOBIHgJvl2vN9f) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [RADICAL DIN NOI](https://open.spotify.com/album/4BguA6kGPMtSFzApSU4oUI) | 2:40 |
 | 42 | [Ileană, Ileană](https://open.spotify.com/track/7JOpjhwH4T8vobkhwygmMw) | [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Ileană, Ileană](https://open.spotify.com/album/5W3DHL9XELsn944IcTvtzK) | 2:14 |
 | 43 | [Pe Repeat](https://open.spotify.com/track/6hSSAvIz88joRoZjgtVClV) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Pe Repeat](https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz) | 2:48 |
-| 44 | [Departe de apus](https://open.spotify.com/track/4LONHXbeR9WLZ0URReIOXc) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Departe de apus](https://open.spotify.com/album/3bdLF226G1O6wkx8M5oggf) | 3:21 |
+| 44 | [Departe de apus](https://open.spotify.com/track/4LONHXbeR9WLZ0URReIOXc) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Smiley](https://open.spotify.com/artist/4PpqdMqFYs85Xc2ldMMh6Q), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Departe de apus](https://open.spotify.com/album/3bdLF226G1O6wkx8M5oggf) | 3:21 |
 | 45 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 |
 | 46 | [UNDEVA](https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [UNDEVA](https://open.spotify.com/album/06pEYOIeKPAxKPbJkhWSJj) | 1:58 |
 | 47 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 |

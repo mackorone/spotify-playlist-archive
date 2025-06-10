@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,516 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,522 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 13 | [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 |
 | 14 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 |
 | 15 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
-| 16 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 |
-| 17 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 |
+| 16 | [Already Best Friends \(feat\. Chris Brown\)](https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:17 |
+| 17 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 |
 | 18 | [I WANNA SEE SOME ASS \(feat\. jetsonmade\)](https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:05 |
 | 19 | [Nail Tech](https://open.spotify.com/track/3ioJs8DQw527GmqJIp5gZG) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:26 |
 | 20 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [HEAVY HITTER](https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:27 |
 | 50 | [DRIP DROP \(feat\. Cyhi The Prynce\)](https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 3:23 |
 
-Snapshot ID: `aEOBAAAAAAAmtT5eAbV9RquhIiuWKVrZ`
+Snapshot ID: `aETSgAAAAACwDkRD3rHhkp6dstGrhCOe`

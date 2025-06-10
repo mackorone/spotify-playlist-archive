@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,018 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,032 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 18 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 |
 | 19 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 |
 | 20 | [I'll Play The Blues For You \(Live\)](https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 6:14 |
-| 21 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 |
-| 22 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 |
+| 21 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 |
+| 22 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 |
 | 23 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
 | 24 | [Train \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:57 |
 | 25 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 36 | [One Less Cross to Bear \- Live Version](https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at Radio City Music Hall](https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di) | 5:38 |
 | 37 | [When Will I Let Her Go](https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:06 |
 | 38 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 |
-| 39 | [One of these Days](https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 5:40 |
-| 40 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
+| 39 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
+| 40 | [One of these Days](https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 5:40 |
 | 41 | [I'll Take Care of You](https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Beacon Theatre \- Live from New York](https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN) | 5:41 |
 | 42 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 |
 | 43 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 49 | [Ball Peen Hammer](https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:27 |
 | 50 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 |
 
-Snapshot ID: `aEOBAAAAAACdTd+uNdpqMf9Mbg4daBDg`
+Snapshot ID: `aETSgAAAAACsyp9tAjzmZcWWD3J/emic`

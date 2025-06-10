@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,391 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,432 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,18 +52,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 42 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
 | 43 | [Your House](https://open.spotify.com/track/2UBFZaEkeLqEheRGZDccm7) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:47 |
 | 44 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 |
-| 45 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |
-| 46 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
+| 45 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
+| 46 | [Back Door](https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Back Door](https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ) | 4:08 |
 | 47 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
 | 48 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 49 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
 | 50 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 51 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
-| 52 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
+| 52 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 |
 | 53 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
-| 54 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
-| 55 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
-| 56 | [Sixteen Saltines](https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Blunderbuss](https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno) | 2:35 |
+| 54 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
+| 55 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
+| 56 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 |
 | 57 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 58 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 |
 | 59 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 95 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
 | 96 | [What's My Age Again?](https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:28 |
 | 97 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |
-| 98 | [All My Life](https://open.spotify.com/track/40Gxnw5Vc8hnhGFknXHe3R) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One](https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe) | 4:22 |
-| 99 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 |
+| 98 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 |
+| 99 | [All My Life](https://open.spotify.com/track/40Gxnw5Vc8hnhGFknXHe3R) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One](https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe) | 4:22 |
 | 100 | [Do I Wanna Know?](https://open.spotify.com/track/3jfr0TF6DQcOLat8gGn7E2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 4:32 |
 
 Snapshot ID: `Z/RfzQAAAAAjee0kCqxrwsmpnJtYP6L2`

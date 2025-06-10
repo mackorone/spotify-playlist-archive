@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,546 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,603 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 35 | [Nunca Niegues Que Te Amo \- Sinfónica Version](https://open.spotify.com/track/17AkBvet5coEgtfnTYcMgF) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Bendito Vallenato](https://open.spotify.com/album/1N2jQb3iusmjsdoCLSazoZ) | 4:41 |
 | 36 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
 | 37 | [Los Caminos De La Vida](https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:35 |
-| 38 | [Traga'o De Ti](https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu) | 4:07 |
+| 38 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 39 | [Cómo Expresar Lo Que Siento](https://open.spotify.com/track/1hiLdH32AVthQQkDAVXdiz) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:57 |
 | 40 | [Ajena \- En Vivo Version](https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Los 3 Amigos](https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof) | 4:56 |
 | 41 | [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 |
 | 42 | [Tú Vas a Volar](https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:13 |
-| 43 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
+| 43 | [Traga'o De Ti](https://open.spotify.com/track/3xOKZR7rwQYEx7l5Mc9jQ6) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Caballero Del Vallenato](https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu) | 4:07 |
 | 44 | [Me Ilusione](https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb) | 5:00 |
-| 45 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 |
-| 46 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
-| 47 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
-| 48 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
+| 45 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
+| 46 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 |
+| 47 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
+| 48 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
 | 49 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 |
-| 50 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
+| 50 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
 
 Snapshot ID: `ZlYukAAAAADPp1MT52quV7is+LikeFFU`

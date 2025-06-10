@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 14841,
+  "num_followers": 14843,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "Orrv\u00e9rz\u00e9s",
+        "url": "https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "Orrv\u00e9rz\u00e9s",
+      "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
         "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
       },
@@ -547,18 +563,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Orrv\u00e9rz\u00e9s",
-        "url": "https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC"
+        "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
+        "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
       },
       "artists": [
         {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+          "name": "L.A. Suzi",
+          "url": "https://open.spotify.com/artist/35T2TZNtaWwxTwld0U13k3"
+        },
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
         }
       ],
-      "duration_ms": 199305,
-      "name": "Orrv\u00e9rz\u00e9s",
-      "url": "https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT"
+      "duration_ms": 174957,
+      "name": "T\u00e1rsas\u00e1gban",
+      "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -591,26 +611,6 @@
       "duration_ms": 172444,
       "name": "long as you're mine",
       "url": "https://open.spotify.com/track/1uBYCQmZY1O2m1nbO7cS11"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
-        "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
-      },
-      "artists": [
-        {
-          "name": "L.A. Suzi",
-          "url": "https://open.spotify.com/artist/35T2TZNtaWwxTwld0U13k3"
-        },
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 174957,
-      "name": "T\u00e1rsas\u00e1gban",
-      "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
-      },
-      "artists": [
-        {
-          "name": "Kov\u00e1cs Harmat",
-          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "H\u00e9jan\u00e1sz",
         "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
+      },
+      "artists": [
+        {
+          "name": "Kov\u00e1cs Harmat",
+          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Szeressetek",
         "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 182000,
       "name": "Szeressetek",
       "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "beleszakad",
+        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+      },
+      "artists": [
+        {
+          "name": "Pand\u00f3ra Projekt",
+          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "beleszakad",
+      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1191,38 +1207,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "beleszakad",
-        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
-      },
-      "artists": [
-        {
-          "name": "Pand\u00f3ra Projekt",
-          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "beleszakad",
-      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "GARABONCI\u00c1S",
-        "url": "https://open.spotify.com/album/66RwvU22PP0bq7PR51UHdJ"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 184475,
-      "name": "GARABONCI\u00c1S",
-      "url": "https://open.spotify.com/track/1YlpMrbPxmgJ9URKVabR0q"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "N\u00e1rcisz",
         "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
+        "name": "GARABONCI\u00c1S",
+        "url": "https://open.spotify.com/album/66RwvU22PP0bq7PR51UHdJ"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "GARABONCI\u00c1S",
+      "url": "https://open.spotify.com/track/1YlpMrbPxmgJ9URKVabR0q"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
         "name": "Oda\u00e9r",
         "url": "https://open.spotify.com/album/5l13P64Dc9SGxkCZZGdeha"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 266142,
       "name": "Oda\u00e9r",
       "url": "https://open.spotify.com/track/0bLpbIu0ZE1yTCQB7cayiv"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "Megyek ut\u00e1nad",
+        "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
+      },
+      "artists": [
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Megyek ut\u00e1nad",
+      "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Megyek ut\u00e1nad",
-        "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
       "artists": [
         {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
         }
       ],
-      "duration_ms": 131986,
-      "name": "Megyek ut\u00e1nad",
-      "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-04-18 09:29:48",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
         "name": "Ezen a hegyen",
         "url": "https://open.spotify.com/album/5S4OtjWJng2qoheMCwepX6"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 336800,
       "name": "Ezen a hegyen",
       "url": "https://open.spotify.com/track/1mfHxJ6OHEbtLgJrFSODp3"
+    },
+    {
+      "added_at": "2025-04-18 09:29:48",
+      "album": {
+        "name": "\u00c9jszakai",
+        "url": "https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO"
+      },
+      "artists": [
+        {
+          "name": "TELEHOLD",
+          "url": "https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "\u00c9n velem",
+      "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"
     },
     {
       "added_at": "2025-04-18 09:29:48",
@@ -1375,22 +1391,6 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
-    },
-    {
-      "added_at": "2025-04-18 09:29:48",
-      "album": {
-        "name": "\u00c9jszakai",
-        "url": "https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO"
-      },
-      "artists": [
-        {
-          "name": "TELEHOLD",
-          "url": "https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "\u00c9n velem",
-      "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"
     },
     {
       "added_at": "2025-04-18 09:29:48",

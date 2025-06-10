@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,190 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,206 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heaven is a Home…](https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 4:04 |
-| 2 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
+| 2 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 3 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 4 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
+| 4 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
 | 5 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 6 | [la ciudad](https://open.spotify.com/track/1uHasdVOWbOKA51ilcXsvx) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:21 |
 | 7 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 39 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
 | 40 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 41 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
-| 42 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
-| 43 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |
+| 42 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |
+| 43 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 44 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 45 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 46 | [ÁNGEL DE LA GUARDA \(PÓSTUMO\)](https://open.spotify.com/track/06gX47saY244mz1VZCoCoB) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 3:48 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 61 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 |
 | 62 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
 | 63 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
-| 64 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
-| 65 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
+| 64 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
+| 65 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
 
 Snapshot ID: `aDktYAAAAADATvttag4OcqmQTZuhHMaB`

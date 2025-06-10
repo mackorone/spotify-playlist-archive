@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 443408,
+  "num_followers": 443412,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAADtZi+StawLjU0wRoDtJnyt",
+  "snapshot_id": "aETSgAAAAAD30SJPxga77e0mTqy6O6mN",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio (En Vivo)",
-      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente",
         "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 145101,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio (En Vivo)",
+      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coronas Doradas",
-        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167470,
-      "name": "Los Cuervos",
-      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -571,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coronas Doradas",
+        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167470,
+      "name": "Los Cuervos",
+      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Selectivo",
+        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 187743,
+      "name": "El Selectivo",
+      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ense\u00f1anza De Los Viejos",
         "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 186435,
       "name": "Ense\u00f1anza De Los Viejos",
       "url": "https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Selectivo",
-        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 187743,
-      "name": "El Selectivo",
-      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "En Esta Vida",
-      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ceja Levantada",
         "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174742,
       "name": "El Ceja Levantada",
       "url": "https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
     },
     {
       "added_at": null,

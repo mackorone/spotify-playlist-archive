@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4906,
+  "num_followers": 4907,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABmrs37LsR2cJTKQiT9GAgj",
+  "snapshot_id": "aETSgAAAAACU8s4+7gGeNXGymHe2CXuO",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Has To Break (Live)",
+        "url": "https://open.spotify.com/album/3LaQJBdbNWCJqmLD3UVYgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        }
+      ],
+      "duration_ms": 552816,
+      "name": "Something Has To Break - Live",
+      "url": "https://open.spotify.com/track/13rnHQg0NSVGFItl3FoOty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GRACELAND",
         "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
@@ -251,30 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Has To Break (Live)",
-        "url": "https://open.spotify.com/album/3LaQJBdbNWCJqmLD3UVYgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        }
-      ],
-      "duration_ms": 552816,
-      "name": "Something Has To Break - Live",
-      "url": "https://open.spotify.com/track/13rnHQg0NSVGFItl3FoOty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 547000,
       "name": "Free - Live",
       "url": "https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
     },
     {
       "added_at": null,
@@ -735,34 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
-      },
-      "artists": [
-        {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 282440,
-      "name": "So Glad",
-      "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -787,6 +759,34 @@
       "duration_ms": 252760,
       "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
       "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
+      },
+      "artists": [
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 282440,
+      "name": "So Glad",
+      "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
     },
     {
       "added_at": null,
@@ -939,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/05NmdHk18G886nI09gL8Gj"
       },
       "artists": [
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Aarion Pace Rhodes",
+          "url": "https://open.spotify.com/artist/6SfjkLFy9F3mpfRW0GcLEG"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+      "duration_ms": 254730,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/6XjyTfImNEAOrv6Ic3Nbyt"
     },
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -991,6 +1011,46 @@
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 315533,
+      "name": "Somehow (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 287662,
+      "name": "What Matters (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
     },
     {
       "added_at": null,
@@ -1031,46 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 287662,
-      "name": "What Matters (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 315533,
-      "name": "Somehow (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Me",
         "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 289240,
       "name": "Hear This",
       "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
     },
     {
       "added_at": null,
@@ -1127,22 +1127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Act Like You Know",
-        "url": "https://open.spotify.com/album/05NmdHk18G886nI09gL8Gj"
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
       },
       "artists": [
         {
-          "name": "Aarion Pace Rhodes",
-          "url": "https://open.spotify.com/artist/6SfjkLFy9F3mpfRW0GcLEG"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 254730,
-      "name": "Act Like You Know",
-      "url": "https://open.spotify.com/track/6XjyTfImNEAOrv6Ic3Nbyt"
+      "duration_ms": 196988,
+      "name": "Paid It All",
+      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

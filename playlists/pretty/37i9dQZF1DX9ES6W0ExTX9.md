@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,467 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,555 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 | 42 | [Never Coming Home](https://open.spotify.com/track/3eda5oVs9sQmajrLdHkzYz) | [Not a Robot](https://open.spotify.com/artist/29MVYfZicV6Hxa8SgzWuWB), [Christina Rotondo](https://open.spotify.com/artist/0JLPvCgJch8H8gdiez8HSY) | [Never Coming Home](https://open.spotify.com/album/4sKwsv7vJHcw5bMkfQ8IOd) | 3:17 |
 | 43 | [In Your Eyes Now](https://open.spotify.com/track/4QN92N8khw9VBK1G9iqA9r) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [In Your Eyes Now](https://open.spotify.com/album/5tXn2I6iQJjntrMIZKBGTa) | 3:28 |
 
-Snapshot ID: `AAAAAIr8oObX+e8iv7yY8cH/RoGcyvxY`
+Snapshot ID: `ZTgAiwAAAAAF6oDmRbRqzqGrXHdbAPf9`

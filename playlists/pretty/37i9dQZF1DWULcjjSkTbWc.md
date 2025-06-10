@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,323 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,359 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 3 | [Call of the Road](https://open.spotify.com/track/3UilSg4uWBaUNBpbYp7uES) | [Jenny Don't And The Spurs](https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk) | [Call of the Road](https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr) | 2:43 |
 | 4 | [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 |
 | 5 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
-| 6 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
-| 7 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 6 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
+| 7 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 | 8 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
 | 9 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 | 10 | [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 50 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
 | 51 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
 | 52 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
-| 53 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
-| 54 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
+| 53 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 |
+| 54 | [Lucha De Gigantes](https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 4:08 |
 | 55 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
 | 56 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
 | 57 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULcjjSkTbWc.md) - [plain]
 | 68 | [Always Alright](https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Always Alright](https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz) | 4:09 |
 | 69 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 |
 | 70 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
-| 71 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
-| 72 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
+| 71 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
+| 72 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
 | 73 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 | 74 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 75 | [Given to Fly](https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:58 |

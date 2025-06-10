@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 9682,
+  "num_followers": 9690,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAACU7nDVV3h40XiTES1jxPDj",
+  "snapshot_id": "aETSgAAAAACVGF2/xigrVRL3a2CuJHFA",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 43546,
-      "name": "Until You Saw Me - Interlude",
-      "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"
+      "duration_ms": 200187,
+      "name": "Push and Pull",
+      "url": "https://open.spotify.com/track/1R00ByLf1CY6EagkfPylxp"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
       "duration_ms": 314765,
       "name": "You\u2019re Not Here",
       "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -499,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 200187,
-      "name": "Push and Pull",
-      "url": "https://open.spotify.com/track/1R00ByLf1CY6EagkfPylxp"
+      "duration_ms": 163704,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP"
     },
     {
       "added_at": null,
@@ -835,6 +835,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "She Is Risen, Vol. 2",
+        "url": "https://open.spotify.com/album/1HfkVtVSe4OQqpFLSmT94X"
+      },
+      "artists": [
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        }
+      ],
+      "duration_ms": 256010,
+      "name": "Everything's Alright",
+      "url": "https://open.spotify.com/track/3xO030eZebHF82IMjz626q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -879,30 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Is Risen, Vol. 2",
-        "url": "https://open.spotify.com/album/1HfkVtVSe4OQqpFLSmT94X"
-      },
-      "artists": [
-        {
-          "name": "Morgan James",
-          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Shoshana Bean",
-          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
-        }
-      ],
-      "duration_ms": 256010,
-      "name": "Everything's Alright",
-      "url": "https://open.spotify.com/track/3xO030eZebHF82IMjz626q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -943,30 +943,6 @@
       "duration_ms": 296655,
       "name": "At All",
       "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Oliver Tompsett",
-          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 463020,
-      "name": "Always / Goodnight",
-      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

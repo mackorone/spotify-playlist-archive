@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto:Mizzy Miles, Slow J, Gson
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,760 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,796 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,24 +54,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 44 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 45 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
 | 46 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
-| 47 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
+| 47 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
 | 48 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
-| 49 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
+| 49 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
 | 50 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 51 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
 | 52 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
-| 53 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
-| 54 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
+| 53 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
+| 54 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
 | 55 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
 | 56 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |
 | 57 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
-| 58 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
-| 59 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
+| 58 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
+| 59 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 |
 | 60 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 61 | [Picareta](https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Picareta](https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3) | 2:43 |
 | 62 | [Lidar](https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:12 |
-| 63 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
-| 64 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
+| 63 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
+| 64 | [Trovador](https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:46 |
 | 65 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 |
 | 66 | [Tropa do Madruga](https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Tropa do Madruga](https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY) | 3:00 |
 | 67 | [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 |

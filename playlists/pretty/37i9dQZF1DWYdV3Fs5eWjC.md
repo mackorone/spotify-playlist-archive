@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,040 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,048 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 44 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
 | 45 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 46 | [LEAN ON MY BODY](https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:25 |
-| 47 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
-| 48 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
+| 47 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
+| 48 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
 | 49 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
 | 50 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
-| 51 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
-| 52 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
+| 51 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
+| 52 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 53 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 54 | [OpenYourEyes](https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [OpenYourEyes](https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT) | 3:13 |
 | 55 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |

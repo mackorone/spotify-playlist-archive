@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Kyle Sturrock
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,348 likes - 33 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 33 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

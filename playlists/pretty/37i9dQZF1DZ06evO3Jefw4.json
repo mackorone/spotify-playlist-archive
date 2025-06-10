@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1208453,
+  "num_followers": 1208483,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABJTV6anYSMMe6RPPNeS02+",
+  "snapshot_id": "aETSgAAAAADF4OhmcCp5cVhsNT+MKnby",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 163821,
+      "name": "ARTIFICIAL (feat. JID)",
+      "url": "https://open.spotify.com/track/3UxPCKSa8fPIhP7KMSD0HW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 193543,
       "name": "Electric - Pokemon 25 Version",
       "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": null,
@@ -807,6 +807,26 @@
       "duration_ms": 187436,
       "name": "Tucked",
       "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
     },
     {
       "added_at": null,
@@ -854,15 +874,11 @@
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 163821,
-      "name": "ARTIFICIAL (feat. JID)",
-      "url": "https://open.spotify.com/track/3F7nQ5YqYYYHKvRnIRtKYh"
+      "duration_ms": 202551,
+      "name": "NO TEARS FOR NEW YEAR'S",
+      "url": "https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 220360,
       "name": "Hot N Cold - Rock Version",
       "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 204339,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j"
     }
   ],
   "unique_name": "This Is Katy Perry",

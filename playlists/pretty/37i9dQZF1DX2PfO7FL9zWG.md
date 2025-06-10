@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Half Moon Run
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,707 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,711 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 40 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 41 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 42 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
-| 43 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
-| 44 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 43 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 44 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 45 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
 | 46 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 47 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
-| 48 | [Vagabond](https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 2:09 |
-| 49 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 48 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 49 | [Vagabond](https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Caamp](https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo) | 2:09 |
 | 50 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
 | 51 | [Love Is A Wild Thing](https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:16 |
 | 52 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 87 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
 | 88 | [Better Off](https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Better Off](https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3) | 3:15 |
 | 89 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
-| 90 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
-| 91 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 |
+| 90 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 |
+| 91 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
 | 92 | [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 |
 | 93 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 |
 | 94 | [Over My Shoulder](https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p), [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Over My Shoulder](https://open.spotify.com/album/50bEcqe8ypWaGnyW8o3SKu) | 5:02 |

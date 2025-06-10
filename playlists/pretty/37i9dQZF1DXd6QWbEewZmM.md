@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,398 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,476 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 94 | [Que Envidia](https://open.spotify.com/track/3JZs9g9JBaCZfaUVbZatS9) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:23 |
 | 95 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 |
 | 96 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
-| 97 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
-| 98 | [LHTL](https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LHTL](https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg) | 3:54 |
+| 97 | [LHTL](https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LHTL](https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg) | 3:54 |
+| 98 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 99 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
 | 100 | [Superando](https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB) | [Angel Arevalo](https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV) | [Superando...y Mas](https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7) | 4:20 |
 | 101 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 138 | [Vete A La :\)](https://open.spotify.com/track/5aJUIm3JeJ7BnRlAkOiY2V) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Vete A La :\)](https://open.spotify.com/album/6UOkpv7AhnnmOfK2fRhi1E) | 3:18 |
 | 139 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 140 | [Tierra de los Olvidados](https://open.spotify.com/track/3njxvE2qVZ1XbsxYD1SMXE) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [Tierra de los Olvidados](https://open.spotify.com/album/1ugetVSwBfY4F2QfvUW8ZY) | 3:50 |
-| 141 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
-| 142 | [Coqueta](https://open.spotify.com/track/76JywGpGQQPfzTG3eNFO6r) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Coqueta](https://open.spotify.com/album/61yRp7eSSCpyuVNCReDKhG) | 3:53 |
+| 141 | [Coqueta](https://open.spotify.com/track/76JywGpGQQPfzTG3eNFO6r) | [Angel Yerena](https://open.spotify.com/artist/4maqFMlGcJ3IkEGhcD4tMb), [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [Coqueta](https://open.spotify.com/album/61yRp7eSSCpyuVNCReDKhG) | 3:53 |
+| 142 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
 | 143 | [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 |
 | 144 | [Rodeo Drive](https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Rodeo Drive](https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11) | 2:08 |
 | 145 | [Tú No Vuelves](https://open.spotify.com/track/4j1IyG0PG53gPA4zlxYN44) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Tú No Vuelves](https://open.spotify.com/album/7vABcW0HmqbmlhPgKyzIGA) | 3:23 |

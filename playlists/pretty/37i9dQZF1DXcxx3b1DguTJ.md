@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 
 > Grandes clásicos del pop en español\. ¡Todo limpio y ordenado!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,216 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,245 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 | 4 | [Un Buen Perdedor](https://open.spotify.com/track/6SveL3Sk9ObjoAZ7tPexnl) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [No Hay Cielo](https://open.spotify.com/album/3MNyovabzwapPKpE09eL71) | 4:02 |
 | 5 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
 | 6 | [Miguel](https://open.spotify.com/track/3TMewqIJrTRNXCnDbN8gmW) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Miguel](https://open.spotify.com/album/3JhJXzDLUmLih2prJA38hD) | 2:43 |
-| 7 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
-| 8 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
+| 7 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
+| 8 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
 | 9 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 |
 | 10 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 11 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxx3b1DguTJ.md) - [plain]
 | 16 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 17 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
 | 18 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
-| 19 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
-| 20 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 19 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 20 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 21 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
 | 22 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 |
 | 23 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |

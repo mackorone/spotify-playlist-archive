@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 25431,
+  "num_followers": 25459,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "ZnmkPQAAAAADky2YEhePTi+tJhAQOP2M",
   "tracks": [
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "I Will Find",
+        "url": "https://open.spotify.com/album/1Lb2OTMflllFCVVSBH9G9O"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "I Will Find",
+      "url": "https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr"
+    },
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "I Will Find",
-        "url": "https://open.spotify.com/album/1Lb2OTMflllFCVVSBH9G9O"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "I Will Find",
-      "url": "https://open.spotify.com/track/2bbfiUnH4CATlekDS1dxNr"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Discoteka",
+        "url": "https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "Discoteka",
+      "url": "https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Wake Up With You",
         "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 183870,
       "name": "Wake Up With You",
       "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "Discoteka",
-        "url": "https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "Discoteka",
-      "url": "https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -719,22 +719,18 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69"
+        "name": "Dance and Chant",
+        "url": "https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq"
       },
       "artists": [
         {
-          "name": "Lemarroy",
-          "url": "https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W"
-        },
-        {
-          "name": "Nino Lucarelli",
-          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph"
+      "duration_ms": 189677,
+      "name": "Dance and Chant",
+      "url": "https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -759,18 +755,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Dance and Chant",
-        "url": "https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69"
       },
       "artists": [
         {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+          "name": "Lemarroy",
+          "url": "https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Dance and Chant",
-      "url": "https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1"
+      "duration_ms": 176250,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph"
     },
     {
       "added_at": "2024-03-28 01:32:56",

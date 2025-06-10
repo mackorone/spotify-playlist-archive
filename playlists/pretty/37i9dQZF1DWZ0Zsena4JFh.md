@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Pulp en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,908 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,880 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 19 | [Pressed Flower](https://open.spotify.com/track/1NZOm5NhOEzEnW8oOb8PUL) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Pressed Flower](https://open.spotify.com/album/00nv3UDLtJoH57O5y2RxZW) | 1:58 |
 | 20 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 21 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 |
-| 22 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
-| 23 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 22 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
+| 23 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 24 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 | 25 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 | 26 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 36 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
 | 37 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 38 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
-| 39 | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS) | 2:38 |
-| 40 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
+| 39 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 |
+| 40 | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Ya No Te Hago Falta \(Con Ed Maverick\)](https://open.spotify.com/album/5tClj2DV2p4LFruoL4mYrS) | 2:38 |
 | 41 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 42 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 43 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 |

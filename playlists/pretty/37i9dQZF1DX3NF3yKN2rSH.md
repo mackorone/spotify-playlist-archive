@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,355 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,364 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 51 | [Famous For \(I Believe\) \[Sunday A.M\. Version\]](https://open.spotify.com/track/2ovxN980BRpzCTvbq6HWb8) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Donald Lawrence & Company](https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as) | [Famous For \(I Believe\) \[Sunday A.M\. Version\]](https://open.spotify.com/album/34OmquTJzMTUsnK1r0nom8) | 4:38 |
 | 52 | [I Need You Now](https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [The Ultimate Playlist](https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI) | 4:10 |
 | 53 | [Mnini Mandla Onke](https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Mnini Mandla Onke](https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z) | 5:03 |
-| 54 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 |
-| 55 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
+| 54 | [Celebrate \(He Lives\)](https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [The Essential Fred Hammond](https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7) | 4:04 |
+| 55 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 |
 | 56 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 |
 | 57 | [Take Me Back \(feat\. Kirk Franklin & Kelontae Gavin\)](https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7) | [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [My Tribute](https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB) | 5:00 |
 | 58 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Risen Powerful Gospel Resurrection Songs](https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg) | 6:57 |
 | 59 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
-| 60 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
-| 61 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
+| 60 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
+| 61 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
 | 62 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
 | 63 | [You Did It All \(with Vision\)](https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Healing \- Live In Detroit \(with Vision\)](https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A) | 5:57 |
 | 64 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |

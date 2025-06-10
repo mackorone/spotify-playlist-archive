@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 185060,
       "name": "BORAN",
       "url": "https://open.spotify.com/track/3heWZz3jmNmlfHx0F9hNbL"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 160333,
       "name": "Loading Bazooka (From \"Bazooka\")",
       "url": "https://open.spotify.com/track/1FU4zTnVKJ7X8rAV8p3W9K"
@@ -4771,6 +4771,28 @@
     },
     {
       "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/2PJdMazq1OXwWkl8TLvaMw"
+      },
+      "artists": [
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN"
+        },
+        {
+          "name": "Dopeboyghost",
+          "url": "https://open.spotify.com/artist/0kgftNbtoiZeiPFYNfmv6C"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Non stop - Original Mix",
+      "url": "https://open.spotify.com/track/4WrjJnmBcZP8LoSAEs9FV0"
+    },
+    {
+      "album": {
         "name": "Off Beat",
         "url": "https://open.spotify.com/album/79uOviJWVAKFpWRFtPPL3U"
       },
@@ -5461,6 +5483,28 @@
     },
     {
       "album": {
+        "name": "Poothiri",
+        "url": "https://open.spotify.com/album/02MrIUsgtabIfXV5wbB4i5"
+      },
+      "artists": [
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240875,
+      "name": "Poothiri",
+      "url": "https://open.spotify.com/track/6lO6phS09XKfyHv0DYzJw7"
+    },
+    {
+      "album": {
         "name": "Poralikal",
         "url": "https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa"
       },
@@ -5672,7 +5716,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 160877,
       "name": "RNK",
       "url": "https://open.spotify.com/track/3D91bBMXurJaqQ1CyOirsg"
@@ -6008,6 +6052,32 @@
       "duration_ms": 204006,
       "name": "SHYAMAMEGHAM FLIP",
       "url": "https://open.spotify.com/track/0jRsSbuZB8dn7WaA0PWwv8"
+    },
+    {
+      "album": {
+        "name": "Sky Blue",
+        "url": "https://open.spotify.com/album/0ijivbXDDTxaaG04qXvHGG"
+      },
+      "artists": [
+        {
+          "name": "Deon",
+          "url": "https://open.spotify.com/artist/4w5cn6TMLnK4dCyfcp0lbO"
+        },
+        {
+          "name": "Aceonabeat",
+          "url": "https://open.spotify.com/artist/5hRbGuMILJgR2KZedDk0pd"
+        },
+        {
+          "name": "Don Poga",
+          "url": "https://open.spotify.com/artist/4duDFj13hsjp3CLlo2fXFP"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277332,
+      "name": "Sky Blue",
+      "url": "https://open.spotify.com/track/0d9wcryVZR3VRNJMRWLMjL"
     },
     {
       "album": {

@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 38 | [Already Famous](https://open.spotify.com/track/3hRZwN7ztijzRplL42OFWm) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Already Famous](https://open.spotify.com/album/73ESU5R3U4Bn69eTSSNSgv) | 2:34 |
 | 39 | [not around](https://open.spotify.com/track/6GlD9ntcLBrncwEbC72nN0) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:12 |
 | 40 | [Reputation](https://open.spotify.com/track/2pvFQudKtJTEeiL6FIlqsy) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Reputation](https://open.spotify.com/album/19gLqW0o4f8Ua9l9ajQyxT) | 1:59 |
-| 41 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
-| 42 | [Shalalala](https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Shalalala](https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu) | 4:06 |
+| 41 | [Shalalala](https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Shalalala](https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu) | 4:06 |
+| 42 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
 | 43 | [Killin' It](https://open.spotify.com/track/7h3ee318fQQrwYqbwHVyW8) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Zero Sympathy](https://open.spotify.com/album/24UtrS5kFi1iwbmioWFMhE) | 2:35 |
 | 44 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 |
 | 45 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 68 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 69 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AbznyAAAAADkdxeczwTVfc9AA1rX231+`
+Snapshot ID: `AbztaAAAAABvWZORW6kYYOZG2dveICmq`

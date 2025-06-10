@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,250 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,265 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 7 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
 | 8 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 9 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 |
-| 10 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
-| 11 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 |
+| 10 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 |
+| 11 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
 | 12 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 13 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
 | 14 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 45 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
 | 46 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 47 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
-| 48 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
-| 49 | [Kreise](https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Kreise](https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS) | 3:41 |
+| 48 | [Kreise](https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Kreise](https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS) | 3:41 |
+| 49 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
 | 50 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
 | 51 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
-| 52 | [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 |
-| 53 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:53 |
+| 52 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:53 |
+| 53 | [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 |
 | 54 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 55 | [Get Ready](https://open.spotify.com/track/5DhIBpQpEMyrVa95R7AGSc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Get Ready](https://open.spotify.com/album/3SnHhdCpWinISvVLHjFgHM) | 3:29 |
 | 56 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
-| 57 | [Ain't Just a Game](https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Ain't Just a Game](https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB) | 2:43 |
-| 58 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 57 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 58 | [Ain't Just a Game](https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Ain't Just a Game](https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB) | 2:43 |
 | 59 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |
 | 60 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
 | 61 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 65 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
 | 66 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 67 | [ASAP](https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [ASAP](https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB) | 3:03 |
-| 68 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 |
-| 69 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
+| 68 | [Let’s Go Home Together](https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Luca Schreiner Remix\)](https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy) | 3:28 |
+| 69 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 |
 | 70 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 |
 
 Snapshot ID: `aC9K8AAAAACJ5FAvI+eHLiR79vTxuRdb`

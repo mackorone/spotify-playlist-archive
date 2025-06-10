@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484100,
+  "num_followers": 484091,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAAAtX/Nd+z6DjAZLOQxX4Oa4",
+  "snapshot_id": "aETSgAAAAABuDF3w15lgMYFQICcf+20b",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Times For Low Lives",
-        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
+        "name": "Nu Collection: Hip-Hop (Urban & Modern Beats)",
+        "url": "https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV"
       },
       "artists": [
-        {
-          "name": "The Griswolds",
-          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 192106,
-      "name": "YDLM",
-      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
+      "duration_ms": 229918,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nu Collection: Hip-Hop (Urban & Modern Beats)",
-        "url": "https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV"
+        "name": "High Times For Low Lives",
+        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
       },
       "artists": [
+        {
+          "name": "The Griswolds",
+          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 229918,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC"
+      "duration_ms": 192106,
+      "name": "YDLM",
+      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
     },
     {
       "added_at": null,

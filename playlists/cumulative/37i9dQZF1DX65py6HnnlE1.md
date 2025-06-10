@@ -4,7 +4,7 @@
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-187 songs - 12 hr 58 min
+188 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Burbujas de Amor](https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:10 | 2022-01-01 | 2022-12-01 |
 | [Burbujas de Amor](https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:10 | 2022-08-31 | 2024-04-19 |
 | [Burbujas de Amor](https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:10 | 2022-01-01 |  |
+| [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 | 2024-06-04 |  |
 | [Ceniza fria](https://open.spotify.com/track/1EQf1pDlHfgWgt7H9UXXRc) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Loco De Amor](https://open.spotify.com/album/1BWMISug7N9OQX04aDp2wv) | 4:12 | 2022-01-01 |  |
 | [Ciego De Amor \- Featuring Anthony Santos](https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 5:07 | 2022-01-01 | 2024-04-26 |
 | [Como El](https://open.spotify.com/track/4qH7gGLrNekb8BeXdXvJQo) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 2:40 | 2023-02-02 |  |
@@ -61,7 +62,7 @@
 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 | 2022-01-01 |  |
 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 | 2022-01-01 |  |
 | [El Profesor](https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga](https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0) | 3:39 | 2023-03-17 | 2024-04-19 |
-| [El profesor](https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga Soundtrack](https://open.spotify.com/album/6jCjkECgYPGYLM38iLdloA) | 3:39 | 2022-01-01 |  |
+| [El profesor](https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Soga Soundtrack](https://open.spotify.com/album/6jCjkECgYPGYLM38iLdloA) | 3:39 | 2022-01-01 | 2025-06-10 |
 | [El Profesor](https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal' Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb) | 3:41 | 2023-02-02 | 2023-04-22 |
 | [El verdadero amor perdona \- dueto con Prince Royce](https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Drama Y Luz Edición Deluxe](https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u) | 3:58 | 2022-01-01 |  |
 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 | 2024-04-25 |  |

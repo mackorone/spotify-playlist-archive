@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 49 | [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 |
 | 50 | [Abraça\-me \- Live 2020](https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 3:42 |
 
-Snapshot ID: `aEOBAAAAAACOGrJ7AUk/DAmJHOWV6azD`
+Snapshot ID: `aETSgAAAAACrRPAzPlMo+Z4jPwvu9oAR`

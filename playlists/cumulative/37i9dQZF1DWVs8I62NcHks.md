@@ -4,7 +4,7 @@
 
 > All of your Disney Favorites in one playlist, including new music from Disney's Lilo & Stitch.
 
-213 songs - 11 hr 0 min
+214 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/22HoAbMq2QiKjfc1ZNqy0D) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 5:32 | 2023-05-15 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 | 2023-05-15 |  |
 | [Happy Working Song \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/7G061Oqw7NXFr1NDTpXoI4) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 2:09 | 2023-05-15 |  |
+| [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/3pv3kFVXQYZVrXAChG7na3) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Hawaiian Roller Coaster Ride](https://open.spotify.com/album/3Yk55uGnU2uSURBOOpJ3YV) | 2:49 | 2025-06-10 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/5coZgMb9D2sypM21bwEOAq) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 3:29 | 2025-05-21 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:28 | 2021-11-19 |  |
 | [He Could Be the One](https://open.spotify.com/track/0ObHdZzOdFZo2MfUCpHiyu) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Best Of Hannah Montana](https://open.spotify.com/album/5zZMy9QhbzvAjokurBvEgd) | 3:01 | 2023-05-15 |  |

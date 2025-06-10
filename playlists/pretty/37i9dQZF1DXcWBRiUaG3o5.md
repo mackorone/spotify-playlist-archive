@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,436 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,999 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 9 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
 | 10 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 11 | [Machines](https://open.spotify.com/track/5mpLws6etPwTax7PedZc1V) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:31 |
-| 12 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
-| 13 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
+| 12 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
+| 13 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
 | 14 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 15 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 16 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 48 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
 | 49 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 | 50 | [Blanket](https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Nordic Mellow](https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD) | 3:05 |
-| 51 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
-| 52 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
+| 51 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
+| 52 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
 | 53 | [White Frost \(Acoustic\)](https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [White Frost \(Acoustic\)](https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr) | 3:25 |
 | 54 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
 | 55 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,076 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,095 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 14 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 |
 | 15 | [El Yuko \(En vivo\)](https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 3:09 |
 | 16 | [Alumno Y Maestro](https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Alumno Y Maestro](https://open.spotify.com/album/3G37quZRXG46KePSj4uMat) | 2:59 |
-| 17 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
-| 18 | [Vago Y Loko](https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Vago Y Loko](https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw) | 2:58 |
+| 17 | [Vago Y Loko](https://open.spotify.com/track/00AtEOAXrOWJxu7vjHZeQs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Vago Y Loko](https://open.spotify.com/album/7Fq8GU7jHLGH7bQqzL7Snw) | 2:58 |
+| 18 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
 | 19 | [La Linea Directa \(En Vivo\)](https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 2:33 |
 | 20 | [El Pato Nada](https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Jando Cartagena](https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW) | [El Pato Nada](https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt) | 2:44 |
 | 21 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:44 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 24 | [Los Mitotes](https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 3:28 |
 | 25 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 |
 | 26 | [El Amor No Es Para Todos](https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Amor No Es Para Todos](https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl) | 2:22 |
-| 27 | [Rosas](https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o) | 4:33 |
-| 28 | [El Mochomo \(En vivo\)](https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:42 |
+| 27 | [El Mochomo \(En vivo\)](https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:42 |
+| 28 | [Rosas](https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o) | 4:33 |
 | 29 | [El H](https://open.spotify.com/track/2M55f5Nu55dDZbA477v7X8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:44 |
 | 30 | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt) | 2:41 |
 | 31 | [El Bolas](https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Don Mayo \(En vivo\)](https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:56 |
 | 50 | [Jimenez](https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 3:04 |
 
-Snapshot ID: `aEOBAAAAAADFWeJmYpeOkMJmiAn/pljb`
+Snapshot ID: `aETSgAAAAAApkeHIpDJoqimGkspxdJyn`

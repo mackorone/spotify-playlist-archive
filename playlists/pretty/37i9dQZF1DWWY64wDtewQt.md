@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,126,282 likes - 100 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,132,298 likes - 100 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 81 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |
 | 82 | [EL QUE LA DEBE FUNK \- SLOWED](https://open.spotify.com/track/5PHdyF0lk5ZWzow4aUSfPL) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [DJ MILLYANN](https://open.spotify.com/artist/1um8FQQ62RO4ecSx5g3A2E), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [EL QUE LA DEBE FUNK](https://open.spotify.com/album/2i9lYE2CWNBLmDiXwJ884n) | 1:48 |
 | 83 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
-| 84 | [X\-TALI](https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO) | [MXCCREE](https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt), [DJ GL3CHEKY](https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM) | [X\-TALI](https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw) | 1:12 |
+| 84 | [X\-TALI](https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO) | [MXCCREE](https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt), [DJ GL3CHEKY](https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [X\-TALI](https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw) | 1:12 |
 | 85 | [MONTAGEM ALUCINANTE](https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti) | [MONTAGEM ALUCINANTE](https://open.spotify.com/album/1ytbKNSOn7FALPHrmOqAdN) | 2:50 |
 | 86 | [Montagem Melodia Explosiva \- Slowed](https://open.spotify.com/track/2SQp5yapF1ZwiuKgaFuFMJ) | [Vermillion](https://open.spotify.com/artist/1PvcWjADPMezv8CTyJO9Uk), [ICEDMANE](https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj), [DYSMANE](https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z), [Mc Dido](https://open.spotify.com/artist/3AbeBDqk7IsG1JZEWVVcpY) | [Montagem Melodia Explosiva](https://open.spotify.com/album/3D2j7JQjj9Kjc8sOfikmV6) | 1:44 |
 | 87 | [RISADA CHUCK 01 \- Super Slowed](https://open.spotify.com/track/2iRiWUoB7tNnG23KlM3Ui7) | [\-Prey](https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y) | [RISADA CHUCK 01](https://open.spotify.com/album/7lolzbhq4moSJPfFpdosl5) | 2:10 |

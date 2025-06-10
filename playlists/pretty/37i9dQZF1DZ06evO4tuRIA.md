@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,077 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,097 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 43 | [De Bajo Perfil](https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 2:44 |
 | 44 | [Bien Motivado \(feat\. Banda La Fantastica\)](https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [Bien Motivado \(feat\. Banda La Fantastica\)](https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE) | 2:39 |
 | 45 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 |
-| 46 | [El 7 De Fontana](https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El 7 De Fontana](https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe) | 2:27 |
-| 47 | [Pura Adrenalina](https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 |
+| 46 | [Pura Adrenalina](https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 |
+| 47 | [El 7 De Fontana](https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El 7 De Fontana](https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe) | 2:27 |
 | 48 | [El Que Me Cerró la Puerta](https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:02 |
 | 49 | [Voy A Llegar](https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Voy A Llegar](https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1) | 2:42 |
 | 50 | [Bien Tumbado](https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:06 |
 
-Snapshot ID: `aEOBAAAAAACc9a/tpDXjSLC59qiZc+2E`
+Snapshot ID: `aETSgAAAAACBV3xvLz55rX6pCUlO0MQD`

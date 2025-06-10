@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 
 > Ambient and percussion to move the body and heal the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,143 likes - 106 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,239 likes - 106 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 | 105 | [Useful Wisdom](https://open.spotify.com/track/1vpZOt4glHPLzTnt5TVnIM) | [Saphileaum](https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU) | [Intrapersonal Experience](https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg) | 4:48 |
 | 106 | [Ardiendo](https://open.spotify.com/track/7hFvmT4kIHuEcn7p6ZN6al) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Fugaces I](https://open.spotify.com/album/2dn6YDORsEnu7N84Yndcp1) | 3:17 |
 
-Snapshot ID: `aEA74wAAAAC+LLMOfl0WrleN0MxYZtMl`
+Snapshot ID: `aEA74wAAAACz2cr0PyppmlWqj1IGJbVp`

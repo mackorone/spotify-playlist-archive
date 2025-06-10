@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Matroda",
-  "num_followers": 463726,
+  "num_followers": 463844,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
       "added_at": "2025-05-16 04:00:36",
       "album": {
         "name": "Psycho",
@@ -1431,22 +1447,6 @@
       "duration_ms": 186576,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2025-05-30 14:35:26",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
       "added_at": "2025-04-11 04:00:29",
       "album": {
         "name": "THE MADNESS (With I.D.O.)",
@@ -1549,22 +1533,6 @@
       "url": "https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6"
     },
     {
-      "added_at": "2025-02-21 05:00:41",
-      "album": {
-        "name": "ZERO200",
-        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "ZERO200",
-      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
-    },
-    {
       "added_at": "2024-08-16 14:10:04",
       "album": {
         "name": "Deeper Underground",
@@ -1583,6 +1551,38 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2025-02-21 05:00:41",
+      "album": {
+        "name": "ZERO200",
+        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "ZERO200",
+      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1607,26 +1607,6 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
-    },
-    {
-      "added_at": "2025-04-25 04:00:58",
-      "album": {
-        "name": "Move Over",
-        "url": "https://open.spotify.com/album/465qMkcnqLbRLsWAboYu0z"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 167727,
-      "name": "Move Over",
-      "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1677,22 +1657,6 @@
       "url": "https://open.spotify.com/track/5W6ODgCKVlH6jSHF5MYkSI"
     },
     {
-      "added_at": "2025-05-02 05:35:09",
-      "album": {
-        "name": "Telephone Ringin'",
-        "url": "https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Telephone Ringin'",
-      "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "BAD OMENS",
@@ -1707,6 +1671,42 @@
       "duration_ms": 147625,
       "name": "BAD OMENS",
       "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+    },
+    {
+      "added_at": "2025-04-25 04:00:58",
+      "album": {
+        "name": "Move Over",
+        "url": "https://open.spotify.com/album/465qMkcnqLbRLsWAboYu0z"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 167727,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
+    },
+    {
+      "added_at": "2025-05-02 05:35:09",
+      "album": {
+        "name": "Telephone Ringin'",
+        "url": "https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Telephone Ringin'",
+      "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"
     },
     {
       "added_at": "2025-03-07 05:47:46",
@@ -2257,22 +2257,6 @@
       "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
-      "added_at": "2025-05-02 05:35:09",
-      "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/19eCujckKHZ0SESbk844WU"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/4hnyQmPw7A7tJ5PpOtOhI7"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Freedom (Body Ocean Remix)",
@@ -2295,6 +2279,62 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2025-05-02 05:35:09",
+      "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/19eCujckKHZ0SESbk844WU"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/4hnyQmPw7A7tJ5PpOtOhI7"
+    },
+    {
+      "added_at": "2025-01-31 05:00:38",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2025-05-30 14:35:26",
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2335,46 +2375,6 @@
       "duration_ms": 184615,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/1BRMsQ12jolE4BvN5sUCP2"
-    },
-    {
-      "added_at": "2025-05-30 14:35:26",
-      "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:38",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
       "added_at": "2024-05-03 04:00:00",

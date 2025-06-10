@@ -6427,6 +6427,24 @@
     },
     {
       "album": {
+        "name": "Naked Truth",
+        "url": "https://open.spotify.com/album/2nbJ6T9eTh3og8YjgemrKQ"
+      },
+      "artists": [
+        {
+          "name": "Trap Raag",
+          "url": "https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184913,
+      "name": "Naked Truth",
+      "url": "https://open.spotify.com/track/6Qjoblc0AaJM59eGyAgw1n"
+    },
+    {
+      "album": {
         "name": "Namma Bainduru",
         "url": "https://open.spotify.com/album/5pVNIDfgtIGmIQ87MD0yvn"
       },
@@ -8540,7 +8558,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 187448,
       "name": "Parayana",
       "url": "https://open.spotify.com/track/1MP109xqBHko9fqfd3OfBj"

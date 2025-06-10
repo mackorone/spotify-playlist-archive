@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87975,
+  "num_followers": 87971,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Olvidarme de Todo",
-        "url": "https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB"
-      },
-      "artists": [
-        {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
-        },
-        {
-          "name": "Oso Pardo",
-          "url": "https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ"
-        }
-      ],
-      "duration_ms": 201131,
-      "name": "Olvidarme de Todo",
-      "url": "https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 212660,
       "name": "Madre Tierra",
       "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Olvidarme de Todo",
+        "url": "https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        },
+        {
+          "name": "Oso Pardo",
+          "url": "https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ"
+        }
+      ],
+      "duration_ms": 201131,
+      "name": "Olvidarme de Todo",
+      "url": "https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox"
     },
     {
       "added_at": "2024-09-20 08:27:00",

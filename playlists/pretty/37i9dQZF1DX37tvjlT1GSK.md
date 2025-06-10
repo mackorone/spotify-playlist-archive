@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Juanchito, Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,958 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,983 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 83 | [0 Sentimientos](https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [0 Sentimientos](https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi) | 3:15 |
 | 84 | [Quiero Presumirte](https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl) | [Picassoo](https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja) | [Quiero Presumirte](https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ) | 4:02 |
 | 85 | [Te Lo Dije](https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 3:29 |
-| 86 | [La Cagué](https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [La Cagué](https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN) | 4:00 |
-| 87 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
+| 86 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
+| 87 | [La Cagué](https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [La Cagué](https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN) | 4:00 |
 | 88 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 |
 | 89 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 |
 | 90 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 91 | [Flores](https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Flores](https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl) | 2:16 |
-| 92 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
-| 93 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 |
+| 92 | [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 |
+| 93 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 94 | [La Vida Es Un Juego](https://open.spotify.com/track/19f1DwILx7UIS8hVAFXM5q) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 2:51 |
 | 95 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
 | 96 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |

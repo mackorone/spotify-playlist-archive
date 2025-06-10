@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > why so hot?
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,791 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,789 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 48 | [Come Inside Of My Heart](https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:06 |
 | 49 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 50 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
-| 51 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
-| 52 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
+| 51 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
+| 52 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 53 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 54 | [Wild Thoughts \(feat\. Rihanna & Bryson Tiller\)](https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 3:24 |
 | 55 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |

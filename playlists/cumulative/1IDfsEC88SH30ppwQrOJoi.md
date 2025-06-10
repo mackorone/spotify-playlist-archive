@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-407 songs - 21 hr 1 min
+408 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Elysian](https://open.spotify.com/track/59iHbGAgtvnceRR53GQ52c) | [Berkcan Demir](https://open.spotify.com/artist/2uXBcKuO3VEJ2DGocGaloa), [Calzen](https://open.spotify.com/artist/6QPwdLzF9Rta9t5YkeZRwL) | [Elysian](https://open.spotify.com/album/5D7NmsWoctuHr5dF4V3SiL) | 3:42 | 2024-03-13 | 2024-04-27 |
 | [Essa Mi](https://open.spotify.com/track/1SsLW9VTYn13tVCfBlZVnW) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Essa Mi](https://open.spotify.com/album/1yyxYyJQxrCVGR5nnUpYEF) | 2:43 | 2023-10-13 | 2024-03-14 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-07 | 2024-05-01 |
+| [Everybody](https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97) | [Casmalia](https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Everybody](https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU) | 3:08 | 2025-06-09 |  |
 | [EXTASI](https://open.spotify.com/track/6ORtRmV7rswtzcMZZ4sl2o) | [Dibona](https://open.spotify.com/artist/6fxpScTzxpssTBbxQSpPVY) | [EXTASI](https://open.spotify.com/album/2lu7qZsqPBEGx0mghY3mgN) | 3:47 | 2024-01-19 | 2024-03-14 |
 | [Eyes On You](https://open.spotify.com/track/3u36EF49p2ysKoof6CLQL5) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You](https://open.spotify.com/album/5ftgTZhsh7UGGgYmhmD2Xt) | 2:38 | 2023-07-07 | 2024-03-14 |
 | [Falling](https://open.spotify.com/track/3sfkfL1jjKMSWbPgDr4Bu1) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Falling](https://open.spotify.com/album/7eZtyBYCVpNAh6nRVqWqIu) | 2:57 | 2024-11-13 |  |

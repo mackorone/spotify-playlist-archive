@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: BunnaB
 
-8,346 songs - 18 day 20 hr 4 min
+8,347 songs - 18 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1574,6 +1574,7 @@
 | [Corridor](https://open.spotify.com/track/4Dmjnjl6YTmqGgn6yOZB6y) | [Closebye](https://open.spotify.com/artist/6XZ6Yyn1McxgRoEkKQgpZA) | [Hammer of My Own](https://open.spotify.com/album/4MLUzOkM3lRsRT2ZVQMCAK) | 4:47 | 2024-08-28 | 2024-10-03 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-05-03 | 2023-05-11 |
 | [Could Be Love](https://open.spotify.com/track/2b4kbI0Y23rAKkT5cTE9SZ) | [Poolhouse](https://open.spotify.com/artist/39xTxKuPXu1TfS06onbNVK) | [Could Be Love](https://open.spotify.com/album/4zSRtYOmME93fVb8FlFMBL) | 2:15 | 2025-06-04 |  |
+| [Could Be Love \- Rachel's Version](https://open.spotify.com/track/2vVYNiAWgelj3StUvHvP5m) | [Poolhouse](https://open.spotify.com/artist/39xTxKuPXu1TfS06onbNVK) | [Could Be Love \(Rachel's Version\)](https://open.spotify.com/album/6F224NBaoRAFWG3Sq5xmzk) | 2:15 | 2025-06-09 |  |
 | [Could We, Canvey](https://open.spotify.com/track/52T9NqAlnO3ZlKNrVgc9JU) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Could We, Canvey](https://open.spotify.com/album/2G9fmoZyrM6lQM7qfI8ruH) | 3:18 | 2023-08-16 | 2023-08-24 |
 | [Could You Ever?](https://open.spotify.com/track/6ITKUhLctPRE0lZxgpvw2q) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Could You Ever?](https://open.spotify.com/album/1oAf0VsdPScZk0osrM1IOO) | 3:25 | 2024-05-22 | 2024-06-06 |
 | [Could've Tried](https://open.spotify.com/track/04ZUad18xszxdqExEA6fot) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [Could've Tried](https://open.spotify.com/album/25lIWRIBXxFhStPN2FVoA8) | 2:24 | 2022-09-14 | 2022-09-22 |
@@ -5817,7 +5818,7 @@
 | [Proud of Me](https://open.spotify.com/track/6uIGK6p2c9GQk2AbmKEPFB) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Proud of Me](https://open.spotify.com/album/7JtGRXcNMOInkJ5TCY3WDJ) | 2:55 | 2023-05-24 | 2023-06-01 |
 | [PS](https://open.spotify.com/track/0NzGtxHKcnMIdtxyq2LrE4) | [Fib](https://open.spotify.com/artist/3LHTXIlBaP5EBhqKMpcr7L) | [PS](https://open.spotify.com/album/6S06Bqr1AlxVxiBOBtYgMa) | 2:13 | 2025-03-26 | 2025-05-01 |
 | [Psycho](https://open.spotify.com/track/4t7lpIdS2F527iGYuTZopQ) | [Jonah Roy](https://open.spotify.com/artist/0bhTD2sTUzxTEsgEUTAVQX), [Rome](https://open.spotify.com/artist/5EeWUtYiNzysDoDcISub49) | [Floating Head](https://open.spotify.com/album/4neSleLeckCi30cdozC6U7) | 2:59 | 2022-03-09 | 2022-03-17 |
-| [Psychosis Is Just a Number](https://open.spotify.com/track/4tp82F1ovK0ethVESk2DUs) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Psychosis Is Just a Number](https://open.spotify.com/album/2PZce0l2g4r2oOpKVJM30f) | 3:18 | 2025-05-07 |  |
+| [Psychosis Is Just a Number](https://open.spotify.com/track/4tp82F1ovK0ethVESk2DUs) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Psychosis Is Just a Number](https://open.spotify.com/album/2PZce0l2g4r2oOpKVJM30f) | 3:18 | 2025-05-07 | 2025-06-10 |
 | [PTSD](https://open.spotify.com/track/3h3Xdy3ImUmZh5taf2rHt3) | [Austin Semo](https://open.spotify.com/artist/5058kBFqum9vplpLsp3SdZ) | [PTSD](https://open.spotify.com/album/5pJbraocqWsrCIkEd4UZjF) | 2:26 | 2022-03-02 | 2022-03-10 |
 | [Puddle](https://open.spotify.com/track/6UOdlU2ilVMJRXzJxEYQcG) | [Fetus](https://open.spotify.com/artist/4fb3tegVhFiF0C8hFWMCBA) | [Puddle EP](https://open.spotify.com/album/62KqCVrULH8FBuSRVuwPAj) | 4:03 | 2023-03-22 | 2023-03-30 |
 | [Puede](https://open.spotify.com/track/5xEKWHTBWbG4RNs2zArUjJ) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Puede](https://open.spotify.com/album/40c31u4OVxCxHI0cEg1GPF) | 2:17 | 2023-07-12 | 2023-07-20 |

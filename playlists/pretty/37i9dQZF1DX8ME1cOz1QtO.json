@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 107853,
+  "num_followers": 107914,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -363,38 +363,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Inside The Taj Mahal",
-        "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
-      },
-      "artists": [
-        {
-          "name": "Paul Horn",
-          "url": "https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Mumtaz Mahal",
-      "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 717706,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Inside The Taj Mahal",
+        "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
+      },
+      "artists": [
+        {
+          "name": "Paul Horn",
+          "url": "https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Mumtaz Mahal",
+      "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hergest Ridge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1161586,
-      "name": "Hergest Ridge: Part One - 2010 Stereo Mix",
-      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Oasis [Remastered]",
         "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 489093,
       "name": "Cosmic Energy",
       "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Hergest Ridge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1161586,
+      "name": "Hergest Ridge: Part One - 2010 Stereo Mix",
+      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 141613,
-      "name": "Zen Garden of the Soul Part I",
-      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 290053,
       "name": "Formentera Sunset Clouds",
       "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 141613,
+      "name": "Zen Garden of the Soul Part I",
+      "url": "https://open.spotify.com/track/09s4W3bYDmwotLUgozutls"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Mooncircles",
+        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 90253,
+      "name": "Inner Mood I",
+      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Mooncircles",
-        "url": "https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 90253,
-      "name": "Inner Mood I",
-      "url": "https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Crystal Petals",
-      "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 323693,
       "name": "Processional: Root Chakra",
       "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Crystal Petals",
+      "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Soaring: Crown Chakra",
+      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Spectrum Suite 45th Anniversary Collector's Edition",
         "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "The First Seven Days",
         "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Glide/Star Gazer",
         "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 505733,
       "name": "Glide III",
       "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",

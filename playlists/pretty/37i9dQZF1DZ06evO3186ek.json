@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 159130,
+  "num_followers": 159162,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEOBAAAAAABvK7RGJjC4zH4v8IP4CnHN",
+  "snapshot_id": "aETSgAAAAACa+TNci56Y+m2vbhLCRyDJ",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
-        "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
       "artists": [
         {
@@ -664,21 +664,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 202503,
-      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
-      "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
+      "duration_ms": 272348,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
     },
     {
       "added_at": null,
@@ -711,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
       "artists": [
         {
@@ -720,13 +712,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
         }
       ],
-      "duration_ms": 272348,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE"
+      "duration_ms": 202503,
+      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+      "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
     },
     {
       "added_at": null,

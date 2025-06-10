@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,772 songs - 5 day 0 hr 46 min
+1,773 songs - 5 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2020-05-18 | 2020-10-09 |
 | [I'm Searching](https://open.spotify.com/track/558uChH7Bp7VVQCQSeHPdR) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [I'm Searching](https://open.spotify.com/album/3O2o9gs4lY2kSI61eZU5Nt) | 4:28 | 2021-06-04 | 2022-07-28 |
 | [I've Got You \- Rinzen Remix](https://open.spotify.com/track/1Axey5hNE9LrzRh6pYiJ1c) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [I've Got You \(Remixes\)](https://open.spotify.com/album/06D4xLAeS3RMbsETfFBxl1) | 5:45 | 2020-02-29\* | 2020-03-16 |
+| [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 | 2025-06-06 |  |
 | [Ice Cream](https://open.spotify.com/track/50LG7e8Net7XTAtERiUQ3Q) | [exMAD](https://open.spotify.com/artist/36PpbwDX0Eqbjixfl10N1T) | [Ice Cream](https://open.spotify.com/album/5AQUi03dUpNqjQnSqV7OLI) | 3:13 | 2020-07-03 | 2020-10-09 |
 | [Iceland](https://open.spotify.com/track/1tUWvv0HotBCDNtQsSoLtP) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Petit Biscuit](https://open.spotify.com/album/5jN2QKlCwW7LnA8O8ARURB) | 4:41 | 2020-08-20 | 2020-10-09 |
 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 | 2020-05-22 | 2020-07-03 |
@@ -1567,7 +1568,7 @@
 | [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-12-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 | 2025-05-24 |
-| [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 |  |
+| [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 | 2025-06-10 |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |
 | [The Whistle Song \- Re\-Directed](https://open.spotify.com/track/6wD0LWjn3WZMdLqatEc5vM) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Director's Cut](https://open.spotify.com/artist/0sgCVo8Q7D7zCPZL3TytL0), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Director's Cut Collection](https://open.spotify.com/album/3xVeHKUy4HEdFOH96MeCiG) | 7:57 | 2020-06-12 | 2020-10-09 |

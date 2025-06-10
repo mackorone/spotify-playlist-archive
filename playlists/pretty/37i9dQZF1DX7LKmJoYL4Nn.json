@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 60511,
+  "num_followers": 60523,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-06-09 02:56:26",
       "album": {
+        "name": "Cascade of\u2026\u300cGraceful Punishment\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
+        "url": "https://open.spotify.com/album/1haeoh1yJjIXywnz11CIUT"
+      },
+      "artists": [
+        {
+          "name": "Cascade of\u2026",
+          "url": "https://open.spotify.com/artist/0mMBXmoaSIhqgxkLLsY8UT"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 259871,
+      "name": "Graceful Punishment",
+      "url": "https://open.spotify.com/track/63zae15sg8CriJSruguGuX"
+    },
+    {
+      "added_at": "2025-06-09 02:56:26",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
         "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
       },
@@ -1459,22 +1479,6 @@
       "duration_ms": 148983,
       "name": "\u590f\u9ce5\u306e\u8a69 -\u30b5\u30de\u30fc\u30d0\u30fc\u30c9- - Game Edit",
       "url": "https://open.spotify.com/track/7ILrFq6VkqmCx8LdrXooRL"
-    },
-    {
-      "added_at": "2025-06-09 02:56:26",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d5\u30e9\u30bf\u30cb\u30c6\u30a3\u300c\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7\u300d (Game Edit)",
-        "url": "https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30e9\u30bf\u30cb\u30c6\u30a3/\u6c37\u9df9 \u5317\u6597(CV.\u524d\u91ce \u667a\u662d)\u3001\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u5929\u57ce \u71d0\u97f3(CV.\u963f\u5ea7\u4e0a \u6d0b\u5e73)",
-          "url": "https://open.spotify.com/artist/5bPtVx4Mln56ZipwGTI0ZP"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7 - Game Edit",
-      "url": "https://open.spotify.com/track/1Y3zlrI3V32ljmtFDjPgHY"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

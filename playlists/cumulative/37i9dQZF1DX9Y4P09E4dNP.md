@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Amerado
+> The big Hip\-Life hits rn\. Cover: Gyakie
 
-267 songs - 17 hr 2 min
+268 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Abrantee](https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Abro Ne Bayie](https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0) | 5:01 | 2020-02-20 | 2024-03-05 |
 | [Abuskeleke](https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf) | [Sidney](https://open.spotify.com/artist/50HoBlg3tXmqwF0w4cZVmD) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:24 | 2020-02-20 | 2022-03-18 |
 | [Adom](https://open.spotify.com/track/7riYHpL21B6InKKSmpZwBz) | [KRYMI](https://open.spotify.com/artist/34wXzU4pMFOuQejyLtMWjO) | [Adom](https://open.spotify.com/album/7MoGcLsJi4tM5Ik6Re2WSE) | 3:44 | 2024-04-12 | 2024-04-19 |
+| [Agya](https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Agya](https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn) | 2:18 | 2025-06-09 |  |
 | [Ahomka Wo Mu](https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4), [Tic Tac,Frank Mensah,2\-Tee,Lil Kryz,Abortion](https://open.spotify.com/artist/373YE3CDdFni3txqURZTch) | [Ahomka Womu](https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG) | 5:27 | 2020-02-20 | 2024-03-05 |
 | [Ahomka Womu](https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:30 | 2020-02-20 | 2022-07-28 |
 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 | 2020-02-20 | 2024-03-05 |
@@ -94,7 +95,7 @@
 | [Fighting Spirit](https://open.spotify.com/track/7ksDlYtjVV2KwWqS6RIDW8) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Fighting Spirit](https://open.spotify.com/album/31dAnx3TCyHdTNXLOoO25g) | 3:26 | 2024-06-07 | 2024-06-15 |
 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 | 2022-04-14 | 2024-02-03 |
 | [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 | 2025-03-28 |  |
-| [Fire](https://open.spotify.com/track/5lGt6rkHVoQbqnUUjsDEM4) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fire](https://open.spotify.com/album/3ry6ANZkcZXquT987YlIQr) | 2:51 | 2025-03-31 |  |
+| [Fire](https://open.spotify.com/track/5lGt6rkHVoQbqnUUjsDEM4) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fire](https://open.spotify.com/album/3ry6ANZkcZXquT987YlIQr) | 2:51 | 2025-03-31 | 2025-06-10 |
 | [Fly Girl](https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl](https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli) | 3:14 | 2024-03-15 | 2024-05-03 |
 | [Fly Girl \(feat\. Oseikrom Sikanii\) \- Remix](https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Fly Girl \(feat\. Oseikrom Sikanii\) \[Remix\]](https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG) | 3:15 | 2024-05-03 |  |
 | [For the Popping \(Apicki\)](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping \(Apicki\)](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 | 2024-10-18 |  |

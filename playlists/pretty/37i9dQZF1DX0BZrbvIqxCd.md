@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,234 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,228 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 90 | [Cop Outs and Cover Ups](https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl) | [We Still Dream](https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o) | [Therapy](https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6) | 3:07 |
 | 91 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 |
 | 92 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
-| 93 | [A New Way Home](https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [Overexposed](https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn) | 3:19 |
-| 94 | [Surviving California](https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Surviving California](https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA) | 2:50 |
+| 93 | [Surviving California](https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Surviving California](https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA) | 2:50 |
+| 94 | [A New Way Home](https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [Overexposed](https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn) | 3:19 |
 | 95 | [Nothing](https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Nothing](https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o) | 2:58 |
 | 96 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
 | 97 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
 | 98 | [Daggers](https://open.spotify.com/track/2a3GKu8pQZrcDN5q4mCgNh) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Songs of Armor and Devotion](https://open.spotify.com/album/5OMrKFXc0bOdWuHIYBG3bN) | 4:06 |
 | 99 | [Placement](https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb) | [Letdown](https://open.spotify.com/artist/65Fz4UMimsdL2ktdDOLpej) | [The Bottom](https://open.spotify.com/album/1YZf6wnBIwkvZzNkNTa4ZC) | 3:02 |
-| 100 | [Night of the Knuckleheads](https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [Stay Rad!](https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf) | 1:54 |
+| 100 | [ATM](https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Our Brand Could Be Yr Life](https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1) | 2:40 |
 
 Snapshot ID: `ZppTxgAAAACsQktq+7XDov4dhP5aXB2A`

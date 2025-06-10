@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud —&gt; Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,880 likes - 101 songs - 5 hr 16 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,879 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
+| 1 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
 | 2 | [Hot](https://open.spotify.com/track/43JH7kSN1mH4RDM2ckuF44) | [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Hot](https://open.spotify.com/album/6Zp7nErVr9uOpuorQ9ZZia) | 2:44 |
-| 3 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
+| 3 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
 | 4 | [Pit Stop](https://open.spotify.com/track/0qRDagxLfx0IbZGwWe1yqy) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [Blunt](https://open.spotify.com/album/4zTYEjwiJ1ALL4pQsTTKCn) | 2:48 |
 | 5 | [Mind Games](https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mind Games](https://open.spotify.com/album/6BBcom41AOXWc7K88JpNcM) | 3:19 |
 | 6 | [Just Let Go](https://open.spotify.com/track/5hn6ItyNv3rEwGW7plCEN9) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Rose Motion](https://open.spotify.com/artist/6uyugtkUnBNsMZNGmkj9oX) | [Just Let Go](https://open.spotify.com/album/4Y7bEqHShseBW6bxnOMfJe) | 3:21 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [Power \(feat\. Bipolar Sunshine\) \- Manila Killa Remix](https://open.spotify.com/track/2TlVLE0lnbH0xxHzOLSmfo) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Power \(feat\. Bipolar Sunshine\) \[Remixes\]](https://open.spotify.com/album/4Z1Uc35AUT6obJsquZnI7Q) | 3:34 |
 | 101 | [Operator \(feat\. Rhiannon Roze\)](https://open.spotify.com/track/3MmCyBnjjY0BOpt5BcEbVg) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Operator \(feat\. Rhiannon Roze\)](https://open.spotify.com/album/3r3LD89J1WWZHTfXuGAHOK) | 3:05 |
 
-Snapshot ID: `AAAbsJ856Tk7XZ/z9nNjWMub1h+oV07i`
+Snapshot ID: `AAAbs3AEd9pBnkBg3cF40096hyUBoO/6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,958 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,954 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 28 | [En dag](https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [En Samling 1981 \- 2001](https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9) | 3:18 |
 | 29 | [Sean den förste Banan](https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81) | [Sean Banan](https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q) | [Sean den förste Banan](https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh) | 3:03 |
 | 30 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
-| 31 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
-| 32 | [Where You Are \(Sávežan\)](https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jon Henrik Fjällgren](https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Where You Are \(Sávežan\)](https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE) | 2:56 |
+| 31 | [Where You Are \(Sávežan\)](https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jon Henrik Fjällgren](https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Where You Are \(Sávežan\)](https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE) | 2:56 |
+| 32 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 33 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
 | 34 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
-| 35 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
-| 36 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 |
+| 35 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 |
+| 36 | [Högt över havet](https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [Högt över havet](https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS) | 2:49 |
 | 37 | [E' de' det här du kallar kärlek](https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3) | [Lasse Holm](https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI), [Monica Thörnell](https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA) | [Lasse Holm](https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ) | 2:49 |
 | 38 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 39 | [Amazing](https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Amazing](https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN) | 3:01 |
 | 40 | [Give Me Your Love](https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd) | [Fame](https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6) | [Give Me Your Love](https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR) | 3:02 |
 | 41 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |
-| 42 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
-| 43 | [I Won't Shake \(La La Gunilla\)](https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [I Won't Shake \(La La Gunilla\)](https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC) | 2:59 |
+| 42 | [I Won't Shake \(La La Gunilla\)](https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [I Won't Shake \(La La Gunilla\)](https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC) | 2:59 |
+| 43 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
 | 44 | [Efter solsken](https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [Det blir vad du gör det till](https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs) | 3:10 |
 | 45 | [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 |
 | 46 | [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 |

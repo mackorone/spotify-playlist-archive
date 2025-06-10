@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Teddy Swims",
-  "num_followers": 940533,
+  "num_followers": 940608,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJnyAAAAADjeXV0SiUtjOyLP6yWVIYD",
+  "snapshot_id": "aEb6lwAAAABadlReh7gTB66y8pPRZLaf",
   "tracks": [
     {
       "added_at": "2025-06-06 04:00:08",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
     },
     {
+      "added_at": "2025-06-09 15:15:35",
+      "album": {
+        "name": "The Select",
+        "url": "https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 246141,
+      "name": "Thought It Was Love",
+      "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
+    },
+    {
       "added_at": "2025-05-30 04:00:37",
       "album": {
         "name": "I Can't",
@@ -811,22 +827,6 @@
       "duration_ms": 177760,
       "name": "WHY (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
-    },
-    {
-      "added_at": "2025-05-23 04:00:41",
-      "album": {
-        "name": "The Drama Deluxe (The Encore!)",
-        "url": "https://open.spotify.com/album/4v8tECPR1zq0SjqNwI8wql"
-      },
-      "artists": [
-        {
-          "name": "Spencer Sutherland",
-          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
-        }
-      ],
-      "duration_ms": 140005,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/54TGWoEvjukuZSE2CyRssB"
     },
     {
       "added_at": "2025-05-02 04:00:30",

@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-298 songs - 17 hr 42 min
+301 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 | 2022-06-09 |  |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2025-04-15 |
 | [HOME](https://open.spotify.com/track/19wmQD19yr6piH6Uto8OSm) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [BROWN EYED SOUL 4th Regular Album ‘SOUL COOKE’](https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo) | 4:43 | 2022-05-11 | 2022-07-28 |
-| [Hug Me](https://open.spotify.com/track/6CO1CknptkuC9qTqqEcH51) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Hug Me](https://open.spotify.com/album/4XIj71fGKyl1t5s5yOpgos) | 2:58 | 2025-05-27 |  |
+| [Hug Me](https://open.spotify.com/track/6CO1CknptkuC9qTqqEcH51) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Hug Me](https://open.spotify.com/album/4XIj71fGKyl1t5s5yOpgos) | 2:58 | 2025-05-27 | 2025-06-10 |
 | [I Always Love You](https://open.spotify.com/track/1JbUf8ma0z1xrpQxnJKssz) | [Gu seul i](https://open.spotify.com/artist/58wCBXOmVPsbvDjpjYjl47) | [I Always Love You](https://open.spotify.com/album/3w9XoUYhJaQSxMt9Wf0KPh) | 4:03 | 2022-05-11 | 2022-07-23 |
 | [I Guess I Like You](https://open.spotify.com/track/7IP4kpJo2r5EGvKmQIpjtG) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Poong, the Joseon Psychiatrist OST Part.2](https://open.spotify.com/album/5lwGQdHIQZC8WwQ9eJllNz) | 3:29 | 2022-08-19 | 2022-10-08 |
 | [I Love U Forever](https://open.spotify.com/track/7jTZjdxWKwq495z7mzEvd3) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/4B4acomkAwBoTwBMDPLf1h) | 3:17 | 2022-07-08 | 2022-07-10 |
@@ -149,6 +149,7 @@
 | [Love Song](https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Tale of the Nine Tailed 1938, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP) | 3:09 | 2023-07-07 | 2024-11-04 |
 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-01 |  |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-20 | 2022-07-29 |
+| [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-06-10 |  |
 | [Lover](https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lover](https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT) | 2:49 | 2023-07-07 | 2024-08-11 |
 | [LOVERS](https://open.spotify.com/track/4jENXV8X49X7yZzwCpDJIU) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [Jewelry case](https://open.spotify.com/album/1ALi3pC1MocycJ9h4rzCBM) | 3:47 | 2022-05-11 | 2022-07-21 |
 | [Lovestruck](https://open.spotify.com/track/6XDITtqHGbwGabvBRoVDIV) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [Lovestruck](https://open.spotify.com/album/333YGW1Uy6WEOe79iQi1Yn) | 3:12 | 2025-04-22 | 2025-05-22 |
@@ -201,7 +202,8 @@
 | [Shall we dance tonight](https://open.spotify.com/track/7J7XWKFgpUqiq0sYnm0kBu) | [이정권](https://open.spotify.com/artist/2JTaMLHMmhuALiVj8vpGg9) | [Shall we dance tonight](https://open.spotify.com/album/6alu7CXqzSj3g45f8r8WBv) | 3:25 | 2022-06-13 | 2022-07-03 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 |  |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-20 |  |
-| [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 | 2023-03-28 |  |
+| [Single](https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Single](https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY) | 2:45 | 2023-03-28 | 2025-06-10 |
+| [Slowly, I Fall For you](https://open.spotify.com/track/3othkA3vUpgOBeOyQ7i97z) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Slowly, I Fall For you](https://open.spotify.com/album/1iNg2HlUkxiOcYF8EXO3UG) | 4:54 | 2025-06-10 |  |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2024-08-11 |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-24 | 2023-04-19 |
 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 | 2025-03-26 |  |
@@ -209,7 +211,7 @@
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 | 2022-10-13 | 2024-08-11 |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-20 | 2022-07-27 |
-| [Soulmate](https://open.spotify.com/track/6oFE8nslEP2E7oEqqkCFJm) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Soulmate](https://open.spotify.com/album/4d84IwBDlJx7oY3IL8jaiA) | 3:16 | 2025-05-13 |  |
+| [Soulmate](https://open.spotify.com/track/6oFE8nslEP2E7oEqqkCFJm) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Soulmate](https://open.spotify.com/album/4d84IwBDlJx7oY3IL8jaiA) | 3:16 | 2025-05-13 | 2025-06-10 |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2022-05-11 | 2022-07-29 |
 | [Stand by you](https://open.spotify.com/track/3D7PTQ1lXl2Ni7dophG4of) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Stand By You](https://open.spotify.com/album/1fd8EG7lwkqjs3bRMwyHrx) | 4:21 | 2024-03-08 | 2024-04-03 |
 | [Stand by you](https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 4:21 | 2022-05-11 | 2022-07-28 |
@@ -259,6 +261,7 @@
 | [To you, dear](https://open.spotify.com/track/4T64VKmcDdr6a6idK97103) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [To you, dear](https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ) | 3:25 | 2022-05-11 | 2022-07-28 |
 | [To\. 나의 너에게](https://open.spotify.com/track/2jOQeGOsILKKYMXa4HLeAz) | [Grynia](https://open.spotify.com/artist/2g7hSTAqrLrPg7WrftlckL) | [To\. 나의 너에게](https://open.spotify.com/album/40Fa1grxvhVaL2ikEBc6Ua) | 3:33 | 2022-07-04 | 2022-07-09 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-06-09 | 2022-07-28 |
+| [Today and tomorrow](https://open.spotify.com/track/2Y70hBhGr3EmdqfKYmCWy2) | [Jeon Youl](https://open.spotify.com/artist/1kYbj7A5FZUMq6rpxUuHQO) | [Today and tomorrow](https://open.spotify.com/album/6ncila2imETdoAabjBVBfS) | 3:30 | 2025-06-10 |  |
 | [Travel to You](https://open.spotify.com/track/0dOlBqrhkY7mrfpctthrt3) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Travel to You](https://open.spotify.com/album/2oQ2e7MKbpAYLhPukVO0Qq) | 3:33 | 2022-05-11 | 2022-07-29 |
 | [Trust in Me \(Piano by Cho Youngsoo\)](https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Trust in Me \(Piano by Cho Youngsoo\)](https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy) | 4:01 | 2022-05-11 |  |
 | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO) | [SWAN](https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g) | [Twenty \(Prod\. Jung Key\)](https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq) | 3:39 | 2023-07-07 | 2024-05-09 |

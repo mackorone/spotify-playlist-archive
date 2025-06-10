@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: 엔하이픈 \(ENHYPEN\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: 도영 \(DOYOUNG\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-687 songs - 1 day 13 hr 48 min
+688 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Blind](https://open.spotify.com/track/6WjOw0KjfTtLM9VYm3CFYh) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [BLIND](https://open.spotify.com/album/2HCVBzFcSE6NU7C2HIahqx) | 3:28 | 2022-03-31 | 2022-05-24 |
 | [BLIND FOR LOVE](https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:36 | 2022-03-31 | 2022-04-18 |
 | [Blue Flame](https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [BLUE FLAME](https://open.spotify.com/album/4fjvLKlsbalQp5Z8gDpk4l) | 3:14 | 2021-12-08 | 2022-07-27 |
-| [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2021-12-08 |  |
+| [Blue Hour](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:29 | 2021-12-08 | 2025-06-10 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-03 | 2022-04-07 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-11 | 2024-04-24 |
 | [Boogie Man](https://open.spotify.com/track/0aAXKcYMXMfWXwWoRgcIma) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Boogie Man](https://open.spotify.com/album/31nJ079frWEmOsFtYepjdw) | 3:27 | 2023-12-06 | 2023-12-13 |
@@ -254,7 +254,7 @@
 | [Golden \(feat\. XIAOJUN of WayV, pH\-1\)](https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:18 | 2022-03-22 | 2022-04-17 |
 | [Gone](https://open.spotify.com/track/7bvE43XnhZncVwLRY3abGp) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [CURTAIN CALL](https://open.spotify.com/album/16TGHVXVMsIJu1cNUsK71E) | 3:19 | 2024-08-08 | 2024-08-24 |
 | [GOOD BAM](https://open.spotify.com/track/2iODlZgbroRzdfuxmFfPiH) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [YAHO](https://open.spotify.com/album/54lrjzd3nWqD8JxSERPlBN) | 3:30 | 2021-12-08 | 2022-04-20 |
-| [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2025-06-06 |
+| [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 |  |
 | [Good Enough](https://open.spotify.com/track/3N4tXBhKONZAFWIEZgFwPk) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 1\. \[Good Enough\]](https://open.spotify.com/album/3hfI6iAFZCjWXI08xJFIcH) | 3:29 | 2024-03-26 | 2024-04-06 |
 | [Good Evening](https://open.spotify.com/track/3mjfQvA5gAV6XnH0ZWnIyI) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:43 | 2021-12-08 | 2022-07-27 |
 | [Good Guy](https://open.spotify.com/track/52Ympobu59UXxyhdCUww1y) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [FIRST COLLECTION](https://open.spotify.com/album/6OWLP5aWafuctNQoJka9LQ) | 3:13 | 2021-12-08 | 2022-07-27 |
@@ -264,7 +264,7 @@
 | [Graduation Day](https://open.spotify.com/track/1vvewlmtfPsBxEAA1UIXPw) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Graduation Day](https://open.spotify.com/album/57g5zmujXL2trR2lzBAe5e) | 3:14 | 2024-02-05 | 2024-02-27 |
 | [Gravity](https://open.spotify.com/track/4HgkahWUngIceLYNV1djsr) | [TREI](https://open.spotify.com/artist/2olRUnJBxMWrHpShDSwYoe) | [BORN](https://open.spotify.com/album/4yFUqAksHb5fEogC57WDxP) | 3:12 | 2022-03-31 | 2022-04-10 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
-| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 |  |
+| [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2025-06-10 |
 | [H! TEEN](https://open.spotify.com/track/1hYMSd05OHbOSjQ3aWh0g4) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Our : YouthTeen](https://open.spotify.com/album/6oYjYDCYOXcPUBc7nk9Gto) | 2:59 | 2024-02-14 | 2024-02-27 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 | 2024-04-19 |
 | [Happy &](https://open.spotify.com/track/4BSI3iOdmxln8gOjatYJhD) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 2nd MINI ALBUM 'Happy &'](https://open.spotify.com/album/0zeyYNgBaggs3d0AT8lGO4) | 3:09 | 2024-02-26 | 2024-03-06 |
@@ -411,6 +411,7 @@
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 | 2024-10-26 |
 | [Memento](https://open.spotify.com/track/5BuvRDep3503zAgrOvfalf) | [IZ](https://open.spotify.com/artist/4XiZ3nAGoPv8K8IMktGc3b) | [Memento](https://open.spotify.com/album/3msXwm2ApxwHTjJNeCOosf) | 3:59 | 2022-03-22 | 2022-04-18 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 | 2025-01-14 |
+| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-09 |  |
 | [Midnight Sun](https://open.spotify.com/track/1o6OdD35Z7A1qtgIQKIWdg) | [Seven O'Clock](https://open.spotify.com/artist/4NeKLW82adFCE8Y6r50X1E) | [White Night](https://open.spotify.com/album/5mkUMTAVUZfE1zTkfI62EN) | 3:42 | 2022-03-22 | 2022-04-18 |
 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 | 2022-07-27 | 2023-05-31 |
 | [MIROH](https://open.spotify.com/track/4WuKHgxdCJsaOBIh7yndty) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/79Bjt5oUy1183RJw1bJyF5) | 3:27 | 2022-01-14 | 2022-04-10 |

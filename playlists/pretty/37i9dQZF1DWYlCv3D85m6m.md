@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,231 likes - 169 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,271 likes - 169 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

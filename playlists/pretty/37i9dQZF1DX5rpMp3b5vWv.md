@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 
 > Game time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,401 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,461 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 4 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 | 5 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
 | 6 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
-| 7 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 |
+| 7 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 |
 | 8 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
-| 9 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 |
+| 9 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 |
 | 10 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 11 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 |
 | 12 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 32 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 |
 | 33 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
 | 34 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
-| 35 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
-| 36 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
+| 35 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
+| 36 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
 | 37 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
 | 38 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
 | 39 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |

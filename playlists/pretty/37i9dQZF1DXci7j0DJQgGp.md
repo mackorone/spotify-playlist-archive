@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746,241 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,745,968 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 16 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 |
 | 17 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 18 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
-| 19 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
-| 20 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
+| 19 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
+| 20 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 | 21 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 22 | [I See Myself](https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:00 |
 | 23 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 73 | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/album/4sZmMxrfujVWfFtYk6tfXH) | 4:26 |
 | 74 | [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 |
 | 75 | [Light Blue](https://open.spotify.com/track/1arhLLK6PZNd5g4OupOJyZ) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:34 |
-| 76 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
-| 77 | [Dramamine](https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:57 |
-| 78 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
+| 76 | [Dramamine](https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 2:57 |
+| 77 | [Me Before You](https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Me Before You](https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE) | 3:23 |
+| 78 | [Fool](https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Fool](https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb) | 2:54 |
 | 79 | [Outside the Outside](https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 5:12 |
 | 80 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 |
 | 81 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 93 | [Joy'All](https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:44 |
 | 94 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 |
 | 95 | [Grace](https://open.spotify.com/track/6w6rXsCnYcvDcHU6GMq8fZ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 4:13 |
-| 96 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
-| 97 | [Photographs](https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Photographs](https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J) | 3:18 |
+| 96 | [Photographs](https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Photographs](https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J) | 3:18 |
+| 97 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 | 98 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
 | 99 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
 | 100 | [Is It Real \- Acoustic](https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Two Lives EP](https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC) | 2:47 |

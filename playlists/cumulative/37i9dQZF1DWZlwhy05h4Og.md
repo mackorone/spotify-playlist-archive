@@ -2,7 +2,7 @@
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: Kylie Cantrell
+> The sweetest bops\. Cover: no na
 
 225 songs - 11 hr 7 min
 

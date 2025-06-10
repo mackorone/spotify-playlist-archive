@@ -645,6 +645,32 @@
     },
     {
       "album": {
+        "name": "Kaathal Maari",
+        "url": "https://open.spotify.com/album/3qus9fEFuqdeDVATJuiEnQ"
+      },
+      "artists": [
+        {
+          "name": "Manas Krishna",
+          "url": "https://open.spotify.com/artist/0yWITsEN8nik0wQA5BoxVU"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196144,
+      "name": "Kaathal Maari",
+      "url": "https://open.spotify.com/track/3tnaBKfA1AjFMS6P5vTI95"
+    },
+    {
+      "album": {
         "name": "Kalapakkaara (From \"King of Kotha\")",
         "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
       },
@@ -1104,7 +1130,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-10",
       "duration_ms": 170678,
       "name": "Marpapa (From \"Marco\")",
       "url": "https://open.spotify.com/track/3wy1CWZIb89ajMdd2SiFM3"
